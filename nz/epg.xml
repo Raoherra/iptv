@@ -3702,6 +3702,9 @@
   <programme channel="tv.11" start="20180323080000 +0000" stop="20180323084500 +0000">
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Josh Thomson, Ben Hurley, Nick Cody and Mel Bracewell.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180323084500 +0000" stop="20180323091500 +0000">
     <title>Fail Army</title>
@@ -3843,7 +3846,10 @@
   </programme>
   <programme channel="tv.11" start="20180324060000 +0000" stop="20180324065500 +0000">
     <title>Survivor: Ghost Island</title>
-    <desc>New Episode. Brand new episode of Survivor Ghost Island fast-tracked from the States. S36 Ep5</desc>
+    <desc>New Episode. One castaway attempts to rekindle relationships after duping their tribe. S36 Ep5</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -3895,7 +3901,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180324173000 +0000" stop="20180324180000 +0000">
-    <title>Brian Houston</title>
+    <title>Brian Houston @ Hillsong TV 164</title>
     <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -3931,7 +3937,7 @@
     <desc>Mihingarangi Forbes presents a compelling mix of current affairs investigations, human interest and arts and culture stories.</desc>
   </programme>
   <programme channel="tv.11" start="20180324210000 +0000" stop="20180324220500 +0000">
-    <title>Newshub Nation</title>
+    <title>Newshub Nation (Encore)</title>
     <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
   </programme>
   <programme channel="tv.11" start="20180324220500 +0000" stop="20180324225500 +0000">
@@ -4022,7 +4028,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180325110500 +0000" stop="20180325120500 +0000">
-    <title>Entertainment Tonight Weekend</title>
+    <title>Entertainment Tonight Weekend (Encore)</title>
     <desc>A wrap up of the biggest entertainment stories of the last week.</desc>
     <rating system="Freeview">
       <value>PGR</value>
@@ -4057,14 +4063,14 @@
     <desc></desc>
   </programme>
   <programme channel="tv.11" start="20180325223000 +0000" stop="20180325230000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.11" start="20180325230000 +0000" stop="20180325233000 +0000">
-    <title>Family Feud Australia</title>
+    <title>Family Feud Australia (Encore)</title>
     <desc>It's the Australian version of Family Feud. Watch Aussie families battle against each other, answering questions that have been put to 100 people to determine the most popular responses.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -4078,7 +4084,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180326003000 +0000" stop="20180326020000 +0000">
-    <title>Married At First Sight Australia</title>
+    <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. In an epic start to the Vow Renewal ceremonies, we see the first two couples make the life-changing decision; whether they have chosen to stay with their partner. S5 Ep29</desc>
     <rating system="Freeview">
       <value>PGR</value>
@@ -4120,6 +4126,9 @@
   <programme channel="tv.11" start="20180326063000 +0000" stop="20180326080500 +0000">
     <title>Married At First Sight Australia</title>
     <desc>New Episode. The remaining couples decide whether or not to renew their vows. S5 Ep30</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180326080500 +0000" stop="20180326090000 +0000">
     <title>9-1-1</title>
@@ -4143,11 +4152,11 @@
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
   <programme channel="tv.11" start="20180326100000 +0000" stop="20180326103000 +0000">
-    <title>The Hui</title>
+    <title>The Hui (Encore)</title>
     <desc>Mihingarangi Forbes presents a compelling mix of current affairs investigations, human interest and arts and culture stories.</desc>
   </programme>
   <programme channel="tv.11" start="20180326103000 +0000" stop="20180326114000 +0000">
-    <title>Newshub Nation</title>
+    <title>Newshub Nation (Encore)</title>
     <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
   </programme>
   <programme channel="tv.11" start="20180326114000 +0000" stop="20180326160000 +0000">
@@ -4206,6 +4215,9 @@
   <programme channel="tv.11" start="20180327003000 +0000" stop="20180327020000 +0000">
     <title>Married At First Sight Australia</title>
     <desc>New Episode. The remaining couples decide whether or not to renew their vows. S5 Ep30</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180327020000 +0000" stop="20180327023000 +0000">
     <title>Entertainment Tonight</title>
@@ -4503,7 +4515,7 @@
   </programme>
   <programme channel="tv.11" start="20180329070000 +0000" stop="20180329073000 +0000">
     <title>All New Modern Family</title>
-    <desc>New episodes of Modern Family are fast-tracked from the States. S9 Ep17</desc>
+    <desc>New Episode. Haley's astrophysicist boyfriend comes to meet the family, setting Claire and Phil off in a competition about which one of them is smarter. Mitch and Cam go on a yoga retreat. S9 Ep17</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -5510,6 +5522,9 @@
   <programme channel="tv.12" start="20180327090000 +0000" stop="20180327095800 +0000">
     <title>Snapped</title>
     <desc>A 17-year relationship ends in gunfire, leaving two children fatherless as cops ask - was it self-defence or was it an act of jealousy?</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180327095800 +0000" stop="20180327100000 +0000">
     <title>The Dish</title>
@@ -5548,43 +5563,43 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180327212500 +0000" stop="20180327215300 +0000">
+  <programme channel="tv.12" start="20180327212500 +0000" stop="20180327214800 +0000">
     <title>Say Yes To The Dress Atlanta</title>
     <desc>Breast cancer survivor Sonja feels her fianc‚ has already stuck with her for better or worse and should certainly be a part of picking out her wedding dress. S2 Ep18</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180327215300 +0000" stop="20180327215500 +0000">
+  <programme channel="tv.12" start="20180327214800 +0000" stop="20180327215000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
   </programme>
-  <programme channel="tv.12" start="20180327215500 +0000" stop="20180327224500 +0000">
+  <programme channel="tv.12" start="20180327215000 +0000" stop="20180327224000 +0000">
     <title>David Tutera: Celebrations</title>
     <desc>Reality TV royalty Heidi and Spencer task David with throwing a college graduation party for Spencer. But will David be able to rein in and please this notorious bad boy?</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180327224500 +0000" stop="20180327233800 +0000">
+  <programme channel="tv.12" start="20180327224000 +0000" stop="20180327233300 +0000">
     <title>Snapped</title>
     <desc>The poisoning of a prominent cancer researcher raises scandalous questions about one of his co-workers. S16 Ep12</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180327233800 +0000" stop="20180327234000 +0000">
+  <programme channel="tv.12" start="20180327233300 +0000" stop="20180327233500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
   </programme>
-  <programme channel="tv.12" start="20180327234000 +0000" stop="20180328003500 +0000">
+  <programme channel="tv.12" start="20180327233500 +0000" stop="20180328003000 +0000">
     <title>Real Housewives Of New York City</title>
     <desc>The ladies participate in a marriage-equality march over the Brooklyn Bridge. S4 Ep2</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180328003500 +0000" stop="20180328012800 +0000">
+  <programme channel="tv.12" start="20180328003000 +0000" stop="20180328012800 +0000">
     <title>Dating Naked</title>
     <desc>Natalie's new dates, a sexy male exotic dancer named Magic J. and a tall ginger named Drew try to steal her away from her Keeper. David grows jealous of Natalie's connections.</desc>
     <rating system="Freeview">
@@ -5595,32 +5610,32 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
   </programme>
-  <programme channel="tv.12" start="20180328013000 +0000" stop="20180328031000 +0000">
+  <programme channel="tv.12" start="20180328013000 +0000" stop="20180328030000 +0000">
     <title>The Real Housewives Of Melbourne</title>
     <desc>Temperatures soar as the Real Housewives of Melbourne reunite for a fiery reunion that is sure to set tongues wagging.</desc>
   </programme>
-  <programme channel="tv.12" start="20180328031000 +0000" stop="20180328040500 +0000">
+  <programme channel="tv.12" start="20180328030000 +0000" stop="20180328040000 +0000">
     <title>How Do I Look?</title>
     <desc>Jenny's too-tiny clothing - including tops borrowed from her daughter - is too revealing, causing problems finding work and setting a bad example for her daughters.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180328040500 +0000" stop="20180328043500 +0000">
+  <programme channel="tv.12" start="20180328040000 +0000" stop="20180328043000 +0000">
     <title>Say Yes To The Dress Atlanta</title>
     <desc>Two brides, a pro dancer who can't commit to a dress and a pageant queen with her own team of finicky judges, struggle to find their dream dresses. S3 Ep2</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180328043500 +0000" stop="20180328053500 +0000">
+  <programme channel="tv.12" start="20180328043000 +0000" stop="20180328053000 +0000">
     <title>Love It Or List It: Vancouver</title>
     <desc>Stephanie and Nick juggle home-based businesses and two children in a tiny, dated home. Can Jillian sway Nick with a design overhaul or will Todd pry Stephanie from her life-long neighbourhood?</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180328053500 +0000" stop="20180328063000 +0000">
+  <programme channel="tv.12" start="20180328053000 +0000" stop="20180328063000 +0000">
     <title>David Tutera: Celebrations</title>
     <desc>David's hired to throw this movie star a three-in-one party that's a housewarming, birthday and lingerie launch but her home that turns out to be half the size he was expecting!</desc>
     <rating system="Freeview">
@@ -11033,6 +11048,9 @@
   <programme channel="tv.27" start="20180323090000 +0000" stop="20180323094500 +0000">
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Josh Thomson, Ben Hurley, Nick Cody and Mel Bracewell.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180323094500 +0000" stop="20180323101500 +0000">
     <title>Fail Army</title>
@@ -11159,7 +11177,7 @@
   </programme>
   <programme channel="tv.27" start="20180324070000 +0000" stop="20180324075500 +0000">
     <title>Survivor: Ghost Island</title>
-    <desc>New Episode. Brand new episode of Survivor Ghost Island fast-tracked from the States. S36 Ep5</desc>
+    <desc>New Episode. One castaway attempts to rekindle relationships after duping their tribe. S36 Ep5</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -11205,7 +11223,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180324183000 +0000" stop="20180324190000 +0000">
-    <title>Brian Houston</title>
+    <title>Brian Houston @ Hillsong TV 164</title>
     <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -11241,7 +11259,7 @@
     <desc>Mihingarangi Forbes presents a compelling mix of current affairs investigations, human interest and arts and culture stories.</desc>
   </programme>
   <programme channel="tv.27" start="20180324220000 +0000" stop="20180324230500 +0000">
-    <title>Newshub Nation</title>
+    <title>Newshub Nation (Encore)</title>
     <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
   </programme>
   <programme channel="tv.27" start="20180324230500 +0000" stop="20180324235500 +0000">
@@ -11329,7 +11347,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180325120500 +0000" stop="20180325130500 +0000">
-    <title>Entertainment Tonight Weekend</title>
+    <title>Entertainment Tonight Weekend (Encore)</title>
     <desc>A wrap up of the biggest entertainment stories of the last week.</desc>
     <rating system="Freeview">
       <value>PGR</value>
@@ -11364,14 +11382,14 @@
     <desc></desc>
   </programme>
   <programme channel="tv.27" start="20180325233000 +0000" stop="20180326000000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.27" start="20180326000000 +0000" stop="20180326003000 +0000">
-    <title>Family Feud Australia</title>
+    <title>Family Feud Australia (Encore)</title>
     <desc>It's the Australian version of Family Feud. Watch Aussie families battle against each other, answering questions that have been put to 100 people to determine the most popular responses.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -11385,7 +11403,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180326013000 +0000" stop="20180326030000 +0000">
-    <title>Married At First Sight Australia</title>
+    <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. In an epic start to the Vow Renewal ceremonies, we see the first two couples make the life-changing decision; whether they have chosen to stay with their partner. S5 Ep29</desc>
     <rating system="Freeview">
       <value>PGR</value>
@@ -11427,6 +11445,9 @@
   <programme channel="tv.27" start="20180326073000 +0000" stop="20180326090500 +0000">
     <title>Married At First Sight Australia</title>
     <desc>New Episode. The remaining couples decide whether or not to renew their vows. S5 Ep30</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180326090500 +0000" stop="20180326100000 +0000">
     <title>9-1-1</title>
@@ -11447,11 +11468,11 @@
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
   <programme channel="tv.27" start="20180326110000 +0000" stop="20180326113000 +0000">
-    <title>The Hui</title>
+    <title>The Hui (Encore)</title>
     <desc>Mihingarangi Forbes presents a compelling mix of current affairs investigations, human interest and arts and culture stories.</desc>
   </programme>
   <programme channel="tv.27" start="20180326113000 +0000" stop="20180326124000 +0000">
-    <title>Newshub Nation</title>
+    <title>Newshub Nation (Encore)</title>
     <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
   </programme>
   <programme channel="tv.27" start="20180326124000 +0000" stop="20180326170000 +0000">
@@ -11510,6 +11531,9 @@
   <programme channel="tv.27" start="20180327013000 +0000" stop="20180327030000 +0000">
     <title>Married At First Sight Australia</title>
     <desc>New Episode. The remaining couples decide whether or not to renew their vows. S5 Ep30</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180327030000 +0000" stop="20180327033000 +0000">
     <title>Entertainment Tonight</title>
@@ -11801,7 +11825,7 @@
   </programme>
   <programme channel="tv.27" start="20180329080000 +0000" stop="20180329083000 +0000">
     <title>All New Modern Family</title>
-    <desc>New episodes of Modern Family are fast-tracked from the States. S9 Ep17</desc>
+    <desc>New Episode. Haley's astrophysicist boyfriend comes to meet the family, setting Claire and Phil off in a competition about which one of them is smarter. Mitch and Cam go on a yoga retreat. S9 Ep17</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -12766,6 +12790,9 @@
   <programme channel="tv.30" start="20180327100000 +0000" stop="20180327105800 +0000">
     <title>Snapped</title>
     <desc>A 17-year relationship ends in gunfire, leaving two children fatherless as cops ask - was it self-defence or was it an act of jealousy?</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180327105800 +0000" stop="20180327110000 +0000">
     <title>The Dish</title>
@@ -12804,43 +12831,43 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180327222500 +0000" stop="20180327225300 +0000">
+  <programme channel="tv.30" start="20180327222500 +0000" stop="20180327224800 +0000">
     <title>Say Yes To The Dress Atlanta</title>
     <desc>Breast cancer survivor Sonja feels her fianc‚ has already stuck with her for better or worse and should certainly be a part of picking out her wedding dress. S2 Ep18</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180327225300 +0000" stop="20180327225500 +0000">
+  <programme channel="tv.30" start="20180327224800 +0000" stop="20180327225000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
   </programme>
-  <programme channel="tv.30" start="20180327225500 +0000" stop="20180327234500 +0000">
+  <programme channel="tv.30" start="20180327225000 +0000" stop="20180327234000 +0000">
     <title>David Tutera: Celebrations</title>
     <desc>Reality TV royalty Heidi and Spencer task David with throwing a college graduation party for Spencer. But will David be able to rein in and please this notorious bad boy?</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180327234500 +0000" stop="20180328003800 +0000">
+  <programme channel="tv.30" start="20180327234000 +0000" stop="20180328003300 +0000">
     <title>Snapped</title>
     <desc>The poisoning of a prominent cancer researcher raises scandalous questions about one of his co-workers. S16 Ep12</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180328003800 +0000" stop="20180328004000 +0000">
+  <programme channel="tv.30" start="20180328003300 +0000" stop="20180328003500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
   </programme>
-  <programme channel="tv.30" start="20180328004000 +0000" stop="20180328013500 +0000">
+  <programme channel="tv.30" start="20180328003500 +0000" stop="20180328013000 +0000">
     <title>Real Housewives Of New York City</title>
     <desc>The ladies participate in a marriage-equality march over the Brooklyn Bridge. S4 Ep2</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180328013500 +0000" stop="20180328022800 +0000">
+  <programme channel="tv.30" start="20180328013000 +0000" stop="20180328022800 +0000">
     <title>Dating Naked</title>
     <desc>Natalie's new dates, a sexy male exotic dancer named Magic J. and a tall ginger named Drew try to steal her away from her Keeper. David grows jealous of Natalie's connections.</desc>
     <rating system="Freeview">
@@ -12851,32 +12878,32 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
   </programme>
-  <programme channel="tv.30" start="20180328023000 +0000" stop="20180328041000 +0000">
+  <programme channel="tv.30" start="20180328023000 +0000" stop="20180328040000 +0000">
     <title>The Real Housewives Of Melbourne</title>
     <desc>Temperatures soar as the Real Housewives of Melbourne reunite for a fiery reunion that is sure to set tongues wagging.</desc>
   </programme>
-  <programme channel="tv.30" start="20180328041000 +0000" stop="20180328050500 +0000">
+  <programme channel="tv.30" start="20180328040000 +0000" stop="20180328050000 +0000">
     <title>How Do I Look?</title>
     <desc>Jenny's too-tiny clothing - including tops borrowed from her daughter - is too revealing, causing problems finding work and setting a bad example for her daughters.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180328050500 +0000" stop="20180328053500 +0000">
+  <programme channel="tv.30" start="20180328050000 +0000" stop="20180328053000 +0000">
     <title>Say Yes To The Dress Atlanta</title>
     <desc>Two brides, a pro dancer who can't commit to a dress and a pageant queen with her own team of finicky judges, struggle to find their dream dresses. S3 Ep2</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180328053500 +0000" stop="20180328063500 +0000">
+  <programme channel="tv.30" start="20180328053000 +0000" stop="20180328063000 +0000">
     <title>Love It Or List It: Vancouver</title>
     <desc>Stephanie and Nick juggle home-based businesses and two children in a tiny, dated home. Can Jillian sway Nick with a design overhaul or will Todd pry Stephanie from her life-long neighbourhood?</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180328063500 +0000" stop="20180328073000 +0000">
+  <programme channel="tv.30" start="20180328063000 +0000" stop="20180328073000 +0000">
     <title>David Tutera: Celebrations</title>
     <desc>David's hired to throw this movie star a three-in-one party that's a housewarming, birthday and lingerie launch but her home that turns out to be half the size he was expecting!</desc>
     <rating system="Freeview">
@@ -15487,11 +15514,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.51" start="20180329200000 +0000" stop="20180329210000 +0000">
-    <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Pop Princesses</desc>
-  </programme>
-  <programme channel="tv.51" start="20180329210000 +0000" stop="20180329220000 +0000">
+  <programme channel="tv.51" start="20180329200000 +0000" stop="20180329220000 +0000">
     <title>All The Hits</title>
     <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
     <rating system="Freeview">
@@ -15503,8 +15526,11 @@
     <desc></desc>
   </programme>
   <programme channel="tv.51" start="20180330030000 +0000" stop="20180330040000 +0000">
-    <title>Daily Feed</title>
-    <desc></desc>
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.51" start="20180330040000 +0000" stop="20180330043000 +0000">
     <title>The Edge 30 Frontrunners</title>
@@ -22619,15 +22645,15 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180323193000 +0000" stop="20180323203000 +0000">
-    <title>Berkshire Blankets</title>
-    <desc>Stumble into bed and slumber through the night with luxuriously soft and incredibly more-ish Berkshire Blankets. Nothing beats material you can feel yourself melting into.</desc>
+    <title>BOSE Premium Sound</title>
+    <desc>Unbelievable, epic audio technology: BOSE is the choice of professionals! Update your home entertainment with this prestigious brand and experience seriously good sound. Shop the range today on TVSN!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180323203000 +0000" stop="20180323213000 +0000">
-    <title>Enjoy Decorative Lighting</title>
-    <desc>Soften your décor with mood lighting! Enjoy lighting is a range of LED -powered candles, with a super-realistic melted edge and flame-like flicker. Shop the huge range of colours and sizes today!</desc>
+    <title>Vitamin C Cleansing Showers</title>
+    <desc>Chlorine in harsh tap water may irritate and dry out your skin. The Vitamin C Shower Infuser emits fine amounts of Vitamin C to help neutralise chlorine and improve the quality of your shower.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -22661,15 +22687,15 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180324013000 +0000" stop="20180324023000 +0000">
-    <title>Tefal Cuisine Companion</title>
-    <desc>Steam, chop, knead or blend? the possibilities are endless with the NEW Tefal Cooking Companion! Watch as we whip up your favourites using this clever companion?s automatic programs and 11 functions.</desc>
+    <title>SKIM GUARD RFID Protection</title>
+    <desc>Stop people from reading your credit cards, passport, and other sensitive information with the Skim Guard RFID Protection! Guard against identity theft with RFID blocking technology and feel safe.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180324023000 +0000" stop="20180324033000 +0000">
-    <title>Berkshire Blankets</title>
-    <desc>Stumble into bed and slumber through the night with luxuriously soft and incredibly more-ish Berkshire Blankets. Nothing beats material you can feel yourself melting into.</desc>
+    <title>DELUXE Massage Chair</title>
+    <desc>Indulge in full body relaxation with your own massage chair! Choose from a variety of massage styles, pressures and areas to help loosen tight, knotted muscles and improve circulation.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -22689,15 +22715,15 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180324053000 +0000" stop="20180324063000 +0000">
-    <title>Enjoy Decorative Lighting</title>
-    <desc>Soften your décor with mood lighting! Enjoy lighting is a range of LED -powered candles, with a super-realistic melted edge and flame-like flicker. Shop the huge range of colours and sizes today!</desc>
+    <title>Philips TURBO Airfryer</title>
+    <desc>Make light work of kitchen tasks with the Philips TURBO Airfryer and discover healthy frying and delicious meals with this compact yet powerful appliance. Buy today and get $50 CASHBACK!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180324063000 +0000" stop="20180324073000 +0000">
-    <title>iRobot Robotic Vacuum</title>
-    <desc>Step into the future with iRobot! Be swept off your feet with innovative and effective cleaning from your iRobot robot vacuum.</desc>
+    <title>DELUXE Massage Chair</title>
+    <desc>Indulge in full body relaxation with your own massage chair! Choose from a variety of massage styles, pressures and areas to help loosen tight, knotted muscles and improve circulation.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -22738,8 +22764,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180324123000 +0000" stop="20180324133000 +0000">
-    <title>iRobot Robotic Vacuum</title>
-    <desc>Step into the future with iRobot! Be swept off your feet with innovative and effective cleaning from your iRobot robot vacuum.</desc>
+    <title>Philips TURBO Airfryer</title>
+    <desc>Make light work of kitchen tasks with the Philips TURBO Airfryer and discover healthy frying and delicious meals with this compact yet powerful appliance. Buy today and get $50 CASHBACK!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -22752,8 +22778,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180324143000 +0000" stop="20180324153000 +0000">
-    <title>Tefal Cuisine Companion</title>
-    <desc>Steam, chop, knead or blend? the possibilities are endless with the NEW Tefal Cooking Companion! Watch as we whip up your favourites using this clever companion?s automatic programs and 11 functions.</desc>
+    <title>Mr Drive In Outdoor Theatre</title>
+    <desc>Its time for a homewares overhaul! From nifty innovations to decor style statements, weve got something to refresh and revive every room of the house.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -22808,7 +22834,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180324223000 +0000" stop="20180324233000 +0000">
-    <title>NEW SkinSense Skincare</title>
+    <title>SkinSense Skincare</title>
     <desc>SkinSense By Abi Cleeve can leave skin intensly hydrated and has a long lasting effect.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -22816,7 +22842,7 @@
   </programme>
   <programme channel="tv.45" start="20180324233000 +0000" stop="20180325003000 +0000">
     <title>Pureairssentials Air Diffusers</title>
-    <desc>Make your home feel magical &amp; enchanting with Pureairesentials Air Purifiers. These unique, compact machines will help provide cleaner air and a healthier living environment for you &amp; your family.</desc>
+    <desc>Make your home feel magical and enchanting with Pureairesentials Air Purifiers. These unique, compact machines will help provide cleaner air and a healthier living environment for you &amp; your family.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -22850,7 +22876,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180325043000 +0000" stop="20180325053000 +0000">
-    <title>NEW SkinSense Skincare</title>
+    <title>SkinSense Skincare</title>
     <desc>SkinSense By Abi Cleeve can leave skin intensly hydrated and has a long lasting effect.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -22892,7 +22918,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180325103000 +0000" stop="20180325113000 +0000">
-    <title>NEW SkinSense Skincare</title>
+    <title>SkinSense Skincare</title>
     <desc>SkinSense By Abi Cleeve can leave skin intensly hydrated and has a long lasting effect.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -22900,13 +22926,13 @@
   </programme>
   <programme channel="tv.45" start="20180325113000 +0000" stop="20180325123000 +0000">
     <title>Pureairssentials Air Diffusers</title>
-    <desc>Make your home feel magical &amp; enchanting with Pureairesentials Air Purifiers. These unique, compact machines will help provide cleaner air and a healthier living environment for you &amp; your family.</desc>
+    <desc>Make your home feel magical and enchanting with Pureairesentials Air Purifiers. These unique, compact machines will help provide cleaner air and a healthier living environment for you &amp; your family.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180325123000 +0000" stop="20180325133000 +0000">
-    <title>NEW Philips Ironing CASHBACK</title>
+    <title>Philips Ironing CASHBACK</title>
     <desc>Treat yourself to some retail therapy without even leaving the house! With 24/7 service, quality assured products and a 30 day money back guarantee, there is no shopping experience quite like TVSN!</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -22927,14 +22953,14 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180325153000 +0000" stop="20180325163000 +0000">
-    <title>Pure Living Solutions</title>
-    <desc>Using innovative silicon suction technology, Pure Living brings you a holder design that requires no drills or tools to attach to most smooth surfaces. It's easily installed and can hold up to 10kg.</desc>
+    <title>Philips TURBO Airfryer</title>
+    <desc>Make light work of kitchen tasks with the Philips TURBO Airfryer and discover healthy frying and delicious meals with this compact yet powerful appliance. Buy today and get $50 CASHBACK!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180325163000 +0000" stop="20180325173000 +0000">
-    <title>NEW SkinSense Skincare</title>
+    <title>SkinSense Skincare</title>
     <desc>SkinSense By Abi Cleeve can leave skin intensly hydrated and has a long lasting effect.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -22962,7 +22988,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180325203000 +0000" stop="20180325213000 +0000">
-    <title>NEW SkinSense Skincare</title>
+    <title>SkinSense Skincare</title>
     <desc>SkinSense By Abi Cleeve can leave skin intensly hydrated and has a long lasting effect.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -22990,7 +23016,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180326003000 +0000" stop="20180326013000 +0000">
-    <title>NEW SkinSense Skincare</title>
+    <title>SkinSense Skincare</title>
     <desc>SkinSense By Abi Cleeve can leave skin intensly hydrated and has a long lasting effect.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -23004,8 +23030,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180326023000 +0000" stop="20180326033000 +0000">
-    <title>NEW Philips Ironing CASHBACK</title>
-    <desc>Treat yourself to some retail therapy without even leaving the house! With 24/7 service, quality assured products and a 30 day money back guarantee, there is no shopping experience quite like TVSN!</desc>
+    <title>Philips TURBO Airfryer</title>
+    <desc>Make light work of kitchen tasks with the Philips TURBO Airfryer and discover healthy frying and delicious meals with this compact yet powerful appliance. Buy today and get $50 CASHBACK!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -23046,14 +23072,14 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180326083000 +0000" stop="20180326093000 +0000">
-    <title>NEW SkinSense Skincare</title>
+    <title>SkinSense Skincare</title>
     <desc>SkinSense By Abi Cleeve can leave skin intensly hydrated and has a long lasting effect.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180326093000 +0000" stop="20180326103000 +0000">
-    <title>NEW Philips Ironing CASHBACK</title>
+    <title>Philips Ironing CASHBACK</title>
     <desc>Treat yourself to some retail therapy without even leaving the house! With 24/7 service, quality assured products and a 30 day money back guarantee, there is no shopping experience quite like TVSN!</desc>
     <rating system="Freeview">
       <value>G</value>
