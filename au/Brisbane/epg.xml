@@ -1719,6 +1719,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180403140000 +0000" stop="20180403143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180326133100 +0000" stop="20180326140100 +0000">
     <title>Red Dwarf</title>
     <subtitles type="teletext"/>
@@ -11261,6 +11268,12 @@
     <title>Movie Juice</title>
     <subtitles type="teletext"/>
   </programme>
+  <programme channel="tv.101204000401" start="20180403140000 +0000" stop="20180403145000 +0000">
+    <title>20/20</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204000407" start="20180326133000 +0000" stop="20180326143000 +0000">
     <title>Keeping Up With the Kardashians</title>
     <rating system="Freeview">
@@ -12242,17 +12255,17 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204000407" start="20180331140000 +0000" stop="20180331150000 +0000">
-    <title>Hotel Impossible</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204000407" start="20180331140000 +0000" stop="20180331143000 +0000">
     <title>Open Homes Australia</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204000407" start="20180331140000 +0000" stop="20180331150000 +0000">
+    <title>Hotel Impossible</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204000407" start="20180331143000 +0000" stop="20180331150000 +0000">
@@ -17873,6 +17886,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180403140000 +0000" stop="20180403143000 +0000">
+    <title>Raceday Review - Ballarat</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305040540" start="20180326122000 +0000" stop="20180326141800 +0000">
     <title>The Blacklist</title>
     <subtitles type="teletext"/>
@@ -23388,6 +23408,12 @@
     <title>Scandal</title>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040545" start="20180403140000 +0000" stop="20180403143000 +0000">
+    <title>Dr. Ken</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406040641" start="20180326132900 +0000" stop="20180326143000 +0000">
@@ -34304,6 +34330,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180403140000 +0000" stop="20180403143000 +0000">
+    <title>Bondi Harvest</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180326130000 +0000" stop="20180326140000 +0000">
     <title>Volumz</title>
     <rating system="Freeview">
@@ -36420,6 +36452,12 @@
     <title>Something Of The Times</title>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180403140000 +0000" stop="20180403150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
 </tv>
