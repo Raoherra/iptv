@@ -101,6 +101,23 @@
             "sample_rate": "48000"
         }
     },
+    "tv.64": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.64.png",
+        "channel": 14,
+        "name": "TVNZ Games Extra",
+        "description": "TVNZ Games Extra is a special channel from TVNZ, bringing additional live and delayed coverage of the 2018 Gold Coast Commonwealth Games alongside TVNZ 1 & DUKE. Catch every Kiwi moment of the games across Live TV and online at TVNZ.co.nz.",
+        "url": "http://iptv.matthuisman.nz/nz/tv.64.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720
+        },
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        }
+    },
     "tv.46": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.46.png",
         "channel": 16,
@@ -217,5 +234,21 @@
             "sample_rate": "48000"
         },
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"
+    },
+    "tv.games-online": {
+        "url": "http://iptv.matthuisman.nz/nz/tv.games-online.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "name": "TVNZ Games Online",
+        "description": "TVNZ Games Online",
+        "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720
+        },
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.games-online.png"
     }
 }
