@@ -930,24 +930,8 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180401152000 +0000" stop="20180401155500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180401155500 +0000" stop="20180401162500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180401162500 +0000" stop="20180401165500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180401165500 +0000" stop="20180401173000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180401173000 +0000" stop="20180401180000 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180401152000 +0000" stop="20180401180000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.9" start="20180401180000 +0000" stop="20180401190000 +0000">
@@ -1024,6 +1008,9 @@
   <programme channel="tv.9" start="20180402045500 +0000" stop="20180402060000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180402060000 +0000" stop="20180402070000 +0000">
     <title>1 News At 6pm</title>
@@ -1056,6 +1043,9 @@
     <title>The Brave</title>
     <desc>As the team heads to Paris on a mission connected to Amir's undercover past, things get more personal.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180402112500 +0000" stop="20180402122000 +0000">
     <title>Criminal Minds: Beyond Borders</title>
@@ -1077,24 +1067,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.9" start="20180402134000 +0000" stop="20180402141500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180402141500 +0000" stop="20180402144000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180402144000 +0000" stop="20180402151000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180402151000 +0000" stop="20180402154000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180402154000 +0000" stop="20180402161000 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180402134000 +0000" stop="20180402161000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.9" start="20180402161000 +0000" stop="20180402163500 +0000">
@@ -1865,6 +1839,9 @@
   <programme channel="tv.10" start="20180329030000 +0000" stop="20180329033000 +0000">
     <title>Fanimals</title>
     <desc>Today Wolfgang goes on a search for our endangered Otago Skinks, our Ask Me Anything Vet Stacey answers all your guinea pig questions, and find out what your teachers really get up to after school!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180329033000 +0000" stop="20180329040000 +0000">
     <title>Friends</title>
@@ -2168,6 +2145,9 @@
   <programme channel="tv.10" start="20180330030000 +0000" stop="20180330033000 +0000">
     <title>Fanimals</title>
     <desc>It's Friday and Fanimals is throwing a Rabbit Hop Party with Jess, we go on a celebrity pet date with TV journalist Miriama Kamo, and we could be calling you to win on 'Fact or Fiction'!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180330033000 +0000" stop="20180330035500 +0000">
     <title>Wallace &amp; Gromit: A Grand Day Out</title>
@@ -2470,6 +2450,9 @@
   <programme channel="tv.10" start="20180331025000 +0000" stop="20180331032000 +0000">
     <title>Movie Juice</title>
     <desc>Final: This week we check out the new comedy ‘Love, Simon’, take a vivid trip across the universe in ‘A Wrinkle in Time’, look at Stephen Spielberg’s new sci-fi adventure ‘Ready Player One'.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180331032000 +0000" stop="20180331050000 +0000">
     <title>Australian Spartan</title>
@@ -2826,11 +2809,11 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180401173000 +0000" stop="20180401180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180401180000 +0000" stop="20180401183000 +0000">
-    <title>City Impact Church</title>
+    <title>Impact For Life</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180401183000 +0000" stop="20180401185500 +0000">
@@ -2894,16 +2877,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180401210000 +0000" stop="20180401213000 +0000">
-    <title>Infomercial 0900</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180401213000 +0000" stop="20180401220000 +0000">
-    <title>Infomercial 0930</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180401220000 +0000" stop="20180401223000 +0000">
-    <title>Infomercial 1000</title>
+  <programme channel="tv.10" start="20180401210000 +0000" stop="20180401223000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180401223000 +0000" stop="20180401230000 +0000">
@@ -3041,10 +3016,22 @@
   <programme channel="tv.10" start="20180402092000 +0000" stop="20180402095000 +0000">
     <title>All New Will &amp; Grace</title>
     <desc>Grace brings Will for support when she goes home to celebrate her deceased mother's birthday. Jack's faith in love is crushed after a breaking up with Drew. Alec Baldwin guest stars.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180402095000 +0000" stop="20180402105000 +0000">
     <title>The Walking Dead</title>
     <desc>A Heaps prisoner makes a discovery; Carol searches for someone in the nearby forest; Rick and Morgan find themselves in the company of strangers.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180402105000 +0000" stop="20180402112000 +0000">
     <title>Two And A Half Men</title>
@@ -3094,11 +3081,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180402135000 +0000" stop="20180402142500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180402142500 +0000" stop="20180402145000 +0000">
+  <programme channel="tv.10" start="20180402135000 +0000" stop="20180402145000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -3126,12 +3109,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180402173000 +0000" stop="20180402180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180402180000 +0000" stop="20180402183000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.10" start="20180402173000 +0000" stop="20180402183000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180402183000 +0000" stop="20180402185500 +0000">
@@ -3193,7 +3172,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180402210000 +0000" stop="20180402213000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180402213000 +0000" stop="20180402220000 +0000">
@@ -3201,7 +3180,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180402220000 +0000" stop="20180402223000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180402223000 +0000" stop="20180402230000 +0000">
@@ -3366,11 +3345,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180403134500 +0000" stop="20180403141500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180403141500 +0000" stop="20180403144500 +0000">
+  <programme channel="tv.10" start="20180403134500 +0000" stop="20180403144500 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -3399,11 +3374,11 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180403173000 +0000" stop="20180403180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180403180000 +0000" stop="20180403183000 +0000">
-    <title>City Impact Church</title>
+    <title>Impact For Life</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180403183000 +0000" stop="20180403185500 +0000">
@@ -8730,24 +8705,8 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180401162000 +0000" stop="20180401165500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180401165500 +0000" stop="20180401172500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180401172500 +0000" stop="20180401175500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180401175500 +0000" stop="20180401183000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180401183000 +0000" stop="20180401190000 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180401162000 +0000" stop="20180401190000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.38" start="20180401190000 +0000" stop="20180401200000 +0000">
@@ -8824,6 +8783,9 @@
   <programme channel="tv.38" start="20180402055500 +0000" stop="20180402070000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180402070000 +0000" stop="20180402080000 +0000">
     <title>1 News At 6pm</title>
@@ -8856,6 +8818,9 @@
     <title>The Brave</title>
     <desc>As the team heads to Paris on a mission connected to Amir's undercover past, things get more personal.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180402122500 +0000" stop="20180402132000 +0000">
     <title>Criminal Minds: Beyond Borders</title>
@@ -8877,24 +8842,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.38" start="20180402144000 +0000" stop="20180402151500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180402151500 +0000" stop="20180402154000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180402154000 +0000" stop="20180402161000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180402161000 +0000" stop="20180402164000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180402164000 +0000" stop="20180402171000 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180402144000 +0000" stop="20180402171000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.38" start="20180402171000 +0000" stop="20180402173500 +0000">
@@ -9610,6 +9559,9 @@
   <programme channel="tv.14" start="20180329040000 +0000" stop="20180329043000 +0000">
     <title>Fanimals</title>
     <desc>Today Wolfgang goes on a search for our endangered Otago Skinks, our Ask Me Anything Vet Stacey answers all your guinea pig questions, and find out what your teachers really get up to after school!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180329043000 +0000" stop="20180329050000 +0000">
     <title>Friends</title>
@@ -9883,6 +9835,9 @@
   <programme channel="tv.14" start="20180330040000 +0000" stop="20180330043000 +0000">
     <title>Fanimals</title>
     <desc>It's Friday and Fanimals is throwing a Rabbit Hop Party with Jess, we go on a celebrity pet date with TV journalist Miriama Kamo, and we could be calling you to win on 'Fact or Fiction'!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180330043000 +0000" stop="20180330045500 +0000">
     <title>Wallace &amp; Gromit: A Grand Day Out</title>
@@ -10143,6 +10098,9 @@
   <programme channel="tv.14" start="20180331035000 +0000" stop="20180331042000 +0000">
     <title>Movie Juice</title>
     <desc>Final: This week we check out the new comedy ‘Love, Simon’, take a vivid trip across the universe in ‘A Wrinkle in Time’, look at Stephen Spielberg’s new sci-fi adventure ‘Ready Player One'.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180331042000 +0000" stop="20180331060000 +0000">
     <title>Australian Spartan</title>
@@ -10439,11 +10397,11 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180401183000 +0000" stop="20180401190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180401190000 +0000" stop="20180401193000 +0000">
-    <title>City Impact Church</title>
+    <title>Impact For Life</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180401193000 +0000" stop="20180401195500 +0000">
@@ -10495,16 +10453,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180401220000 +0000" stop="20180401223000 +0000">
-    <title>Infomercial 0900</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180401223000 +0000" stop="20180401230000 +0000">
-    <title>Infomercial 0930</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180401230000 +0000" stop="20180401233000 +0000">
-    <title>Infomercial 1000</title>
+  <programme channel="tv.14" start="20180401220000 +0000" stop="20180401233000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180401233000 +0000" stop="20180402000000 +0000">
@@ -10624,10 +10574,16 @@
   <programme channel="tv.14" start="20180402102000 +0000" stop="20180402105000 +0000">
     <title>All New Will &amp; Grace</title>
     <desc>Grace brings Will for support when she goes home to celebrate her deceased mother's birthday. Jack's faith in love is crushed after a breaking up with Drew. Alec Baldwin guest stars.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180402105000 +0000" stop="20180402115000 +0000">
     <title>The Walking Dead</title>
     <desc>A Heaps prisoner makes a discovery; Carol searches for someone in the nearby forest; Rick and Morgan find themselves in the company of strangers.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180402115000 +0000" stop="20180402122000 +0000">
     <title>Two And A Half Men</title>
@@ -10665,11 +10621,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180402145000 +0000" stop="20180402152500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180402152500 +0000" stop="20180402155000 +0000">
+  <programme channel="tv.14" start="20180402145000 +0000" stop="20180402155000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -10694,12 +10646,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180402183000 +0000" stop="20180402190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180402190000 +0000" stop="20180402193000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.14" start="20180402183000 +0000" stop="20180402193000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180402193000 +0000" stop="20180402195500 +0000">
@@ -10752,7 +10700,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180402220000 +0000" stop="20180402223000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180402223000 +0000" stop="20180402230000 +0000">
@@ -10760,7 +10708,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180402230000 +0000" stop="20180402233000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180402233000 +0000" stop="20180403000000 +0000">
@@ -10898,11 +10846,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180403144500 +0000" stop="20180403151500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180403151500 +0000" stop="20180403154500 +0000">
+  <programme channel="tv.14" start="20180403144500 +0000" stop="20180403154500 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -10928,11 +10872,11 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180403183000 +0000" stop="20180403190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180403190000 +0000" stop="20180403193000 +0000">
-    <title>City Impact Church</title>
+    <title>Impact For Life</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180403193000 +0000" stop="20180403195500 +0000">
@@ -18076,7 +18020,7 @@
     <title>Black-Ish</title>
     <desc>S3 E15 When Dre goes back to Compton for a funeral, he is reunited with his old crew and struggles with survivor's remorse for the friends he left behind.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.55" start="20180404053000 +0000" stop="20180404062500 +0000">
@@ -18109,11 +18053,11 @@
   </programme>
   <programme channel="tv.55" start="20180404093000 +0000" stop="20180404100000 +0000">
     <title>2018 Commonwealth Games</title>
-    <desc>Live coverage of the opening ceremony of the XXI Commonwealth Games from Carrara Stadium on the Gold Coast, Australia.</desc>
+    <desc>Live coverage of the opening ceremony of the 2018 Gold Coast Commonwealth Games from Carrara Stadium in Australia.</desc>
   </programme>
   <programme channel="tv.55" start="20180404100000 +0000" stop="20180404130000 +0000">
     <title>Live: 2018 Commonwealth Games</title>
-    <desc>Join Peter Williams and Jenny-May Clarkson for live coverage of the 2018 Gold Coast Commonwealth Games Opening Ceremony from Carrara Stadium.</desc>
+    <desc>Live coverage of the 2018 Gold Coast Commonwealth Games Opening Ceremony from Carrara Stadium.</desc>
   </programme>
   <programme channel="tv.64" start="20180327050000 +0000" stop="20180327110000 +0000">
     <title>TVNZ Games Extra Coming Soon</title>
