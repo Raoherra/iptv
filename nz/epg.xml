@@ -4298,6 +4298,9 @@
   <programme channel="tv.11" start="20180329063000 +0000" stop="20180329070000 +0000">
     <title>Roseanne</title>
     <desc>Premiere. New Episode. Roseanne and Dan adjust to living under the same roof with Darlene and her two children when Darlene loses her job, and Becky announces she is going to be a surrogate. S1 Ep1</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180329070000 +0000" stop="20180329073000 +0000">
     <title>All New Modern Family</title>
@@ -4306,7 +4309,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180329073000 +0000" stop="20180329094000 +0000">
+  <programme channel="tv.11" start="20180329073000 +0000" stop="20180329094500 +0000">
     <title>Immortals</title>
     <desc>Theseus is a mortal man chosen by Zeus to lead the fight against the ruthless King Hyperion, who is on a rampage across Greece to obtain a weapon that can destroy humanity. (2011)</desc>
     <audio>
@@ -4316,11 +4319,11 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180329094000 +0000" stop="20180329101000 +0000">
+  <programme channel="tv.11" start="20180329094500 +0000" stop="20180329101500 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.11" start="20180329101000 +0000" stop="20180329111000 +0000">
+  <programme channel="tv.11" start="20180329101500 +0000" stop="20180329111000 +0000">
     <title>Motive</title>
     <desc>An investigation into two seemingly unrelated murders is complicated by Vega needing to pass his weapons recertification in order to continue working in the field. S3 Ep3</desc>
     <audio>
@@ -4507,7 +4510,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180330104000 +0000" stop="20180330122500 +0000">
+  <programme channel="tv.11" start="20180330104000 +0000" stop="20180330122000 +0000">
     <title>All Is Lost</title>
     <desc>After a collision with a shipping container at sea, a resourceful sailor finds himself, despite all efforts to the contrary, staring his mortality in the face. Starring Robert Redford. (2013)</desc>
     <audio>
@@ -4517,7 +4520,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180330122500 +0000" stop="20180330160000 +0000">
+  <programme channel="tv.11" start="20180330122000 +0000" stop="20180330160000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -4529,15 +4532,15 @@
     <title>Charles Stanley</title>
     <desc></desc>
   </programme>
-  <programme channel="tv.11" start="20180330173000 +0000" stop="20180330182500 +0000">
+  <programme channel="tv.11" start="20180330173000 +0000" stop="20180330183000 +0000">
     <title>Hilux New Zealand Rural Games</title>
     <desc>Join Mark Leishman from the rural heartland of Palmerston North as champions from NZ and Australia go head to head in a range of country sports, including wood chopping and sheep shearing.</desc>
   </programme>
-  <programme channel="tv.11" start="20180330182500 +0000" stop="20180330203000 +0000">
+  <programme channel="tv.11" start="20180330183000 +0000" stop="20180330203500 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
-  <programme channel="tv.11" start="20180330203000 +0000" stop="20180330213000 +0000">
+  <programme channel="tv.11" start="20180330203500 +0000" stop="20180330213000 +0000">
     <title>Married At First Sight USA</title>
     <desc>The newlyweds embark on their honeymoons after only knowing each other for just a few days. S2 Ep5</desc>
     <rating system="Freeview">
@@ -4594,7 +4597,10 @@
   </programme>
   <programme channel="tv.11" start="20180331020000 +0000" stop="20180331023000 +0000">
     <title>The Goldbergs</title>
-    <desc>New episodes of The Goldbergs are fast-tracked from the States. S5 Ep17</desc>
+    <desc>New Episode. Barry tries to break up Beverly's group of friends, which results in a turf war over the backyard, and Adam's attempts to trick Murray into loving theatre backfire. S5 Ep17</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -4615,7 +4621,7 @@
   </programme>
   <programme channel="tv.11" start="20180331040000 +0000" stop="20180331050000 +0000">
     <title>Survivor: Ghost Island</title>
-    <desc>Survivor: Ghost Island sees 20 castaways confronted by the mistakes of contestants from previous seasons. Will they be able to 'reverse the curse', or will the past come back to haunt them?</desc>
+    <desc>New Episode. A surprise tribe swap could mean a fresh start for some castaways. S36 Ep6</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -4679,7 +4685,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180331170000 +0000" stop="20180331173000 +0000">
-    <title>Brian Houston @ Hillsong TV 164</title>
+    <title>Brian Houston</title>
     <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -4692,9 +4698,12 @@
   <programme channel="tv.11" start="20180331180000 +0000" stop="20180331183000 +0000">
     <title>Life TV</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180331183000 +0000" stop="20180331190000 +0000">
-    <title>Brian Houston @ Hillsong TV 165</title>
+    <title>Brian Houston</title>
     <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -4703,14 +4712,23 @@
   <programme channel="tv.11" start="20180331190000 +0000" stop="20180331200000 +0000">
     <title>Charles Stanley</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180331200000 +0000" stop="20180331203000 +0000">
-    <title>Living Church of God</title>
+    <title>Living Church Of God</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180331203000 +0000" stop="20180331210000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180331210000 +0000" stop="20180331213000 +0000">
     <title>R &amp; R</title>
@@ -4802,7 +4820,7 @@
     <title>Newshub Live At 6pm</title>
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
   </programme>
-  <programme channel="tv.11" start="20180401070000 +0000" stop="20180401083500 +0000">
+  <programme channel="tv.11" start="20180401070000 +0000" stop="20180401083000 +0000">
     <title>How to Train Your Dragon 2</title>
     <desc>This thrilling second chapter of How to Train Your Dragon returns to the fantastical world of Hiccup and Toothless as they unite to save the future of men and dragons! (2014)</desc>
     <audio>
@@ -4812,7 +4830,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180401083500 +0000" stop="20180401104500 +0000">
+  <programme channel="tv.11" start="20180401083000 +0000" stop="20180401104500 +0000">
     <title>Noah</title>
     <desc>Russell Crowe stars as Noah in the film inspired by the epic story of courage, sacrifice and hope. Also starring Jennifer Connelly, Anthony Hopkins, and Emma Watson. (2014)</desc>
     <audio>
@@ -4928,7 +4946,7 @@
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
   </programme>
   <programme channel="tv.11" start="20180402070000 +0000" stop="20180402073000 +0000">
-    <title>The Project</title>
+    <title>Modern Family</title>
     <desc>Chaos forces Mitch and Cam to move from one contingency plan to another, but an unexpected turn of events allows the day to move forward. S5 Ep24</desc>
     <audio>
       <stereo>dolby</stereo>
@@ -5065,14 +5083,14 @@
     <title>The Project</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
-  <programme channel="tv.11" start="20180403073000 +0000" stop="20180403093000 +0000">
+  <programme channel="tv.11" start="20180403073000 +0000" stop="20180403092500 +0000">
     <title>American Idol</title>
     <desc>Premiere. New Episode. Idol sets out on a journey across America, beginning in New York, Los Angeles and Nashville, as hopefuls audition to secure their ticket to Hollywood. S16 Ep1</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180403093000 +0000" stop="20180403102500 +0000">
+  <programme channel="tv.11" start="20180403092500 +0000" stop="20180403102000 +0000">
     <title>SVU: Special Victims Unit</title>
     <desc>New Episode. Emotions run high as the squad embarks on a frantic search for Benson's missing son. S19 Ep9</desc>
     <audio>
@@ -5082,11 +5100,11 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180403102500 +0000" stop="20180403110000 +0000">
+  <programme channel="tv.11" start="20180403102000 +0000" stop="20180403105000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.11" start="20180403110000 +0000" stop="20180403115500 +0000">
+  <programme channel="tv.11" start="20180403105000 +0000" stop="20180403115000 +0000">
     <title>The Blacklist</title>
     <desc>Season 3. Red embarks on a risky mission to infiltrate an assembly of high-level criminals. S3 Ep11</desc>
     <audio>
@@ -5096,7 +5114,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180403115500 +0000" stop="20180403170000 +0000">
+  <programme channel="tv.11" start="20180403115000 +0000" stop="20180403170000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -5188,14 +5206,14 @@
     <title>The Project</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
-  <programme channel="tv.11" start="20180404073000 +0000" stop="20180404093000 +0000">
+  <programme channel="tv.11" start="20180404073000 +0000" stop="20180404092500 +0000">
     <title>American Idol</title>
     <desc>New Episode. Auditions continue, including a show salesman from Washington D.C., a construction worker from Southern California, and a student from Louisiana. S16 Ep2</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180404093000 +0000" stop="20180404103000 +0000">
+  <programme channel="tv.11" start="20180404092500 +0000" stop="20180404102000 +0000">
     <title>NCIS: Los Angeles</title>
     <desc>Premiere. New Episode. When Hetty turns in retirement papers and disappears, Shay Mosley comes to L.A. to oversee staffing changes. Plus, Sam insists that Callen find a new partner. S9 Ep1</desc>
     <audio>
@@ -5205,9 +5223,19 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180404103000 +0000" stop="20180404110000 +0000">
+  <programme channel="tv.11" start="20180404102000 +0000" stop="20180404105000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
+  </programme>
+  <programme channel="tv.11" start="20180404105000 +0000" stop="20180404115000 +0000">
+    <title>NCIS</title>
+    <desc>NCIS and the FBI join forces when the daughter of Sarah Porter, the Secretary of the Navy, is kidnapped. S13 Ep15</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180327105000 +0000" stop="20180327112000 +0000">
     <title>Say Yes To The Dress Atlanta</title>
@@ -5336,6 +5364,9 @@
   <programme channel="tv.12" start="20180328073000 +0000" stop="20180328083000 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>Kyle packs her house for her upcoming move. Lisa Vanderpump's documentary about dog abuse in China premieres at a film festival.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180328083000 +0000" stop="20180328093300 +0000">
     <title>Vanderpump Rules</title>
@@ -5436,6 +5467,9 @@
   <programme channel="tv.12" start="20180329014000 +0000" stop="20180329023800 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>Kyle packs her house for her upcoming move. Lisa Vanderpump's documentary about dog abuse in China premieres at a film festival.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180329023800 +0000" stop="20180329024000 +0000">
     <title>The Dish</title>
@@ -5706,6 +5740,9 @@
   <programme channel="tv.12" start="20180330062800 +0000" stop="20180330063000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180330063000 +0000" stop="20180330070000 +0000">
     <title>Beverly Hills Pawn</title>
@@ -5731,6 +5768,9 @@
   <programme channel="tv.12" start="20180330093300 +0000" stop="20180330093500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180330093500 +0000" stop="20180330102000 +0000">
     <title>Intervention</title>
@@ -5775,6 +5815,9 @@
   <programme channel="tv.12" start="20180330215300 +0000" stop="20180330215500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180330215500 +0000" stop="20180330222000 +0000">
     <title>Say Yes To The Dress Atlanta</title>
@@ -5807,6 +5850,9 @@
   <programme channel="tv.12" start="20180330234300 +0000" stop="20180330234500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180330234500 +0000" stop="20180331004000 +0000">
     <title>Little Big Shots: Forever Young</title>
@@ -5815,16 +5861,19 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180331004000 +0000" stop="20180331013300 +0000">
+  <programme channel="tv.12" start="20180331004000 +0000" stop="20180331013800 +0000">
     <title>How Do I Look?</title>
     <desc>Young mum Katie dresses like every night is prom night - and must learn to change her look if she wants to succeed at school or find a man.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180331013300 +0000" stop="20180331014000 +0000">
+  <programme channel="tv.12" start="20180331013800 +0000" stop="20180331014000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180331014000 +0000" stop="20180331023500 +0000">
     <title>Million Dollar Decorators</title>
@@ -5878,6 +5927,9 @@
   <programme channel="tv.12" start="20180331072800 +0000" stop="20180331073000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180331073000 +0000" stop="20180331083000 +0000">
     <title>Keeping Up With The Kardashians</title>
@@ -5935,42 +5987,42 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180331141500 +0000" stop="20180331150000 +0000">
+  <programme channel="tv.12" start="20180331141500 +0000" stop="20180331144000 +0000">
     <title>David Tutera: Celebrations</title>
     <desc>tWitch and Allison hire David to throw a baby shower. But when tWitch freaks out about impending fatherhood and Ryan clashes again with Slomique and Montre, will Team Tutera be able to deliver?</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180331150000 +0000" stop="20180331154500 +0000">
-    <title>David Tutera: Celebrations</title>
-    <desc>David's hired to throw this movie star a three-in-one party that's a housewarming, birthday and lingerie launch but her home that turns out to be half the size he was expecting!</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.12" start="20180331154500 +0000" stop="20180331162500 +0000">
+  <programme channel="tv.12" start="20180331144000 +0000" stop="20180331144500 +0000">
     <title>David Tutera: Celebrations</title>
     <desc>Reality TV royalty Heidi and Spencer task David with throwing a college graduation party for Spencer. But will David be able to rein in and please this notorious bad boy?</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180331162500 +0000" stop="20180331170500 +0000">
+  <programme channel="tv.12" start="20180331144500 +0000" stop="20180331153500 +0000">
+    <title>David Tutera: Celebrations</title>
+    <desc>David's hired to throw this movie star a three-in-one party that's a housewarming, birthday and lingerie launch but her home that turns out to be half the size he was expecting!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180331153500 +0000" stop="20180331162000 +0000">
     <title>David Tutera: Celebrations</title>
     <desc>Niecy Nash hires David to throw a fashionista Sweet Sixteen bash for her daughter Dia. But when mum threatens to steal the spotlight, will Dia overcome her nerves to walk the runway?</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180331170500 +0000" stop="20180331174500 +0000">
+  <programme channel="tv.12" start="20180331162000 +0000" stop="20180331171000 +0000">
     <title>David Tutera: Celebrations</title>
     <desc>Ice-T and Coco want a baby shower. With only three days to spare, David has to rely on Montr‚ to find entertainment and figure out what to do with Coco's other babies - her twin pet bulldogs.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180331174500 +0000" stop="20180331180000 +0000">
+  <programme channel="tv.12" start="20180331171000 +0000" stop="20180331180000 +0000">
     <title>Love It Or List It: Vancouver</title>
     <desc>Can Todd find a larger, turnkey home in their desired mountain community? Or will Jillian create a compelling reason to stay with a remarkable reno?</desc>
     <rating system="Freeview">
@@ -6029,6 +6081,9 @@
   <programme channel="tv.12" start="20180331225800 +0000" stop="20180331230000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180331230000 +0000" stop="20180331235000 +0000">
     <title>How Do I Look?</title>
@@ -6054,6 +6109,9 @@
   <programme channel="tv.12" start="20180401012800 +0000" stop="20180401013000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180401013000 +0000" stop="20180401021500 +0000">
     <title>60 Days In</title>
@@ -6100,6 +6158,9 @@
   <programme channel="tv.12" start="20180401041800 +0000" stop="20180401042000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180401042000 +0000" stop="20180401051000 +0000">
     <title>How Do I Look?</title>
@@ -6153,6 +6214,9 @@
   <programme channel="tv.12" start="20180401102300 +0000" stop="20180401102500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180401102500 +0000" stop="20180401105000 +0000">
     <title>Don't Be Tardy</title>
@@ -6204,6 +6268,9 @@
   <programme channel="tv.12" start="20180401225800 +0000" stop="20180401230000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180401230000 +0000" stop="20180401235500 +0000">
     <title>David Tutera: Celebrations</title>
@@ -6222,6 +6289,9 @@
   <programme channel="tv.12" start="20180402004800 +0000" stop="20180402005000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180402005000 +0000" stop="20180402014500 +0000">
     <title>The Real Housewives Of New York City</title>
@@ -11757,6 +11827,9 @@
   <programme channel="tv.27" start="20180329073000 +0000" stop="20180329080000 +0000">
     <title>Roseanne</title>
     <desc>Premiere. New Episode. Roseanne and Dan adjust to living under the same roof with Darlene and her two children when Darlene loses her job, and Becky announces she is going to be a surrogate. S1 Ep1</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180329080000 +0000" stop="20180329083000 +0000">
     <title>All New Modern Family</title>
@@ -11765,18 +11838,18 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180329083000 +0000" stop="20180329104000 +0000">
+  <programme channel="tv.27" start="20180329083000 +0000" stop="20180329104500 +0000">
     <title>Immortals</title>
     <desc>Theseus is a mortal man chosen by Zeus to lead the fight against the ruthless King Hyperion, who is on a rampage across Greece to obtain a weapon that can destroy humanity. (2011)</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180329104000 +0000" stop="20180329111000 +0000">
+  <programme channel="tv.27" start="20180329104500 +0000" stop="20180329111500 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.27" start="20180329111000 +0000" stop="20180329121000 +0000">
+  <programme channel="tv.27" start="20180329111500 +0000" stop="20180329121000 +0000">
     <title>Motive</title>
     <desc>An investigation into two seemingly unrelated murders is complicated by Vega needing to pass his weapons recertification in order to continue working in the field. S3 Ep3</desc>
     <rating system="Freeview">
@@ -11927,14 +12000,14 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180330114000 +0000" stop="20180330132500 +0000">
+  <programme channel="tv.27" start="20180330114000 +0000" stop="20180330132000 +0000">
     <title>All Is Lost</title>
     <desc>After a collision with a shipping container at sea, a resourceful sailor finds himself, despite all efforts to the contrary, staring his mortality in the face. Starring Robert Redford. (2013)</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180330132500 +0000" stop="20180330170000 +0000">
+  <programme channel="tv.27" start="20180330132000 +0000" stop="20180330170000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -11946,15 +12019,15 @@
     <title>Charles Stanley</title>
     <desc></desc>
   </programme>
-  <programme channel="tv.27" start="20180330183000 +0000" stop="20180330192500 +0000">
+  <programme channel="tv.27" start="20180330183000 +0000" stop="20180330193000 +0000">
     <title>Hilux New Zealand Rural Games</title>
     <desc>Join Mark Leishman from the rural heartland of Palmerston North as champions from NZ and Australia go head to head in a range of country sports, including wood chopping and sheep shearing.</desc>
   </programme>
-  <programme channel="tv.27" start="20180330192500 +0000" stop="20180330213000 +0000">
+  <programme channel="tv.27" start="20180330193000 +0000" stop="20180330213500 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
-  <programme channel="tv.27" start="20180330213000 +0000" stop="20180330223000 +0000">
+  <programme channel="tv.27" start="20180330213500 +0000" stop="20180330223000 +0000">
     <title>Married At First Sight USA</title>
     <desc>The newlyweds embark on their honeymoons after only knowing each other for just a few days. S2 Ep5</desc>
     <rating system="Freeview">
@@ -12005,7 +12078,7 @@
   </programme>
   <programme channel="tv.27" start="20180331030000 +0000" stop="20180331033000 +0000">
     <title>The Goldbergs</title>
-    <desc>New episodes of The Goldbergs are fast-tracked from the States. S5 Ep17</desc>
+    <desc>New Episode. Barry tries to break up Beverly's group of friends, which results in a turf war over the backyard, and Adam's attempts to trick Murray into loving theatre backfire. S5 Ep17</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -12026,7 +12099,7 @@
   </programme>
   <programme channel="tv.27" start="20180331050000 +0000" stop="20180331060000 +0000">
     <title>Survivor: Ghost Island</title>
-    <desc>Survivor: Ghost Island sees 20 castaways confronted by the mistakes of contestants from previous seasons. Will they be able to 'reverse the curse', or will the past come back to haunt them?</desc>
+    <desc>New Episode. A surprise tribe swap could mean a fresh start for some castaways. S36 Ep6</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -12078,7 +12151,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180331180000 +0000" stop="20180331183000 +0000">
-    <title>Brian Houston @ Hillsong TV 164</title>
+    <title>Brian Houston</title>
     <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -12091,9 +12164,12 @@
   <programme channel="tv.27" start="20180331190000 +0000" stop="20180331193000 +0000">
     <title>Life TV</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180331193000 +0000" stop="20180331200000 +0000">
-    <title>Brian Houston @ Hillsong TV 165</title>
+    <title>Brian Houston</title>
     <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -12102,14 +12178,23 @@
   <programme channel="tv.27" start="20180331200000 +0000" stop="20180331210000 +0000">
     <title>Charles Stanley</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180331210000 +0000" stop="20180331213000 +0000">
-    <title>Living Church of God</title>
+    <title>Living Church Of God</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180331213000 +0000" stop="20180331220000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180331220000 +0000" stop="20180331223000 +0000">
     <title>R &amp; R</title>
@@ -12201,14 +12286,14 @@
     <title>Newshub Live At 6pm</title>
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
   </programme>
-  <programme channel="tv.27" start="20180401080000 +0000" stop="20180401093500 +0000">
+  <programme channel="tv.27" start="20180401080000 +0000" stop="20180401093000 +0000">
     <title>How to Train Your Dragon 2</title>
     <desc>This thrilling second chapter of How to Train Your Dragon returns to the fantastical world of Hiccup and Toothless as they unite to save the future of men and dragons! (2014)</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180401093500 +0000" stop="20180401114500 +0000">
+  <programme channel="tv.27" start="20180401093000 +0000" stop="20180401114500 +0000">
     <title>Noah</title>
     <desc>Russell Crowe stars as Noah in the film inspired by the epic story of courage, sacrifice and hope. Also starring Jennifer Connelly, Anthony Hopkins, and Emma Watson. (2014)</desc>
     <rating system="Freeview">
@@ -12309,7 +12394,7 @@
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
   </programme>
   <programme channel="tv.27" start="20180402080000 +0000" stop="20180402083000 +0000">
-    <title>The Project</title>
+    <title>Modern Family</title>
     <desc>Chaos forces Mitch and Cam to move from one contingency plan to another, but an unexpected turn of events allows the day to move forward. S5 Ep24</desc>
     <rating system="Freeview">
       <value>PGR</value>
@@ -12440,32 +12525,32 @@
     <title>The Project</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
-  <programme channel="tv.27" start="20180403083000 +0000" stop="20180403103000 +0000">
+  <programme channel="tv.27" start="20180403083000 +0000" stop="20180403102500 +0000">
     <title>American Idol</title>
     <desc>Premiere. New Episode. Idol sets out on a journey across America, beginning in New York, Los Angeles and Nashville, as hopefuls audition to secure their ticket to Hollywood. S16 Ep1</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180403103000 +0000" stop="20180403112500 +0000">
+  <programme channel="tv.27" start="20180403102500 +0000" stop="20180403112000 +0000">
     <title>SVU: Special Victims Unit</title>
     <desc>New Episode. Emotions run high as the squad embarks on a frantic search for Benson's missing son. S19 Ep9</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180403112500 +0000" stop="20180403120000 +0000">
+  <programme channel="tv.27" start="20180403112000 +0000" stop="20180403115000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.27" start="20180403120000 +0000" stop="20180403125500 +0000">
+  <programme channel="tv.27" start="20180403115000 +0000" stop="20180403125000 +0000">
     <title>The Blacklist</title>
     <desc>Season 3. Red embarks on a risky mission to infiltrate an assembly of high-level criminals. S3 Ep11</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180403125500 +0000" stop="20180403180000 +0000">
+  <programme channel="tv.27" start="20180403125000 +0000" stop="20180403180000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -12554,14 +12639,14 @@
     <title>The Project</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
-  <programme channel="tv.27" start="20180404083000 +0000" stop="20180404103000 +0000">
+  <programme channel="tv.27" start="20180404083000 +0000" stop="20180404102500 +0000">
     <title>American Idol</title>
     <desc>New Episode. Auditions continue, including a show salesman from Washington D.C., a construction worker from Southern California, and a student from Louisiana. S16 Ep2</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180404103000 +0000" stop="20180404113000 +0000">
+  <programme channel="tv.27" start="20180404102500 +0000" stop="20180404112000 +0000">
     <title>NCIS: Los Angeles</title>
     <desc>Premiere. New Episode. When Hetty turns in retirement papers and disappears, Shay Mosley comes to L.A. to oversee staffing changes. Plus, Sam insists that Callen find a new partner. S9 Ep1</desc>
     <rating system="Freeview">
@@ -12709,6 +12794,9 @@
   <programme channel="tv.30" start="20180328083000 +0000" stop="20180328093000 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>Kyle packs her house for her upcoming move. Lisa Vanderpump's documentary about dog abuse in China premieres at a film festival.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180328093000 +0000" stop="20180328103300 +0000">
     <title>Vanderpump Rules</title>
@@ -12809,6 +12897,9 @@
   <programme channel="tv.30" start="20180329024000 +0000" stop="20180329033800 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>Kyle packs her house for her upcoming move. Lisa Vanderpump's documentary about dog abuse in China premieres at a film festival.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180329033800 +0000" stop="20180329034000 +0000">
     <title>The Dish</title>
@@ -13079,6 +13170,9 @@
   <programme channel="tv.30" start="20180330072800 +0000" stop="20180330073000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180330073000 +0000" stop="20180330080000 +0000">
     <title>Beverly Hills Pawn</title>
@@ -13104,6 +13198,9 @@
   <programme channel="tv.30" start="20180330103300 +0000" stop="20180330103500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180330103500 +0000" stop="20180330112000 +0000">
     <title>Intervention</title>
@@ -13148,6 +13245,9 @@
   <programme channel="tv.30" start="20180330225300 +0000" stop="20180330225500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180330225500 +0000" stop="20180330232000 +0000">
     <title>Say Yes To The Dress Atlanta</title>
@@ -13180,6 +13280,9 @@
   <programme channel="tv.30" start="20180331004300 +0000" stop="20180331004500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180331004500 +0000" stop="20180331014000 +0000">
     <title>Little Big Shots: Forever Young</title>
@@ -13188,16 +13291,19 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180331014000 +0000" stop="20180331023300 +0000">
+  <programme channel="tv.30" start="20180331014000 +0000" stop="20180331023800 +0000">
     <title>How Do I Look?</title>
     <desc>Young mum Katie dresses like every night is prom night - and must learn to change her look if she wants to succeed at school or find a man.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180331023300 +0000" stop="20180331024000 +0000">
+  <programme channel="tv.30" start="20180331023800 +0000" stop="20180331024000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180331024000 +0000" stop="20180331033500 +0000">
     <title>Million Dollar Decorators</title>
@@ -13251,6 +13357,9 @@
   <programme channel="tv.30" start="20180331082800 +0000" stop="20180331083000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180331083000 +0000" stop="20180331093000 +0000">
     <title>Keeping Up With The Kardashians</title>
@@ -13308,42 +13417,42 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180331151500 +0000" stop="20180331160000 +0000">
+  <programme channel="tv.30" start="20180331151500 +0000" stop="20180331154000 +0000">
     <title>David Tutera: Celebrations</title>
     <desc>tWitch and Allison hire David to throw a baby shower. But when tWitch freaks out about impending fatherhood and Ryan clashes again with Slomique and Montre, will Team Tutera be able to deliver?</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180331160000 +0000" stop="20180331164500 +0000">
-    <title>David Tutera: Celebrations</title>
-    <desc>David's hired to throw this movie star a three-in-one party that's a housewarming, birthday and lingerie launch but her home that turns out to be half the size he was expecting!</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.30" start="20180331164500 +0000" stop="20180331172500 +0000">
+  <programme channel="tv.30" start="20180331154000 +0000" stop="20180331154500 +0000">
     <title>David Tutera: Celebrations</title>
     <desc>Reality TV royalty Heidi and Spencer task David with throwing a college graduation party for Spencer. But will David be able to rein in and please this notorious bad boy?</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180331172500 +0000" stop="20180331180500 +0000">
+  <programme channel="tv.30" start="20180331154500 +0000" stop="20180331163500 +0000">
+    <title>David Tutera: Celebrations</title>
+    <desc>David's hired to throw this movie star a three-in-one party that's a housewarming, birthday and lingerie launch but her home that turns out to be half the size he was expecting!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180331163500 +0000" stop="20180331172000 +0000">
     <title>David Tutera: Celebrations</title>
     <desc>Niecy Nash hires David to throw a fashionista Sweet Sixteen bash for her daughter Dia. But when mum threatens to steal the spotlight, will Dia overcome her nerves to walk the runway?</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180331180500 +0000" stop="20180331184500 +0000">
+  <programme channel="tv.30" start="20180331172000 +0000" stop="20180331181000 +0000">
     <title>David Tutera: Celebrations</title>
     <desc>Ice-T and Coco want a baby shower. With only three days to spare, David has to rely on Montr‚ to find entertainment and figure out what to do with Coco's other babies - her twin pet bulldogs.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180331184500 +0000" stop="20180331190000 +0000">
+  <programme channel="tv.30" start="20180331181000 +0000" stop="20180331190000 +0000">
     <title>Love It Or List It: Vancouver</title>
     <desc>Can Todd find a larger, turnkey home in their desired mountain community? Or will Jillian create a compelling reason to stay with a remarkable reno?</desc>
     <rating system="Freeview">
@@ -13402,6 +13511,9 @@
   <programme channel="tv.30" start="20180331235800 +0000" stop="20180401000000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180401000000 +0000" stop="20180401005000 +0000">
     <title>How Do I Look?</title>
@@ -13427,6 +13539,9 @@
   <programme channel="tv.30" start="20180401022800 +0000" stop="20180401023000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180401023000 +0000" stop="20180401031500 +0000">
     <title>60 Days In</title>
@@ -13473,6 +13588,9 @@
   <programme channel="tv.30" start="20180401051800 +0000" stop="20180401052000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180401052000 +0000" stop="20180401061000 +0000">
     <title>How Do I Look?</title>
@@ -13526,6 +13644,9 @@
   <programme channel="tv.30" start="20180401112300 +0000" stop="20180401112500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180401112500 +0000" stop="20180401115000 +0000">
     <title>Don't Be Tardy</title>
@@ -13577,6 +13698,9 @@
   <programme channel="tv.30" start="20180401235800 +0000" stop="20180402000000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180402000000 +0000" stop="20180402005500 +0000">
     <title>David Tutera: Celebrations</title>
@@ -13595,6 +13719,9 @@
   <programme channel="tv.30" start="20180402014800 +0000" stop="20180402015000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180402015000 +0000" stop="20180402024500 +0000">
     <title>The Real Housewives Of New York City</title>
