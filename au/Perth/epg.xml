@@ -9551,7 +9551,7 @@
     <title>Movie Juice</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180403160000 +0000" stop="20180403165000 +0000">
@@ -9562,7 +9562,6 @@
   </programme>
   <programme channel="tv.101204600461" start="20180403165000 +0000" stop="20180403175000 +0000">
     <title>Sydney Surf Pro</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -9826,6 +9825,9 @@
   <programme channel="tv.101204600461" start="20180405113000 +0000" stop="20180405123000 +0000">
     <title>20 to One</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180405123000 +0000" stop="20180405140000 +0000">
     <title>The Footy Show</title>
@@ -10412,17 +10414,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600464" start="20180331103000 +0000" stop="20180331113000 +0000">
-    <title>Zombie House Flipping</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204600464" start="20180331103000 +0000" stop="20180331110000 +0000">
     <title>Open Homes Australia</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600464" start="20180331103000 +0000" stop="20180331113000 +0000">
+    <title>Zombie House Flipping</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204600464" start="20180331113000 +0000" stop="20180331120000 +0000">
@@ -11278,7 +11280,6 @@
   </programme>
   <programme channel="tv.101204600464" start="20180404203000 +0000" stop="20180404210000 +0000">
     <title>Postcards</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -11723,14 +11724,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204600467" start="20180330051000 +0000" stop="20180330070000 +0000">
-    <title>Good Friday Rugby League</title>
+    <title>Good Friday Live Rugby League</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204600467" start="20180330051000 +0000" stop="20180330070000 +0000">
-    <title>Good Friday Live Rugby League</title>
+    <title>Good Friday Rugby League</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -12587,22 +12588,20 @@
   </programme>
   <programme channel="tv.101204600467" start="20180404183000 +0000" stop="20180404190000 +0000">
     <title>The Garden Gurus</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204600467" start="20180404190000 +0000" stop="20180404210000 +0000">
     <title>US Masters Golf</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204600467" start="20180404210000 +0000" stop="20180404220000 +0000">
-    <title>To Be Advised</title>
+    <title>Heartbeat</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204600467" start="20180404220000 +0000" stop="20180404230000 +0000">
@@ -15448,7 +15447,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180331094500 +0000" stop="20180331101500 +0000">
-    <title>Raceday Review - Oakbank</title>
+    <title>Raceday Review - Kerang</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -15496,14 +15495,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180331200000 +0000" stop="20180331201500 +0000">
-    <title>Champions - Makybe Diva</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180331201500 +0000" stop="20180331204500 +0000">
+  <programme channel="tv.101305020528" start="20180331200000 +0000" stop="20180331204500 +0000">
     <title>Raceday Review - Oakbank</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -15517,42 +15509,35 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180331213000 +0000" stop="20180331220000 +0000">
+  <programme channel="tv.101305020528" start="20180331213000 +0000" stop="20180331221500 +0000">
     <title>Raceday Review - Oakbank</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180331220000 +0000" stop="20180331223000 +0000">
+  <programme channel="tv.101305020528" start="20180331221500 +0000" stop="20180331224500 +0000">
     <title>Raceday Review - Clare</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180331223000 +0000" stop="20180331230000 +0000">
+  <programme channel="tv.101305020528" start="20180331224500 +0000" stop="20180331231500 +0000">
     <title>Raceday Review - Warracknabeal</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180331230000 +0000" stop="20180331233000 +0000">
+  <programme channel="tv.101305020528" start="20180331231500 +0000" stop="20180331234500 +0000">
     <title>Raceday Review - Kerang</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180331233000 +0000" stop="20180401000000 +0000">
-    <title>Raceday Review - Clare</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180401000000 +0000" stop="20180401003000 +0000">
+  <programme channel="tv.101305020528" start="20180331234500 +0000" stop="20180401003000 +0000">
     <title>Raceday Review - Oakbank</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -15581,7 +15566,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180401021500 +0000" stop="20180401080000 +0000">
-    <title>Racing Live: Morn/Stawell/Penola</title>
+    <title>Racing Live: Stawell/Morn/Penola</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -21032,15 +21017,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060565" start="20180330045700 +0000" stop="20180330061000 +0000">
-    <title>House Rules</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305060565" start="20180330045700 +0000" stop="20180330055300 +0000">
+    <title>Once Upon a Time in Wonderland</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060565" start="20180330045700 +0000" stop="20180330055300 +0000">
-    <title>Once Upon a Time in Wonderland</title>
+  <programme channel="tv.101305060565" start="20180330045700 +0000" stop="20180330061000 +0000">
+    <title>House Rules</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -27889,14 +27874,14 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20180329143700 +0000" stop="20180329150700 +0000">
+  <programme channel="tv.3201026102E1" start="20180329143700 +0000" stop="20180329145000 +0000">
     <title>ABC Late News</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20180329143700 +0000" stop="20180329145000 +0000">
+  <programme channel="tv.3201026102E1" start="20180329143700 +0000" stop="20180329150700 +0000">
     <title>ABC Late News</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
