@@ -1702,6 +1702,12 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180407140000 +0000" stop="20180407141500 +0000">
+    <title>ABC Late News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180330133800 +0000" stop="20180330140900 +0000">
     <title>Red Dwarf</title>
     <subtitles type="teletext"/>
@@ -5823,6 +5829,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180407140000 +0000" stop="20180407142200 +0000">
+    <title>Inside Amy Schumer</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002210224" start="20180330112500 +0000" stop="20180330180000 +0000">
@@ -11439,17 +11452,17 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204000407" start="20180331140000 +0000" stop="20180331150100 +0000">
+    <title>Hotel Impossible</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204000407" start="20180331140000 +0000" stop="20180331143000 +0000">
     <title>Open Homes Australia</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204000407" start="20180331140000 +0000" stop="20180331150100 +0000">
-    <title>Hotel Impossible</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204000407" start="20180331143000 +0000" stop="20180331150000 +0000">
@@ -11509,16 +11522,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204000407" start="20180331210000 +0000" stop="20180331220100 +0000">
-    <title>Raise the Roof</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204000407" start="20180331210000 +0000" stop="20180331220000 +0000">
     <title>Colin and Justin's Home Heist</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204000407" start="20180331210000 +0000" stop="20180331220100 +0000">
+    <title>Raise the Roof</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204000407" start="20180331220100 +0000" stop="20180331230100 +0000">
@@ -12792,6 +12805,12 @@
     <title>House Hunters International</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204000407" start="20180407140000 +0000" stop="20180407150000 +0000">
+    <title>Hotel Impossible</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.10120400040A" start="20180330132100 +0000" stop="20180330141800 +0000">
@@ -15892,6 +15911,12 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.10120400040B" start="20180407140000 +0000" stop="20180407140500 +0000">
+    <title>[adult swim]</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020528" start="20180330133000 +0000" stop="20180330140000 +0000">
     <title>Raceday Review - Happy Valley</title>
     <subtitles type="teletext"/>
@@ -17635,6 +17660,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180407140000 +0000" stop="20180407141500 +0000">
+    <title>Behind the Scenes</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305040540" start="20180330103900 +0000" stop="20180330142800 +0000">
     <title>The Green Mile</title>
     <subtitles type="teletext"/>
@@ -18446,6 +18478,13 @@
     </rating>
   </programme>
   <programme channel="tv.101305040540" start="20180407090000 +0000" stop="20180407140000 +0000">
+    <title>Gold Coast 2018 Commonwealth Games</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040540" start="20180407140000 +0000" stop="20180407170000 +0000">
     <title>Gold Coast 2018 Commonwealth Games</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -24474,14 +24513,14 @@
     </rating>
   </programme>
   <programme channel="tv.101406040645" start="20180331080000 +0000" stop="20180331083000 +0000">
-    <title>David Attenborough's Natural Curiosities</title>
+    <title>Bondi Rescue</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406040645" start="20180331080000 +0000" stop="20180331083000 +0000">
-    <title>Bondi Rescue</title>
+    <title>David Attenborough's Natural Curiosities</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -35613,6 +35652,12 @@
   </programme>
   <programme channel="tv.320203000305" start="20180407133000 +0000" stop="20180407140000 +0000">
     <title>Defining Moments</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180407140000 +0000" stop="20180407150000 +0000">
+    <title>Volumz</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
