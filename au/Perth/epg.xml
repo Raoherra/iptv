@@ -1675,6 +1675,37 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180408140000 +0000" stop="20180408141500 +0000">
+    <title>ABC Late News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180408141500 +0000" stop="20180408150000 +0000">
+    <title>National Wrap</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180408150000 +0000" stop="20180408151500 +0000">
+    <title>BBC World News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180408151500 +0000" stop="20180408153000 +0000">
+    <title>ABC Late News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180408153000 +0000" stop="20180408162900 +0000">
+    <title>Insiders</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180331151800 +0000" stop="20180331170000 +0000">
     <title>Station Close</title>
     <rating system="Freeview">
@@ -5779,6 +5810,34 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210222" start="20180408141500 +0000" stop="20180408144500 +0000">
+    <title>Upstart Crow</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180408144500 +0000" stop="20180408151000 +0000">
+    <title>Plebs</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180408151000 +0000" stop="20180408153200 +0000">
+    <title>Idiotsitter</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180408153200 +0000" stop="20180408160300 +0000">
+    <title>Would I Lie to You?</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210224" start="20180331153100 +0000" stop="20180331180000 +0000">
     <title>Station Close</title>
     <rating system="Freeview">
@@ -9769,8 +9828,21 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101204600461" start="20180408160000 +0000" stop="20180408170000 +0000">
+    <title>House</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204600464" start="20180331153000 +0000" stop="20180331160000 +0000">
     <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600464" start="20180331160000 +0000" stop="20180331163000 +0000">
+    <title>Open Homes Australia</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -9779,13 +9851,6 @@
     <title>Hotel Impossible</title>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600464" start="20180331160000 +0000" stop="20180331163000 +0000">
-    <title>Open Homes Australia</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204600464" start="20180331163000 +0000" stop="20180331170000 +0000">
@@ -9845,16 +9910,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600464" start="20180331230000 +0000" stop="20180401000000 +0000">
-    <title>Colin and Justin's Home Heist</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204600464" start="20180331230000 +0000" stop="20180401000100 +0000">
     <title>Raise the Roof</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600464" start="20180331230000 +0000" stop="20180401000000 +0000">
+    <title>Colin and Justin's Home Heist</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204600464" start="20180401000100 +0000" stop="20180401010100 +0000">
@@ -11327,6 +11392,12 @@
   </programme>
   <programme channel="tv.101204600464" start="20180408153000 +0000" stop="20180408160000 +0000">
     <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600464" start="20180408160000 +0000" stop="20180408170000 +0000">
+    <title>Listed Sisters</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -14463,6 +14534,12 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204600468" start="20180408160000 +0000" stop="20180408160500 +0000">
+    <title>[adult swim]</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020528" start="20180331110000 +0000" stop="20180331180000 +0000">
     <title>Dubai World Cup 2018</title>
     <subtitles type="teletext"/>
@@ -16222,6 +16299,41 @@
   </programme>
   <programme channel="tv.101305020528" start="20180408133000 +0000" stop="20180408140000 +0000">
     <title>Raceday Review - Port Augusta</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180408140000 +0000" stop="20180408143000 +0000">
+    <title>Raceday Review - Ballarat</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180408143000 +0000" stop="20180408150000 +0000">
+    <title>Raceday Review - Echuca</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180408150000 +0000" stop="20180408153000 +0000">
+    <title>Raceday Review - Port Augusta</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180408153000 +0000" stop="20180408160000 +0000">
+    <title>Raceday Review - Ballarat</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180408160000 +0000" stop="20180408163000 +0000">
+    <title>Raceday Review - Echuca</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -18266,6 +18378,13 @@
   </programme>
   <programme channel="tv.101305060562" start="20180408145800 +0000" stop="20180408160000 +0000">
     <title>Escape to the Country</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305060562" start="20180408160000 +0000" stop="20180408163000 +0000">
+    <title>Room for Improvement</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -24615,6 +24734,12 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101406070685" start="20180408160000 +0000" stop="20180408163000 +0000">
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406070688" start="20180331143100 +0000" stop="20180331170300 +0000">
     <title>The Loop</title>
     <rating system="Freeview">
@@ -29642,6 +29767,12 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000301" start="20180408151500 +0000" stop="20180408171000 +0000">
+    <title>Regarding Susan Sontag</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000302" start="20180331145000 +0000" stop="20180331170000 +0000">
     <title>France 24 English News</title>
     <rating system="Freeview">
@@ -31400,6 +31531,18 @@
     <title>Paris-Roubaix</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180408153000 +0000" stop="20180408155500 +0000">
+    <title>Nirvanna the Band the Show</title>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180408155500 +0000" stop="20180408162000 +0000">
+    <title>Female Fighters of Kurdistan</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180331145900 +0000" stop="20180331160000 +0000">
@@ -33689,6 +33832,36 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180408142000 +0000" stop="20180408151500 +0000">
+    <title>Cake Masters</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180408151500 +0000" stop="20180408152500 +0000">
+    <title>Destination Flavour Bitesize</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180408152500 +0000" stop="20180408153000 +0000">
+    <title>Duff Goldman in Australia</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180408153000 +0000" stop="20180408160000 +0000">
+    <title>Celebrity Food Fight</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180408160000 +0000" stop="20180408163000 +0000">
+    <title>Celebrity Food Fight</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180331145900 +0000" stop="20180331160000 +0000">
     <title>Volumz</title>
     <rating system="Freeview">
@@ -35733,6 +35906,24 @@
   </programme>
   <programme channel="tv.320203000305" start="20180408123000 +0000" stop="20180408140000 +0000">
     <title>Miss Tibet - Beauty In Exile</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180408140000 +0000" stop="20180408150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180408150000 +0000" stop="20180408160000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180408160000 +0000" stop="20180408170000 +0000">
+    <title>Volumz</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
