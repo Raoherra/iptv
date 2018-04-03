@@ -1612,6 +1612,20 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180411140000 +0000" stop="20180411143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180411143000 +0000" stop="20180411150000 +0000">
+    <title>7.30</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180403140700 +0000" stop="20180403143600 +0000">
     <title>Tonightly with Tom Ballard</title>
     <subtitles type="teletext"/>
@@ -5812,6 +5826,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180411142400 +0000" stop="20180411145400 +0000">
+    <title>Red Dwarf</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210224" start="20180403130300 +0000" stop="20180403190000 +0000">
@@ -12922,6 +12943,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204500454" start="20180411143000 +0000" stop="20180411150000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204500457" start="20180403141200 +0000" stop="20180403151900 +0000">
     <title>New Tricks</title>
     <rating system="Freeview">
@@ -19470,6 +19497,13 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101305050552" start="20180411143000 +0000" stop="20180411150000 +0000">
+    <title>Million Dollar Minute</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305050553" start="20180403135700 +0000" stop="20180403145800 +0000">
     <title>Strip N' Rip</title>
     <rating system="Freeview">
@@ -21085,6 +21119,12 @@
     <title>American Dad!</title>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050553" start="20180411143000 +0000" stop="20180411150000 +0000">
+    <title>Black-Ish</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180403142600 +0000" stop="20180403145400 +0000">
@@ -24886,14 +24926,14 @@
     <title>The Living Room</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101406050655" start="20180406033000 +0000" stop="20180406043000 +0000">
     <title>The Living Room</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050655" start="20180406043000 +0000" stop="20180406050000 +0000">
@@ -29542,6 +29582,12 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000301" start="20180411140000 +0000" stop="20180411152500 +0000">
+    <title>Night Fare</title>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000302" start="20180403141500 +0000" stop="20180403144000 +0000">
     <title>VICE News Tonight</title>
     <rating system="Freeview">
@@ -33657,6 +33703,18 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180411140000 +0000" stop="20180411143000 +0000">
+    <title>Bondi Harvest</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180411143000 +0000" stop="20180411150000 +0000">
+    <title>Wonderful Indonesia Flavours</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180403140000 +0000" stop="20180403150000 +0000">
     <title>Volumz</title>
     <rating system="Freeview">
@@ -35752,6 +35810,12 @@
     <title>Back in the Day</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180411140000 +0000" stop="20180411150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
 </tv>
