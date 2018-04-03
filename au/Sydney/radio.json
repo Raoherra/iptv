@@ -296,6 +296,20 @@
             "sample_rate": "44100"
         }
     },
+    "radio.ih.6709": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6709.png",
+        "name": "Macquarie Sports Radio Sydney",
+        "description": "954 AM - All Sports, All The Time",
+        "genres": [
+            "Sports"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6709|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        }
+    },
     "radio.ih.7111": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7111.png",
         "name": "RN",
@@ -510,20 +524,6 @@
             "codec": "aac",
             "channels": 2,
             "sample_rate": "44100"
-        }
-    },
-    "radio.ih.6709": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6709.png",
-        "name": "Talking Lifestyle Radio Sydney",
-        "description": "954 AM | Digital | Online | Mobile",
-        "genres": [
-            "News & Talk"
-        ],
-        "url": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6709|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
         }
     },
     "radio.ih.6794": {

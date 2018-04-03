@@ -356,6 +356,21 @@
             "sample_rate": "44100"
         }
     },
+    "radio.ih.6713": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6713.png",
+        "name": "Macquarie Sports Radio 882 AM",
+        "description": "Brisbane - All Sports, All The Time",
+        "genres": [
+            "Mix & Variety",
+            "Sports"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6713|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
     "radio.ih.7111": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7111.png",
         "name": "RN",
@@ -549,21 +564,6 @@
             "Top 40 & Pop"
         ],
         "url": "http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7293|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
-        }
-    },
-    "radio.ih.6713": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6713.png",
-        "name": "Talking Lifestyle Radio 882",
-        "description": "882 AM | Digital | Online | Mobile",
-        "genres": [
-            "Mix & Variety",
-            "News & Talk"
-        ],
-        "url": "http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6713|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "audio": {
             "codec": "aac",
             "channels": 2,
