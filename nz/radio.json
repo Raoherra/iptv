@@ -1244,8 +1244,8 @@
         "url": "http://iptv.matthuisman.nz/nz/radio.or.11|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "audio": {
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "channels": 5,
+            "sample_rate": "0"
         },
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.11.png"
     },
@@ -1288,8 +1288,8 @@
         "url": "http://iptv.matthuisman.nz/nz/radio.or.15.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "audio": {
             "codec": "aac",
-            "channels": 1,
-            "sample_rate": "0"
+            "channels": 2,
+            "sample_rate": "48000"
         },
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.15.png"
     },
