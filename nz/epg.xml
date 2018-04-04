@@ -733,6 +733,7 @@
   <programme channel="tv.9" start="20180404100000 +0000" stop="20180404130000 +0000">
     <title>Comm Games Opening Ceremony</title>
     <desc>Join Peter Williams and Jenny-May Clarkson for live coverage of the Commonwealth Games Opening Ceremony, or watch on DUKE with alternative commentary by Jeremy Wells, Matt Heath and Mike Lane.</desc>
+    <subtitles type="teletext"/>
   </programme>
   <programme channel="tv.9" start="20180404130000 +0000" stop="20180404173500 +0000">
     <title>Infomercial</title>
@@ -1057,7 +1058,7 @@
   </programme>
   <programme channel="tv.9" start="20180407205500 +0000" stop="20180407220000 +0000">
     <title>Comm Games Today</title>
-    <desc>Join Chris Chang as we follow the Women's Athletics 20km Walk race.</desc>
+    <desc>Join Chris Chang as we follow the Men's Athletics 20km Walk race.</desc>
   </programme>
   <programme channel="tv.9" start="20180407220000 +0000" stop="20180407230000 +0000">
     <title>Comm Games Today</title>
@@ -1069,7 +1070,7 @@
   </programme>
   <programme channel="tv.9" start="20180408000000 +0000" stop="20180408010000 +0000">
     <title>Comm Games Today</title>
-    <desc>Coverage this hour includes the Men's Athletics 20km Walk race, and Women's Swimming 100m and 200m Backstroke heats.</desc>
+    <desc>Coverage this hour includes the Women's Athletics 20km Walk race, and Women's Swimming 100m and 200m Backstroke heats.</desc>
   </programme>
   <programme channel="tv.9" start="20180408010000 +0000" stop="20180408020000 +0000">
     <title>Comm Games Today</title>
@@ -1189,11 +1190,11 @@
   </programme>
   <programme channel="tv.9" start="20180409041500 +0000" stop="20180409050000 +0000">
     <title>Comm Games Today</title>
-    <desc>Coverage this hour includes Women's 90kg Weightlifting competition and delayed coverage of Lawn Bowls from earlier in the day.</desc>
+    <desc>Coverage this hour includes delayed coverage of Lawn Bowls from earlier in the day.</desc>
   </programme>
   <programme channel="tv.9" start="20180409050000 +0000" stop="20180409060000 +0000">
     <title>Comm Games Today</title>
-    <desc>Coverage this hour includes delayed coverage of Lawn Bowls from earlier in the day, and Women's Artistic Gymnastics Individual All Round competition.</desc>
+    <desc>Coverage this hour includes Women's Artistic Gymnastics Individual All Round competition.</desc>
   </programme>
   <programme channel="tv.9" start="20180409060000 +0000" stop="20180409070000 +0000">
     <title>1 News At 6pm</title>
@@ -1934,6 +1935,9 @@
   <programme channel="tv.10" start="20180405040000 +0000" stop="20180405043000 +0000">
     <title>Fanimals</title>
     <desc>Today we saddle up with our five contestants in Pony Club, go behind the scenes and see what our teachers do after school in ‘Teachers Pet’, and Jess wants you to win a PlayStation 4!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180405043000 +0000" stop="20180405050000 +0000">
     <title>Friends</title>
@@ -2313,7 +2317,7 @@
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180406152000 +0000" stop="20180406165000 +0000">
@@ -2398,6 +2402,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180406201500 +0000" stop="20180406204000 +0000">
     <title>Pokemon Sun And Moon</title>
@@ -2443,6 +2450,9 @@
   <programme channel="tv.10" start="20180406220000 +0000" stop="20180406223000 +0000">
     <title>Fresh</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180406223000 +0000" stop="20180406230000 +0000">
     <title>The Barefoot Bandits</title>
@@ -2935,7 +2945,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180408213000 +0000" stop="20180408220000 +0000">
-    <title>Faith In Action</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180408220000 +0000" stop="20180408223000 +0000">
@@ -3076,12 +3086,18 @@
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180409090000 +0000" stop="20180409093000 +0000">
     <title>All New Will &amp; Grace</title>
     <desc>Final: Grace's father and Will's mother end up making a surprising and upsetting connection. Jack rebounds from his breakup with a new love. Blythe Danner and Alec Baldwin guest star.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180409093000 +0000" stop="20180409103000 +0000">
     <title>The Walking Dead</title>
@@ -3577,6 +3593,9 @@
   <programme channel="tv.10" start="20180411010000 +0000" stop="20180411020000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180411020000 +0000" stop="20180411030000 +0000">
     <title>Home Improvement</title>
@@ -8274,6 +8293,9 @@
   <programme channel="tv.14" start="20180405050000 +0000" stop="20180405053000 +0000">
     <title>Fanimals</title>
     <desc>Today we saddle up with our five contestants in Pony Club, go behind the scenes and see what our teachers do after school in ‘Teachers Pet’, and Jess wants you to win a PlayStation 4!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180405053000 +0000" stop="20180405060000 +0000">
     <title>Friends</title>
@@ -8602,7 +8624,7 @@
     <title>Recovery Road</title>
     <desc>S1 E5 When one of her housemates faces a crisis, Maddie learns the hard way that sobriety is about the choices we make, not just staying drug-free.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180406162000 +0000" stop="20180406175000 +0000">
@@ -8678,6 +8700,9 @@
   <programme channel="tv.14" start="20180406205000 +0000" stop="20180406211500 +0000">
     <title>The Legendaries</title>
     <desc>With archivist Boldehr Frey as their guide, the Legendaires explore the ancient Marq-Tapahj Library in search of a Magic Parchment.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180406211500 +0000" stop="20180406214000 +0000">
     <title>Pokemon Sun And Moon</title>
@@ -8717,6 +8742,9 @@
   <programme channel="tv.14" start="20180406230000 +0000" stop="20180406233000 +0000">
     <title>Fresh</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180406233000 +0000" stop="20180407000000 +0000">
     <title>The Barefoot Bandits</title>
@@ -9116,7 +9144,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180408223000 +0000" stop="20180408230000 +0000">
-    <title>Faith In Action</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180408230000 +0000" stop="20180408233000 +0000">
@@ -9239,12 +9267,15 @@
     <title>Young Sheldon</title>
     <desc>S1 E9 Young Sheldon has to teach his brother for the test, and in doing so, he learns some skills from his brother.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180409100000 +0000" stop="20180409103000 +0000">
     <title>All New Will &amp; Grace</title>
     <desc>Final: Grace's father and Will's mother end up making a surprising and upsetting connection. Jack rebounds from his breakup with a new love. Blythe Danner and Alec Baldwin guest star.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180409103000 +0000" stop="20180409113000 +0000">
     <title>The Walking Dead</title>
@@ -9668,6 +9699,9 @@
   <programme channel="tv.14" start="20180411020000 +0000" stop="20180411030000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180411030000 +0000" stop="20180411040000 +0000">
     <title>Home Improvement</title>
@@ -15964,8 +15998,8 @@
     <desc>Highlights from Day 2 of competition at the 2018 Gold Coast Commonwealth Games.</desc>
   </programme>
   <programme channel="tv.55" start="20180407012000 +0000" stop="20180407033000 +0000">
-    <title>Live: Basketball - NZL v MAS</title>
-    <desc>Live coverage of Women's Basketball preliminary match between New Zealand and Malaysia.</desc>
+    <title>Live: Basketball - NZL v JAM</title>
+    <desc>Live coverage of Women's Basketball preliminary match between New Zealand and Jamaica.</desc>
   </programme>
   <programme channel="tv.55" start="20180407033000 +0000" stop="20180407065000 +0000">
     <title>Live: Cycling - Track</title>
