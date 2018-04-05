@@ -807,7 +807,7 @@
   </programme>
   <programme channel="tv.9" start="20180405113000 +0000" stop="20180405123000 +0000">
     <title>Comm Games Live</title>
-    <desc>Coverage this hour includes Swimming finals and semi-finals, Women's Basketball preliminary match between New Zealand and Australia, and Men's 62kg Weightlifting with NZ lifter Ianne Guinares.</desc>
+    <desc>Coverage this hour includes Swimming finals and semi-finals, and Men's 62kg Weightlifting with NZ lifter Ianne Guinares.</desc>
   </programme>
   <programme channel="tv.9" start="20180405123000 +0000" stop="20180405130000 +0000">
     <title>Comm Games Tonight</title>
@@ -905,11 +905,11 @@
     <title>Comm Games Tonight</title>
     <desc>Coverage this hour features a replay of Women's Hockey preliminary match between New Zealand and Ghana from earlier this evening.</desc>
   </programme>
-  <programme channel="tv.9" start="20180406143000 +0000" stop="20180406181500 +0000">
+  <programme channel="tv.9" start="20180406143000 +0000" stop="20180406180000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
-  <programme channel="tv.9" start="20180406181500 +0000" stop="20180406183000 +0000">
+  <programme channel="tv.9" start="20180406180000 +0000" stop="20180406183000 +0000">
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
@@ -924,6 +924,9 @@
   <programme channel="tv.9" start="20180406190000 +0000" stop="20180406193000 +0000">
     <title>Rural Delivery</title>
     <desc>New technology reduces nitrogen loss from dairy farms. A couple build a career in dairying for a Maori Incorporation in Canterbury. And by-products of animal processing buy a farm for Angela Payne.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180406193000 +0000" stop="20180406203000 +0000">
     <title>Infomercial</title>
@@ -943,11 +946,11 @@
   </programme>
   <programme channel="tv.9" start="20180406230000 +0000" stop="20180407000000 +0000">
     <title>Comm Games Today</title>
-    <desc>Coverage this hour includes the Men's Artistic Gymnastics Teams competition.</desc>
+    <desc>Coverage this hour includes the Men's Artistic Gymnastics Individual All Round competition.</desc>
   </programme>
   <programme channel="tv.9" start="20180407000000 +0000" stop="20180407010000 +0000">
     <title>Comm Games Today</title>
-    <desc>Coverage this hour includes the Men's Artistic Gymnastics Teams competition, Men's Swimming 200m Butterfly heat, Men's 77kg Weightlifting competition, and the Men's Swimming SB8 100m Breaststroke.</desc>
+    <desc>Coverage this hour includes the Men's Artistic Gymnastics competition, Men's Swimming 200m Butterfly heat, Men's 77kg Weightlifting competition, and the Men's Swimming SB8 100m Breaststroke.</desc>
   </programme>
   <programme channel="tv.9" start="20180407010000 +0000" stop="20180407020000 +0000">
     <title>Comm Games Today</title>
@@ -1020,6 +1023,9 @@
   <programme channel="tv.9" start="20180407180000 +0000" stop="20180407182500 +0000">
     <title>Rural Delivery</title>
     <desc>New technology reduces nitrogen loss from dairy farms. A couple build a career in dairying for a Maori Incorporation in Canterbury. And by-products of animal processing buy a farm for Angela Payne.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180407182500 +0000" stop="20180407185000 +0000">
     <title>Fishy Business</title>
@@ -1118,32 +1124,8 @@
     <title>Comm Games Tonight</title>
     <desc>Coverage this hour includes a replay of the Men's Hockey preliminary match between New Zealand and South Africa.</desc>
   </programme>
-  <programme channel="tv.9" start="20180408143000 +0000" stop="20180408150000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180408150000 +0000" stop="20180408153000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180408153000 +0000" stop="20180408160000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180408160000 +0000" stop="20180408163000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180408163000 +0000" stop="20180408170000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180408170000 +0000" stop="20180408173000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180408173000 +0000" stop="20180408180000 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180408143000 +0000" stop="20180408180000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.9" start="20180408180000 +0000" stop="20180408210000 +0000">
@@ -1226,28 +1208,8 @@
     <title>Comm Games Tonight</title>
     <desc>Coverage this hour includes Netball preliminary match between New Zealand and Scotland.</desc>
   </programme>
-  <programme channel="tv.9" start="20180409143000 +0000" stop="20180409150000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180409150000 +0000" stop="20180409153500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180409153500 +0000" stop="20180409160500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180409160500 +0000" stop="20180409164000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180409164000 +0000" stop="20180409171500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180409171500 +0000" stop="20180409174500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180409143000 +0000" stop="20180409174500 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.9" start="20180409174500 +0000" stop="20180409180000 +0000">
@@ -1334,28 +1296,8 @@
     <title>Comm Games Tonight</title>
     <desc>Coverage this hour includes Women's Basketball Quarter- final match.</desc>
   </programme>
-  <programme channel="tv.9" start="20180410143000 +0000" stop="20180410150000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180410150000 +0000" stop="20180410153500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180410153500 +0000" stop="20180410160500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180410160500 +0000" stop="20180410164000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180410164000 +0000" stop="20180410171500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180410171500 +0000" stop="20180410174500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180410143000 +0000" stop="20180410174500 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.9" start="20180410174500 +0000" stop="20180410180000 +0000">
@@ -1442,28 +1384,8 @@
     <title>Comm Games Tonight</title>
     <desc>Coverage this hour includes Men's Hockey preliminary match between England and India.</desc>
   </programme>
-  <programme channel="tv.9" start="20180411143000 +0000" stop="20180411150000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180411150000 +0000" stop="20180411153500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180411153500 +0000" stop="20180411160500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180411160500 +0000" stop="20180411164000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180411164000 +0000" stop="20180411171500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180411171500 +0000" stop="20180411174500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180411143000 +0000" stop="20180411174500 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.9" start="20180411174500 +0000" stop="20180411180000 +0000">
@@ -1602,7 +1524,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180404173000 +0000" stop="20180404183000 +0000">
+  <programme channel="tv.10" start="20180404173000 +0000" stop="20180404180000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.10" start="20180404180000 +0000" stop="20180404183000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -2012,6 +1938,9 @@
   <programme channel="tv.10" start="20180406040000 +0000" stop="20180406043000 +0000">
     <title>Fanimals</title>
     <desc>Today All Black Nehe Milner Skudder takes us for a Wellington wharf walk with Olive and Wiremu, we check out the Kumeu A&amp;P Show, and Jess wants you to win a PlayStation 4!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180406043000 +0000" stop="20180406050000 +0000">
     <title>Friends</title>
@@ -2120,7 +2049,7 @@
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>AO</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180406152000 +0000" stop="20180406165000 +0000">
@@ -2675,7 +2604,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180408173000 +0000" stop="20180408180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180408180000 +0000" stop="20180408183000 +0000">
@@ -2743,16 +2672,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180408210000 +0000" stop="20180408213000 +0000">
-    <title>Infomercial 0900</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180408213000 +0000" stop="20180408220000 +0000">
+  <programme channel="tv.10" start="20180408210000 +0000" stop="20180408223000 +0000">
     <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180408220000 +0000" stop="20180408223000 +0000">
-    <title>Infomercial 1000</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180408223000 +0000" stop="20180408230000 +0000">
@@ -2954,11 +2875,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180409134000 +0000" stop="20180409141500 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180409141500 +0000" stop="20180409144500 +0000">
+  <programme channel="tv.10" start="20180409134000 +0000" stop="20180409144500 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -2993,12 +2910,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180409173000 +0000" stop="20180409180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180409180000 +0000" stop="20180409183000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.10" start="20180409173000 +0000" stop="20180409183000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180409183000 +0000" stop="20180409185500 +0000">
@@ -3063,7 +2976,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180409210000 +0000" stop="20180409213000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180409213000 +0000" stop="20180409220000 +0000">
@@ -3071,7 +2984,7 @@
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180409220000 +0000" stop="20180409223000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180409223000 +0000" stop="20180409230000 +0000">
@@ -3252,11 +3165,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180410133500 +0000" stop="20180410141000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180410141000 +0000" stop="20180410144000 +0000">
+  <programme channel="tv.10" start="20180410133500 +0000" stop="20180410144000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -3292,7 +3201,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180410173000 +0000" stop="20180410180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180410180000 +0000" stop="20180410183000 +0000">
@@ -3535,11 +3444,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180411133500 +0000" stop="20180411141000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180411141000 +0000" stop="20180411144000 +0000">
+  <programme channel="tv.10" start="20180411133500 +0000" stop="20180411144000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -3574,12 +3479,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180411173000 +0000" stop="20180411180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180411180000 +0000" stop="20180411183000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.10" start="20180411173000 +0000" stop="20180411183000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180411183000 +0000" stop="20180411185500 +0000">
@@ -3644,7 +3545,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180411210000 +0000" stop="20180411213000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180411213000 +0000" stop="20180411220000 +0000">
@@ -3652,7 +3553,7 @@
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180411220000 +0000" stop="20180411223000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180411223000 +0000" stop="20180411230000 +0000">
@@ -3679,6 +3580,9 @@
   <programme channel="tv.10" start="20180412010000 +0000" stop="20180412020000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180412020000 +0000" stop="20180412030000 +0000">
     <title>Home Improvement</title>
@@ -8022,7 +7926,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180404183000 +0000" stop="20180404193000 +0000">
+  <programme channel="tv.14" start="20180404183000 +0000" stop="20180404190000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.14" start="20180404190000 +0000" stop="20180404193000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -8381,6 +8289,9 @@
   <programme channel="tv.14" start="20180406050000 +0000" stop="20180406053000 +0000">
     <title>Fanimals</title>
     <desc>Today All Black Nehe Milner Skudder takes us for a Wellington wharf walk with Olive and Wiremu, we check out the Kumeu A&amp;P Show, and Jess wants you to win a PlayStation 4!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180406053000 +0000" stop="20180406060000 +0000">
     <title>Friends</title>
@@ -8471,7 +8382,7 @@
     <title>Recovery Road</title>
     <desc>S1 E5 When one of her housemates faces a crisis, Maddie learns the hard way that sobriety is about the choices we make, not just staying drug-free.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>AO</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180406162000 +0000" stop="20180406175000 +0000">
@@ -8930,7 +8841,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180408183000 +0000" stop="20180408190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180408190000 +0000" stop="20180408193000 +0000">
@@ -8986,16 +8897,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180408220000 +0000" stop="20180408223000 +0000">
-    <title>Infomercial 0900</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180408223000 +0000" stop="20180408230000 +0000">
+  <programme channel="tv.14" start="20180408220000 +0000" stop="20180408233000 +0000">
     <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180408230000 +0000" stop="20180408233000 +0000">
-    <title>Infomercial 1000</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180408233000 +0000" stop="20180409000000 +0000">
@@ -9164,11 +9067,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180409144000 +0000" stop="20180409151500 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180409151500 +0000" stop="20180409154500 +0000">
+  <programme channel="tv.14" start="20180409144000 +0000" stop="20180409154500 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -9200,12 +9099,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180409183000 +0000" stop="20180409190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180409190000 +0000" stop="20180409193000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.14" start="20180409183000 +0000" stop="20180409193000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180409193000 +0000" stop="20180409195500 +0000">
@@ -9258,7 +9153,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180409220000 +0000" stop="20180409223000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180409223000 +0000" stop="20180409230000 +0000">
@@ -9266,7 +9161,7 @@
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180409230000 +0000" stop="20180409233000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180409233000 +0000" stop="20180410000000 +0000">
@@ -9417,11 +9312,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180410143500 +0000" stop="20180410151000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180410151000 +0000" stop="20180410154000 +0000">
+  <programme channel="tv.14" start="20180410143500 +0000" stop="20180410154000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -9454,7 +9345,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180410183000 +0000" stop="20180410190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180410190000 +0000" stop="20180410193000 +0000">
@@ -9664,11 +9555,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180411143500 +0000" stop="20180411151000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180411151000 +0000" stop="20180411154000 +0000">
+  <programme channel="tv.14" start="20180411143500 +0000" stop="20180411154000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -9700,12 +9587,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180411183000 +0000" stop="20180411190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180411190000 +0000" stop="20180411193000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.14" start="20180411183000 +0000" stop="20180411193000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180411193000 +0000" stop="20180411195500 +0000">
@@ -9758,7 +9641,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180411220000 +0000" stop="20180411223000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180411223000 +0000" stop="20180411230000 +0000">
@@ -9766,7 +9649,7 @@
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180411230000 +0000" stop="20180411233000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180411233000 +0000" stop="20180412000000 +0000">
@@ -9793,6 +9676,9 @@
   <programme channel="tv.14" start="20180412020000 +0000" stop="20180412030000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180412030000 +0000" stop="20180412040000 +0000">
     <title>Home Improvement</title>
