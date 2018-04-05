@@ -5820,6 +5820,9 @@
   <programme channel="tv.101002210222" start="20180412120000 +0000" stop="20180412123000 +0000">
     <title>Comedy Up Late</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180412123000 +0000" stop="20180412130000 +0000">
     <title>Red Dwarf</title>
@@ -8995,14 +8998,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180406071200 +0000" stop="20180406075900 +0000">
+  <programme channel="tv.101002710271" start="20180406071200 +0000" stop="20180406080000 +0000">
     <title>The Drum</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180406075900 +0000" stop="20180406090000 +0000">
+  <programme channel="tv.101002710271" start="20180406080000 +0000" stop="20180406090000 +0000">
     <title>Think Tank</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -9030,14 +9033,14 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180406112500 +0000" stop="20180406122500 +0000">
+  <programme channel="tv.101002710271" start="20180406112500 +0000" stop="20180406122400 +0000">
     <title>Silent Witness</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180406122500 +0000" stop="20180406125400 +0000">
+  <programme channel="tv.101002710271" start="20180406122400 +0000" stop="20180406125400 +0000">
     <title>ABC Late News</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -9051,14 +9054,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180406131000 +0000" stop="20180406134100 +0000">
+  <programme channel="tv.101002710271" start="20180406131000 +0000" stop="20180406134300 +0000">
     <title>Shaun Micallef's Mad as Hell</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180406134100 +0000" stop="20180406142600 +0000">
+  <programme channel="tv.101002710271" start="20180406134300 +0000" stop="20180406142600 +0000">
     <title>Planet America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -9587,14 +9590,14 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180409142800 +0000" stop="20180409154400 +0000">
+  <programme channel="tv.101002710271" start="20180409142800 +0000" stop="20180409151400 +0000">
     <title>Doctor Who</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180409154400 +0000" stop="20180409172000 +0000">
+  <programme channel="tv.101002710271" start="20180409151400 +0000" stop="20180409172000 +0000">
     <title>rage</title>
     <rating system="Freeview">
       <value>MA</value>
@@ -9928,21 +9931,21 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180411100100 +0000" stop="20180411103100 +0000">
+  <programme channel="tv.101002710271" start="20180411100100 +0000" stop="20180411103200 +0000">
     <title>Hard Quiz</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180411103100 +0000" stop="20180411110200 +0000">
+  <programme channel="tv.101002710271" start="20180411103200 +0000" stop="20180411110300 +0000">
     <title>Shaun Micallef's Mad as Hell</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180411110200 +0000" stop="20180411113200 +0000">
+  <programme channel="tv.101002710271" start="20180411110300 +0000" stop="20180411113200 +0000">
     <title>Sando</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -19874,16 +19877,16 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180406235900 +0000" stop="20180407010000 +0000">
-    <title>2018 World Rally Championship</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305030533" start="20180406235900 +0000" stop="20180407005800 +0000">
     <title>Fishing The Magic Hour With Josh &amp; Jamie</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030533" start="20180406235900 +0000" stop="20180407010000 +0000">
+    <title>2018 World Rally Championship</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305030533" start="20180407005800 +0000" stop="20180407013000 +0000">
@@ -28341,7 +28344,7 @@
   <programme channel="tv.320203000301" start="20180406104000 +0000" stop="20180406114500 +0000">
     <title>Homeland</title>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180406114500 +0000" stop="20180406134500 +0000">
@@ -29881,43 +29884,43 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180406112500 +0000" stop="20180406115500 +0000">
+  <programme channel="tv.320203000302" start="20180406112500 +0000" stop="20180406120500 +0000">
     <title>Atlanta</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180406115500 +0000" stop="20180406124500 +0000">
+  <programme channel="tv.320203000302" start="20180406120500 +0000" stop="20180406130000 +0000">
     <title>Queer as Folk</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180406124500 +0000" stop="20180406134500 +0000">
+  <programme channel="tv.320203000302" start="20180406130000 +0000" stop="20180406140000 +0000">
     <title>The Handmaid's Tale</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180406134500 +0000" stop="20180406144500 +0000">
+  <programme channel="tv.320203000302" start="20180406140000 +0000" stop="20180406145500 +0000">
     <title>The Handmaid's Tale</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180406144500 +0000" stop="20180406151000 +0000">
+  <programme channel="tv.320203000302" start="20180406145500 +0000" stop="20180406152000 +0000">
     <title>VICE News Tonight</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180406151000 +0000" stop="20180406153500 +0000">
+  <programme channel="tv.320203000302" start="20180406152000 +0000" stop="20180406154500 +0000">
     <title>Desus and Mero</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180406153500 +0000" stop="20180406163500 +0000">
+  <programme channel="tv.320203000302" start="20180406154500 +0000" stop="20180406163500 +0000">
     <title>PopAsia</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -30074,19 +30077,19 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180407063000 +0000" stop="20180407073000 +0000">
+  <programme channel="tv.320203000302" start="20180407060500 +0000" stop="20180407070500 +0000">
     <title>Flight 920: Love in the Air</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180407073000 +0000" stop="20180407083000 +0000">
+  <programme channel="tv.320203000302" start="20180407070500 +0000" stop="20180407080500 +0000">
     <title>MythBusters</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180407083000 +0000" stop="20180407092500 +0000">
+  <programme channel="tv.320203000302" start="20180407080500 +0000" stop="20180407092500 +0000">
     <title>MythBusters</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -30110,13 +30113,13 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180407150000 +0000" stop="20180407153000 +0000">
+  <programme channel="tv.320203000302" start="20180407150000 +0000" stop="20180407153500 +0000">
     <title>The Movie Show</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180407153000 +0000" stop="20180407160000 +0000">
+  <programme channel="tv.320203000302" start="20180407153500 +0000" stop="20180407160000 +0000">
     <title>The Movie Show</title>
     <rating system="Freeview">
       <value>M</value>
@@ -30294,7 +30297,7 @@
   <programme channel="tv.320203000302" start="20180408092000 +0000" stop="20180408103500 +0000">
     <title>If You Are the One</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180408103500 +0000" stop="20180408113000 +0000">
@@ -30924,34 +30927,34 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180411065500 +0000" stop="20180411072000 +0000">
+  <programme channel="tv.320203000302" start="20180411065500 +0000" stop="20180411072500 +0000">
     <title>VICE News Tonight</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180411072000 +0000" stop="20180411083500 +0000">
+  <programme channel="tv.320203000302" start="20180411072500 +0000" stop="20180411084000 +0000">
     <title>If You Are the One</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180411083500 +0000" stop="20180411093000 +0000">
+  <programme channel="tv.320203000302" start="20180411084000 +0000" stop="20180411093500 +0000">
     <title>MythBusters</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180411093000 +0000" stop="20180411100000 +0000">
+  <programme channel="tv.320203000302" start="20180411093500 +0000" stop="20180411100500 +0000">
     <title>The Feed</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180411100000 +0000" stop="20180411103000 +0000">
+  <programme channel="tv.320203000302" start="20180411100500 +0000" stop="20180411103000 +0000">
     <title>Brooklyn Nine-Nine</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180411103000 +0000" stop="20180411113000 +0000">
@@ -35583,7 +35586,7 @@
   <programme channel="tv.320203000305" start="20180412092000 +0000" stop="20180412092500 +0000">
     <title>Breaking the Lies Down</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20180412092500 +0000" stop="20180412093000 +0000">
