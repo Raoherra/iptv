@@ -3600,7 +3600,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.11" start="20180404233500 +0000" stop="20180405000500 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -3614,7 +3614,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180405010000 +0000" stop="20180405030000 +0000">
-    <title>American Idol</title>
+    <title>American Idol (Encore)</title>
     <desc>New Episode. Auditions continue, including a show salesman from Washington D.C., a construction worker from Southern California, and a student from Louisiana. S16 Ep2</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -3945,7 +3945,7 @@
     <title>Newshub Live At 6pm</title>
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
   </programme>
-  <programme channel="tv.11" start="20180407070000 +0000" stop="20180407091000 +0000">
+  <programme channel="tv.11" start="20180407070000 +0000" stop="20180407090000 +0000">
     <title>Eddie The Eagle</title>
     <desc>The story of Eddie Edwards, the notoriously tenacious British underdog ski jumper who charmed the world at the 1988 Winter Olympics. Starring Taron Egerton and Hugh Jackman. (2016)</desc>
     <audio>
@@ -3955,7 +3955,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180407091000 +0000" stop="20180407112500 +0000">
+  <programme channel="tv.11" start="20180407090000 +0000" stop="20180407112000 +0000">
     <title>The Secret Life Of Walter Mitty</title>
     <desc>Ben Stiller directs and stars in this inspiring story about an ordinary man who finds the courage to discover his destiny and leap into the extraordinary adventure that is life.</desc>
     <audio>
@@ -3965,7 +3965,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180407112500 +0000" stop="20180407132000 +0000">
+  <programme channel="tv.11" start="20180407112000 +0000" stop="20180407131500 +0000">
     <title>Secrets In Suburbia</title>
     <desc>A woman find out her friends and husband are plotting her murder. The otherwise kind-hearted housewife plots a deadly revenge plan against everyone who has betrayed her. (2017)</desc>
     <audio>
@@ -3975,7 +3975,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180407132000 +0000" stop="20180407160000 +0000">
+  <programme channel="tv.11" start="20180407131500 +0000" stop="20180407160000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -3997,22 +3997,37 @@
   <programme channel="tv.11" start="20180407180000 +0000" stop="20180407183000 +0000">
     <title>Life TV</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180407183000 +0000" stop="20180407190000 +0000">
     <title>Brian Houston</title>
-    <desc></desc>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180407190000 +0000" stop="20180407200000 +0000">
     <title>Charles Stanley</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180407200000 +0000" stop="20180407203000 +0000">
-    <title>Living Church of God</title>
+    <title>Living Church Of God</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180407203000 +0000" stop="20180407210000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180407210000 +0000" stop="20180407213000 +0000">
     <title>R &amp; R</title>
@@ -4364,6 +4379,9 @@
   <programme channel="tv.11" start="20180410105500 +0000" stop="20180410115500 +0000">
     <title>The Blacklist</title>
     <desc>New Episode. When an associate of the Nash Syndicate is murdered, Red sets Liz and the Task Force on the case in order to recover evidence crucial to bringing down Ian Garvey. S5 Ep17</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -4583,10 +4601,16 @@
   <programme channel="tv.11" start="20180412073000 +0000" stop="20180412080000 +0000">
     <title>All New Roseanne</title>
     <desc>New Episode. Roseanne's clash with Darlene over how she's raising her kids reaches breaking point, while Dan tries to help Roseanne with her bad knee by getting her an elevator chair. S1 Ep3</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180412080000 +0000" stop="20180412083000 +0000">
     <title>All New Modern Family</title>
-    <desc>New episodes of Modern Family are fast-tracked from the States. S9 Ep19</desc>
+    <desc>New Episode. Haley's boss tries to buy Gloria's salsa, and Mitchell gets Cam the police ride-along he's always dreamed of. S9 Ep19</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -9682,7 +9706,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.27" start="20180405003500 +0000" stop="20180405010500 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -9696,7 +9720,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180405020000 +0000" stop="20180405040000 +0000">
-    <title>American Idol</title>
+    <title>American Idol (Encore)</title>
     <desc>New Episode. Auditions continue, including a show salesman from Washington D.C., a construction worker from Southern California, and a student from Louisiana. S16 Ep2</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -10000,28 +10024,28 @@
     <title>Newshub Live At 6pm</title>
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
   </programme>
-  <programme channel="tv.27" start="20180407080000 +0000" stop="20180407101000 +0000">
+  <programme channel="tv.27" start="20180407080000 +0000" stop="20180407100000 +0000">
     <title>Eddie The Eagle</title>
     <desc>The story of Eddie Edwards, the notoriously tenacious British underdog ski jumper who charmed the world at the 1988 Winter Olympics. Starring Taron Egerton and Hugh Jackman. (2016)</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180407101000 +0000" stop="20180407122500 +0000">
+  <programme channel="tv.27" start="20180407100000 +0000" stop="20180407122000 +0000">
     <title>The Secret Life Of Walter Mitty</title>
     <desc>Ben Stiller directs and stars in this inspiring story about an ordinary man who finds the courage to discover his destiny and leap into the extraordinary adventure that is life.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180407122500 +0000" stop="20180407142000 +0000">
+  <programme channel="tv.27" start="20180407122000 +0000" stop="20180407141500 +0000">
     <title>Secrets In Suburbia</title>
     <desc>A woman find out her friends and husband are plotting her murder. The otherwise kind-hearted housewife plots a deadly revenge plan against everyone who has betrayed her. (2017)</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180407142000 +0000" stop="20180407170000 +0000">
+  <programme channel="tv.27" start="20180407141500 +0000" stop="20180407170000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -10043,22 +10067,37 @@
   <programme channel="tv.27" start="20180407190000 +0000" stop="20180407193000 +0000">
     <title>Life TV</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180407193000 +0000" stop="20180407200000 +0000">
     <title>Brian Houston</title>
-    <desc></desc>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180407200000 +0000" stop="20180407210000 +0000">
     <title>Charles Stanley</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180407210000 +0000" stop="20180407213000 +0000">
-    <title>Living Church of God</title>
+    <title>Living Church Of God</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180407213000 +0000" stop="20180407220000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180407220000 +0000" stop="20180407223000 +0000">
     <title>R &amp; R</title>
@@ -10599,10 +10638,13 @@
   <programme channel="tv.27" start="20180412083000 +0000" stop="20180412090000 +0000">
     <title>All New Roseanne</title>
     <desc>New Episode. Roseanne's clash with Darlene over how she's raising her kids reaches breaking point, while Dan tries to help Roseanne with her bad knee by getting her an elevator chair. S1 Ep3</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180412090000 +0000" stop="20180412093000 +0000">
     <title>All New Modern Family</title>
-    <desc>New episodes of Modern Family are fast-tracked from the States. S9 Ep19</desc>
+    <desc>New Episode. Haley's boss tries to buy Gloria's salsa, and Mitchell gets Cam the police ride-along he's always dreamed of. S9 Ep19</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -16676,8 +16718,8 @@
     </rating>
   </programme>
   <programme channel="tv.20" start="20180407083000 +0000" stop="20180407100000 +0000">
-    <title>Riiki NRL 2018</title>
-    <desc>Exclusive free-to-air delayed coverage of the 2018 NRL Premiership, commentated in Te Reo Māori. Tonight: Raiders v Bulldogs.</desc>
+    <title>Te Reo</title>
+    <desc>Māori Television specialises in the stories of Aotearoa. Be entertained and informed with news, current affairs, sports, drama, documentaries and much more. Go to www.Maoritelevision.com for more inf</desc>
   </programme>
   <programme channel="tv.20" start="20180407100000 +0000" stop="20180407103000 +0000">
     <title>Te Kāuta</title>
