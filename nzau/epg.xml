@@ -15794,15 +15794,19 @@
     <title>The Moment</title>
     <desc>Matt Heath and Mike Lane look at key moments and discussion points from the day at the 2018 Gold Coast Commonwealth Games.</desc>
   </programme>
-  <programme channel="tv.55" start="20180406090000 +0000" stop="20180406120000 +0000">
-    <title>Live: Cycling - Track</title>
-    <desc>Live coverage of Cycling Track events.</desc>
+  <programme channel="tv.55" start="20180406090000 +0000" stop="20180406092500 +0000">
+    <title>Comm Games Tonight</title>
+    <desc>Join Guy Heveldt for a look at New Zealand’s medal chances in the Cycling &amp; Swimming events.</desc>
   </programme>
-  <programme channel="tv.55" start="20180406120000 +0000" stop="20180406125500 +0000">
+  <programme channel="tv.55" start="20180406092500 +0000" stop="20180406123000 +0000">
+    <title>Live: Swimming</title>
+    <desc>Live coverage of swimming finals and semi-finals.</desc>
+  </programme>
+  <programme channel="tv.55" start="20180406123000 +0000" stop="20180406132500 +0000">
     <title>2018 Games Highlights - Day 2</title>
     <desc>Highlights from Day 2 of competition at the 2018 Gold Coast Commonwealth Games.</desc>
   </programme>
-  <programme channel="tv.55" start="20180406125500 +0000" stop="20180406180000 +0000">
+  <programme channel="tv.55" start="20180406132500 +0000" stop="20180406180000 +0000">
     <title>Comm Games Update</title>
     <desc>Latest updates from the 2018 Gold Coast Commonwealth Games.</desc>
   </programme>
@@ -16142,11 +16146,11 @@
     <title>Live: Weightlifting - W 53kg</title>
     <desc>Live coverage of the Women's 53kg Weightlifting, featuring New Zealand lifter Philippa Patterson.</desc>
   </programme>
-  <programme channel="tv.64" start="20180406020000 +0000" stop="20180406023000 +0000">
+  <programme channel="tv.64" start="20180406020000 +0000" stop="20180406030000 +0000">
     <title>Beach Volleyball - SCO v SRI (M)</title>
     <desc>Highlights of Men's Beach Volleyball preliminary match between Scotland and Sri Lanka.</desc>
   </programme>
-  <programme channel="tv.64" start="20180406023000 +0000" stop="20180406042000 +0000">
+  <programme channel="tv.64" start="20180406030000 +0000" stop="20180406042000 +0000">
     <title>Live: Netball - NZL v WAL</title>
     <desc>Live coverage of preliminary Netball match between New Zealand and Wales.</desc>
   </programme>
@@ -33821,9 +33825,16 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.60" start="20180405220000 +0000" stop="20180406000000 +0000">
+  <programme channel="tv.60" start="20180405220000 +0000" stop="20180405230000 +0000">
     <title>Wairarapa Property Showcase</title>
     <desc>A selection of the best Wairarapa Properties for sale.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180405230000 +0000" stop="20180406000000 +0000">
+    <title>WHAM - ArrowFM</title>
+    <desc>Join Hayley Gastmeier live each Friday to find out what community events and cool things are on near you</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -33836,8 +33847,8 @@
     </rating>
   </programme>
   <programme channel="tv.60" start="20180406010000 +0000" stop="20180406020000 +0000">
-    <title>Conservation Watch</title>
-    <desc>Join the department of conservation to catch up on the latest conservation efforts from around the country.</desc>
+    <title>WHAM - ArrowFM</title>
+    <desc>Join Hayley Gastmeier live each Friday to find out what community events and cool things are on near you</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -33864,8 +33875,8 @@
     </rating>
   </programme>
   <programme channel="tv.60" start="20180406050000 +0000" stop="20180406060000 +0000">
-    <title>Low Gear</title>
-    <desc>Join Bill Hohepa as he explores the world of trucks and historic vehicles.</desc>
+    <title>WHAM - ArrowFM</title>
+    <desc>Join Hayley Gastmeier live each Friday to find out what community events and cool things are on near you</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -33878,8 +33889,8 @@
     </rating>
   </programme>
   <programme channel="tv.60" start="20180406070000 +0000" stop="20180406080000 +0000">
-    <title>Wairarapa Spotlight</title>
-    <desc>Spotlight on the Wairarapa featuring the latest happenings to events of historical significance.</desc>
+    <title>WHAM - ArrowFM</title>
+    <desc>Join Hayley Gastmeier live each Friday to find out what community events and cool things are on near you</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -33951,12 +33962,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.60" start="20180406180000 +0000" stop="20180406200000 +0000">
+  <programme channel="tv.60" start="20180406180000 +0000" stop="20180406190000 +0000">
     <title>Colour in Your Life</title>
     <desc>Join Graham Stevenson as he explores the arts across Australasia and the UK.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
+  </programme>
+  <programme channel="tv.60" start="20180406190000 +0000" stop="20180406200000 +0000">
+    <title>Today I Found Out</title>
+    <desc>Today I Found Out...</desc>
   </programme>
   <programme channel="tv.60" start="20180406200000 +0000" stop="20180406210000 +0000">
     <title>Glistening Waters</title>
@@ -34179,12 +34194,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.60" start="20180408040000 +0000" stop="20180408060000 +0000">
+  <programme channel="tv.60" start="20180408040000 +0000" stop="20180408050000 +0000">
     <title>Flite Test</title>
     <desc>Join the team from Flite Test as they build and test all array of flying machines from drones to model aircraft to racers.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
+  </programme>
+  <programme channel="tv.60" start="20180408050000 +0000" stop="20180408060000 +0000">
+    <title>Today I Found Out</title>
+    <desc>Today I Found Out...</desc>
   </programme>
   <programme channel="tv.60" start="20180408060000 +0000" stop="20180408070000 +0000">
     <title>Fencepost</title>
@@ -34267,12 +34286,16 @@
     <title>Vlogger Time</title>
     <desc>Join a selection of Wairarapa Vloggers for their latest updates including the Adventures of Joel &amp; Jamie, The Cam Waru Show and Mady Rose Art.</desc>
   </programme>
-  <programme channel="tv.60" start="20180408180000 +0000" stop="20180408200000 +0000">
+  <programme channel="tv.60" start="20180408180000 +0000" stop="20180408190000 +0000">
     <title>Space Hour</title>
     <desc>NASA Edge is the official NASA Channel and TMRO is a crowd funded space channel run by space enthusiasts.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
+  </programme>
+  <programme channel="tv.60" start="20180408190000 +0000" stop="20180408200000 +0000">
+    <title>Today I Found Out</title>
+    <desc>Today I Found Out...</desc>
   </programme>
   <programme channel="tv.60" start="20180408200000 +0000" stop="20180408210000 +0000">
     <title>Colour in Your Life</title>
@@ -34288,11 +34311,18 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.60" start="20180408220000 +0000" stop="20180409000000 +0000">
+  <programme channel="tv.60" start="20180408220000 +0000" stop="20180408230000 +0000">
     <title>Wairarapa Property Showcase</title>
     <desc>A selection of the best Wairarapa Properties for sale.</desc>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180408230000 +0000" stop="20180409000000 +0000">
+    <title>Biography</title>
+    <desc/>
+    <rating system="Freeview">
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.60" start="20180409000000 +0000" stop="20180409010000 +0000">
@@ -34449,11 +34479,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.60" start="20180409220000 +0000" stop="20180410000000 +0000">
+  <programme channel="tv.60" start="20180409220000 +0000" stop="20180409230000 +0000">
     <title>Wairarapa Property Showcase</title>
     <desc>A selection of the best Wairarapa Properties for sale.</desc>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180409230000 +0000" stop="20180410000000 +0000">
+    <title>Biography</title>
+    <desc/>
+    <rating system="Freeview">
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.60" start="20180410000000 +0000" stop="20180410010000 +0000">
@@ -34484,12 +34521,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.60" start="20180410040000 +0000" stop="20180410060000 +0000">
+  <programme channel="tv.60" start="20180410040000 +0000" stop="20180410050000 +0000">
     <title>Space Hour</title>
     <desc>NASA Edge is the official NASA Channel and TMRO is a crowd funded space channel run by space enthusiasts.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
+  </programme>
+  <programme channel="tv.60" start="20180410050000 +0000" stop="20180410060000 +0000">
+    <title>Today I Found Out</title>
+    <desc>Today I Found Out...</desc>
   </programme>
   <programme channel="tv.60" start="20180410060000 +0000" stop="20180410070000 +0000">
     <title>Fencepost</title>
@@ -34572,12 +34613,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.60" start="20180410180000 +0000" stop="20180410200000 +0000">
+  <programme channel="tv.60" start="20180410180000 +0000" stop="20180410190000 +0000">
     <title>Wairarapa Spotlight</title>
     <desc>Spotlight on the Wairarapa featuring the latest happenings to events of historical significance.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
+  </programme>
+  <programme channel="tv.60" start="20180410190000 +0000" stop="20180410200000 +0000">
+    <title>Today I Found Out</title>
+    <desc>Today I Found Out...</desc>
   </programme>
   <programme channel="tv.60" start="20180410200000 +0000" stop="20180410210000 +0000">
     <title>Space Hour</title>
@@ -38740,14 +38785,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180412125800 +0000" stop="20180412144600 +0000">
+  <programme channel="tv.101002210221" start="20180412125800 +0000" stop="20180412140000 +0000">
     <title>Employable Me</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180412135900 +0000" stop="20180412144600 +0000">
+  <programme channel="tv.101002210221" start="20180412140000 +0000" stop="20180412144600 +0000">
     <title>Doctor Who</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -38876,7 +38921,7 @@
     <title>Think Tank</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20180413090000 +0000" stop="20180413093200 +0000">
@@ -45581,14 +45626,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180412190000 +0000" stop="20180412193000 +0000">
+  <programme channel="tv.101002210224" start="20180412190000 +0000" stop="20180412192900 +0000">
     <title>Officially Amazing</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180412193000 +0000" stop="20180412195200 +0000">
+  <programme channel="tv.101002210224" start="20180412192900 +0000" stop="20180412195200 +0000">
     <title>Detentionaire</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -45615,28 +45660,28 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180412203000 +0000" stop="20180412205700 +0000">
+  <programme channel="tv.101002210224" start="20180412203000 +0000" stop="20180412205600 +0000">
     <title>The Penguins of Madagascar</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180412205700 +0000" stop="20180412211000 +0000">
+  <programme channel="tv.101002210224" start="20180412205600 +0000" stop="20180412211000 +0000">
     <title>SheZow</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180412211000 +0000" stop="20180412212200 +0000">
+  <programme channel="tv.101002210224" start="20180412211000 +0000" stop="20180412212100 +0000">
     <title>Camp Lakebottom</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180412212200 +0000" stop="20180412214500 +0000">
+  <programme channel="tv.101002210224" start="20180412212100 +0000" stop="20180412214500 +0000">
     <title>The Fairly OddParents</title>
     <rating system="Freeview">
       <value>G</value>
@@ -45710,33 +45755,33 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413010300 +0000" stop="20180413013300 +0000">
+  <programme channel="tv.101002210224" start="20180413010300 +0000" stop="20180413013200 +0000">
     <title>Roy</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413013300 +0000" stop="20180413020300 +0000">
+  <programme channel="tv.101002210224" start="20180413013200 +0000" stop="20180413020100 +0000">
     <title>Roy</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413020300 +0000" stop="20180413022500 +0000">
+  <programme channel="tv.101002210224" start="20180413020100 +0000" stop="20180413022400 +0000">
     <title>Odd Squad</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413022500 +0000" stop="20180413024800 +0000">
+  <programme channel="tv.101002210224" start="20180413022400 +0000" stop="20180413024600 +0000">
     <title>Odd Squad</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413024800 +0000" stop="20180413031100 +0000">
+  <programme channel="tv.101002210224" start="20180413024600 +0000" stop="20180413031100 +0000">
     <title>Odd Squad</title>
     <rating system="Freeview">
       <value>G</value>
@@ -45834,6 +45879,9 @@
   </programme>
   <programme channel="tv.101002210224" start="20180413080100 +0000" stop="20180413082300 +0000">
     <title>Teenage Mutant Ninja Turtles</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101002210224" start="20180413082300 +0000" stop="20180413090600 +0000">
     <title>Doctor Who</title>
@@ -53174,16 +53222,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180405160000 +0000" stop="20180405170000 +0000">
-    <title>2018 World Rally Championship</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020523" start="20180405160000 +0000" stop="20180405163000 +0000">
     <title>ScreenPLAY</title>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020523" start="20180405160000 +0000" stop="20180405170000 +0000">
+    <title>2018 World Rally Championship</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180405163000 +0000" stop="20180405170000 +0000">
@@ -54335,15 +54383,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180411143000 +0000" stop="20180411152700 +0000">
-    <title>The Front Bar: Gold Coast Edition</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020523" start="20180411143000 +0000" stop="20180411150000 +0000">
+    <title>American Hoggers</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180411143000 +0000" stop="20180411150000 +0000">
-    <title>American Hoggers</title>
+  <programme channel="tv.101305020523" start="20180411143000 +0000" stop="20180411152700 +0000">
+    <title>The Front Bar: Gold Coast Edition</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -59959,7 +60007,11 @@
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20180406124400 +0000" stop="20180406133600 +0000">
-    <title>To Be Advised</title>
+    <title>Show Me the Movie!</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101406020625" start="20180406133600 +0000" stop="20180406143700 +0000">
     <title>The Project</title>
