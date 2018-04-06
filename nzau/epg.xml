@@ -804,11 +804,7 @@
     <title>Comm Games Tonight</title>
     <desc>Coverage this hour features a replay of Women's Hockey preliminary match between New Zealand and Ghana from earlier this evening.</desc>
   </programme>
-  <programme channel="tv.9" start="20180406143000 +0000" stop="20180406173000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180406173000 +0000" stop="20180406180000 +0000">
+  <programme channel="tv.9" start="20180406143000 +0000" stop="20180406180000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -1045,23 +1041,23 @@
   </programme>
   <programme channel="tv.9" start="20180408230000 +0000" stop="20180409000000 +0000">
     <title>Comm Games Today</title>
-    <desc>Latest updates from the 2018 Gold Coast Commonwealth Games.</desc>
+    <desc>Coverage this hour includes Women's Artistic Gymnastics.</desc>
   </programme>
   <programme channel="tv.9" start="20180409000000 +0000" stop="20180409010000 +0000">
     <title>Comm Games Today</title>
-    <desc>Coverage this hour includes Men's 105kg Weightlifting competition, and Men's and Women's Swimming heats.</desc>
+    <desc>Coverage this hour includes Women's Artistic Gymnastics, and Men's and Women's Swimming heats.</desc>
   </programme>
   <programme channel="tv.9" start="20180409010000 +0000" stop="20180409020000 +0000">
     <title>Comm Games Today</title>
-    <desc>Coverage this hour includes Men's 105kg Weightlifting competition and Men's and Women's Swimming heats.</desc>
+    <desc>Coverage this hour includes men's Beach Volleyball preliminary match between New Zealand and Cyprus, and men's and women's swimming heats.</desc>
   </programme>
   <programme channel="tv.9" start="20180409020000 +0000" stop="20180409030000 +0000">
     <title>Comm Games Today</title>
-    <desc>Coverage this hour includes Men's 105kg Weightlifting competition and Men and Women's Athletics Track &amp; Field events.</desc>
+    <desc>Coverage this hour includes Men's Beach Volleyball, Men's 4x100 Freestyle, and Women's 53kg Weightlifting competition with NZ lifter Pip Patterson.</desc>
   </programme>
   <programme channel="tv.9" start="20180409030000 +0000" stop="20180409040000 +0000">
     <title>Comm Games Today</title>
-    <desc>Coverage this hour includes Athetics Track &amp; Field events and preliminary Boxing bouts.</desc>
+    <desc>Coverage this hour includes Women's Artistic Gymnastics, Boxing prelim bouts, and Women's 53kg Weightlifting competition.</desc>
   </programme>
   <programme channel="tv.9" start="20180409040000 +0000" stop="20180409041500 +0000">
     <title>Te Karere</title>
@@ -1069,11 +1065,11 @@
   </programme>
   <programme channel="tv.9" start="20180409041500 +0000" stop="20180409050000 +0000">
     <title>Comm Games Today</title>
-    <desc>Coverage this hour includes delayed coverage of Lawn Bowls from earlier in the day.</desc>
+    <desc>Coverage this hour includes men's boxing preliminary bouts, Lawn Bowls, and Netball preliminary match between New Zealand and Wales.</desc>
   </programme>
   <programme channel="tv.9" start="20180409050000 +0000" stop="20180409060000 +0000">
     <title>Comm Games Today</title>
-    <desc>Coverage this hour includes Women's Artistic Gymnastics Individual All Round competition.</desc>
+    <desc>Coverage this hour includes Men's Hockey preliminary match between New Zealand and Canada.</desc>
   </programme>
   <programme channel="tv.9" start="20180409060000 +0000" stop="20180409070000 +0000">
     <title>1 News At 6pm</title>
@@ -2467,6 +2463,9 @@
   <programme channel="tv.10" start="20180409040000 +0000" stop="20180409043000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Ellen who rides a cow, we go penguin tracking on 'Animals with Jobs', and your pet lookalike photo could win you a purr-fect prize!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180409043000 +0000" stop="20180409050000 +0000">
     <title>Friends</title>
@@ -2541,18 +2540,24 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180409093000 +0000" stop="20180409103000 +0000">
+  <programme channel="tv.10" start="20180409093000 +0000" stop="20180409104000 +0000">
     <title>The Walking Dead</title>
     <desc>With the threat of the Saviors still looming, Aaron continues searching for allies; Daryl and Rosita take action and confront an old friend.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
-  <programme channel="tv.10" start="20180409103000 +0000" stop="20180409110000 +0000">
+  <programme channel="tv.10" start="20180409104000 +0000" stop="20180409110500 +0000">
     <title>Two And A Half Men</title>
     <desc>S1 E18 Charlie's old flame, Jill, comes for a visit... but she's not the same person Charlie once knew.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180409110000 +0000" stop="20180409113000 +0000">
+  <programme channel="tv.10" start="20180409110500 +0000" stop="20180409113500 +0000">
     <title>Mom</title>
     <desc>S2 E17 Christy and Bonnie worry when they find out that Violet's new boyfriend, Gregory is old enough to be her father.</desc>
     <audio>
@@ -2562,7 +2567,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180409113000 +0000" stop="20180409123000 +0000">
+  <programme channel="tv.10" start="20180409113500 +0000" stop="20180409123500 +0000">
     <title>How To Get Away With Murder</title>
     <desc>S4 E4 Feeling like she's found her purpose again, Annalise focuses on developing her big case as Bonnie grows suspicious. Meanwhile, Connor gets a surprise visit from his dad.</desc>
     <audio>
@@ -2572,7 +2577,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180409123000 +0000" stop="20180409131500 +0000">
+  <programme channel="tv.10" start="20180409123500 +0000" stop="20180409131500 +0000">
     <title>Desperate Housewives</title>
     <desc>Dave's plan to avenge his wife and child comes to a head - who will survive?</desc>
     <audio>
@@ -8678,6 +8683,9 @@
   <programme channel="tv.14" start="20180409050000 +0000" stop="20180409053000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Ellen who rides a cow, we go penguin tracking on 'Animals with Jobs', and your pet lookalike photo could win you a purr-fect prize!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180409053000 +0000" stop="20180409060000 +0000">
     <title>Friends</title>
@@ -8737,32 +8745,35 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180409103000 +0000" stop="20180409113000 +0000">
+  <programme channel="tv.14" start="20180409103000 +0000" stop="20180409114000 +0000">
     <title>The Walking Dead</title>
     <desc>With the threat of the Saviors still looming, Aaron continues searching for allies; Daryl and Rosita take action and confront an old friend.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
-  <programme channel="tv.14" start="20180409113000 +0000" stop="20180409120000 +0000">
+  <programme channel="tv.14" start="20180409114000 +0000" stop="20180409120500 +0000">
     <title>Two And A Half Men</title>
     <desc>S1 E18 Charlie's old flame, Jill, comes for a visit... but she's not the same person Charlie once knew.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180409120000 +0000" stop="20180409123000 +0000">
+  <programme channel="tv.14" start="20180409120500 +0000" stop="20180409123500 +0000">
     <title>Mom</title>
     <desc>S2 E17 Christy and Bonnie worry when they find out that Violet's new boyfriend, Gregory is old enough to be her father.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180409123000 +0000" stop="20180409133000 +0000">
+  <programme channel="tv.14" start="20180409123500 +0000" stop="20180409133500 +0000">
     <title>How To Get Away With Murder</title>
     <desc>S4 E4 Feeling like she's found her purpose again, Annalise focuses on developing her big case as Bonnie grows suspicious. Meanwhile, Connor gets a surprise visit from his dad.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180409133000 +0000" stop="20180409141500 +0000">
+  <programme channel="tv.14" start="20180409133500 +0000" stop="20180409141500 +0000">
     <title>Desperate Housewives</title>
     <desc>Dave's plan to avenge his wife and child comes to a head - who will survive?</desc>
     <rating system="Freeview">
@@ -31136,6 +31147,1186 @@
   <programme channel="tv.18" start="20180413060000 +0000" stop="20180413180000 +0000">
     <title>Parliament TV</title>
     <desc>The next sitting of the House of Representatives will be on 1 May 2018 at 2pm</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405110000 +0000" stop="20180405120000 +0000">
+    <title>RISE OF WARRIOR</title>
+    <desc>KICKBOXING</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405120000 +0000" stop="20180405130000 +0000">
+    <title>THE THEATRE OF DRAMA</title>
+    <desc>Drama</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405130000 +0000" stop="20180405133000 +0000">
+    <title>INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405133000 +0000" stop="20180405140000 +0000">
+    <title>CONTINENT INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405140000 +0000" stop="20180405141500 +0000">
+    <title>GLOBAL LIVES</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405141500 +0000" stop="20180405143000 +0000">
+    <title>CHINA WIDTH</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405143000 +0000" stop="20180405150000 +0000">
+    <title>AROUND CHINA</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405150000 +0000" stop="20180405153000 +0000">
+    <title>ARCOSS THE STRAIT</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405153000 +0000" stop="20180405160000 +0000">
+    <title>HUNAN TV NEWS</title>
+    <desc>HUNAN TV programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405160000 +0000" stop="20180405163000 +0000">
+    <title>CHINESE WORLD</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405163000 +0000" stop="20180405170000 +0000">
+    <title>FILES OF NATIONAL TREASURES</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405170000 +0000" stop="20180405173000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405173000 +0000" stop="20180405180000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405180000 +0000" stop="20180405183000 +0000">
+    <title>Trampoline Dance Yoga</title>
+    <desc>YOGA</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405183000 +0000" stop="20180405190000 +0000">
+    <title>ARCOSS THE STRAIT</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405190000 +0000" stop="20180405193000 +0000">
+    <title>CHINESE WORLD</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405193000 +0000" stop="20180405200000 +0000">
+    <title>FILES OF NATIONAL TREASURES</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405200000 +0000" stop="20180405203000 +0000">
+    <title>INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405203000 +0000" stop="20180405210000 +0000">
+    <title>CONTINENT INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405210000 +0000" stop="20180405213000 +0000">
+    <title>Trampoline Dance Yoga</title>
+    <desc>YOGA</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405213000 +0000" stop="20180405220000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405220000 +0000" stop="20180405223000 +0000">
+    <title>HUNAN TV NEWS</title>
+    <desc>HUNAN TV programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405223000 +0000" stop="20180405230000 +0000">
+    <title>AROUND CHINA</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180405230000 +0000" stop="20180406000000 +0000">
+    <title>THE THEATRE OF DRAMA</title>
+    <desc>Drama</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406000000 +0000" stop="20180406010000 +0000">
+    <title>THE THEATRE OF DRAMA</title>
+    <desc>Drama</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406010000 +0000" stop="20180406013000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406013000 +0000" stop="20180406020000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406020000 +0000" stop="20180406021000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406021000 +0000" stop="20180406023000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406023000 +0000" stop="20180406030000 +0000">
+    <title>AROUND CHINA</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406030000 +0000" stop="20180406031500 +0000">
+    <title>ARCOSS THE STRAIT</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406031500 +0000" stop="20180406033000 +0000">
+    <title>GLOBAL LIVES</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406033000 +0000" stop="20180406040000 +0000">
+    <title>CHINA WIDTH</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406040000 +0000" stop="20180406043000 +0000">
+    <title>CHINESE WORLD</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406043000 +0000" stop="20180406050000 +0000">
+    <title>FILES OF NATIONAL TREASURES</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406050000 +0000" stop="20180406060000 +0000">
+    <title>THE THEATRE OF DRAMA</title>
+    <desc>Drama</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406060000 +0000" stop="20180406063000 +0000">
+    <title>WORLD SIGHT OF HUNAN</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406063000 +0000" stop="20180406070000 +0000">
+    <title>HUNAN TV NEWS</title>
+    <desc>HUNAN TV programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406070000 +0000" stop="20180406073000 +0000">
+    <title>CONTINENT INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406073000 +0000" stop="20180406080000 +0000">
+    <title>AOTEAROA</title>
+    <desc>AOTEAROA</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406080000 +0000" stop="20180406090000 +0000">
+    <title>THREE TALKSHOW</title>
+    <desc>THREE TALKSHOW</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406090000 +0000" stop="20180406093000 +0000">
+    <title>Trampoline Dance Yoga</title>
+    <desc>YOGA</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406093000 +0000" stop="20180406100000 +0000">
+    <title>AROUND CHINA</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406100000 +0000" stop="20180406110000 +0000">
+    <title>THE THEATRE OF DRAMA</title>
+    <desc>Drama</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406110000 +0000" stop="20180406113000 +0000">
+    <title>CHINESE WORLD</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406113000 +0000" stop="20180406120000 +0000">
+    <title>FILES OF NATIONAL TREASURES</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406120000 +0000" stop="20180406130000 +0000">
+    <title>THE THEATRE OF DRAMA</title>
+    <desc>Drama</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406130000 +0000" stop="20180406133000 +0000">
+    <title>INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406133000 +0000" stop="20180406140000 +0000">
+    <title>CONTINENT INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406140000 +0000" stop="20180406141500 +0000">
+    <title>GLOBAL LIVES</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406141500 +0000" stop="20180406143000 +0000">
+    <title>CHINA WIDTH</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406143000 +0000" stop="20180406150000 +0000">
+    <title>AROUND CHINA</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406150000 +0000" stop="20180406153000 +0000">
+    <title>ARCOSS THE STRAIT</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406153000 +0000" stop="20180406160000 +0000">
+    <title>HUNAN TV NEWS</title>
+    <desc>HUNAN TV programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406160000 +0000" stop="20180406163000 +0000">
+    <title>CHINESE WORLD</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406163000 +0000" stop="20180406170000 +0000">
+    <title>FILES OF NATIONAL TREASURES</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406170000 +0000" stop="20180406173000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406173000 +0000" stop="20180406180000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406180000 +0000" stop="20180406183000 +0000">
+    <title>Trampoline Dance Yoga</title>
+    <desc>YOGA</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406183000 +0000" stop="20180406190000 +0000">
+    <title>ARCOSS THE STRAIT</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406190000 +0000" stop="20180406193000 +0000">
+    <title>CHINESE WORLD</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406193000 +0000" stop="20180406200000 +0000">
+    <title>FILES OF NATIONAL TREASURES</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406200000 +0000" stop="20180406203000 +0000">
+    <title>INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406203000 +0000" stop="20180406210000 +0000">
+    <title>CONTINENT INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406210000 +0000" stop="20180406213000 +0000">
+    <title>Trampoline Dance Yoga</title>
+    <desc>YOGA</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406213000 +0000" stop="20180406220000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406220000 +0000" stop="20180406223000 +0000">
+    <title>HUNAN TV NEWS</title>
+    <desc>HUNAN TV programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406223000 +0000" stop="20180406230000 +0000">
+    <title>AROUND CHINA</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180406230000 +0000" stop="20180407000000 +0000">
+    <title>THE THEATRE OF DRAMA</title>
+    <desc>Drama</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407000000 +0000" stop="20180407010000 +0000">
+    <title>THE THEATRE OF DRAMA</title>
+    <desc>Drama</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407010000 +0000" stop="20180407013000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407013000 +0000" stop="20180407020000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407020000 +0000" stop="20180407021000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407021000 +0000" stop="20180407023000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407023000 +0000" stop="20180407030000 +0000">
+    <title>AROUND CHINA</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407030000 +0000" stop="20180407031500 +0000">
+    <title>ARCOSS THE STRAIT</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407031500 +0000" stop="20180407033000 +0000">
+    <title>GLOBAL LIVES</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407033000 +0000" stop="20180407040000 +0000">
+    <title>CHINA WIDTH</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407040000 +0000" stop="20180407043000 +0000">
+    <title>CHINESE WORLD</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407043000 +0000" stop="20180407050000 +0000">
+    <title>FILES OF NATIONAL TREASURES</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407050000 +0000" stop="20180407060000 +0000">
+    <title>THE THEATRE OF DRAMA</title>
+    <desc>Drama</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407060000 +0000" stop="20180407063000 +0000">
+    <title>HERO</title>
+    <desc>HUNAN TV programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407063000 +0000" stop="20180407070000 +0000">
+    <title>HUNAN TV NEWS</title>
+    <desc>HUNAN TV programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407070000 +0000" stop="20180407073000 +0000">
+    <title>CONTINENT INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407073000 +0000" stop="20180407080000 +0000">
+    <title>Exclusive New Zealand</title>
+    <desc>Exclusive New Zealand</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407080000 +0000" stop="20180407090000 +0000">
+    <title>SEEK TURTH</title>
+    <desc>HUNAN TV programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407090000 +0000" stop="20180407093000 +0000">
+    <title>Trampoline Dance Yoga</title>
+    <desc>YOGA</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407093000 +0000" stop="20180407100000 +0000">
+    <title>AROUND CHINA</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407100000 +0000" stop="20180407110000 +0000">
+    <title>THE THEATRE OF DRAMA</title>
+    <desc>Drama</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407110000 +0000" stop="20180407113000 +0000">
+    <title>CHINESE WORLD</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407113000 +0000" stop="20180407120000 +0000">
+    <title>FILES OF NATIONAL TREASURES</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407120000 +0000" stop="20180407130000 +0000">
+    <title>THE THEATRE OF DRAMA</title>
+    <desc>Drama</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407130000 +0000" stop="20180407133000 +0000">
+    <title>INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407133000 +0000" stop="20180407140000 +0000">
+    <title>CONTINENT INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407140000 +0000" stop="20180407141500 +0000">
+    <title>GLOBAL LIVES</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407141500 +0000" stop="20180407143000 +0000">
+    <title>CHINA WIDTH</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407143000 +0000" stop="20180407150000 +0000">
+    <title>AROUND CHINA</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407150000 +0000" stop="20180407153000 +0000">
+    <title>ARCOSS THE STRAIT</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407153000 +0000" stop="20180407160000 +0000">
+    <title>HUNAN TV NEWS</title>
+    <desc>HUNAN TV programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407160000 +0000" stop="20180407163000 +0000">
+    <title>CHINESE WORLD</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407163000 +0000" stop="20180407170000 +0000">
+    <title>FILES OF NATIONAL TREASURES</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407170000 +0000" stop="20180407173000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407173000 +0000" stop="20180407180000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407180000 +0000" stop="20180407183000 +0000">
+    <title>Trampoline Dance Yoga</title>
+    <desc>YOGA</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407183000 +0000" stop="20180407190000 +0000">
+    <title>ARCOSS THE STRAIT</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407190000 +0000" stop="20180407193000 +0000">
+    <title>CHINESE WORLD</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407193000 +0000" stop="20180407200000 +0000">
+    <title>FILES OF NATIONAL TREASURES</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407200000 +0000" stop="20180407203000 +0000">
+    <title>INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407203000 +0000" stop="20180407210000 +0000">
+    <title>CONTINENT INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407210000 +0000" stop="20180407213000 +0000">
+    <title>Trampoline Dance Yoga</title>
+    <desc>YOGA</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407213000 +0000" stop="20180407220000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407220000 +0000" stop="20180407223000 +0000">
+    <title>HUNAN TV NEWS</title>
+    <desc>HUNAN TV programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407223000 +0000" stop="20180407230000 +0000">
+    <title>AROUND CHINA</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180407230000 +0000" stop="20180408000000 +0000">
+    <title>THE THEATRE OF DRAMA</title>
+    <desc>Drama</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408000000 +0000" stop="20180408010000 +0000">
+    <title>THE THEATRE OF DRAMA</title>
+    <desc>Drama</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408010000 +0000" stop="20180408020000 +0000">
+    <title>Trampoline Dance Yoga</title>
+    <desc>YOGA</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408020000 +0000" stop="20180408030000 +0000">
+    <title>Trampoline Dance Yoga</title>
+    <desc>YOGA</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408030000 +0000" stop="20180408033000 +0000">
+    <title>Trampoline Dance Yoga</title>
+    <desc>YOGA</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408033000 +0000" stop="20180408043000 +0000">
+    <title>X-CHANGE</title>
+    <desc>HUNAN TV programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408043000 +0000" stop="20180408050000 +0000">
+    <title>X-CHANGE</title>
+    <desc>HUNAN TV programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408050000 +0000" stop="20180408060000 +0000">
+    <title>THE THEATRE OF DRAMA</title>
+    <desc>Drama</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408060000 +0000" stop="20180408070000 +0000">
+    <title>THE THEATRE OF DRAMA</title>
+    <desc>Drama</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408070000 +0000" stop="20180408071500 +0000">
+    <title>GLOBAL LIVES</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408071500 +0000" stop="20180408073000 +0000">
+    <title>CHINA WIDTH</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408073000 +0000" stop="20180408080000 +0000">
+    <title>AOTEAROA</title>
+    <desc>AOTEAROA</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408080000 +0000" stop="20180408083000 +0000">
+    <title>JUST AMAZING</title>
+    <desc>HUNAN TV programe</desc>
+  </programme>
+  <programme channel="tv.62" start="20180408083000 +0000" stop="20180408090000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408090000 +0000" stop="20180408100000 +0000">
+    <title>RISE OF WARRIOR</title>
+    <desc>KICKBOXING</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408100000 +0000" stop="20180408103000 +0000">
+    <title>CHINESE MEDICINE</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408103000 +0000" stop="20180408110000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408110000 +0000" stop="20180408113000 +0000">
+    <title>CHINESE WORLD</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408113000 +0000" stop="20180408120000 +0000">
+    <title>FILES OF NATIONAL TREASURES</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408120000 +0000" stop="20180408130000 +0000">
+    <title>RISE OF WARRIOR</title>
+    <desc>KICKBOXING</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408130000 +0000" stop="20180408133000 +0000">
+    <title>INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408133000 +0000" stop="20180408140000 +0000">
+    <title>CONTINENT INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408140000 +0000" stop="20180408143000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408143000 +0000" stop="20180408150000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408150000 +0000" stop="20180408153000 +0000">
+    <title>CONTINENT INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408153000 +0000" stop="20180408160000 +0000">
+    <title>FILES OF NATIONAL TREASURES</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408160000 +0000" stop="20180408163000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408163000 +0000" stop="20180408170000 +0000">
+    <title>INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408170000 +0000" stop="20180408171000 +0000">
+    <title>GLOBAL LIVES</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408171000 +0000" stop="20180408173000 +0000">
+    <title>CHINA WIDTH</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408173000 +0000" stop="20180408180000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408180000 +0000" stop="20180408183000 +0000">
+    <title>Trampoline Dance Yoga</title>
+    <desc>YOGA</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408183000 +0000" stop="20180408190000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408190000 +0000" stop="20180408200000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408200000 +0000" stop="20180408203000 +0000">
+    <title>INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408203000 +0000" stop="20180408210000 +0000">
+    <title>CONTINENT INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408210000 +0000" stop="20180408213000 +0000">
+    <title>Trampoline Dance Yoga</title>
+    <desc>YOGA</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408213000 +0000" stop="20180408220000 +0000">
+    <title>THE SHOW</title>
+    <desc>Performing Arts</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408220000 +0000" stop="20180408223000 +0000">
+    <title>INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408223000 +0000" stop="20180408230000 +0000">
+    <title>CONTINENT INSIGHT</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180408230000 +0000" stop="20180409000000 +0000">
+    <title>THE THEATRE OF DRAMA</title>
+    <desc>Drama</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180409000000 +0000" stop="20180409010000 +0000">
+    <title>THE THEATRE OF DRAMA</title>
+    <desc>Drama</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180409010000 +0000" stop="20180409020000 +0000">
+    <title>Trampoline Dance Yoga</title>
+    <desc>YOGA</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180409020000 +0000" stop="20180409030000 +0000">
+    <title>Trampoline Dance Yoga</title>
+    <desc>YOGA</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180409030000 +0000" stop="20180409033000 +0000">
+    <title>Trampoline Dance Yoga</title>
+    <desc>YOGA</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180409033000 +0000" stop="20180409043000 +0000">
+    <title>X-CHANGE</title>
+    <desc>HUNAN TV programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180409043000 +0000" stop="20180409050000 +0000">
+    <title>X-CHANGE</title>
+    <desc>HUNAN TV programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180409050000 +0000" stop="20180409060000 +0000">
+    <title>THE THEATRE OF DRAMA</title>
+    <desc>Drama</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180409060000 +0000" stop="20180409070000 +0000">
+    <title>THE THEATRE OF DRAMA</title>
+    <desc>Drama</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180409070000 +0000" stop="20180409071500 +0000">
+    <title>GLOBAL LIVES</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180409071500 +0000" stop="20180409073000 +0000">
+    <title>CHINA WIDTH</title>
+    <desc>CNC programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180409073000 +0000" stop="20180409083000 +0000">
+    <title>THREE TALKSHOW</title>
+    <desc>THREE TALKSHOW</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180409083000 +0000" stop="20180409090000 +0000">
+    <title>ARCOSS THE STRAIT</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180409090000 +0000" stop="20180409100000 +0000">
+    <title>RISE OF WARRIOR</title>
+    <desc>KICKBOXING</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180409100000 +0000" stop="20180409110000 +0000">
+    <title>CHINESE MEDICINE</title>
+    <desc>CCTV4 programe</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.62" start="20180409110000 +0000" stop="20180409113000 +0000">
+    <title>CONTINENT INSIGHT</title>
+    <desc>CNC programe</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
