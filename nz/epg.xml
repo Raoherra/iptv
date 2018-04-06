@@ -169,6 +169,10 @@
     <display-name>TVNZ Games Online</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.games-online.png"/>
   </channel>
+  <channel id="tv.games-mosiac">
+    <display-name>TVNZ Games Mosiac</display-name>
+    <icon src=""/>
+  </channel>
   <programme channel="tv.games-online" start="20180405103000 +0000" stop="20180405123000 +0000">
     <title>Live: Weightlifting</title>
     <desc>Live coverage of the Men's 62kg with Kiwi Ianne GUINARES.</desc>

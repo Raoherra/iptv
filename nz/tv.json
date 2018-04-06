@@ -267,5 +267,21 @@
             "sample_rate": "48000"
         },
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.games-online.png"
+    },
+    "tv.games-mosiac": {
+        "name": "TVNZ Games Mosiac",
+        "description": "You won't miss any of the action with this mosiac view of TVNZ 1, DUKE, Games Extra & Games Online",
+        "url": "http://iptv.matthuisman.nz/nz/tv.games-mosiac.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720
+        },
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.games-mosiac.png"
     }
 }
