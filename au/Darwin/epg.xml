@@ -1745,6 +1745,18 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180414140000 +0000" stop="20180414141500 +0000">
+    <title>ABC Late News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180414141500 +0000" stop="20180414150000 +0000">
+    <title>Matter Of Fact: This Week</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180406141000 +0000" stop="20180406144000 +0000">
     <title>Tonightly with Tom Ballard</title>
     <subtitles type="teletext"/>
@@ -5912,6 +5924,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180414141000 +0000" stop="20180414143200 +0000">
+    <title>Inside Amy Schumer</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101002210224" start="20180406122500 +0000" stop="20180406190000 +0000">
@@ -12843,6 +12862,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200424" start="20180414140000 +0000" stop="20180414150000 +0000">
+    <title>Hotel Impossible</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200427" start="20180406140400 +0000" stop="20180406150000 +0000">
     <title>A.D. Kingdom And Empire</title>
     <subtitles type="teletext"/>
@@ -15870,6 +15895,30 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200428" start="20180414140000 +0000" stop="20180414140500 +0000">
+    <title>[adult swim]</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20180414140500 +0000" stop="20180414141500 +0000">
+    <title>Robot Chicken</title>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20180414141500 +0000" stop="20180414143000 +0000">
+    <title>Squidbillies</title>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20180414143000 +0000" stop="20180414144500 +0000">
+    <title>Superjail</title>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020528" start="20180406140000 +0000" stop="20180406143000 +0000">
     <title>Raceday Review - Kyneton</title>
     <subtitles type="teletext"/>
@@ -17720,6 +17769,13 @@
   </programme>
   <programme channel="tv.101305020528" start="20180414133000 +0000" stop="20180414140000 +0000">
     <title>After The Last</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180414140000 +0000" stop="20180414144500 +0000">
+    <title>Raceday Review - Caulfield</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -29221,14 +29277,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180407060500 +0000" stop="20180407063000 +0000">
-    <title>The War On Kids</title>
+  <programme channel="tv.320203000302" start="20180407060500 +0000" stop="20180407070500 +0000">
+    <title>Flight 920: Love in the Air</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180407060500 +0000" stop="20180407070500 +0000">
-    <title>Flight 920: Love in the Air</title>
+  <programme channel="tv.320203000302" start="20180407060500 +0000" stop="20180407063000 +0000">
+    <title>The War On Kids</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -33106,6 +33162,12 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180414142000 +0000" stop="20180414151500 +0000">
+    <title>Clash of the Grandmas</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180406140000 +0000" stop="20180406150000 +0000">
     <title>Volumz</title>
     <rating system="Freeview">
@@ -35153,6 +35215,12 @@
     <title>Defining Moments</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180414142000 +0000" stop="20180414161000 +0000">
+    <title>Shopping</title>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
 </tv>
