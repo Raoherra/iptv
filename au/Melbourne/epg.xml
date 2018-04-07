@@ -1761,6 +1761,12 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180415140000 +0000" stop="20180415141500 +0000">
+    <title>ABC Late News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180407130500 +0000" stop="20180407140100 +0000">
     <title>Comedy Next Gen</title>
     <subtitles type="teletext"/>
@@ -12889,6 +12895,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204300433" start="20180415140000 +0000" stop="20180415150000 +0000">
+    <title>Listed Sisters</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204300436" start="20180407130000 +0000" stop="20180407150000 +0000">
     <title>Shoot Out</title>
     <rating system="Freeview">
@@ -16054,6 +16066,12 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204300437" start="20180415140000 +0000" stop="20180415140500 +0000">
+    <title>[adult swim]</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020528" start="20180407134500 +0000" stop="20180407140000 +0000">
     <title>Champions - Testa Rossa</title>
     <subtitles type="teletext"/>
@@ -17890,6 +17908,13 @@
   </programme>
   <programme channel="tv.101305020528" start="20180415133000 +0000" stop="20180415140000 +0000">
     <title>Raceday Review - Naracoorte</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180415140000 +0000" stop="20180415143000 +0000">
+    <title>Raceday Review: Terang</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -20207,15 +20232,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180411143000 +0000" stop="20180411152700 +0000">
-    <title>The Front Bar: Gold Coast Edition</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305030533" start="20180411143000 +0000" stop="20180411150000 +0000">
+    <title>American Hoggers</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180411143000 +0000" stop="20180411150000 +0000">
-    <title>American Hoggers</title>
+  <programme channel="tv.101305030533" start="20180411143000 +0000" stop="20180411152700 +0000">
+    <title>The Front Bar: Gold Coast Edition</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -25669,6 +25694,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406030635" start="20180415140000 +0000" stop="20180415150000 +0000">
+    <title>48 Hours</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406030638" start="20180407123500 +0000" stop="20180407150800 +0000">
@@ -35313,6 +35345,12 @@
     <title>Our Spirit to C-Gen</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180415140000 +0000" stop="20180415150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
 </tv>
