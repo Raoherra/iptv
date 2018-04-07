@@ -893,7 +893,7 @@
   </programme>
   <programme channel="tv.9" start="20180408103000 +0000" stop="20180408113000 +0000">
     <title>Comm Games Live</title>
-    <desc>Coverage this hour includes Men's and Women's Track Cycling, preliminary Boxing bouts, and Women's Swimming 100m Breaststroke semi-finals.</desc>
+    <desc>Coverage this hour includes Men's and Women's Track Cycling, preliminary Boxing bouts, and Women's Swimming 100m Breaststroke semi-finals. Full schedule on TVNZ.co.nz</desc>
   </programme>
   <programme channel="tv.9" start="20180408113000 +0000" stop="20180408123000 +0000">
     <title>Comm Games Live</title>
@@ -907,7 +907,11 @@
     <title>Comm Games Tonight</title>
     <desc>Coverage this hour includes a replay of the Men's Hockey preliminary match between New Zealand and South Africa.</desc>
   </programme>
-  <programme channel="tv.9" start="20180408143000 +0000" stop="20180408180000 +0000">
+  <programme channel="tv.9" start="20180408143000 +0000" stop="20180408173000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.9" start="20180408173000 +0000" stop="20180408180000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -16178,11 +16182,11 @@
     <title>Live: Weightlifting - M 77kg</title>
     <desc>Live coverage of the Men's 77kg Weightlifting competition, featuring New Zealand lifter Cameron McTaggart.</desc>
   </programme>
-  <programme channel="tv.64" start="20180407020000 +0000" stop="20180407044500 +0000">
+  <programme channel="tv.64" start="20180407020000 +0000" stop="20180407040000 +0000">
     <title>Artistic Gymnastics (M)</title>
     <desc>Delayed coverage of Men's Individual All Round Artistic Gymnastics competition, featuring New Zealand gymnasts David Bishop, Ethan Dick, Devy Dyson, Kyleab Ellis and Misha Koudinov.</desc>
   </programme>
-  <programme channel="tv.64" start="20180407044500 +0000" stop="20180407063000 +0000">
+  <programme channel="tv.64" start="20180407040000 +0000" stop="20180407063000 +0000">
     <title>Lawn Bowls</title>
     <desc>Delayed coverage of this morning's Lawn Bowls matches.</desc>
   </programme>
@@ -53919,16 +53923,16 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180406235900 +0000" stop="20180407010000 +0000">
-    <title>2018 World Rally Championship</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020523" start="20180406235900 +0000" stop="20180407005800 +0000">
     <title>Fishing The Magic Hour With Josh &amp; Jamie</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020523" start="20180406235900 +0000" stop="20180407010000 +0000">
+    <title>2018 World Rally Championship</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180407005800 +0000" stop="20180407012900 +0000">
@@ -65700,14 +65704,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180407060500 +0000" stop="20180407063000 +0000">
-    <title>The War On Kids</title>
+  <programme channel="tv.320203000302" start="20180407060500 +0000" stop="20180407070500 +0000">
+    <title>Flight 920: Love in the Air</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180407060500 +0000" stop="20180407070500 +0000">
-    <title>Flight 920: Love in the Air</title>
+  <programme channel="tv.320203000302" start="20180407060500 +0000" stop="20180407063000 +0000">
+    <title>The War On Kids</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
