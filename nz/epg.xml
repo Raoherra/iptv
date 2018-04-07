@@ -197,11 +197,11 @@
     <title>Live: Swimming</title>
     <desc>Live coverage of swimming heats, including New Zelanders Lewis Clareburt, Jesse Reynolds, Celyn Edwards, Sophie Pascoe, Helena Gasson, Daniel Hunter, Sam Perry, Matthew Stanley and Bradlee Ashby.</desc>
   </programme>
-  <programme channel="tv.games-online" start="20180407020000 +0000" stop="20180407040000 +0000">
+  <programme channel="tv.games-online" start="20180407020000 +0000" stop="20180407050000 +0000">
     <title>Live: Boxing</title>
     <desc>Live coverage of preliminary boxing bouts.</desc>
   </programme>
-  <programme channel="tv.games-online" start="20180407040000 +0000" stop="20180407062000 +0000">
+  <programme channel="tv.games-online" start="20180407050000 +0000" stop="20180407062000 +0000">
     <title>Live: Weightlifting - W 63kg</title>
     <desc>Live coverage of Women's 63kg Weightlifting competition.</desc>
   </programme>
@@ -209,13 +209,17 @@
     <title>Live: Hockey - AUS v RSA (M)</title>
     <desc>Live coverage of Men's preliminary Hockey match between Australia and South Africa.</desc>
   </programme>
-  <programme channel="tv.games-online" start="20180407080000 +0000" stop="20180407092500 +0000">
+  <programme channel="tv.games-online" start="20180407080000 +0000" stop="20180407082500 +0000">
+    <title>Live: Squash</title>
+    <desc>Live coverage of the first 25 minutes of the Squash Quarter finals.</desc>
+  </programme>
+  <programme channel="tv.games-online" start="20180407082500 +0000" stop="20180407110000 +0000">
     <title>Live: Boxing</title>
     <desc>Live coverage of preliminary boxing bouts.</desc>
   </programme>
-  <programme channel="tv.games-online" start="20180407092500 +0000" stop="20180407123000 +0000">
-    <title>Live: Swimming</title>
-    <desc>Live coverage of swimming final and semi final races.</desc>
+  <programme channel="tv.games-online" start="20180407110000 +0000" stop="20180407123000 +0000">
+    <title>Comm Games Update</title>
+    <desc>Latest updates from the 2018 Gold Coast Commonwealth Games.</desc>
   </programme>
   <programme channel="tv.games-online" start="20180407123000 +0000" stop="20180407180000 +0000">
     <title>Comm Games Update</title>
@@ -15671,21 +15675,21 @@
     <title>Live: Cycling - Track</title>
     <desc>Live coverage of Cycling Track events.</desc>
   </programme>
-  <programme channel="tv.55" start="20180407065000 +0000" stop="20180407074000 +0000">
-    <title>Beach Volleyball - NZL v RWA</title>
-    <desc>Delayed coverage of Women's Beach Volleyball preliminary match between New Zealand and Rwanda.</desc>
+  <programme channel="tv.55" start="20180407065000 +0000" stop="20180407093000 +0000">
+    <title>Live: Lawn Bowls</title>
+    <desc>Live coverage of the Lawn Bowls from the Broadbeach bowls club.</desc>
   </programme>
-  <programme channel="tv.55" start="20180407074000 +0000" stop="20180407083000 +0000">
-    <title>Beach Volleyball - NZL v MOZ</title>
-    <desc>Delayed coverage of Men's Beach Volleyball preliminary match between New Zealand and Mozambique.</desc>
+  <programme channel="tv.55" start="20180407093000 +0000" stop="20180407122000 +0000">
+    <title>Live: Swimming</title>
+    <desc>Live coverage of swimming final and semi final races.</desc>
   </programme>
-  <programme channel="tv.55" start="20180407083000 +0000" stop="20180407123000 +0000">
-    <title>Live: Cycling - Track</title>
-    <desc>Live coverage of Cycling Track events.</desc>
-  </programme>
-  <programme channel="tv.55" start="20180407123000 +0000" stop="20180407132500 +0000">
+  <programme channel="tv.55" start="20180407122000 +0000" stop="20180407131500 +0000">
     <title>2018 Games Highlights - Day 3</title>
     <desc>Highlights from Day 3 of competition at the 2018 Gold Coast Commonwealth Games.</desc>
+  </programme>
+  <programme channel="tv.55" start="20180407131500 +0000" stop="20180407132500 +0000">
+    <title>Comm Games Update</title>
+    <desc>Latest updates from the 2018 Gold Coast Commonwealth Games.</desc>
   </programme>
   <programme channel="tv.55" start="20180407132500 +0000" stop="20180407180000 +0000">
     <title>Comm Games Update</title>
@@ -16059,17 +16063,13 @@
     <title>Lawn Bowls</title>
     <desc>Delayed coverage of this morning's Lawn Bowls matches.</desc>
   </programme>
-  <programme channel="tv.64" start="20180407063000 +0000" stop="20180407091500 +0000">
+  <programme channel="tv.64" start="20180407063000 +0000" stop="20180407083000 +0000">
     <title>Live: Artistic Gymnastics (W)</title>
     <desc>Live coverage of Women's Individual All Round Artistic Gymnastics competition, featuring New Zealand gymnast Stella Ashcroft.</desc>
   </programme>
-  <programme channel="tv.64" start="20180407091500 +0000" stop="20180407100500 +0000">
-    <title>Beach Volleyball - ENG v CYP</title>
-    <desc>Delayed coverage of Men's Beach Volleyball preliminary match between England and Cypress.</desc>
-  </programme>
-  <programme channel="tv.64" start="20180407100500 +0000" stop="20180407105000 +0000">
-    <title>Beach Volleyball - AUS v GRE</title>
-    <desc>Delayed coverage of Women's Beach Volleyball preliminary match between Australia and Grenada.</desc>
+  <programme channel="tv.64" start="20180407083000 +0000" stop="20180407105000 +0000">
+    <title>Live: Weighlifting</title>
+    <desc>Live Weighligting with Richie Patterson competing for gold!</desc>
   </programme>
   <programme channel="tv.64" start="20180407105000 +0000" stop="20180407130000 +0000">
     <title>Live: Basketball - NZL v AUS</title>
