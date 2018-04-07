@@ -320,11 +320,11 @@
     <title>Live: Swimming</title>
     <desc>Live coverage of swimming heats, including New Zelanders Lewis Clareburt, Jesse Reynolds, Celyn Edwards, Sophie Pascoe, Helena Gasson, Daniel Hunter, Sam Perry, Matthew Stanley and Bradlee Ashby.</desc>
   </programme>
-  <programme channel="tv.games-online" start="20180407020000 +0000" stop="20180407050000 +0000">
+  <programme channel="tv.games-online" start="20180407020000 +0000" stop="20180407044000 +0000">
     <title>Live: Boxing</title>
     <desc>Live coverage of preliminary boxing bouts.</desc>
   </programme>
-  <programme channel="tv.games-online" start="20180407050000 +0000" stop="20180407062000 +0000">
+  <programme channel="tv.games-online" start="20180407044000 +0000" stop="20180407062000 +0000">
     <title>Live: Weightlifting - W 63kg</title>
     <desc>Live coverage of Women's 63kg Weightlifting competition.</desc>
   </programme>
@@ -336,11 +336,15 @@
     <title>Live: Squash</title>
     <desc>Live coverage of the first 25 minutes of the Squash Quarter finals.</desc>
   </programme>
-  <programme channel="tv.games-online" start="20180407082500 +0000" stop="20180407110000 +0000">
+  <programme channel="tv.games-online" start="20180407082500 +0000" stop="20180407093000 +0000">
     <title>Live: Boxing</title>
     <desc>Live coverage of preliminary boxing bouts.</desc>
   </programme>
-  <programme channel="tv.games-online" start="20180407110000 +0000" stop="20180407123000 +0000">
+  <programme channel="tv.games-online" start="20180407093000 +0000" stop="20180407113000 +0000">
+    <title>Live: Squash</title>
+    <desc>Live coverage of the Squash featuring Kiwi's Joelle King at 9:30pm and Paul Coll at 10:15pm.</desc>
+  </programme>
+  <programme channel="tv.games-online" start="20180407113000 +0000" stop="20180407123000 +0000">
     <title>Comm Games Update</title>
     <desc>Latest updates from the 2018 Gold Coast Commonwealth Games.</desc>
   </programme>
@@ -15782,13 +15786,17 @@
     <title>Live: Cycling - Track</title>
     <desc>Live coverage of Cycling Track events.</desc>
   </programme>
-  <programme channel="tv.55" start="20180407065000 +0000" stop="20180407093000 +0000">
+  <programme channel="tv.55" start="20180407065000 +0000" stop="20180407085000 +0000">
     <title>Live: Lawn Bowls</title>
     <desc>Live coverage of the Lawn Bowls from the Broadbeach bowls club.</desc>
   </programme>
+  <programme channel="tv.55" start="20180407085000 +0000" stop="20180407093000 +0000">
+    <title>Live: Squash</title>
+    <desc>Live coverage of the squash starting with Malaysia v Canada</desc>
+  </programme>
   <programme channel="tv.55" start="20180407093000 +0000" stop="20180407122000 +0000">
     <title>Live: Swimming</title>
-    <desc>Live coverage of swimming final and semi final races.</desc>
+    <desc>Live coverage of swimming final and semi final races, including Kiwi medal hopeful Sophie Pascoe.</desc>
   </programme>
   <programme channel="tv.55" start="20180407122000 +0000" stop="20180407131500 +0000">
     <title>2018 Games Highlights - Day 3</title>
@@ -53899,16 +53907,16 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180406235900 +0000" stop="20180407005800 +0000">
-    <title>Fishing The Magic Hour With Josh &amp; Jamie</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020523" start="20180406235900 +0000" stop="20180407010000 +0000">
     <title>2018 World Rally Championship</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020523" start="20180406235900 +0000" stop="20180407005800 +0000">
+    <title>Fishing The Magic Hour With Josh &amp; Jamie</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180407005800 +0000" stop="20180407012900 +0000">
@@ -54780,15 +54788,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180411143000 +0000" stop="20180411152700 +0000">
-    <title>The Front Bar: Gold Coast Edition</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020523" start="20180411143000 +0000" stop="20180411150000 +0000">
+    <title>American Hoggers</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180411143000 +0000" stop="20180411150000 +0000">
-    <title>American Hoggers</title>
+  <programme channel="tv.101305020523" start="20180411143000 +0000" stop="20180411152700 +0000">
+    <title>The Front Bar: Gold Coast Edition</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
