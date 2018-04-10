@@ -606,7 +606,7 @@
   </programme>
   <programme channel="tv.9" start="20180410093000 +0000" stop="20180410113000 +0000">
     <title>Comm Games Live</title>
-    <desc>Follow our Kiwi competitors in Athletics Track &amp; Field events, Men's and Women's Swimming finals, and Men's Boxing quarterfinals with Leroy Hindley in the 69kg event, and Patrick Mailata in +93kg.</desc>
+    <desc>Follow our Kiwi competitors in Athletics Track &amp; Field, Men's and Women's Swimming finals, and Men's Boxing quarterfinals.</desc>
   </programme>
   <programme channel="tv.9" start="20180410113000 +0000" stop="20180410130000 +0000">
     <title>Comm Games Live</title>
@@ -1279,6 +1279,9 @@
   <programme channel="tv.9" start="20180416210000 +0000" stop="20180416220000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180416220000 +0000" stop="20180416230000 +0000">
     <title>Tipping Point</title>
@@ -1315,6 +1318,9 @@
   <programme channel="tv.9" start="20180417020000 +0000" stop="20180417030000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180417030000 +0000" stop="20180417040000 +0000">
     <title>Tipping Point</title>
@@ -1460,7 +1466,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180409173000 +0000" stop="20180409183000 +0000">
+  <programme channel="tv.10" start="20180409173000 +0000" stop="20180409180000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.10" start="20180409180000 +0000" stop="20180409183000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -1760,6 +1770,9 @@
   <programme channel="tv.10" start="20180410180000 +0000" stop="20180410183000 +0000">
     <title>Impact For Life</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180410183000 +0000" stop="20180410185500 +0000">
     <title>Sesame Street</title>
@@ -2178,7 +2191,7 @@
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180412040000 +0000" stop="20180412043000 +0000">
@@ -2469,6 +2482,9 @@
   <programme channel="tv.10" start="20180413040000 +0000" stop="20180413043000 +0000">
     <title>Fanimals</title>
     <desc>It's Friday and Fanimals is throwing an animal party, we go on a celebrity pet date with Matilda Rice and Art Green, and we could be calling you to win on 'Fact or Fiction'!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180413043000 +0000" stop="20180413050000 +0000">
     <title>Friends</title>
@@ -2504,6 +2520,9 @@
   <programme channel="tv.10" start="20180413070000 +0000" stop="20180413073000 +0000">
     <title>Shortland Street</title>
     <desc>Kate puts her faith in the wrong person. Boyd gets his wires crossed. Damo gets the shock of his life.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -2548,6 +2567,9 @@
   <programme channel="tv.10" start="20180413131000 +0000" stop="20180413133500 +0000">
     <title>Shortland Street</title>
     <desc>Kate puts her faith in the wrong person. Boyd gets his wires crossed. Damo gets the shock of his life.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -3233,6 +3255,9 @@
   <programme channel="tv.10" start="20180416030000 +0000" stop="20180416033000 +0000">
     <title>Shortland Street</title>
     <desc>Kate puts her faith in the wrong person. Boyd gets his wires crossed. Damo gets the shock of his life.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -3300,6 +3325,9 @@
   <programme channel="tv.10" start="20180416070000 +0000" stop="20180416073000 +0000">
     <title>Shortland Street</title>
     <desc>Dawn’s match-making is misguided. Harper wants her friend back. Damo’s joy is short-lived.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -3358,6 +3386,9 @@
   <programme channel="tv.10" start="20180416132000 +0000" stop="20180416134500 +0000">
     <title>Shortland Street</title>
     <desc>Dawn’s match-making is misguided. Harper wants her friend back. Damo’s joy is short-lived.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -3522,6 +3553,9 @@
   <programme channel="tv.10" start="20180417030000 +0000" stop="20180417033500 +0000">
     <title>Shortland Street</title>
     <desc>Dawn’s match-making is misguided. Harper wants her friend back. Damo’s joy is short-lived.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -3582,6 +3616,9 @@
   <programme channel="tv.10" start="20180417070000 +0000" stop="20180417073000 +0000">
     <title>Shortland Street</title>
     <desc>Damo’s chickens all come home to roost. Frank steps up for family. Curtis is the victim of revenge.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -7943,6 +7980,9 @@
   <programme channel="tv.38" start="20180416220000 +0000" stop="20180416230000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180416230000 +0000" stop="20180417000000 +0000">
     <title>Tipping Point</title>
@@ -7979,6 +8019,9 @@
   <programme channel="tv.38" start="20180417030000 +0000" stop="20180417040000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180417040000 +0000" stop="20180417050000 +0000">
     <title>Tipping Point</title>
@@ -8112,7 +8155,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180409183000 +0000" stop="20180409193000 +0000">
+  <programme channel="tv.14" start="20180409183000 +0000" stop="20180409190000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.14" start="20180409190000 +0000" stop="20180409193000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -8367,6 +8414,9 @@
   <programme channel="tv.14" start="20180410190000 +0000" stop="20180410193000 +0000">
     <title>Impact For Life</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180410193000 +0000" stop="20180410195500 +0000">
     <title>Sesame Street</title>
@@ -8725,7 +8775,7 @@
     <title>Marvel's Avengers Assemble</title>
     <desc>The Avengers must team up with the Inhumans to stop their old foe, Ultron, who plans to unleash a dangerous weapon upon Earth.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180412050000 +0000" stop="20180412053000 +0000">
@@ -8983,6 +9033,9 @@
   <programme channel="tv.14" start="20180413050000 +0000" stop="20180413053000 +0000">
     <title>Fanimals</title>
     <desc>It's Friday and Fanimals is throwing an animal party, we go on a celebrity pet date with Matilda Rice and Art Green, and we could be calling you to win on 'Fact or Fiction'!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180413053000 +0000" stop="20180413060000 +0000">
     <title>Friends</title>
@@ -15986,7 +16039,7 @@
     <desc>Matt Heath and Mike Lane look at key moments and discussion points from the day at the 2018 Gold Coast Commonwealth Games.</desc>
   </programme>
   <programme channel="tv.55" start="20180410090000 +0000" stop="20180410123000 +0000">
-    <title>Live: Athletics</title>
+    <title>Comm Games Tonight</title>
     <desc>Live coverage of Athletics Track &amp; Field events.</desc>
   </programme>
   <programme channel="tv.55" start="20180410123000 +0000" stop="20180410132500 +0000">
@@ -60498,14 +60551,14 @@
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20180410025800 +0000" stop="20180410043700 +0000">
-    <title>To Be Advised</title>
-  </programme>
-  <programme channel="tv.101406020625" start="20180410025800 +0000" stop="20180410043700 +0000">
     <title>Bachelor in Paradise</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
+  </programme>
+  <programme channel="tv.101406020625" start="20180410025800 +0000" stop="20180410043700 +0000">
+    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101406020625" start="20180410043700 +0000" stop="20180410045900 +0000">
     <title>Everyday Gourmet with Justine Schofield</title>
