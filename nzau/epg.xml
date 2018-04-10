@@ -3990,6 +3990,9 @@
   <programme channel="tv.11" start="20180412080000 +0000" stop="20180412083000 +0000">
     <title>All New Modern Family</title>
     <desc>New Episode. Haley's boss tries to buy Gloria's salsa, and Mitchell gets Cam the police ride-along he's always dreamed of. S9 Ep19</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -4933,6 +4936,9 @@
   <programme channel="tv.12" start="20180411083000 +0000" stop="20180411093000 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>As the Berlin trip concludes, one of the ladies can't seem to be on time to any of the scheduled events; surprisingly, it's not Dorit.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180411093000 +0000" stop="20180411103300 +0000">
     <title>Vanderpump Rules</title>
@@ -5024,6 +5030,9 @@
   <programme channel="tv.12" start="20180412023500 +0000" stop="20180412033300 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>As the Berlin trip concludes, one of the ladies can't seem to be on time to any of the scheduled events; surprisingly, it's not Dorit.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180412033300 +0000" stop="20180412033500 +0000">
     <title>The Dish</title>
@@ -11197,6 +11206,9 @@
   <programme channel="tv.30" start="20180411093000 +0000" stop="20180411103000 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>As the Berlin trip concludes, one of the ladies can't seem to be on time to any of the scheduled events; surprisingly, it's not Dorit.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180411103000 +0000" stop="20180411113300 +0000">
     <title>Vanderpump Rules</title>
@@ -11288,6 +11300,9 @@
   <programme channel="tv.30" start="20180412033500 +0000" stop="20180412043300 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>As the Berlin trip concludes, one of the ladies can't seem to be on time to any of the scheduled events; surprisingly, it's not Dorit.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180412043300 +0000" stop="20180412043500 +0000">
     <title>The Dish</title>
@@ -22774,7 +22789,7 @@
   </programme>
   <programme channel="tv.7" start="20180410013000 +0000" stop="20180410020000 +0000">
     <title>Good News In A Parched Land</title>
-    <desc>57 years after Dr. Billy Graham's first Gospel Crusade to Australia, Billy's grandson and evangelist, Will Graham was invited by the combined churches of Alice Springs to speak during a weekend rally.</desc>
+    <desc>57 years after Dr. Billy Grahams first Gospel Crusade to Australia, Billys grandson and evangelist, Will Graham was invited by the combined churches of Alice Springs to speak during a weekend rally.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -22985,7 +23000,7 @@
   </programme>
   <programme channel="tv.7" start="20180410203000 +0000" stop="20180410210000 +0000">
     <title>LIFE TV with Paul de Jong</title>
-    <desc/>
+    <desc>Real stories that inspire and bring hope. LIFE TV with Paul de Jong, pastor of Life Church, uses creative illustration &amp; Biblical teaching to encourage viewers from all walks of life.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -23109,7 +23124,7 @@
   </programme>
   <programme channel="tv.7" start="20180411070000 +0000" stop="20180411073000 +0000">
     <title>LIFE TV with Paul de Jong</title>
-    <desc/>
+    <desc>Real stories that inspire and bring hope. LIFE TV with Paul de Jong, pastor of Life Church, uses creative illustration &amp; Biblical teaching to encourage viewers from all walks of life.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -23636,8 +23651,8 @@
     </rating>
   </programme>
   <programme channel="tv.7" start="20180413073000 +0000" stop="20180413080000 +0000">
-    <title>Studio 5</title>
-    <desc>CBN's Efrem Graham interviews artists from the entertainment industry</desc>
+    <title>For the Lost</title>
+    <desc>For The Lost is a unique documentary series that follows one of a kind missionary band 'No Longer Music' on their tour through much of Europe and the Middle east. No Longer Music utilises music, ar</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -23825,8 +23840,8 @@
     </rating>
   </programme>
   <programme channel="tv.7" start="20180414000000 +0000" stop="20180414003000 +0000">
-    <title>Studio 5</title>
-    <desc>CBN's Efrem Graham interviews artists from the entertainment industry</desc>
+    <title>For the Lost</title>
+    <desc>For The Lost is a unique documentary series that follows one of a kind missionary band 'No Longer Music' on their tour through much of Europe and the Middle east. No Longer Music utilises music, ar</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -24068,7 +24083,7 @@
   </programme>
   <programme channel="tv.7" start="20180415000500 +0000" stop="20180415003500 +0000">
     <title>LIFE TV with Paul de Jong</title>
-    <desc/>
+    <desc>Real stories that inspire and bring hope. LIFE TV with Paul de Jong, pastor of Life Church, uses creative illustration &amp; Biblical teaching to encourage viewers from all walks of life.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -36394,13 +36409,13 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180413150000 +0000" stop="20180413151500 +0000">
+  <programme channel="tv.101002210220" start="20180413150000 +0000" stop="20180413151400 +0000">
     <title>ABC News Overnight</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180413151500 +0000" stop="20180413160000 +0000">
+  <programme channel="tv.101002210220" start="20180413151400 +0000" stop="20180413160000 +0000">
     <title>Four Corners</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -38712,6 +38727,9 @@
   <programme channel="tv.101002210221" start="20180417100100 +0000" stop="20180417103100 +0000">
     <title>The Checkout</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101002210221" start="20180417103100 +0000" stop="20180417113100 +0000">
     <title>Employable Me</title>
@@ -38997,14 +39015,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180410023000 +0000" stop="20180410030300 +0000">
+  <programme channel="tv.101002210222" start="20180410023000 +0000" stop="20180410030200 +0000">
     <title>Sesame Street</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180410030300 +0000" stop="20180410031300 +0000">
+  <programme channel="tv.101002210222" start="20180410030200 +0000" stop="20180410031300 +0000">
     <title>Mofy</title>
     <rating system="Freeview">
       <value>G</value>
@@ -40446,21 +40464,21 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180412200100 +0000" stop="20180412202700 +0000">
+  <programme channel="tv.101002210222" start="20180412200100 +0000" stop="20180412202600 +0000">
     <title>Play School</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180412202700 +0000" stop="20180412203300 +0000">
+  <programme channel="tv.101002210222" start="20180412202600 +0000" stop="20180412203200 +0000">
     <title>Bananas in Pyjamas</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180412203300 +0000" stop="20180412204500 +0000">
+  <programme channel="tv.101002210222" start="20180412203200 +0000" stop="20180412204500 +0000">
     <title>Numtums</title>
     <rating system="Freeview">
       <value>G</value>
@@ -40487,28 +40505,28 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180412212700 +0000" stop="20180412214100 +0000">
+  <programme channel="tv.101002210222" start="20180412212700 +0000" stop="20180412214000 +0000">
     <title>Ben and Holly's Little Kingdom</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180412214100 +0000" stop="20180412215500 +0000">
+  <programme channel="tv.101002210222" start="20180412214000 +0000" stop="20180412215500 +0000">
     <title>Fireman Sam</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180412215500 +0000" stop="20180412220100 +0000">
+  <programme channel="tv.101002210222" start="20180412215500 +0000" stop="20180412220000 +0000">
     <title>Peppa Pig</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180412220100 +0000" stop="20180412221200 +0000">
+  <programme channel="tv.101002210222" start="20180412220000 +0000" stop="20180412221200 +0000">
     <title>Hey Duggee</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -40529,14 +40547,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180412224100 +0000" stop="20180412224800 +0000">
+  <programme channel="tv.101002210222" start="20180412224100 +0000" stop="20180412224700 +0000">
     <title>Olobob Top</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180412224800 +0000" stop="20180412230100 +0000">
+  <programme channel="tv.101002210222" start="20180412224700 +0000" stop="20180412230100 +0000">
     <title>Bananas in Pyjamas</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -40564,33 +40582,33 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413002500 +0000" stop="20180413003300 +0000">
+  <programme channel="tv.101002210222" start="20180413002500 +0000" stop="20180413003200 +0000">
     <title>Pocoyo</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413003300 +0000" stop="20180413004700 +0000">
+  <programme channel="tv.101002210222" start="20180413003200 +0000" stop="20180413004500 +0000">
     <title>Daniel Tiger's Neighbourhood</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413004700 +0000" stop="20180413010000 +0000">
+  <programme channel="tv.101002210222" start="20180413004500 +0000" stop="20180413010000 +0000">
     <title>Clangers</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413010000 +0000" stop="20180413011200 +0000">
+  <programme channel="tv.101002210222" start="20180413010000 +0000" stop="20180413011100 +0000">
     <title>TwirlyWoos</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413011200 +0000" stop="20180413012500 +0000">
+  <programme channel="tv.101002210222" start="20180413011100 +0000" stop="20180413012500 +0000">
     <title>Teletubbies</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -40625,39 +40643,39 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413030300 +0000" stop="20180413031300 +0000">
+  <programme channel="tv.101002210222" start="20180413030300 +0000" stop="20180413031200 +0000">
     <title>Mofy</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413031300 +0000" stop="20180413032100 +0000">
+  <programme channel="tv.101002210222" start="20180413031200 +0000" stop="20180413032100 +0000">
     <title>Bing</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413032100 +0000" stop="20180413033300 +0000">
+  <programme channel="tv.101002210222" start="20180413032100 +0000" stop="20180413033200 +0000">
     <title>The Pajanimals</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413033300 +0000" stop="20180413034500 +0000">
+  <programme channel="tv.101002210222" start="20180413033200 +0000" stop="20180413034500 +0000">
     <title>Guess How Much I Love You</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413034500 +0000" stop="20180413035300 +0000">
+  <programme channel="tv.101002210222" start="20180413034500 +0000" stop="20180413035200 +0000">
     <title>Miffy's Adventures Big and Small</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413035300 +0000" stop="20180413040500 +0000">
+  <programme channel="tv.101002210222" start="20180413035200 +0000" stop="20180413040500 +0000">
     <title>Baby Jake</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -40671,34 +40689,34 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413041200 +0000" stop="20180413043600 +0000">
+  <programme channel="tv.101002210222" start="20180413041200 +0000" stop="20180413043500 +0000">
     <title>Mister Maker's Arty Party</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413043600 +0000" stop="20180413045000 +0000">
+  <programme channel="tv.101002210222" start="20180413043500 +0000" stop="20180413045000 +0000">
     <title>Sydney Sailboat</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413045000 +0000" stop="20180413050600 +0000">
+  <programme channel="tv.101002210222" start="20180413045000 +0000" stop="20180413050500 +0000">
     <title>Messy Goes to Okido</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413050600 +0000" stop="20180413051800 +0000">
+  <programme channel="tv.101002210222" start="20180413050500 +0000" stop="20180413051700 +0000">
     <title>Get Grubby TV</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413051800 +0000" stop="20180413053000 +0000">
+  <programme channel="tv.101002210222" start="20180413051700 +0000" stop="20180413053000 +0000">
     <title>Pablo</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -40733,42 +40751,42 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413064100 +0000" stop="20180413064700 +0000">
+  <programme channel="tv.101002210222" start="20180413064100 +0000" stop="20180413064600 +0000">
     <title>Joey's Big Adventure</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413064700 +0000" stop="20180413070000 +0000">
+  <programme channel="tv.101002210222" start="20180413064600 +0000" stop="20180413070000 +0000">
     <title>Brewster the Rooster</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413070000 +0000" stop="20180413071200 +0000">
+  <programme channel="tv.101002210222" start="20180413070000 +0000" stop="20180413071100 +0000">
     <title>Luo Bao Bei</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413071200 +0000" stop="20180413072500 +0000">
+  <programme channel="tv.101002210222" start="20180413071100 +0000" stop="20180413072500 +0000">
     <title>Go Jetters</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413072500 +0000" stop="20180413073300 +0000">
+  <programme channel="tv.101002210222" start="20180413072500 +0000" stop="20180413073200 +0000">
     <title>Kazoops!</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413073300 +0000" stop="20180413074000 +0000">
+  <programme channel="tv.101002210222" start="20180413073200 +0000" stop="20180413074000 +0000">
     <title>Peppa Pig</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -40795,14 +40813,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413081500 +0000" stop="20180413082800 +0000">
+  <programme channel="tv.101002210222" start="20180413081500 +0000" stop="20180413082700 +0000">
     <title>Peter Rabbit</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413082800 +0000" stop="20180413084000 +0000">
+  <programme channel="tv.101002210222" start="20180413082700 +0000" stop="20180413084000 +0000">
     <title>Floogals</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -40816,21 +40834,21 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413084500 +0000" stop="20180413085700 +0000">
+  <programme channel="tv.101002210222" start="20180413084500 +0000" stop="20180413085600 +0000">
     <title>The Justine Clarke Show!</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413085700 +0000" stop="20180413090800 +0000">
+  <programme channel="tv.101002210222" start="20180413085600 +0000" stop="20180413090600 +0000">
     <title>Andy's Baby Animals</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413090800 +0000" stop="20180413092000 +0000">
+  <programme channel="tv.101002210222" start="20180413090600 +0000" stop="20180413092000 +0000">
     <title>Ben and Holly's Little Kingdom</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -41044,42 +41062,42 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413220100 +0000" stop="20180413221200 +0000">
+  <programme channel="tv.101002210222" start="20180413220100 +0000" stop="20180413221300 +0000">
     <title>Hey Duggee</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413221200 +0000" stop="20180413222500 +0000">
+  <programme channel="tv.101002210222" start="20180413221300 +0000" stop="20180413222500 +0000">
     <title>Thomas the Tank Engine &amp; Friends</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413222500 +0000" stop="20180413224100 +0000">
+  <programme channel="tv.101002210222" start="20180413222500 +0000" stop="20180413224200 +0000">
     <title>Dinosaur Train</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413224100 +0000" stop="20180413224800 +0000">
+  <programme channel="tv.101002210222" start="20180413224200 +0000" stop="20180413224700 +0000">
     <title>Olobob Top</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413224800 +0000" stop="20180413230100 +0000">
+  <programme channel="tv.101002210222" start="20180413224700 +0000" stop="20180413230000 +0000">
     <title>Bananas in Pyjamas</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180413230100 +0000" stop="20180413233000 +0000">
+  <programme channel="tv.101002210222" start="20180413230000 +0000" stop="20180413233000 +0000">
     <title>Play School</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -43071,14 +43089,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180410004000 +0000" stop="20180410010600 +0000">
+  <programme channel="tv.101002210224" start="20180410004000 +0000" stop="20180410010700 +0000">
     <title>100 Things to Do Before High School</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180410010600 +0000" stop="20180410013500 +0000">
+  <programme channel="tv.101002210224" start="20180410010700 +0000" stop="20180410013500 +0000">
     <title>Roy</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -43092,25 +43110,25 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180410020300 +0000" stop="20180410022500 +0000">
+  <programme channel="tv.101002210224" start="20180410020300 +0000" stop="20180410022600 +0000">
     <title>Odd Squad</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180410022500 +0000" stop="20180410024700 +0000">
+  <programme channel="tv.101002210224" start="20180410022600 +0000" stop="20180410024800 +0000">
     <title>Odd Squad</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180410024700 +0000" stop="20180410031000 +0000">
+  <programme channel="tv.101002210224" start="20180410024800 +0000" stop="20180410031100 +0000">
     <title>Odd Squad</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180410031000 +0000" stop="20180410033300 +0000">
+  <programme channel="tv.101002210224" start="20180410031100 +0000" stop="20180410033300 +0000">
     <title>The Adventures of Puss in Boots</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -44077,27 +44095,27 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180412232500 +0000" stop="20180412235000 +0000">
+  <programme channel="tv.101002210224" start="20180412232500 +0000" stop="20180412234900 +0000">
     <title>Dance Academy</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180412235000 +0000" stop="20180413001500 +0000">
+  <programme channel="tv.101002210224" start="20180412234900 +0000" stop="20180413001400 +0000">
     <title>Dance Academy</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413001500 +0000" stop="20180413003800 +0000">
+  <programme channel="tv.101002210224" start="20180413001400 +0000" stop="20180413003700 +0000">
     <title>Project MC2</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413003800 +0000" stop="20180413010300 +0000">
+  <programme channel="tv.101002210224" start="20180413003700 +0000" stop="20180413010300 +0000">
     <title>100 Things to Do Before High School</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -44155,21 +44173,21 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413041800 +0000" stop="20180413044000 +0000">
+  <programme channel="tv.101002210224" start="20180413041800 +0000" stop="20180413044100 +0000">
     <title>Slugterra</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413044000 +0000" stop="20180413050100 +0000">
+  <programme channel="tv.101002210224" start="20180413044100 +0000" stop="20180413050200 +0000">
     <title>Camp Lakebottom</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413050100 +0000" stop="20180413052500 +0000">
+  <programme channel="tv.101002210224" start="20180413050200 +0000" stop="20180413052500 +0000">
     <title>Camp Lakebottom</title>
     <rating system="Freeview">
       <value>G</value>
@@ -44187,59 +44205,59 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413060200 +0000" stop="20180413062700 +0000">
+  <programme channel="tv.101002210224" start="20180413060200 +0000" stop="20180413062800 +0000">
     <title>Annedroids</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413062700 +0000" stop="20180413064300 +0000">
+  <programme channel="tv.101002210224" start="20180413062800 +0000" stop="20180413064300 +0000">
     <title>Officially Amazing</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413064300 +0000" stop="20180413070500 +0000">
+  <programme channel="tv.101002210224" start="20180413064300 +0000" stop="20180413070400 +0000">
     <title>Japanizi: Going, Going, Gong!</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413070500 +0000" stop="20180413071000 +0000">
+  <programme channel="tv.101002210224" start="20180413070400 +0000" stop="20180413070900 +0000">
     <title>BtN Newsbreak</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413071000 +0000" stop="20180413073900 +0000">
+  <programme channel="tv.101002210224" start="20180413070900 +0000" stop="20180413073800 +0000">
     <title>100 Things to Do Before High School</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413073900 +0000" stop="20180413080100 +0000">
+  <programme channel="tv.101002210224" start="20180413073800 +0000" stop="20180413080100 +0000">
     <title>Miraculous: Tales of Ladybug &amp; Cat Noir</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413080100 +0000" stop="20180413082500 +0000">
+  <programme channel="tv.101002210224" start="20180413080100 +0000" stop="20180413082300 +0000">
     <title>Teenage Mutant Ninja Turtles</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413082500 +0000" stop="20180413090700 +0000">
+  <programme channel="tv.101002210224" start="20180413082300 +0000" stop="20180413090500 +0000">
     <title>Doctor Who</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413090700 +0000" stop="20180413091300 +0000">
+  <programme channel="tv.101002210224" start="20180413090500 +0000" stop="20180413091300 +0000">
     <title>BtN Newsbreak</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -44253,47 +44271,47 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413093800 +0000" stop="20180413095100 +0000">
+  <programme channel="tv.101002210224" start="20180413093800 +0000" stop="20180413095000 +0000">
     <title>Danger Mouse</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413095100 +0000" stop="20180413101300 +0000">
+  <programme channel="tv.101002210224" start="20180413095000 +0000" stop="20180413101200 +0000">
     <title>Slugterra</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413101300 +0000" stop="20180413102200 +0000">
+  <programme channel="tv.101002210224" start="20180413101200 +0000" stop="20180413102100 +0000">
     <title>The Adventures of Figaro Pho</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413102200 +0000" stop="20180413105000 +0000">
+  <programme channel="tv.101002210224" start="20180413102100 +0000" stop="20180413105000 +0000">
     <title>Good Game Spawn Point</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413105000 +0000" stop="20180413111300 +0000">
+  <programme channel="tv.101002210224" start="20180413105000 +0000" stop="20180413111200 +0000">
     <title>Voltron: Legendary Defender</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413111300 +0000" stop="20180413113800 +0000">
+  <programme channel="tv.101002210224" start="20180413111200 +0000" stop="20180413113700 +0000">
     <title>Sailor Moon Crystal</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413113800 +0000" stop="20180413120100 +0000">
+  <programme channel="tv.101002210224" start="20180413113700 +0000" stop="20180413120100 +0000">
     <title>Kamisama Kiss</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -44313,14 +44331,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413190000 +0000" stop="20180413193000 +0000">
+  <programme channel="tv.101002210224" start="20180413190000 +0000" stop="20180413192900 +0000">
     <title>Officially Amazing</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413193000 +0000" stop="20180413195200 +0000">
+  <programme channel="tv.101002210224" start="20180413192900 +0000" stop="20180413195200 +0000">
     <title>Detentionaire</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -44373,14 +44391,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413214500 +0000" stop="20180413215700 +0000">
+  <programme channel="tv.101002210224" start="20180413214500 +0000" stop="20180413215800 +0000">
     <title>The Wild Adventures of Blinky Bill</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413215700 +0000" stop="20180413222000 +0000">
+  <programme channel="tv.101002210224" start="20180413215800 +0000" stop="20180413222000 +0000">
     <title>The Deep</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -44415,19 +44433,19 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413233200 +0000" stop="20180413235500 +0000">
+  <programme channel="tv.101002210224" start="20180413233200 +0000" stop="20180413235600 +0000">
     <title>Dragons: Race to the Edge</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180413235500 +0000" stop="20180414001700 +0000">
+  <programme channel="tv.101002210224" start="20180413235600 +0000" stop="20180414001800 +0000">
     <title>Dragons: Race to the Edge</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180414001700 +0000" stop="20180414004000 +0000">
+  <programme channel="tv.101002210224" start="20180414001800 +0000" stop="20180414004000 +0000">
     <title>Dragons: Race to the Edge</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -44439,26 +44457,26 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180414010300 +0000" stop="20180414012700 +0000">
+  <programme channel="tv.101002210224" start="20180414010300 +0000" stop="20180414012600 +0000">
     <title>Teenage Mutant Ninja Turtles</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180414012700 +0000" stop="20180414013800 +0000">
+  <programme channel="tv.101002210224" start="20180414012600 +0000" stop="20180414013800 +0000">
     <title>Get Blake!</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180414013800 +0000" stop="20180414020500 +0000">
+  <programme channel="tv.101002210224" start="20180414013800 +0000" stop="20180414020400 +0000">
     <title>Hank Zipzer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180414020500 +0000" stop="20180414022700 +0000">
+  <programme channel="tv.101002210224" start="20180414020400 +0000" stop="20180414022700 +0000">
     <title>Make it Pop</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -44526,19 +44544,19 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180414053600 +0000" stop="20180414060200 +0000">
+  <programme channel="tv.101002210224" start="20180414053600 +0000" stop="20180414060100 +0000">
     <title>Voltron: Legendary Defender</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180414060200 +0000" stop="20180414062700 +0000">
+  <programme channel="tv.101002210224" start="20180414060100 +0000" stop="20180414062600 +0000">
     <title>Annedroids</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180414062700 +0000" stop="20180414064100 +0000">
+  <programme channel="tv.101002210224" start="20180414062600 +0000" stop="20180414064100 +0000">
     <title>Officially Amazing</title>
     <rating system="Freeview">
       <value>G</value>
@@ -52899,41 +52917,41 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180413151000 +0000" stop="20180413153800 +0000">
+  <programme channel="tv.101305020522" start="20180413151000 +0000" stop="20180413153700 +0000">
     <title>Harry's Practice</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180413153800 +0000" stop="20180413161600 +0000">
+  <programme channel="tv.101305020522" start="20180413153700 +0000" stop="20180413161500 +0000">
     <title>Travel Oz</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180413161600 +0000" stop="20180413170100 +0000">
+  <programme channel="tv.101305020522" start="20180413161500 +0000" stop="20180413170000 +0000">
     <title>Travel Oz</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180413170100 +0000" stop="20180413180100 +0000">
+  <programme channel="tv.101305020522" start="20180413170000 +0000" stop="20180413180100 +0000">
     <title>The Super Dragons</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180413180100 +0000" stop="20180413183100 +0000">
+  <programme channel="tv.101305020522" start="20180413180100 +0000" stop="20180413183000 +0000">
     <title>Million Dollar Minute</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180413183100 +0000" stop="20180413190000 +0000">
+  <programme channel="tv.101305020522" start="20180413183000 +0000" stop="20180413190000 +0000">
     <title>Million Dollar Minute</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -53985,15 +54003,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180411143000 +0000" stop="20180411152700 +0000">
-    <title>The Front Bar: Gold Coast Edition</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020523" start="20180411143000 +0000" stop="20180411150000 +0000">
+    <title>American Hoggers</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180411143000 +0000" stop="20180411150000 +0000">
-    <title>American Hoggers</title>
+  <programme channel="tv.101305020523" start="20180411143000 +0000" stop="20180411152700 +0000">
+    <title>The Front Bar: Gold Coast Edition</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
