@@ -992,6 +992,9 @@
   <programme channel="tv.9" start="20180415210000 +0000" stop="20180415220000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180415220000 +0000" stop="20180415230000 +0000">
     <title>Tipping Point</title>
@@ -1028,6 +1031,9 @@
   <programme channel="tv.9" start="20180416020000 +0000" stop="20180416030000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180416030000 +0000" stop="20180416040000 +0000">
     <title>Tipping Point</title>
@@ -1941,6 +1947,9 @@
   <programme channel="tv.10" start="20180412040000 +0000" stop="20180412043000 +0000">
     <title>Fanimals</title>
     <desc>Today Wolfgang goes on a search for our endangered Yellow-Eyed Penguins, our Ask Me Anything Vet Stacey answers all your questions, and find out what your teachers really get up to after school!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180412043000 +0000" stop="20180412050000 +0000">
     <title>Friends</title>
@@ -3085,12 +3094,18 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180416085000 +0000" stop="20180416095000 +0000">
-    <title>The Sex Bots Are Coming</title>
+    <title>The Sexbots Are Coming</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180416095000 +0000" stop="20180416105000 +0000">
     <title>The Walking Dead</title>
     <desc>The communities join forces in the last stand against the Saviors as all-out war unfolds.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180416105000 +0000" stop="20180416111500 +0000">
     <title>Two And A Half Men</title>
@@ -3649,6 +3664,9 @@
   <programme channel="tv.10" start="20180418070000 +0000" stop="20180418073000 +0000">
     <title>Shortland Street</title>
     <desc>Curtis tries to toe the line. Zoe sets her sights on a new goal.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -7876,6 +7894,9 @@
   <programme channel="tv.38" start="20180415220000 +0000" stop="20180415230000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180415230000 +0000" stop="20180416000000 +0000">
     <title>Tipping Point</title>
@@ -7912,6 +7933,9 @@
   <programme channel="tv.38" start="20180416030000 +0000" stop="20180416040000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180416040000 +0000" stop="20180416050000 +0000">
     <title>Tipping Point</title>
@@ -8760,6 +8784,9 @@
   <programme channel="tv.14" start="20180412050000 +0000" stop="20180412053000 +0000">
     <title>Fanimals</title>
     <desc>Today Wolfgang goes on a search for our endangered Yellow-Eyed Penguins, our Ask Me Anything Vet Stacey answers all your questions, and find out what your teachers really get up to after school!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180412053000 +0000" stop="20180412060000 +0000">
     <title>Friends</title>
@@ -9727,12 +9754,15 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180416095000 +0000" stop="20180416105000 +0000">
-    <title>The Sex Bots Are Coming</title>
+    <title>The Sexbots Are Coming</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180416105000 +0000" stop="20180416115000 +0000">
     <title>The Walking Dead</title>
     <desc>The communities join forces in the last stand against the Saviors as all-out war unfolds.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180416115000 +0000" stop="20180416121500 +0000">
     <title>Two And A Half Men</title>
@@ -16327,11 +16357,7 @@
     <title>Live: Diving</title>
     <desc>Live coverage of the Springboard Finals in Diving.</desc>
   </programme>
-  <programme channel="tv.55" start="20180411123500 +0000" stop="20180411131000 +0000">
-    <title>Comm Games Update</title>
-    <desc>Latest updates from the 2018 Gold Coast Commonwealth Games.</desc>
-  </programme>
-  <programme channel="tv.55" start="20180411131000 +0000" stop="20180411180000 +0000">
+  <programme channel="tv.55" start="20180411123500 +0000" stop="20180411180000 +0000">
     <title>Comm Games Update</title>
     <desc>Latest updates from the 2018 Gold Coast Commonwealth Games.</desc>
   </programme>
@@ -55493,15 +55519,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180411143000 +0000" stop="20180411150000 +0000">
-    <title>American Hoggers</title>
+  <programme channel="tv.101305020523" start="20180411143000 +0000" stop="20180411152700 +0000">
+    <title>The Front Bar: Gold Coast Edition</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180411143000 +0000" stop="20180411152700 +0000">
-    <title>The Front Bar: Gold Coast Edition</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020523" start="20180411143000 +0000" stop="20180411150000 +0000">
+    <title>American Hoggers</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -61813,14 +61839,14 @@
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20180411025700 +0000" stop="20180411035900 +0000">
+    <title>To Be Advised</title>
+  </programme>
+  <programme channel="tv.101406020625" start="20180411025700 +0000" stop="20180411035900 +0000">
     <title>Bachelor in Paradise</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.101406020625" start="20180411025700 +0000" stop="20180411035900 +0000">
-    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101406020625" start="20180411035900 +0000" stop="20180411042700 +0000">
     <title>Entertainment Tonight</title>
