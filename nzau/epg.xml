@@ -458,11 +458,11 @@
   </programme>
   <programme channel="tv.9" start="20180413041500 +0000" stop="20180413050000 +0000">
     <title>Comm Games Today</title>
-    <desc>Coverage this hour includes Lawn Bowls Finals.</desc>
+    <desc>Latest updates from the 2018 Gold Coast Commonwealth Games.</desc>
   </programme>
   <programme channel="tv.9" start="20180413050000 +0000" stop="20180413060000 +0000">
     <title>Comm Games Today</title>
-    <desc>Coverage this hour includes Lawn Bowls Finals and the Men's 10m Synchronised Diving Final.</desc>
+    <desc>Coverage this hour includes Men's 10m Synchronised Diving Final.</desc>
   </programme>
   <programme channel="tv.9" start="20180413060000 +0000" stop="20180413070000 +0000">
     <title>1 News At 6pm</title>
@@ -38826,6 +38826,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180420140000 +0000" stop="20180420143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180412125900 +0000" stop="20180412140000 +0000">
     <title>Employable Me</title>
     <subtitles type="teletext"/>
@@ -50034,6 +50041,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200424" start="20180420140000 +0000" stop="20180420143000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200427" start="20180412133000 +0000" stop="20180412142700 +0000">
     <title>Rizzoli &amp; Isles</title>
     <rating system="Freeview">
@@ -51292,6 +51305,13 @@
   </programme>
   <programme channel="tv.101204200427" start="20180420130000 +0000" stop="20180420140000 +0000">
     <title>The Closer</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200427" start="20180420140000 +0000" stop="20180420150000 +0000">
+    <title>A.D. Kingdom And Empire</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -53279,6 +53299,12 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20180420140000 +0000" stop="20180420150000 +0000">
+    <title>WWE Smackdown</title>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180412130000 +0000" stop="20180412140000 +0000">
@@ -60398,6 +60424,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180420140000 +0000" stop="20180420143000 +0000">
+    <title>Raceday Review - Hamilton</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406020621" start="20180412135500 +0000" stop="20180412150000 +0000">
     <title>Highlander</title>
     <rating system="Freeview">
@@ -61930,6 +61963,12 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020621" start="20180420140000 +0000" stop="20180420143000 +0000">
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20180412133000 +0000" stop="20180412143700 +0000">
@@ -71214,6 +71253,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180420140000 +0000" stop="20180420143000 +0000">
+    <title>Good Eats</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180412133000 +0000" stop="20180412150000 +0000">
     <title>The Marngrook Footy Show</title>
     <rating system="Freeview">
@@ -73290,6 +73335,12 @@
     <title>Over the Black Dot</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180420140000 +0000" stop="20180420150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
 </tv>
