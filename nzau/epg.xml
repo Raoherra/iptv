@@ -16492,17 +16492,9 @@
     <title>Live: Diving</title>
     <desc>Live coverage of the Women's 1m Springboard Diving Preliminarys featuring Kiwi athletes - Shaye Boddington and Elizabeth Cui.</desc>
   </programme>
-  <programme channel="tv.55" start="20180413023000 +0000" stop="20180413030000 +0000">
-    <title>Badminton</title>
-    <desc>Delayed coverage of the Mixed Doubles Quarterfinal in Badminton.</desc>
-  </programme>
-  <programme channel="tv.55" start="20180413030000 +0000" stop="20180413040000 +0000">
-    <title>Live: Squash</title>
-    <desc>Live coverage of the Men's Doubles Quarterfinal in Squash.</desc>
-  </programme>
-  <programme channel="tv.55" start="20180413040000 +0000" stop="20180413043000 +0000">
-    <title>Comm Games Today</title>
-    <desc>Latest updates from the 2018 Gold Coast Commonwealth Games.</desc>
+  <programme channel="tv.55" start="20180413023000 +0000" stop="20180413043000 +0000">
+    <title>Live: Boxing</title>
+    <desc>Live coverage of Boxing.</desc>
   </programme>
   <programme channel="tv.55" start="20180413043000 +0000" stop="20180413050000 +0000">
     <title>Live: Boxing</title>
@@ -16512,12 +16504,12 @@
     <title>Comm Games Tonight</title>
     <desc>Latest updates from the 2018 Gold Coast Commonwealth Games.</desc>
   </programme>
-  <programme channel="tv.55" start="20180413051500 +0000" stop="20180413054500 +0000">
+  <programme channel="tv.55" start="20180413051500 +0000" stop="20180413055000 +0000">
     <title>Live: Boxing</title>
     <desc>Live coverage of the Boxing - Men's 91kg Semi-Finals with Kiwi David Nyika.</desc>
   </programme>
-  <programme channel="tv.55" start="20180413054500 +0000" stop="20180413062000 +0000">
-    <title>Comm Games Tonight</title>
+  <programme channel="tv.55" start="20180413055000 +0000" stop="20180413062000 +0000">
+    <title>Comm Games Today</title>
     <desc>Latest updates from the 2018 Gold Coast Commonwealth Games.</desc>
   </programme>
   <programme channel="tv.55" start="20180413062000 +0000" stop="20180413075000 +0000">
@@ -16536,21 +16528,21 @@
     <title>Comm Games Tonight</title>
     <desc>Latest updates from 2018 Gold Coast Commonwealth Games.</desc>
   </programme>
-  <programme channel="tv.55" start="20180413092000 +0000" stop="20180413105500 +0000">
-    <title>Live: Hockey (M)</title>
-    <desc>Live coverage of Men's Hockey Semi-final match.</desc>
+  <programme channel="tv.55" start="20180413092000 +0000" stop="20180413105000 +0000">
+    <title>Live: Rugby 7s</title>
+    <desc>Rugby 7s.</desc>
   </programme>
-  <programme channel="tv.55" start="20180413105500 +0000" stop="20180413113500 +0000">
-    <title>Comm Games Tonight</title>
-    <desc>Latest updates from 2018 Gold Coast Commonwealth Games.</desc>
+  <programme channel="tv.55" start="20180413105000 +0000" stop="20180413123000 +0000">
+    <title>Live: Basketball - NZL v AUS</title>
+    <desc>Basketball.</desc>
   </programme>
-  <programme channel="tv.55" start="20180413113500 +0000" stop="20180413131000 +0000">
-    <title>Live: Hockey (M)</title>
-    <desc>Live coverage of Men's Hockey Semi-final match.</desc>
-  </programme>
-  <programme channel="tv.55" start="20180413131000 +0000" stop="20180413140500 +0000">
+  <programme channel="tv.55" start="20180413123000 +0000" stop="20180413133000 +0000">
     <title>2018 Games Highlights - Day 9</title>
     <desc>Highlights from Day 9 of competition at the 2018 Gold Coast Commonwealth Games.</desc>
+  </programme>
+  <programme channel="tv.55" start="20180413133000 +0000" stop="20180413140500 +0000">
+    <title>Comm Games Update</title>
+    <desc>Latest updates from the 2018 Gold Coast Commonwealth Games.</desc>
   </programme>
   <programme channel="tv.55" start="20180413140500 +0000" stop="20180413180000 +0000">
     <title>Comm Games Update</title>
@@ -35219,9 +35211,16 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.60" start="20180412220000 +0000" stop="20180413000000 +0000">
+  <programme channel="tv.60" start="20180412220000 +0000" stop="20180412230000 +0000">
     <title>Wairarapa Property Showcase</title>
     <desc>A selection of the best Wairarapa Properties for sale.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180412230000 +0000" stop="20180413000000 +0000">
+    <title>WHAM - ArrowFM</title>
+    <desc>Join Hayley Gastmeier live each Friday to find out what community events and cool things are on near you</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -35234,8 +35233,8 @@
     </rating>
   </programme>
   <programme channel="tv.60" start="20180413010000 +0000" stop="20180413020000 +0000">
-    <title>Conservation Watch</title>
-    <desc>Join the department of conservation to catch up on the latest conservation efforts from around the country.</desc>
+    <title>WHAM - ArrowFM</title>
+    <desc>Join Hayley Gastmeier live each Friday to find out what community events and cool things are on near you</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -35262,8 +35261,8 @@
     </rating>
   </programme>
   <programme channel="tv.60" start="20180413050000 +0000" stop="20180413060000 +0000">
-    <title>Low Gear</title>
-    <desc>Join Bill Hohepa as he explores the world of trucks and historic vehicles.</desc>
+    <title>WHAM - ArrowFM</title>
+    <desc>Join Hayley Gastmeier live each Friday to find out what community events and cool things are on near you</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -35349,12 +35348,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.60" start="20180413180000 +0000" stop="20180413200000 +0000">
+  <programme channel="tv.60" start="20180413180000 +0000" stop="20180413190000 +0000">
     <title>Colour in Your Life</title>
     <desc>Join Graham Stevenson as he explores the arts across Australasia and the UK.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
+  </programme>
+  <programme channel="tv.60" start="20180413190000 +0000" stop="20180413200000 +0000">
+    <title>Today I Found Out</title>
+    <desc>Today I Found Out...</desc>
   </programme>
   <programme channel="tv.60" start="20180413200000 +0000" stop="20180413210000 +0000">
     <title>Wairarapa Spotlight</title>
@@ -35370,11 +35373,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.60" start="20180413220000 +0000" stop="20180414000000 +0000">
+  <programme channel="tv.60" start="20180413220000 +0000" stop="20180413230000 +0000">
     <title>Wairarapa Property Showcase</title>
     <desc>A selection of the best Wairarapa Properties for sale.</desc>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180413230000 +0000" stop="20180414000000 +0000">
+    <title>Biography</title>
+    <desc/>
+    <rating system="Freeview">
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.60" start="20180414000000 +0000" stop="20180414010000 +0000">
@@ -35557,8 +35567,8 @@
     </rating>
   </programme>
   <programme channel="tv.60" start="20180415020000 +0000" stop="20180415030000 +0000">
-    <title>Must See NZ</title>
-    <desc>A mix of Wairarapa and National Tourism hotspots for locals and visitors alike.</desc>
+    <title>Rotary Matters</title>
+    <desc>An update on what Rotary is doing for your community.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -35570,12 +35580,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.60" start="20180415040000 +0000" stop="20180415060000 +0000">
+  <programme channel="tv.60" start="20180415040000 +0000" stop="20180415050000 +0000">
     <title>Flite Test</title>
     <desc>Join the team from Flite Test as they build and test all array of flying machines from drones to model aircraft to racers.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
+  </programme>
+  <programme channel="tv.60" start="20180415050000 +0000" stop="20180415060000 +0000">
+    <title>Today I Found Out</title>
+    <desc>Today I Found Out...</desc>
   </programme>
   <programme channel="tv.60" start="20180415060000 +0000" stop="20180415070000 +0000">
     <title>Fencepost</title>
@@ -35658,12 +35672,16 @@
     <title>Vlogger Time</title>
     <desc>Join a selection of Wairarapa Vloggers for their latest updates including the Adventures of Joel &amp; Jamie, The Cam Waru Show and Mady Rose Art.</desc>
   </programme>
-  <programme channel="tv.60" start="20180415180000 +0000" stop="20180415200000 +0000">
+  <programme channel="tv.60" start="20180415180000 +0000" stop="20180415190000 +0000">
     <title>Space Hour</title>
     <desc>NASA Edge is the official NASA Channel and TMRO is a crowd funded space channel run by space enthusiasts.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
+  </programme>
+  <programme channel="tv.60" start="20180415190000 +0000" stop="20180415200000 +0000">
+    <title>Today I Found Out</title>
+    <desc>Today I Found Out...</desc>
   </programme>
   <programme channel="tv.60" start="20180415200000 +0000" stop="20180415210000 +0000">
     <title>Colour in Your Life</title>
@@ -35679,16 +35697,9 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.60" start="20180415220000 +0000" stop="20180416000000 +0000">
+  <programme channel="tv.60" start="20180415220000 +0000" stop="20180416010000 +0000">
     <title>Wairarapa Property Showcase</title>
     <desc>A selection of the best Wairarapa Properties for sale.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.60" start="20180416000000 +0000" stop="20180416010000 +0000">
-    <title>Space Hour</title>
-    <desc>NASA Edge is the official NASA Channel and TMRO is a crowd funded space channel run by space enthusiasts.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -35722,10 +35733,10 @@
     </rating>
   </programme>
   <programme channel="tv.60" start="20180416050000 +0000" stop="20180416060000 +0000">
-    <title>The Music Show</title>
-    <desc>A mix of Wairarapa Music and interviews with some of NZ's greatest artists.</desc>
+    <title>Nothing Personal - ArrowFM</title>
+    <desc>Nothing Personal merges both business and music together. Join host Nikki King who talks to guests from the community about their business.</desc>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.60" start="20180416060000 +0000" stop="20180416070000 +0000">
@@ -35736,8 +35747,8 @@
     </rating>
   </programme>
   <programme channel="tv.60" start="20180416070000 +0000" stop="20180416080000 +0000">
-    <title>Wairarapa Spotlight</title>
-    <desc>Spotlight on the Wairarapa featuring the latest happenings to events of historical significance.</desc>
+    <title>Rotary Matters</title>
+    <desc>An update on what Rotary is doing for your community.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -35756,16 +35767,9 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.60" start="20180416100000 +0000" stop="20180416110000 +0000">
+  <programme channel="tv.60" start="20180416100000 +0000" stop="20180416120000 +0000">
     <title>Wairarapa Property Showcase</title>
     <desc>A selection of the best Wairarapa Properties for sale.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.60" start="20180416110000 +0000" stop="20180416120000 +0000">
-    <title>The Beat Goes On</title>
-    <desc>As lead singer of popular 70s band The Rumour. Gerards voice became known nation wide when Love is the Child of Freedom became one of the decades biggest hits.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -35813,10 +35817,10 @@
     </rating>
   </programme>
   <programme channel="tv.60" start="20180416180000 +0000" stop="20180416190000 +0000">
-    <title>Must See NZ</title>
-    <desc>A mix of Wairarapa and National Tourism hotspots for locals and visitors alike.</desc>
+    <title>Nothing Personal - ArrowFM</title>
+    <desc>Nothing Personal merges both business and music together. Join host Nikki King who talks to guests from the community about their business.</desc>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.60" start="20180416190000 +0000" stop="20180416200000 +0000">
@@ -35840,11 +35844,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.60" start="20180416220000 +0000" stop="20180417000000 +0000">
+  <programme channel="tv.60" start="20180416220000 +0000" stop="20180416230000 +0000">
     <title>Wairarapa Property Showcase</title>
     <desc>A selection of the best Wairarapa Properties for sale.</desc>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180416230000 +0000" stop="20180417000000 +0000">
+    <title>Biography</title>
+    <desc/>
+    <rating system="Freeview">
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.60" start="20180417000000 +0000" stop="20180417010000 +0000">
@@ -35875,18 +35886,22 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.60" start="20180417040000 +0000" stop="20180417060000 +0000">
+  <programme channel="tv.60" start="20180417040000 +0000" stop="20180417050000 +0000">
     <title>Space Hour</title>
     <desc>NASA Edge is the official NASA Channel and TMRO is a crowd funded space channel run by space enthusiasts.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.60" start="20180417050000 +0000" stop="20180417060000 +0000">
+    <title>Today I Found Out</title>
+    <desc>Today I Found Out...</desc>
+  </programme>
   <programme channel="tv.60" start="20180417060000 +0000" stop="20180417070000 +0000">
-    <title>Fencepost</title>
-    <desc>Meet the places and faces behind the New Zealand agricultural sector with Rural Delivery and locally made rural special features. Rural Delivery is made with the support of NZ on Air</desc>
+    <title>Nothing Personal - ArrowFM</title>
+    <desc>Nothing Personal merges both business and music together. Join host Nikki King who talks to guests from the community about their business.</desc>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.60" start="20180417070000 +0000" stop="20180417080000 +0000">
@@ -35963,12 +35978,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.60" start="20180417180000 +0000" stop="20180417200000 +0000">
+  <programme channel="tv.60" start="20180417180000 +0000" stop="20180417190000 +0000">
     <title>Wairarapa Spotlight</title>
     <desc>Spotlight on the Wairarapa featuring the latest happenings to events of historical significance.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
+  </programme>
+  <programme channel="tv.60" start="20180417190000 +0000" stop="20180417200000 +0000">
+    <title>Today I Found Out</title>
+    <desc>Today I Found Out...</desc>
   </programme>
   <programme channel="tv.60" start="20180417200000 +0000" stop="20180417210000 +0000">
     <title>Space Hour</title>
@@ -36149,11 +36168,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.60" start="20180418220000 +0000" stop="20180419000000 +0000">
+  <programme channel="tv.60" start="20180418220000 +0000" stop="20180418230000 +0000">
     <title>Wairarapa Property Showcase</title>
     <desc>A selection of the best Wairarapa Properties for sale.</desc>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180418230000 +0000" stop="20180419000000 +0000">
+    <title>Biography</title>
+    <desc/>
+    <rating system="Freeview">
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.60" start="20180419000000 +0000" stop="20180419010000 +0000">
@@ -36206,8 +36232,8 @@
     </rating>
   </programme>
   <programme channel="tv.60" start="20180419070000 +0000" stop="20180419080000 +0000">
-    <title>Wairarapa Spotlight</title>
-    <desc>Spotlight on the Wairarapa featuring the latest happenings to events of historical significance.</desc>
+    <title>WHAM - ArrowFM</title>
+    <desc>Join Hayley Gastmeier live each Friday to find out what community events and cool things are on near you</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -36310,9 +36336,16 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.60" start="20180419220000 +0000" stop="20180420000000 +0000">
+  <programme channel="tv.60" start="20180419220000 +0000" stop="20180419230000 +0000">
     <title>Wairarapa Property Showcase</title>
     <desc>A selection of the best Wairarapa Properties for sale.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180419230000 +0000" stop="20180420000000 +0000">
+    <title>WHAM - ArrowFM</title>
+    <desc>Join Hayley Gastmeier live each Friday to find out what community events and cool things are on near you</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -36325,8 +36358,8 @@
     </rating>
   </programme>
   <programme channel="tv.60" start="20180420010000 +0000" stop="20180420020000 +0000">
-    <title>Conservation Watch</title>
-    <desc>Join the department of conservation to catch up on the latest conservation efforts from around the country.</desc>
+    <title>WHAM - ArrowFM</title>
+    <desc>Join Hayley Gastmeier live each Friday to find out what community events and cool things are on near you</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -36353,8 +36386,8 @@
     </rating>
   </programme>
   <programme channel="tv.60" start="20180420050000 +0000" stop="20180420060000 +0000">
-    <title>Low Gear</title>
-    <desc>Join Bill Hohepa as he explores the world of trucks and historic vehicles.</desc>
+    <title>WHAM - ArrowFM</title>
+    <desc>Join Hayley Gastmeier live each Friday to find out what community events and cool things are on near you</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
