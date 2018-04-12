@@ -45,10 +45,13 @@ http://iptv.matthuisman.nz/nz/tv.60.m3u8|X-Forwarded-For=202.89.4.222&User-Agent
 #EXTINF:-1 tvg-name="015" tvg-id="tv.redbull.tv" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png",Redbull TV
 http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
-#EXTINF:-1 tvg-name="016" tvg-id="tv.games-online" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.games-online.png",TVNZ Games Online
+#EXTINF:-1 tvg-name="016" tvg-id="tv.sbnint" tvg-logo="http://sonlifetv.com/images/sbngloballogo.jpg",SonLife International
+http://iptv.matthuisman.nz/nz/tv.sbnint.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1 tvg-name="017" tvg-id="tv.games-online" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.games-online.png",TVNZ Games Online
 http://iptv.matthuisman.nz/nz/tv.games-online.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
-#EXTINF:-1 tvg-name="017" tvg-id="tv.games-mosaic" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.games-mosaic.png",TVNZ Games Mosaic
+#EXTINF:-1 tvg-name="018" tvg-id="tv.games-mosaic" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.games-mosaic.png",TVNZ Games Mosaic
 http://iptv.matthuisman.nz/nz/tv.games-mosaic.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="001" tvg-id="tv.101305020522" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020522.png",7TWO
@@ -128,9 +131,6 @@ http://iptv.matthuisman.nz/au/Sydney/tv.7misc7.m3u8|X-Forwarded-For=52.62.247.23
 
 #EXTINF:-1 tvg-name="026" tvg-id="tv.7misc8" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/7misc.png",Seven MISC #8
 http://iptv.matthuisman.nz/au/Sydney/tv.7misc8.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
-
-#EXTINF:-1 tvg-name="027" tvg-id="tv.sbnint" tvg-logo="http://sonlifetv.com/images/sbngloballogo.jpg",SonLife International
-http://iptv.matthuisman.nz/au/Sydney/tv.sbnint.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="028" tvg-id="tv.101406020625" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406020625.png",TEN
 http://iptv.matthuisman.nz/au/Sydney/tv.101406020625.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
