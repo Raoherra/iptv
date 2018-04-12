@@ -512,13 +512,13 @@
     <title>Comm Games Live</title>
     <desc>A round up of today's action, including Kiwi performances from Beach Volleyball, Mountain biking, Lawn Bowls, Hockey and Athletics Track &amp; Field.</desc>
   </programme>
-  <programme channel="tv.9" start="20180412092000 +0000" stop="20180412124000 +0000">
+  <programme channel="tv.9" start="20180412092000 +0000" stop="20180412123000 +0000">
     <title>Comm Games Live</title>
     <desc>Live coverage from Athletics Track &amp; Field events, with regular updates on action from across the 2018 Gold Coast Commonwealth Games.</desc>
   </programme>
-  <programme channel="tv.9" start="20180412124000 +0000" stop="20180412143000 +0000">
+  <programme channel="tv.9" start="20180412123000 +0000" stop="20180412143000 +0000">
     <title>Comm Games Tonight</title>
-    <desc>Latest updates from the 2018 Gold Coast Commonwealth Games.</desc>
+    <desc>A replay of the Badminton Mixed Doubles Final from earlier in the day with NZL players Susannah Leydon-David and Oliver Leydon-David.</desc>
   </programme>
   <programme channel="tv.9" start="20180412143000 +0000" stop="20180412174500 +0000">
     <title>Infomercial</title>
@@ -3644,7 +3644,7 @@
     <desc/>
   </programme>
   <programme channel="tv.11" start="20180411233500 +0000" stop="20180412000500 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -3658,7 +3658,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180412010500 +0000" stop="20180412030000 +0000">
-    <title>American Idol</title>
+    <title>American Idol (Encore)</title>
     <desc>New Episode. Hopefuls, including a teacher from Michigan, a construction worker from Alabama and a goat farmer from Oklahoma, perform for the judges. S16 Ep4</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -3953,6 +3953,9 @@
   <programme channel="tv.11" start="20180414030000 +0000" stop="20180414033000 +0000">
     <title>The Goldbergs</title>
     <desc>New Episode. The family doesn't support Beverly when she decides to take up dance with the Frentas, and when Emmy starts dating a cool guy, Adam thinks their friendship is in jeopardy. S5 Ep19</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -3982,17 +3985,17 @@
     <title>Newshub Live At 6pm</title>
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
   </programme>
-  <programme channel="tv.11" start="20180414070000 +0000" stop="20180414085000 +0000">
+  <programme channel="tv.11" start="20180414070000 +0000" stop="20180414084500 +0000">
     <title>Despicable Me</title>
     <desc>When a criminal mastermind uses a trio of orphan girls as pawns for a grand scheme, he finds their love is profoundly changing him for the better. (2010)</desc>
     <audio>
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180414085000 +0000" stop="20180414111500 +0000">
+  <programme channel="tv.11" start="20180414084500 +0000" stop="20180414110500 +0000">
     <title>Lovely Bones, The</title>
     <desc>Based on Alice Sebold's best-selling 2002 novel, The Lovely Bones tells the story of a murdered 14-year-old girl who watches over her family and killer. Directed by Peter Jackson. (2009)</desc>
     <audio>
@@ -4002,7 +4005,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180414111500 +0000" stop="20180414131500 +0000">
+  <programme channel="tv.11" start="20180414110500 +0000" stop="20180414130000 +0000">
     <title>Hidden Camera</title>
     <desc>A reporter must evade a corrupt Interpol agent while investigating the mysterious death of his brother. (2007)</desc>
     <audio>
@@ -4012,7 +4015,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180414131500 +0000" stop="20180414160000 +0000">
+  <programme channel="tv.11" start="20180414130000 +0000" stop="20180414160000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -4034,22 +4037,37 @@
   <programme channel="tv.11" start="20180414180000 +0000" stop="20180414183000 +0000">
     <title>Life TV</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180414183000 +0000" stop="20180414190000 +0000">
-    <title>Brian Houston</title>
-    <desc/>
+    <title>Brian Houston @ Hillsong TV 1095</title>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180414190000 +0000" stop="20180414200000 +0000">
-    <title>Charles Stanley</title>
+    <title>Charles Stanley 1815</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180414200000 +0000" stop="20180414203000 +0000">
-    <title>Living Church of God</title>
+    <title>Living Church Of God</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180414203000 +0000" stop="20180414210000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180414210000 +0000" stop="20180414213000 +0000">
     <title>R &amp; R</title>
@@ -4614,7 +4632,7 @@
   </programme>
   <programme channel="tv.11" start="20180419080000 +0000" stop="20180419083000 +0000">
     <title>Modern Family</title>
-    <desc>Modern Family takes an honest and hilarious look at the composition and complexity of family life.</desc>
+    <desc>Cameron isn't ready to conclude his honeymoon with Mitchell after their wedding, Gloria takes Jay to task over his appearance, and the Dunphys must ready themselves for the return to school. S6 Ep1</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -4922,6 +4940,9 @@
   <programme channel="tv.12" start="20180413072800 +0000" stop="20180413073000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180413073000 +0000" stop="20180413080000 +0000">
     <title>Beverly Hills Pawn</title>
@@ -4947,6 +4968,9 @@
   <programme channel="tv.12" start="20180413105800 +0000" stop="20180413110000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180413110000 +0000" stop="20180413115000 +0000">
     <title>Intervention</title>
@@ -4991,6 +5015,9 @@
   <programme channel="tv.12" start="20180413225300 +0000" stop="20180413225500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180413225500 +0000" stop="20180413232000 +0000">
     <title>Say Yes To The Dress Atlanta</title>
@@ -5023,6 +5050,9 @@
   <programme channel="tv.12" start="20180414004300 +0000" stop="20180414004500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180414004500 +0000" stop="20180414014000 +0000">
     <title>Little Big Shots: Forever Young</title>
@@ -5041,6 +5071,9 @@
   <programme channel="tv.12" start="20180414023300 +0000" stop="20180414023500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180414023500 +0000" stop="20180414033500 +0000">
     <title>Million Dollar Decorators</title>
@@ -5094,6 +5127,9 @@
   <programme channel="tv.12" start="20180414084300 +0000" stop="20180414084500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180414084500 +0000" stop="20180414094500 +0000">
     <title>Keeping Up With The Kardashians</title>
@@ -5172,6 +5208,9 @@
   <programme channel="tv.12" start="20180414215800 +0000" stop="20180414220000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180414220000 +0000" stop="20180414224500 +0000">
     <title>How Do I Look?</title>
@@ -5197,6 +5236,9 @@
   <programme channel="tv.12" start="20180415002800 +0000" stop="20180415003000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180415003000 +0000" stop="20180415012000 +0000">
     <title>Killing Versace: Hunt For A Serial Killer</title>
@@ -5243,6 +5285,9 @@
   <programme channel="tv.12" start="20180415033300 +0000" stop="20180415033500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180415033500 +0000" stop="20180415043000 +0000">
     <title>How Do I Look?</title>
@@ -5303,6 +5348,9 @@
   <programme channel="tv.12" start="20180415103300 +0000" stop="20180415103500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180415103500 +0000" stop="20180415110500 +0000">
     <title>Don't Be Tardy</title>
@@ -5354,6 +5402,9 @@
   <programme channel="tv.12" start="20180415225800 +0000" stop="20180415230000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180415230000 +0000" stop="20180415235000 +0000">
     <title>David Tutera: Unveiled</title>
@@ -5372,6 +5423,9 @@
   <programme channel="tv.12" start="20180416004300 +0000" stop="20180416004500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180416004500 +0000" stop="20180416014000 +0000">
     <title>The Real Housewives Of New York City</title>
@@ -10298,7 +10352,7 @@
     <desc/>
   </programme>
   <programme channel="tv.27" start="20180412003500 +0000" stop="20180412010500 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -10312,7 +10366,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180412020500 +0000" stop="20180412040000 +0000">
-    <title>American Idol</title>
+    <title>American Idol (Encore)</title>
     <desc>New Episode. Hopefuls, including a teacher from Michigan, a construction worker from Alabama and a goat farmer from Oklahoma, perform for the judges. S16 Ep4</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -10609,28 +10663,28 @@
     <title>Newshub Live At 6pm</title>
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
   </programme>
-  <programme channel="tv.27" start="20180414080000 +0000" stop="20180414095000 +0000">
+  <programme channel="tv.27" start="20180414080000 +0000" stop="20180414094500 +0000">
     <title>Despicable Me</title>
     <desc>When a criminal mastermind uses a trio of orphan girls as pawns for a grand scheme, he finds their love is profoundly changing him for the better. (2010)</desc>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180414095000 +0000" stop="20180414121500 +0000">
+  <programme channel="tv.27" start="20180414094500 +0000" stop="20180414120500 +0000">
     <title>Lovely Bones, The</title>
     <desc>Based on Alice Sebold's best-selling 2002 novel, The Lovely Bones tells the story of a murdered 14-year-old girl who watches over her family and killer. Directed by Peter Jackson. (2009)</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180414121500 +0000" stop="20180414141500 +0000">
+  <programme channel="tv.27" start="20180414120500 +0000" stop="20180414140000 +0000">
     <title>Hidden Camera</title>
     <desc>A reporter must evade a corrupt Interpol agent while investigating the mysterious death of his brother. (2007)</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180414141500 +0000" stop="20180414170000 +0000">
+  <programme channel="tv.27" start="20180414140000 +0000" stop="20180414170000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -10652,22 +10706,37 @@
   <programme channel="tv.27" start="20180414190000 +0000" stop="20180414193000 +0000">
     <title>Life TV</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180414193000 +0000" stop="20180414200000 +0000">
-    <title>Brian Houston</title>
-    <desc/>
+    <title>Brian Houston @ Hillsong TV 1095</title>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180414200000 +0000" stop="20180414210000 +0000">
-    <title>Charles Stanley</title>
+    <title>Charles Stanley 1815</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180414210000 +0000" stop="20180414213000 +0000">
-    <title>Living Church of God</title>
+    <title>Living Church Of God</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180414213000 +0000" stop="20180414220000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180414220000 +0000" stop="20180414223000 +0000">
     <title>R &amp; R</title>
@@ -11196,7 +11265,7 @@
   </programme>
   <programme channel="tv.27" start="20180419090000 +0000" stop="20180419093000 +0000">
     <title>Modern Family</title>
-    <desc>Modern Family takes an honest and hilarious look at the composition and complexity of family life.</desc>
+    <desc>Cameron isn't ready to conclude his honeymoon with Mitchell after their wedding, Gloria takes Jay to task over his appearance, and the Dunphys must ready themselves for the return to school. S6 Ep1</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -11498,6 +11567,9 @@
   <programme channel="tv.30" start="20180413082800 +0000" stop="20180413083000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180413083000 +0000" stop="20180413090000 +0000">
     <title>Beverly Hills Pawn</title>
@@ -11523,6 +11595,9 @@
   <programme channel="tv.30" start="20180413115800 +0000" stop="20180413120000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180413120000 +0000" stop="20180413125000 +0000">
     <title>Intervention</title>
@@ -11567,6 +11642,9 @@
   <programme channel="tv.30" start="20180413235300 +0000" stop="20180413235500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180413235500 +0000" stop="20180414002000 +0000">
     <title>Say Yes To The Dress Atlanta</title>
@@ -11599,6 +11677,9 @@
   <programme channel="tv.30" start="20180414014300 +0000" stop="20180414014500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180414014500 +0000" stop="20180414024000 +0000">
     <title>Little Big Shots: Forever Young</title>
@@ -11617,6 +11698,9 @@
   <programme channel="tv.30" start="20180414033300 +0000" stop="20180414033500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180414033500 +0000" stop="20180414043500 +0000">
     <title>Million Dollar Decorators</title>
@@ -11670,6 +11754,9 @@
   <programme channel="tv.30" start="20180414094300 +0000" stop="20180414094500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180414094500 +0000" stop="20180414104500 +0000">
     <title>Keeping Up With The Kardashians</title>
@@ -11748,6 +11835,9 @@
   <programme channel="tv.30" start="20180414225800 +0000" stop="20180414230000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180414230000 +0000" stop="20180414234500 +0000">
     <title>How Do I Look?</title>
@@ -11773,6 +11863,9 @@
   <programme channel="tv.30" start="20180415012800 +0000" stop="20180415013000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180415013000 +0000" stop="20180415022000 +0000">
     <title>Killing Versace: Hunt For A Serial Killer</title>
@@ -11819,6 +11912,9 @@
   <programme channel="tv.30" start="20180415043300 +0000" stop="20180415043500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180415043500 +0000" stop="20180415053000 +0000">
     <title>How Do I Look?</title>
@@ -11879,6 +11975,9 @@
   <programme channel="tv.30" start="20180415113300 +0000" stop="20180415113500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180415113500 +0000" stop="20180415120500 +0000">
     <title>Don't Be Tardy</title>
@@ -11930,6 +12029,9 @@
   <programme channel="tv.30" start="20180415235800 +0000" stop="20180416000000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180416000000 +0000" stop="20180416005000 +0000">
     <title>David Tutera: Unveiled</title>
@@ -11948,6 +12050,9 @@
   <programme channel="tv.30" start="20180416014300 +0000" stop="20180416014500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180416014500 +0000" stop="20180416024000 +0000">
     <title>The Real Housewives Of New York City</title>
@@ -61954,14 +62059,14 @@
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20180412025700 +0000" stop="20180412041200 +0000">
+    <title>To Be Advised</title>
+  </programme>
+  <programme channel="tv.101406020625" start="20180412025700 +0000" stop="20180412041200 +0000">
     <title>Bachelor in Paradise</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.101406020625" start="20180412025700 +0000" stop="20180412041200 +0000">
-    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101406020625" start="20180412041200 +0000" stop="20180412042900 +0000">
     <title>Entertainment Tonight</title>
