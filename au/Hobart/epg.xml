@@ -1668,6 +1668,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180424140000 +0000" stop="20180424143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180416133900 +0000" stop="20180416140100 +0000">
     <title>Parks and Recreation</title>
     <rating system="Freeview">
@@ -12889,13 +12896,13 @@
     </rating>
   </programme>
   <programme channel="tv.101204300433" start="20180424070000 +0000" stop="20180424080000 +0000">
-    <title>Building Off the Grid</title>
+    <title>Fixer Upper</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204300433" start="20180424070000 +0000" stop="20180424080000 +0000">
-    <title>Fixer Upper</title>
+    <title>Building Off the Grid</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -12945,6 +12952,13 @@
   </programme>
   <programme channel="tv.101204300433" start="20180424133000 +0000" stop="20180424140000 +0000">
     <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300433" start="20180424140000 +0000" stop="20180424143000 +0000">
+    <title>House Hunters International</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -18132,6 +18146,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180424140000 +0000" stop="20180424143000 +0000">
+    <title>Raceday Review - Echuca</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305030530" start="20180416133100 +0000" stop="20180416142900 +0000">
     <title>The Blacklist</title>
     <subtitles type="teletext"/>
@@ -19242,6 +19263,12 @@
   <programme channel="tv.101305030530" start="20180424120500 +0000" stop="20180424140000 +0000">
     <title>Grey's Anatomy</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030530" start="20180424140000 +0000" stop="20180424143000 +0000">
+    <title>Cosmetic Coffee</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -21563,17 +21590,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180420060000 +0000" stop="20180420070000 +0000">
-    <title>American Pickers</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305030533" start="20180420060000 +0000" stop="20180420090000 +0000">
     <title>AFL Adelaide v Sydney</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030533" start="20180420060000 +0000" stop="20180420070000 +0000">
+    <title>American Pickers</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305030533" start="20180420070000 +0000" stop="20180420073200 +0000">
@@ -32250,6 +32277,12 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000302" start="20180424140000 +0000" stop="20180424142500 +0000">
+    <title>VICE News Tonight</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000304" start="20180416135500 +0000" stop="20180416140000 +0000">
     <title>Luke Nguyen's France Bitesize</title>
     <rating system="Freeview">
@@ -34504,6 +34537,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180424140000 +0000" stop="20180424143000 +0000">
+    <title>Good Eats</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180416130500 +0000" stop="20180416140000 +0000">
     <title>Survive Aotearoa</title>
     <rating system="Freeview">
@@ -36582,6 +36621,12 @@
     <title>Toots And The Maytals - Strawberry Hills</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180424140000 +0000" stop="20180424150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
 </tv>
