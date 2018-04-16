@@ -968,6 +968,9 @@
   <programme channel="tv.9" start="20180421070000 +0000" stop="20180421080000 +0000">
     <title>Britain's Got Talent</title>
     <desc>New: Prepare to be amazed! From dancing groups and incredible singers, to piano playing pigs and dancing dogs, magicians to comedians, contortionists to ventriloquists – this is Britain’s Got Talent!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180421080000 +0000" stop="20180421080500 +0000">
     <title>Lotto</title>
@@ -976,6 +979,9 @@
   <programme channel="tv.9" start="20180421080500 +0000" stop="20180421083000 +0000">
     <title>Britain's Got Talent Continued</title>
     <desc>New: Prepare to be amazed! From dancing groups and incredible singers, to piano playing pigs and dancing dogs, magicians to comedians, contortionists to ventriloquists – this is Britain’s Got Talent!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180421083000 +0000" stop="20180421093000 +0000">
     <title>The Hotel Inspector</title>
@@ -2216,6 +2222,9 @@
       <stereo>dolby</stereo>
     </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180418104500 +0000" stop="20180418111500 +0000">
     <title>Two And A Half Men</title>
@@ -2341,6 +2350,9 @@
   <programme channel="tv.10" start="20180418195000 +0000" stop="20180418201500 +0000">
     <title>Beyblade Burst Evolution</title>
     <desc>The adventures of a pair of youths wielding beyblades.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180418201500 +0000" stop="20180418203500 +0000">
     <title>Disney Junior Art Attack</title>
@@ -3087,7 +3099,10 @@
   </programme>
   <programme channel="tv.10" start="20180421040000 +0000" stop="20180421050000 +0000">
     <title>Dynamo: Magician Impossible</title>
-    <desc></desc>
+    <desc>Counting Hollywood stars and international footballers amongst his fans, Dynamo's mind-blowing illusions include transporting a mobile phone into a glass beer bottle.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180421050000 +0000" stop="20180421053000 +0000">
     <title>America's Funniest Home Videos</title>
@@ -8504,6 +8519,9 @@
   <programme channel="tv.38" start="20180421080000 +0000" stop="20180421090000 +0000">
     <title>Britain's Got Talent</title>
     <desc>New: Prepare to be amazed! From dancing groups and incredible singers, to piano playing pigs and dancing dogs, magicians to comedians, contortionists to ventriloquists – this is Britain’s Got Talent!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180421090000 +0000" stop="20180421090500 +0000">
     <title>Lotto</title>
@@ -8512,6 +8530,9 @@
   <programme channel="tv.38" start="20180421090500 +0000" stop="20180421093000 +0000">
     <title>Britain's Got Talent Continued</title>
     <desc>New: Prepare to be amazed! From dancing groups and incredible singers, to piano playing pigs and dancing dogs, magicians to comedians, contortionists to ventriloquists – this is Britain’s Got Talent!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180421093000 +0000" stop="20180421103000 +0000">
     <title>The Hotel Inspector</title>
@@ -9628,6 +9649,9 @@
     <title>This Is Us</title>
     <desc>New Season: The Big Three celebrate their 37th birthdays, and make changes in their lives; Jack and Rebecca pick up the pieces after their fight.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180418114500 +0000" stop="20180418121500 +0000">
     <title>Two And A Half Men</title>
@@ -9732,6 +9756,9 @@
   <programme channel="tv.14" start="20180418205000 +0000" stop="20180418211500 +0000">
     <title>Beyblade Burst Evolution</title>
     <desc>The adventures of a pair of youths wielding beyblades.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180418211500 +0000" stop="20180418213500 +0000">
     <title>Disney Junior Art Attack</title>
@@ -10391,7 +10418,10 @@
   </programme>
   <programme channel="tv.14" start="20180421050000 +0000" stop="20180421060000 +0000">
     <title>Dynamo: Magician Impossible</title>
-    <desc></desc>
+    <desc>Counting Hollywood stars and international footballers amongst his fans, Dynamo's mind-blowing illusions include transporting a mobile phone into a glass beer bottle.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180421060000 +0000" stop="20180421063000 +0000">
     <title>America's Funniest Home Videos</title>
@@ -17562,7 +17592,7 @@
     <title>New: Family Guy</title>
     <desc>Sick, twisted and politically incorrect, follow the brand new adventures of the Griffin family.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.55" start="20180416083000 +0000" stop="20180416090000 +0000">
@@ -18131,6 +18161,9 @@
   <programme channel="tv.55" start="20180422090000 +0000" stop="20180422093000 +0000">
     <title>The Inside Word</title>
     <desc>New Series: Panel show about the topics that we often won’t talk about. From the pressure on elite athletes, to the stigma around teen parents, and the toll of cyberbullying, nothing is off limits.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180422093000 +0000" stop="20180422112000 +0000">
     <title>Movie: Joe Dirt</title>
