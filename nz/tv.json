@@ -67,15 +67,15 @@
             "sample_rate": "44100"
         }
     },
-    "tv.51": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.51.png",
+    "tv.65": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.65.png",
         "channel": 11,
-        "name": "The Edge TV",
-        "description": "The Edge TV plays the hottest music videos in the world right now",
-        "url": "http://iptv.matthuisman.nz/nz/tv.51.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "name": "ThreeLife",
+        "description": "Launched Sunday 15 April, ThreeLife is a lifestyle focused channel from the MediaWorks family which takes you to a “lighter place”. Each night on the channel is themed, from food to DIY, the line-up will feature shows such as Restaurant Revolution and the US version of the smash hit format Married At First Sight.Check out the channel promo here to find out more, or just tune into channel 11.",
+        "url": "http://iptv.matthuisman.nz/nz/tv.65.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
-            "width": 852,
+            "width": 854,
             "height": 480
         },
         "audio": {
@@ -101,23 +101,6 @@
             "sample_rate": "48000"
         }
     },
-    "tv.64": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.64.png",
-        "channel": 14,
-        "name": "TVNZ Games Extra",
-        "description": "TVNZ Games Extra is a special channel from TVNZ, bringing additional live and delayed coverage of the 2018 Gold Coast Commonwealth Games alongside TVNZ 1 & DUKE. Catch every Kiwi moment of the games across Live TV and online at TVNZ.co.nz.",
-        "url": "http://iptv.matthuisman.nz/nz/tv.64.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
-        "video": {
-            "codec": "h264",
-            "width": 1280,
-            "height": 720
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
-        }
-    },
     "tv.46": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.46.png",
         "channel": 16,
@@ -128,6 +111,23 @@
             "codec": "h264",
             "width": 1280,
             "height": 720
+        },
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "tv.51": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.51.png",
+        "channel": 18,
+        "name": "The Edge TV",
+        "description": "The Edge TV plays the hottest music videos in the world right now",
+        "url": "http://iptv.matthuisman.nz/nz/tv.51.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "video": {
+            "codec": "h264",
+            "width": 852,
+            "height": 480
         },
         "audio": {
             "codec": "aac",
@@ -220,6 +220,23 @@
             "sample_rate": "44100"
         }
     },
+    "tv.8": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.8.png",
+        "channel": 33,
+        "name": "Television 33",
+        "description": "Television 33, broadcast in English and Chinese, provides entertainment through comedy, movies and reality format shows, produced overseas and locally. Available in Auckland only via UHF aerial.",
+        "url": "http://iptv.matthuisman.nz/nz/tv.8.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "video": {
+            "codec": "h264",
+            "width": 720,
+            "height": 404
+        },
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        }
+    },
     "tv.60": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.60.png",
         "channel": 41,
@@ -257,37 +274,5 @@
         "name": "SonLife International",
         "description": "Spreading the message of the cross around the world",
         "logo": "http://sonlifetv.com/images/sbngloballogo.jpg"
-    },
-    "tv.games-online": {
-        "url": "http://iptv.matthuisman.nz/nz/tv.games-online.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
-        "name": "TVNZ Games Online",
-        "description": "TVNZ Games Online is a special online channel from TVNZ, bringing additional live and delayed coverage of the 2018 Gold Coast Commonwealth Games.",
-        "video": {
-            "codec": "h264",
-            "width": 1280,
-            "height": 720
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
-        },
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.games-online.png"
-    },
-    "tv.games-mosaic": {
-        "name": "TVNZ Games Mosaic",
-        "description": "You won't miss any of the action with this mosaic view of TVNZ 1, DUKE, Games Extra & Games Online",
-        "url": "http://iptv.matthuisman.nz/nz/tv.games-mosaic.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
-        "video": {
-            "codec": "h264",
-            "width": 1280,
-            "height": 720
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
-        },
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.games-mosaic.png"
     }
 }
