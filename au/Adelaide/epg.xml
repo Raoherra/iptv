@@ -11151,7 +11151,6 @@
   </programme>
   <programme channel="tv.101204500451" start="20180429053000 +0000" stop="20180429070000 +0000">
     <title>The Voice</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -11730,13 +11729,13 @@
     </rating>
   </programme>
   <programme channel="tv.101204500454" start="20180424073000 +0000" stop="20180424083000 +0000">
-    <title>Building Off the Grid</title>
+    <title>Fixer Upper</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204500454" start="20180424073000 +0000" stop="20180424083000 +0000">
-    <title>Fixer Upper</title>
+    <title>Building Off the Grid</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -12638,12 +12637,14 @@
   </programme>
   <programme channel="tv.101204500454" start="20180428193000 +0000" stop="20180428200000 +0000">
     <title>Luxury Homes Revealed</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204500454" start="20180428200000 +0000" stop="20180428203000 +0000">
     <title>Luxury Homes Revealed</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -26280,21 +26281,21 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050655" start="20180427141500 +0000" stop="20180427150000 +0000">
+  <programme channel="tv.101406050655" start="20180427141500 +0000" stop="20180427151500 +0000">
     <title>The Project</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050655" start="20180427150000 +0000" stop="20180427160000 +0000">
+  <programme channel="tv.101406050655" start="20180427151500 +0000" stop="20180427161500 +0000">
     <title>The Late Show With Stephen Colbert</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050655" start="20180427160000 +0000" stop="20180427163000 +0000">
+  <programme channel="tv.101406050655" start="20180427161500 +0000" stop="20180427163000 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
@@ -26496,7 +26497,11 @@
     </rating>
   </programme>
   <programme channel="tv.101406050655" start="20180428111500 +0000" stop="20180428121500 +0000">
-    <title>To Be Advised</title>
+    <title>NCIS</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
   </programme>
   <programme channel="tv.101406050655" start="20180428121500 +0000" stop="20180428131500 +0000">
     <title>To Be Advised</title>
@@ -29448,7 +29453,7 @@
   <programme channel="tv.320203000301" start="20180424120000 +0000" stop="20180424123000 +0000">
     <title>Kim Jong-Un: The Man Who Rules Nth Korea</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180424123000 +0000" stop="20180424130000 +0000">
@@ -29613,13 +29618,13 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20180425113500 +0000" stop="20180425124000 +0000">
+  <programme channel="tv.320203000301" start="20180425113500 +0000" stop="20180425123500 +0000">
     <title>The Good Fight</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20180425124000 +0000" stop="20180425133000 +0000">
+  <programme channel="tv.320203000301" start="20180425123500 +0000" stop="20180425133000 +0000">
     <title>Chance</title>
     <rating system="Freeview">
       <value>MA</value>
@@ -31196,7 +31201,7 @@
   <programme channel="tv.320203000302" start="20180425100500 +0000" stop="20180425103000 +0000">
     <title>Brooklyn Nine-Nine</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180425103000 +0000" stop="20180425113000 +0000">
@@ -31359,7 +31364,7 @@
   <programme channel="tv.320203000302" start="20180426043000 +0000" stop="20180426045500 +0000">
     <title>It's Suppertime</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180426045500 +0000" stop="20180426052000 +0000">
@@ -32855,7 +32860,7 @@
   <programme channel="tv.320203000304" start="20180424123000 +0000" stop="20180424130000 +0000">
     <title>Ginormous Food</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180424130000 +0000" stop="20180424135500 +0000">
@@ -32915,7 +32920,7 @@
   <programme channel="tv.320203000304" start="20180424183000 +0000" stop="20180424190000 +0000">
     <title>Ginormous Food</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180424190000 +0000" stop="20180424193000 +0000">
@@ -33017,7 +33022,7 @@
   <programme channel="tv.320203000304" start="20180425043000 +0000" stop="20180425050000 +0000">
     <title>Ginormous Food</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180425050000 +0000" stop="20180425053000 +0000">
@@ -33077,7 +33082,7 @@
   <programme channel="tv.320203000304" start="20180425103000 +0000" stop="20180425112500 +0000">
     <title>Dessert Games</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180425112500 +0000" stop="20180425113000 +0000">
@@ -33137,7 +33142,7 @@
   <programme channel="tv.320203000304" start="20180425163000 +0000" stop="20180425172500 +0000">
     <title>Dessert Games</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180425172500 +0000" stop="20180425173000 +0000">
@@ -33203,7 +33208,7 @@
   <programme channel="tv.320203000304" start="20180425230000 +0000" stop="20180425235500 +0000">
     <title>Dessert Games</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180425235500 +0000" stop="20180426000000 +0000">
@@ -34802,7 +34807,7 @@
   <programme channel="tv.320203000305" start="20180424020000 +0000" stop="20180424033000 +0000">
     <title>The Drew</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20180424033000 +0000" stop="20180424043000 +0000">
@@ -35752,13 +35757,13 @@
   <programme channel="tv.320203000305" start="20180427120000 +0000" stop="20180427123000 +0000">
     <title>Big Freedia: Queen of Bounce</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20180427123000 +0000" stop="20180427130000 +0000">
     <title>Big Freedia: Queen of Bounce</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20180427130000 +0000" stop="20180427130500 +0000">
@@ -35920,13 +35925,13 @@
   <programme channel="tv.320203000305" start="20180428030000 +0000" stop="20180428033000 +0000">
     <title>Big Freedia: Queen of Bounce</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20180428033000 +0000" stop="20180428040000 +0000">
     <title>Big Freedia: Queen of Bounce</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20180428040000 +0000" stop="20180428043000 +0000">
