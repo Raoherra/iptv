@@ -11456,7 +11456,6 @@
   </programme>
   <programme channel="tv.101204500451" start="20180501143000 +0000" stop="20180501153000 +0000">
     <title>20/20</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -15849,6 +15848,7 @@
   </programme>
   <programme channel="tv.101204500458" start="20180429113000 +0000" stop="20180429133000 +0000">
     <title>London Has Fallen</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -21495,15 +21495,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050553" start="20180426073300 +0000" stop="20180426080100 +0000">
-    <title>Cajun Pawn Stars</title>
+  <programme channel="tv.101305050553" start="20180426073300 +0000" stop="20180426080200 +0000">
+    <title>The Simpsons</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050553" start="20180426073300 +0000" stop="20180426080200 +0000">
-    <title>The Simpsons</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305050553" start="20180426073300 +0000" stop="20180426080100 +0000">
+    <title>Cajun Pawn Stars</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -29618,7 +29618,7 @@
   <programme channel="tv.320203000301" start="20180426124000 +0000" stop="20180426135000 +0000">
     <title>The Night Manager</title>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180426135000 +0000" stop="20180426142000 +0000">
@@ -31695,37 +31695,37 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180428070000 +0000" stop="20180428072500 +0000">
+  <programme channel="tv.320203000302" start="20180428070000 +0000" stop="20180428073000 +0000">
     <title>Motherboard</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180428072500 +0000" stop="20180428075500 +0000">
+  <programme channel="tv.320203000302" start="20180428073000 +0000" stop="20180428080000 +0000">
     <title>Magic: The Gathering</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180428075500 +0000" stop="20180428085500 +0000">
+  <programme channel="tv.320203000302" start="20180428080000 +0000" stop="20180428090000 +0000">
     <title>Are Video Games Really That Bad?</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180428085500 +0000" stop="20180428102500 +0000">
+  <programme channel="tv.320203000302" start="20180428090000 +0000" stop="20180428103000 +0000">
     <title>Chinese Dating With the Parents</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180428102500 +0000" stop="20180428123000 +0000">
+  <programme channel="tv.320203000302" start="20180428103000 +0000" stop="20180428122500 +0000">
     <title>Arbitrage</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180428123000 +0000" stop="20180428144500 +0000">
+  <programme channel="tv.320203000302" start="20180428122500 +0000" stop="20180428144500 +0000">
     <title>Easy Money</title>
     <rating system="Freeview">
       <value>AV</value>
@@ -31743,13 +31743,13 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180428154500 +0000" stop="20180428163000 +0000">
+  <programme channel="tv.320203000302" start="20180428154500 +0000" stop="20180428163500 +0000">
     <title>Hamilton's Pharmacopeia</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180428163000 +0000" stop="20180428170000 +0000">
+  <programme channel="tv.320203000302" start="20180428163500 +0000" stop="20180428170000 +0000">
     <title>France 24 English News</title>
     <rating system="Freeview">
       <value>NC</value>
@@ -31930,13 +31930,13 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180429122500 +0000" stop="20180429123500 +0000">
+  <programme channel="tv.320203000302" start="20180429122500 +0000" stop="20180429124000 +0000">
     <title>Date The World</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180429123500 +0000" stop="20180429133000 +0000">
+  <programme channel="tv.320203000302" start="20180429124000 +0000" stop="20180429133000 +0000">
     <title>Adam Looking For Eve</title>
     <rating system="Freeview">
       <value>MA</value>
@@ -32391,7 +32391,7 @@
   <programme channel="tv.320203000302" start="20180501134500 +0000" stop="20180501143500 +0000">
     <title>Mukbang</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180423140000 +0000" stop="20180423143000 +0000">
@@ -34890,6 +34890,12 @@
     <title>Haunting: Australia</title>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180425033000 +0000" stop="20180425043000 +0000">
+    <title>Take Heart</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20180425043000 +0000" stop="20180425044500 +0000">
