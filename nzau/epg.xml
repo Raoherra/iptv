@@ -955,23 +955,29 @@
   <programme channel="tv.9" start="20180428070000 +0000" stop="20180428080000 +0000">
     <title>Britain's Got Talent</title>
     <desc>Prepare to be amazed! From dancing groups and incredible singers, to piano playing pigs and dancing dogs, magicians to comedians, contortionists to ventriloquists – this is Britain’s Got Talent!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180428080000 +0000" stop="20180428080500 +0000">
     <title>Lotto</title>
     <desc/>
   </programme>
-  <programme channel="tv.9" start="20180428080500 +0000" stop="20180428083000 +0000">
+  <programme channel="tv.9" start="20180428080500 +0000" stop="20180428082000 +0000">
     <title>Britain's Got Talent Continued</title>
     <desc>Prepare to be amazed! From dancing groups and incredible singers, to piano playing pigs and dancing dogs, magicians to comedians, contortionists to ventriloquists – this is Britain’s Got Talent!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme channel="tv.9" start="20180428083000 +0000" stop="20180428093000 +0000">
+  <programme channel="tv.9" start="20180428082000 +0000" stop="20180428092000 +0000">
     <title>The Hotel Inspector</title>
     <desc>Tonight, Alex Polizzi gets a surprise when she arrives at the Harrogate Motel &amp; discovers that it’s neither in Harrogate, nor is it a motel.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180428093000 +0000" stop="20180428103000 +0000">
+  <programme channel="tv.9" start="20180428092000 +0000" stop="20180428102000 +0000">
     <title>The Secret</title>
     <desc>S1 E2 Colin and Hazel carry out their plan to kill Lesley and Trevor, and stage it to look like a suicide pact. But will the community and the police believe their story?</desc>
     <subtitles type="teletext"/>
@@ -979,7 +985,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180428103000 +0000" stop="20180428121500 +0000">
+  <programme channel="tv.9" start="20180428102000 +0000" stop="20180428121000 +0000">
     <title>Field Punishment No. 1</title>
     <desc>This is the story of New Zealand's first conscientious objectors who were opposed to taking up arms during WWI and as a result, arrested and shipped off to war against their will,</desc>
     <subtitles type="teletext"/>
@@ -987,14 +993,14 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180428121500 +0000" stop="20180428131000 +0000">
+  <programme channel="tv.9" start="20180428121000 +0000" stop="20180428130500 +0000">
     <title>Aquarius</title>
     <desc>S2 E12 Hodiak shows up on the doorstep of the serial killer who has been sending him pictures.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180428131000 +0000" stop="20180428150500 +0000">
+  <programme channel="tv.9" start="20180428130500 +0000" stop="20180428150500 +0000">
     <title>Emmerdale</title>
     <desc>Robert is defensive; Debbie conceals the truth; Moira confides her deepest fears.</desc>
     <rating system="Freeview">
@@ -1048,6 +1054,9 @@
   <programme channel="tv.9" start="20180428203500 +0000" stop="20180428210000 +0000">
     <title>Waka Man</title>
     <desc>Join Waka Man, Alby Waititi, on a voyage of discovery as he paddles the waterways of Aotearoa, revealing what waka culture meant to us in the past and what it means for our future.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180428210000 +0000" stop="20180428220000 +0000">
     <title>Q+A</title>
@@ -1059,7 +1068,10 @@
   </programme>
   <programme channel="tv.9" start="20180428223000 +0000" stop="20180428230000 +0000">
     <title>Waka Huia</title>
-    <desc>Join Tuihana Pook (Te Whanau-a-Apanui) as she champions future pathways for her people through building connections to the land, marae, school and community.</desc>
+    <desc>In a world obsessed with technology, Tūhoe bushman Maui Te Pou prefers traditional Māori medicine to heal mind, body and soul.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180428230000 +0000" stop="20180428233000 +0000">
     <title>Attitude</title>
@@ -1131,7 +1143,7 @@
   </programme>
   <programme channel="tv.9" start="20180429073000 +0000" stop="20180429080000 +0000">
     <title>Sunday</title>
-    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe.</desc>
+    <desc>Tonight, Sunday looks at the local impacts of a global climate change movement and plans to completely overhaul our energy supply.</desc>
   </programme>
   <programme channel="tv.9" start="20180429080000 +0000" stop="20180429090000 +0000">
     <title>Coast New Zealand</title>
@@ -1210,6 +1222,9 @@
   <programme channel="tv.9" start="20180429210000 +0000" stop="20180429220000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by, Tracee Ellis and Jason Aldean.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180429220000 +0000" stop="20180429230000 +0000">
     <title>Tipping Point</title>
@@ -1246,6 +1261,9 @@
   <programme channel="tv.9" start="20180430020000 +0000" stop="20180430030000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by, Tracee Ellis and Jason Aldean.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180430030000 +0000" stop="20180430040000 +0000">
     <title>Tipping Point</title>
@@ -1268,6 +1286,9 @@
   <programme channel="tv.9" start="20180430045500 +0000" stop="20180430060000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180430060000 +0000" stop="20180430070000 +0000">
     <title>1 News At 6pm</title>
@@ -1560,7 +1581,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180423173000 +0000" stop="20180423183000 +0000">
+  <programme channel="tv.10" start="20180423173000 +0000" stop="20180423180000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.10" start="20180423180000 +0000" stop="20180423183000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -2612,6 +2637,9 @@
   <programme channel="tv.10" start="20180427040000 +0000" stop="20180427043000 +0000">
     <title>Fanimals</title>
     <desc>It's Friday and Fanimals is throwing a bug party, NanoGirl and her dalmatian Noodle go on a paddle boarding date, and we could be calling you to win on 'Fact or Fiction'!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180427043000 +0000" stop="20180427050000 +0000">
     <title>Friends</title>
@@ -2888,7 +2916,10 @@
   </programme>
   <programme channel="tv.10" start="20180427220000 +0000" stop="20180427223000 +0000">
     <title>Fresh</title>
-    <desc>Freshen up your Saturday morning with all new episodes of Fresh. Made with the support of NZ on Air.</desc>
+    <desc>This week we bring you all that is Fresh from the ASB Polyfest 2018! Hosted by 3 of the funniest Freshies of the internet: Momea Chokes, Hey It’s Denden and Torrell of the Cougar Boys!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180427223000 +0000" stop="20180427225500 +0000">
     <title>The Barefoot Bandits</title>
@@ -3137,12 +3168,22 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180429000000 +0000" stop="20180429023000 +0000">
-    <title>The Bachelor</title>
-    <desc>Nick continues to explore what his future might be like with each of his potential mates, but not even he is sure who the final two women will be.</desc>
+  <programme channel="tv.10" start="20180429000000 +0000" stop="20180429020000 +0000">
+    <title>The Resident</title>
+    <desc>New Series: A renowned Doctor botches a surgery then uses power and intimidation to convince the young residents who were excited to be working with him to help him cover up his mistakes.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.10" start="20180429020000 +0000" stop="20180429023000 +0000">
+    <title>Mike &amp; Molly</title>
+    <desc>S6 E8 Mike gets angry with Vince when he ducks out of finishing a home-improvement project the two were working on.</desc>
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180429023000 +0000" stop="20180429050000 +0000">
     <title>Home And Away</title>
@@ -3179,6 +3220,9 @@
     <title>Survivor New Zealand</title>
     <desc>Tonight, Chani suffers the consequences of losing one of their strongest players. And the first hidden immunity idol comes into play; forcing one survivor to make a decision she’ll come to regret.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180429083000 +0000" stop="20180429103500 +0000">
     <title>The Legend Of Tarzan</title>
@@ -3324,6 +3368,9 @@
   <programme channel="tv.10" start="20180429195000 +0000" stop="20180429201500 +0000">
     <title>Beyblade Burst Evolution</title>
     <desc>The adventures of a pair of youths wielding beyblades.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180429201500 +0000" stop="20180429203500 +0000">
     <title>Disney Junior Art Attack</title>
@@ -3453,6 +3500,9 @@
   <programme channel="tv.10" start="20180430063000 +0000" stop="20180430070000 +0000">
     <title>Neighbours</title>
     <desc>Sonya worries she’s going to break Toadie’s heart. Has Dipi ruined Yashvi’s footy career? Karl embarks on a new crusade.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180430070000 +0000" stop="20180430073000 +0000">
     <title>Shortland Street</title>
@@ -3503,7 +3553,7 @@
     <title>Two And A Half Men</title>
     <desc>S2 E2 Alan decides to put his past behind him and returns a ceramic giraffe he took from Judith during the divorce.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>AO</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180430111500 +0000" stop="20180430114500 +0000">
@@ -3580,6 +3630,9 @@
   <programme channel="tv.10" start="20180430170500 +0000" stop="20180430173000 +0000">
     <title>Neighbours</title>
     <desc>Sonya worries she’s going to break Toadie’s heart. Has Dipi ruined Yashvi’s footy career? Karl embarks on a new crusade.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180430173000 +0000" stop="20180430180000 +0000">
     <title>Infomercials 5:30am Sun- Thu</title>
@@ -3659,6 +3712,9 @@
   <programme channel="tv.10" start="20180430223000 +0000" stop="20180430230000 +0000">
     <title>Neighbours</title>
     <desc>Sonya worries she’s going to break Toadie’s heart. Has Dipi ruined Yashvi’s footy career? Karl embarks on a new crusade.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180430230000 +0000" stop="20180501001000 +0000">
     <title>My Kitchen Rules</title>
@@ -8623,23 +8679,29 @@
   <programme channel="tv.38" start="20180428080000 +0000" stop="20180428090000 +0000">
     <title>Britain's Got Talent</title>
     <desc>Prepare to be amazed! From dancing groups and incredible singers, to piano playing pigs and dancing dogs, magicians to comedians, contortionists to ventriloquists – this is Britain’s Got Talent!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180428090000 +0000" stop="20180428090500 +0000">
     <title>Lotto</title>
     <desc/>
   </programme>
-  <programme channel="tv.38" start="20180428090500 +0000" stop="20180428093000 +0000">
+  <programme channel="tv.38" start="20180428090500 +0000" stop="20180428092000 +0000">
     <title>Britain's Got Talent Continued</title>
     <desc>Prepare to be amazed! From dancing groups and incredible singers, to piano playing pigs and dancing dogs, magicians to comedians, contortionists to ventriloquists – this is Britain’s Got Talent!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme channel="tv.38" start="20180428093000 +0000" stop="20180428103000 +0000">
+  <programme channel="tv.38" start="20180428092000 +0000" stop="20180428102000 +0000">
     <title>The Hotel Inspector</title>
     <desc>Tonight, Alex Polizzi gets a surprise when she arrives at the Harrogate Motel &amp; discovers that it’s neither in Harrogate, nor is it a motel.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180428103000 +0000" stop="20180428113000 +0000">
+  <programme channel="tv.38" start="20180428102000 +0000" stop="20180428112000 +0000">
     <title>The Secret</title>
     <desc>S1 E2 Colin and Hazel carry out their plan to kill Lesley and Trevor, and stage it to look like a suicide pact. But will the community and the police believe their story?</desc>
     <subtitles type="teletext"/>
@@ -8647,7 +8709,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180428113000 +0000" stop="20180428131500 +0000">
+  <programme channel="tv.38" start="20180428112000 +0000" stop="20180428131000 +0000">
     <title>Field Punishment No. 1</title>
     <desc>This is the story of New Zealand's first conscientious objectors who were opposed to taking up arms during WWI and as a result, arrested and shipped off to war against their will,</desc>
     <subtitles type="teletext"/>
@@ -8655,14 +8717,14 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180428131500 +0000" stop="20180428141000 +0000">
+  <programme channel="tv.38" start="20180428131000 +0000" stop="20180428140500 +0000">
     <title>Aquarius</title>
     <desc>S2 E12 Hodiak shows up on the doorstep of the serial killer who has been sending him pictures.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180428141000 +0000" stop="20180428160500 +0000">
+  <programme channel="tv.38" start="20180428140500 +0000" stop="20180428160500 +0000">
     <title>Emmerdale</title>
     <desc>Robert is defensive; Debbie conceals the truth; Moira confides her deepest fears.</desc>
     <rating system="Freeview">
@@ -8716,6 +8778,9 @@
   <programme channel="tv.38" start="20180428213500 +0000" stop="20180428220000 +0000">
     <title>Waka Man</title>
     <desc>Join Waka Man, Alby Waititi, on a voyage of discovery as he paddles the waterways of Aotearoa, revealing what waka culture meant to us in the past and what it means for our future.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180428220000 +0000" stop="20180428230000 +0000">
     <title>Q+A</title>
@@ -8727,7 +8792,10 @@
   </programme>
   <programme channel="tv.38" start="20180428233000 +0000" stop="20180429000000 +0000">
     <title>Waka Huia</title>
-    <desc>Join Tuihana Pook (Te Whanau-a-Apanui) as she champions future pathways for her people through building connections to the land, marae, school and community.</desc>
+    <desc>In a world obsessed with technology, Tūhoe bushman Maui Te Pou prefers traditional Māori medicine to heal mind, body and soul.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180429000000 +0000" stop="20180429003000 +0000">
     <title>Attitude</title>
@@ -8799,7 +8867,7 @@
   </programme>
   <programme channel="tv.38" start="20180429083000 +0000" stop="20180429090000 +0000">
     <title>Sunday</title>
-    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe.</desc>
+    <desc>Tonight, Sunday looks at the local impacts of a global climate change movement and plans to completely overhaul our energy supply.</desc>
   </programme>
   <programme channel="tv.38" start="20180429090000 +0000" stop="20180429100000 +0000">
     <title>Coast New Zealand</title>
@@ -8878,6 +8946,9 @@
   <programme channel="tv.38" start="20180429220000 +0000" stop="20180429230000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by, Tracee Ellis and Jason Aldean.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180429230000 +0000" stop="20180430000000 +0000">
     <title>Tipping Point</title>
@@ -8914,6 +8985,9 @@
   <programme channel="tv.38" start="20180430030000 +0000" stop="20180430040000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by, Tracee Ellis and Jason Aldean.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180430040000 +0000" stop="20180430050000 +0000">
     <title>Tipping Point</title>
@@ -8936,6 +9010,9 @@
   <programme channel="tv.38" start="20180430055500 +0000" stop="20180430070000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180430070000 +0000" stop="20180430080000 +0000">
     <title>1 News At 6pm</title>
@@ -9226,7 +9303,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180423183000 +0000" stop="20180423193000 +0000">
+  <programme channel="tv.14" start="20180423183000 +0000" stop="20180423190000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.14" start="20180423190000 +0000" stop="20180423193000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -10143,6 +10224,9 @@
   <programme channel="tv.14" start="20180427050000 +0000" stop="20180427053000 +0000">
     <title>Fanimals</title>
     <desc>It's Friday and Fanimals is throwing a bug party, NanoGirl and her dalmatian Noodle go on a paddle boarding date, and we could be calling you to win on 'Fact or Fiction'!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180427053000 +0000" stop="20180427060000 +0000">
     <title>Friends</title>
@@ -10383,7 +10467,10 @@
   </programme>
   <programme channel="tv.14" start="20180427230000 +0000" stop="20180427233000 +0000">
     <title>Fresh</title>
-    <desc>Freshen up your Saturday morning with all new episodes of Fresh. Made with the support of NZ on Air.</desc>
+    <desc>This week we bring you all that is Fresh from the ASB Polyfest 2018! Hosted by 3 of the funniest Freshies of the internet: Momea Chokes, Hey It’s Denden and Torrell of the Cougar Boys!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180427233000 +0000" stop="20180427235500 +0000">
     <title>The Barefoot Bandits</title>
@@ -10590,9 +10677,19 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180429010000 +0000" stop="20180429033000 +0000">
-    <title>The Bachelor</title>
-    <desc>Nick continues to explore what his future might be like with each of his potential mates, but not even he is sure who the final two women will be.</desc>
+  <programme channel="tv.14" start="20180429010000 +0000" stop="20180429030000 +0000">
+    <title>The Resident</title>
+    <desc>New Series: A renowned Doctor botches a surgery then uses power and intimidation to convince the young residents who were excited to be working with him to help him cover up his mistakes.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.14" start="20180429030000 +0000" stop="20180429033000 +0000">
+    <title>Mike &amp; Molly</title>
+    <desc>S6 E8 Mike gets angry with Vince when he ducks out of finishing a home-improvement project the two were working on.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180429033000 +0000" stop="20180429060000 +0000">
     <title>Home And Away</title>
@@ -10747,6 +10844,9 @@
   <programme channel="tv.14" start="20180429205000 +0000" stop="20180429211500 +0000">
     <title>Beyblade Burst Evolution</title>
     <desc>The adventures of a pair of youths wielding beyblades.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180429211500 +0000" stop="20180429213500 +0000">
     <title>Disney Junior Art Attack</title>
@@ -10867,6 +10967,9 @@
   <programme channel="tv.14" start="20180430073000 +0000" stop="20180430080000 +0000">
     <title>Neighbours</title>
     <desc>Sonya worries she’s going to break Toadie’s heart. Has Dipi ruined Yashvi’s footy career? Karl embarks on a new crusade.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180430080000 +0000" stop="20180430083000 +0000">
     <title>Shortland Street</title>
@@ -10908,7 +11011,7 @@
     <title>Two And A Half Men</title>
     <desc>S2 E2 Alan decides to put his past behind him and returns a ceramic giraffe he took from Judith during the divorce.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>AO</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180430121500 +0000" stop="20180430124500 +0000">
@@ -10973,6 +11076,9 @@
   <programme channel="tv.14" start="20180430180500 +0000" stop="20180430183000 +0000">
     <title>Neighbours</title>
     <desc>Sonya worries she’s going to break Toadie’s heart. Has Dipi ruined Yashvi’s footy career? Karl embarks on a new crusade.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180430183000 +0000" stop="20180430190000 +0000">
     <title>Infomercials 5:30am Sun- Thu</title>
@@ -11046,6 +11152,9 @@
   <programme channel="tv.14" start="20180430233000 +0000" stop="20180501000000 +0000">
     <title>Neighbours</title>
     <desc>Sonya worries she’s going to break Toadie’s heart. Has Dipi ruined Yashvi’s footy career? Karl embarks on a new crusade.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180501000000 +0000" stop="20180501011000 +0000">
     <title>My Kitchen Rules</title>
@@ -18987,7 +19096,7 @@
     <title>8 Out Of 10 Cats</title>
     <desc>A topical news panel show with Jimmy Carr as host; with team captains Jon Richardson and Sean Lock. Tonight's episode is a mish-mash of the best bits from across the series.</desc>
     <rating system="Freeview">
-      <value>G</value>
+      <value>AO</value>
     </rating>
   </programme>
   <programme channel="tv.55" start="20180501100500 +0000" stop="20180501110500 +0000">
@@ -58983,15 +59092,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180426070300 +0000" stop="20180426073100 +0000">
-    <title>Cajun Pawn Stars</title>
+  <programme channel="tv.101305020523" start="20180426070300 +0000" stop="20180426073200 +0000">
+    <title>The Simpsons</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180426070300 +0000" stop="20180426073200 +0000">
-    <title>The Simpsons</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020523" start="20180426070300 +0000" stop="20180426073100 +0000">
+    <title>Cajun Pawn Stars</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
