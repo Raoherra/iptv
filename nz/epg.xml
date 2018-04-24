@@ -3780,7 +3780,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.11" start="20180423232500 +0000" stop="20180423235500 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -5156,6 +5156,9 @@
   <programme channel="tv.12" start="20180425083000 +0000" stop="20180425093000 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>The reunion kicks off on with the ladies diving into unresolved issues. Erika discusses the public's reaction to her book and reveals surprising news.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180425093000 +0000" stop="20180425103300 +0000">
     <title>Vanderpump Rules</title>
@@ -5263,6 +5266,9 @@
   <programme channel="tv.12" start="20180426024000 +0000" stop="20180426033300 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>The reunion kicks off on with the ladies diving into unresolved issues. Erika discusses the public's reaction to her book and reveals surprising news.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180426033300 +0000" stop="20180426033500 +0000">
     <title>The Dish</title>
@@ -5675,7 +5681,7 @@
   </programme>
   <programme channel="tv.12" start="20180428093000 +0000" stop="20180428103000 +0000">
     <title>Southern Charm</title>
-    <desc></desc>
+    <desc>Kathryn takes the high road by inviting Thomas' new girlfriend, Ashley, to lunch. Meanwhile, as Cameran's due date approaches, her anxieties over becoming a mum subside.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -11190,7 +11196,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.27" start="20180424002500 +0000" stop="20180424005500 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -12494,6 +12500,9 @@
   <programme channel="tv.30" start="20180425093000 +0000" stop="20180425103000 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>The reunion kicks off on with the ladies diving into unresolved issues. Erika discusses the public's reaction to her book and reveals surprising news.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180425103000 +0000" stop="20180425113300 +0000">
     <title>Vanderpump Rules</title>
@@ -12601,6 +12610,9 @@
   <programme channel="tv.30" start="20180426034000 +0000" stop="20180426043300 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>The reunion kicks off on with the ladies diving into unresolved issues. Erika discusses the public's reaction to her book and reveals surprising news.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180426043300 +0000" stop="20180426043500 +0000">
     <title>The Dish</title>
@@ -13013,7 +13025,7 @@
   </programme>
   <programme channel="tv.30" start="20180428103000 +0000" stop="20180428113000 +0000">
     <title>Southern Charm</title>
-    <desc></desc>
+    <desc>Kathryn takes the high road by inviting Thomas' new girlfriend, Ashley, to lunch. Meanwhile, as Cameran's due date approaches, her anxieties over becoming a mum subside.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -23599,9 +23611,23 @@
     <title>Hot Tune Time Machine</title>
     <desc>It's our throwback hour! We play the biggest clips from a different year each day. So step into our Hot Tune Time Machine, weekdays at midday. You'll never know what year you'll end up in.</desc>
   </programme>
-  <programme channel="tv.51" start="20180425010000 +0000" stop="20180425060000 +0000">
-    <title>All The Hits</title>
+  <programme channel="tv.51" start="20180425010000 +0000" stop="20180425050000 +0000">
+    <title>The Top 50 ANZAC Hits</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180425050000 +0000" stop="20180425053000 +0000">
+    <title>The Edge 30 Frontrunners</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.51" start="20180425053000 +0000" stop="20180425060000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.51" start="20180425060000 +0000" stop="20180425073000 +0000">
     <title>All The Hits</title>
