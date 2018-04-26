@@ -9350,7 +9350,7 @@
     <title>Destination WA</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180429100000 +0000" stop="20180429110000 +0000">
@@ -10216,6 +10216,7 @@
   </programme>
   <programme channel="tv.101204600464" start="20180426113100 +0000" stop="20180426123100 +0000">
     <title>Botched</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -10258,6 +10259,7 @@
   </programme>
   <programme channel="tv.101204600464" start="20180426170000 +0000" stop="20180426175900 +0000">
     <title>Botched</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -10671,6 +10673,7 @@
   </programme>
   <programme channel="tv.101204600464" start="20180428190000 +0000" stop="20180428200000 +0000">
     <title>Botched</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -12299,7 +12302,13 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20180430013000 +0000" stop="20180430023000 +0000">
+  <programme channel="tv.101204600467" start="20180430013000 +0000" stop="20180430020000 +0000">
+    <title>Danoz</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600467" start="20180430020000 +0000" stop="20180430023000 +0000">
     <title>Danoz</title>
     <rating system="Freeview">
       <value>G</value>
@@ -12972,6 +12981,7 @@
   </programme>
   <programme channel="tv.101204600468" start="20180426013000 +0000" stop="20180426020000 +0000">
     <title>Hiccup &amp; Sneeze</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>P</value>
     </rating>
@@ -13422,6 +13432,7 @@
   </programme>
   <programme channel="tv.101204600468" start="20180427230000 +0000" stop="20180428030000 +0000">
     <title>Kids' WB Saturday</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -13634,6 +13645,7 @@
   </programme>
   <programme channel="tv.101204600468" start="20180428230000 +0000" stop="20180429030000 +0000">
     <title>Kids' WB Sunday</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -17224,13 +17236,23 @@
     </rating>
   </programme>
   <programme channel="tv.101305060560" start="20180429180000 +0000" stop="20180429183000 +0000">
-    <title>To Be Advised</title>
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305060560" start="20180429183000 +0000" stop="20180429190000 +0000">
-    <title>To Be Advised</title>
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305060560" start="20180429190000 +0000" stop="20180429193000 +0000">
-    <title>To Be Advised</title>
+    <title>Home Shopping</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305060560" start="20180429193000 +0000" stop="20180429200500 +0000">
     <title>Harry's Practice</title>
@@ -18612,14 +18634,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20180429155600 +0000" stop="20180429163100 +0000">
+  <programme channel="tv.101305060562" start="20180429155600 +0000" stop="20180429163000 +0000">
     <title>Border Security: International</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20180429163100 +0000" stop="20180429193100 +0000">
+  <programme channel="tv.101305060562" start="20180429163000 +0000" stop="20180429193100 +0000">
     <title>Psychic TV</title>
     <rating system="Freeview">
       <value>M</value>
@@ -18653,7 +18675,10 @@
     </rating>
   </programme>
   <programme channel="tv.101305060562" start="20180429220000 +0000" stop="20180429223100 +0000">
-    <title>To Be Advised</title>
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305060562" start="20180429223100 +0000" stop="20180429225900 +0000">
     <title>Harry's Practice</title>
@@ -20098,7 +20123,10 @@
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180429220000 +0000" stop="20180429223000 +0000">
-    <title>To Be Advised</title>
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180429223000 +0000" stop="20180429230000 +0000">
     <title>Adventure Angler</title>
@@ -21446,26 +21474,26 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060565" start="20180429150600 +0000" stop="20180429173200 +0000">
+  <programme channel="tv.101305060565" start="20180429150600 +0000" stop="20180429172500 +0000">
     <title>Bad Company</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060565" start="20180429173200 +0000" stop="20180429190000 +0000">
+  <programme channel="tv.101305060565" start="20180429172500 +0000" stop="20180429190000 +0000">
     <title>The Cariboo Trail</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060565" start="20180429190000 +0000" stop="20180429203700 +0000">
+  <programme channel="tv.101305060565" start="20180429190000 +0000" stop="20180429203000 +0000">
     <title>The Saint in Palm Springs</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060565" start="20180429203700 +0000" stop="20180429220000 +0000">
+  <programme channel="tv.101305060565" start="20180429203000 +0000" stop="20180429220000 +0000">
     <title>The Falcon Takes Over</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -21615,15 +21643,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060565" start="20180430120000 +0000" stop="20180430130200 +0000">
+  <programme channel="tv.101305060565" start="20180430120000 +0000" stop="20180430130000 +0000">
     <title>Make You Laugh Out Loud</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060565" start="20180430130200 +0000" stop="20180430154000 +0000">
-    <title>The Twilight Saga: New Moon</title>
+  <programme channel="tv.101305060565" start="20180430130000 +0000" stop="20180430154000 +0000">
+    <title>The Twilight Saga: Eclipse</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -24568,7 +24596,7 @@
     <title>Bachelor in Paradise</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20180429123000 +0000" stop="20180429133000 +0000">
@@ -24773,14 +24801,14 @@
     <title>Roseanne</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20180430133000 +0000" stop="20180430143000 +0000">
     <title>2017 Montreal Comedy Festival</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20180430143000 +0000" stop="20180430153000 +0000">
@@ -26713,7 +26741,7 @@
   <programme channel="tv.101406070688" start="20180430123000 +0000" stop="20180430133000 +0000">
     <title>Buffy the Vampire Slayer</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406070688" start="20180430133000 +0000" stop="20180430143000 +0000">
