@@ -8822,18 +8822,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002410241" start="20180426025900 +0000" stop="20180426035800 +0000">
-    <title>The Crater</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002410241" start="20180426025900 +0000" stop="20180426035700 +0000">
     <title>Lest We Forget What?</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002410241" start="20180426025900 +0000" stop="20180426035800 +0000">
+    <title>The Crater</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002410241" start="20180426035700 +0000" stop="20180426045700 +0000">
@@ -18356,18 +18356,18 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040540" start="20180427013000 +0000" stop="20180427025900 +0000">
-    <title>Commonwealth Games Parade</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305040540" start="20180427013000 +0000" stop="20180427020100 +0000">
     <title>Seven Morning News</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040540" start="20180427013000 +0000" stop="20180427025900 +0000">
+    <title>Commonwealth Games Parade</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305040540" start="20180427025900 +0000" stop="20180427032800 +0000">
@@ -25490,21 +25490,21 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406040645" start="20180426113300 +0000" stop="20180426125100 +0000">
+  <programme channel="tv.101406040645" start="20180426113300 +0000" stop="20180426125000 +0000">
     <title>Ambulance</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406040645" start="20180426125100 +0000" stop="20180426134500 +0000">
+  <programme channel="tv.101406040645" start="20180426125000 +0000" stop="20180426134400 +0000">
     <title>Blue Bloods</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406040645" start="20180426134500 +0000" stop="20180426144500 +0000">
+  <programme channel="tv.101406040645" start="20180426134400 +0000" stop="20180426144500 +0000">
     <title>The Project</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -25681,10 +25681,18 @@
     </rating>
   </programme>
   <programme channel="tv.101406040645" start="20180427103000 +0000" stop="20180427113000 +0000">
-    <title>To Be Advised</title>
+    <title>Hughesy, We Have a Problem</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
   </programme>
   <programme channel="tv.101406040645" start="20180427113000 +0000" stop="20180427123000 +0000">
-    <title>To Be Advised</title>
+    <title>The Graham Norton Show</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
   </programme>
   <programme channel="tv.101406040645" start="20180427123000 +0000" stop="20180427134500 +0000">
     <title>Ambulance</title>
@@ -26056,7 +26064,11 @@
     </rating>
   </programme>
   <programme channel="tv.101406040645" start="20180429040000 +0000" stop="20180429043000 +0000">
-    <title>To Be Advised</title>
+    <title>Everyday Gourmet with Justine Schofield</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101406040645" start="20180429043000 +0000" stop="20180429050000 +0000">
     <title>Jamie's 30 Minute Meals</title>
