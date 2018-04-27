@@ -13454,6 +13454,7 @@
   </programme>
   <programme channel="tv.10120400040A" start="20180429040000 +0000" stop="20180429043000 +0000">
     <title>Getaway</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -13533,6 +13534,7 @@
   </programme>
   <programme channel="tv.10120400040A" start="20180429180000 +0000" stop="20180429183000 +0000">
     <title>Getaway</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -15396,6 +15398,7 @@
   </programme>
   <programme channel="tv.10120400040B" start="20180430220000 +0000" stop="20180430223000 +0000">
     <title>Brainbuzz</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>C</value>
     </rating>
@@ -15415,6 +15418,7 @@
   </programme>
   <programme channel="tv.10120400040B" start="20180430233000 +0000" stop="20180501000000 +0000">
     <title>Hiccup &amp; Sneeze</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>P</value>
     </rating>
@@ -15529,12 +15533,14 @@
   </programme>
   <programme channel="tv.10120400040B" start="20180501093000 +0000" stop="20180501100000 +0000">
     <title>Science of Stupid: Sport</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.10120400040B" start="20180501100000 +0000" stop="20180501103000 +0000">
     <title>Science of Stupid: Sport</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -16403,22 +16409,36 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180426204500 +0000" stop="20180426211500 +0000">
+  <programme channel="tv.101305020528" start="20180426201500 +0000" stop="20180426204500 +0000">
     <title>Raceday Review - Kilmore</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180426211500 +0000" stop="20180426214500 +0000">
+  <programme channel="tv.101305020528" start="20180426204500 +0000" stop="20180426211500 +0000">
     <title>Raceday Review - Racing.com Park</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180426214500 +0000" stop="20180426221500 +0000">
+  <programme channel="tv.101305020528" start="20180426211500 +0000" stop="20180426214500 +0000">
     <title>Raceday Review - Happy Valley</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180426214500 +0000" stop="20180426221500 +0000">
+    <title>Raceday Review - Racing.com Park</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180426221500 +0000" stop="20180426223000 +0000">
+    <title>Trackwork</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -16431,70 +16451,70 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180426224500 +0000" stop="20180426230000 +0000">
-    <title>Trackwork</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180426230000 +0000" stop="20180426233000 +0000">
+  <programme channel="tv.101305020528" start="20180426223000 +0000" stop="20180426230000 +0000">
     <title>Raceday Review - Kilmore</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180426233000 +0000" stop="20180427000000 +0000">
+  <programme channel="tv.101305020528" start="20180426230000 +0000" stop="20180426233000 +0000">
     <title>Ten of the Best - Bargain Buys</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180427000000 +0000" stop="20180427003000 +0000">
+  <programme channel="tv.101305020528" start="20180426233000 +0000" stop="20180427000000 +0000">
     <title>Tuesdays With Terry</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180427003000 +0000" stop="20180427010000 +0000">
+  <programme channel="tv.101305020528" start="20180427000000 +0000" stop="20180427003000 +0000">
     <title>Sectional Stars</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180427010000 +0000" stop="20180427011500 +0000">
+  <programme channel="tv.101305020528" start="20180427003000 +0000" stop="20180427004500 +0000">
     <title>Trackwork</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180427011500 +0000" stop="20180427014500 +0000">
+  <programme channel="tv.101305020528" start="20180427004500 +0000" stop="20180427011500 +0000">
     <title>Country Catch Up</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180427014500 +0000" stop="20180427024500 +0000">
+  <programme channel="tv.101305020528" start="20180427011500 +0000" stop="20180427021500 +0000">
     <title>Get On!</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180427024500 +0000" stop="20180427071500 +0000">
+  <programme channel="tv.101305020528" start="20180427021500 +0000" stop="20180427071500 +0000">
     <title>Racing Live: Benalla</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180427071500 +0000" stop="20180427121500 +0000">
+  <programme channel="tv.101305020528" start="20180427071500 +0000" stop="20180427074500 +0000">
+    <title>After The Last - Hong Kong Special</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180427074500 +0000" stop="20180427121500 +0000">
     <title>Racenight Live: Cranbourne</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -16537,7 +16557,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180427150000 +0000" stop="20180427153000 +0000">
-    <title>Raceday Review - Benalla</title>
+    <title>After The Last - Hong Kong Special</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -16600,7 +16620,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180427193000 +0000" stop="20180427200000 +0000">
-    <title>Raceday Review - Cranbourne</title>
+    <title>After The Last - Hong Kong Special</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -16614,69 +16634,62 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180427203000 +0000" stop="20180427210000 +0000">
-    <title>Raceday Review - Cranbourne</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180427210000 +0000" stop="20180427213000 +0000">
     <title>Tuesdays With Terry</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180427213000 +0000" stop="20180427220000 +0000">
+  <programme channel="tv.101305020528" start="20180427210000 +0000" stop="20180427213000 +0000">
     <title>Free Rein with Matt Hill</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180427220000 +0000" stop="20180427223000 +0000">
+  <programme channel="tv.101305020528" start="20180427213000 +0000" stop="20180427220000 +0000">
     <title>Country Catch Up</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180427223000 +0000" stop="20180427230000 +0000">
-    <title>Raceday Review - Cranbourne</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180427230000 +0000" stop="20180427233000 +0000">
+  <programme channel="tv.101305020528" start="20180427220000 +0000" stop="20180427223000 +0000">
     <title>Ten of the Best - Bargain Buys</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180427233000 +0000" stop="20180428000000 +0000">
+  <programme channel="tv.101305020528" start="20180427223000 +0000" stop="20180427230000 +0000">
     <title>Sectional Stars</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180428000000 +0000" stop="20180428010000 +0000">
+  <programme channel="tv.101305020528" start="20180427230000 +0000" stop="20180427233000 +0000">
+    <title>After The Last - Hong Kong Special</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180427233000 +0000" stop="20180428003000 +0000">
     <title>Get On!</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180428010000 +0000" stop="20180428020000 +0000">
+  <programme channel="tv.101305020528" start="20180428003000 +0000" stop="20180428013500 +0000">
     <title>Live: Before the First</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180428020000 +0000" stop="20180428073000 +0000">
+  <programme channel="tv.101305020528" start="20180428013500 +0000" stop="20180428073000 +0000">
     <title>Racing Live: Caul/Kyn/Morph</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -16726,14 +16739,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180428103000 +0000" stop="20180428110000 +0000">
-    <title>Ten of the Best - Bargain Buys</title>
+    <title>Bound For The Bool</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180428110000 +0000" stop="20180428113000 +0000">
-    <title>Ten of the Best - Triumphs And Tragedies</title>
+    <title>After The Last - Hong Kong Special</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -16817,7 +16830,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180428173000 +0000" stop="20180428180000 +0000">
-    <title>Raceday Review - Kyneton</title>
+    <title>After The Last - Hong Kong Special</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -16851,84 +16864,77 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180428200000 +0000" stop="20180428203000 +0000">
-    <title>Raceday Review - Morphettville</title>
+  <programme channel="tv.101305020528" start="20180428200000 +0000" stop="20180428204500 +0000">
+    <title>Raceday Review - Caulfield</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180428203000 +0000" stop="20180428211500 +0000">
-    <title>Raceday Review - Caulfield</title>
+  <programme channel="tv.101305020528" start="20180428204500 +0000" stop="20180428211500 +0000">
+    <title>Raceday Review - Kyneton</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180428211500 +0000" stop="20180428214500 +0000">
-    <title>Raceday Review - Kyneton</title>
+    <title>After The Last - Hong Kong Special</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180428214500 +0000" stop="20180428221500 +0000">
-    <title>Raceday Review - Morphettville</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180428221500 +0000" stop="20180428224500 +0000">
     <title>After The Last</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180428224500 +0000" stop="20180428233000 +0000">
+  <programme channel="tv.101305020528" start="20180428221500 +0000" stop="20180428230000 +0000">
     <title>Raceday Review - Caulfield</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180428233000 +0000" stop="20180429000000 +0000">
+  <programme channel="tv.101305020528" start="20180428230000 +0000" stop="20180428233000 +0000">
     <title>Raceday Review - Kyneton</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180429000000 +0000" stop="20180429004500 +0000">
+  <programme channel="tv.101305020528" start="20180428233000 +0000" stop="20180429001500 +0000">
     <title>Raceday Review - Caulfield</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180429001500 +0000" stop="20180429004500 +0000">
+    <title>After The Last - Hong Kong Special</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020528" start="20180429004500 +0000" stop="20180429011500 +0000">
-    <title>Free Rein with Matt Hill</title>
+    <title>Bound For The Bool</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180429011500 +0000" stop="20180429014500 +0000">
-    <title>Ten of the Best - Bargain Buys</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180429014500 +0000" stop="20180429021500 +0000">
     <title>After The Last</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180429021500 +0000" stop="20180429100000 +0000">
+  <programme channel="tv.101305020528" start="20180429014500 +0000" stop="20180429100000 +0000">
     <title>Racing Live: Geelong/Swan/Penola/Sha</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -16936,7 +16942,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180429100000 +0000" stop="20180429103000 +0000">
-    <title>Ten of the Best - Bargain Buys</title>
+    <title>Bound For The Bool</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -17076,7 +17082,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180429200000 +0000" stop="20180429201500 +0000">
-    <title>Champions</title>
+    <title>Champions - Weekend Hussler</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -17153,14 +17159,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180430011500 +0000" stop="20180430014500 +0000">
-    <title>Raceday Review: Swan Hill</title>
+    <title>Free Rein with Matt Hill</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180430014500 +0000" stop="20180430021500 +0000">
-    <title>Free Rein with Matt Hill</title>
+    <title>Bound For The Bool</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -17194,15 +17200,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180430084500 +0000" stop="20180430091500 +0000">
-    <title>Raceday Review - Sale</title>
+  <programme channel="tv.101305020528" start="20180430084500 +0000" stop="20180430090000 +0000">
+    <title>Champions - Testa Rossa</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180430091500 +0000" stop="20180430093000 +0000">
-    <title>Champions - Testa Rossa</title>
+  <programme channel="tv.101305020528" start="20180430090000 +0000" stop="20180430093000 +0000">
+    <title>Bound For The Bool</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -17342,7 +17348,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180430203000 +0000" stop="20180430210000 +0000">
-    <title>Free Rein with Matt Hill</title>
+    <title>Raceday Review - Sha Tin</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -17566,21 +17572,21 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180501221500 +0000" stop="20180501223000 +0000">
-    <title>Trackwork</title>
+    <title>Tuesdays With Terry</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180501223000 +0000" stop="20180501230000 +0000">
-    <title>Ten of the Best - Bargain Buys</title>
+    <title>Trackwork</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180501230000 +0000" stop="20180501233000 +0000">
-    <title>Free Rein with Matt Hill</title>
+    <title>Ten of the Best - Bargain Buys</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -18000,28 +18006,28 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180503223000 +0000" stop="20180503230000 +0000">
-    <title>Tuesdays With Terry</title>
+    <title>Raceday Review - Happy Valley</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180503230000 +0000" stop="20180503233000 +0000">
-    <title>Ten of the Best - Stayers</title>
+    <title>Tuesdays With Terry</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180503233000 +0000" stop="20180504000000 +0000">
-    <title>Sectional Stars</title>
+    <title>Ten of the Best - Stayers</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180504000000 +0000" stop="20180504003000 +0000">
-    <title>Free Rein with Matt Hill</title>
+    <title>Sectional Stars</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
