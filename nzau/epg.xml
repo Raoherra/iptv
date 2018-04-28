@@ -2514,7 +2514,7 @@
     <title>Home And Away</title>
     <desc>Colby’s career hangs in the balance. Robbo returns to the Bay with unfinished business. Olivia lets go of Hunter.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180501060000 +0000" stop="20180501063000 +0000">
@@ -2758,9 +2758,6 @@
   <programme channel="tv.10" start="20180502024000 +0000" stop="20180502031000 +0000">
     <title>Home And Away</title>
     <desc>Colby’s career hangs in the balance. Robbo returns to the Bay with unfinished business. Olivia lets go of Hunter.</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
   <programme channel="tv.10" start="20180502031000 +0000" stop="20180502034000 +0000">
     <title>Shortland Street</title>
@@ -3547,6 +3544,9 @@
   <programme channel="tv.10" start="20180504185500 +0000" stop="20180504190500 +0000">
     <title>Best Of Chuggington Collection</title>
     <desc>Choo choo! Catch a ride with Wilson, Koko and Brewster, the newest members of Chuggington crew. Along the track you'll visit the countryside, have fun, and learn new things!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180504190500 +0000" stop="20180504193000 +0000">
     <title>Penn Zero: Part-Time Hero</title>
@@ -9937,7 +9937,7 @@
     <title>Home And Away</title>
     <desc>Colby’s career hangs in the balance. Robbo returns to the Bay with unfinished business. Olivia lets go of Hunter.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180501070000 +0000" stop="20180501073000 +0000">
@@ -10151,9 +10151,6 @@
   <programme channel="tv.14" start="20180502034000 +0000" stop="20180502041000 +0000">
     <title>Home And Away</title>
     <desc>Colby’s career hangs in the balance. Robbo returns to the Bay with unfinished business. Olivia lets go of Hunter.</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
   <programme channel="tv.14" start="20180502041000 +0000" stop="20180502044000 +0000">
     <title>Shortland Street</title>
@@ -10865,6 +10862,9 @@
   <programme channel="tv.14" start="20180504195500 +0000" stop="20180504200500 +0000">
     <title>Best Of Chuggington Collection</title>
     <desc>Choo choo! Catch a ride with Wilson, Koko and Brewster, the newest members of Chuggington crew. Along the track you'll visit the countryside, have fun, and learn new things!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180504200500 +0000" stop="20180504203000 +0000">
     <title>Penn Zero: Part-Time Hero</title>
@@ -39862,18 +39862,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180428023000 +0000" stop="20180428032700 +0000">
-    <title>Slow Train Through Africa with Griff Rhys Jones</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210221" start="20180428023000 +0000" stop="20180428033100 +0000">
     <title>Two Men In China</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210221" start="20180428023000 +0000" stop="20180428032700 +0000">
+    <title>Slow Train Through Africa with Griff Rhys Jones</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20180428033100 +0000" stop="20180428050000 +0000">
@@ -40602,13 +40602,13 @@
   </programme>
   <programme channel="tv.101002210221" start="20180502023000 +0000" stop="20180502033000 +0000">
     <title>National Press Club Address</title>
+  </programme>
+  <programme channel="tv.101002210221" start="20180502023000 +0000" stop="20180502033000 +0000">
+    <title>National Press Club Address</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
-  </programme>
-  <programme channel="tv.101002210221" start="20180502023000 +0000" stop="20180502033000 +0000">
-    <title>National Press Club Address</title>
   </programme>
   <programme channel="tv.101002210221" start="20180502033000 +0000" stop="20180502040200 +0000">
     <title>Australian Story</title>
