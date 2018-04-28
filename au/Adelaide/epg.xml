@@ -1716,6 +1716,18 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180506140000 +0000" stop="20180506141500 +0000">
+    <title>ABC Late News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180506141500 +0000" stop="20180506150000 +0000">
+    <title>National Wrap</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180428140100 +0000" stop="20180428143000 +0000">
     <title>The Librarians</title>
     <subtitles type="teletext"/>
@@ -5826,6 +5838,13 @@
   </programme>
   <programme channel="tv.101002210222" start="20180506134700 +0000" stop="20180506141100 +0000">
     <title>Plebs</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180506141100 +0000" stop="20180506143300 +0000">
+    <title>Idiotsitter</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -12761,15 +12780,15 @@
     </rating>
   </programme>
   <programme channel="tv.101204500454" start="20180504130000 +0000" stop="20180504133000 +0000">
-    <title>Extreme Vacation Homes</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204500454" start="20180504130000 +0000" stop="20180504133000 +0000">
     <title>Mega Decks</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500454" start="20180504130000 +0000" stop="20180504133000 +0000">
+    <title>Extreme Vacation Homes</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204500454" start="20180504133000 +0000" stop="20180504140000 +0000">
@@ -13188,6 +13207,12 @@
     <title>House Hunters International</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500454" start="20180506143000 +0000" stop="20180506153000 +0000">
+    <title>Fixer Upper</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204500457" start="20180428141100 +0000" stop="20180428150600 +0000">
@@ -16414,6 +16439,12 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204500458" start="20180506143000 +0000" stop="20180506143500 +0000">
+    <title>[adult swim]</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020528" start="20180428140000 +0000" stop="20180428144500 +0000">
     <title>Raceday Review - Caulfield</title>
     <subtitles type="teletext"/>
@@ -18222,6 +18253,20 @@
   </programme>
   <programme channel="tv.101305020528" start="20180506133000 +0000" stop="20180506140000 +0000">
     <title>Raceday Review - Port Augusta</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180506140000 +0000" stop="20180506143000 +0000">
+    <title>Raceday Review - Werribee</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180506143000 +0000" stop="20180506150000 +0000">
+    <title>Raceday Review - Racing.com Park</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -21053,6 +21098,13 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101305050552" start="20180506143000 +0000" stop="20180506145900 +0000">
+    <title>Border Security: Australia's Front Line</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305050553" start="20180428140700 +0000" stop="20180428150900 +0000">
     <title>Wicked Tuna</title>
     <rating system="Freeview">
@@ -22485,6 +22537,12 @@
   </programme>
   <programme channel="tv.101305050553" start="20180506140100 +0000" stop="20180506143000 +0000">
     <title>American Dad!</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050553" start="20180506143000 +0000" stop="20180506152500 +0000">
+    <title>Ink Master</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -29246,6 +29304,13 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101406050658" start="20180506143000 +0000" stop="20180506150000 +0000">
+    <title>Everybody Loves Raymond</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000301" start="20180428135000 +0000" stop="20180428152500 +0000">
     <title>The Last Elvis</title>
     <rating system="Freeview">
@@ -30677,6 +30742,12 @@
   </programme>
   <programme channel="tv.320203000301" start="20180506131500 +0000" stop="20180506141500 +0000">
     <title>Is Australia Racist?</title>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000301" start="20180506141500 +0000" stop="20180506164000 +0000">
+    <title>Incendies</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -32451,6 +32522,12 @@
     <title>Adam Looking For Eve</title>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180506141000 +0000" stop="20180506150500 +0000">
+    <title>Sex Box</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180428142500 +0000" stop="20180428143000 +0000">
@@ -34745,6 +34822,18 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180506140000 +0000" stop="20180506143000 +0000">
+    <title>BBQ Blitz</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180506143000 +0000" stop="20180506150000 +0000">
+    <title>BBQ Blitz</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180428140000 +0000" stop="20180428160000 +0000">
     <title>The Dead Lands</title>
     <rating system="Freeview">
@@ -36738,6 +36827,12 @@
     <title>The Carter</title>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180506140000 +0000" stop="20180506150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
 </tv>
