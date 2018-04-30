@@ -9583,6 +9583,7 @@
   </programme>
   <programme channel="tv.101204600461" start="20180504164500 +0000" stop="20180504171500 +0000">
     <title>Cybershack</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -9784,6 +9785,7 @@
   </programme>
   <programme channel="tv.101204600461" start="20180505213000 +0000" stop="20180505220000 +0000">
     <title>Riverview TV</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -9868,6 +9870,9 @@
   <programme channel="tv.101204600461" start="20180506093000 +0000" stop="20180506100000 +0000">
     <title>Destination WA</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180506100000 +0000" stop="20180506110000 +0000">
     <title>Nine News Sunday</title>
@@ -9925,7 +9930,7 @@
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180506180000 +0000" stop="20180506183000 +0000">
-    <title>It's All Greek To Me</title>
+    <title>It's All Greek to Me</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -10043,6 +10048,9 @@
   </programme>
   <programme channel="tv.101204600461" start="20180507131500 +0000" stop="20180507144500 +0000">
     <title>Stan Walker: Fight of His Life</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180507144500 +0000" stop="20180507154500 +0000">
     <title>Footy Classified</title>
@@ -24088,7 +24096,11 @@
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20180430045900 +0000" stop="20180430060900 +0000">
-    <title>To Be Advised</title>
+    <title>Bachelor in Paradise</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101406070685" start="20180430060900 +0000" stop="20180430062600 +0000">
     <title>Entertainment Tonight</title>
@@ -24373,14 +24385,14 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070685" start="20180501143000 +0000" stop="20180501153000 +0000">
+  <programme channel="tv.101406070685" start="20180501143000 +0000" stop="20180501152500 +0000">
     <title>NCIS: Los Angeles</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070685" start="20180501153000 +0000" stop="20180501163000 +0000">
+  <programme channel="tv.101406070685" start="20180501152500 +0000" stop="20180501163000 +0000">
     <title>The Project</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -24480,7 +24492,11 @@
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20180502050000 +0000" stop="20180502060000 +0000">
-    <title>To Be Advised</title>
+    <title>This Is Us</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101406070685" start="20180502060000 +0000" stop="20180502063000 +0000">
     <title>Entertainment Tonight</title>
@@ -24677,7 +24693,6 @@
   </programme>
   <programme channel="tv.101406070685" start="20180503060000 +0000" stop="20180503063000 +0000">
     <title>Entertainment Tonight</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -24943,7 +24958,11 @@
     <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101406070685" start="20180504143000 +0000" stop="20180504153000 +0000">
-    <title>To Be Advised</title>
+    <title>Ambulance</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
   </programme>
   <programme channel="tv.101406070685" start="20180504153000 +0000" stop="20180504163000 +0000">
     <title>The Project</title>
@@ -28210,13 +28229,13 @@
   </programme>
   <programme channel="tv.3201026102E1" start="20180502043000 +0000" stop="20180502053000 +0000">
     <title>National Press Club Address</title>
-  </programme>
-  <programme channel="tv.3201026102E1" start="20180502043000 +0000" stop="20180502053000 +0000">
-    <title>National Press Club Address</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
+  </programme>
+  <programme channel="tv.3201026102E1" start="20180502043000 +0000" stop="20180502053000 +0000">
+    <title>National Press Club Address</title>
   </programme>
   <programme channel="tv.3201026102E1" start="20180502053000 +0000" stop="20180502060200 +0000">
     <title>Australian Story</title>
@@ -34947,16 +34966,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180430020000 +0000" stop="20180430050000 +0000">
-    <title>Hoop Dreams</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000305" start="20180430020000 +0000" stop="20180430034000 +0000">
     <title>Thule Tuvalu</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180430020000 +0000" stop="20180430050000 +0000">
+    <title>Hoop Dreams</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20180430034000 +0000" stop="20180430050000 +0000">
