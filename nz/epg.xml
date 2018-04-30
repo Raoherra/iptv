@@ -759,6 +759,9 @@
   <programme channel="tv.9" start="20180503210000 +0000" stop="20180503220000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by, Elisabeth Moss.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180503220000 +0000" stop="20180503230000 +0000">
     <title>Tipping Point</title>
@@ -795,6 +798,9 @@
   <programme channel="tv.9" start="20180504020000 +0000" stop="20180504030000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by, Elisabeth Moss.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180504030000 +0000" stop="20180504040000 +0000">
     <title>Tipping Point</title>
@@ -1157,6 +1163,9 @@
     <title>Coast New Zealand</title>
     <desc>Plenty by name, plenty by nature… this stretch of coast offers more than its fair share of seaside tales. Join Neil Oliver and the team as they explore Bay of Plenty.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180506090000 +0000" stop="20180506100000 +0000">
     <title>Bancroft</title>
@@ -1281,7 +1290,7 @@
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.9" start="20180507045500 +0000" stop="20180507060000 +0000">
@@ -1638,6 +1647,9 @@
   <programme channel="tv.10" start="20180430091500 +0000" stop="20180430094500 +0000">
     <title>Life In Pieces</title>
     <desc>Returns: S1 E15 When Joan’s freewheeling nephew, Mikey, comes for a visit, the family members are on edge since nobody really likes him. Also, Greg and Jen find a solution to their sleeping woes.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -1843,7 +1855,7 @@
     <title>Home And Away</title>
     <desc>The race to save Ava from the kidnappers is on. Colby is forced into desperate measures as lives are put at risk. Irene and Marilyn help revive Maggie’s spirits after chemo.</desc>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180501031000 +0000" stop="20180501034000 +0000">
@@ -1870,6 +1882,9 @@
   <programme channel="tv.10" start="20180501040000 +0000" stop="20180501043000 +0000">
     <title>Fanimals</title>
     <desc>We find out what your teachers really get up to after school, meet 'Chill Bill', the most laid-back kitten, and we could be showing your entry on Trick For Treat!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180501043000 +0000" stop="20180501050000 +0000">
     <title>Friends</title>
@@ -2137,7 +2152,7 @@
     <title>Home And Away</title>
     <desc>Colby’s career hangs in the balance. Robbo returns to the Bay with unfinished business. Olivia lets go of Hunter.</desc>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180502031000 +0000" stop="20180502034000 +0000">
@@ -2164,6 +2179,9 @@
   <programme channel="tv.10" start="20180502040000 +0000" stop="20180502043000 +0000">
     <title>Fanimals</title>
     <desc>We're getting the starting flag out for Farmyard Olympics, you could be playing to win on 'Call of Nature', and we do a ride along as Auckland Zoo move their orangutans to Christchurch!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180502043000 +0000" stop="20180502050000 +0000">
     <title>Friends</title>
@@ -2185,6 +2203,9 @@
   <programme channel="tv.10" start="20180502053000 +0000" stop="20180502060000 +0000">
     <title>Home And Away</title>
     <desc>How will Ash react when he hears the truth about Robbo’s past? Olivia makes a drunken proposal, with big consequences.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180502060000 +0000" stop="20180502063000 +0000">
     <title>The Big Bang Theory</title>
@@ -2203,6 +2224,9 @@
   <programme channel="tv.10" start="20180502070000 +0000" stop="20180502073000 +0000">
     <title>Shortland Street</title>
     <desc>Drew swallows his pride. Zoe is confronted by a grim reality. Vinnie hits back at Finn.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -2286,6 +2310,9 @@
   <programme channel="tv.10" start="20180502131500 +0000" stop="20180502134000 +0000">
     <title>Shortland Street</title>
     <desc>Drew swallows his pride. Zoe is confronted by a grim reality. Vinnie hits back at Finn.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -2435,10 +2462,16 @@
   <programme channel="tv.10" start="20180503024000 +0000" stop="20180503031000 +0000">
     <title>Home And Away</title>
     <desc>How will Ash react when he hears the truth about Robbo’s past? Olivia makes a drunken proposal, with big consequences.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180503031000 +0000" stop="20180503034000 +0000">
     <title>Shortland Street</title>
     <desc>Drew swallows his pride. Zoe is confronted by a grim reality. Vinnie hits back at Finn.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -2624,6 +2657,12 @@
   <programme channel="tv.10" start="20180503190000 +0000" stop="20180503192500 +0000">
     <title>New Looney Tunes</title>
     <desc>The heroic and mischievous Bugs Bunny is back, matching his wits against classic characters like Yosemite Sam and Wile. E. Coyote.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180503192500 +0000" stop="20180503195000 +0000">
     <title>Nexo Knights</title>
@@ -2948,6 +2987,9 @@
   <programme channel="tv.10" start="20180504193000 +0000" stop="20180504195000 +0000">
     <title>Transformers Robots In Disguise</title>
     <desc>When a new army of Decepticons appear, Bumblebee must lead a new team of Autobots to Earth against their eternal foes.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180504195000 +0000" stop="20180504201500 +0000">
     <title>The Legendaries</title>
@@ -2976,6 +3018,9 @@
   <programme channel="tv.10" start="20180504210000 +0000" stop="20180504211000 +0000">
     <title>Regular Show</title>
     <desc>The daily surreal adventures of a blue jay and raccoon duo that attempt to deal with their mundane jobs as groundskeepers at the local park.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180504211000 +0000" stop="20180504213500 +0000">
     <title>Disney Walk The Prank</title>
@@ -2993,10 +3038,16 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180504220000 +0000" stop="20180504223000 +0000">
     <title>Fresh</title>
     <desc>Today Fresh is coming at you from the windy capital of Wellington! Meet the star of the film ‘The Changeover’ and your Fresh host for the week - up and coming actor Erana James!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180504223000 +0000" stop="20180504230000 +0000">
     <title>The Barefoot Bandits</title>
@@ -3241,6 +3292,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180506023000 +0000" stop="20180506050000 +0000">
     <title>Home And Away</title>
@@ -3409,6 +3463,9 @@
   <programme channel="tv.10" start="20180506195000 +0000" stop="20180506201500 +0000">
     <title>Beyblade Burst Evolution</title>
     <desc>The adventures of a pair of youths wielding beyblades.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180506201500 +0000" stop="20180506203500 +0000">
     <title>Disney Junior Art Attack</title>
@@ -8311,6 +8368,9 @@
   <programme channel="tv.38" start="20180503220000 +0000" stop="20180503230000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by, Elisabeth Moss.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180503230000 +0000" stop="20180504000000 +0000">
     <title>Tipping Point</title>
@@ -8347,6 +8407,9 @@
   <programme channel="tv.38" start="20180504030000 +0000" stop="20180504040000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by, Elisabeth Moss.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180504040000 +0000" stop="20180504050000 +0000">
     <title>Tipping Point</title>
@@ -8709,6 +8772,9 @@
     <title>Coast New Zealand</title>
     <desc>Plenty by name, plenty by nature… this stretch of coast offers more than its fair share of seaside tales. Join Neil Oliver and the team as they explore Bay of Plenty.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180506100000 +0000" stop="20180506110000 +0000">
     <title>Bancroft</title>
@@ -8833,7 +8899,7 @@
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.38" start="20180507055500 +0000" stop="20180507070000 +0000">
@@ -9337,7 +9403,7 @@
     <title>Home And Away</title>
     <desc>The race to save Ava from the kidnappers is on. Colby is forced into desperate measures as lives are put at risk. Irene and Marilyn help revive Maggie’s spirits after chemo.</desc>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180501041000 +0000" stop="20180501044000 +0000">
@@ -9358,6 +9424,9 @@
   <programme channel="tv.14" start="20180501050000 +0000" stop="20180501053000 +0000">
     <title>Fanimals</title>
     <desc>We find out what your teachers really get up to after school, meet 'Chill Bill', the most laid-back kitten, and we could be showing your entry on Trick For Treat!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180501053000 +0000" stop="20180501060000 +0000">
     <title>Friends</title>
@@ -9592,7 +9661,7 @@
     <title>Home And Away</title>
     <desc>Colby’s career hangs in the balance. Robbo returns to the Bay with unfinished business. Olivia lets go of Hunter.</desc>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180502041000 +0000" stop="20180502044000 +0000">
@@ -9613,6 +9682,9 @@
   <programme channel="tv.14" start="20180502050000 +0000" stop="20180502053000 +0000">
     <title>Fanimals</title>
     <desc>We're getting the starting flag out for Farmyard Olympics, you could be playing to win on 'Call of Nature', and we do a ride along as Auckland Zoo move their orangutans to Christchurch!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180502053000 +0000" stop="20180502060000 +0000">
     <title>Friends</title>
@@ -9631,6 +9703,9 @@
   <programme channel="tv.14" start="20180502063000 +0000" stop="20180502070000 +0000">
     <title>Home And Away</title>
     <desc>How will Ash react when he hears the truth about Robbo’s past? Olivia makes a drunken proposal, with big consequences.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180502070000 +0000" stop="20180502073000 +0000">
     <title>The Big Bang Theory</title>
@@ -9854,6 +9929,9 @@
   <programme channel="tv.14" start="20180503034000 +0000" stop="20180503041000 +0000">
     <title>Home And Away</title>
     <desc>How will Ash react when he hears the truth about Robbo’s past? Olivia makes a drunken proposal, with big consequences.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180503041000 +0000" stop="20180503044000 +0000">
     <title>Shortland Street</title>
@@ -10031,6 +10109,9 @@
   <programme channel="tv.14" start="20180503200000 +0000" stop="20180503202500 +0000">
     <title>New Looney Tunes</title>
     <desc>The heroic and mischievous Bugs Bunny is back, matching his wits against classic characters like Yosemite Sam and Wile. E. Coyote.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180503202500 +0000" stop="20180503205000 +0000">
     <title>Nexo Knights</title>
@@ -10328,6 +10409,9 @@
   <programme channel="tv.14" start="20180504203000 +0000" stop="20180504205000 +0000">
     <title>Transformers Robots In Disguise</title>
     <desc>When a new army of Decepticons appear, Bumblebee must lead a new team of Autobots to Earth against their eternal foes.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180504205000 +0000" stop="20180504211500 +0000">
     <title>The Legendaries</title>
@@ -10353,6 +10437,9 @@
   <programme channel="tv.14" start="20180504220000 +0000" stop="20180504221000 +0000">
     <title>Regular Show</title>
     <desc>The daily surreal adventures of a blue jay and raccoon duo that attempt to deal with their mundane jobs as groundskeepers at the local park.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180504221000 +0000" stop="20180504223500 +0000">
     <title>Disney Walk The Prank</title>
@@ -10364,10 +10451,16 @@
   <programme channel="tv.14" start="20180504223500 +0000" stop="20180504230000 +0000">
     <title>Kirby Buckets Warped</title>
     <desc>Follows the outrageous adventures and vivid imagination of a 13-year-old aspiring animator Kirby Buckets.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180504230000 +0000" stop="20180504233000 +0000">
     <title>Fresh</title>
     <desc>Today Fresh is coming at you from the windy capital of Wellington! Meet the star of the film ‘The Changeover’ and your Fresh host for the week - up and coming actor Erana James!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180504233000 +0000" stop="20180505000000 +0000">
     <title>The Barefoot Bandits</title>
@@ -10573,6 +10666,9 @@
   <programme channel="tv.14" start="20180506010000 +0000" stop="20180506033000 +0000">
     <title>The Bachelor</title>
     <desc>Nick continues to explore what his future might be like with each of his potential mates, but not even he is sure who the final two women will be.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180506033000 +0000" stop="20180506060000 +0000">
     <title>Home And Away</title>
@@ -10714,6 +10810,9 @@
   <programme channel="tv.14" start="20180506205000 +0000" stop="20180506211500 +0000">
     <title>Beyblade Burst Evolution</title>
     <desc>The adventures of a pair of youths wielding beyblades.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180506211500 +0000" stop="20180506213500 +0000">
     <title>Disney Junior Art Attack</title>
@@ -17763,6 +17862,9 @@
   <programme channel="tv.55" start="20180430080000 +0000" stop="20180430083000 +0000">
     <title>New: Family Guy</title>
     <desc>To help get Brian’s life in order, Stewie and Brian swap bodies using a machine that Stewie invents, but chaos quickly ensues around Quahog when the machine goes haywire.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180430083000 +0000" stop="20180430090000 +0000">
     <title>South Park</title>
@@ -17797,23 +17899,23 @@
     <title>DUKE Back in the Future</title>
     <desc>We'll catch you later on DUKE.</desc>
   </programme>
-  <programme channel="tv.55" start="20180430180000 +0000" stop="20180430184500 +0000">
+  <programme channel="tv.55" start="20180430180000 +0000" stop="20180430184000 +0000">
     <title>On DUKE today...</title>
     <desc>Here's what's on DUKE today.</desc>
   </programme>
-  <programme channel="tv.55" start="20180430184500 +0000" stop="20180430211500 +0000">
+  <programme channel="tv.55" start="20180430184000 +0000" stop="20180430211000 +0000">
     <title>AFL - Western v Carlton</title>
     <desc>Replay of Western Bulldogs vs. Carlton from Etihad Stadium in Melbourne.</desc>
   </programme>
-  <programme channel="tv.55" start="20180430211500 +0000" stop="20180430221000 +0000">
+  <programme channel="tv.55" start="20180430211000 +0000" stop="20180430220500 +0000">
     <title>Formula E Highlights</title>
     <desc>Highlights of Race 8 from the streets of Paris in France, featuring Kiwi driver Mitch Evans.</desc>
   </programme>
-  <programme channel="tv.55" start="20180430221000 +0000" stop="20180501004000 +0000">
+  <programme channel="tv.55" start="20180430220500 +0000" stop="20180501003500 +0000">
     <title>AFL - Geelong v Sydney</title>
     <desc>Replay of Saturday afternoon’s match as Geelong host the Sydney Swans from GMHBA Stadium in Geelong.</desc>
   </programme>
-  <programme channel="tv.55" start="20180501004000 +0000" stop="20180501023000 +0000">
+  <programme channel="tv.55" start="20180501003500 +0000" stop="20180501023000 +0000">
     <title>MLS - Toronto v Chicago</title>
     <desc>Replay of Sunday’s match as Toronto FC host the Chicago Fire from BMO Field in Toronto.</desc>
   </programme>
@@ -17971,6 +18073,9 @@
   <programme channel="tv.55" start="20180502083000 +0000" stop="20180502095500 +0000">
     <title>New; NZ Hunter Adventures</title>
     <desc>Part 1 of 2. The boys head south to the land of the Mallard for some magic stubble hunting near Invercargill. Then its north to the Waikato duck factory swamps for more Mallard mayhem.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180502095500 +0000" stop="20180502112500 +0000">
     <title>Survivor NZ Encore</title>
@@ -17990,6 +18095,9 @@
   <programme channel="tv.55" start="20180502121500 +0000" stop="20180502132500 +0000">
     <title>NZ Hunter Adventures</title>
     <desc>Part 1 of 2. The boys head south to the land of the Mallard for some magic stubble hunting near Invercargill. Then its north to the Waikato duck factory swamps for more Mallard mayhem.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180502132500 +0000" stop="20180502140000 +0000">
     <title>AFL Highlights</title>
@@ -18359,6 +18467,9 @@
   <programme channel="tv.55" start="20180506093000 +0000" stop="20180506105000 +0000">
     <title>NZ Hunter Adventures</title>
     <desc>Part 1 of 2. The boys head south to the land of the Mallard for some magic stubble hunting near Invercargill. Then its north to the Waikato duck factory swamps for more Mallard mayhem.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180506105000 +0000" stop="20180506114500 +0000">
     <title>Mythbusters Special</title>
