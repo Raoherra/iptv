@@ -774,6 +774,9 @@
     <title>Coronation Street</title>
     <desc>Maria’s got nowhere to hide. All hope for Alya is lost. Is blood thicker than water for Sarah?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180505015500 +0000" stop="20180505025500 +0000">
     <title>Nightmare Tenants, Slum Landlords</title>
@@ -807,6 +810,9 @@
   <programme channel="tv.9" start="20180505045500 +0000" stop="20180505060000 +0000">
     <title>The Celebrity Chase</title>
     <desc>Quiz show hosted by Bradley Walsh. Today, Jennifer Metcalfe, Michael Parr, Alex Scott, Bill Turnbull, attempt to win thousands of pounds for charity.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180505060000 +0000" stop="20180505070000 +0000">
     <title>1 News At 6pm</title>
@@ -815,6 +821,9 @@
   <programme channel="tv.9" start="20180505070000 +0000" stop="20180505080000 +0000">
     <title>Britain's Got Talent</title>
     <desc>Tonight the auditions continue; Simon Cowell, Amanda Holden, Alesha Dixon and David Walliams return to their rightful thrones on the judging panel in the search for the most exciting talent around.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180505080000 +0000" stop="20180505080500 +0000">
     <title>Lotto</title>
@@ -823,6 +832,9 @@
   <programme channel="tv.9" start="20180505080500 +0000" stop="20180505082500 +0000">
     <title>Britain's Got Talent Continued</title>
     <desc>Tonight the auditions continue; Simon Cowell, Amanda Holden, Alesha Dixon and David Walliams return to their rightful thrones on the judging panel in the search for the most exciting talent around.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180505082500 +0000" stop="20180505092500 +0000">
     <title>The Hotel Inspector</title>
@@ -1318,6 +1330,9 @@
   <programme channel="tv.9" start="20180508080000 +0000" stop="20180508083000 +0000">
     <title>The Force</title>
     <desc>Tonight, a dangerous drug raid uncovers a deadly weapon, and officers think there could be more. Police rush to an out of control bush fire raging close to a stranded bus full of passengers.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180508083000 +0000" stop="20180508093000 +0000">
     <title>Rich House, Poor House</title>
@@ -1410,7 +1425,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180430173000 +0000" stop="20180430183000 +0000">
+  <programme channel="tv.10" start="20180430173000 +0000" stop="20180430180000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.10" start="20180430180000 +0000" stop="20180430183000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -2155,6 +2174,9 @@
   <programme channel="tv.10" start="20180503040000 +0000" stop="20180503043000 +0000">
     <title>Fanimals</title>
     <desc>We learn the best way to play with a new kitten in 'Mission Impawssible', your talented pet could be taking away the prize on Pet's Factor, and the riders in Pony Club are gearing up for ribbon day!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180503043000 +0000" stop="20180503050000 +0000">
     <title>Friends</title>
@@ -2194,6 +2216,9 @@
   <programme channel="tv.10" start="20180503070000 +0000" stop="20180503073000 +0000">
     <title>Shortland Street</title>
     <desc>Vinnie learns an important lesson. Curtis is on thin ice. Kylie is crushed.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -2257,6 +2282,9 @@
   <programme channel="tv.10" start="20180503131000 +0000" stop="20180503133500 +0000">
     <title>Shortland Street</title>
     <desc>Vinnie learns an important lesson. Curtis is on thin ice. Kylie is crushed.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -2414,6 +2442,9 @@
   <programme channel="tv.10" start="20180504030000 +0000" stop="20180504033000 +0000">
     <title>Shortland Street</title>
     <desc>Vinnie learns an important lesson. Curtis is on thin ice. Kylie is crushed.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -2439,6 +2470,9 @@
   <programme channel="tv.10" start="20180504040000 +0000" stop="20180504043000 +0000">
     <title>Fanimals</title>
     <desc>Today you could be playing to win on Fact or Fiction, we catch up with Author Stacey Gregg and her horse Cam, and we get up before the sun with Rylee and her cows!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180504043000 +0000" stop="20180504050000 +0000">
     <title>Friends</title>
@@ -2478,6 +2512,9 @@
   <programme channel="tv.10" start="20180504070000 +0000" stop="20180504073000 +0000">
     <title>Shortland Street</title>
     <desc>Kylie’s trust is tested. Chris draws a line with Zoe.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -2564,6 +2601,9 @@
   <programme channel="tv.10" start="20180504131000 +0000" stop="20180504133500 +0000">
     <title>Shortland Street</title>
     <desc>Kylie’s trust is tested. Chris draws a line with Zoe.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -2764,6 +2804,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180505040000 +0000" stop="20180505050000 +0000">
     <title>Dynamo: Magician Impossible</title>
@@ -2951,9 +2994,26 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180506000000 +0000" stop="20180506023000 +0000">
+  <programme channel="tv.10" start="20180506000000 +0000" stop="20180506010000 +0000">
     <title>The Bachelor</title>
     <desc>Nick continues to explore what his future might be like with each of his potential mates, but not even he is sure who the final two women will be.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.10" start="20180506010000 +0000" stop="20180506020000 +0000">
+    <title>Dumb Daredevils Make You Laugh Out Loud</title>
+    <desc>Bikes and boards, daring experiments, jumps and swings, daredevil proposals, and self-destructive daredevils – all caught on camera for your enjoyment.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.10" start="20180506020000 +0000" stop="20180506023000 +0000">
+    <title>Mike &amp; Molly</title>
+    <desc>S6 E1: Carl and Mike try to reconcile their partnership with couples counselling; after Peggy decides she won't participate in a promotional radio interview, Molly does it on her own.</desc>
     <audio>
       <stereo>dolby</stereo>
     </audio>
@@ -3200,6 +3260,9 @@
   <programme channel="tv.10" start="20180507030000 +0000" stop="20180507033000 +0000">
     <title>Shortland Street</title>
     <desc>Kylie’s trust is tested. Chris draws a line with Zoe.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -3215,6 +3278,9 @@
   <programme channel="tv.10" start="20180507033500 +0000" stop="20180507040000 +0000">
     <title>K.C. Undercover</title>
     <desc>An outspoken and confident technology wiz and skilled black belt discovers that both her parents are spies and expect her to follow in their footsteps.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
   </programme>
   <programme channel="tv.10" start="20180507040000 +0000" stop="20180507043000 +0000">
     <title>Fanimals</title>
@@ -3251,10 +3317,16 @@
   <programme channel="tv.10" start="20180507063000 +0000" stop="20180507070000 +0000">
     <title>Neighbours</title>
     <desc>Karl and Susan struggle to connect; Piper loses it when she loses the last piece of Tyler; and Leo can’t work out Monique’s angle.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180507070000 +0000" stop="20180507073000 +0000">
     <title>Shortland Street</title>
     <desc>Curtis dodges a bullet. Kylie is kept in the dark. Kate is torn between loyalties.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -3335,6 +3407,9 @@
   <programme channel="tv.10" start="20180507132000 +0000" stop="20180507134500 +0000">
     <title>Shortland Street</title>
     <desc>Curtis dodges a bullet. Kylie is kept in the dark. Kate is torn between loyalties.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -3375,6 +3450,9 @@
   <programme channel="tv.10" start="20180507170500 +0000" stop="20180507173000 +0000">
     <title>Neighbours</title>
     <desc>Karl and Susan struggle to connect; Piper loses it when she loses the last piece of Tyler; and Leo can’t work out Monique’s angle.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180507173000 +0000" stop="20180507180000 +0000">
     <title>Infomercials 5:30am Sun- Thu</title>
@@ -3451,6 +3529,9 @@
   <programme channel="tv.10" start="20180507223000 +0000" stop="20180507230000 +0000">
     <title>Neighbours</title>
     <desc>Karl and Susan struggle to connect; Piper loses it when she loses the last piece of Tyler; and Leo can’t work out Monique’s angle.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180507230000 +0000" stop="20180508000500 +0000">
     <title>My Kitchen Rules</title>
@@ -3487,6 +3568,9 @@
   <programme channel="tv.10" start="20180508031000 +0000" stop="20180508034000 +0000">
     <title>Shortland Street</title>
     <desc>Curtis dodges a bullet. Kylie is kept in the dark. Kate is torn between loyalties.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -3531,10 +3615,16 @@
   <programme channel="tv.10" start="20180508063000 +0000" stop="20180508070000 +0000">
     <title>Neighbours</title>
     <desc>Piper struggles to accept help; Paul stuns Terese with a surprise offer; Karl’s new scheme causes friction; and Aaron realises David may still care.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180508070000 +0000" stop="20180508073000 +0000">
     <title>Shortland Street</title>
     <desc>Zoe drives a wedge between Kate and mo. Drew and Dylan face a sticky situation.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -3543,6 +3633,9 @@
   <programme channel="tv.10" start="20180508073000 +0000" stop="20180508085000 +0000">
     <title>My Kitchen Rules</title>
     <desc>The biggest prize of the season outside the Grand Final is on offer to one of our Top 8 teams to have their ice cream sold in Coles Supermarkets across Australia. Which team will lick the competition?</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180508085000 +0000" stop="20180508094500 +0000">
     <title>The Resident</title>
@@ -3550,6 +3643,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180508094500 +0000" stop="20180508104500 +0000">
     <title>Grey's Anatomy</title>
@@ -8352,6 +8448,9 @@
     <title>Coronation Street</title>
     <desc>Maria’s got nowhere to hide. All hope for Alya is lost. Is blood thicker than water for Sarah?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180505025500 +0000" stop="20180505035500 +0000">
     <title>Nightmare Tenants, Slum Landlords</title>
@@ -8385,6 +8484,9 @@
   <programme channel="tv.38" start="20180505055500 +0000" stop="20180505070000 +0000">
     <title>The Celebrity Chase</title>
     <desc>Quiz show hosted by Bradley Walsh. Today, Jennifer Metcalfe, Michael Parr, Alex Scott, Bill Turnbull, attempt to win thousands of pounds for charity.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180505070000 +0000" stop="20180505080000 +0000">
     <title>1 News At 6pm</title>
@@ -8393,6 +8495,9 @@
   <programme channel="tv.38" start="20180505080000 +0000" stop="20180505090000 +0000">
     <title>Britain's Got Talent</title>
     <desc>Tonight the auditions continue; Simon Cowell, Amanda Holden, Alesha Dixon and David Walliams return to their rightful thrones on the judging panel in the search for the most exciting talent around.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180505090000 +0000" stop="20180505090500 +0000">
     <title>Lotto</title>
@@ -8401,6 +8506,9 @@
   <programme channel="tv.38" start="20180505090500 +0000" stop="20180505092500 +0000">
     <title>Britain's Got Talent Continued</title>
     <desc>Tonight the auditions continue; Simon Cowell, Amanda Holden, Alesha Dixon and David Walliams return to their rightful thrones on the judging panel in the search for the most exciting talent around.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180505092500 +0000" stop="20180505102500 +0000">
     <title>The Hotel Inspector</title>
@@ -8896,6 +9004,9 @@
   <programme channel="tv.38" start="20180508090000 +0000" stop="20180508093000 +0000">
     <title>The Force</title>
     <desc>Tonight, a dangerous drug raid uncovers a deadly weapon, and officers think there could be more. Police rush to an out of control bush fire raging close to a stranded bus full of passengers.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180508093000 +0000" stop="20180508103000 +0000">
     <title>Rich House, Poor House</title>
@@ -8982,7 +9093,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180430183000 +0000" stop="20180430193000 +0000">
+  <programme channel="tv.14" start="20180430183000 +0000" stop="20180430190000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.14" start="20180430190000 +0000" stop="20180430193000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -9634,6 +9749,9 @@
   <programme channel="tv.14" start="20180503050000 +0000" stop="20180503053000 +0000">
     <title>Fanimals</title>
     <desc>We learn the best way to play with a new kitten in 'Mission Impawssible', your talented pet could be taking away the prize on Pet's Factor, and the riders in Pony Club are gearing up for ribbon day!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180503053000 +0000" stop="20180503060000 +0000">
     <title>Friends</title>
@@ -9900,6 +10018,9 @@
   <programme channel="tv.14" start="20180504050000 +0000" stop="20180504053000 +0000">
     <title>Fanimals</title>
     <desc>Today you could be playing to win on Fact or Fiction, we catch up with Author Stacey Gregg and her horse Cam, and we get up before the sun with Rylee and her cows!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180504053000 +0000" stop="20180504060000 +0000">
     <title>Friends</title>
@@ -10186,6 +10307,9 @@
   <programme channel="tv.14" start="20180505040000 +0000" stop="20180505050000 +0000">
     <title>Once Upon A Time</title>
     <desc>S7 E8 In an attempt to prevent a distressed Alice from running away, Henry and Ella follow her into Wonderland. Once there, Henry realizes that Ella has a surprising connection to this strange world.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180505050000 +0000" stop="20180505060000 +0000">
     <title>Dynamo: Magician Impossible</title>
@@ -10346,9 +10470,23 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180506010000 +0000" stop="20180506033000 +0000">
+  <programme channel="tv.14" start="20180506010000 +0000" stop="20180506020000 +0000">
     <title>The Bachelor</title>
     <desc>Nick continues to explore what his future might be like with each of his potential mates, but not even he is sure who the final two women will be.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.14" start="20180506020000 +0000" stop="20180506030000 +0000">
+    <title>Dumb Daredevils Make You Laugh Out Loud</title>
+    <desc>Bikes and boards, daring experiments, jumps and swings, daredevil proposals, and self-destructive daredevils – all caught on camera for your enjoyment.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.14" start="20180506030000 +0000" stop="20180506033000 +0000">
+    <title>Mike &amp; Molly</title>
+    <desc>S6 E1: Carl and Mike try to reconcile their partnership with couples counselling; after Peggy decides she won't participate in a promotional radio interview, Molly does it on her own.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -10613,6 +10751,9 @@
   <programme channel="tv.14" start="20180507073000 +0000" stop="20180507080000 +0000">
     <title>Neighbours</title>
     <desc>Karl and Susan struggle to connect; Piper loses it when she loses the last piece of Tyler; and Leo can’t work out Monique’s angle.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180507080000 +0000" stop="20180507083000 +0000">
     <title>Shortland Street</title>
@@ -10719,6 +10860,9 @@
   <programme channel="tv.14" start="20180507180500 +0000" stop="20180507183000 +0000">
     <title>Neighbours</title>
     <desc>Karl and Susan struggle to connect; Piper loses it when she loses the last piece of Tyler; and Leo can’t work out Monique’s angle.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180507183000 +0000" stop="20180507190000 +0000">
     <title>Infomercials 5:30am Sun- Thu</title>
@@ -10792,6 +10936,9 @@
   <programme channel="tv.14" start="20180507233000 +0000" stop="20180508000000 +0000">
     <title>Neighbours</title>
     <desc>Karl and Susan struggle to connect; Piper loses it when she loses the last piece of Tyler; and Leo can’t work out Monique’s angle.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180508000000 +0000" stop="20180508010500 +0000">
     <title>My Kitchen Rules</title>
@@ -10869,6 +11016,9 @@
   <programme channel="tv.14" start="20180508073000 +0000" stop="20180508080000 +0000">
     <title>Neighbours</title>
     <desc>Piper struggles to accept help; Paul stuns Terese with a surprise offer; Karl’s new scheme causes friction; and Aaron realises David may still care.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180508080000 +0000" stop="20180508083000 +0000">
     <title>Shortland Street</title>
@@ -10881,10 +11031,16 @@
   <programme channel="tv.14" start="20180508083000 +0000" stop="20180508095000 +0000">
     <title>My Kitchen Rules</title>
     <desc>The biggest prize of the season outside the Grand Final is on offer to one of our Top 8 teams to have their ice cream sold in Coles Supermarkets across Australia. Which team will lick the competition?</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180508095000 +0000" stop="20180508104500 +0000">
     <title>The Resident</title>
     <desc>S1 E4 After a mix-up in the ER causes Conrad to deliver a death notification to the wrong family, he sets out to fix it.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180508104500 +0000" stop="20180508114500 +0000">
     <title>Grey's Anatomy</title>
@@ -17982,7 +18138,7 @@
   </programme>
   <programme channel="tv.55" start="20180502095500 +0000" stop="20180502112500 +0000">
     <title>Survivor NZ Encore</title>
-    <desc></desc>
+    <desc>Encore: Chani suffers the consequences of losing one of their strongest players. And the first hidden immunity idol comes into play; forcing one survivor to make a decision she’ll come to regret.</desc>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -18469,7 +18625,7 @@
     <title>Air Crash Disaster</title>
     <desc>On approach to Buffalo-Niagara International Airport, Flight 3407 suddenly loses altitude and crashes into a suburban home. It is the worst crash in the US in more than seven years.</desc>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.55" start="20180507120500 +0000" stop="20180507130000 +0000">
