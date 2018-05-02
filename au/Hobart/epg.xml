@@ -1306,8 +1306,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180507150000 +0000" stop="20180507160000 +0000">
+  <programme channel="tv.101002210220" start="20180507150000 +0000" stop="20180507151500 +0000">
     <title>ABC News Overnight</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180507151500 +0000" stop="20180507160000 +0000">
+    <title>Four Corners</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -1351,8 +1358,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180507190000 +0000" stop="20180507200000 +0000">
+  <programme channel="tv.101002210220" start="20180507190000 +0000" stop="20180507191500 +0000">
     <title>The Business</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180507191500 +0000" stop="20180507200000 +0000">
+    <title>The Drum</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -7619,7 +7633,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180506163400 +0000" stop="20180506173100 +0000">
+  <programme channel="tv.101002210224" start="20180506163500 +0000" stop="20180506173100 +0000">
     <title>Station Close</title>
     <rating system="Freeview">
       <value>NC</value>
@@ -7651,13 +7665,13 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180506200000 +0000" stop="20180506201300 +0000">
+  <programme channel="tv.101002210224" start="20180506200000 +0000" stop="20180506201200 +0000">
     <title>Jamie's Got Tentacles</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180506201300 +0000" stop="20180506202500 +0000">
+  <programme channel="tv.101002210224" start="20180506201200 +0000" stop="20180506202500 +0000">
     <title>Get Ace</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -7793,28 +7807,28 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180507014500 +0000" stop="20180507015000 +0000">
+  <programme channel="tv.101002210224" start="20180507014500 +0000" stop="20180507014900 +0000">
     <title>Wonders of the Universe</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180507015000 +0000" stop="20180507020100 +0000">
+  <programme channel="tv.101002210224" start="20180507014900 +0000" stop="20180507020200 +0000">
     <title>Against All Odds: Inside Statistics</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180507020100 +0000" stop="20180507021200 +0000">
+  <programme channel="tv.101002210224" start="20180507020200 +0000" stop="20180507021300 +0000">
     <title>The Jungle Book</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180507021200 +0000" stop="20180507022500 +0000">
+  <programme channel="tv.101002210224" start="20180507021300 +0000" stop="20180507022500 +0000">
     <title>Jamillah and Aladdin</title>
     <rating system="Freeview">
       <value>G</value>
@@ -8021,13 +8035,13 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180507123100 +0000" stop="20180507133200 +0000">
+  <programme channel="tv.101002210224" start="20180507123100 +0000" stop="20180507133100 +0000">
     <title>rage</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180507133200 +0000" stop="20180507190000 +0000">
+  <programme channel="tv.101002210224" start="20180507133100 +0000" stop="20180507190000 +0000">
     <title>Station Close</title>
     <rating system="Freeview">
       <value>NC</value>
@@ -9954,14 +9968,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180507230000 +0000" stop="20180508000000 +0000">
+  <programme channel="tv.101002710271" start="20180507230000 +0000" stop="20180507235900 +0000">
     <title>ABC News Mornings</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180508000000 +0000" stop="20180508010000 +0000">
+  <programme channel="tv.101002710271" start="20180507235900 +0000" stop="20180508010000 +0000">
     <title>Antiques Roadshow</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -10094,18 +10108,24 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180508133300 +0000" stop="20180508144300 +0000">
+  <programme channel="tv.101002710271" start="20180508133300 +0000" stop="20180508144100 +0000">
     <title>Q&amp;A</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180508144300 +0000" stop="20180508154300 +0000">
+  <programme channel="tv.101002710271" start="20180508144100 +0000" stop="20180508154300 +0000">
     <title>Parliament Question Time</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002710271" start="20180508154300 +0000" stop="20180508172600 +0000">
+    <title>rage</title>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101002710271" start="20180508154300 +0000" stop="20180508162900 +0000">
@@ -10115,12 +10135,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180508154300 +0000" stop="20180508172600 +0000">
-    <title>rage</title>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002710271" start="20180508172600 +0000" stop="20180508182700 +0000">
     <title>Antiques Roadshow</title>
     <subtitles type="teletext"/>
@@ -10128,14 +10142,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180508182700 +0000" stop="20180508191500 +0000">
+  <programme channel="tv.101002710271" start="20180508182700 +0000" stop="20180508191400 +0000">
     <title>Murder, She Wrote</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180508191500 +0000" stop="20180508200000 +0000">
+  <programme channel="tv.101002710271" start="20180508191400 +0000" stop="20180508200000 +0000">
     <title>Pointless</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -10237,7 +10251,7 @@
     <title>Think Tank</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101002710271" start="20180509090000 +0000" stop="20180509093000 +0000">
@@ -10247,49 +10261,49 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180509093000 +0000" stop="20180509100100 +0000">
+  <programme channel="tv.101002710271" start="20180509093000 +0000" stop="20180509100200 +0000">
     <title>7.30</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180509100100 +0000" stop="20180509103100 +0000">
+  <programme channel="tv.101002710271" start="20180509100200 +0000" stop="20180509103100 +0000">
     <title>Julia Zemiro's Home Delivery</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180509103100 +0000" stop="20180509110800 +0000">
+  <programme channel="tv.101002710271" start="20180509103100 +0000" stop="20180509110700 +0000">
     <title>Gruen</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180509110800 +0000" stop="20180509113700 +0000">
+  <programme channel="tv.101002710271" start="20180509110700 +0000" stop="20180509113700 +0000">
     <title>The Weekly With Charlie Pickering</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180509113700 +0000" stop="20180509115500 +0000">
+  <programme channel="tv.101002710271" start="20180509113700 +0000" stop="20180509115400 +0000">
     <title>Corey White's Roadmap To Paradise</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180509115500 +0000" stop="20180509123700 +0000">
+  <programme channel="tv.101002710271" start="20180509115400 +0000" stop="20180509123800 +0000">
     <title>Adam Hills: The Last Leg</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180509123700 +0000" stop="20180509130700 +0000">
+  <programme channel="tv.101002710271" start="20180509123800 +0000" stop="20180509130700 +0000">
     <title>ABC Late News</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -10544,21 +10558,21 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180503013000 +0000" stop="20180503020000 +0000">
+  <programme channel="tv.101204300430" start="20180503013000 +0000" stop="20180503020100 +0000">
     <title>Nine Morning News</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180503020000 +0000" stop="20180503030000 +0000">
+  <programme channel="tv.101204300430" start="20180503020100 +0000" stop="20180503030200 +0000">
     <title>Ellen</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180503030000 +0000" stop="20180503033000 +0000">
+  <programme channel="tv.101204300430" start="20180503030200 +0000" stop="20180503033000 +0000">
     <title>Extra</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -10585,14 +10599,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180503070000 +0000" stop="20180503080000 +0000">
+  <programme channel="tv.101204300430" start="20180503070000 +0000" stop="20180503075900 +0000">
     <title>Millionaire Hot Seat</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180503080000 +0000" stop="20180503090000 +0000">
+  <programme channel="tv.101204300430" start="20180503075900 +0000" stop="20180503090000 +0000">
     <title>Nine News</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -10627,74 +10641,74 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180503123000 +0000" stop="20180503130000 +0000">
+  <programme channel="tv.101204300430" start="20180503123000 +0000" stop="20180503125800 +0000">
     <title>World's Funniest Videos Top 10 Countdown</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180503130000 +0000" stop="20180503141500 +0000">
+  <programme channel="tv.101204300430" start="20180503125800 +0000" stop="20180503141800 +0000">
     <title>The Footy Show</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180503141500 +0000" stop="20180503144500 +0000">
+  <programme channel="tv.101204300430" start="20180503141800 +0000" stop="20180503144900 +0000">
     <title>Al McGlashan's Fish'n With Mates</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180503144500 +0000" stop="20180503151500 +0000">
+  <programme channel="tv.101204300430" start="20180503144900 +0000" stop="20180503151900 +0000">
     <title>My Surf TV</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180503151500 +0000" stop="20180503152000 +0000">
+  <programme channel="tv.101204300430" start="20180503151900 +0000" stop="20180503152400 +0000">
     <title>Explore Moments</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180503152000 +0000" stop="20180503153000 +0000">
+  <programme channel="tv.101204300430" start="20180503152400 +0000" stop="20180503153100 +0000">
     <title>9honey Presents</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180503153000 +0000" stop="20180503160000 +0000">
+  <programme channel="tv.101204300430" start="20180503153100 +0000" stop="20180503160000 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180503160000 +0000" stop="20180503163000 +0000">
+  <programme channel="tv.101204300430" start="20180503160000 +0000" stop="20180503162800 +0000">
     <title>Extra</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180503163000 +0000" stop="20180503170000 +0000">
+  <programme channel="tv.101204300430" start="20180503162800 +0000" stop="20180503165700 +0000">
     <title>Global Shop</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180503170000 +0000" stop="20180503173000 +0000">
+  <programme channel="tv.101204300430" start="20180503165700 +0000" stop="20180503172800 +0000">
     <title>Skippy</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180503173000 +0000" stop="20180503190000 +0000">
+  <programme channel="tv.101204300430" start="20180503172800 +0000" stop="20180503190000 +0000">
     <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -10787,7 +10801,6 @@
   </programme>
   <programme channel="tv.101204300430" start="20180504103000 +0000" stop="20180504124500 +0000">
     <title>Me Before You</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -11884,56 +11897,56 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180502210000 +0000" stop="20180502220000 +0000">
+  <programme channel="tv.101204300433" start="20180502210000 +0000" stop="20180502215800 +0000">
     <title>House Hunters Renovation</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180502220000 +0000" stop="20180502230000 +0000">
+  <programme channel="tv.101204300433" start="20180502215800 +0000" stop="20180502230200 +0000">
     <title>The Block</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180502230000 +0000" stop="20180502233000 +0000">
+  <programme channel="tv.101204300433" start="20180502230200 +0000" stop="20180502233100 +0000">
     <title>The Garden Gurus</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180502233000 +0000" stop="20180503000000 +0000">
+  <programme channel="tv.101204300433" start="20180502233100 +0000" stop="20180503000100 +0000">
     <title>House Hunters International</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180503000000 +0000" stop="20180503003000 +0000">
+  <programme channel="tv.101204300433" start="20180503000100 +0000" stop="20180503003100 +0000">
     <title>House Hunters International</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180503003000 +0000" stop="20180503010000 +0000">
+  <programme channel="tv.101204300433" start="20180503003100 +0000" stop="20180503010100 +0000">
     <title>House Hunters</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180503010000 +0000" stop="20180503013000 +0000">
+  <programme channel="tv.101204300433" start="20180503010100 +0000" stop="20180503013100 +0000">
     <title>House Hunters</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180503013000 +0000" stop="20180503020000 +0000">
+  <programme channel="tv.101204300433" start="20180503013100 +0000" stop="20180503020100 +0000">
     <title>House Hunters</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180503020000 +0000" stop="20180503030000 +0000">
+  <programme channel="tv.101204300433" start="20180503020100 +0000" stop="20180503030000 +0000">
     <title>Fixer Upper</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -11945,32 +11958,32 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180503040000 +0000" stop="20180503050000 +0000">
+  <programme channel="tv.101204300433" start="20180503040000 +0000" stop="20180503045800 +0000">
     <title>Masters of Flip</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180503050000 +0000" stop="20180503060000 +0000">
+  <programme channel="tv.101204300433" start="20180503045800 +0000" stop="20180503060000 +0000">
     <title>The Block</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180503060000 +0000" stop="20180503070000 +0000">
+  <programme channel="tv.101204300433" start="20180503060000 +0000" stop="20180503070200 +0000">
     <title>Come Dine with Me</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180503070000 +0000" stop="20180503073000 +0000">
+  <programme channel="tv.101204300433" start="20180503070200 +0000" stop="20180503073100 +0000">
     <title>Flip Or Flop Atlanta</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180503073000 +0000" stop="20180503080000 +0000">
+  <programme channel="tv.101204300433" start="20180503073100 +0000" stop="20180503080000 +0000">
     <title>Flip Or Flop Atlanta</title>
     <rating system="Freeview">
       <value>G</value>
@@ -11982,38 +11995,38 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180503083000 +0000" stop="20180503090000 +0000">
+  <programme channel="tv.101204300433" start="20180503083000 +0000" stop="20180503090100 +0000">
     <title>House Hunters International</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180503090000 +0000" stop="20180503093000 +0000">
+  <programme channel="tv.101204300433" start="20180503090100 +0000" stop="20180503093200 +0000">
     <title>House Hunters</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180503093000 +0000" stop="20180503103000 +0000">
+  <programme channel="tv.101204300433" start="20180503093200 +0000" stop="20180503103100 +0000">
     <title>Botched</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180503103000 +0000" stop="20180503113000 +0000">
+  <programme channel="tv.101204300433" start="20180503103100 +0000" stop="20180503113000 +0000">
     <title>The Real Housewives of Beverly Hills</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180503113000 +0000" stop="20180503123000 +0000">
+  <programme channel="tv.101204300433" start="20180503113000 +0000" stop="20180503123100 +0000">
     <title>Vanderpump Rules</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180503123000 +0000" stop="20180503133000 +0000">
+  <programme channel="tv.101204300433" start="20180503123100 +0000" stop="20180503133000 +0000">
     <title>WAGs</title>
     <rating system="Freeview">
       <value>MA</value>
@@ -12037,14 +12050,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180503150000 +0000" stop="20180503160000 +0000">
+  <programme channel="tv.101204300433" start="20180503150000 +0000" stop="20180503160100 +0000">
     <title>Botched</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180503160000 +0000" stop="20180503170000 +0000">
+  <programme channel="tv.101204300433" start="20180503160100 +0000" stop="20180503170000 +0000">
     <title>The Real Housewives of Beverly Hills</title>
     <rating system="Freeview">
       <value>M</value>
@@ -12056,13 +12069,13 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180503180000 +0000" stop="20180503190000 +0000">
+  <programme channel="tv.101204300433" start="20180503180000 +0000" stop="20180503185700 +0000">
     <title>WAGs</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180503190000 +0000" stop="20180503200000 +0000">
+  <programme channel="tv.101204300433" start="20180503185700 +0000" stop="20180503200000 +0000">
     <title>Come Dine with Me</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -12666,7 +12679,6 @@
   </programme>
   <programme channel="tv.101204300433" start="20180506180000 +0000" stop="20180506183000 +0000">
     <title>Postcards</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -12740,7 +12752,6 @@
   </programme>
   <programme channel="tv.101204300433" start="20180507023000 +0000" stop="20180507030000 +0000">
     <title>Postcards</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -13874,10 +13885,22 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300436" start="20180505223000 +0000" stop="20180506000000 +0000">
+  <programme channel="tv.101204300436" start="20180505223000 +0000" stop="20180505230000 +0000">
     <title>The Incredible Journey Presents</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300436" start="20180505230000 +0000" stop="20180505233000 +0000">
+    <title>TV Shop - Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300436" start="20180505233000 +0000" stop="20180506000000 +0000">
+    <title>TV Shop - Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204300436" start="20180506000000 +0000" stop="20180506003000 +0000">
@@ -14039,7 +14062,13 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300436" start="20180506233000 +0000" stop="20180507003000 +0000">
+  <programme channel="tv.101204300436" start="20180506233000 +0000" stop="20180507000000 +0000">
+    <title>Danoz</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300436" start="20180507000000 +0000" stop="20180507003000 +0000">
     <title>Danoz</title>
     <rating system="Freeview">
       <value>G</value>
@@ -14210,7 +14239,13 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300436" start="20180507233000 +0000" stop="20180508003000 +0000">
+  <programme channel="tv.101204300436" start="20180507233000 +0000" stop="20180508000000 +0000">
+    <title>Danoz</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300436" start="20180508000000 +0000" stop="20180508003000 +0000">
     <title>Danoz</title>
     <rating system="Freeview">
       <value>G</value>
@@ -14370,7 +14405,19 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300436" start="20180508230000 +0000" stop="20180509003000 +0000">
+  <programme channel="tv.101204300436" start="20180508230000 +0000" stop="20180508233000 +0000">
+    <title>TV Shop - Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300436" start="20180508233000 +0000" stop="20180509000000 +0000">
+    <title>TV Shop - Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300436" start="20180509000000 +0000" stop="20180509003000 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
@@ -15271,6 +15318,7 @@
   </programme>
   <programme channel="tv.101204300437" start="20180504210000 +0000" stop="20180505010000 +0000">
     <title>Kids' WB Saturday</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -15483,6 +15531,7 @@
   </programme>
   <programme channel="tv.101204300437" start="20180505210000 +0000" stop="20180506010000 +0000">
     <title>Kids' WB Sunday</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
