@@ -811,21 +811,21 @@
     <title>Lotto</title>
     <desc/>
   </programme>
-  <programme channel="tv.9" start="20180505080500 +0000" stop="20180505082500 +0000">
+  <programme channel="tv.9" start="20180505080500 +0000" stop="20180505082000 +0000">
     <title>Britain's Got Talent Continued</title>
     <desc>Tonight the auditions continue; Simon Cowell, Amanda Holden, Alesha Dixon and David Walliams return to their rightful thrones on the judging panel in the search for the most exciting talent around.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180505082500 +0000" stop="20180505092500 +0000">
+  <programme channel="tv.9" start="20180505082000 +0000" stop="20180505092000 +0000">
     <title>The Hotel Inspector</title>
     <desc>Tonight, Alex is faced with one of her toughest challenges yet; trying to help a couple whose quirky hotel is racking up big debts. But will the hoteliers take her advice before it’s too late?</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180505092500 +0000" stop="20180505102500 +0000">
+  <programme channel="tv.9" start="20180505092000 +0000" stop="20180505102000 +0000">
     <title>The Secret</title>
     <desc>E3 As the inquest approaches, Colin and Hazel have to hold their nerve. But even if they do get away with it, can their relationship survive?</desc>
     <subtitles type="teletext"/>
@@ -833,7 +833,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180505102500 +0000" stop="20180505120000 +0000">
+  <programme channel="tv.9" start="20180505102000 +0000" stop="20180505115500 +0000">
     <title>Erebus - Operation Overdue</title>
     <desc>Erebus tells the emotional and compelling true story of four police officers who went to Antarctica to recover the victims of the 1979 Air New Zealand crash that killed all 257 passengers.</desc>
     <subtitles type="teletext"/>
@@ -841,14 +841,14 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180505120000 +0000" stop="20180505130000 +0000">
+  <programme channel="tv.9" start="20180505115500 +0000" stop="20180505125500 +0000">
     <title>Aquarius</title>
     <desc>Series Finale. Hodiak is newly "retired" and tries to hunt down the serial killer who's been tormenting him.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180505130000 +0000" stop="20180505150000 +0000">
+  <programme channel="tv.9" start="20180505125500 +0000" stop="20180505150000 +0000">
     <title>Emmerdale</title>
     <desc>Lisa is led into temptation; Pete raises his hopes; Tom meets his match.</desc>
     <rating system="Freeview">
@@ -1240,6 +1240,9 @@
   <programme channel="tv.9" start="20180507210000 +0000" stop="20180507220000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180507220000 +0000" stop="20180507230000 +0000">
     <title>Tipping Point</title>
@@ -1276,10 +1279,16 @@
   <programme channel="tv.9" start="20180508020000 +0000" stop="20180508030000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180508030000 +0000" stop="20180508040000 +0000">
     <title>Tipping Point</title>
     <desc>Quiz show in which four players take on an extraordinary machine in the hope of winning its 10,000 pound jackpot.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180508040000 +0000" stop="20180508043000 +0000">
     <title>Te Karere</title>
@@ -1308,6 +1317,9 @@
     <title>Dog Squad</title>
     <desc>Wellington Delta team Sam and Arlo confront an aggressive male connected to a machete attack, and Customs drug dog Latte discovers a colourful package with even more colourful contents.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180508080000 +0000" stop="20180508083000 +0000">
     <title>The Force</title>
@@ -2047,6 +2059,9 @@
   <programme channel="tv.10" start="20180503053000 +0000" stop="20180503060000 +0000">
     <title>Home And Away</title>
     <desc>The water's warm and the drama's even hotter! Don't miss the latest from the guys and girls in Summer Bay.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180503060000 +0000" stop="20180503063000 +0000">
     <title>The Big Bang Theory</title>
@@ -2287,6 +2302,9 @@
   <programme channel="tv.10" start="20180504023000 +0000" stop="20180504030000 +0000">
     <title>Home And Away</title>
     <desc>The water's warm and the drama's even hotter! Don't miss the latest from the guys and girls in Summer Bay.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180504030000 +0000" stop="20180504033000 +0000">
     <title>Shortland Street</title>
@@ -2343,6 +2361,9 @@
   <programme channel="tv.10" start="20180504053000 +0000" stop="20180504060000 +0000">
     <title>Home And Away</title>
     <desc>The water's warm and the drama's even hotter! Don't miss the latest from the guys and girls in Summer Bay.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180504060000 +0000" stop="20180504063000 +0000">
     <title>The Big Bang Theory</title>
@@ -2874,7 +2895,7 @@
     <title>Home And Away</title>
     <desc>The race to save Ava from the kidnappers is on. Colby is forced into desperate measures as lives are put at risk. Irene and Marilyn help revive Maggie’s spirits after chemo.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180506050000 +0000" stop="20180506053000 +0000">
@@ -3105,6 +3126,9 @@
   <programme channel="tv.10" start="20180507023000 +0000" stop="20180507030000 +0000">
     <title>Home And Away</title>
     <desc>The water's warm and the drama's even hotter! Don't miss the latest from the guys and girls in Summer Bay.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180507030000 +0000" stop="20180507033000 +0000">
     <title>Shortland Street</title>
@@ -3130,10 +3154,13 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180507040000 +0000" stop="20180507043000 +0000">
     <title>Fanimals</title>
-    <desc>Today we meet Clueso the MPI Sniffer Dog, we catch up with Isaac and his bees in Nelson, and we call the winner of our Bug Lab competition!</desc>
+    <desc>Today we meet Clueso the MPI Sniffer Dog, we catch up with Eva and Mathew and their bunny film stars, and we call the winner of our Bug Lab competition!</desc>
   </programme>
   <programme channel="tv.10" start="20180507043000 +0000" stop="20180507050000 +0000">
     <title>Friends</title>
@@ -3428,10 +3455,13 @@
   <programme channel="tv.10" start="20180508034000 +0000" stop="20180508040000 +0000">
     <title>K.C. Undercover</title>
     <desc>An outspoken and confident technology wiz and skilled black belt discovers that both her parents are spies and expect her to follow in their footsteps.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
   </programme>
   <programme channel="tv.10" start="20180508040000 +0000" stop="20180508043000 +0000">
     <title>Fanimals</title>
-    <desc>Today we meet chickens galore at the SPCA, show you how to make ice blocks that your pets will love, and send us in your pet tricks to win a treat!</desc>
+    <desc>Today we meet chickens galore at the SPCA, show you how to make choice kumura chews that your pets will love, and send us in your pet tricks to win a treat!</desc>
   </programme>
   <programme channel="tv.10" start="20180508043000 +0000" stop="20180508050000 +0000">
     <title>Friends</title>
@@ -3483,7 +3513,7 @@
     <title>My Kitchen Rules</title>
     <desc>The biggest prize of the season outside the Grand Final is on offer to one of our Top 8 teams to have their ice cream sold in Coles Supermarkets across Australia. Which team will lick the competition?</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180508085000 +0000" stop="20180508094500 +0000">
@@ -3673,7 +3703,7 @@
     <title>My Kitchen Rules</title>
     <desc>The biggest prize of the season outside the Grand Final is on offer to one of our Top 8 teams to have their ice cream sold in Coles Supermarkets across Australia. Which team will lick the competition?</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180509000500 +0000" stop="20180509011000 +0000">
@@ -8468,21 +8498,21 @@
     <title>Lotto</title>
     <desc/>
   </programme>
-  <programme channel="tv.38" start="20180505090500 +0000" stop="20180505092500 +0000">
+  <programme channel="tv.38" start="20180505090500 +0000" stop="20180505092000 +0000">
     <title>Britain's Got Talent Continued</title>
     <desc>Tonight the auditions continue; Simon Cowell, Amanda Holden, Alesha Dixon and David Walliams return to their rightful thrones on the judging panel in the search for the most exciting talent around.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180505092500 +0000" stop="20180505102500 +0000">
+  <programme channel="tv.38" start="20180505092000 +0000" stop="20180505102000 +0000">
     <title>The Hotel Inspector</title>
     <desc>Tonight, Alex is faced with one of her toughest challenges yet; trying to help a couple whose quirky hotel is racking up big debts. But will the hoteliers take her advice before it’s too late?</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180505102500 +0000" stop="20180505112500 +0000">
+  <programme channel="tv.38" start="20180505102000 +0000" stop="20180505112000 +0000">
     <title>The Secret</title>
     <desc>E3 As the inquest approaches, Colin and Hazel have to hold their nerve. But even if they do get away with it, can their relationship survive?</desc>
     <subtitles type="teletext"/>
@@ -8490,7 +8520,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180505112500 +0000" stop="20180505130000 +0000">
+  <programme channel="tv.38" start="20180505112000 +0000" stop="20180505125500 +0000">
     <title>Erebus - Operation Overdue</title>
     <desc>Erebus tells the emotional and compelling true story of four police officers who went to Antarctica to recover the victims of the 1979 Air New Zealand crash that killed all 257 passengers.</desc>
     <subtitles type="teletext"/>
@@ -8498,14 +8528,14 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180505130000 +0000" stop="20180505140000 +0000">
+  <programme channel="tv.38" start="20180505125500 +0000" stop="20180505135500 +0000">
     <title>Aquarius</title>
     <desc>Series Finale. Hodiak is newly "retired" and tries to hunt down the serial killer who's been tormenting him.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180505140000 +0000" stop="20180505160000 +0000">
+  <programme channel="tv.38" start="20180505135500 +0000" stop="20180505160000 +0000">
     <title>Emmerdale</title>
     <desc>Lisa is led into temptation; Pete raises his hopes; Tom meets his match.</desc>
     <rating system="Freeview">
@@ -8897,6 +8927,9 @@
   <programme channel="tv.38" start="20180507220000 +0000" stop="20180507230000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180507230000 +0000" stop="20180508000000 +0000">
     <title>Tipping Point</title>
@@ -8933,10 +8966,16 @@
   <programme channel="tv.38" start="20180508030000 +0000" stop="20180508040000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180508040000 +0000" stop="20180508050000 +0000">
     <title>Tipping Point</title>
     <desc>Quiz show in which four players take on an extraordinary machine in the hope of winning its 10,000 pound jackpot.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180508050000 +0000" stop="20180508053000 +0000">
     <title>Te Karere</title>
@@ -8965,6 +9004,9 @@
     <title>Dog Squad</title>
     <desc>Wellington Delta team Sam and Arlo confront an aggressive male connected to a machete attack, and Customs drug dog Latte discovers a colourful package with even more colourful contents.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180508090000 +0000" stop="20180508093000 +0000">
     <title>The Force</title>
@@ -9641,6 +9683,9 @@
   <programme channel="tv.14" start="20180503063000 +0000" stop="20180503070000 +0000">
     <title>Home And Away</title>
     <desc>The water's warm and the drama's even hotter! Don't miss the latest from the guys and girls in Summer Bay.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180503070000 +0000" stop="20180503073000 +0000">
     <title>The Big Bang Theory</title>
@@ -9863,6 +9908,9 @@
   <programme channel="tv.14" start="20180504033000 +0000" stop="20180504040000 +0000">
     <title>Home And Away</title>
     <desc>The water's warm and the drama's even hotter! Don't miss the latest from the guys and girls in Summer Bay.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180504040000 +0000" stop="20180504043000 +0000">
     <title>Shortland Street</title>
@@ -9910,6 +9958,9 @@
   <programme channel="tv.14" start="20180504063000 +0000" stop="20180504070000 +0000">
     <title>Home And Away</title>
     <desc>The water's warm and the drama's even hotter! Don't miss the latest from the guys and girls in Summer Bay.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180504070000 +0000" stop="20180504073000 +0000">
     <title>The Big Bang Theory</title>
@@ -10366,7 +10417,7 @@
     <title>Home And Away</title>
     <desc>The race to save Ava from the kidnappers is on. Colby is forced into desperate measures as lives are put at risk. Irene and Marilyn help revive Maggie’s spirits after chemo.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180506060000 +0000" stop="20180506063000 +0000">
@@ -10570,6 +10621,9 @@
   <programme channel="tv.14" start="20180507033000 +0000" stop="20180507040000 +0000">
     <title>Home And Away</title>
     <desc>The water's warm and the drama's even hotter! Don't miss the latest from the guys and girls in Summer Bay.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180507040000 +0000" stop="20180507043000 +0000">
     <title>Shortland Street</title>
@@ -10589,10 +10643,13 @@
   <programme channel="tv.14" start="20180507043500 +0000" stop="20180507050000 +0000">
     <title>K.C. Undercover</title>
     <desc>An outspoken and confident technology wiz and skilled black belt discovers that both her parents are spies and expect her to follow in their footsteps.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180507050000 +0000" stop="20180507053000 +0000">
     <title>Fanimals</title>
-    <desc>Today we meet Clueso the MPI Sniffer Dog, we catch up with Isaac and his bees in Nelson, and we call the winner of our Bug Lab competition!</desc>
+    <desc>Today we meet Clueso the MPI Sniffer Dog, we catch up with Eva and Mathew and their bunny film stars, and we call the winner of our Bug Lab competition!</desc>
   </programme>
   <programme channel="tv.14" start="20180507053000 +0000" stop="20180507060000 +0000">
     <title>Friends</title>
@@ -10857,7 +10914,7 @@
   </programme>
   <programme channel="tv.14" start="20180508050000 +0000" stop="20180508053000 +0000">
     <title>Fanimals</title>
-    <desc>Today we meet chickens galore at the SPCA, show you how to make ice blocks that your pets will love, and send us in your pet tricks to win a treat!</desc>
+    <desc>Today we meet chickens galore at the SPCA, show you how to make choice kumura chews that your pets will love, and send us in your pet tricks to win a treat!</desc>
   </programme>
   <programme channel="tv.14" start="20180508053000 +0000" stop="20180508060000 +0000">
     <title>Friends</title>
@@ -10903,7 +10960,7 @@
     <title>My Kitchen Rules</title>
     <desc>The biggest prize of the season outside the Grand Final is on offer to one of our Top 8 teams to have their ice cream sold in Coles Supermarkets across Australia. Which team will lick the competition?</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180508095000 +0000" stop="20180508104500 +0000">
@@ -11069,7 +11126,7 @@
     <title>My Kitchen Rules</title>
     <desc>The biggest prize of the season outside the Grand Final is on offer to one of our Top 8 teams to have their ice cream sold in Coles Supermarkets across Australia. Which team will lick the competition?</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180509010500 +0000" stop="20180509021000 +0000">
@@ -18348,7 +18405,7 @@
     <title>Air Crash Disaster</title>
     <desc>Two minutes after Scandinavian Airlines Flight #751 left Stockholm in 1991, smoke filtered through the cabin and both engines failed, one erupting into flames.</desc>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.55" start="20180504112000 +0000" stop="20180504121000 +0000">
@@ -34804,6 +34861,490 @@
     <title>National Treasure Files</title>
     <desc/>
   </programme>
+  <programme channel="tv.8" start="20180506111500 +0000" stop="20180506120000 +0000">
+    <title>Chinese Perspective</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180506120000 +0000" stop="20180506123000 +0000">
+    <title>News Highlights</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180506123000 +0000" stop="20180506130000 +0000">
+    <title>Open Home</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180506130000 +0000" stop="20180506140000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180506140000 +0000" stop="20180506143000 +0000">
+    <title>Foreigners in China</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180506143000 +0000" stop="20180506150000 +0000">
+    <title>Beautiful China</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180506150000 +0000" stop="20180506163000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180506163000 +0000" stop="20180506170000 +0000">
+    <title>Around China</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180506170000 +0000" stop="20180506180000 +0000">
+    <title>National Treasure Files</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180506180000 +0000" stop="20180506183000 +0000">
+    <title>Performing Arts of China</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180506183000 +0000" stop="20180506184500 +0000">
+    <title>National Treasure Files</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180506184500 +0000" stop="20180506190000 +0000">
+    <title>China News</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180506190000 +0000" stop="20180506220000 +0000">
+    <title>Guangxi's Program</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180506220000 +0000" stop="20180506223000 +0000">
+    <title>CCTV 9</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180506223000 +0000" stop="20180506230000 +0000">
+    <title>HuNan Impression</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180506230000 +0000" stop="20180506233000 +0000">
+    <title>Country's Memory</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180506233000 +0000" stop="20180506234500 +0000">
+    <title>News 33</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180506234500 +0000" stop="20180507000000 +0000">
+    <title>Weather Report</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507000000 +0000" stop="20180507010000 +0000">
+    <title>Guangxi's Program</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507010000 +0000" stop="20180507013000 +0000">
+    <title>Keep Homesickness in Mind</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507013000 +0000" stop="20180507014500 +0000">
+    <title>East Movie Report</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507014500 +0000" stop="20180507020000 +0000">
+    <title>National Treasure Files</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507020000 +0000" stop="20180507040000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507040000 +0000" stop="20180507043000 +0000">
+    <title>HuNan TV's News</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507043000 +0000" stop="20180507050000 +0000">
+    <title>Guangxi's Program</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507050000 +0000" stop="20180507060000 +0000">
+    <title>Homeland, Dreamland</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507060000 +0000" stop="20180507063000 +0000">
+    <title>China News</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507063000 +0000" stop="20180507064500 +0000">
+    <title>East Movie Report</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507064500 +0000" stop="20180507070000 +0000">
+    <title>National Treasure Files</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507070000 +0000" stop="20180507075000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507075000 +0000" stop="20180507080000 +0000">
+    <title>33Go (1)</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507080000 +0000" stop="20180507081500 +0000">
+    <title>News 33</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507081500 +0000" stop="20180507082000 +0000">
+    <title>Weather Report</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507082000 +0000" stop="20180507083000 +0000">
+    <title>Lounge 33</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507083000 +0000" stop="20180507084500 +0000">
+    <title>33Go (2)</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507084500 +0000" stop="20180507090000 +0000">
+    <title>Guangxi's Story</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507090000 +0000" stop="20180507100000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507100000 +0000" stop="20180507103000 +0000">
+    <title>CCTV9</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507103000 +0000" stop="20180507110000 +0000">
+    <title>Guangxi's Program</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507110000 +0000" stop="20180507111500 +0000">
+    <title>National Treasure Files</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507111500 +0000" stop="20180507120000 +0000">
+    <title>Guangxi's Program</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507120000 +0000" stop="20180507123000 +0000">
+    <title>China News</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507123000 +0000" stop="20180507130000 +0000">
+    <title>National Treasure Files</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507130000 +0000" stop="20180507140000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507140000 +0000" stop="20180507141500 +0000">
+    <title>News 33</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507141500 +0000" stop="20180507143000 +0000">
+    <title>Lounge 33</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507143000 +0000" stop="20180507150000 +0000">
+    <title>Performing Arts of China</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507150000 +0000" stop="20180507163000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507163000 +0000" stop="20180507170000 +0000">
+    <title>Around China</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507170000 +0000" stop="20180507180000 +0000">
+    <title>National Treasure Files</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507180000 +0000" stop="20180507183000 +0000">
+    <title>Focus Today</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507183000 +0000" stop="20180507184500 +0000">
+    <title>National Treasure Files</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507184500 +0000" stop="20180507190000 +0000">
+    <title>China News</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507190000 +0000" stop="20180507220000 +0000">
+    <title>Guangxi's Program</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507220000 +0000" stop="20180507230000 +0000">
+    <title>Performing Arts of China</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507230000 +0000" stop="20180507233000 +0000">
+    <title>Country's Memory</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507233000 +0000" stop="20180507234500 +0000">
+    <title>News 33</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180507234500 +0000" stop="20180508000000 +0000">
+    <title>Weather Report</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508000000 +0000" stop="20180508010000 +0000">
+    <title>Guangxi's Program</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508010000 +0000" stop="20180508013000 +0000">
+    <title>Keep Homesickness in Mind</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508013000 +0000" stop="20180508014500 +0000">
+    <title>East Movie Report</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508014500 +0000" stop="20180508020000 +0000">
+    <title>National Treasure Files</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508020000 +0000" stop="20180508040000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508040000 +0000" stop="20180508043000 +0000">
+    <title>HuNan TV's News</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508043000 +0000" stop="20180508050000 +0000">
+    <title>Guangxi's Program</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508050000 +0000" stop="20180508060000 +0000">
+    <title>Homeland, Dreamland</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508060000 +0000" stop="20180508063000 +0000">
+    <title>China News</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508063000 +0000" stop="20180508064500 +0000">
+    <title>East Movie Report</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508064500 +0000" stop="20180508070000 +0000">
+    <title>National Treasure Files</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508070000 +0000" stop="20180508075000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508075000 +0000" stop="20180508080000 +0000">
+    <title>33Go (1)</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508080000 +0000" stop="20180508081500 +0000">
+    <title>News 33</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508081500 +0000" stop="20180508082000 +0000">
+    <title>Weather Report</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508082000 +0000" stop="20180508083000 +0000">
+    <title>Lounge 33</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508083000 +0000" stop="20180508084500 +0000">
+    <title>33Go (2)</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508084500 +0000" stop="20180508090000 +0000">
+    <title>HuNan Impression</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508090000 +0000" stop="20180508100000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508100000 +0000" stop="20180508103000 +0000">
+    <title>CCTV9</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508103000 +0000" stop="20180508110000 +0000">
+    <title>Guangxi's Program</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508110000 +0000" stop="20180508111500 +0000">
+    <title>National Treasure Files</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508111500 +0000" stop="20180508120000 +0000">
+    <title>Guangxi's Program</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508120000 +0000" stop="20180508123000 +0000">
+    <title>China News</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508123000 +0000" stop="20180508130000 +0000">
+    <title>National Treasure Files</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508130000 +0000" stop="20180508140000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508140000 +0000" stop="20180508141500 +0000">
+    <title>News 33</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508141500 +0000" stop="20180508143000 +0000">
+    <title>Lounge 33</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508143000 +0000" stop="20180508150000 +0000">
+    <title>Performing Arts of China</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508150000 +0000" stop="20180508163000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508163000 +0000" stop="20180508170000 +0000">
+    <title>Around China</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508170000 +0000" stop="20180508180000 +0000">
+    <title>National Treasure Files</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508180000 +0000" stop="20180508183000 +0000">
+    <title>Focus Today</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508183000 +0000" stop="20180508184500 +0000">
+    <title>National Treasure Files</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508184500 +0000" stop="20180508190000 +0000">
+    <title>China News</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508190000 +0000" stop="20180508220000 +0000">
+    <title>Guangxi's Program</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508220000 +0000" stop="20180508230000 +0000">
+    <title>Traditional Chinese Medicine</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508230000 +0000" stop="20180508233000 +0000">
+    <title>Country's Memory</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508233000 +0000" stop="20180508234500 +0000">
+    <title>News 33</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180508234500 +0000" stop="20180509000000 +0000">
+    <title>Weather Report</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509000000 +0000" stop="20180509010000 +0000">
+    <title>Guangxi's Program</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509010000 +0000" stop="20180509013000 +0000">
+    <title>Keep Homesickness in Mind</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509013000 +0000" stop="20180509014500 +0000">
+    <title>East Movie Report</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509014500 +0000" stop="20180509020000 +0000">
+    <title>National Treasure Files</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509020000 +0000" stop="20180509040000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509040000 +0000" stop="20180509043000 +0000">
+    <title>HuNan TV's News</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509043000 +0000" stop="20180509050000 +0000">
+    <title>Guangxi's Program</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509050000 +0000" stop="20180509060000 +0000">
+    <title>Homeland, Dreamland</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509060000 +0000" stop="20180509063000 +0000">
+    <title>China News</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509063000 +0000" stop="20180509064500 +0000">
+    <title>East Movie Report</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509064500 +0000" stop="20180509070000 +0000">
+    <title>National Treasure Files</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509070000 +0000" stop="20180509075000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509075000 +0000" stop="20180509080000 +0000">
+    <title>33Go (1)</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509080000 +0000" stop="20180509081500 +0000">
+    <title>News 33</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509081500 +0000" stop="20180509082000 +0000">
+    <title>Weather Report</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509082000 +0000" stop="20180509083000 +0000">
+    <title>Lounge 33</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509083000 +0000" stop="20180509084500 +0000">
+    <title>33Go (2)</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509084500 +0000" stop="20180509090000 +0000">
+    <title>Traditional Chinese Doctor</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509090000 +0000" stop="20180509100000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509100000 +0000" stop="20180509103000 +0000">
+    <title>CCTV9</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509103000 +0000" stop="20180509110000 +0000">
+    <title>Guangxi's Program</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509110000 +0000" stop="20180509111500 +0000">
+    <title>National Treasure Files</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.8" start="20180509111500 +0000" stop="20180509120000 +0000">
+    <title>Guangxi's Program</title>
+    <desc/>
+  </programme>
   <programme channel="tv.49" start="20180430120000 +0000" stop="20180501120000 +0000">
     <title>Apna Shows</title>
     <desc/>
@@ -41455,18 +41996,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180501142300 +0000" stop="20180501151200 +0000">
-    <title>Doctor Who</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210221" start="20180501142300 +0000" stop="20180501151600 +0000">
     <title>Judi Dench: My Passion For Trees</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210221" start="20180501142300 +0000" stop="20180501151200 +0000">
+    <title>Doctor Who</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20180501151600 +0000" stop="20180501172700 +0000">
@@ -42398,17 +42939,17 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180506155200 +0000" stop="20180506175900 +0000">
-    <title>rage</title>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210221" start="20180506155200 +0000" stop="20180506163900 +0000">
     <title>Doctor Who</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210221" start="20180506155200 +0000" stop="20180506175900 +0000">
+    <title>rage</title>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20180506175900 +0000" stop="20180506190000 +0000">
@@ -42774,17 +43315,17 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210221" start="20180508154300 +0000" stop="20180508172600 +0000">
+    <title>rage</title>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180508154300 +0000" stop="20180508162900 +0000">
     <title>Doctor Who</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210221" start="20180508154300 +0000" stop="20180508172600 +0000">
-    <title>rage</title>
-    <rating system="Freeview">
-      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20180508172600 +0000" stop="20180508182700 +0000">
