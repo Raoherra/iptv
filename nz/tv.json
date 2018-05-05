@@ -1,21 +1,4 @@
 {
-    "tv.9": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.9.png",
-        "channel": 1,
-        "name": "TVNZ 1",
-        "description": "New Zealand's leading producer of local entertainment programmes, news and current affairs, and national television events",
-        "url": "http://iptv.matthuisman.nz/nz/tv.9.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "video": {
-            "codec": "h264",
-            "width": 1280,
-            "height": 720
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
-        }
-    },
     "tv.10": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.10.png",
         "channel": 2,
@@ -31,40 +14,6 @@
             "codec": "aac",
             "channels": 2,
             "sample_rate": "48000"
-        }
-    },
-    "tv.11": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.11.png",
-        "channel": 3,
-        "name": "Three",
-        "description": "Three is the one-stop shop for entertainment, broadcasting some of the most-loved international and New Zealand drama, top-rating news and current affairs and has firmly established itself as the home of local comedy",
-        "url": "http://iptv.matthuisman.nz/nz/tv.11.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "video": {
-            "codec": "h264",
-            "width": 854,
-            "height": 480
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
-        }
-    },
-    "tv.12": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.12.png",
-        "channel": 4,
-        "name": "Bravo",
-        "description": "Bravo is Life. Lived Large! New Zealand's newest TV channel delivering high-quality original unscripted programming",
-        "url": "http://iptv.matthuisman.nz/nz/tv.12.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "video": {
-            "codec": "h264",
-            "width": 852,
-            "height": 480
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
         }
     },
     "tv.65": {
@@ -111,23 +60,6 @@
             "codec": "h264",
             "width": 1280,
             "height": 720
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
-        }
-    },
-    "tv.51": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.51.png",
-        "channel": 18,
-        "name": "The Edge TV",
-        "description": "The Edge TV plays the hottest music videos in the world right now",
-        "url": "http://iptv.matthuisman.nz/nz/tv.51.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "video": {
-            "codec": "h264",
-            "width": 852,
-            "height": 480
         },
         "audio": {
             "codec": "aac",
