@@ -2464,6 +2464,9 @@
   <programme channel="tv.10" start="20180508040000 +0000" stop="20180508043000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet chickens galore at the SPCA, show you how to make choice kumura chews that your pets will love, and send us in your pet tricks to win a treat!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180508043000 +0000" stop="20180508050000 +0000">
     <title>Friends</title>
@@ -2561,6 +2564,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180508123000 +0000" stop="20180508131500 +0000">
     <title>The Whispers</title>
@@ -3078,6 +3084,9 @@
   <programme channel="tv.10" start="20180510063000 +0000" stop="20180510070000 +0000">
     <title>Neighbours</title>
     <desc>Terese and Gary’s news stuns everyone; Jane’s secret search gains momentum; and Chloe’s new client causes shockwaves.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180510070000 +0000" stop="20180510073000 +0000">
     <title>Shortland Street</title>
@@ -3187,6 +3196,9 @@
   <programme channel="tv.10" start="20180510170500 +0000" stop="20180510173000 +0000">
     <title>Neighbours</title>
     <desc>Terese and Gary’s news stuns everyone; Jane’s secret search gains momentum; and Chloe’s new client causes shockwaves.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180510173000 +0000" stop="20180510180000 +0000">
     <title>Infomercial</title>
@@ -3260,6 +3272,9 @@
   <programme channel="tv.10" start="20180510223000 +0000" stop="20180510230000 +0000">
     <title>Neighbours</title>
     <desc>Terese and Gary’s news stuns everyone; Jane’s secret search gains momentum; and Chloe’s new client causes shockwaves.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180510230000 +0000" stop="20180511000000 +0000">
     <title>Hope &amp; Faith</title>
@@ -9865,6 +9880,9 @@
   <programme channel="tv.14" start="20180508050000 +0000" stop="20180508053000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet chickens galore at the SPCA, show you how to make choice kumura chews that your pets will love, and send us in your pet tricks to win a treat!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180508053000 +0000" stop="20180508060000 +0000">
     <title>Friends</title>
@@ -9944,6 +9962,9 @@
   <programme channel="tv.14" start="20180508124000 +0000" stop="20180508133000 +0000">
     <title>How To Get Away With Murder</title>
     <desc>S4 E13 As Annalise’s class-action case hangs in the balance, a meeting with the esteemed Washington D.C. fixer, Olivia Pope, proves to be crucial in getting the opportunity to argue her case.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180508133000 +0000" stop="20180508141500 +0000">
     <title>The Whispers</title>
@@ -10404,6 +10425,9 @@
   <programme channel="tv.14" start="20180510073000 +0000" stop="20180510080000 +0000">
     <title>Neighbours</title>
     <desc>Terese and Gary’s news stuns everyone; Jane’s secret search gains momentum; and Chloe’s new client causes shockwaves.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180510080000 +0000" stop="20180510083000 +0000">
     <title>Shortland Street</title>
@@ -10501,6 +10525,9 @@
   <programme channel="tv.14" start="20180510180500 +0000" stop="20180510183000 +0000">
     <title>Neighbours</title>
     <desc>Terese and Gary’s news stuns everyone; Jane’s secret search gains momentum; and Chloe’s new client causes shockwaves.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180510183000 +0000" stop="20180510190000 +0000">
     <title>Infomercial</title>
@@ -10574,6 +10601,9 @@
   <programme channel="tv.14" start="20180510233000 +0000" stop="20180511000000 +0000">
     <title>Neighbours</title>
     <desc>Terese and Gary’s news stuns everyone; Jane’s secret search gains momentum; and Chloe’s new client causes shockwaves.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180511000000 +0000" stop="20180511010000 +0000">
     <title>Hope &amp; Faith</title>
@@ -57467,17 +57497,17 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180505070000 +0000" stop="20180505080000 +0000">
-    <title>Building The Dream</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020522" start="20180505070000 +0000" stop="20180505073200 +0000">
     <title>Crash Investigation Unit</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020522" start="20180505070000 +0000" stop="20180505080000 +0000">
+    <title>Building The Dream</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180505073200 +0000" stop="20180505083000 +0000">

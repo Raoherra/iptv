@@ -57,10 +57,7 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\
 #EXTINF:-1 tvg-name="019" tvg-id="tv.101305030530" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305030530.png",Seven
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Hobart/tv.101305030530.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305030530 -f mpegts pipe:1
 
-#EXTINF:-1 tvg-name="020" tvg-id="tv.7misc2" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/7misc.png",Seven MISC #2
-pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Hobart/tv.7misc2.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.7misc2 -f mpegts pipe:1
-
-#EXTINF:-1 tvg-name="021" tvg-id="tv.101406030635" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406030635.png",TEN
+#EXTINF:-1 tvg-name="020" tvg-id="tv.101406030635" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406030635.png",TEN
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Hobart/tv.101406030635.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101406030635 -f mpegts pipe:1
 
 #EXTINF:-1 tvg-name="001" tvg-id="radio.ih.7123" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7123.png" radio="true",ABC Classic 2
