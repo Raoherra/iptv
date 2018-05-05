@@ -1,38 +1,4 @@
 {
-    "tv.10": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.10.png",
-        "channel": 2,
-        "name": "TVNZ 2",
-        "description": "TVNZ 2 brings you the best entertainment from New Zealand and the rest of the world, with a strong line up of the world's most engaging dramas, comedy and reality programmes",
-        "url": "http://iptv.matthuisman.nz/nz/tv.10.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "video": {
-            "codec": "h264",
-            "width": 1280,
-            "height": 720
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
-        }
-    },
-    "tv.65": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.65.png",
-        "channel": 11,
-        "name": "ThreeLife",
-        "description": "Launched Sunday 15 April, ThreeLife is a lifestyle focused channel from the MediaWorks family which takes you to a “lighter place”. Each night on the channel is themed, from food to DIY, the line-up will feature shows such as Restaurant Revolution and the US version of the smash hit format Married At First Sight.Check out the channel promo here to find out more, or just tune into channel 11.",
-        "url": "http://iptv.matthuisman.nz/nz/tv.65.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "video": {
-            "codec": "h264",
-            "width": 854,
-            "height": 480
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
-        }
-    },
     "tv.55": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.55.png",
         "channel": 13,
