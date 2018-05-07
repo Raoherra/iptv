@@ -3822,7 +3822,7 @@
     <desc/>
   </programme>
   <programme channel="tv.11" start="20180506233000 +0000" stop="20180507000000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -3836,7 +3836,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180507010000 +0000" stop="20180507023000 +0000">
-    <title>Dancing With The Stars</title>
+    <title>Dancing With The Stars (Encore)</title>
     <desc>New Episode. Our celebrities are dancing to stay in the competition as we face the first elimination of the series!</desc>
   </programme>
   <programme channel="tv.11" start="20180507023000 +0000" stop="20180507030000 +0000">
@@ -4270,7 +4270,7 @@
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
   <programme channel="tv.11" start="20180510073000 +0000" stop="20180510080000 +0000">
-    <title>Roseanne</title>
+    <title>All New Roseanne</title>
     <desc>Catch an all new episode of hit comedy reboot Roseanne, fast-tracked from the US! S1 Ep7</desc>
     <rating system="Freeview">
       <value>PGR</value>
@@ -4279,6 +4279,9 @@
   <programme channel="tv.11" start="20180510080000 +0000" stop="20180510083000 +0000">
     <title>All New Modern Family</title>
     <desc>Catch all new episodes of Modern Family fast-tracked from the States. S9 Ep21</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -4398,7 +4401,7 @@
   </programme>
   <programme channel="tv.11" start="20180511080000 +0000" stop="20180511090000 +0000">
     <title>All New The Graham Norton Show</title>
-    <desc>New Episode. Graham Norton is joined by Amy Schumer, Stephen Mangan and singer Jess Glynne. S23 Ep5</desc>
+    <desc>New Episode. Graham Norton is joined by Johnny Vegas, Stephen Mangan and singer Jess Glynne. S23 Ep5</desc>
   </programme>
   <programme channel="tv.11" start="20180511090000 +0000" stop="20180511094500 +0000">
     <title>7 Days</title>
@@ -4654,6 +4657,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180513104000 +0000" stop="20180513113500 +0000">
     <title>Chicago Med</title>
@@ -4739,11 +4745,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180514040000 +0000" stop="20180514042500 +0000">
+  <programme channel="tv.11" start="20180514040000 +0000" stop="20180514043000 +0000">
     <title>Newshub Live At 4pm</title>
     <desc>Susie Nordqvist presents comprehensive coverage of global and local news.</desc>
   </programme>
-  <programme channel="tv.11" start="20180514042500 +0000" stop="20180514053000 +0000">
+  <programme channel="tv.11" start="20180514043000 +0000" stop="20180514053000 +0000">
     <title>Married At First Sight UK</title>
     <desc>New Episode. Two more couples put their trust in science. But will they make it down the aisle and marry at first sight? S2 Ep3</desc>
     <rating system="Freeview">
@@ -11183,7 +11189,7 @@
     <desc/>
   </programme>
   <programme channel="tv.27" start="20180507003000 +0000" stop="20180507010000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -11197,7 +11203,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180507020000 +0000" stop="20180507033000 +0000">
-    <title>Dancing With The Stars</title>
+    <title>Dancing With The Stars (Encore)</title>
     <desc>New Episode. Our celebrities are dancing to stay in the competition as we face the first elimination of the series!</desc>
   </programme>
   <programme channel="tv.27" start="20180507033000 +0000" stop="20180507040000 +0000">
@@ -11610,7 +11616,7 @@
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
   <programme channel="tv.27" start="20180510083000 +0000" stop="20180510090000 +0000">
-    <title>Roseanne</title>
+    <title>All New Roseanne</title>
     <desc>Catch an all new episode of hit comedy reboot Roseanne, fast-tracked from the US! S1 Ep7</desc>
     <rating system="Freeview">
       <value>PGR</value>
@@ -11732,7 +11738,7 @@
   </programme>
   <programme channel="tv.27" start="20180511090000 +0000" stop="20180511100000 +0000">
     <title>All New The Graham Norton Show</title>
-    <desc>New Episode. Graham Norton is joined by Amy Schumer, Stephen Mangan and singer Jess Glynne. S23 Ep5</desc>
+    <desc>New Episode. Graham Norton is joined by Johnny Vegas, Stephen Mangan and singer Jess Glynne. S23 Ep5</desc>
   </programme>
   <programme channel="tv.27" start="20180511100000 +0000" stop="20180511104500 +0000">
     <title>7 Days</title>
@@ -11973,6 +11979,9 @@
   <programme channel="tv.27" start="20180513093500 +0000" stop="20180513114000 +0000">
     <title>Deadpool</title>
     <desc>A fast-talking mercenary with a morbid sense of humour is subjected to a rogue experiment that leaves him with accelerated healing powers and a quest for revenge. Starring Ryan Reynolds. (2016)</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180513114000 +0000" stop="20180513123500 +0000">
     <title>Chicago Med</title>
@@ -12055,11 +12064,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180514050000 +0000" stop="20180514052500 +0000">
+  <programme channel="tv.27" start="20180514050000 +0000" stop="20180514053000 +0000">
     <title>Newshub Live At 4pm</title>
     <desc>Susie Nordqvist presents comprehensive coverage of global and local news.</desc>
   </programme>
-  <programme channel="tv.27" start="20180514052500 +0000" stop="20180514063000 +0000">
+  <programme channel="tv.27" start="20180514053000 +0000" stop="20180514063000 +0000">
     <title>Married At First Sight UK</title>
     <desc>New Episode. Two more couples put their trust in science. But will they make it down the aisle and marry at first sight? S2 Ep3</desc>
     <rating system="Freeview">
@@ -23251,7 +23260,7 @@
   </programme>
   <programme channel="tv.51" start="20180507210000 +0000" stop="20180507220000 +0000">
     <title>Top 10</title>
-    <desc>10 videos based on a certain theme - today it's...CGII!</desc>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - NZ Artists We Love</desc>
   </programme>
   <programme channel="tv.51" start="20180507220000 +0000" stop="20180508000000 +0000">
     <title>All The Hits</title>
@@ -23298,12 +23307,12 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180508073000 +0000" stop="20180508080000 +0000">
-    <title>This vs That 91</title>
-    <desc/>
+    <title>Zayn VS Harry</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Zayn VS Harry</desc>
   </programme>
   <programme channel="tv.51" start="20180508080000 +0000" stop="20180508090000 +0000">
-    <title>Top 10 91</title>
-    <desc/>
+    <title>Top 10</title>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - NZ Artists We Love</desc>
   </programme>
   <programme channel="tv.51" start="20180508090000 +0000" stop="20180508103000 +0000">
     <title>All The Hits</title>
@@ -23342,7 +23351,7 @@
   </programme>
   <programme channel="tv.51" start="20180508210000 +0000" stop="20180508220000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Sci Fi!</desc>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - NZ Artists We Love</desc>
   </programme>
   <programme channel="tv.51" start="20180508220000 +0000" stop="20180509000000 +0000">
     <title>All The Hits</title>
@@ -23389,12 +23398,12 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180509073000 +0000" stop="20180509080000 +0000">
-    <title>This vs That 92</title>
-    <desc/>
+    <title>This vs That</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Disclosure Vs. Major Lazer</desc>
   </programme>
   <programme channel="tv.51" start="20180509080000 +0000" stop="20180509090000 +0000">
     <title>Top 10</title>
-    <desc>10 videos based on a certain theme - today it's...CGII!</desc>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - NZ Artists We Love</desc>
   </programme>
   <programme channel="tv.51" start="20180509090000 +0000" stop="20180509103000 +0000">
     <title>All The Hits</title>
@@ -23480,12 +23489,12 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180510073000 +0000" stop="20180510080000 +0000">
-    <title>This vs That 93</title>
-    <desc/>
+    <title>This vs That</title>
+    <desc>Music videos battling it out! Today it's throwbacks vs freshies, old school vs new school! Was it really better back in the day? Or will the new blood triumph?</desc>
   </programme>
   <programme channel="tv.51" start="20180510080000 +0000" stop="20180510090000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Sci Fi!</desc>
+    <desc>Top 10 videos based on a certain theme - today - Ariana Grande!</desc>
   </programme>
   <programme channel="tv.51" start="20180510090000 +0000" stop="20180510103000 +0000">
     <title>All The Hits</title>
@@ -23523,8 +23532,8 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180510210000 +0000" stop="20180510220000 +0000">
-    <title>Top 10 95</title>
-    <desc/>
+    <title>Top 10</title>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - NZ Artists We Love</desc>
   </programme>
   <programme channel="tv.51" start="20180510220000 +0000" stop="20180511000000 +0000">
     <title>All The Hits</title>
@@ -23571,12 +23580,12 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180511073000 +0000" stop="20180511080000 +0000">
-    <title>This vs That 94</title>
-    <desc/>
+    <title>This vs That</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Flo Rida Vs Jason Derulo</desc>
   </programme>
   <programme channel="tv.51" start="20180511080000 +0000" stop="20180511090000 +0000">
     <title>Top 10</title>
-    <desc>Top 10 videos based on a certain theme - today - Ariana Grande!</desc>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - NZ Artists We Love</desc>
   </programme>
   <programme channel="tv.51" start="20180511090000 +0000" stop="20180511103000 +0000">
     <title>All The Hits</title>
@@ -23633,7 +23642,7 @@
   </programme>
   <programme channel="tv.51" start="20180512040000 +0000" stop="20180512050000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Delicious!</desc>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Dance Classics</desc>
   </programme>
   <programme channel="tv.51" start="20180512050000 +0000" stop="20180512060000 +0000">
     <title>All The Hits</title>
@@ -23704,7 +23713,7 @@
   </programme>
   <programme channel="tv.51" start="20180513020000 +0000" stop="20180513030000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Delicious!</desc>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Dance Classics</desc>
   </programme>
   <programme channel="tv.51" start="20180513030000 +0000" stop="20180513050000 +0000">
     <title>All The Hits</title>
@@ -23760,8 +23769,8 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180513210000 +0000" stop="20180513220000 +0000">
-    <title>Top 10 96</title>
-    <desc/>
+    <title>Top 10</title>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - NZ Artists We Love</desc>
   </programme>
   <programme channel="tv.51" start="20180513220000 +0000" stop="20180514000000 +0000">
     <title>All The Hits</title>
@@ -23808,12 +23817,12 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180514073000 +0000" stop="20180514080000 +0000">
-    <title>This vs That 95</title>
-    <desc/>
+    <title>This vs That</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Pharrell vs Kanye</desc>
   </programme>
   <programme channel="tv.51" start="20180514080000 +0000" stop="20180514090000 +0000">
-    <title>Top 10 95</title>
-    <desc/>
+    <title>Top 10</title>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - NZ Artists We Love</desc>
   </programme>
   <programme channel="tv.51" start="20180514090000 +0000" stop="20180514103000 +0000">
     <title>All The Hits</title>
@@ -41486,17 +41495,17 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210221" start="20180507142100 +0000" stop="20180507163400 +0000">
+    <title>rage</title>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180507142100 +0000" stop="20180507151000 +0000">
     <title>Doctor Who</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210221" start="20180507142100 +0000" stop="20180507163400 +0000">
-    <title>rage</title>
-    <rating system="Freeview">
-      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20180507163400 +0000" stop="20180507172800 +0000">
@@ -65376,14 +65385,14 @@
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20180507025800 +0000" stop="20180507040100 +0000">
+    <title>To Be Advised</title>
+  </programme>
+  <programme channel="tv.101406020625" start="20180507025800 +0000" stop="20180507040100 +0000">
     <title>All Star Family Feud</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.101406020625" start="20180507025800 +0000" stop="20180507040100 +0000">
-    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101406020625" start="20180507040100 +0000" stop="20180507042900 +0000">
     <title>Entertainment Tonight</title>
@@ -70773,15 +70782,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180508063000 +0000" stop="20180508070000 +0000">
-    <title>VICE News Tonight</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000302" start="20180508063000 +0000" stop="20180508070000 +0000">
     <title>Dead Set On Life</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180508063000 +0000" stop="20180508070000 +0000">
+    <title>VICE News Tonight</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180508070000 +0000" stop="20180508080000 +0000">
@@ -70835,13 +70844,13 @@
   <programme channel="tv.320203000302" start="20180508113000 +0000" stop="20180508122000 +0000">
     <title>Hate Thy Neighbour</title>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180508113000 +0000" stop="20180508122000 +0000">
     <title>Hate Thy Neighbour</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180508122000 +0000" stop="20180508131500 +0000">
