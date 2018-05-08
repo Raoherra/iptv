@@ -152,13 +152,6 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180507151500 +0000" stop="20180507160000 +0000">
-    <title>Four Corners</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210220" start="20180507151500 +0000" stop="20180507160000 +0000">
     <title>Matter of Fact With Stan Grant</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -167,6 +160,13 @@
   </programme>
   <programme channel="tv.101002210220" start="20180507151500 +0000" stop="20180507153000 +0000">
     <title>The Business</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180507151500 +0000" stop="20180507160000 +0000">
+    <title>Four Corners</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -8920,17 +8920,17 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180507142100 +0000" stop="20180507163400 +0000">
-    <title>rage</title>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002710271" start="20180507142100 +0000" stop="20180507151000 +0000">
     <title>Doctor Who</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002710271" start="20180507142100 +0000" stop="20180507163400 +0000">
+    <title>rage</title>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101002710271" start="20180507163400 +0000" stop="20180507172800 +0000">
@@ -19737,15 +19737,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20180508093000 +0000" stop="20180508103700 +0000">
-    <title>Pie in the Sky</title>
+  <programme channel="tv.101305030532" start="20180508093000 +0000" stop="20180508103000 +0000">
+    <title>The Vicar of Dibley</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20180508093000 +0000" stop="20180508103000 +0000">
-    <title>The Vicar of Dibley</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305030532" start="20180508093000 +0000" stop="20180508103700 +0000">
+    <title>Pie in the Sky</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -25854,14 +25854,14 @@
     </rating>
   </programme>
   <programme channel="tv.101406030635" start="20180508025700 +0000" stop="20180508044500 +0000">
+    <title>To Be Advised</title>
+  </programme>
+  <programme channel="tv.101406030635" start="20180508025700 +0000" stop="20180508044500 +0000">
     <title>MasterChef Australia</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.101406030635" start="20180508025700 +0000" stop="20180508044500 +0000">
-    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101406030635" start="20180508044500 +0000" stop="20180508050100 +0000">
     <title>Entertainment Tonight</title>
@@ -30997,15 +30997,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180508063000 +0000" stop="20180508070000 +0000">
-    <title>Dead Set On Life</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000302" start="20180508063000 +0000" stop="20180508070000 +0000">
     <title>VICE News Tonight</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180508063000 +0000" stop="20180508070000 +0000">
+    <title>Dead Set On Life</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180508070000 +0000" stop="20180508080000 +0000">
@@ -31262,15 +31262,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180509063000 +0000" stop="20180509070000 +0000">
-    <title>It's Suppertime</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000302" start="20180509063000 +0000" stop="20180509070000 +0000">
     <title>VICE News Tonight</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180509063000 +0000" stop="20180509070000 +0000">
+    <title>It's Suppertime</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180509070000 +0000" stop="20180509080000 +0000">
