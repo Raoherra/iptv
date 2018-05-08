@@ -164,10 +164,6 @@
     <display-name>Redbull TV</display-name>
     <icon src=""/>
   </channel>
-  <channel id="tv.sbnint">
-    <display-name/>
-    <icon src=""/>
-  </channel>
   <channel id="tv.101002210220">
     <display-name>ABC NEWS</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210220.png"/>
@@ -1537,7 +1533,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180507173000 +0000" stop="20180507183000 +0000">
+  <programme channel="tv.10" start="20180507173000 +0000" stop="20180507180000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.10" start="20180507180000 +0000" stop="20180507183000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -1733,7 +1733,7 @@
   </programme>
   <programme channel="tv.10" start="20180508084500 +0000" stop="20180508094000 +0000">
     <title>The Resident</title>
-    <desc>S1 E4 After a mix-up in the ER causes Conrad to deliver a death notification to the wrong family, he sets out to fix it.</desc>
+    <desc>S1 E4 New medical drama where one doctor pushes the rules to the limit. After a mix-up in the ER causes Conrad to deliver a death notification to the wrong family, he sets out to fix it.</desc>
     <audio>
       <stereo>dolby</stereo>
     </audio>
@@ -61046,13 +61046,13 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20180510100300 +0000" stop="20180510103100 +0000">
+  <programme channel="tv.101305020525" start="20180510100300 +0000" stop="20180510103200 +0000">
     <title>How I Met Your Mother</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20180510100300 +0000" stop="20180510103200 +0000">
+  <programme channel="tv.101305020525" start="20180510100300 +0000" stop="20180510103100 +0000">
     <title>How I Met Your Mother</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -70666,15 +70666,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180508063000 +0000" stop="20180508070000 +0000">
-    <title>VICE News Tonight</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000302" start="20180508063000 +0000" stop="20180508070000 +0000">
     <title>Dead Set On Life</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180508063000 +0000" stop="20180508070000 +0000">
+    <title>VICE News Tonight</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180508070000 +0000" stop="20180508080000 +0000">
@@ -71166,15 +71166,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180510064000 +0000" stop="20180510070500 +0000">
-    <title>VICE World of Sports</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000302" start="20180510064000 +0000" stop="20180510070500 +0000">
     <title>VICE News Tonight</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180510064000 +0000" stop="20180510070500 +0000">
+    <title>VICE World of Sports</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180510070500 +0000" stop="20180510080500 +0000">

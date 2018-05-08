@@ -165,10 +165,6 @@
     <display-name>Redbull TV</display-name>
     <icon src=""/>
   </channel>
-  <channel id="tv.sbnint">
-    <display-name></display-name>
-    <icon src=""/>
-  </channel>
   <programme channel="tv.9" start="20180507115000 +0000" stop="20180507125000 +0000">
     <title>Person Of Interest</title>
     <desc>S5 E7 Root goes undercover to protect the host of a conspiracy theory show; and Samaritan's agents try to convince a member of the team that their goals are noble.</desc>
@@ -1414,7 +1410,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180507173000 +0000" stop="20180507183000 +0000">
+  <programme channel="tv.10" start="20180507173000 +0000" stop="20180507180000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.10" start="20180507180000 +0000" stop="20180507183000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -1610,7 +1610,7 @@
   </programme>
   <programme channel="tv.10" start="20180508084500 +0000" stop="20180508094000 +0000">
     <title>The Resident</title>
-    <desc>S1 E4 After a mix-up in the ER causes Conrad to deliver a death notification to the wrong family, he sets out to fix it.</desc>
+    <desc>S1 E4 New medical drama where one doctor pushes the rules to the limit. After a mix-up in the ER causes Conrad to deliver a death notification to the wrong family, he sets out to fix it.</desc>
     <audio>
       <stereo>dolby</stereo>
     </audio>
