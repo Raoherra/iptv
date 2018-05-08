@@ -14139,6 +14139,9 @@
   <programme channel="tv.28" start="20180512013000 +0000" stop="20180512023000 +0000">
     <title>English Premier League</title>
     <desc>'Prime looks at the best bits of the week's English Premier League games, with highlights of England's top division football teams battling it out to be the champions. G'</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180512023000 +0000" stop="20180512030000 +0000">
     <title>Storage Hunters</title>
@@ -14342,6 +14345,9 @@
   <programme channel="tv.28" start="20180513113000 +0000" stop="20180513123000 +0000">
     <title>English Premier League</title>
     <desc>'Prime looks at the best bits of the week's English Premier League games, with highlights of England's top division football teams battling it out to be the champions. G (R)'</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180513123000 +0000" stop="20180513180000 +0000">
     <title>Prime</title>
@@ -50754,17 +50760,17 @@
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180512020000 +0000" stop="20180512023000 +0000">
-    <title>Cybershack</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200421" start="20180512020000 +0000" stop="20180512023000 +0000">
     <title>Destination WA</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200421" start="20180512020000 +0000" stop="20180512023000 +0000">
+    <title>Cybershack</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180512023000 +0000" stop="20180512030000 +0000">
@@ -70548,15 +70554,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180509063000 +0000" stop="20180509070000 +0000">
-    <title>VICE News Tonight</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000302" start="20180509063000 +0000" stop="20180509070000 +0000">
     <title>It's Suppertime</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180509063000 +0000" stop="20180509070000 +0000">
+    <title>VICE News Tonight</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180509070000 +0000" stop="20180509080000 +0000">
@@ -71018,15 +71024,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180511064500 +0000" stop="20180511071000 +0000">
-    <title>Needles &amp; Pins</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000302" start="20180511064500 +0000" stop="20180511071000 +0000">
     <title>VICE News Tonight</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180511064500 +0000" stop="20180511071000 +0000">
+    <title>Needles &amp; Pins</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180511071000 +0000" stop="20180511081000 +0000">
