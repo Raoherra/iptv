@@ -3711,7 +3711,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.11" start="20180507233000 +0000" stop="20180508000000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -3725,7 +3725,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180508010000 +0000" stop="20180508020000 +0000">
-    <title>Dancing With The Stars</title>
+    <title>Dancing With The Stars (Encore)</title>
     <desc>New Episode. The celebrities are dancing for votes, and our first couple is eliminated from the series.</desc>
   </programme>
   <programme channel="tv.11" start="20180508020000 +0000" stop="20180508030000 +0000">
@@ -4041,9 +4041,6 @@
   <programme channel="tv.11" start="20180510080000 +0000" stop="20180510083000 +0000">
     <title>All New Modern Family</title>
     <desc>Catch all new episodes of Modern Family fast-tracked from the States. S9 Ep21</desc>
-    <audio>
-      <stereo>dolby</stereo>
-    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -4163,11 +4160,14 @@
   </programme>
   <programme channel="tv.11" start="20180511080000 +0000" stop="20180511090000 +0000">
     <title>All New The Graham Norton Show</title>
-    <desc>New Episode. Graham Norton is joined by Johnny Vegas, Stephen Mangan and singer Jess Glynne. S23 Ep5</desc>
+    <desc>New Episode. Graham Norton is joined by Emilia Fox, Johnny Vegas, Stephen Mangan and singer Jess Glynne. S23 Ep5</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180511090000 +0000" stop="20180511094500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Alice Snedden, Ben Hurley, Andrew Maxwell and Chris Parker.</desc>
   </programme>
   <programme channel="tv.11" start="20180511094500 +0000" stop="20180511101500 +0000">
     <title>Funny Girls</title>
@@ -5644,53 +5644,53 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180513030500 +0000" stop="20180513033300 +0000">
+  <programme channel="tv.12" start="20180513030500 +0000" stop="20180513033800 +0000">
     <title>Say Yes To The Dress Atlanta</title>
     <desc>Courtney thought she found the perfect gown.until her Dad turned it down. Now he's looking to lead the charge in finding her a new dress. S6 Ep12</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180513033300 +0000" stop="20180513033500 +0000">
+  <programme channel="tv.12" start="20180513033800 +0000" stop="20180513034000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180513033500 +0000" stop="20180513043500 +0000">
+  <programme channel="tv.12" start="20180513034000 +0000" stop="20180513044000 +0000">
     <title>I'm Having Their Baby</title>
     <desc>Jamie, already a single mother of three, but can she keep a forth or will she place the baby? Sydney doesn't want to be a struggling single mum and makes a controversial choice. S1 Ep3</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180513043500 +0000" stop="20180513053000 +0000">
+  <programme channel="tv.12" start="20180513044000 +0000" stop="20180513054000 +0000">
     <title>Child Genius USA</title>
     <desc>Three contestants duke it out in Advanced Science and more.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180513053000 +0000" stop="20180513063000 +0000">
+  <programme channel="tv.12" start="20180513054000 +0000" stop="20180513064000 +0000">
     <title>Top Chef Jr.</title>
     <desc>The final two chefs create dishes based on their past, present and future and the winner is crowned Top Chef Jr!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180513063000 +0000" stop="20180513073000 +0000">
+  <programme channel="tv.12" start="20180513064000 +0000" stop="20180513073500 +0000">
     <title>Catfish</title>
     <desc>A newly single woman wants help uncovering the identity of her new love, but she may have secrets of her own.</desc>
   </programme>
-  <programme channel="tv.12" start="20180513073000 +0000" stop="20180513083000 +0000">
+  <programme channel="tv.12" start="20180513073500 +0000" stop="20180513083500 +0000">
     <title>Making A Model With Yolanda Hadid</title>
     <desc>Yolanda brings in Victoria Secret model Devon Windsor and social media expert Olivia Perez to give the teenagers a lesson in the importance of social media.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180513083000 +0000" stop="20180513093500 +0000">
+  <programme channel="tv.12" start="20180513083500 +0000" stop="20180513093500 +0000">
     <title>Back With The Ex</title>
     <desc>The Couples go on another date and delve into a box containing god and bad memories from their past. And emotions run high as they revisit their relationships to discover where they went wrong.</desc>
     <rating system="Freeview">
@@ -11095,7 +11095,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.27" start="20180508003000 +0000" stop="20180508010000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -11109,7 +11109,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180508020000 +0000" stop="20180508030000 +0000">
-    <title>Dancing With The Stars</title>
+    <title>Dancing With The Stars (Encore)</title>
     <desc>New Episode. The celebrities are dancing for votes, and our first couple is eliminated from the series.</desc>
   </programme>
   <programme channel="tv.27" start="20180508030000 +0000" stop="20180508040000 +0000">
@@ -11517,11 +11517,14 @@
   </programme>
   <programme channel="tv.27" start="20180511090000 +0000" stop="20180511100000 +0000">
     <title>All New The Graham Norton Show</title>
-    <desc>New Episode. Graham Norton is joined by Johnny Vegas, Stephen Mangan and singer Jess Glynne. S23 Ep5</desc>
+    <desc>New Episode. Graham Norton is joined by Emilia Fox, Johnny Vegas, Stephen Mangan and singer Jess Glynne. S23 Ep5</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180511100000 +0000" stop="20180511104500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Alice Snedden, Ben Hurley, Andrew Maxwell and Chris Parker.</desc>
   </programme>
   <programme channel="tv.27" start="20180511104500 +0000" stop="20180511111500 +0000">
     <title>Funny Girls</title>
@@ -12968,53 +12971,53 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180513040500 +0000" stop="20180513043300 +0000">
+  <programme channel="tv.30" start="20180513040500 +0000" stop="20180513043800 +0000">
     <title>Say Yes To The Dress Atlanta</title>
     <desc>Courtney thought she found the perfect gown.until her Dad turned it down. Now he's looking to lead the charge in finding her a new dress. S6 Ep12</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180513043300 +0000" stop="20180513043500 +0000">
+  <programme channel="tv.30" start="20180513043800 +0000" stop="20180513044000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180513043500 +0000" stop="20180513053500 +0000">
+  <programme channel="tv.30" start="20180513044000 +0000" stop="20180513054000 +0000">
     <title>I'm Having Their Baby</title>
     <desc>Jamie, already a single mother of three, but can she keep a forth or will she place the baby? Sydney doesn't want to be a struggling single mum and makes a controversial choice. S1 Ep3</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180513053500 +0000" stop="20180513063000 +0000">
+  <programme channel="tv.30" start="20180513054000 +0000" stop="20180513064000 +0000">
     <title>Child Genius USA</title>
     <desc>Three contestants duke it out in Advanced Science and more.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180513063000 +0000" stop="20180513073000 +0000">
+  <programme channel="tv.30" start="20180513064000 +0000" stop="20180513074000 +0000">
     <title>Top Chef Jr.</title>
     <desc>The final two chefs create dishes based on their past, present and future and the winner is crowned Top Chef Jr!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180513073000 +0000" stop="20180513083000 +0000">
+  <programme channel="tv.30" start="20180513074000 +0000" stop="20180513083500 +0000">
     <title>Catfish</title>
     <desc>A newly single woman wants help uncovering the identity of her new love, but she may have secrets of her own.</desc>
   </programme>
-  <programme channel="tv.30" start="20180513083000 +0000" stop="20180513093000 +0000">
+  <programme channel="tv.30" start="20180513083500 +0000" stop="20180513093500 +0000">
     <title>Making A Model With Yolanda Hadid</title>
     <desc>Yolanda brings in Victoria Secret model Devon Windsor and social media expert Olivia Perez to give the teenagers a lesson in the importance of social media.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180513093000 +0000" stop="20180513103500 +0000">
+  <programme channel="tv.30" start="20180513093500 +0000" stop="20180513103500 +0000">
     <title>Back With The Ex</title>
     <desc>The Couples go on another date and delve into a box containing god and bad memories from their past. And emotions run high as they revisit their relationships to discover where they went wrong.</desc>
     <rating system="Freeview">
