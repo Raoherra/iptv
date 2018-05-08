@@ -1,5 +1,4 @@
 [playlist]
-numberofentries=98
 File1=http://iptv.matthuisman.nz/nz/radio.ih.6897.aac
 Title1=The Hits Southern Lakes
 File2=http://iptv.matthuisman.nz/nz/radio.ih.6197.aac
@@ -196,3 +195,4 @@ File97=http://iptv.matthuisman.nz/nz/radio.or.18
 Title97=Radio X
 File98=http://iptv.matthuisman.nz/nz/radio.ih.7864.aac
 Title98=Pulzar FM
+NumberOfEntries=98

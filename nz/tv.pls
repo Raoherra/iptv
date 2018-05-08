@@ -1,5 +1,4 @@
 [playlist]
-numberofentries=16
 File1=http://iptv.matthuisman.nz/nz/tv.9.m3u8
 Title1=TVNZ 1
 File2=http://iptv.matthuisman.nz/nz/tv.10.m3u8
@@ -32,3 +31,4 @@ File15=http://iptv.matthuisman.nz/nz/tv.60.m3u8
 Title15=Wairarapa TV
 File16=http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8
 Title16=Redbull TV
+NumberOfEntries=16
