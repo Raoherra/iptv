@@ -165,16 +165,6 @@
     <display-name>Redbull TV</display-name>
     <icon src=""/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180510030136 +0000" stop="20180510043346 +0000">
-    <title>Game Loading</title>
-    <desc>Disrupting the big-budget games industry, indie developers have forever impacted the world of video games.</desc>
-    <sub-title>Rise of the Indies</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180510043346 +0000" stop="20180510050056 +0000">
-    <title>Red Bull Flugtag S1E2</title>
-    <desc>Local flavors rule the day, as teams dress up homemade flying machines in honor of food, festivals, and more.</desc>
-    <sub-title>Oslo, Norway</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180510050056 +0000" stop="20180510052801 +0000">
     <title>The Healing Agent</title>
     <desc>After suffering a catastrophic injury, pro skier Mike Shaw faces the biggest challenge of his life.</desc>
@@ -1269,6 +1259,7 @@
   <programme channel="tv.9" start="20180510083000 +0000" stop="20180510090500 +0000">
     <title>Mrs Brown's Boys - Buckin' Mammy</title>
     <desc>S3 E7 In this Christmas special; Agnes hosts the family pre-christmans party and is cross when nobody will play by the rules in her party games, as usual.</desc>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -1545,21 +1536,21 @@
     <title>Lotto</title>
     <desc></desc>
   </programme>
-  <programme channel="tv.9" start="20180512080500 +0000" stop="20180512083000 +0000">
+  <programme channel="tv.9" start="20180512080500 +0000" stop="20180512082000 +0000">
     <title>Britain's Got Talent Continued</title>
     <desc>Tonight the auditions continue; Simon Cowell, Amanda Holden, Alesha Dixon and David Walliams return to their rightful thrones on the judging panel in the search for the most exciting talent around.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180512083000 +0000" stop="20180512092500 +0000">
+  <programme channel="tv.9" start="20180512082000 +0000" stop="20180512092000 +0000">
     <title>The Hotel Inspector</title>
     <desc>Tonight, Alex Polizzi resorts to drastic measures when she discovers a family business in meltdown. She rigs the hotel with cameras; giving her the chance to see the management, warts and all.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180512092500 +0000" stop="20180512102500 +0000">
+  <programme channel="tv.9" start="20180512092000 +0000" stop="20180512102000 +0000">
     <title>The Secret</title>
     <desc>Final: In the climax of the true-life drama, Colin believes that he will be able to put his evil past behind but soon realises he has yet to fully atone for his crimes.</desc>
     <subtitles type="teletext"/>
@@ -1567,7 +1558,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180512102500 +0000" stop="20180512122000 +0000">
+  <programme channel="tv.9" start="20180512102000 +0000" stop="20180512121500 +0000">
     <title>Sunday Theatre: Venus And Mars</title>
     <desc>A true story: A young detective is brutally attacked and his home burned down. The residents of Palmerston North descend into fear, but as the facts unfold, a bizarre and twisted reality is revealed.</desc>
     <subtitles type="teletext"/>
@@ -1575,7 +1566,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180512122000 +0000" stop="20180512132500 +0000">
+  <programme channel="tv.9" start="20180512121500 +0000" stop="20180512132500 +0000">
     <title>Indian Summers</title>
     <desc>S2 E1 The epic drama picks up in 1935. A terrorist attack against the British Viceroy of India puts Aafrin in the frame, while Cynthia urges Ralph to make a play for the top job.</desc>
     <rating system="Freeview">
@@ -1777,24 +1768,8 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180513153500 +0000" stop="20180513160500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180513160500 +0000" stop="20180513163000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180513163000 +0000" stop="20180513170000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180513170000 +0000" stop="20180513173000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180513173000 +0000" stop="20180513180000 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180513153500 +0000" stop="20180513180000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.9" start="20180513180000 +0000" stop="20180513210000 +0000">
@@ -1931,40 +1906,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.9" start="20180514131500 +0000" stop="20180514134000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180514134000 +0000" stop="20180514141000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180514141000 +0000" stop="20180514144000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180514144000 +0000" stop="20180514151000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180514151000 +0000" stop="20180514153500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180514153500 +0000" stop="20180514160500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180514160500 +0000" stop="20180514163500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180514163500 +0000" stop="20180514170500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180514170500 +0000" stop="20180514173500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180514131500 +0000" stop="20180514173500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.9" start="20180514173500 +0000" stop="20180514180000 +0000">
@@ -2073,6 +2016,9 @@
     <title>Class Of Mum And Dad</title>
     <desc>New series in which parents go back to school to study the year six curriculum alongside their own kids.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180515093000 +0000" stop="20180515103000 +0000">
     <title>20/20</title>
@@ -2100,40 +2046,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.9" start="20180515131500 +0000" stop="20180515134500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180515134500 +0000" stop="20180515141500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180515141500 +0000" stop="20180515144000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180515144000 +0000" stop="20180515151000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180515151000 +0000" stop="20180515154000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180515154000 +0000" stop="20180515161000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180515161000 +0000" stop="20180515163500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180515163500 +0000" stop="20180515170500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180515170500 +0000" stop="20180515173500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180515131500 +0000" stop="20180515173500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.9" start="20180515173500 +0000" stop="20180515180000 +0000">
@@ -2173,11 +2087,18 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180516010000 +0000" stop="20180516020000 +0000">
+  <programme channel="tv.9" start="20180516010000 +0000" stop="20180516013000 +0000">
     <title>Tiny House Nation</title>
     <desc>John Weisbarth and Zack Giffin travel across America showing off ingenious small spaces and the inventive people who live in them.</desc>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.9" start="20180516013000 +0000" stop="20180516020000 +0000">
+    <title>Rapid Response</title>
+    <desc>The team are called to a drug-fuelled attack on a street; one man's racing heart has a family on edge; and a high speed spin out on a motorway leaves a bride waiting at the altar.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.9" start="20180516020000 +0000" stop="20180516030000 +0000">
@@ -2228,6 +2149,9 @@
     <title>Prince Harry's Story: Four Royal Weddings</title>
     <desc>The world's most eligible bachelor and the events that shaped his life.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180516093500 +0000" stop="20180516103500 +0000">
     <title>Coronation Street</title>
@@ -2260,36 +2184,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.9" start="20180516134000 +0000" stop="20180516141000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180516141000 +0000" stop="20180516144000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180516144000 +0000" stop="20180516151000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180516151000 +0000" stop="20180516154000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180516154000 +0000" stop="20180516161000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180516161000 +0000" stop="20180516163500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180516163500 +0000" stop="20180516170500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180516170500 +0000" stop="20180516173500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180516134000 +0000" stop="20180516173500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.9" start="20180516173500 +0000" stop="20180516180000 +0000">
@@ -2388,6 +2284,9 @@
     <title>Mrs Brown's Boys - Who's A Pretty Mammy?</title>
     <desc>Agnes is excited to throw her annual New Year's Eve party - until her guests start dropping like flies. Will she have to ring in the New Year on her own?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180517090500 +0000" stop="20180517104000 +0000">
     <title>Coronation Street</title>
@@ -2471,7 +2370,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180509173000 +0000" stop="20180509183000 +0000">
+  <programme channel="tv.10" start="20180509173000 +0000" stop="20180509180000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.10" start="20180509180000 +0000" stop="20180509183000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -2605,6 +2508,9 @@
   <programme channel="tv.10" start="20180510040000 +0000" stop="20180510043000 +0000">
     <title>Fanimals</title>
     <desc>Today Wolfgang is on a mission to save our endangered orange fronted parakeets, we show you how to make a pond slime smoothie, and see what your teachers really get up to after school!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180510043000 +0000" stop="20180510050000 +0000">
     <title>Friends</title>
@@ -2922,6 +2828,9 @@
   <programme channel="tv.10" start="20180511053000 +0000" stop="20180511060000 +0000">
     <title>Home And Away</title>
     <desc>Will Justin lose his business? What game is Ebony playing? Will Olivia convince Jasmine to follow her heart before it’s too late?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180511060000 +0000" stop="20180511063000 +0000">
     <title>The Big Bang Theory</title>
@@ -3569,7 +3478,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180513173000 +0000" stop="20180513180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180513180000 +0000" stop="20180513183000 +0000">
@@ -3625,16 +3534,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180513210000 +0000" stop="20180513213000 +0000">
-    <title>Infomercial 0900</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180513213000 +0000" stop="20180513220000 +0000">
+  <programme channel="tv.10" start="20180513210000 +0000" stop="20180513223000 +0000">
     <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180513220000 +0000" stop="20180513223000 +0000">
-    <title>Infomercial 1000</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180513223000 +0000" stop="20180513230000 +0000">
@@ -3675,6 +3576,9 @@
   <programme channel="tv.10" start="20180514023000 +0000" stop="20180514030000 +0000">
     <title>Home And Away</title>
     <desc>Will Justin lose his business? What game is Ebony playing? Will Olivia convince Jasmine to follow her heart before it’s too late?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180514030000 +0000" stop="20180514033000 +0000">
     <title>Shortland Street</title>
@@ -3728,6 +3632,9 @@
   <programme channel="tv.10" start="20180514053000 +0000" stop="20180514060000 +0000">
     <title>Home And Away</title>
     <desc>Raffy is unimpressed by the new foster kid; Olivia pushes Jasmine to make a move on Colby; Justin struggles with the fall out from the accident.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180514060000 +0000" stop="20180514063000 +0000">
     <title>The Big Bang Theory</title>
@@ -3837,11 +3744,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180514134500 +0000" stop="20180514141500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180514141500 +0000" stop="20180514144500 +0000">
+  <programme channel="tv.10" start="20180514134500 +0000" stop="20180514144500 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -3876,12 +3779,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180514173000 +0000" stop="20180514180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180514180000 +0000" stop="20180514183000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.10" start="20180514173000 +0000" stop="20180514183000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180514183000 +0000" stop="20180514185500 +0000">
@@ -3934,7 +3833,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180514210000 +0000" stop="20180514213000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180514213000 +0000" stop="20180514220000 +0000">
@@ -3942,7 +3841,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180514220000 +0000" stop="20180514223000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180514223000 +0000" stop="20180514230000 +0000">
@@ -3983,6 +3882,9 @@
   <programme channel="tv.10" start="20180515023500 +0000" stop="20180515030500 +0000">
     <title>Home And Away</title>
     <desc>Raffy is unimpressed by the new foster kid; Olivia pushes Jasmine to make a move on Colby; Justin struggles with the fall out from the accident.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180515030500 +0000" stop="20180515033500 +0000">
     <title>Shortland Street</title>
@@ -4029,6 +3931,9 @@
   <programme channel="tv.10" start="20180515053000 +0000" stop="20180515060000 +0000">
     <title>Home And Away</title>
     <desc>Marilyn and John face an uphill battle settling Ty into their family; Maggie has a falling out with Ben at work, while her illness continues to loom large; and what is Coco hiding from Ryder?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180515060000 +0000" stop="20180515063000 +0000">
     <title>The Big Bang Theory</title>
@@ -4130,11 +4035,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180515134000 +0000" stop="20180515141000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180515141000 +0000" stop="20180515144000 +0000">
+  <programme channel="tv.10" start="20180515134000 +0000" stop="20180515144000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -4170,7 +4071,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180515173000 +0000" stop="20180515180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180515180000 +0000" stop="20180515183000 +0000">
@@ -4273,6 +4174,9 @@
   <programme channel="tv.10" start="20180516024000 +0000" stop="20180516031000 +0000">
     <title>Home And Away</title>
     <desc>Marilyn and John face an uphill battle settling Ty into their family; Maggie has a falling out with Ben at work, while her illness continues to loom large; and what is Coco hiding from Ryder?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180516031000 +0000" stop="20180516034000 +0000">
     <title>Shortland Street</title>
@@ -4425,11 +4329,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180516134000 +0000" stop="20180516141500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180516141500 +0000" stop="20180516144500 +0000">
+  <programme channel="tv.10" start="20180516134000 +0000" stop="20180516144500 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -4461,12 +4361,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180516173000 +0000" stop="20180516180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180516180000 +0000" stop="20180516183000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.10" start="20180516173000 +0000" stop="20180516183000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180516183000 +0000" stop="20180516185500 +0000">
@@ -4519,7 +4415,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180516210000 +0000" stop="20180516213000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180516213000 +0000" stop="20180516220000 +0000">
@@ -4527,7 +4423,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180516220000 +0000" stop="20180516223000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180516223000 +0000" stop="20180516230000 +0000">
@@ -8955,6 +8851,7 @@
   <programme channel="tv.38" start="20180510093000 +0000" stop="20180510100500 +0000">
     <title>Mrs Brown's Boys - Buckin' Mammy</title>
     <desc>S3 E7 In this Christmas special; Agnes hosts the family pre-christmans party and is cross when nobody will play by the rules in her party games, as usual.</desc>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -9231,21 +9128,21 @@
     <title>Lotto</title>
     <desc></desc>
   </programme>
-  <programme channel="tv.38" start="20180512090500 +0000" stop="20180512093000 +0000">
+  <programme channel="tv.38" start="20180512090500 +0000" stop="20180512092000 +0000">
     <title>Britain's Got Talent Continued</title>
     <desc>Tonight the auditions continue; Simon Cowell, Amanda Holden, Alesha Dixon and David Walliams return to their rightful thrones on the judging panel in the search for the most exciting talent around.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180512093000 +0000" stop="20180512102500 +0000">
+  <programme channel="tv.38" start="20180512092000 +0000" stop="20180512102000 +0000">
     <title>The Hotel Inspector</title>
     <desc>Tonight, Alex Polizzi resorts to drastic measures when she discovers a family business in meltdown. She rigs the hotel with cameras; giving her the chance to see the management, warts and all.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180512102500 +0000" stop="20180512112500 +0000">
+  <programme channel="tv.38" start="20180512102000 +0000" stop="20180512112000 +0000">
     <title>The Secret</title>
     <desc>Final: In the climax of the true-life drama, Colin believes that he will be able to put his evil past behind but soon realises he has yet to fully atone for his crimes.</desc>
     <subtitles type="teletext"/>
@@ -9253,7 +9150,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180512112500 +0000" stop="20180512132000 +0000">
+  <programme channel="tv.38" start="20180512112000 +0000" stop="20180512131500 +0000">
     <title>Sunday Theatre: Venus And Mars</title>
     <desc>A true story: A young detective is brutally attacked and his home burned down. The residents of Palmerston North descend into fear, but as the facts unfold, a bizarre and twisted reality is revealed.</desc>
     <subtitles type="teletext"/>
@@ -9261,7 +9158,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180512132000 +0000" stop="20180512142500 +0000">
+  <programme channel="tv.38" start="20180512131500 +0000" stop="20180512142500 +0000">
     <title>Indian Summers</title>
     <desc>S2 E1 The epic drama picks up in 1935. A terrorist attack against the British Viceroy of India puts Aafrin in the frame, while Cynthia urges Ralph to make a play for the top job.</desc>
     <rating system="Freeview">
@@ -9463,24 +9360,8 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180513163500 +0000" stop="20180513170500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180513170500 +0000" stop="20180513173000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180513173000 +0000" stop="20180513180000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180513180000 +0000" stop="20180513183000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180513183000 +0000" stop="20180513190000 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180513163500 +0000" stop="20180513190000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.38" start="20180513190000 +0000" stop="20180513220000 +0000">
@@ -9617,40 +9498,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.38" start="20180514141500 +0000" stop="20180514144000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180514144000 +0000" stop="20180514151000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180514151000 +0000" stop="20180514154000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180514154000 +0000" stop="20180514161000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180514161000 +0000" stop="20180514163500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180514163500 +0000" stop="20180514170500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180514170500 +0000" stop="20180514173500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180514173500 +0000" stop="20180514180500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180514180500 +0000" stop="20180514183500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180514141500 +0000" stop="20180514183500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.38" start="20180514183500 +0000" stop="20180514190000 +0000">
@@ -9759,6 +9608,9 @@
     <title>Class Of Mum And Dad</title>
     <desc>New series in which parents go back to school to study the year six curriculum alongside their own kids.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180515103000 +0000" stop="20180515113000 +0000">
     <title>20/20</title>
@@ -9786,40 +9638,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.38" start="20180515141500 +0000" stop="20180515144500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180515144500 +0000" stop="20180515151500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180515151500 +0000" stop="20180515154000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180515154000 +0000" stop="20180515161000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180515161000 +0000" stop="20180515164000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180515164000 +0000" stop="20180515171000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180515171000 +0000" stop="20180515173500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180515173500 +0000" stop="20180515180500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180515180500 +0000" stop="20180515183500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180515141500 +0000" stop="20180515183500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.38" start="20180515183500 +0000" stop="20180515190000 +0000">
@@ -9859,11 +9679,18 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180516020000 +0000" stop="20180516030000 +0000">
+  <programme channel="tv.38" start="20180516020000 +0000" stop="20180516023000 +0000">
     <title>Tiny House Nation</title>
     <desc>John Weisbarth and Zack Giffin travel across America showing off ingenious small spaces and the inventive people who live in them.</desc>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.38" start="20180516023000 +0000" stop="20180516030000 +0000">
+    <title>Rapid Response</title>
+    <desc>The team are called to a drug-fuelled attack on a street; one man's racing heart has a family on edge; and a high speed spin out on a motorway leaves a bride waiting at the altar.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.38" start="20180516030000 +0000" stop="20180516040000 +0000">
@@ -9914,6 +9741,9 @@
     <title>Prince Harry's Story: Four Royal Weddings</title>
     <desc>The world's most eligible bachelor and the events that shaped his life.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180516103500 +0000" stop="20180516113500 +0000">
     <title>Coronation Street</title>
@@ -9946,36 +9776,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.38" start="20180516144000 +0000" stop="20180516151000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180516151000 +0000" stop="20180516154000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180516154000 +0000" stop="20180516161000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180516161000 +0000" stop="20180516164000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180516164000 +0000" stop="20180516171000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180516171000 +0000" stop="20180516173500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180516173500 +0000" stop="20180516180500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180516180500 +0000" stop="20180516183500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180516144000 +0000" stop="20180516183500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.38" start="20180516183500 +0000" stop="20180516190000 +0000">
@@ -10074,6 +9876,9 @@
     <title>Mrs Brown's Boys - Who's A Pretty Mammy?</title>
     <desc>Agnes is excited to throw her annual New Year's Eve party - until her guests start dropping like flies. Will she have to ring in the New Year on her own?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180517100500 +0000" stop="20180517114000 +0000">
     <title>Coronation Street</title>
@@ -10155,7 +9960,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180509183000 +0000" stop="20180509193000 +0000">
+  <programme channel="tv.14" start="20180509183000 +0000" stop="20180509190000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.14" start="20180509190000 +0000" stop="20180509193000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -10280,6 +10089,9 @@
   <programme channel="tv.14" start="20180510050000 +0000" stop="20180510053000 +0000">
     <title>Fanimals</title>
     <desc>Today Wolfgang is on a mission to save our endangered orange fronted parakeets, we show you how to make a pond slime smoothie, and see what your teachers really get up to after school!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180510053000 +0000" stop="20180510060000 +0000">
     <title>Friends</title>
@@ -10573,6 +10385,9 @@
   <programme channel="tv.14" start="20180511063000 +0000" stop="20180511070000 +0000">
     <title>Home And Away</title>
     <desc>Will Justin lose his business? What game is Ebony playing? Will Olivia convince Jasmine to follow her heart before it’s too late?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180511070000 +0000" stop="20180511073000 +0000">
     <title>The Big Bang Theory</title>
@@ -11055,6 +10870,9 @@
     <title>Survivor New Zealand</title>
     <desc>Tonight, Chani put their hearts on the line in hopes to break their losing streak. Later, alliances find themselves on shaky ground and a traitor is exposed at tribal council.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180513093000 +0000" stop="20180513120500 +0000">
     <title>Captain America: The Winter Soldier</title>
@@ -11115,7 +10933,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180513183000 +0000" stop="20180513190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180513190000 +0000" stop="20180513193000 +0000">
@@ -11171,16 +10989,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180513220000 +0000" stop="20180513223000 +0000">
-    <title>Infomercial 0900</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180513223000 +0000" stop="20180513230000 +0000">
+  <programme channel="tv.14" start="20180513220000 +0000" stop="20180513233000 +0000">
     <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180513230000 +0000" stop="20180513233000 +0000">
-    <title>Infomercial 1000</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180513233000 +0000" stop="20180514000000 +0000">
@@ -11221,6 +11031,9 @@
   <programme channel="tv.14" start="20180514033000 +0000" stop="20180514040000 +0000">
     <title>Home And Away</title>
     <desc>Will Justin lose his business? What game is Ebony playing? Will Olivia convince Jasmine to follow her heart before it’s too late?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180514040000 +0000" stop="20180514043000 +0000">
     <title>Shortland Street</title>
@@ -11265,6 +11078,9 @@
   <programme channel="tv.14" start="20180514063000 +0000" stop="20180514070000 +0000">
     <title>Home And Away</title>
     <desc>Raffy is unimpressed by the new foster kid; Olivia pushes Jasmine to make a move on Colby; Justin struggles with the fall out from the accident.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180514070000 +0000" stop="20180514073000 +0000">
     <title>The Big Bang Theory</title>
@@ -11353,11 +11169,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180514144500 +0000" stop="20180514151500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180514151500 +0000" stop="20180514154500 +0000">
+  <programme channel="tv.14" start="20180514144500 +0000" stop="20180514154500 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -11389,12 +11201,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180514183000 +0000" stop="20180514190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180514190000 +0000" stop="20180514193000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.14" start="20180514183000 +0000" stop="20180514193000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180514193000 +0000" stop="20180514195500 +0000">
@@ -11447,7 +11255,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180514220000 +0000" stop="20180514223000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180514223000 +0000" stop="20180514230000 +0000">
@@ -11455,7 +11263,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180514230000 +0000" stop="20180514233000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180514233000 +0000" stop="20180515000000 +0000">
@@ -11496,6 +11304,9 @@
   <programme channel="tv.14" start="20180515033500 +0000" stop="20180515040500 +0000">
     <title>Home And Away</title>
     <desc>Raffy is unimpressed by the new foster kid; Olivia pushes Jasmine to make a move on Colby; Justin struggles with the fall out from the accident.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180515040500 +0000" stop="20180515043500 +0000">
     <title>Shortland Street</title>
@@ -11533,6 +11344,9 @@
   <programme channel="tv.14" start="20180515063000 +0000" stop="20180515070000 +0000">
     <title>Home And Away</title>
     <desc>Marilyn and John face an uphill battle settling Ty into their family; Maggie has a falling out with Ben at work, while her illness continues to loom large; and what is Coco hiding from Ryder?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180515070000 +0000" stop="20180515073000 +0000">
     <title>The Big Bang Theory</title>
@@ -11613,11 +11427,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180515144000 +0000" stop="20180515151000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180515151000 +0000" stop="20180515154000 +0000">
+  <programme channel="tv.14" start="20180515144000 +0000" stop="20180515154000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -11650,7 +11460,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180515183000 +0000" stop="20180515190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180515190000 +0000" stop="20180515193000 +0000">
@@ -11753,6 +11563,9 @@
   <programme channel="tv.14" start="20180516034000 +0000" stop="20180516041000 +0000">
     <title>Home And Away</title>
     <desc>Marilyn and John face an uphill battle settling Ty into their family; Maggie has a falling out with Ben at work, while her illness continues to loom large; and what is Coco hiding from Ryder?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180516041000 +0000" stop="20180516044000 +0000">
     <title>Shortland Street</title>
@@ -11872,11 +11685,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180516144000 +0000" stop="20180516151500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180516151500 +0000" stop="20180516154500 +0000">
+  <programme channel="tv.14" start="20180516144000 +0000" stop="20180516154500 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -11905,12 +11714,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180516183000 +0000" stop="20180516190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180516190000 +0000" stop="20180516193000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.14" start="20180516183000 +0000" stop="20180516193000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180516193000 +0000" stop="20180516195500 +0000">
@@ -11963,7 +11768,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180516220000 +0000" stop="20180516223000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180516223000 +0000" stop="20180516230000 +0000">
@@ -11971,7 +11776,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180516230000 +0000" stop="20180516233000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180516233000 +0000" stop="20180517000000 +0000">
@@ -19540,6 +19345,9 @@
     <title>Survivor NZ Encore</title>
     <desc>Encore, Chani put their hearts on the line in hopes to break their losing streak. Later, alliances find themselves on shaky ground and a traitor is exposed at tribal council.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180516103000 +0000" stop="20180516112500 +0000">
     <title>New: Gotham</title>
