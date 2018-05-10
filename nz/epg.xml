@@ -165,11 +165,10 @@
     <display-name>Redbull TV</display-name>
     <icon src=""/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180510055328 +0000" stop="20180510064005 +0000">
-    <title>Breaking the Day  S1E2</title>
-    <desc>Freediving saved Stig Pryds's life. Now he's preparing to put his life on the line for his deepest dive yet. </desc>
-    <sub-title>Free Diver</sub-title>
-  </programme>
+  <channel id="redbull.tv">
+    <display-name>Redbull TV</display-name>
+    <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
+  </channel>
   <programme channel="tv.redbull.tv" start="20180510064005 +0000" stop="20180510073140 +0000">
     <title>Kanye West</title>
     <desc>One of the most influential musicians of the 21st century performs an exclusive set backed by an orchestra.</desc>
