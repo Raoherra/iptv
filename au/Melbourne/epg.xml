@@ -10906,17 +10906,17 @@
     </rating>
   </programme>
   <programme channel="tv.101204300430" start="20180512020000 +0000" stop="20180512023000 +0000">
-    <title>Destination WA</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300430" start="20180512020000 +0000" stop="20180512023000 +0000">
     <title>Cybershack</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300430" start="20180512020000 +0000" stop="20180512023000 +0000">
+    <title>Destination WA</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204300430" start="20180512023000 +0000" stop="20180512030000 +0000">
@@ -12629,7 +12629,6 @@
   </programme>
   <programme channel="tv.101204300433" start="20180513180000 +0000" stop="20180513183000 +0000">
     <title>Postcards</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -12703,7 +12702,6 @@
   </programme>
   <programme channel="tv.101204300433" start="20180514023000 +0000" stop="20180514030000 +0000">
     <title>Postcards</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -14020,21 +14018,20 @@
     </rating>
   </programme>
   <programme channel="tv.101204300436" start="20180513170000 +0000" stop="20180513180000 +0000">
-    <title>Danger Man</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300436" start="20180513170000 +0000" stop="20180513180000 +0000">
     <title>Law &amp; Order: Special Victims Unit</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101204300436" start="20180513170000 +0000" stop="20180513180000 +0000">
+    <title>Danger Man</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204300436" start="20180513180000 +0000" stop="20180513183000 +0000">
     <title>Getaway</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -15712,6 +15709,7 @@
   </programme>
   <programme channel="tv.101204300437" start="20180513220000 +0000" stop="20180513223000 +0000">
     <title>Brainbuzz</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>C</value>
     </rating>
@@ -17011,14 +17009,21 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180511004500 +0000" stop="20180511014500 +0000">
+  <programme channel="tv.101305020528" start="20180511004500 +0000" stop="20180511010000 +0000">
+    <title>Trackwork</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180511010000 +0000" stop="20180511020000 +0000">
     <title>Get On!</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180511014500 +0000" stop="20180511071500 +0000">
+  <programme channel="tv.101305020528" start="20180511020000 +0000" stop="20180511071500 +0000">
     <title>Racing Live: Geelong/Naracoorte</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -18576,7 +18581,11 @@
     </rating>
   </programme>
   <programme channel="tv.101305030530" start="20180510020000 +0000" stop="20180510031500 +0000">
-    <title>To Be Advised</title>
+    <title>House Rules</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101305030530" start="20180510031500 +0000" stop="20180510034500 +0000">
     <title>Surf Patrol</title>
@@ -19079,13 +19088,22 @@
     </rating>
   </programme>
   <programme channel="tv.101305030530" start="20180513160000 +0000" stop="20180513163000 +0000">
-    <title>To Be Advised</title>
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305030530" start="20180513163000 +0000" stop="20180513170000 +0000">
-    <title>To Be Advised</title>
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305030530" start="20180513170000 +0000" stop="20180513173000 +0000">
-    <title>To Be Advised</title>
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305030530" start="20180513173000 +0000" stop="20180513175900 +0000">
     <title>Harry's Practice</title>
@@ -19181,35 +19199,35 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180514093100 +0000" stop="20180514104800 +0000">
+  <programme channel="tv.101305030530" start="20180514093100 +0000" stop="20180514104500 +0000">
     <title>House Rules</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180514104800 +0000" stop="20180514114900 +0000">
+  <programme channel="tv.101305030530" start="20180514104500 +0000" stop="20180514114500 +0000">
     <title>The Mentor</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180514114900 +0000" stop="20180514124800 +0000">
+  <programme channel="tv.101305030530" start="20180514114500 +0000" stop="20180514124500 +0000">
     <title>The Resident</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180514124800 +0000" stop="20180514134700 +0000">
+  <programme channel="tv.101305030530" start="20180514124500 +0000" stop="20180514134500 +0000">
     <title>The Blacklist</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180514134700 +0000" stop="20180514144300 +0000">
+  <programme channel="tv.101305030530" start="20180514134500 +0000" stop="20180514144300 +0000">
     <title>Blindspot</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -20499,7 +20517,10 @@
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20180513200000 +0000" stop="20180513203200 +0000">
-    <title>To Be Advised</title>
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305030532" start="20180513203200 +0000" stop="20180513205900 +0000">
     <title>Harry's Practice</title>
@@ -20543,27 +20564,27 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20180513232900 +0000" stop="20180514003000 +0000">
+  <programme channel="tv.101305030532" start="20180513232900 +0000" stop="20180514003300 +0000">
     <title>Auction Squad</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20180514003000 +0000" stop="20180514013100 +0000">
+  <programme channel="tv.101305030532" start="20180514003300 +0000" stop="20180514013400 +0000">
     <title>Mighty Ships</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20180514013100 +0000" stop="20180514020000 +0000">
+  <programme channel="tv.101305030532" start="20180514013400 +0000" stop="20180514020200 +0000">
     <title>Room for Improvement</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20180514020000 +0000" stop="20180514030000 +0000">
+  <programme channel="tv.101305030532" start="20180514020200 +0000" stop="20180514030000 +0000">
     <title>Harry's Practice</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -20616,13 +20637,13 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20180514093000 +0000" stop="20180514103400 +0000">
+  <programme channel="tv.101305030532" start="20180514093000 +0000" stop="20180514103500 +0000">
     <title>Doc Martin</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20180514103400 +0000" stop="20180514123700 +0000">
+  <programme channel="tv.101305030532" start="20180514103500 +0000" stop="20180514123700 +0000">
     <title>Lewis</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -21994,7 +22015,10 @@
     </rating>
   </programme>
   <programme channel="tv.101305030533" start="20180513200000 +0000" stop="20180513203000 +0000">
-    <title>To Be Advised</title>
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305030533" start="20180513203000 +0000" stop="20180513213000 +0000">
     <title>Mark Berg's Fishing Addiction</title>
@@ -22008,19 +22032,19 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180513222900 +0000" stop="20180513232900 +0000">
+  <programme channel="tv.101305030533" start="20180513222900 +0000" stop="20180513232800 +0000">
     <title>Big Angry Fish</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180513232900 +0000" stop="20180514003000 +0000">
+  <programme channel="tv.101305030533" start="20180513232800 +0000" stop="20180514002900 +0000">
     <title>Big Angry Fish</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180514003000 +0000" stop="20180514005600 +0000">
+  <programme channel="tv.101305030533" start="20180514002900 +0000" stop="20180514005600 +0000">
     <title>Counting Cars</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -37156,26 +37180,6 @@
     <rating system="Freeview">
       <value>NC</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180510005903 +0000" stop="20180510011421 +0000">
-    <title>The Way of the Wildcard S1E1</title>
-    <desc>While in prison something happened that changed John McAvoy's life and transformed his mindset.</desc>
-    <sub-title>John McAvoy: The Ironman Set Free</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180510011421 +0000" stop="20180510011754 +0000">
-    <title>Wings for Life World Run 2017</title>
-    <desc>Everyday heroes and elite running champions came together for the fourth annual Wings for Life World Run.</desc>
-    <sub-title>Race Recap 2017</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180510011754 +0000" stop="20180510013918 +0000">
-    <title>Reel Rock S3E4</title>
-    <desc>Brette Harrington is on a global quest to elevate her climbing level which takes her from Canada to Patagonia.</desc>
-    <sub-title>Brette</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180510013918 +0000" stop="20180510020500 +0000">
-    <title>Explorers: Adventures of the Century S4E9</title>
-    <desc>David Lama attempts to be the first person to free climb Cerro Torre, the mountain that changed his life.</desc>
-    <sub-title>Cerro Torre</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180510020500 +0000" stop="20180510023315 +0000">
     <title>Red Bull Trans-Siberian Extreme 2016</title>
