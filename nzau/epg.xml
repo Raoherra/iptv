@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180511034203 +0000" stop="20180511050038 +0000">
-    <title>Goodnight Brooklyn</title>
-    <desc>Follow the founders of New York’s underground music and art haven Death By Audio during its final days.</desc>
-    <sub-title>The Story of Death By Audio</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180511050038 +0000" stop="20180511054402 +0000">
     <title>Life Cycles</title>
     <desc>Mountain bikes provide the vehicle for exploring ideas of creation and destruction in dramatic landscapes.</desc>
@@ -1611,7 +1606,7 @@
   </programme>
   <programme channel="tv.9" start="20180514073000 +0000" stop="20180514080000 +0000">
     <title>Fair Go</title>
-    <desc>Join Pippa Wetzell, Hadyn Jones and the Fair Go team as they stand up for the underdogs and consumer rights!</desc>
+    <desc>Tonight on Fair Go, a kid-preneur could be hoodwinking supporters and are low-calorie, low fat and low sugar foods indicative of a product's actual nutritional goodness, quality and healthfulness?</desc>
   </programme>
   <programme channel="tv.9" start="20180514080000 +0000" stop="20180514083000 +0000">
     <title>Mind Over Money With Nigel Latta</title>
@@ -1815,6 +1810,9 @@
   <programme channel="tv.9" start="20180515210000 +0000" stop="20180515220000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180515220000 +0000" stop="20180515230000 +0000">
     <title>Tipping Point</title>
@@ -1858,6 +1856,9 @@
   <programme channel="tv.9" start="20180516020000 +0000" stop="20180516030000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180516030000 +0000" stop="20180516040000 +0000">
     <title>Tipping Point</title>
@@ -2993,6 +2994,9 @@
     <title>Survivor New Zealand</title>
     <desc>Tonight, Chani put their hearts on the line in hopes to break their losing streak. Later, alliances find themselves on shaky ground and a traitor is exposed at tribal council.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180513083000 +0000" stop="20180513110500 +0000">
     <title>Captain America: The Winter Soldier</title>
@@ -3753,6 +3757,9 @@
   <programme channel="tv.10" start="20180516011000 +0000" stop="20180516021000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180516021000 +0000" stop="20180516024000 +0000">
     <title>Home Improvement</title>
@@ -3785,6 +3792,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180516040000 +0000" stop="20180516043000 +0000">
     <title>Fanimals</title>
@@ -3897,6 +3907,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180516123500 +0000" stop="20180516132000 +0000">
     <title>Private Practice</title>
@@ -3943,6 +3956,9 @@
   <programme channel="tv.10" start="20180516162000 +0000" stop="20180516170500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180516170500 +0000" stop="20180516173000 +0000">
     <title>Neighbours</title>
@@ -4327,6 +4343,9 @@
   <programme channel="tv.10" start="20180518010000 +0000" stop="20180518020000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180518020000 +0000" stop="20180518023000 +0000">
     <title>Home Improvement</title>
@@ -9160,7 +9179,7 @@
   </programme>
   <programme channel="tv.38" start="20180514083000 +0000" stop="20180514090000 +0000">
     <title>Fair Go</title>
-    <desc>Join Pippa Wetzell, Hadyn Jones and the Fair Go team as they stand up for the underdogs and consumer rights!</desc>
+    <desc>Tonight on Fair Go, a kid-preneur could be hoodwinking supporters and are low-calorie, low fat and low sugar foods indicative of a product's actual nutritional goodness, quality and healthfulness?</desc>
   </programme>
   <programme channel="tv.38" start="20180514090000 +0000" stop="20180514093000 +0000">
     <title>Mind Over Money With Nigel Latta</title>
@@ -9364,6 +9383,9 @@
   <programme channel="tv.38" start="20180515220000 +0000" stop="20180515230000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180515230000 +0000" stop="20180516000000 +0000">
     <title>Tipping Point</title>
@@ -9407,6 +9429,9 @@
   <programme channel="tv.38" start="20180516030000 +0000" stop="20180516040000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180516040000 +0000" stop="20180516050000 +0000">
     <title>Tipping Point</title>
@@ -11122,6 +11147,9 @@
   <programme channel="tv.14" start="20180516021000 +0000" stop="20180516031000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180516031000 +0000" stop="20180516034000 +0000">
     <title>Home Improvement</title>
@@ -11148,6 +11176,9 @@
   <programme channel="tv.14" start="20180516044000 +0000" stop="20180516050000 +0000">
     <title>K.C. Undercover</title>
     <desc>An outspoken and confident technology wiz and skilled black belt discovers that both her parents are spies and expect her to follow in their footsteps.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180516050000 +0000" stop="20180516053000 +0000">
     <title>Fanimals</title>
@@ -11239,6 +11270,9 @@
   <programme channel="tv.14" start="20180516124500 +0000" stop="20180516133500 +0000">
     <title>Clique</title>
     <desc>S1 E5 Holly is done with being obedient, and as she draws her new friends closer to her, they conspire to drag the awful truth out into the light of day.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180516133500 +0000" stop="20180516142000 +0000">
     <title>Private Practice</title>
@@ -11276,6 +11310,9 @@
   <programme channel="tv.14" start="20180516172000 +0000" stop="20180516180500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180516180500 +0000" stop="20180516183000 +0000">
     <title>Neighbours</title>
@@ -11639,6 +11676,9 @@
   <programme channel="tv.14" start="20180518020000 +0000" stop="20180518030000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180518030000 +0000" stop="20180518033000 +0000">
     <title>Home Improvement</title>
@@ -18884,6 +18924,9 @@
   <programme channel="tv.55" start="20180514080000 +0000" stop="20180514083000 +0000">
     <title>New: Family Guy</title>
     <desc>Quagmire’s most treasured body part gets cut off in a freak accident and he is forced to learn how to live without it.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180514083000 +0000" stop="20180514090000 +0000">
     <title>South Park</title>
@@ -19011,17 +19054,21 @@
     <title>DUKE Back in the Future</title>
     <desc>We'll catch you later on DUKE.</desc>
   </programme>
-  <programme channel="tv.55" start="20180515180000 +0000" stop="20180515231000 +0000">
+  <programme channel="tv.55" start="20180515180000 +0000" stop="20180515210500 +0000">
     <title>On DUKE today...</title>
     <desc>Here's what's on DUKE today.</desc>
   </programme>
-  <programme channel="tv.55" start="20180515231000 +0000" stop="20180516014000 +0000">
+  <programme channel="tv.55" start="20180515210500 +0000" stop="20180515233500 +0000">
     <title>AFL- Fremantle v St Kilda</title>
     <desc>Replay of Saturday night’s match as Fremantle host St Kilda from Optus Stadium in Perth.</desc>
   </programme>
-  <programme channel="tv.55" start="20180516014000 +0000" stop="20180516033000 +0000">
+  <programme channel="tv.55" start="20180515233500 +0000" stop="20180516012500 +0000">
     <title>Bundesliga Replay</title>
     <desc>Replay of Sunday morning’s match as Bayern Munich host Stuttgart in the final game of the season as Bayern are crowned league champions for the 29th time.</desc>
+  </programme>
+  <programme channel="tv.55" start="20180516012500 +0000" stop="20180516033000 +0000">
+    <title>NBA Conference Finals 1</title>
+    <desc>Coverage of the opening round of the Conference Finals.</desc>
   </programme>
   <programme channel="tv.55" start="20180516033000 +0000" stop="20180516043000 +0000">
     <title>Mythbusters</title>
@@ -19229,8 +19276,8 @@
     <desc>Replay of Sunday’s match as Collingwood host Geelong from the MCG in Melbourne.</desc>
   </programme>
   <programme channel="tv.55" start="20180518012500 +0000" stop="20180518033000 +0000">
-    <title>NBA Conference Finals</title>
-    <desc>Coverage of the opening round of the Conference Finals.</desc>
+    <title>NBA Conference Finals 2</title>
+    <desc>Coverage of the second match from the Western Conference Finals – teams to be confirmed.</desc>
   </programme>
   <programme channel="tv.55" start="20180518033000 +0000" stop="20180518043000 +0000">
     <title>Mythbusters</title>
@@ -43465,7 +43512,7 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180513043000 +0000" stop="20180513050000 +0000">
-    <title>The World This Week</title>
+    <title>Australian Story</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -74470,8 +74517,8 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180515063500 +0000" stop="20180515064000 +0000">
-    <title>365: Every Day Documentaries</title>
+  <programme channel="tv.320203000302" start="20180515063500 +0000" stop="20180515070000 +0000">
+    <title>VICE World of Sports</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
