@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180512030551 +0000" stop="20180512050112 +0000">
-    <title>Thundercloud</title>
-    <desc>The story of Cloudbreak, one of the most revered waves in surfing, which changed the big wave scene forever.</desc>
-    <sub-title>The History of Surfing's Perfect Wave</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180512050112 +0000" stop="20180512055802 +0000">
     <title>Surfers' Blood</title>
     <desc>This film tells the universal story of individuals who share deep bloodlines connected to the sea.</desc>
@@ -4784,6 +4779,9 @@
     <title>Survivor New Zealand</title>
     <desc>Tonight, Chani put their hearts on the line in hopes to break their losing streak. Later, alliances find themselves on shaky ground and a traitor is exposed at tribal council.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180519020500 +0000" stop="20180519030500 +0000">
     <title>The 100</title>
@@ -63002,8 +63000,8 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180517080200 +0000" stop="20180517083000 +0000">
-    <title>Bloopers</title>
+  <programme channel="tv.101305020523" start="20180517080200 +0000" stop="20180517090000 +0000">
+    <title>American Pickers</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -74169,8 +74167,8 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180515063500 +0000" stop="20180515070000 +0000">
-    <title>VICE World of Sports</title>
+  <programme channel="tv.320203000302" start="20180515063500 +0000" stop="20180515064000 +0000">
+    <title>365: Every Day Documentaries</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
