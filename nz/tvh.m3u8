@@ -106,7 +106,7 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/radio.ih.7756.aac -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7756 -f mpegts pipe:1
 
 #EXTINF:-1 tvg-name="020" tvg-id="radio.ih.7814" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7814.png" radio="true",Our Lounge
-pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/radio.ih.7814.aac -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7814 -f mpegts pipe:1
+pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/radio.ih.7814 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7814 -f mpegts pipe:1
 
 #EXTINF:-1 tvg-name="021" tvg-id="radio.ih.6188" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6188.png" radio="true",Newstalk ZB Wellington
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/radio.ih.6188.aac -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6188 -f mpegts pipe:1
