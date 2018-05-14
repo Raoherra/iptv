@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180514053257 +0000" stop="20180514064533 +0000">
-    <title>Pretty Sweet</title>
-    <desc>Skateboarding's two hottest teams, Girl and Chocolate, combine forces to deliver a blockbuster skate movie.</desc>
-    <sub-title>A Girl and Chocolate Skateboard Film</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180514064533 +0000" stop="20180514080525 +0000">
     <title>Goodnight Brooklyn</title>
     <desc>Follow the founders of New York’s underground music and art haven Death By Audio during its final days.</desc>
@@ -4439,7 +4434,7 @@
     <desc/>
   </programme>
   <programme channel="tv.11" start="20180513233000 +0000" stop="20180514000000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -4453,7 +4448,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180514010000 +0000" stop="20180514023000 +0000">
-    <title>Dancing With The Stars</title>
+    <title>Dancing With The Stars (Encore)</title>
     <desc>New Episode. After Gilda's elimination last week, reality has set in for our couples. Seven couples attempt to impress the judges and you at home with their dances.</desc>
   </programme>
   <programme channel="tv.11" start="20180514023000 +0000" stop="20180514030000 +0000">
@@ -4673,6 +4668,9 @@
   <programme channel="tv.11" start="20180515105500 +0000" stop="20180515115000 +0000">
     <title>The Blacklist</title>
     <desc>New Episode. When Samar lands in the crosshairs of an unconventional Blacklister, Aram and the Task Force spring into action to find her before it's too late. S5 Ep21</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -5272,6 +5270,9 @@
   <programme channel="tv.11" start="20180520083000 +0000" stop="20180520113000 +0000">
     <title>Spectre</title>
     <desc>A cryptic message from Bond's past sends him on a trail to uncover a sinister organisation, while M battles political forces to keep the secret service alive. Starring Daniel Craig. (2015)</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
   </programme>
   <programme channel="tv.11" start="20180520113000 +0000" stop="20180520122500 +0000">
     <title>Chicago Med</title>
@@ -5879,6 +5880,9 @@
   <programme channel="tv.12" start="20180516093000 +0000" stop="20180516103300 +0000">
     <title>Vanderpump Rules</title>
     <desc>The three-part reunion starts off with a bang as host Andy Cohen uncovers the real stories behind Jax cheating, the rumor that James slept with his best friend, and the status of Stassi's relationship</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180516103300 +0000" stop="20180516103500 +0000">
     <title>The Dish</title>
@@ -5965,6 +5969,9 @@
   <programme channel="tv.12" start="20180517013000 +0000" stop="20180517023000 +0000">
     <title>Vanderpump Rules</title>
     <desc>The three-part reunion starts off with a bang as host Andy Cohen uncovers the real stories behind Jax cheating, the rumor that James slept with his best friend, and the status of Stassi's relationship</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180517023000 +0000" stop="20180517032800 +0000">
     <title>Love After Lockup</title>
@@ -11704,7 +11711,7 @@
     <desc/>
   </programme>
   <programme channel="tv.27" start="20180514003000 +0000" stop="20180514010000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -11718,7 +11725,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180514020000 +0000" stop="20180514033000 +0000">
-    <title>Dancing With The Stars</title>
+    <title>Dancing With The Stars (Encore)</title>
     <desc>New Episode. After Gilda's elimination last week, reality has set in for our couples. Seven couples attempt to impress the judges and you at home with their dances.</desc>
   </programme>
   <programme channel="tv.27" start="20180514033000 +0000" stop="20180514040000 +0000">
@@ -13093,6 +13100,9 @@
   <programme channel="tv.30" start="20180516103000 +0000" stop="20180516113300 +0000">
     <title>Vanderpump Rules</title>
     <desc>The three-part reunion starts off with a bang as host Andy Cohen uncovers the real stories behind Jax cheating, the rumor that James slept with his best friend, and the status of Stassi's relationship</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180516113300 +0000" stop="20180516113500 +0000">
     <title>The Dish</title>
@@ -13179,6 +13189,9 @@
   <programme channel="tv.30" start="20180517023000 +0000" stop="20180517033000 +0000">
     <title>Vanderpump Rules</title>
     <desc>The three-part reunion starts off with a bang as host Andy Cohen uncovers the real stories behind Jax cheating, the rumor that James slept with his best friend, and the status of Stassi's relationship</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180517033000 +0000" stop="20180517042800 +0000">
     <title>Love After Lockup</title>
@@ -23751,7 +23764,7 @@
   </programme>
   <programme channel="tv.51" start="20180514210000 +0000" stop="20180514220000 +0000">
     <title>Top 10</title>
-    <desc>Our Top 10 favourite bands who aren't bands anymore :(</desc>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - NZ Artists We Love</desc>
   </programme>
   <programme channel="tv.51" start="20180514220000 +0000" stop="20180515000000 +0000">
     <title>All The Hits</title>
@@ -23798,12 +23811,12 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180515073000 +0000" stop="20180515080000 +0000">
-    <title>This vs That 96</title>
-    <desc/>
+    <title>This vs That</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Rihnna vs Beyonce</desc>
   </programme>
   <programme channel="tv.51" start="20180515080000 +0000" stop="20180515090000 +0000">
-    <title>Top 10 96</title>
-    <desc/>
+    <title>Top 10</title>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - NZ Artists We Love</desc>
   </programme>
   <programme channel="tv.51" start="20180515090000 +0000" stop="20180515103000 +0000">
     <title>All The Hits</title>
@@ -23841,8 +23854,8 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180515210000 +0000" stop="20180515220000 +0000">
-    <title>Top 10 98</title>
-    <desc/>
+    <title>Top 10</title>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Filmed In NZ</desc>
   </programme>
   <programme channel="tv.51" start="20180515220000 +0000" stop="20180516000000 +0000">
     <title>All The Hits</title>
@@ -23889,12 +23902,12 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180516073000 +0000" stop="20180516080000 +0000">
-    <title>This vs That 97</title>
-    <desc/>
+    <title>This vs That</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Taylor Swift vs Katy Perry</desc>
   </programme>
   <programme channel="tv.51" start="20180516080000 +0000" stop="20180516090000 +0000">
     <title>Top 10</title>
-    <desc>Our Top 10 favourite bands who aren't bands anymore :(</desc>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Filmed In NZ</desc>
   </programme>
   <programme channel="tv.51" start="20180516090000 +0000" stop="20180516103000 +0000">
     <title>All The Hits</title>
@@ -23932,8 +23945,8 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180516210000 +0000" stop="20180516220000 +0000">
-    <title>Top 10 99</title>
-    <desc/>
+    <title>Top 10</title>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - NZ Artists We Love</desc>
   </programme>
   <programme channel="tv.51" start="20180516220000 +0000" stop="20180517000000 +0000">
     <title>All The Hits</title>
@@ -23980,12 +23993,12 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180517073000 +0000" stop="20180517080000 +0000">
-    <title>This vs That 98</title>
-    <desc/>
+    <title>Calvin Harris vs David Guetta</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Calvin Harris vs David Guetta</desc>
   </programme>
   <programme channel="tv.51" start="20180517080000 +0000" stop="20180517090000 +0000">
-    <title>Top 10 98</title>
-    <desc/>
+    <title>Top 10</title>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - NZ Artists We Love</desc>
   </programme>
   <programme channel="tv.51" start="20180517090000 +0000" stop="20180517103000 +0000">
     <title>All The Hits</title>
@@ -24024,7 +24037,7 @@
   </programme>
   <programme channel="tv.51" start="20180517210000 +0000" stop="20180517220000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Justin Timberlake</desc>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Filmed In NZ</desc>
   </programme>
   <programme channel="tv.51" start="20180517220000 +0000" stop="20180518000000 +0000">
     <title>All The Hits</title>
@@ -24071,12 +24084,12 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180518073000 +0000" stop="20180518080000 +0000">
-    <title>This vs That 99</title>
-    <desc/>
+    <title>Men vs Women</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Men vs Women</desc>
   </programme>
   <programme channel="tv.51" start="20180518080000 +0000" stop="20180518090000 +0000">
-    <title>Top 10 99</title>
-    <desc/>
+    <title>Top 10</title>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Filmed In NZ</desc>
   </programme>
   <programme channel="tv.51" start="20180518090000 +0000" stop="20180518103000 +0000">
     <title>All The Hits</title>
@@ -24313,7 +24326,7 @@
   </programme>
   <programme channel="tv.51" start="20180521080000 +0000" stop="20180521090000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Justin Timberlake</desc>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Dance Classics</desc>
   </programme>
   <programme channel="tv.51" start="20180521090000 +0000" stop="20180521103000 +0000">
     <title>All The Hits</title>
@@ -31048,9 +31061,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180518010000 +0000" stop="20180518013000 +0000">
+  <programme channel="tv.56" start="20180518010000 +0000" stop="20180518012000 +0000">
     <title>Stupid Money</title>
     <desc>Most of us would love to have more money, but sometimes we make stupid decisions with it. Join the team to unpack how to stop making stupid decisions and be smarter with your money.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180518012000 +0000" stop="20180518013000 +0000">
+    <title>Let's Pray</title>
+    <desc>Jeremy Anderson, the son of a pastor, found himself on a destructive path of drug abuse, partying, and promiscuity; but his father never stopped praying for him.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -31188,14 +31208,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180518130000 +0000" stop="20180518140500 +0000">
+  <programme channel="tv.56" start="20180518130000 +0000" stop="20180518140000 +0000">
     <title>The Shepherd King</title>
     <desc>Few Old Testament characters have had as much impact on the modern Christian faith as David, the beloved shepherd-king of Israel. His story still has amazing power to transform our walk with God</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180518140500 +0000" stop="20180518143000 +0000">
+  <programme channel="tv.56" start="20180518140000 +0000" stop="20180518143000 +0000">
     <title>Lifestyle Magazine</title>
     <desc>Gastric bypass and laparoscopic surgeries are becoming more common to help people lose large amounts of weight. Dr. Joshua Long joins us to take the mystery out of these procedures in this episode.</desc>
     <rating system="Freeview">
@@ -42810,8 +42830,8 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180514151500 +0000" stop="20180514160000 +0000">
-    <title>Four Corners</title>
+  <programme channel="tv.101002210220" start="20180514151500 +0000" stop="20180514153200 +0000">
+    <title>The Business</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -68251,11 +68271,7 @@
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20180514025800 +0000" stop="20180514043800 +0000">
-    <title>MasterChef Australia</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
+    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101406020625" start="20180514043800 +0000" stop="20180514045900 +0000">
     <title>Entertainment Tonight</title>
@@ -73599,8 +73615,8 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180515063500 +0000" stop="20180515070000 +0000">
-    <title>VICE World of Sports</title>
+  <programme channel="tv.320203000302" start="20180515063500 +0000" stop="20180515064000 +0000">
+    <title>365: Every Day Documentaries</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
