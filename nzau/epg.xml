@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180515010152 +0000" stop="20180515015710 +0000">
-    <title>Red Bull Air Race 2018</title>
-    <desc>Watch the full recap from an incredible second stop of the Red Bull Air Race 2018 in Cannes, France. </desc>
-    <sub-title>Recap: Cannes</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180515015710 +0000" stop="20180515024332 +0000">
     <title>Breaking the Day  S1E1</title>
     <desc>Test pilot Elliot Seguin must decide if he should build and fly an experimental plane as an expectant father. </desc>
@@ -43240,8 +43235,8 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180514151500 +0000" stop="20180514160000 +0000">
-    <title>Four Corners</title>
+  <programme channel="tv.101002210220" start="20180514151500 +0000" stop="20180514153200 +0000">
+    <title>The Business</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -54337,6 +54332,7 @@
   </programme>
   <programme channel="tv.101204200421" start="20180519193000 +0000" stop="20180519200000 +0000">
     <title>Wesley Impact</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -55746,6 +55742,7 @@
   </programme>
   <programme channel="tv.101204200424" start="20180519170000 +0000" stop="20180519180000 +0000">
     <title>Botched</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -58749,7 +58746,7 @@
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180519090000 +0000" stop="20180519110000 +0000">
-    <title>Journey 2: The Mysterious Island</title>
+    <title>The Lego Movie</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -58976,6 +58973,7 @@
   </programme>
   <programme channel="tv.101204200428" start="20180520100000 +0000" stop="20180520103000 +0000">
     <title>Young Sheldon</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -59111,6 +59109,7 @@
   </programme>
   <programme channel="tv.101204200428" start="20180520220000 +0000" stop="20180520223000 +0000">
     <title>Creature Mania</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>C</value>
     </rating>
@@ -59369,6 +59368,7 @@
   </programme>
   <programme channel="tv.101204200428" start="20180521220000 +0000" stop="20180521223000 +0000">
     <title>Creature Mania</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>C</value>
     </rating>
@@ -63755,9 +63755,8 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20180515090300 +0000" stop="20180515093400 +0000">
-    <title>Seinfeld</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020525" start="20180515090300 +0000" stop="20180515093200 +0000">
+    <title>How I Met Your Mother</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -66293,7 +66292,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180519012500 +0000" stop="20180519071500 +0000">
-    <title>Racing Live: Flem/Wodonga/Morph</title>
+    <title>Racing Live: Flem/Wodonga/Morph/Port A.</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -66370,7 +66369,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180519123000 +0000" stop="20180519130000 +0000">
-    <title>Raceday Review - Morphettville</title>
+    <title>Raceday Review - Port Augusta</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -66390,50 +66389,50 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180519140000 +0000" stop="20180519141500 +0000">
-    <title>Behind the Scenes</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180519141500 +0000" stop="20180519150000 +0000">
-    <title>Raceday Review - Flemington</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180519150000 +0000" stop="20180519153000 +0000">
+  <programme channel="tv.101305020528" start="20180519140000 +0000" stop="20180519143000 +0000">
     <title>Raceday Review - Wodonga</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180519153000 +0000" stop="20180519160000 +0000">
+  <programme channel="tv.101305020528" start="20180519143000 +0000" stop="20180519151500 +0000">
+    <title>Raceday Review - Flemington</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180519151500 +0000" stop="20180519154500 +0000">
+    <title>Raceday Review - Port Augusta</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180519154500 +0000" stop="20180519161500 +0000">
     <title>Raceday Review - Morphettville</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180519160000 +0000" stop="20180519164500 +0000">
+  <programme channel="tv.101305020528" start="20180519161500 +0000" stop="20180519170000 +0000">
     <title>Raceday Review - Flemington</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180519164500 +0000" stop="20180519171500 +0000">
-    <title>Raceday Review - Wodonga</title>
+  <programme channel="tv.101305020528" start="20180519170000 +0000" stop="20180519173000 +0000">
+    <title>Raceday Review - Port Augusta</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180519171500 +0000" stop="20180519174500 +0000">
-    <title>After The Last</title>
+  <programme channel="tv.101305020528" start="20180519173000 +0000" stop="20180519174500 +0000">
+    <title>At A Glance</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -66461,21 +66460,21 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180519193000 +0000" stop="20180519200000 +0000">
-    <title>Raceday Review - Morphettville</title>
+    <title>Raceday Review - Port Augusta</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180519200000 +0000" stop="20180519201500 +0000">
-    <title>Champions - Elvstroem</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180519201500 +0000" stop="20180519210000 +0000">
+  <programme channel="tv.101305020528" start="20180519200000 +0000" stop="20180519204500 +0000">
     <title>Raceday Review - Flemington</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180519204500 +0000" stop="20180519210000 +0000">
+    <title>At A Glance</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -66488,63 +66487,63 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180519213000 +0000" stop="20180519220000 +0000">
-    <title>Raceday Review - Morphettville</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180519220000 +0000" stop="20180519223000 +0000">
-    <title>Raceday Review - Wodonga</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180519223000 +0000" stop="20180519230000 +0000">
-    <title>After The Last</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180519230000 +0000" stop="20180519233000 +0000">
-    <title>Raceday Review - Morphettville</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180519233000 +0000" stop="20180520001500 +0000">
+  <programme channel="tv.101305020528" start="20180519213000 +0000" stop="20180519221500 +0000">
     <title>Raceday Review - Flemington</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180520001500 +0000" stop="20180520004500 +0000">
-    <title>Raceday Review - Wodonga</title>
+  <programme channel="tv.101305020528" start="20180519221500 +0000" stop="20180519223000 +0000">
+    <title>At A Glance</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180520004500 +0000" stop="20180520011500 +0000">
+  <programme channel="tv.101305020528" start="20180519223000 +0000" stop="20180519230000 +0000">
+    <title>Raceday Review - Morphettville</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180519230000 +0000" stop="20180519233000 +0000">
+    <title>Raceday Review - Port Augusta</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180519233000 +0000" stop="20180519234500 +0000">
+    <title>At A Glance</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180519234500 +0000" stop="20180520003000 +0000">
+    <title>Raceday Review - Flemington</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180520003000 +0000" stop="20180520010000 +0000">
+    <title>Raceday Review - Morphettville</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180520010000 +0000" stop="20180520013000 +0000">
     <title>Ten of the Best - Sprinters</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180520011500 +0000" stop="20180520014500 +0000">
-    <title>After The Last</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180520014500 +0000" stop="20180520100000 +0000">
+  <programme channel="tv.101305020528" start="20180520013000 +0000" stop="20180520100000 +0000">
     <title>Racing Live: Bendigo/Casterton/Sha Tin</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -66699,97 +66698,90 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180520201500 +0000" stop="20180520204500 +0000">
-    <title>Raceday Review - Bendigo</title>
+    <title>Raceday Review - Casterton</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180520204500 +0000" stop="20180520211500 +0000">
-    <title>Raceday Review - Casterton</title>
+    <title>Raceday Review - Bendigo</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180520211500 +0000" stop="20180520214500 +0000">
-    <title>Raceday Review - Bendigo</title>
+    <title>Raceday Review - Casterton</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180520214500 +0000" stop="20180520221500 +0000">
-    <title>Raceday Review - Casterton</title>
+    <title>Ten of the Best - Sprinters</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180520221500 +0000" stop="20180520224500 +0000">
-    <title>Ten of the Best - Sprinters</title>
+    <title>Raceday Review - Bendigo</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180520224500 +0000" stop="20180520231500 +0000">
-    <title>Raceday Review - Bendigo</title>
+    <title>Raceday Review - Casterton</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180520231500 +0000" stop="20180520234500 +0000">
-    <title>Raceday Review - Casterton</title>
+    <title>Raceday Review - Bendigo</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180520234500 +0000" stop="20180521001500 +0000">
-    <title>Raceday Review - Bendigo</title>
+    <title>Raceday Review - Casterton</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180521001500 +0000" stop="20180521004500 +0000">
-    <title>Raceday Review - Casterton</title>
+    <title>Raceday Review - Bendigo</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180521004500 +0000" stop="20180521011500 +0000">
-    <title>Raceday Review - Bendigo</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180521011500 +0000" stop="20180521014500 +0000">
     <title>Raceday Review - Casterton</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180521014500 +0000" stop="20180521021500 +0000">
+  <programme channel="tv.101305020528" start="20180521011500 +0000" stop="20180521014500 +0000">
     <title>Raceday Review - Bendigo</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180521021500 +0000" stop="20180521024500 +0000">
+  <programme channel="tv.101305020528" start="20180521014500 +0000" stop="20180521021500 +0000">
     <title>Ten of the Best - Sprinters</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180521024500 +0000" stop="20180521064500 +0000">
+  <programme channel="tv.101305020528" start="20180521021500 +0000" stop="20180521064500 +0000">
     <title>Racing Live: Mildura</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -66965,76 +66957,69 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180521204500 +0000" stop="20180521211500 +0000">
-    <title>Raceday Review - Bendigo</title>
+    <title>Raceday Review - Mildura</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180521211500 +0000" stop="20180521214500 +0000">
-    <title>Free Rein with Matt Hill</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180521214500 +0000" stop="20180521224500 +0000">
+  <programme channel="tv.101305020528" start="20180521211500 +0000" stop="20180521221500 +0000">
     <title>After The Last</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180521221500 +0000" stop="20180521224500 +0000">
+    <title>Raceday Review - Mildura</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180521224500 +0000" stop="20180521231500 +0000">
-    <title>Raceday Review - Mildura</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180521231500 +0000" stop="20180521234500 +0000">
     <title>Raceday Review - Bendigo</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180521234500 +0000" stop="20180522001500 +0000">
+  <programme channel="tv.101305020528" start="20180521231500 +0000" stop="20180521234500 +0000">
     <title>Raceday Review - Sha Tin</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180522001500 +0000" stop="20180522004500 +0000">
+  <programme channel="tv.101305020528" start="20180521234500 +0000" stop="20180522001500 +0000">
     <title>Raceday Review - Mildura</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180522004500 +0000" stop="20180522011500 +0000">
+  <programme channel="tv.101305020528" start="20180522001500 +0000" stop="20180522004500 +0000">
     <title>Ten of the Best - Sprinters</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180522011500 +0000" stop="20180522014500 +0000">
+  <programme channel="tv.101305020528" start="20180522004500 +0000" stop="20180522011500 +0000">
     <title>Free Rein with Matt Hill</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180522014500 +0000" stop="20180522024500 +0000">
+  <programme channel="tv.101305020528" start="20180522011500 +0000" stop="20180522021500 +0000">
     <title>After The Last</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180522024500 +0000" stop="20180522064500 +0000">
+  <programme channel="tv.101305020528" start="20180522021500 +0000" stop="20180522064500 +0000">
     <title>Racing Live: Geelong</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
