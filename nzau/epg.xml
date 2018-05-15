@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180515200637 +0000" stop="20180515211321 +0000">
-    <title>Ride: United</title>
-    <desc>The biggest names in every discipline celebrate the community and camaraderie of the competitive moto world.</desc>
-    <sub-title>A World of Competitive Moto Riding</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180515211321 +0000" stop="20180515215704 +0000">
-    <title>Follow the Fraser</title>
-    <desc>Three professional mountain bikers travel north through Canada, riding their way toward the unknown.</desc>
-    <sub-title>A Mountain Bike Excursion Into the Unknown</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180515215704 +0000" stop="20180515225200 +0000">
     <title>Explorers: Adventures of the Century S5E2</title>
     <desc>Testing an ancient myth, two sea kayakers attempt to paddle the 1,930km between Greenland and Scotland.</desc>
@@ -44259,6 +44249,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180523140000 +0000" stop="20180523143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180515131800 +0000" stop="20180515142500 +0000">
     <title>Q&amp;A</title>
     <subtitles type="teletext"/>
@@ -54223,6 +54220,13 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200421" start="20180523140000 +0000" stop="20180523150000 +0000">
+    <title>House Husbands</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200424" start="20180515133000 +0000" stop="20180515140000 +0000">
     <title>House Hunters International</title>
     <rating system="Freeview">
@@ -54837,10 +54841,9 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180518150000 +0000" stop="20180518160000 +0000">
-    <title>Diana to Meghan: Royal Wedding Secrets</title>
-    <subtitles type="teletext"/>
+    <title>Building Off the Grid</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180518160000 +0000" stop="20180518170000 +0000">
@@ -54924,10 +54927,10 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20180519030000 +0000" stop="20180519033000 +0000">
-    <title>New House New Life</title>
+  <programme channel="tv.101204200424" start="20180519030000 +0000" stop="20180519040000 +0000">
+    <title>Million Dollar Rooms</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180519040000 +0000" stop="20180519043000 +0000">
@@ -55777,6 +55780,12 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180523133000 +0000" stop="20180523140000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200424" start="20180523140000 +0000" stop="20180523143000 +0000">
     <title>House Hunters International</title>
     <rating system="Freeview">
       <value>G</value>
@@ -77387,6 +77396,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180523140000 +0000" stop="20180523143000 +0000">
+    <title>Good Eats</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180515133000 +0000" stop="20180515140000 +0000">
     <title>Korraiyn</title>
     <rating system="Freeview">
@@ -79486,6 +79501,12 @@
   </programme>
   <programme channel="tv.320203000305" start="20180523133500 +0000" stop="20180523140000 +0000">
     <title>Be Deadly</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180523140000 +0000" stop="20180523150000 +0000">
+    <title>Volumz</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
