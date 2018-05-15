@@ -161,26 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180515033207 +0000" stop="20180515042927 +0000">
-    <title>Propeller</title>
-    <desc>The first team video from the legendary company brings together generations of next-level skateboarding.</desc>
-    <sub-title>A Vans Skateboard Movie</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180515042927 +0000" stop="20180515043526 +0000">
-    <title>Myanmar: The Golden Skate Odyssey S1E1</title>
-    <desc>English skater Ali Drummond looks back on Myanmar’s cultural history and its skateboarding origins.</desc>
-    <sub-title>Skateboarding in Yangon</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180515043526 +0000" stop="20180515045718 +0000">
-    <title>Way Past Midnight S1E7</title>
-    <desc>See London through the eyes of a pair of tastemakers who have their finger on the pulse of the creative scene.</desc>
-    <sub-title>Night-time Influencers</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180515045718 +0000" stop="20180515050112 +0000">
-    <title>AWOLNATION</title>
-    <desc>In a single-shot video, lead singer Aaron Bruno weaves through a mass of people as they grow more animated.</desc>
-    <sub-title>Hollow Moon (Bad Wolf): Music Video</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180515050112 +0000" stop="20180515050922 +0000">
     <title>Martin Söderström Ride to Recovery Part I</title>
     <desc>The story of Martin Söderström's career-threatening injury and his fight to get back on top of his game.</desc>
@@ -2182,6 +2162,9 @@
   <programme channel="tv.9" start="20180519223000 +0000" stop="20180519230000 +0000">
     <title>Waka Huia</title>
     <desc>Mere Faulkner from Motiti Island shares childhood memories of kapa haka; sparked by watching her grandchildren perform at the Ngāti Awa Te Toki Festival.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180519230000 +0000" stop="20180519233000 +0000">
     <title>Attitude</title>
@@ -2399,6 +2382,9 @@
     <title>Mind Over Money With Nigel Latta</title>
     <desc>In this episode, we play Nigel’s Money Making Game, where we discover why Kiwis are reluctant to invest and reveal our risk profile through an egg and spoon race.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180521083000 +0000" stop="20180521092500 +0000">
     <title>Criminal Minds</title>
@@ -2412,6 +2398,9 @@
     <title>Lucifer</title>
     <desc>S3 E6 When Lucifer learns that his ex-wife has disappeared, he brings Ella with him to Las Vegas to find her.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180521102500 +0000" stop="20180521105500 +0000">
     <title>1 News Tonight</title>
@@ -2572,7 +2561,7 @@
   </programme>
   <programme channel="tv.9" start="20180522093500 +0000" stop="20180522103000 +0000">
     <title>20/20</title>
-    <desc>Keep up to date with the best of international current affairs.</desc>
+    <desc>Keep up to date with the best of international current affairs.Tonight 72-year-old Joseph DeAngelo, the suspected Golden State Killer of the 1970's, charged with first degree murder decades later.</desc>
   </programme>
   <programme channel="tv.9" start="20180522103000 +0000" stop="20180522110000 +0000">
     <title>1 News Tonight</title>
@@ -2649,7 +2638,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180514173000 +0000" stop="20180514183000 +0000">
+  <programme channel="tv.10" start="20180514173000 +0000" stop="20180514180000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.10" start="20180514180000 +0000" stop="20180514183000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -3102,6 +3095,9 @@
   <programme channel="tv.10" start="20180516053000 +0000" stop="20180516060000 +0000">
     <title>Home And Away</title>
     <desc>Robbo calls upon an old friend from the Feds; Maggie takes control of her cancer the only way she can; Ryder seeks out relationship advice, but only ends up worse off.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180516060000 +0000" stop="20180516063000 +0000">
     <title>The Big Bang Theory</title>
@@ -3352,6 +3348,9 @@
   <programme channel="tv.10" start="20180517024000 +0000" stop="20180517031000 +0000">
     <title>Home And Away</title>
     <desc>Robbo calls upon an old friend from the Feds; Maggie takes control of her cancer the only way she can; Ryder seeks out relationship advice, but only ends up worse off.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180517031000 +0000" stop="20180517034000 +0000">
     <title>Shortland Street</title>
@@ -3371,7 +3370,7 @@
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180517040000 +0000" stop="20180517043000 +0000">
@@ -3398,6 +3397,9 @@
   <programme channel="tv.10" start="20180517053000 +0000" stop="20180517060000 +0000">
     <title>Home And Away</title>
     <desc>Will Robbo listen to Lance and take back his old life, or is the Bay starting to accept him? Can Maggie gain her self-confidence back now her sickness is more evident than ever?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180517060000 +0000" stop="20180517063000 +0000">
     <title>The Big Bang Theory</title>
@@ -3639,6 +3641,9 @@
   <programme channel="tv.10" start="20180518023000 +0000" stop="20180518030000 +0000">
     <title>Home And Away</title>
     <desc>Will Robbo listen to Lance and take back his old life, or is the Bay starting to accept him? Can Maggie gain her self-confidence back now her sickness is more evident than ever?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180518030000 +0000" stop="20180518033000 +0000">
     <title>Shortland Street</title>
@@ -3671,6 +3676,9 @@
   <programme channel="tv.10" start="20180518040000 +0000" stop="20180518043000 +0000">
     <title>Fanimals</title>
     <desc>11 year old Willow takes her rabbits bunny hopping, we could be calling you to play Fact or Fiction, and Erin from What Now introduces us to her Diluted Calico cats who are not on speaking terms!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180518043000 +0000" stop="20180518050000 +0000">
     <title>Friends</title>
@@ -4538,6 +4546,9 @@
   <programme channel="tv.10" start="20180521073000 +0000" stop="20180521085000 +0000">
     <title>My Kitchen Rules</title>
     <desc>It's time for loved-up cocktail couple Alex &amp; Emily to shake up the kitchen but sometimes liquor and love don't mix. With one team down, is this the night we lose another?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180521085000 +0000" stop="20180521092000 +0000">
     <title>American Housewife</title>
@@ -4730,6 +4741,9 @@
   <programme channel="tv.10" start="20180521230000 +0000" stop="20180522000500 +0000">
     <title>My Kitchen Rules</title>
     <desc>It's time for loved-up cocktail couple Alex &amp; Emily to shake up the kitchen but sometimes liquor and love don't mix. With one team down, is this the night we lose another?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180522000500 +0000" stop="20180522010500 +0000">
     <title>Jeremy Kyle</title>
@@ -9727,6 +9741,9 @@
   <programme channel="tv.38" start="20180519233000 +0000" stop="20180520000000 +0000">
     <title>Waka Huia</title>
     <desc>Mere Faulkner from Motiti Island shares childhood memories of kapa haka; sparked by watching her grandchildren perform at the Ngāti Awa Te Toki Festival.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180520000000 +0000" stop="20180520003000 +0000">
     <title>Attitude</title>
@@ -9944,6 +9961,9 @@
     <title>Mind Over Money With Nigel Latta</title>
     <desc>In this episode, we play Nigel’s Money Making Game, where we discover why Kiwis are reluctant to invest and reveal our risk profile through an egg and spoon race.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180521093000 +0000" stop="20180521102500 +0000">
     <title>Criminal Minds</title>
@@ -9957,6 +9977,9 @@
     <title>Lucifer</title>
     <desc>S3 E6 When Lucifer learns that his ex-wife has disappeared, he brings Ella with him to Las Vegas to find her.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180521112500 +0000" stop="20180521115500 +0000">
     <title>1 News Tonight</title>
@@ -10117,7 +10140,7 @@
   </programme>
   <programme channel="tv.38" start="20180522103500 +0000" stop="20180522113000 +0000">
     <title>20/20</title>
-    <desc>Keep up to date with the best of international current affairs.</desc>
+    <desc>Keep up to date with the best of international current affairs.Tonight 72-year-old Joseph DeAngelo, the suspected Golden State Killer of the 1970's, charged with first degree murder decades later.</desc>
   </programme>
   <programme channel="tv.38" start="20180522113000 +0000" stop="20180522120000 +0000">
     <title>1 News Tonight</title>
@@ -10192,7 +10215,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180514183000 +0000" stop="20180514193000 +0000">
+  <programme channel="tv.14" start="20180514183000 +0000" stop="20180514190000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.14" start="20180514190000 +0000" stop="20180514193000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -10603,6 +10630,9 @@
   <programme channel="tv.14" start="20180516063000 +0000" stop="20180516070000 +0000">
     <title>Home And Away</title>
     <desc>Robbo calls upon an old friend from the Feds; Maggie takes control of her cancer the only way she can; Ryder seeks out relationship advice, but only ends up worse off.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180516070000 +0000" stop="20180516073000 +0000">
     <title>The Big Bang Theory</title>
@@ -10826,6 +10856,9 @@
   <programme channel="tv.14" start="20180517034000 +0000" stop="20180517041000 +0000">
     <title>Home And Away</title>
     <desc>Robbo calls upon an old friend from the Feds; Maggie takes control of her cancer the only way she can; Ryder seeks out relationship advice, but only ends up worse off.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180517041000 +0000" stop="20180517044000 +0000">
     <title>Shortland Street</title>
@@ -10839,7 +10872,7 @@
     <title>K.C. Undercover</title>
     <desc>An outspoken and confident technology wiz and skilled black belt discovers that both her parents are spies and expect her to follow in their footsteps.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180517050000 +0000" stop="20180517053000 +0000">
@@ -10863,6 +10896,9 @@
   <programme channel="tv.14" start="20180517063000 +0000" stop="20180517070000 +0000">
     <title>Home And Away</title>
     <desc>Will Robbo listen to Lance and take back his old life, or is the Bay starting to accept him? Can Maggie gain her self-confidence back now her sickness is more evident than ever?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180517070000 +0000" stop="20180517073000 +0000">
     <title>The Big Bang Theory</title>
@@ -11092,6 +11128,9 @@
   <programme channel="tv.14" start="20180518033000 +0000" stop="20180518040000 +0000">
     <title>Home And Away</title>
     <desc>Will Robbo listen to Lance and take back his old life, or is the Bay starting to accept him? Can Maggie gain her self-confidence back now her sickness is more evident than ever?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180518040000 +0000" stop="20180518043000 +0000">
     <title>Shortland Street</title>
@@ -11118,6 +11157,9 @@
   <programme channel="tv.14" start="20180518050000 +0000" stop="20180518053000 +0000">
     <title>Fanimals</title>
     <desc>11 year old Willow takes her rabbits bunny hopping, we could be calling you to play Fact or Fiction, and Erin from What Now introduces us to her Diluted Calico cats who are not on speaking terms!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180518053000 +0000" stop="20180518060000 +0000">
     <title>Friends</title>
@@ -11859,6 +11901,9 @@
   <programme channel="tv.14" start="20180521083000 +0000" stop="20180521095000 +0000">
     <title>My Kitchen Rules</title>
     <desc>It's time for loved-up cocktail couple Alex &amp; Emily to shake up the kitchen but sometimes liquor and love don't mix. With one team down, is this the night we lose another?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180521095000 +0000" stop="20180521102000 +0000">
     <title>American Housewife</title>
@@ -12030,6 +12075,9 @@
   <programme channel="tv.14" start="20180522000000 +0000" stop="20180522010500 +0000">
     <title>My Kitchen Rules</title>
     <desc>It's time for loved-up cocktail couple Alex &amp; Emily to shake up the kitchen but sometimes liquor and love don't mix. With one team down, is this the night we lose another?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180522010500 +0000" stop="20180522020500 +0000">
     <title>Jeremy Kyle</title>
