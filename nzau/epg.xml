@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180516205331 +0000" stop="20180516213953 +0000">
-    <title>Breaking the Day  S1E1</title>
-    <desc>Test pilot Elliot Seguin must decide if he should build and fly an experimental plane as an expectant father. </desc>
-    <sub-title>Mojave Test Pilot</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180516213953 +0000" stop="20180516222359 +0000">
     <title>Riding the Tatshenshini</title>
     <desc>Rafting 260km with bikes in tow, Darren Berrecloth and fellow riders explored Canada's Tatshenshi River.</desc>
@@ -43812,6 +43807,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180524140000 +0000" stop="20180524143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180516132700 +0000" stop="20180516141000 +0000">
     <title>Four Corners</title>
     <subtitles type="teletext"/>
@@ -54669,10 +54671,10 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20180520190000 +0000" stop="20180520200000 +0000">
-    <title>Hotel Impossible</title>
+  <programme channel="tv.101204200424" start="20180520190000 +0000" stop="20180520193000 +0000">
+    <title>New House New Life</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180520200000 +0000" stop="20180520210000 +0000">
@@ -55394,6 +55396,12 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180524133000 +0000" stop="20180524140000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200424" start="20180524140000 +0000" stop="20180524143000 +0000">
     <title>House Hunters International</title>
     <rating system="Freeview">
       <value>G</value>
@@ -66223,6 +66231,13 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180524134500 +0000" stop="20180524140000 +0000">
+    <title>Trackwork</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180524140000 +0000" stop="20180524141500 +0000">
     <title>Trackwork</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -77082,6 +77097,12 @@
   </programme>
   <programme channel="tv.320203000304" start="20180524135500 +0000" stop="20180524140000 +0000">
     <title>Lyndey Milan's Taste of Australia</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180524140000 +0000" stop="20180524143000 +0000">
+    <title>Good Eats</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
