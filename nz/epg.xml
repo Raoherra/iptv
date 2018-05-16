@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180516055550 +0000" stop="20180516064448 +0000">
-    <title>The Horn S1E4</title>
-    <desc>During the peak winter season, adrenaline seekers from around the world descend upon the Swiss Valais Alps.</desc>
-    <sub-title>The Longest Day</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180516064448 +0000" stop="20180516070517 +0000">
     <title>Ya Mas</title>
     <desc>The Snowmads journey continues straight into the winter of the century in the Mediterranean country of Greece.</desc>
@@ -4765,7 +4760,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.11" start="20180515233000 +0000" stop="20180516000000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -4975,11 +4970,11 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180517104000 +0000" stop="20180517110000 +0000">
+  <programme channel="tv.11" start="20180517104000 +0000" stop="20180517111000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.11" start="20180517110000 +0000" stop="20180517120000 +0000">
+  <programme channel="tv.11" start="20180517111000 +0000" stop="20180517121000 +0000">
     <title>Motive</title>
     <desc>A murder at a surgical clinic leaves the detectives with two dead bodies.Meanwhile, Angie thinks she's being followed. S3 Ep10</desc>
     <audio>
@@ -4989,7 +4984,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180517120000 +0000" stop="20180517170000 +0000">
+  <programme channel="tv.11" start="20180517121000 +0000" stop="20180517170000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -5091,16 +5086,19 @@
   <programme channel="tv.11" start="20180518090000 +0000" stop="20180518094500 +0000">
     <title>7 Days</title>
     <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
-  <programme channel="tv.11" start="20180518094500 +0000" stop="20180518101500 +0000">
+  <programme channel="tv.11" start="20180518094500 +0000" stop="20180518102000 +0000">
     <title>Funny Girls</title>
     <desc>New Episode. Tonight we will have you singing in the face of being murdered at night, some very passive aggressive nuns, and we finally solve the pay gap for you. S3 Ep2</desc>
   </programme>
-  <programme channel="tv.11" start="20180518101500 +0000" stop="20180518104500 +0000">
+  <programme channel="tv.11" start="20180518102000 +0000" stop="20180518105000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.11" start="20180518104500 +0000" stop="20180518111500 +0000">
+  <programme channel="tv.11" start="20180518105000 +0000" stop="20180518112000 +0000">
     <title>Bob's Burgers</title>
     <desc>New Episode. Tina decides to join the Junior Lifeguards but struggles with the training, and business booms when Bob and Linda offer free Wi-Fi at the restaurant. S8 Ep17</desc>
     <audio>
@@ -5110,7 +5108,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180518111500 +0000" stop="20180518121000 +0000">
+  <programme channel="tv.11" start="20180518112000 +0000" stop="20180518121500 +0000">
     <title>Hawaii Five-O</title>
     <desc>Five-O investigates the death of a scuba diver who was killed with a gun found on the ocean floor. S6 Ep3</desc>
     <audio>
@@ -5120,7 +5118,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180518121000 +0000" stop="20180518170000 +0000">
+  <programme channel="tv.11" start="20180518121500 +0000" stop="20180518170000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -5182,6 +5180,9 @@
   <programme channel="tv.11" start="20180519030000 +0000" stop="20180519033000 +0000">
     <title>The Goldbergs</title>
     <desc>Season 5 Final. New Episode. When Lainey moves back to town, Barry asks her to the prom, but when she says no, he plans a senior prank with Principal Ball's car to get out of going. S5 Ep22</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -5202,7 +5203,7 @@
   </programme>
   <programme channel="tv.11" start="20180519050000 +0000" stop="20180519060000 +0000">
     <title>Survivor: Ghost Island</title>
-    <desc>Catch an all new episode of Survivor: Ghost Island fast-tracked from the States. S36 Ep13</desc>
+    <desc>Today: After a tough immunity challenge, one castaway will earn a 1 in 6 shot at the million dollar prize, on the penultimate episode of Survivor. S36 Ep13</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -5337,6 +5338,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180520113000 +0000" stop="20180520122500 +0000">
     <title>Chicago Med</title>
@@ -6195,6 +6199,9 @@
   <programme channel="tv.12" start="20180518083000 +0000" stop="20180518104300 +0000">
     <title>Meghan Markle: An American Princess</title>
     <desc>It's a real life fairy-tale for the American actress. But step behind the gilded curtain, and everything is not as it seems.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180518104300 +0000" stop="20180518104500 +0000">
     <title>The Dish</title>
@@ -6253,6 +6260,9 @@
   <programme channel="tv.12" start="20180518225500 +0000" stop="20180519004300 +0000">
     <title>Meghan Markle: An American Princess</title>
     <desc>It's a real life fairy-tale for the American actress. But step behind the gilded curtain, and everything is not as it seems.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180519004300 +0000" stop="20180519004500 +0000">
     <title>The Dish</title>
@@ -6520,6 +6530,9 @@
   <programme channel="tv.12" start="20180520064000 +0000" stop="20180520073500 +0000">
     <title>Catfish</title>
     <desc>After planning a life with his online love for eight years, a man worries over her sudden disappearance.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180520073500 +0000" stop="20180520083500 +0000">
     <title>Making A Model With Yolanda Hadid</title>
@@ -7015,6 +7028,9 @@
   <programme channel="tv.12" start="20180523093000 +0000" stop="20180523103300 +0000">
     <title>Vanderpump Rules</title>
     <desc>The group questions Jax's relationship with his reiki healer, and Lala reveals more about her boyfriend than ever before. Billie Lee joins the group and opens up about life as a transgender woman.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180523103300 +0000" stop="20180523103500 +0000">
     <title>The Dish</title>
@@ -12082,7 +12098,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.27" start="20180516003000 +0000" stop="20180516010000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -12274,18 +12290,18 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180517114000 +0000" stop="20180517120000 +0000">
+  <programme channel="tv.27" start="20180517114000 +0000" stop="20180517121000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.27" start="20180517120000 +0000" stop="20180517130000 +0000">
+  <programme channel="tv.27" start="20180517121000 +0000" stop="20180517131000 +0000">
     <title>Motive</title>
     <desc>A murder at a surgical clinic leaves the detectives with two dead bodies.Meanwhile, Angie thinks she's being followed. S3 Ep10</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180517130000 +0000" stop="20180517180000 +0000">
+  <programme channel="tv.27" start="20180517131000 +0000" stop="20180517180000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -12384,30 +12400,33 @@
   <programme channel="tv.27" start="20180518100000 +0000" stop="20180518104500 +0000">
     <title>7 Days</title>
     <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
-  <programme channel="tv.27" start="20180518104500 +0000" stop="20180518111500 +0000">
+  <programme channel="tv.27" start="20180518104500 +0000" stop="20180518112000 +0000">
     <title>Funny Girls</title>
     <desc>New Episode. Tonight we will have you singing in the face of being murdered at night, some very passive aggressive nuns, and we finally solve the pay gap for you. S3 Ep2</desc>
   </programme>
-  <programme channel="tv.27" start="20180518111500 +0000" stop="20180518114500 +0000">
+  <programme channel="tv.27" start="20180518112000 +0000" stop="20180518115000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.27" start="20180518114500 +0000" stop="20180518121500 +0000">
+  <programme channel="tv.27" start="20180518115000 +0000" stop="20180518122000 +0000">
     <title>Bob's Burgers</title>
     <desc>New Episode. Tina decides to join the Junior Lifeguards but struggles with the training, and business booms when Bob and Linda offer free Wi-Fi at the restaurant. S8 Ep17</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180518121500 +0000" stop="20180518131000 +0000">
+  <programme channel="tv.27" start="20180518122000 +0000" stop="20180518131500 +0000">
     <title>Hawaii Five-O</title>
     <desc>Five-O investigates the death of a scuba diver who was killed with a gun found on the ocean floor. S6 Ep3</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180518131000 +0000" stop="20180518180000 +0000">
+  <programme channel="tv.27" start="20180518131500 +0000" stop="20180518180000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -12483,7 +12502,7 @@
   </programme>
   <programme channel="tv.27" start="20180519060000 +0000" stop="20180519070000 +0000">
     <title>Survivor: Ghost Island</title>
-    <desc>Catch an all new episode of Survivor: Ghost Island fast-tracked from the States. S36 Ep13</desc>
+    <desc>Today: After a tough immunity challenge, one castaway will earn a 1 in 6 shot at the million dollar prize, on the penultimate episode of Survivor. S36 Ep13</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -12615,6 +12634,9 @@
   <programme channel="tv.27" start="20180520093000 +0000" stop="20180520123000 +0000">
     <title>Spectre</title>
     <desc>A cryptic message from Bond's past sends him on a trail to uncover a sinister organisation, while M battles political forces to keep the secret service alive. Starring Daniel Craig. (2015)</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180520123000 +0000" stop="20180520132500 +0000">
     <title>Chicago Med</title>
@@ -13452,6 +13474,9 @@
   <programme channel="tv.30" start="20180518093000 +0000" stop="20180518114300 +0000">
     <title>Meghan Markle: An American Princess</title>
     <desc>It's a real life fairy-tale for the American actress. But step behind the gilded curtain, and everything is not as it seems.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180518114300 +0000" stop="20180518114500 +0000">
     <title>The Dish</title>
@@ -13510,6 +13535,9 @@
   <programme channel="tv.30" start="20180518235500 +0000" stop="20180519014300 +0000">
     <title>Meghan Markle: An American Princess</title>
     <desc>It's a real life fairy-tale for the American actress. But step behind the gilded curtain, and everything is not as it seems.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180519014300 +0000" stop="20180519014500 +0000">
     <title>The Dish</title>
@@ -13777,6 +13805,9 @@
   <programme channel="tv.30" start="20180520074000 +0000" stop="20180520083500 +0000">
     <title>Catfish</title>
     <desc>After planning a life with his online love for eight years, a man worries over her sudden disappearance.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180520083500 +0000" stop="20180520093500 +0000">
     <title>Making A Model With Yolanda Hadid</title>
@@ -14272,6 +14303,9 @@
   <programme channel="tv.30" start="20180523103000 +0000" stop="20180523113300 +0000">
     <title>Vanderpump Rules</title>
     <desc>The group questions Jax's relationship with his reiki healer, and Lala reveals more about her boyfriend than ever before. Billie Lee joins the group and opens up about life as a transgender woman.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180523113300 +0000" stop="20180523113500 +0000">
     <title>The Dish</title>
@@ -24991,43 +25025,43 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180516113000 +0000" stop="20180516123000 +0000">
-    <title>NEW Ilse Jacobsen Fashion</title>
-    <desc>Founded in 1993, this luxury Danish brand's design philosophy is based on Scandinavian simplicity, embracing comfort, elegance and femininity in fine balance with modern urban living.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.45" start="20180516123000 +0000" stop="20180516133000 +0000">
-    <title>Cadelle Leather Jackets</title>
-    <desc>Make a warm investment this winter and wrap up in genuine 100% leather! Cadelle jackets are a must-have, with classic designs, fashionable colours and sumptuous quality.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.45" start="20180516133000 +0000" stop="20180516143000 +0000">
     <title>Jersey Girl Fashion</title>
     <desc>Jersey Girl has you covered for an instant wardrobe update! With a mix of fun prints and essential basics this label is every woman's friend for instant and affordable style.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.45" start="20180516143000 +0000" stop="20180516153000 +0000">
+  <programme channel="tv.45" start="20180516123000 +0000" stop="20180516133000 +0000">
+    <title>NEW Ilse Jacobsen Fashion</title>
+    <desc>Founded in 1993, this luxury Danish brand's design philosophy is based on Scandinavian simplicity, embracing comfort, elegance and femininity in fine balance with modern urban living.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.45" start="20180516133000 +0000" stop="20180516143000 +0000">
     <title>Aimee Kestenberg Handbags</title>
     <desc>Global success story Aimee Kestenberg brings her contemporary line of Handbags and accessories to TVSN with supple leather contemporary design and custom hardware behind every piece!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.45" start="20180516153000 +0000" stop="20180516163000 +0000">
+  <programme channel="tv.45" start="20180516143000 +0000" stop="20180516153000 +0000">
     <title>Evie Grace Fashion</title>
     <desc>Evie Grace Fashion is a proudly Australian label with its finger firmly on the pulse of the local &amp; international fashion scene, providing pieces that are effortlessly stylish.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.45" start="20180516163000 +0000" stop="20180516173000 +0000">
+  <programme channel="tv.45" start="20180516153000 +0000" stop="20180516163000 +0000">
     <title>Matisse Footwear</title>
     <desc>Matisse Footwear is a lifestyle brand with a country meets rock and roll vibe. Each pair is hand-finished to create an individual look that compliments modern bohemian style.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.45" start="20180516163000 +0000" stop="20180516173000 +0000">
+    <title>Eva Tralala Fashion</title>
+    <desc>Headquartered in Paris, Eva Tralala has been crafting fashion-forward looks for 20 years. Originality, inspired by urban trends, their distinctive designs exude comfortable elegance.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25110,8 +25144,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180517043000 +0000" stop="20180517053000 +0000">
-    <title>Aimee Kestenberg Handbags</title>
-    <desc>Global success story Aimee Kestenberg brings her contemporary line of Handbags and accessories to TVSN with supple leather contemporary design and custom hardware behind every piece!</desc>
+    <title>SONY Xperia Smart Phone</title>
+    <desc>Your smartphone follows you everywhere! That?s why Xperia? XA has been designed to fit into your life. With a stunning full-width display, a smooth, curved form and a size ideal for everyone's palm.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25145,8 +25179,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180517093000 +0000" stop="20180517103000 +0000">
-    <title>Aimee Kestenberg Handbags</title>
-    <desc>Global success story Aimee Kestenberg brings her contemporary line of Handbags and accessories to TVSN with supple leather contemporary design and custom hardware behind every piece!</desc>
+    <title>Philips TURBO Airfryer</title>
+    <desc>Make light work of kitchen tasks with the Philips TURBO Airfryer and discover healthy frying and delicious meals with this compact yet powerful appliance. Buy today and get $50 CASHBACK!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
