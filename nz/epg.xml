@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180516155824 +0000" stop="20180516164229 +0000">
-    <title>Driving Dirty S1E3</title>
-    <desc>With just 16 days left until The Baja 1000, the teams go through their numerous final preparations.</desc>
-    <sub-title>Final Preparations</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180516164229 +0000" stop="20180516165828 +0000">
-    <title>Revel in the Chaos</title>
-    <desc>Revel in the Chaos follows Brandon Semenuk as he pushes himself beyond our view of possible.</desc>
-    <sub-title>The Best Freestyle MTB Riding Ever</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180516165828 +0000" stop="20180516174506 +0000">
     <title>Breaking the Day  S1E2</title>
     <desc>Freediving saved Stig Pryds's life. Now he's preparing to put his life on the line for his deepest dive yet. </desc>
@@ -14753,6 +14743,9 @@
   <programme channel="tv.28" start="20180519013000 +0000" stop="20180519023000 +0000">
     <title>English Premier League</title>
     <desc>'Prime looks at the best bits of the week's English Premier League games, with highlights of England's top division football teams battling it out to be the champions. G'</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180519023000 +0000" stop="20180519030000 +0000">
     <title>Storage Hunters</title>
@@ -14955,6 +14948,9 @@
   <programme channel="tv.28" start="20180520113000 +0000" stop="20180520123000 +0000">
     <title>English Premier League</title>
     <desc>'Prime looks at the best bits of the week's English Premier League games, with highlights of England's top division football teams battling it out to be the champions. G (R)'</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180520123000 +0000" stop="20180520180000 +0000">
     <title>Prime</title>
