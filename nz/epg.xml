@@ -161,21 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180516040034 +0000" stop="20180516042449 +0000">
-    <title>Ultimate Rush S5E5</title>
-    <desc>A skydiver goes high and long to set the world record for the farthest absolute distance flown in a wingsuit.</desc>
-    <sub-title>Human Dart</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180516042449 +0000" stop="20180516045311 +0000">
-    <title>Searching for Sound</title>
-    <desc>A pair of musicians travel thousands of miles searching for the sounds of their musical ancestors.</desc>
-    <sub-title>Islandman and VeYasin</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180516045311 +0000" stop="20180516050124 +0000">
-    <title>Playrooms</title>
-    <desc>A futuristic look at the use of technology to unlock the sixth sense and change the club experience forever.</desc>
-    <sub-title>Exploring the Future of Club Culture</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180516050124 +0000" stop="20180516055550 +0000">
     <title>Explorers: Adventures of the Century S5E1</title>
     <desc>A pair of friends attempt to cross the Alaska Range mountains in the most extreme paragliding expedition ever.</desc>
@@ -1609,8 +1594,11 @@
     <desc>Join Hilary Barry, Jeremy Wells and the Seven Sharp team for a fresh perspective on today's stories.</desc>
   </programme>
   <programme channel="tv.9" start="20180518073000 +0000" stop="20180518083000 +0000">
-    <title>Extreme Cake Makers: Royal Wedding Special</title>
+    <title>Extreme Cake Makers - Royal Wedding Spec</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180518083000 +0000" stop="20180518094500 +0000">
     <title>Call The Midwife</title>
@@ -1904,6 +1892,9 @@
     <title>Hyundai Country Calendar</title>
     <desc>Southern Crawlies: A marine scientist farms fresh-water koura in forestry ponds across the south, giving a new lease of life to an ancient species &amp; creating a new market for the restaurant delicacy.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180520073000 +0000" stop="20180520080000 +0000">
     <title>Sunday</title>
@@ -2207,6 +2198,9 @@
   <programme channel="tv.9" start="20180522043000 +0000" stop="20180522045500 +0000">
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180522045500 +0000" stop="20180522060000 +0000">
     <title>The Chase</title>
@@ -2918,6 +2912,9 @@
   <programme channel="tv.10" start="20180517040000 +0000" stop="20180517043000 +0000">
     <title>Fanimals</title>
     <desc>Today we go behind the scenes with a Principal and his great danes, our Ask Me Anything Vet Stacey is here to answer all your questions, and it's finally ribbon day on Pony Club!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180517043000 +0000" stop="20180517050000 +0000">
     <title>Friends</title>
@@ -3242,6 +3239,9 @@
   <programme channel="tv.10" start="20180518053000 +0000" stop="20180518060000 +0000">
     <title>Home And Away</title>
     <desc>Ebony’s plan for revenge starts to come to fruition; can Olivia and Hunter repair what’s left of their friendship? Can Robbo say goodbye to the Bay?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180518060000 +0000" stop="20180518063000 +0000">
     <title>The Big Bang Theory</title>
@@ -3825,6 +3825,9 @@
     <title>Survivor New Zealand</title>
     <desc>Tonight, a fall-out at tribal council has left one castaway isolated and alone. But just when things seemed to take a turn for the worst, Matt Chisholm throws a curveball at the two tribes.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180520083000 +0000" stop="20180520111500 +0000">
     <title>Captain America: Civil War</title>
@@ -3995,6 +3998,9 @@
   <programme channel="tv.10" start="20180521010000 +0000" stop="20180521020000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180521020000 +0000" stop="20180521023000 +0000">
     <title>Home Improvement</title>
@@ -4006,6 +4012,9 @@
   <programme channel="tv.10" start="20180521023000 +0000" stop="20180521030000 +0000">
     <title>Home And Away</title>
     <desc>Ebony’s plan for revenge starts to come to fruition; can Olivia and Hunter repair what’s left of their friendship? Can Robbo say goodbye to the Bay?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180521030000 +0000" stop="20180521033000 +0000">
     <title>Shortland Street</title>
@@ -4196,6 +4205,9 @@
   <programme channel="tv.10" start="20180521162000 +0000" stop="20180521170500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180521170500 +0000" stop="20180521173000 +0000">
     <title>Neighbours</title>
@@ -4336,7 +4348,7 @@
   </programme>
   <programme channel="tv.10" start="20180522043000 +0000" stop="20180522050000 +0000">
     <title>Friends</title>
-    <desc>After Joey almost loses Ross' wedding ring, Ross asks both Joey and Chandler to serve as his best man, and the girls host a baby shower for Phoebe.</desc>
+    <desc>Ross and Emily get married, but Emily cannot forgive him for calling her Rachel during the vows; and Rachel goes on the trip that Ross and Emily intended to take as their honeymoon.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -4383,6 +4395,9 @@
   <programme channel="tv.10" start="20180522073000 +0000" stop="20180522085000 +0000">
     <title>My Kitchen Rules</title>
     <desc>In their ultimate, the hot-blooded Italian brothers turn on each other on a night of triumphs and take downs. Josh &amp; Nic play hard but will the teams score fair?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180522085000 +0000" stop="20180522094500 +0000">
     <title>The Resident</title>
@@ -4524,6 +4539,9 @@
   <programme channel="tv.10" start="20180522195000 +0000" stop="20180522201500 +0000">
     <title>Beyblade Burst Evolution</title>
     <desc>BC Sol faces off against the Royals in a rematch fit for a king. Valt is going to make sure he’s prepared. With the help of Rickson and Raul, he won’t rest until he’s perfected his new move.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180522201500 +0000" stop="20180522203500 +0000">
     <title>Disney Junior Art Attack</title>
@@ -4561,6 +4579,9 @@
   <programme channel="tv.10" start="20180522230000 +0000" stop="20180523000500 +0000">
     <title>My Kitchen Rules</title>
     <desc>In their ultimate, the hot-blooded Italian brothers turn on each other on a night of triumphs and take downs. Josh &amp; Nic play hard but will the teams score fair?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180523000500 +0000" stop="20180523010500 +0000">
     <title>Jeremy Kyle</title>
@@ -4611,7 +4632,7 @@
   </programme>
   <programme channel="tv.10" start="20180523043000 +0000" stop="20180523050000 +0000">
     <title>Friends</title>
-    <desc>Ross and Emily get married, but Emily cannot forgive him for calling her Rachel during the vows; and Rachel goes on the trip that Ross and Emily intended to take as their honeymoon.</desc>
+    <desc>Chandler kisses both Rachel and Phoebe in order to cover up a kiss he gave to Monica, Rachel finally tells Ross her feelings, and Phoebe goes into labour.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -4640,6 +4661,9 @@
   <programme channel="tv.10" start="20180523063000 +0000" stop="20180523070000 +0000">
     <title>Neighbours</title>
     <desc>Can Chloe and Leo resist temptation; Mark challenges Elly; and Dipi stays strong against the backlash.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180523070000 +0000" stop="20180523073000 +0000">
     <title>Shortland Street</title>
@@ -4655,6 +4679,9 @@
   <programme channel="tv.10" start="20180523073000 +0000" stop="20180523085000 +0000">
     <title>My Kitchen Rules</title>
     <desc>Olga &amp; Valeria hope to blow away their rivals at their Super Dinner Party but some find their delicacies hard to swallow.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180523085000 +0000" stop="20180523092000 +0000">
     <title>All New The Big Bang Theory</title>
@@ -9167,8 +9194,11 @@
     <desc>Join Hilary Barry, Jeremy Wells and the Seven Sharp team for a fresh perspective on today's stories.</desc>
   </programme>
   <programme channel="tv.38" start="20180518083000 +0000" stop="20180518093000 +0000">
-    <title>Extreme Cake Makers: Royal Wedding Special</title>
+    <title>Extreme Cake Makers - Royal Wedding Spec</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180518093000 +0000" stop="20180518104500 +0000">
     <title>Call The Midwife</title>
@@ -9462,6 +9492,9 @@
     <title>Hyundai Country Calendar</title>
     <desc>Southern Crawlies: A marine scientist farms fresh-water koura in forestry ponds across the south, giving a new lease of life to an ancient species &amp; creating a new market for the restaurant delicacy.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180520083000 +0000" stop="20180520090000 +0000">
     <title>Sunday</title>
@@ -9765,6 +9798,9 @@
   <programme channel="tv.38" start="20180522053000 +0000" stop="20180522055500 +0000">
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180522055500 +0000" stop="20180522070000 +0000">
     <title>The Chase</title>
@@ -10428,6 +10464,9 @@
   <programme channel="tv.14" start="20180517050000 +0000" stop="20180517053000 +0000">
     <title>Fanimals</title>
     <desc>Today we go behind the scenes with a Principal and his great danes, our Ask Me Anything Vet Stacey is here to answer all your questions, and it's finally ribbon day on Pony Club!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180517053000 +0000" stop="20180517060000 +0000">
     <title>Friends</title>
@@ -10728,6 +10767,9 @@
   <programme channel="tv.14" start="20180518063000 +0000" stop="20180518070000 +0000">
     <title>Home And Away</title>
     <desc>Ebony’s plan for revenge starts to come to fruition; can Olivia and Hunter repair what’s left of their friendship? Can Robbo say goodbye to the Bay?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180518070000 +0000" stop="20180518073000 +0000">
     <title>The Big Bang Theory</title>
@@ -11218,6 +11260,9 @@
     <title>Survivor New Zealand</title>
     <desc>Tonight, a fall-out at tribal council has left one castaway isolated and alone. But just when things seemed to take a turn for the worst, Matt Chisholm throws a curveball at the two tribes.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180520093000 +0000" stop="20180520121500 +0000">
     <title>Captain America: Civil War</title>
@@ -11370,6 +11415,9 @@
   <programme channel="tv.14" start="20180521020000 +0000" stop="20180521030000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180521030000 +0000" stop="20180521033000 +0000">
     <title>Home Improvement</title>
@@ -11381,6 +11429,9 @@
   <programme channel="tv.14" start="20180521033000 +0000" stop="20180521040000 +0000">
     <title>Home And Away</title>
     <desc>Ebony’s plan for revenge starts to come to fruition; can Olivia and Hunter repair what’s left of their friendship? Can Robbo say goodbye to the Bay?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180521040000 +0000" stop="20180521043000 +0000">
     <title>Shortland Street</title>
@@ -11538,6 +11589,9 @@
   <programme channel="tv.14" start="20180521172000 +0000" stop="20180521180500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180521180500 +0000" stop="20180521183000 +0000">
     <title>Neighbours</title>
@@ -11672,7 +11726,7 @@
   </programme>
   <programme channel="tv.14" start="20180522053000 +0000" stop="20180522060000 +0000">
     <title>Friends</title>
-    <desc>After Joey almost loses Ross' wedding ring, Ross asks both Joey and Chandler to serve as his best man, and the girls host a baby shower for Phoebe.</desc>
+    <desc>Ross and Emily get married, but Emily cannot forgive him for calling her Rachel during the vows; and Rachel goes on the trip that Ross and Emily intended to take as their honeymoon.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -11713,6 +11767,9 @@
   <programme channel="tv.14" start="20180522083000 +0000" stop="20180522095000 +0000">
     <title>My Kitchen Rules</title>
     <desc>In their ultimate, the hot-blooded Italian brothers turn on each other on a night of triumphs and take downs. Josh &amp; Nic play hard but will the teams score fair?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180522095000 +0000" stop="20180522104500 +0000">
     <title>The Resident</title>
@@ -11873,6 +11930,9 @@
   <programme channel="tv.14" start="20180523000000 +0000" stop="20180523010500 +0000">
     <title>My Kitchen Rules</title>
     <desc>In their ultimate, the hot-blooded Italian brothers turn on each other on a night of triumphs and take downs. Josh &amp; Nic play hard but will the teams score fair?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180523010500 +0000" stop="20180523020500 +0000">
     <title>Jeremy Kyle</title>
@@ -11917,7 +11977,7 @@
   </programme>
   <programme channel="tv.14" start="20180523053000 +0000" stop="20180523060000 +0000">
     <title>Friends</title>
-    <desc>Ross and Emily get married, but Emily cannot forgive him for calling her Rachel during the vows; and Rachel goes on the trip that Ross and Emily intended to take as their honeymoon.</desc>
+    <desc>Chandler kisses both Rachel and Phoebe in order to cover up a kiss he gave to Monica, Rachel finally tells Ross her feelings, and Phoebe goes into labour.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -11943,6 +12003,9 @@
   <programme channel="tv.14" start="20180523073000 +0000" stop="20180523080000 +0000">
     <title>Neighbours</title>
     <desc>Can Chloe and Leo resist temptation; Mark challenges Elly; and Dipi stays strong against the backlash.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180523080000 +0000" stop="20180523083000 +0000">
     <title>Shortland Street</title>
@@ -11955,6 +12018,9 @@
   <programme channel="tv.14" start="20180523083000 +0000" stop="20180523095000 +0000">
     <title>My Kitchen Rules</title>
     <desc>Olga &amp; Valeria hope to blow away their rivals at their Super Dinner Party but some find their delicacies hard to swallow.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180523095000 +0000" stop="20180523102000 +0000">
     <title>All New The Big Bang Theory</title>
@@ -19226,7 +19292,7 @@
     <title>New: Car SOS</title>
     <desc>Master mechanics Fuzz and Tim are on a mission to save decaying classic cars for their owners. Tonight, the guys totally rebuild a beloved Jeep after it was callously broken in an arson attack.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.55" start="20180520080000 +0000" stop="20180520090000 +0000">
