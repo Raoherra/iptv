@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180517010502 +0000" stop="20180517014908 +0000">
-    <title>Driving Dirty S1E3</title>
-    <desc>With just 16 days left until The Baja 1000, the teams go through their numerous final preparations.</desc>
-    <sub-title>Final Preparations</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180517014908 +0000" stop="20180517020502 +0000">
-    <title>Revel in the Chaos</title>
-    <desc>Revel in the Chaos follows Brandon Semenuk as he pushes himself beyond our view of possible.</desc>
-    <sub-title>The Best Freestyle MTB Riding Ever</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180517020502 +0000" stop="20180517025139 +0000">
     <title>Breaking the Day  S1E2</title>
     <desc>Freediving saved Stig Pryds's life. Now he's preparing to put his life on the line for his deepest dive yet. </desc>
@@ -54233,9 +54223,10 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180518160000 +0000" stop="20180518170000 +0000">
-    <title>Barnwood Builders</title>
+    <title>Meghan &amp; Harry: In Their Own Words</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180518170000 +0000" stop="20180518173000 +0000">
@@ -54307,10 +54298,10 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20180519020000 +0000" stop="20180519030200 +0000">
-    <title>Hotel Impossible</title>
+  <programme channel="tv.101204200424" start="20180519020000 +0000" stop="20180519030000 +0000">
+    <title>Barnwood Builders</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180519030000 +0000" stop="20180519033000 +0000">
@@ -56039,7 +56030,13 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20180520233000 +0000" stop="20180521003000 +0000">
+  <programme channel="tv.101204200427" start="20180520233000 +0000" stop="20180521000000 +0000">
+    <title>Danoz</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200427" start="20180521000000 +0000" stop="20180521003000 +0000">
     <title>Danoz</title>
     <rating system="Freeview">
       <value>G</value>
@@ -57688,6 +57685,7 @@
   </programme>
   <programme channel="tv.101204200428" start="20180520233000 +0000" stop="20180521000000 +0000">
     <title>Hiccup &amp; Sneeze</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>P</value>
     </rating>
@@ -58648,7 +58646,11 @@
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180517020100 +0000" stop="20180517031600 +0000">
-    <title>To Be Advised</title>
+    <title>House Rules</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180517031600 +0000" stop="20180517034500 +0000">
     <title>Surf Patrol</title>
