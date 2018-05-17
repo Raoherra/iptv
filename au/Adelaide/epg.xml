@@ -10397,18 +10397,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002510251" start="20180524082900 +0000" stop="20180524092500 +0000">
-    <title>Think Tank</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002510251" start="20180524082900 +0000" stop="20180524085700 +0000">
     <title>The Checkout</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002510251" start="20180524082900 +0000" stop="20180524092500 +0000">
+    <title>Think Tank</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101002510251" start="20180524085700 +0000" stop="20180524092500 +0000">
@@ -12274,15 +12274,15 @@
     </rating>
   </programme>
   <programme channel="tv.101204500454" start="20180519023000 +0000" stop="20180519033000 +0000">
-    <title>Hotel Impossible</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204500454" start="20180519023000 +0000" stop="20180519033000 +0000">
     <title>Barnwood Builders</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500454" start="20180519023000 +0000" stop="20180519033000 +0000">
+    <title>Hotel Impossible</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204500454" start="20180519033000 +0000" stop="20180519043000 +0000">
@@ -12613,16 +12613,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500454" start="20180520193000 +0000" stop="20180520200000 +0000">
-    <title>New House New Life</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204500454" start="20180520193000 +0000" stop="20180520203000 +0000">
     <title>Hotel Impossible</title>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500454" start="20180520193000 +0000" stop="20180520200000 +0000">
+    <title>New House New Life</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204500454" start="20180520203000 +0000" stop="20180520213000 +0000">
@@ -13102,15 +13102,15 @@
     </rating>
   </programme>
   <programme channel="tv.101204500454" start="20180523073000 +0000" stop="20180523083000 +0000">
-    <title>Texas Flip N' Move</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204500454" start="20180523073000 +0000" stop="20180523083000 +0000">
     <title>Building Off the Grid</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500454" start="20180523073000 +0000" stop="20180523083000 +0000">
+    <title>Texas Flip N' Move</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204500454" start="20180523083000 +0000" stop="20180523090000 +0000">
@@ -37318,11 +37318,6 @@
     <rating system="Freeview">
       <value>NC</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180517054400 +0000" stop="20180517063826 +0000">
-    <title>Explorers: Adventures of the Century S5E2</title>
-    <desc>Testing an ancient myth, two sea kayakers attempt to paddle the 1,930km between Greenland and Scotland.</desc>
-    <sub-title>Voyage of the Finnmen</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180517063826 +0000" stop="20180517072339 +0000">
     <title>Breaking the Day  S1E3</title>
