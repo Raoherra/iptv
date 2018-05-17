@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180517020502 +0000" stop="20180517025139 +0000">
-    <title>Breaking the Day  S1E2</title>
-    <desc>Freediving saved Stig Pryds's life. Now he's preparing to put his life on the line for his deepest dive yet. </desc>
-    <sub-title>Free Diver</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180517025139 +0000" stop="20180517034642 +0000">
     <title>Explorers: Adventures of the Century S5E4</title>
     <desc>A group of friends attempt to cross the dangerous waters of the Torres and Bass Straits in wooden canoes.</desc>
@@ -4573,7 +4568,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180517000000 +0000" stop="20180517020000 +0000">
-    <title>American Idol</title>
+    <title>American Idol Encore</title>
     <desc>Double Episode. The Top 14 perform for the judges and America. S16 Ep13</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -4629,6 +4624,9 @@
   <programme channel="tv.11" start="20180517073000 +0000" stop="20180517080000 +0000">
     <title>All New Roseanne</title>
     <desc>New Episode. After celebrating their 45th anniversary, Roseanne reveals to Dan a bigger problem with her bad knee. Meanwhile, Crystal announces her retirement as a waitress at the casino. S1 Ep8</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -4928,24 +4926,39 @@
     <desc></desc>
   </programme>
   <programme channel="tv.11" start="20180519180000 +0000" stop="20180519183000 +0000">
-    <title>Life TV</title>
+    <title>Life TV 159</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180519183000 +0000" stop="20180519190000 +0000">
-    <title>Brian Houston</title>
-    <desc></desc>
+    <title>Brian Houston @ Hillsong TV 1100</title>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180519190000 +0000" stop="20180519200000 +0000">
-    <title>Charles Stanley</title>
+    <title>Charles Stanley 1820</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180519200000 +0000" stop="20180519203000 +0000">
-    <title>Living Church of God</title>
+    <title>Living Church Of God</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180519203000 +0000" stop="20180519210000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180519210000 +0000" stop="20180519213000 +0000">
     <title>R &amp; R</title>
@@ -5075,8 +5088,8 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180521000000 +0000" stop="20180521005500 +0000">
-    <title>Dr. Phil</title>
-    <desc>New Episode. 21-year-old Bailey says eight months ago, she liked a tweet from a complete stranger and it was love at first post. Bailey's mother says she has lost her daughter to her fixation.</desc>
+    <title>Dr Phil</title>
+    <desc></desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -5149,6 +5162,9 @@
   <programme channel="tv.11" start="20180521083000 +0000" stop="20180521093000 +0000">
     <title>Lost &amp; Found</title>
     <desc>New Episode. A mother had her baby privately adopted in Singapore, but discovered that the family had left without a trace. And Gail comes to learn why she was left to grow up without her brother.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180521093000 +0000" stop="20180521104000 +0000">
     <title>Inside Crime</title>
@@ -5847,35 +5863,35 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180518083000 +0000" stop="20180518104300 +0000">
+  <programme channel="tv.12" start="20180518083000 +0000" stop="20180518103300 +0000">
     <title>Meghan Markle: An American Princess</title>
     <desc>It's a real life fairy-tale for the American actress. But step behind the gilded curtain, and everything is not as it seems.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180518104300 +0000" stop="20180518104500 +0000">
+  <programme channel="tv.12" start="20180518103300 +0000" stop="20180518103500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180518104500 +0000" stop="20180518113500 +0000">
+  <programme channel="tv.12" start="20180518103500 +0000" stop="20180518112500 +0000">
     <title>Snapped</title>
     <desc>A deadly home invasion leads to questions about a popular bartender, illegal drugs and the murder of her husband.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180518113500 +0000" stop="20180518122500 +0000">
+  <programme channel="tv.12" start="20180518112500 +0000" stop="20180518121500 +0000">
     <title>I Killed My BFF</title>
     <desc>Friends since childhood, Michael, Gary and Tim turn to criminal activity to survive. As the police are closing in, one of them turns on his friends, murdering them one by one. S2 Ep6</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180518122500 +0000" stop="20180518170000 +0000">
+  <programme channel="tv.12" start="20180518121500 +0000" stop="20180518170000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -6008,7 +6024,7 @@
   </programme>
   <programme channel="tv.12" start="20180519093000 +0000" stop="20180519103000 +0000">
     <title>Southern Charm</title>
-    <desc></desc>
+    <desc>Cameran suspects that she may be experiencing labor pains. Kathryn prepares for her first day of work, while Craig helps Austen realize things are over with Chelsea and refocuses on wooing Victoria.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -11932,7 +11948,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180517010000 +0000" stop="20180517030000 +0000">
-    <title>American Idol</title>
+    <title>American Idol Encore</title>
     <desc>Double Episode. The Top 14 perform for the judges and America. S16 Ep13</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -12260,24 +12276,39 @@
     <desc></desc>
   </programme>
   <programme channel="tv.27" start="20180519190000 +0000" stop="20180519193000 +0000">
-    <title>Life TV</title>
+    <title>Life TV 159</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180519193000 +0000" stop="20180519200000 +0000">
-    <title>Brian Houston</title>
-    <desc></desc>
+    <title>Brian Houston @ Hillsong TV 1100</title>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180519200000 +0000" stop="20180519210000 +0000">
-    <title>Charles Stanley</title>
+    <title>Charles Stanley 1820</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180519210000 +0000" stop="20180519213000 +0000">
-    <title>Living Church of God</title>
+    <title>Living Church Of God</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180519213000 +0000" stop="20180519220000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180519220000 +0000" stop="20180519223000 +0000">
     <title>R &amp; R</title>
@@ -12401,8 +12432,8 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180521010000 +0000" stop="20180521015500 +0000">
-    <title>Dr. Phil</title>
-    <desc>New Episode. 21-year-old Bailey says eight months ago, she liked a tweet from a complete stranger and it was love at first post. Bailey's mother says she has lost her daughter to her fixation.</desc>
+    <title>Dr Phil</title>
+    <desc></desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -12472,6 +12503,9 @@
   <programme channel="tv.27" start="20180521093000 +0000" stop="20180521103000 +0000">
     <title>Lost &amp; Found</title>
     <desc>New Episode. A mother had her baby privately adopted in Singapore, but discovered that the family had left without a trace. And Gail comes to learn why she was left to grow up without her brother.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180521103000 +0000" stop="20180521114000 +0000">
     <title>Inside Crime</title>
@@ -13146,35 +13180,35 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180518093000 +0000" stop="20180518114300 +0000">
+  <programme channel="tv.30" start="20180518093000 +0000" stop="20180518113300 +0000">
     <title>Meghan Markle: An American Princess</title>
     <desc>It's a real life fairy-tale for the American actress. But step behind the gilded curtain, and everything is not as it seems.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180518114300 +0000" stop="20180518114500 +0000">
+  <programme channel="tv.30" start="20180518113300 +0000" stop="20180518113500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180518114500 +0000" stop="20180518123500 +0000">
+  <programme channel="tv.30" start="20180518113500 +0000" stop="20180518122500 +0000">
     <title>Snapped</title>
     <desc>A deadly home invasion leads to questions about a popular bartender, illegal drugs and the murder of her husband.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180518123500 +0000" stop="20180518132500 +0000">
+  <programme channel="tv.30" start="20180518122500 +0000" stop="20180518131500 +0000">
     <title>I Killed My BFF</title>
     <desc>Friends since childhood, Michael, Gary and Tim turn to criminal activity to survive. As the police are closing in, one of them turns on his friends, murdering them one by one. S2 Ep6</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180518132500 +0000" stop="20180518180000 +0000">
+  <programme channel="tv.30" start="20180518131500 +0000" stop="20180518180000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -13307,7 +13341,7 @@
   </programme>
   <programme channel="tv.30" start="20180519103000 +0000" stop="20180519113000 +0000">
     <title>Southern Charm</title>
-    <desc></desc>
+    <desc>Cameran suspects that she may be experiencing labor pains. Kathryn prepares for her first day of work, while Craig helps Austen realize things are over with Chelsea and refocuses on wooing Victoria.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
