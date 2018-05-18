@@ -9224,14 +9224,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002810281" start="20180519130000 +0000" stop="20180519132900 +0000">
+  <programme channel="tv.101002810281" start="20180519130000 +0000" stop="20180519133000 +0000">
     <title>ABC News</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002810281" start="20180519132900 +0000" stop="20180519141800 +0000">
+  <programme channel="tv.101002810281" start="20180519133000 +0000" stop="20180519141800 +0000">
     <title>Wentworth</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -9357,14 +9357,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002810281" start="20180520082600 +0000" stop="20180520085800 +0000">
-    <title>The Checkout: Factory Seconds</title>
+    <title>The Checkout</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002810281" start="20180520082600 +0000" stop="20180520085800 +0000">
-    <title>The Checkout</title>
+    <title>The Checkout: Factory Seconds</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -9412,14 +9412,14 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101002810281" start="20180520144900 +0000" stop="20180520153500 +0000">
+  <programme channel="tv.101002810281" start="20180520144900 +0000" stop="20180520153400 +0000">
     <title>Doctor Who</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002810281" start="20180520153500 +0000" stop="20180520184200 +0000">
+  <programme channel="tv.101002810281" start="20180520153400 +0000" stop="20180520184200 +0000">
     <title>rage</title>
     <rating system="Freeview">
       <value>MA</value>
@@ -9602,6 +9602,7 @@
   </programme>
   <programme channel="tv.101002810281" start="20180521135700 +0000" stop="20180521145100 +0000">
     <title>PGA Tour Golf Highlights</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -10579,8 +10580,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180518095900 +0000" stop="20180518124400 +0000">
+  <programme channel="tv.101204200421" start="20180518095900 +0000" stop="20180518114500 +0000">
     <title>Nine's Live Friday Night Football</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200421" start="20180518114500 +0000" stop="20180518124400 +0000">
+    <title>Nine's Friday Night Football Post-Match</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11894,16 +11902,16 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180518160000 +0000" stop="20180518170000 +0000">
-    <title>Barnwood Builders</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200424" start="20180518160000 +0000" stop="20180518170000 +0000">
     <title>Meghan &amp; Harry: In Their Own Words</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200424" start="20180518160000 +0000" stop="20180518170000 +0000">
+    <title>Barnwood Builders</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180518165900 +0000" stop="20180518172800 +0000">
@@ -12231,13 +12239,13 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180520043000 +0000" stop="20180520053000 +0000">
-    <title>Million Dollar Listing LA</title>
+    <title>Building Off the Grid</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180520043000 +0000" stop="20180520053000 +0000">
-    <title>Building Off the Grid</title>
+    <title>Million Dollar Listing LA</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -12344,16 +12352,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20180520190000 +0000" stop="20180520193000 +0000">
-    <title>New House New Life</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200424" start="20180520190000 +0000" stop="20180520200000 +0000">
     <title>Hotel Impossible</title>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200424" start="20180520190000 +0000" stop="20180520193000 +0000">
+    <title>New House New Life</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180520200000 +0000" stop="20180520210000 +0000">
@@ -16668,6 +16676,20 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180517230000 +0000" stop="20180517231500 +0000">
+    <title>Trackwork</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180517231500 +0000" stop="20180517234500 +0000">
+    <title>Ten of the Best - Sprinters</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020528" start="20180517233000 +0000" stop="20180518000000 +0000">
     <title>Raceday Review - Kilmore</title>
     <subtitles type="teletext"/>
@@ -16675,35 +16697,28 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180518000000 +0000" stop="20180518003000 +0000">
-    <title>Ten of the Best - Sprinters</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180518003000 +0000" stop="20180518010000 +0000">
+  <programme channel="tv.101305020528" start="20180517234500 +0000" stop="20180518001500 +0000">
     <title>Sectional Stars</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180518010000 +0000" stop="20180518011500 +0000">
+  <programme channel="tv.101305020528" start="20180518001500 +0000" stop="20180518003000 +0000">
     <title>Trackwork</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180518011500 +0000" stop="20180518021500 +0000">
+  <programme channel="tv.101305020528" start="20180518003000 +0000" stop="20180518013000 +0000">
     <title>Get On!</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180518021500 +0000" stop="20180518064500 +0000">
+  <programme channel="tv.101305020528" start="20180518013000 +0000" stop="20180518064500 +0000">
     <title>Racing Live: Geelong/Penola</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -22466,13 +22481,13 @@
     </rating>
   </programme>
   <programme channel="tv.101305050553" start="20180525043300 +0000" stop="20180525053300 +0000">
+    <title>To Be Advised</title>
+  </programme>
+  <programme channel="tv.101305050553" start="20180525043300 +0000" stop="20180525053300 +0000">
     <title>400 Thunder</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
-  </programme>
-  <programme channel="tv.101305050553" start="20180525043300 +0000" stop="20180525053300 +0000">
-    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305050553" start="20180525053300 +0000" stop="20180525063100 +0000">
     <title>Ice Road Truckers</title>
@@ -37156,26 +37171,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180518085855 +0000" stop="20180518090858 +0000">
-    <title>MX Nation S3E2</title>
-    <desc>Dean Wilson tries to return to contention after a string of major injuries nearly cost him his career.</desc>
-    <sub-title>The Road Back</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180518090858 +0000" stop="20180518093322 +0000">
-    <title>Rise of the Bullet</title>
-    <desc>After becoming three-time world champ in MX2, watch how Jeffrey Herlings fares while competing in MX1. </desc>
-    <sub-title>Jeffrey Herlings Takes on MX1</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180518093322 +0000" stop="20180518093616 +0000">
-    <title>Slopestyle with Brandon Semenuk</title>
-    <desc>Brandon Semenuk is all thriller no filler as he takes his slopestyle moves to the big bike.</desc>
-    <sub-title>Inertia</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180518093616 +0000" stop="20180518100328 +0000">
-    <title>A Mountain Biker’s Hunt for Glory</title>
-    <desc>Follow Nino from his youth as a child in a remote Swiss mountain village to his greatest victory yet.</desc>
-    <sub-title>Nino Schurter's Ride</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180518100328 +0000" stop="20180518104659 +0000">
     <title>Breaking the Day  S1E6</title>
     <desc>Adventure photographer Krystle Wright is about to risk it all in hopes of capturing the image of a lifetime.</desc>
@@ -37203,8 +37198,8 @@
   </programme>
   <programme channel="tv.redbull.tv" start="20180518130003 +0000" stop="20180518131039 +0000">
     <title>MX Nation S3E1</title>
-    <desc>New MX talent lines up to fill the void</desc>
-    <sub-title>Who can replace Dungey and Roczen at the top?</sub-title>
+    <desc>With an absence of superstars, the 450 Class has an opening for a new champion, and everyone wants a shot.</desc>
+    <sub-title>New Blood</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180518131039 +0000" stop="20180518135024 +0000">
     <title>Follow Me</title>
@@ -37738,8 +37733,8 @@
   </programme>
   <programme channel="tv.redbull.tv" start="20180521010843 +0000" stop="20180521011919 +0000">
     <title>MX Nation S3E1</title>
-    <desc>New MX talent lines up to fill the void</desc>
-    <sub-title>Who can replace Dungey and Roczen at the top?</sub-title>
+    <desc>With an absence of superstars, the 450 Class has an opening for a new champion, and everyone wants a shot.</desc>
+    <sub-title>New Blood</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180521011919 +0000" stop="20180521021515 +0000">
     <title>Modern Collective</title>
