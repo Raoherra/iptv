@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180518054803 +0000" stop="20180518063209 +0000">
-    <title>Riding the Tatshenshini</title>
-    <desc>Rafting 260km with bikes in tow, Darren Berrecloth and fellow riders explored Canada's Tatshenshi River.</desc>
-    <sub-title>MTB Expedition to Tatshenshini River</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180518063209 +0000" stop="20180518063631 +0000">
-    <title>Kenny Belaey Slacklining in France</title>
-    <desc>Even a trial bike world champion needs all his skill to ride across a slackline 112m-high in the French Alps.</desc>
-    <sub-title>Balance</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180518063631 +0000" stop="20180518073343 +0000">
     <title>Propeller</title>
     <desc>The first team video from the legendary company brings together generations of next-level skateboarding.</desc>
@@ -5153,7 +5143,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180518010500 +0000" stop="20180518030000 +0000">
-    <title>American Idol</title>
+    <title>American Idol Encore</title>
     <desc>Double Episode. The Top 10 are revealed. S16 Ep14</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -5219,6 +5209,9 @@
   <programme channel="tv.11" start="20180518094500 +0000" stop="20180518102000 +0000">
     <title>Funny Girls</title>
     <desc>New Episode. Tonight we will have you singing in the face of being murdered at night, some very passive aggressive nuns, and we finally solve the pay gap for you. S3 Ep2</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180518102000 +0000" stop="20180518105000 +0000">
     <title>Newshub Late</title>
@@ -5330,6 +5323,9 @@
   <programme channel="tv.11" start="20180519050000 +0000" stop="20180519060000 +0000">
     <title>Survivor: Ghost Island</title>
     <desc>Today: After a tough immunity challenge, one castaway will earn a 1 in 6 shot at the million dollar prize, on the penultimate episode of Survivor. S36 Ep13</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -5473,7 +5469,7 @@
     <title>Dancing With The Stars</title>
     <desc>New Episode. Ten couples remain in the competition, and tonight seven couples attempt to win your votes and the judge's points by dancing live!</desc>
   </programme>
-  <programme channel="tv.11" start="20180520083000 +0000" stop="20180520113000 +0000">
+  <programme channel="tv.11" start="20180520083000 +0000" stop="20180520111500 +0000">
     <title>Spectre</title>
     <desc>A cryptic message from Bond's past sends him on a trail to uncover a sinister organisation, while M battles political forces to keep the secret service alive. Starring Daniel Craig. (2015)</desc>
     <audio>
@@ -5483,7 +5479,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180520113000 +0000" stop="20180520122500 +0000">
+  <programme channel="tv.11" start="20180520111500 +0000" stop="20180520121500 +0000">
     <title>Chicago Med</title>
     <desc>A teen girl is treated, but her rapidly changing symptoms puzzle the staff. S2 Ep12</desc>
     <audio>
@@ -5493,14 +5489,14 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180520122500 +0000" stop="20180520131500 +0000">
+  <programme channel="tv.11" start="20180520121500 +0000" stop="20180520130000 +0000">
     <title>Entertainment Tonight Weekend</title>
     <desc>A wrap up of the biggest entertainment stories of the last week.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180520131500 +0000" stop="20180520173000 +0000">
+  <programme channel="tv.11" start="20180520130000 +0000" stop="20180520173000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -5536,8 +5532,8 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180521000000 +0000" stop="20180521005500 +0000">
-    <title>Dr Phil</title>
-    <desc/>
+    <title>1</title>
+    <desc>New Episode. Siblings claim their mother, Niki, has neglected them and jumped from guy to guy since their parents' divorce and has chosen her new boyfriend over them.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -5777,6 +5773,9 @@
   <programme channel="tv.11" start="20180522105500 +0000" stop="20180522115000 +0000">
     <title>The Blacklist</title>
     <desc>Final. New Episode. Liz and Red face off in a climactic race to find a Blacklister in possession of the duffel bag of bones, forcing the truth about the bones to finally come to light. S5 Ep22</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -6145,6 +6144,9 @@
   <programme channel="tv.11" start="20180525094500 +0000" stop="20180525101500 +0000">
     <title>Funny Girls</title>
     <desc>New Episode. The Funny Girls will have you laughing at your least favourite time of the month. Plus, the worst cult of all time and the greatest female icon in history! S3 Ep3</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180525101500 +0000" stop="20180525104500 +0000">
     <title>Newshub Late</title>
@@ -12370,7 +12372,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180518020500 +0000" stop="20180518040000 +0000">
-    <title>American Idol</title>
+    <title>American Idol Encore</title>
     <desc>Double Episode. The Top 10 are revealed. S16 Ep14</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -12433,6 +12435,9 @@
   <programme channel="tv.27" start="20180518104500 +0000" stop="20180518112000 +0000">
     <title>Funny Girls</title>
     <desc>New Episode. Tonight we will have you singing in the face of being murdered at night, some very passive aggressive nuns, and we finally solve the pay gap for you. S3 Ep2</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180518112000 +0000" stop="20180518115000 +0000">
     <title>Newshub Late</title>
@@ -12672,28 +12677,28 @@
     <title>Dancing With The Stars</title>
     <desc>New Episode. Ten couples remain in the competition, and tonight seven couples attempt to win your votes and the judge's points by dancing live!</desc>
   </programme>
-  <programme channel="tv.27" start="20180520093000 +0000" stop="20180520123000 +0000">
+  <programme channel="tv.27" start="20180520093000 +0000" stop="20180520121500 +0000">
     <title>Spectre</title>
     <desc>A cryptic message from Bond's past sends him on a trail to uncover a sinister organisation, while M battles political forces to keep the secret service alive. Starring Daniel Craig. (2015)</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180520123000 +0000" stop="20180520132500 +0000">
+  <programme channel="tv.27" start="20180520121500 +0000" stop="20180520131500 +0000">
     <title>Chicago Med</title>
     <desc>A teen girl is treated, but her rapidly changing symptoms puzzle the staff. S2 Ep12</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180520132500 +0000" stop="20180520141500 +0000">
+  <programme channel="tv.27" start="20180520131500 +0000" stop="20180520140000 +0000">
     <title>Entertainment Tonight Weekend</title>
     <desc>A wrap up of the biggest entertainment stories of the last week.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180520141500 +0000" stop="20180520183000 +0000">
+  <programme channel="tv.27" start="20180520140000 +0000" stop="20180520183000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -12729,8 +12734,8 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180521010000 +0000" stop="20180521015500 +0000">
-    <title>Dr Phil</title>
-    <desc/>
+    <title>1</title>
+    <desc>New Episode. Siblings claim their mother, Niki, has neglected them and jumped from guy to guy since their parents' divorce and has chosen her new boyfriend over them.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -13308,6 +13313,9 @@
   <programme channel="tv.27" start="20180525104500 +0000" stop="20180525111500 +0000">
     <title>Funny Girls</title>
     <desc>New Episode. The Funny Girls will have you laughing at your least favourite time of the month. Plus, the worst cult of all time and the greatest female icon in history! S3 Ep3</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180525111500 +0000" stop="20180525114500 +0000">
     <title>Newshub Late</title>
@@ -44740,11 +44748,11 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180523075900 +0000" stop="20180523083000 +0000">
-    <title>The Checkout</title>
+  <programme channel="tv.101002210221" start="20180523075900 +0000" stop="20180523090000 +0000">
+    <title>Think Tank</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20180523083000 +0000" stop="20180523090000 +0000">
@@ -53923,9 +53931,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20180518170000 +0000" stop="20180518175900 +0000">
-    <title>Harry and Meghan: A Love Story</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101204200424" start="20180518170000 +0000" stop="20180518173000 +0000">
+    <title>New House New Life</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -54011,10 +54018,10 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20180519020000 +0000" stop="20180519030200 +0000">
-    <title>Hotel Impossible</title>
+  <programme channel="tv.101204200424" start="20180519020000 +0000" stop="20180519030000 +0000">
+    <title>Barnwood Builders</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180519030000 +0000" stop="20180519033000 +0000">
@@ -54820,9 +54827,9 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180523070000 +0000" stop="20180523080000 +0000">
-    <title>Building Off the Grid</title>
+    <title>Texas Flip N' Move</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180523080000 +0000" stop="20180523083000 +0000">
@@ -56539,8 +56546,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20180525093000 +0000" stop="20180525103500 +0000">
-    <title>Walking the Himalayas</title>
+  <programme channel="tv.101204200427" start="20180525093000 +0000" stop="20180525103000 +0000">
+    <title>Weather Top Ten</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
