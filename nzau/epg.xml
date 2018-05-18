@@ -280,21 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180517221438 +0000" stop="20180517231008 +0000">
-    <title>Explorers: Adventures of the Century S5E3</title>
-    <desc>A young cave-diver looks to earn a place in history by plumbing the depths of an unexplored cave in Indonesia.</desc>
-    <sub-title>Calm in the Dark</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180517231008 +0000" stop="20180517233423 +0000">
-    <title>Ultimate Rush S5E5</title>
-    <desc>A skydiver goes high and long to set the world record for the farthest absolute distance flown in a wingsuit.</desc>
-    <sub-title>Human Dart</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180517233423 +0000" stop="20180518000346 +0000">
-    <title>Searching for Sound</title>
-    <desc>A pair of musicians travel thousands of miles searching for the sounds of their musical ancestors.</desc>
-    <sub-title>Islandman and VeYasin</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180518000346 +0000" stop="20180518005840 +0000">
     <title>Red Bull Air Race 2018</title>
     <desc>Watch the full recap from an incredible second stop of the Red Bull Air Race 2018 in Cannes, France. </desc>
@@ -18283,14 +18268,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180521093000 +0000" stop="20180521103000 +0000">
-    <title>Flying Across Britain with Arthur Williams</title>
-    <desc>Arthur Williams, a former Royal Marine turned pilot, takes to the skies to explore the incredible network of airfields etched into the British landscape.</desc>
+  <programme channel="tv.37" start="20180521093000 +0000" stop="20180521103500 +0000">
+    <title>The Man Who Discovered Egypt</title>
+    <desc>Chris Naunton presents a portrait of Flinders Petrie, the maverick who invented modern field archaeology and gave meaning to a whole civilisation, whilst surveying the pyramids and discovering the world's oldest portraits.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180521103000 +0000" stop="20180521113000 +0000">
+  <programme channel="tv.37" start="20180521103500 +0000" stop="20180521113000 +0000">
     <title>Brother vs Brother</title>
     <desc>The Listed Sisters judge the brothers' master bedrooms and baths, and the winner meets Wayne Newton.</desc>
     <rating system="Freeview">
@@ -18424,8 +18409,8 @@
     </rating>
   </programme>
   <programme channel="tv.37" start="20180522023000 +0000" stop="20180522033000 +0000">
-    <title>Flying Across Britain with Arthur Williams</title>
-    <desc>Arthur Williams, a former Royal Marine turned pilot, takes to the skies to explore the incredible network of airfields etched into the British landscape.</desc>
+    <title>The Man Who Discovered Egypt</title>
+    <desc>Chris Naunton presents a portrait of Flinders Petrie, the maverick who invented modern field archaeology and gave meaning to a whole civilisation, whilst surveying the pyramids and discovering the world's oldest portraits.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -18465,18 +18450,21 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180522083000 +0000" stop="20180522093000 +0000">
+  <programme channel="tv.37" start="20180522083000 +0000" stop="20180522093500 +0000">
     <title>Chateau DIY</title>
     <desc>Many Brits have moved to France to buy crumbling French chateaus to renovate into stunning homes. Follow their progress and see them try to use their homes as a business.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme channel="tv.37" start="20180522093000 +0000" stop="20180522103000 +0000">
+  <programme channel="tv.37" start="20180522093500 +0000" stop="20180522103500 +0000">
     <title>Money For Nothing</title>
     <desc>The upcyclers tackle an old road light, a seventies-style sofa and a set of moth-eaten blankets. Will they manage to turn trash into cash?</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180522103000 +0000" stop="20180522113000 +0000">
+  <programme channel="tv.37" start="20180522103500 +0000" stop="20180522113000 +0000">
     <title>Animal Park</title>
     <desc>Today, as the baby-boom continues, keepers in charge of one of the planet?s rarest animals get a fright as she makes an unscheduled trip into the reserve. Keepers welcome the arrival of a baby giraffe</desc>
     <rating system="Freeview">
@@ -18528,6 +18516,9 @@
   <programme channel="tv.37" start="20180522170000 +0000" stop="20180522180000 +0000">
     <title>Chateau DIY</title>
     <desc>Many Brits have moved to France to buy crumbling French chateaus to renovate into stunning homes. Follow their progress and see them try to use their homes as a business.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.37" start="20180522180000 +0000" stop="20180522190000 +0000">
     <title>The Living Room</title>
@@ -18581,6 +18572,9 @@
   <programme channel="tv.37" start="20180523003000 +0000" stop="20180523013000 +0000">
     <title>Chateau DIY</title>
     <desc>Many Brits have moved to France to buy crumbling French chateaus to renovate into stunning homes. Follow their progress and see them try to use their homes as a business.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.37" start="20180523013000 +0000" stop="20180523023000 +0000">
     <title>Full Steam Ahead</title>
@@ -44677,11 +44671,11 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180523075900 +0000" stop="20180523090000 +0000">
-    <title>Think Tank</title>
+  <programme channel="tv.101002210221" start="20180523075900 +0000" stop="20180523083000 +0000">
+    <title>The Checkout</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20180523083000 +0000" stop="20180523090000 +0000">
@@ -53806,14 +53800,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180518160000 +0000" stop="20180518170000 +0000">
-    <title>Meghan &amp; Harry: In Their Own Words</title>
-    <subtitles type="teletext"/>
+    <title>Barnwood Builders</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20180518170000 +0000" stop="20180518173000 +0000">
-    <title>New House New Life</title>
+  <programme channel="tv.101204200424" start="20180518170000 +0000" stop="20180518175900 +0000">
+    <title>Harry and Meghan: A Love Story</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -53881,10 +53875,10 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20180519020000 +0000" stop="20180519030000 +0000">
-    <title>Barnwood Builders</title>
+  <programme channel="tv.101204200424" start="20180519020000 +0000" stop="20180519030200 +0000">
+    <title>Hotel Impossible</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180519030000 +0000" stop="20180519033000 +0000">
@@ -54692,9 +54686,9 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180523070000 +0000" stop="20180523080000 +0000">
-    <title>Texas Flip N' Move</title>
+    <title>Building Off the Grid</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180523080000 +0000" stop="20180523083000 +0000">
@@ -62403,7 +62397,10 @@
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180525040300 +0000" stop="20180525050300 +0000">
-    <title>To Be Advised</title>
+    <title>400 Thunder</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180525050300 +0000" stop="20180525060100 +0000">
     <title>Ice Road Truckers</title>
