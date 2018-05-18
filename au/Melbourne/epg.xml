@@ -10148,18 +10148,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002310231" start="20180524075900 +0000" stop="20180524085700 +0000">
-    <title>Think Tank</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002310231" start="20180524075900 +0000" stop="20180524082700 +0000">
     <title>The Checkout</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002310231" start="20180524075900 +0000" stop="20180524085700 +0000">
+    <title>Think Tank</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101002310231" start="20180524082700 +0000" stop="20180524085500 +0000">
@@ -11980,12 +11980,6 @@
   <programme channel="tv.101204300433" start="20180518160000 +0000" stop="20180518170000 +0000">
     <title>Barnwood Builders</title>
     <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300433" start="20180518160000 +0000" stop="20180518170000 +0000">
-    <title>Barnwood Builders</title>
-    <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
@@ -11994,6 +11988,12 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300433" start="20180518160000 +0000" stop="20180518170000 +0000">
+    <title>Barnwood Builders</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204300433" start="20180518170000 +0000" stop="20180518173000 +0000">
@@ -37200,11 +37200,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180518032431 +0000" stop="20180518050126 +0000">
-    <title>Turn It Loose</title>
-    <desc>Experience the pursuit of a breakdancing world championship through the eyes of six world-class b-boys.</desc>
-    <sub-title>Battle for a World Championship</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180518050126 +0000" stop="20180518054803 +0000">
     <title>Breaking the Day  S1E1</title>

@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180518032431 +0000" stop="20180518050126 +0000">
-    <title>Turn It Loose</title>
-    <desc>Experience the pursuit of a breakdancing world championship through the eyes of six world-class b-boys.</desc>
-    <sub-title>Battle for a World Championship</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180518050126 +0000" stop="20180518054803 +0000">
     <title>Breaking the Day  S1E1</title>
     <desc>Test pilot Elliot Seguin must decide if he should build and fly an experimental plane as an expectant father. </desc>
@@ -1901,6 +1896,9 @@
   <programme channel="tv.9" start="20180519203500 +0000" stop="20180519210000 +0000">
     <title>Waka Man</title>
     <desc>Join Waka Man, Alby Waititi, on a voyage of discovery as he paddles the waterways of Aotearoa, revealing what waka culture meant to us in the past and what it means for our future.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180519210000 +0000" stop="20180519220000 +0000">
     <title>Q+A</title>
@@ -2271,6 +2269,9 @@
     <title>Class Of Mum And Dad</title>
     <desc>A class full of parents are sent back to school for one half term to discover what being an 11 year old is really like. The twist ... their kids are in the classroom next door!</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180522093500 +0000" stop="20180522103000 +0000">
     <title>20/20</title>
@@ -2342,6 +2343,9 @@
   <programme channel="tv.9" start="20180523010000 +0000" stop="20180523020000 +0000">
     <title>Tiny House Nation</title>
     <desc>A newlywed couple asks John and Zack to build them a tiny house that incorporates their eclectic style with inspirations from all over, and still feels warm, welcoming, and clutter free.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180523020000 +0000" stop="20180523030000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -2361,6 +2365,9 @@
   <programme channel="tv.9" start="20180523043000 +0000" stop="20180523045500 +0000">
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180523045500 +0000" stop="20180523060000 +0000">
     <title>The Chase</title>
@@ -2396,6 +2403,9 @@
     <title>Coronation Street</title>
     <desc>Erica grows curious of Mary’s defensive behaviour; Peter smells a rat; and will Aidan be able to contain his jealousy?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180523103500 +0000" stop="20180523110500 +0000">
     <title>1 News Tonight</title>
@@ -2518,6 +2528,9 @@
     <title>Coronation Street</title>
     <desc>Nick’s suspicions grow; meanwhile Billy throws in the towel; and has Roy found the answer to his prayers?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180524103000 +0000" stop="20180524110000 +0000">
     <title>1 News Tonight</title>
@@ -2648,6 +2661,9 @@
     <title>Coronation Street</title>
     <desc>Roy’s hit with some unwelcome home truths; Peter makes plans to prove Nick wrong; and Eileen’s stung by a poison pen.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180525102000 +0000" stop="20180525105000 +0000">
     <title>1 News Tonight</title>
@@ -3480,6 +3496,9 @@
     <title>Survivor New Zealand</title>
     <desc>Tonight, a fall-out at tribal council has left one castaway isolated and alone. But just when things seemed to take a turn for the worst, Matt Chisholm throws a curveball at the two tribes.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180520083000 +0000" stop="20180520111500 +0000">
     <title>Captain America: Civil War</title>
@@ -3712,6 +3731,9 @@
   <programme channel="tv.10" start="20180521053000 +0000" stop="20180521060000 +0000">
     <title>Home And Away</title>
     <desc>Ebony’s threats push Justin closer to the edge; Raffy’s feud with Ty takes a shocking turn; Willow crosses a line with Dean.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180521060000 +0000" stop="20180521063000 +0000">
     <title>The Big Bang Theory</title>
@@ -3945,6 +3967,9 @@
   <programme channel="tv.10" start="20180522010500 +0000" stop="20180522020500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180522020500 +0000" stop="20180522023500 +0000">
     <title>Home Improvement</title>
@@ -3956,6 +3981,9 @@
   <programme channel="tv.10" start="20180522023500 +0000" stop="20180522030500 +0000">
     <title>Home And Away</title>
     <desc>Ebony’s threats push Justin closer to the edge; Raffy’s feud with Ty takes a shocking turn; Willow crosses a line with Dean.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180522030500 +0000" stop="20180522033500 +0000">
     <title>Shortland Street</title>
@@ -3981,6 +4009,9 @@
   <programme channel="tv.10" start="20180522040000 +0000" stop="20180522043000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Gigi the tiny fluffy bunny at the SPCA, our Ask Me Anything vet Stacey is here to answer all your canine questions, and send us in your pet tricks to win a treat!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180522043000 +0000" stop="20180522050000 +0000">
     <title>Friends</title>
@@ -4002,6 +4033,9 @@
   <programme channel="tv.10" start="20180522053000 +0000" stop="20180522060000 +0000">
     <title>Home And Away</title>
     <desc>Willow’s love life takes a messy, unexpected turn; it is a particularly difficult day for Colby; Raffy and Ty become friends...but is that all?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180522060000 +0000" stop="20180522063000 +0000">
     <title>The Big Bang Theory</title>
@@ -4041,6 +4075,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180522094500 +0000" stop="20180522104000 +0000">
     <title>Grey's Anatomy</title>
@@ -4124,6 +4161,9 @@
   <programme channel="tv.10" start="20180522161500 +0000" stop="20180522170500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180522170500 +0000" stop="20180522173000 +0000">
     <title>Neighbours</title>
@@ -4239,6 +4279,9 @@
   <programme channel="tv.10" start="20180523023500 +0000" stop="20180523030500 +0000">
     <title>Home And Away</title>
     <desc>Willow’s love life takes a messy, unexpected turn; it is a particularly difficult day for Colby; Raffy and Ty become friends...but is that all?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180523030500 +0000" stop="20180523033500 +0000">
     <title>Shortland Street</title>
@@ -9342,6 +9385,9 @@
   <programme channel="tv.38" start="20180519213500 +0000" stop="20180519220000 +0000">
     <title>Waka Man</title>
     <desc>Join Waka Man, Alby Waititi, on a voyage of discovery as he paddles the waterways of Aotearoa, revealing what waka culture meant to us in the past and what it means for our future.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180519220000 +0000" stop="20180519230000 +0000">
     <title>Q+A</title>
@@ -9712,6 +9758,9 @@
     <title>Class Of Mum And Dad</title>
     <desc>A class full of parents are sent back to school for one half term to discover what being an 11 year old is really like. The twist ... their kids are in the classroom next door!</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180522103500 +0000" stop="20180522113000 +0000">
     <title>20/20</title>
@@ -9783,6 +9832,9 @@
   <programme channel="tv.38" start="20180523020000 +0000" stop="20180523030000 +0000">
     <title>Tiny House Nation</title>
     <desc>A newlywed couple asks John and Zack to build them a tiny house that incorporates their eclectic style with inspirations from all over, and still feels warm, welcoming, and clutter free.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180523030000 +0000" stop="20180523040000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -9802,6 +9854,9 @@
   <programme channel="tv.38" start="20180523053000 +0000" stop="20180523055500 +0000">
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180523055500 +0000" stop="20180523070000 +0000">
     <title>The Chase</title>
@@ -9837,6 +9892,9 @@
     <title>Coronation Street</title>
     <desc>Erica grows curious of Mary’s defensive behaviour; Peter smells a rat; and will Aidan be able to contain his jealousy?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180523113500 +0000" stop="20180523120500 +0000">
     <title>1 News Tonight</title>
@@ -9959,6 +10017,9 @@
     <title>Coronation Street</title>
     <desc>Nick’s suspicions grow; meanwhile Billy throws in the towel; and has Roy found the answer to his prayers?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180524113000 +0000" stop="20180524120000 +0000">
     <title>1 News Tonight</title>
@@ -10089,6 +10150,9 @@
     <title>Coronation Street</title>
     <desc>Roy’s hit with some unwelcome home truths; Peter makes plans to prove Nick wrong; and Eileen’s stung by a poison pen.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180525112000 +0000" stop="20180525115000 +0000">
     <title>1 News Tonight</title>
@@ -10824,6 +10888,9 @@
     <title>Survivor New Zealand</title>
     <desc>Tonight, a fall-out at tribal council has left one castaway isolated and alone. But just when things seemed to take a turn for the worst, Matt Chisholm throws a curveball at the two tribes.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180520093000 +0000" stop="20180520121500 +0000">
     <title>Captain America: Civil War</title>
@@ -11029,6 +11096,9 @@
   <programme channel="tv.14" start="20180521063000 +0000" stop="20180521070000 +0000">
     <title>Home And Away</title>
     <desc>Ebony’s threats push Justin closer to the edge; Raffy’s feud with Ty takes a shocking turn; Willow crosses a line with Dean.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180521070000 +0000" stop="20180521073000 +0000">
     <title>The Big Bang Theory</title>
@@ -11238,6 +11308,9 @@
   <programme channel="tv.14" start="20180522020500 +0000" stop="20180522030500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180522030500 +0000" stop="20180522033500 +0000">
     <title>Home Improvement</title>
@@ -11249,6 +11322,9 @@
   <programme channel="tv.14" start="20180522033500 +0000" stop="20180522040500 +0000">
     <title>Home And Away</title>
     <desc>Ebony’s threats push Justin closer to the edge; Raffy’s feud with Ty takes a shocking turn; Willow crosses a line with Dean.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180522040500 +0000" stop="20180522043500 +0000">
     <title>Shortland Street</title>
@@ -11268,6 +11344,9 @@
   <programme channel="tv.14" start="20180522050000 +0000" stop="20180522053000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Gigi the tiny fluffy bunny at the SPCA, our Ask Me Anything vet Stacey is here to answer all your canine questions, and send us in your pet tricks to win a treat!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180522053000 +0000" stop="20180522060000 +0000">
     <title>Friends</title>
@@ -11286,6 +11365,9 @@
   <programme channel="tv.14" start="20180522063000 +0000" stop="20180522070000 +0000">
     <title>Home And Away</title>
     <desc>Willow’s love life takes a messy, unexpected turn; it is a particularly difficult day for Colby; Raffy and Ty become friends...but is that all?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180522070000 +0000" stop="20180522073000 +0000">
     <title>The Big Bang Theory</title>
@@ -11319,6 +11401,9 @@
   <programme channel="tv.14" start="20180522095000 +0000" stop="20180522104500 +0000">
     <title>The Resident</title>
     <desc>S1 E6 As Conrad battles a group of aggressive attending physicians on behalf of a patient with a mysterious chronic ailment, he also must face off against his father who has shown up unannounced.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180522104500 +0000" stop="20180522114000 +0000">
     <title>Grey's Anatomy</title>
@@ -11384,6 +11469,9 @@
   <programme channel="tv.14" start="20180522171500 +0000" stop="20180522180500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180522180500 +0000" stop="20180522183000 +0000">
     <title>Neighbours</title>
@@ -11499,6 +11587,9 @@
   <programme channel="tv.14" start="20180523033500 +0000" stop="20180523040500 +0000">
     <title>Home And Away</title>
     <desc>Willow’s love life takes a messy, unexpected turn; it is a particularly difficult day for Colby; Raffy and Ty become friends...but is that all?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180523040500 +0000" stop="20180523043500 +0000">
     <title>Shortland Street</title>
@@ -14801,6 +14892,9 @@
   <programme channel="tv.28" start="20180520010000 +0000" stop="20180520020000 +0000">
     <title>Haati Grassroots Rugby</title>
     <desc>Join Haati Grassroots Rugby for a showcase of club rugby matches and homegrown stories from some of the 600 rugby clubs throughout New Zealand. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180520020000 +0000" stop="20180520023000 +0000">
     <title>Mad About You</title>
@@ -15063,35 +15157,35 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180521094500 +0000" stop="20180521113500 +0000">
+  <programme channel="tv.28" start="20180521094500 +0000" stop="20180521113000 +0000">
     <title>Prime Flicks: Showdown In</title>
     <desc>Little Tokyo: Two mismatched cops use their martial arts skills to battle the Japanese mob in Los Angeles. Starring Dolph Lundgren and Brandon Lee. AO</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180521113500 +0000" stop="20180521120500 +0000">
+  <programme channel="tv.28" start="20180521113000 +0000" stop="20180521120000 +0000">
     <title>Superior Donuts</title>
     <desc>'Convinced his first art school assignment is a masterpiece, Franco is shocked when he receives a below-average grade and his unimpressed professor asks for a do-over. PGR'</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180521120500 +0000" stop="20180521130500 +0000">
+  <programme channel="tv.28" start="20180521120000 +0000" stop="20180521130000 +0000">
     <title>The Late Show</title>
     <desc>'Join Stephen Colbert for a satirical and comedic take on what's new and relevant, with Benedict Cumberbatch and a stand-up comedy performance by Mary Gallagher. PGR'</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180521130500 +0000" stop="20180521133500 +0000">
+  <programme channel="tv.28" start="20180521130000 +0000" stop="20180521133000 +0000">
     <title>The Crowd Goes Wild</title>
     <desc>'Join the team for an alternative dose of sports news, delivering the best (and worst) sporting moments the only way they know how, with a little cheek! PGR (R)'</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180521133500 +0000" stop="20180521180000 +0000">
+  <programme channel="tv.28" start="20180521133000 +0000" stop="20180521180000 +0000">
     <title>Prime</title>
     <desc>'Prime's regular programming returns at 6am with the best drama, factual, lifestyle and comedy shows, plus free-to-air sport! Check out primetv.co.nz for details.'</desc>
   </programme>
@@ -18938,7 +19032,7 @@
   </programme>
   <programme channel="tv.55" start="20180517191000 +0000" stop="20180517205500 +0000">
     <title>Bundesliga Playoff Match</title>
-    <desc>Replay of yesterday’s opening promotion / relegation match.</desc>
+    <desc>Replay of yesterday’s opening promotion / relegation match as Wolfsburg host Holstein Kiel from the Volkswagen Arena in Wolfsburg.</desc>
   </programme>
   <programme channel="tv.55" start="20180517205500 +0000" stop="20180517212500 +0000">
     <title>MLS Highlights</title>
@@ -19052,7 +19146,7 @@
   </programme>
   <programme channel="tv.55" start="20180518200500 +0000" stop="20180518215000 +0000">
     <title>Bundesliga Playoff Match</title>
-    <desc>Replay of yesterday’s opening promotion / relegation match.</desc>
+    <desc>Replay of yesterday’s opening promotion / relegation match as Wolfsburg host Holstein Kiel from the Volkswagen Arena in Wolfsburg.</desc>
   </programme>
   <programme channel="tv.55" start="20180518215000 +0000" stop="20180518222500 +0000">
     <title>AFL Highlights</title>
@@ -19323,7 +19417,7 @@
   </programme>
   <programme channel="tv.55" start="20180521182000 +0000" stop="20180521203000 +0000">
     <title>Live: Bundesliga Play Off</title>
-    <desc>Live coverage of this morning’s second promotion / relegation match.</desc>
+    <desc>Live coverage of this morning’s second promotion / relegation match as Holstein Kiel host Wolfsburg. Wolfsburg won the first leg 3-1.</desc>
   </programme>
   <programme channel="tv.55" start="20180521203000 +0000" stop="20180521230000 +0000">
     <title>AFL- Essendon v Geelong</title>
@@ -19335,7 +19429,7 @@
   </programme>
   <programme channel="tv.55" start="20180522013000 +0000" stop="20180522033000 +0000">
     <title>NBA Conference Finals</title>
-    <desc>Coverage of the third match from the Western Conference Finals.</desc>
+    <desc>Coverage of the third match from the Western Conference Finals with the Golden State Warriors hosting the Houston Rockets from Oracle Arena in Oakland. The series is tied 1-1.</desc>
   </programme>
   <programme channel="tv.55" start="20180522033000 +0000" stop="20180522043000 +0000">
     <title>Mythbusters</title>
@@ -19376,7 +19470,7 @@
     <title>Car S.O.S</title>
     <desc>Master mechanics Fuzz and Tim are on a mission to save decaying classic cars for their owners. Tonight, the guys totally rebuild a beloved Jeep after it was callously broken in an arson attack.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.55" start="20180522083000 +0000" stop="20180522093000 +0000">
@@ -19404,14 +19498,14 @@
     <title>Live Pd: Police Patrol</title>
     <desc>This program shows the actions and investigations of police forces across America. Ride along with six diverse police departments for a transparent look at law enforcement on duty.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.55" start="20180522115000 +0000" stop="20180522121500 +0000">
     <title>Live Pd: Police Patrol</title>
     <desc>This program shows the actions and investigations of police forces across America. Ride along with six diverse police departments for a transparent look at law enforcement on duty.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.55" start="20180522121500 +0000" stop="20180522180000 +0000">
@@ -19535,7 +19629,7 @@
   </programme>
   <programme channel="tv.55" start="20180523201500 +0000" stop="20180523220000 +0000">
     <title>Bundesliga Playoff Replay</title>
-    <desc>Replay of Tuesday’s second promotion / relegation match.</desc>
+    <desc>Replay of Tuesday’s second promotion / relegation match as Holstein Kiel host Wolfsburg. Wolfsburg won the first leg 3-1.</desc>
   </programme>
   <programme channel="tv.55" start="20180523220000 +0000" stop="20180523225500 +0000">
     <title>Formula E Highlights</title>
@@ -19547,7 +19641,7 @@
   </programme>
   <programme channel="tv.55" start="20180524013000 +0000" stop="20180524033000 +0000">
     <title>NBA Conference Finals</title>
-    <desc>Coverage of the fourth match from the Western Conference Finals.</desc>
+    <desc>Coverage of the fourth match from the Western Conference Finals with the Golden State Warriors hosting the Houston Rockets from Oracle Arena in Oakland.</desc>
   </programme>
   <programme channel="tv.55" start="20180524033000 +0000" stop="20180524043000 +0000">
     <title>Mythbusters</title>
@@ -19710,7 +19804,7 @@
     <title>Air Crash Disaster</title>
     <desc>A look into the 2009 crash of Turkish Airlines Flight #195. Just before landing in Amsterdam, the plane mysteriously fell from the sky, killing nine people.</desc>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.55" start="20180525114500 +0000" stop="20180525123500 +0000">
