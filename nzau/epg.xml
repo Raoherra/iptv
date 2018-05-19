@@ -280,21 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180519033907 +0000" stop="20180519043402 +0000">
-    <title>Explorers: Adventures of the Century S5E6</title>
-    <desc>A team of adventurers undertakes a first-ever kite skiing and kayaking mission across Greenland.</desc>
-    <sub-title>Into Twin Galaxies</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180519043402 +0000" stop="20180519045559 +0000">
-    <title>Listen To: Fritz Kalkbrenner</title>
-    <desc>One of Europe's most famous producers, Fritz Kalkbrenner previews his new record for a handful of lucky fans.</desc>
-    <sub-title>Live Preview of 'Grand Départ'</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180519045559 +0000" stop="20180519050146 +0000">
-    <title>Listen To: Fritz Kalkbrenner: Extra</title>
-    <desc>See DJ Fritz Kalkbrenner performing ‘Cerulean’ at Red Bull Studios Berlin, Germany.</desc>
-    <sub-title>Cerulean: Music Video</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180519050146 +0000" stop="20180519060130 +0000">
     <title>Paradigm Lost</title>
     <desc>An in-depth look at the life of one of the world's most complete watermen, Kai Lenny. </desc>
@@ -4717,6 +4702,9 @@
   <programme channel="tv.10" start="20180525063000 +0000" stop="20180525070000 +0000">
     <title>Neighbours</title>
     <desc>The Brennan boys confront their Mum; Toadie’s loyalties are tested; and will Chloe and Leo be exposed?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180525070000 +0000" stop="20180525073000 +0000">
     <title>Shortland Street</title>
@@ -4853,6 +4841,9 @@
   <programme channel="tv.10" start="20180525171000 +0000" stop="20180525173500 +0000">
     <title>Neighbours</title>
     <desc>The Brennan boys confront their Mum; Toadie’s loyalties are tested; and will Chloe and Leo be exposed?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180525173500 +0000" stop="20180525180000 +0000">
     <title>Grandfathered</title>
@@ -11919,6 +11910,9 @@
   <programme channel="tv.14" start="20180525073000 +0000" stop="20180525080000 +0000">
     <title>Neighbours</title>
     <desc>The Brennan boys confront their Mum; Toadie’s loyalties are tested; and will Chloe and Leo be exposed?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180525080000 +0000" stop="20180525083000 +0000">
     <title>Shortland Street</title>
@@ -12031,6 +12025,9 @@
   <programme channel="tv.14" start="20180525181000 +0000" stop="20180525183500 +0000">
     <title>Neighbours</title>
     <desc>The Brennan boys confront their Mum; Toadie’s loyalties are tested; and will Chloe and Leo be exposed?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180525183500 +0000" stop="20180525190000 +0000">
     <title>Grandfathered</title>
@@ -43273,7 +43270,7 @@
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20180520075600 +0000" stop="20180520082800 +0000">
-    <title>The Checkout: Factory Seconds</title>
+    <title>The Checkout</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -53139,7 +53136,7 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180520043000 +0000" stop="20180520053000 +0000">
-    <title>Building Off the Grid</title>
+    <title>Million Dollar Listing LA</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -55474,8 +55471,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20180525093000 +0000" stop="20180525103500 +0000">
-    <title>Walking the Himalayas</title>
+  <programme channel="tv.101204200427" start="20180525093000 +0000" stop="20180525103000 +0000">
+    <title>Weather Top Ten</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>

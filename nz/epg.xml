@@ -161,21 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180519033907 +0000" stop="20180519043402 +0000">
-    <title>Explorers: Adventures of the Century S5E6</title>
-    <desc>A team of adventurers undertakes a first-ever kite skiing and kayaking mission across Greenland.</desc>
-    <sub-title>Into Twin Galaxies</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180519043402 +0000" stop="20180519045559 +0000">
-    <title>Listen To: Fritz Kalkbrenner</title>
-    <desc>One of Europe's most famous producers, Fritz Kalkbrenner previews his new record for a handful of lucky fans.</desc>
-    <sub-title>Live Preview of 'Grand Départ'</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180519045559 +0000" stop="20180519050146 +0000">
-    <title>Listen To: Fritz Kalkbrenner: Extra</title>
-    <desc>See DJ Fritz Kalkbrenner performing ‘Cerulean’ at Red Bull Studios Berlin, Germany.</desc>
-    <sub-title>Cerulean: Music Video</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180519050146 +0000" stop="20180519060130 +0000">
     <title>Paradigm Lost</title>
     <desc>An in-depth look at the life of one of the world's most complete watermen, Kai Lenny. </desc>
@@ -4598,6 +4583,9 @@
   <programme channel="tv.10" start="20180525063000 +0000" stop="20180525070000 +0000">
     <title>Neighbours</title>
     <desc>The Brennan boys confront their Mum; Toadie’s loyalties are tested; and will Chloe and Leo be exposed?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180525070000 +0000" stop="20180525073000 +0000">
     <title>Shortland Street</title>
@@ -4734,6 +4722,9 @@
   <programme channel="tv.10" start="20180525171000 +0000" stop="20180525173500 +0000">
     <title>Neighbours</title>
     <desc>The Brennan boys confront their Mum; Toadie’s loyalties are tested; and will Chloe and Leo be exposed?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180525173500 +0000" stop="20180525180000 +0000">
     <title>Grandfathered</title>
@@ -11800,6 +11791,9 @@
   <programme channel="tv.14" start="20180525073000 +0000" stop="20180525080000 +0000">
     <title>Neighbours</title>
     <desc>The Brennan boys confront their Mum; Toadie’s loyalties are tested; and will Chloe and Leo be exposed?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180525080000 +0000" stop="20180525083000 +0000">
     <title>Shortland Street</title>
@@ -11912,6 +11906,9 @@
   <programme channel="tv.14" start="20180525181000 +0000" stop="20180525183500 +0000">
     <title>Neighbours</title>
     <desc>The Brennan boys confront their Mum; Toadie’s loyalties are tested; and will Chloe and Leo be exposed?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180525183500 +0000" stop="20180525190000 +0000">
     <title>Grandfathered</title>
