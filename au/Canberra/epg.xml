@@ -2828,18 +2828,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180524075900 +0000" stop="20180524082700 +0000">
-    <title>The Checkout</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210221" start="20180524075900 +0000" stop="20180524085700 +0000">
     <title>Think Tank</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210221" start="20180524075900 +0000" stop="20180524082700 +0000">
+    <title>The Checkout</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20180524082700 +0000" stop="20180524085500 +0000">
@@ -11591,16 +11591,16 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180518160000 +0000" stop="20180518170000 +0000">
+    <title>Barnwood Builders</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200424" start="20180518160000 +0000" stop="20180518170000 +0000">
     <title>Meghan &amp; Harry: In Their Own Words</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200424" start="20180518160000 +0000" stop="20180518170000 +0000">
-    <title>Barnwood Builders</title>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180518165900 +0000" stop="20180518172800 +0000">
@@ -11703,16 +11703,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20180519020000 +0000" stop="20180519030000 +0000">
-    <title>Barnwood Builders</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200424" start="20180519020000 +0000" stop="20180519030200 +0000">
     <title>Hotel Impossible</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200424" start="20180519020000 +0000" stop="20180519030000 +0000">
+    <title>Barnwood Builders</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180519030000 +0000" stop="20180519033000 +0000">
@@ -14281,14 +14281,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20180525093000 +0000" stop="20180525103000 +0000">
-    <title>Weather Top Ten</title>
+  <programme channel="tv.101204200427" start="20180525093000 +0000" stop="20180525103500 +0000">
+    <title>Walking the Himalayas</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20180525093000 +0000" stop="20180525103500 +0000">
-    <title>Walking the Himalayas</title>
+  <programme channel="tv.101204200427" start="20180525093000 +0000" stop="20180525103000 +0000">
+    <title>Weather Top Ten</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -36783,21 +36783,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180519005103 +0000" stop="20180519011846 +0000">
-    <title>Red Bull Flugtag S2E1</title>
-    <desc>In a man-made lake created specially for sea planes, some innovative aircraft take off and land.</desc>
-    <sub-title>Milan, Italy</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180519011846 +0000" stop="20180519012304 +0000">
-    <title>Jason Paul Freeruns an Airport</title>
-    <desc>When he’s late for his flight, pro freerunner Jason Paul runs through an airport like few others can.</desc>
-    <sub-title>Last Call for Mr Paul</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180519012304 +0000" stop="20180519012638 +0000">
-    <title>Jason Paul</title>
-    <desc>German freerunner Jason Paul plays the role of crash-test dummy in this human-powered Rube Goldberg machine.</desc>
-    <sub-title>The Freerunning Machine</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180519012638 +0000" stop="20180519021720 +0000">
     <title>Method Movie 2</title>
