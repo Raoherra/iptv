@@ -280,21 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180520031216 +0000" stop="20180520044400 +0000">
-    <title>Pushing the Limits</title>
-    <desc>A stunning look at the people who are expanding the boundaries of capability and performance in action sports.</desc>
-    <sub-title>An Action Sports Opus</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180520044400 +0000" stop="20180520045325 +0000">
-    <title>Who is JOB S5E4</title>
-    <desc>Jamie O'Brien trains Poopies on big-wave board transfers in Waimea, Hawaii, and Poopies breaks out some toys.</desc>
-    <sub-title>Poopies’ Time to Shine</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180520045325 +0000" stop="20180520050125 +0000">
-    <title>A Profile of Mark McMorris</title>
-    <desc>This mini-doc gives a rare glimpse inside the life and mind of Mark McMorris, Canada’s slopestyle icon.</desc>
-    <sub-title>Inspiration</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180520050125 +0000" stop="20180520054803 +0000">
     <title>Breaking the Day  S1E2</title>
     <desc>Freediving saved Stig Pryds's life. Now he's preparing to put his life on the line for his deepest dive yet. </desc>
@@ -1614,6 +1599,9 @@
   <programme channel="tv.9" start="20180520035500 +0000" stop="20180520060000 +0000">
     <title>The Royal Wedding Highlights</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180520060000 +0000" stop="20180520070000 +0000">
     <title>1 News At 6pm</title>
@@ -1834,6 +1822,9 @@
   <programme channel="tv.9" start="20180521210000 +0000" stop="20180521220000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Woody Harrelson and Gayle King.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180521220000 +0000" stop="20180521230000 +0000">
     <title>Tipping Point</title>
@@ -1870,6 +1861,9 @@
   <programme channel="tv.9" start="20180522020000 +0000" stop="20180522030000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Woody Harrelson and Gayle King.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180522030000 +0000" stop="20180522040000 +0000">
     <title>Tipping Point</title>
@@ -8984,6 +8978,9 @@
   <programme channel="tv.38" start="20180520045500 +0000" stop="20180520070000 +0000">
     <title>The Royal Wedding Highlights</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180520070000 +0000" stop="20180520080000 +0000">
     <title>1 News At 6pm</title>
@@ -9204,6 +9201,9 @@
   <programme channel="tv.38" start="20180521220000 +0000" stop="20180521230000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Woody Harrelson and Gayle King.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180521230000 +0000" stop="20180522000000 +0000">
     <title>Tipping Point</title>
@@ -9240,6 +9240,9 @@
   <programme channel="tv.38" start="20180522030000 +0000" stop="20180522040000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Woody Harrelson and Gayle King.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180522040000 +0000" stop="20180522050000 +0000">
     <title>Tipping Point</title>
@@ -42454,7 +42457,7 @@
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20180520075600 +0000" stop="20180520082800 +0000">
-    <title>The Checkout: Factory Seconds</title>
+    <title>The Checkout</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -43038,11 +43041,11 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180523075900 +0000" stop="20180523083000 +0000">
-    <title>The Checkout</title>
+  <programme channel="tv.101002210221" start="20180523075900 +0000" stop="20180523090000 +0000">
+    <title>Think Tank</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20180523083000 +0000" stop="20180523090000 +0000">
@@ -52889,9 +52892,9 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180523070000 +0000" stop="20180523080000 +0000">
-    <title>Building Off the Grid</title>
+    <title>Texas Flip N' Move</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180523080000 +0000" stop="20180523083000 +0000">
@@ -54708,8 +54711,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20180525093000 +0000" stop="20180525103500 +0000">
-    <title>Walking the Himalayas</title>
+  <programme channel="tv.101204200427" start="20180525093000 +0000" stop="20180525103000 +0000">
+    <title>Weather Top Ten</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -59763,9 +59766,9 @@
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180520023000 +0000" stop="20180520032900 +0000">
-    <title>Night Thunder</title>
+    <title>Ice Road Truckers</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180520032900 +0000" stop="20180520043000 +0000">
