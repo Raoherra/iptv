@@ -9395,18 +9395,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180523075900 +0000" stop="20180523083000 +0000">
-    <title>The Checkout</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002710271" start="20180523075900 +0000" stop="20180523090000 +0000">
     <title>Think Tank</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002710271" start="20180523075900 +0000" stop="20180523083000 +0000">
+    <title>The Checkout</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002710271" start="20180523083000 +0000" stop="20180523090000 +0000">
@@ -9611,18 +9611,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180524075900 +0000" stop="20180524085700 +0000">
-    <title>Think Tank</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002710271" start="20180524075900 +0000" stop="20180524082700 +0000">
     <title>The Checkout</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002710271" start="20180524075900 +0000" stop="20180524085700 +0000">
+    <title>Think Tank</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101002710271" start="20180524082700 +0000" stop="20180524085500 +0000">
@@ -12201,15 +12201,15 @@
     </rating>
   </programme>
   <programme channel="tv.101204300433" start="20180523070000 +0000" stop="20180523080000 +0000">
-    <title>Building Off the Grid</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300433" start="20180523070000 +0000" stop="20180523080000 +0000">
     <title>Texas Flip N' Move</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300433" start="20180523070000 +0000" stop="20180523080000 +0000">
+    <title>Building Off the Grid</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204300433" start="20180523080000 +0000" stop="20180523083000 +0000">
@@ -37050,11 +37050,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180520153428 +0000" stop="20180520162723 +0000">
-    <title>The Horn S1E5</title>
-    <desc>Over the past several decades, Air Zermatt has revolutionised mountain rescue.</desc>
-    <sub-title>The Smallest Piece</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180520162723 +0000" stop="20180520172404 +0000">
     <title>Modern Collective</title>
