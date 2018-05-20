@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180520054803 +0000" stop="20180520064323 +0000">
-    <title>Explorers: Adventures of the Century S5E4</title>
-    <desc>A group of friends attempt to cross the dangerous waters of the Torres and Bass Straits in wooden canoes.</desc>
-    <sub-title>One and a Half Canoes</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180520064323 +0000" stop="20180520072611 +0000">
     <title>Darcy Oake's Trick Fantastic</title>
     <desc>Illusionist Darcy Oake enlists the help of extreme athletes to push his magic tricks to the next level.</desc>
@@ -14225,21 +14220,18 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180520093000 +0000" stop="20180520113000 +0000">
+  <programme channel="tv.28" start="20180520093000 +0000" stop="20180520113500 +0000">
     <title>The Royal Wedding Live With</title>
     <desc>'Cord And Tish!: Quirky faux news anchors Cord Hosenbeck and Tish Cattigan, played by comedic masterminds Will Ferrell and Molly Shannon, cover every detail of the spectacular royal wedding. AO'</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180520113000 +0000" stop="20180520123000 +0000">
+  <programme channel="tv.28" start="20180520113500 +0000" stop="20180520123500 +0000">
     <title>English Premier League</title>
     <desc>'Prime looks at the best bits of the week's English Premier League games, with highlights of England's top division football teams battling it out to be the champions. G (R)'</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
-  <programme channel="tv.28" start="20180520123000 +0000" stop="20180520180000 +0000">
+  <programme channel="tv.28" start="20180520123500 +0000" stop="20180520180000 +0000">
     <title>Prime</title>
     <desc>'Prime's regular programming returns at 6am with the best drama, factual, lifestyle and comedy shows, plus free-to-air sport! Check out primetv.co.nz for details.'</desc>
   </programme>
