@@ -940,12 +940,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
-    <title>Close Of Business</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526053000 +0000">
     <title>Garrmalang Festival Panel: Live</title>
     <subtitles type="teletext"/>
@@ -953,14 +947,20 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
-    <title>The Breakfast Couch</title>
+  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
+    <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
     <title>ABC News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
+    <title>The Breakfast Couch</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -11965,15 +11965,15 @@
     </rating>
   </programme>
   <programme channel="tv.101204300433" start="20180523070000 +0000" stop="20180523080000 +0000">
-    <title>Texas Flip N' Move</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300433" start="20180523070000 +0000" stop="20180523080000 +0000">
     <title>Building Off the Grid</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300433" start="20180523070000 +0000" stop="20180523080000 +0000">
+    <title>Texas Flip N' Move</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204300433" start="20180523080000 +0000" stop="20180523083000 +0000">
@@ -13885,14 +13885,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300436" start="20180525093000 +0000" stop="20180525103000 +0000">
-    <title>Weather Top Ten</title>
+  <programme channel="tv.101204300436" start="20180525093000 +0000" stop="20180525103500 +0000">
+    <title>Walking the Himalayas</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300436" start="20180525093000 +0000" stop="20180525103500 +0000">
-    <title>Walking the Himalayas</title>
+  <programme channel="tv.101204300436" start="20180525093000 +0000" stop="20180525103000 +0000">
+    <title>Weather Top Ten</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -36996,11 +36996,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180521115156 +0000" stop="20180521121404 +0000">
-    <title>Way Past Midnight S1E8</title>
-    <desc>Artists, dancers, and DJs in Barcelona's hip-hop scene join forces to put on the best party in the city.</desc>
-    <sub-title>Friday Night Juice </sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180521121404 +0000" stop="20180521131038 +0000">
     <title>Modern Collective</title>
