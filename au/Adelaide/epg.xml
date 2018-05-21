@@ -934,6 +934,12 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
+    <title>Close Of Business</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526053000 +0000">
     <title>Garrmalang Festival Panel: Live</title>
     <subtitles type="teletext"/>
@@ -941,20 +947,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
-    <title>Close Of Business</title>
+  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
+    <title>The Breakfast Couch</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
     <title>ABC News</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
-    <title>The Breakfast Couch</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -9185,18 +9185,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002510251" start="20180523082900 +0000" stop="20180523090000 +0000">
-    <title>The Checkout</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002510251" start="20180523082900 +0000" stop="20180523093000 +0000">
     <title>Think Tank</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002510251" start="20180523082900 +0000" stop="20180523090000 +0000">
+    <title>The Checkout</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002510251" start="20180523090000 +0000" stop="20180523093000 +0000">
@@ -9401,18 +9401,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002510251" start="20180524082900 +0000" stop="20180524092700 +0000">
-    <title>Think Tank</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002510251" start="20180524082900 +0000" stop="20180524085700 +0000">
     <title>The Checkout</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002510251" start="20180524082900 +0000" stop="20180524092700 +0000">
+    <title>Think Tank</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101002510251" start="20180524085700 +0000" stop="20180524092500 +0000">
@@ -12005,15 +12005,15 @@
     </rating>
   </programme>
   <programme channel="tv.101204500454" start="20180523073000 +0000" stop="20180523083000 +0000">
-    <title>Building Off the Grid</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204500454" start="20180523073000 +0000" stop="20180523083000 +0000">
     <title>Texas Flip N' Move</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500454" start="20180523073000 +0000" stop="20180523083000 +0000">
+    <title>Building Off the Grid</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204500454" start="20180523083000 +0000" stop="20180523090000 +0000">
@@ -37080,11 +37080,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180521211856 +0000" stop="20180521225036 +0000">
-    <title>Pushing the Limits</title>
-    <desc>A stunning look at the people who are expanding the boundaries of capability and performance in action sports.</desc>
-    <sub-title>An Action Sports Opus</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180521225036 +0000" stop="20180521232806 +0000">
     <title>Follow the Wind</title>
