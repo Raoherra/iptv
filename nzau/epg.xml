@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180521040226 +0000" stop="20180521045547 +0000">
-    <title>Mosaik Diaries</title>
-    <desc>Be first to experience Camo &amp; Krooked's album, Mosaik, in an exclusive listening party and in-depth interview.</desc>
-    <sub-title>Red Bull Listening Session: Camo &amp; Krooked</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180521045547 +0000" stop="20180521050134 +0000">
-    <title>Listen To: Fritz Kalkbrenner: Extra</title>
-    <desc>See DJ Fritz Kalkbrenner performing ‘Cerulean’ at Red Bull Studios Berlin, Germany.</desc>
-    <sub-title>Cerulean: Music Video</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180521050134 +0000" stop="20180521054055 +0000">
     <title>Follow Me</title>
     <desc>Accompany an all-star cast of mountain bikers on their global journey to ride the best terrain they can find.</desc>
@@ -2589,6 +2579,9 @@
   <programme channel="tv.10" start="20180521040000 +0000" stop="20180521043000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet some movie star horses, catch up with Bella and her chickens, and show you how to make cat paw prints for your room!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180521043000 +0000" stop="20180521050000 +0000">
     <title>Friends</title>
@@ -4000,6 +3993,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180525201500 +0000" stop="20180525204000 +0000">
     <title>Pokemon Sun And Moon</title>
@@ -4441,6 +4437,9 @@
   <programme channel="tv.10" start="20180527184000 +0000" stop="20180527185000 +0000">
     <title>Takaro Tribe</title>
     <desc>Come join the Tākaro Tribe! They sing and dance their way through their magical alphabet forest, meeting friends and whanau and learning as they go.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180527185000 +0000" stop="20180527185500 +0000">
     <title>Masha And The Bear</title>
@@ -10052,6 +10051,9 @@
   <programme channel="tv.14" start="20180521050000 +0000" stop="20180521053000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet some movie star horses, catch up with Bella and her chickens, and show you how to make cat paw prints for your room!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180521053000 +0000" stop="20180521060000 +0000">
     <title>Friends</title>
@@ -11304,6 +11306,9 @@
   <programme channel="tv.14" start="20180525205000 +0000" stop="20180525211500 +0000">
     <title>The Legendaries</title>
     <desc>After the people of Alysia have all been reverted back to childhood, five heroes known as The Legendaries, reunite in an attempt to undo the spell and restore their adulthood.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180525211500 +0000" stop="20180525214000 +0000">
     <title>Pokemon Sun And Moon</title>
@@ -11667,6 +11672,9 @@
   <programme channel="tv.14" start="20180527194000 +0000" stop="20180527195000 +0000">
     <title>Takaro Tribe</title>
     <desc>Come join the Tākaro Tribe! They sing and dance their way through their magical alphabet forest, meeting friends and whanau and learning as they go.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180527195000 +0000" stop="20180527195500 +0000">
     <title>Masha And The Bear</title>
@@ -18675,6 +18683,9 @@
   <programme channel="tv.55" start="20180521080000 +0000" stop="20180521083000 +0000">
     <title>New: Family Guy</title>
     <desc>Season Finale After Peter falls into a coma, Peter meets God face-to-face, which leads him to ask some of life’s tough questions.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180521083000 +0000" stop="20180521090000 +0000">
     <title>South Park</title>
@@ -54292,8 +54303,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20180525093000 +0000" stop="20180525103000 +0000">
-    <title>Weather Top Ten</title>
+  <programme channel="tv.101204200427" start="20180525093000 +0000" stop="20180525103500 +0000">
+    <title>Walking the Himalayas</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
