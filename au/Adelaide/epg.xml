@@ -934,6 +934,12 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
+    <title>Close Of Business</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526053000 +0000">
     <title>Garrmalang Festival Panel: Live</title>
     <subtitles type="teletext"/>
@@ -941,20 +947,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
-    <title>Close Of Business</title>
+  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
+    <title>The Breakfast Couch</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
     <title>ABC News</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
-    <title>The Breakfast Couch</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -9158,18 +9158,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002510251" start="20180523082900 +0000" stop="20180523090000 +0000">
-    <title>The Checkout</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002510251" start="20180523082900 +0000" stop="20180523093000 +0000">
     <title>Think Tank</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002510251" start="20180523082900 +0000" stop="20180523090000 +0000">
+    <title>The Checkout</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002510251" start="20180523090000 +0000" stop="20180523093000 +0000">
@@ -11978,15 +11978,15 @@
     </rating>
   </programme>
   <programme channel="tv.101204500454" start="20180523073000 +0000" stop="20180523083000 +0000">
-    <title>Building Off the Grid</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204500454" start="20180523073000 +0000" stop="20180523083000 +0000">
     <title>Texas Flip N' Move</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500454" start="20180523073000 +0000" stop="20180523083000 +0000">
+    <title>Building Off the Grid</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204500454" start="20180523083000 +0000" stop="20180523090000 +0000">
@@ -37009,16 +37009,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180521175750 +0000" stop="20180521182412 +0000">
-    <title>Jokke Sommer Documentary </title>
-    <desc>A look into the life of one of the world’s most famous and daring wingsuit flyers.</desc>
-    <sub-title>A Wingsuit Superstar Takes Flight</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180521182412 +0000" stop="20180521182646 +0000">
-    <title>Gravitas – with music by Camo &amp; Krooked</title>
-    <desc>The Red Bull Skydive Team set fire to the night sky with a mesmerising LED light show.</desc>
-    <sub-title>Wingsuit LED Light Show</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180521182646 +0000" stop="20180521191520 +0000">
     <title>28 Winters</title>
