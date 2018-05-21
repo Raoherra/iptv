@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180521054055 +0000" stop="20180521063551 +0000">
-    <title>Explorers: Adventures of the Century S5E5</title>
-    <desc>Explorer Ness Knight takes on her most challenging adventure to date, a solo fat bike trek across Namibia.</desc>
-    <sub-title>Open Space</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180521063551 +0000" stop="20180521081247 +0000">
     <title>Turn It Loose</title>
     <desc>Experience the pursuit of a breakdancing world championship through the eyes of six world-class b-boys.</desc>
@@ -6296,6 +6291,9 @@
   <programme channel="tv.12" start="20180524063000 +0000" stop="20180524072800 +0000">
     <title>Catfish 12</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180524072800 +0000" stop="20180524073000 +0000">
     <title>The Dish</title>
@@ -6361,6 +6359,9 @@
   <programme channel="tv.12" start="20180524225500 +0000" stop="20180524234500 +0000">
     <title>Catfish 12</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180524234500 +0000" stop="20180525003500 +0000">
     <title>I Killed My BFF</title>
@@ -6756,6 +6757,9 @@
   <programme channel="tv.12" start="20180527044500 +0000" stop="20180527054000 +0000">
     <title>Catfish 12</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180527054000 +0000" stop="20180527063500 +0000">
     <title>Catfish</title>
@@ -42443,11 +42447,11 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180523075900 +0000" stop="20180523090000 +0000">
-    <title>Think Tank</title>
+  <programme channel="tv.101002210221" start="20180523075900 +0000" stop="20180523083000 +0000">
+    <title>The Checkout</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20180523083000 +0000" stop="20180523090000 +0000">
@@ -52405,9 +52409,9 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180523070000 +0000" stop="20180523080000 +0000">
-    <title>Texas Flip N' Move</title>
+    <title>Building Off the Grid</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180523080000 +0000" stop="20180523083000 +0000">
