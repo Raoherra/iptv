@@ -940,12 +940,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
-    <title>Close Of Business</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526053000 +0000">
     <title>Garrmalang Festival Panel: Live</title>
     <subtitles type="teletext"/>
@@ -953,14 +947,20 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
-    <title>The Breakfast Couch</title>
+  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
+    <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
     <title>ABC News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
+    <title>The Breakfast Couch</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -11928,15 +11928,15 @@
     </rating>
   </programme>
   <programme channel="tv.101204000407" start="20180523070000 +0000" stop="20180523080000 +0000">
-    <title>Building Off the Grid</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204000407" start="20180523070000 +0000" stop="20180523080000 +0000">
     <title>Texas Flip N' Move</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204000407" start="20180523070000 +0000" stop="20180523080000 +0000">
+    <title>Building Off the Grid</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204000407" start="20180523080000 +0000" stop="20180523083000 +0000">
@@ -36949,11 +36949,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180522055334 +0000" stop="20180522063705 +0000">
-    <title>Breaking the Day  S1E6</title>
-    <desc>Adventure photographer Krystle Wright is about to risk it all in hopes of capturing the image of a lifetime.</desc>
-    <sub-title>Adventure Photographer</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180522063705 +0000" stop="20180522073225 +0000">
     <title>Explorers: Adventures of the Century S5E6</title>
