@@ -9740,21 +9740,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20180527050000 +0000" stop="20180527053000 +0000">
-    <title>Customs</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600461" start="20180527053000 +0000" stop="20180527063000 +0000">
+  <programme channel="tv.101204600461" start="20180527050000 +0000" stop="20180527060000 +0000">
     <title>Who Do You Think You Are?</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20180527063000 +0000" stop="20180527083000 +0000">
+  <programme channel="tv.101204600461" start="20180527060000 +0000" stop="20180527083000 +0000">
     <title>The Voice</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -9805,12 +9798,14 @@
   </programme>
   <programme channel="tv.101204600461" start="20180527140000 +0000" stop="20180527150000 +0000">
     <title>Guiltology</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180527150000 +0000" stop="20180527160000 +0000">
     <title>The Innocence Network</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -9889,14 +9884,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20180528050000 +0000" stop="20180528060000 +0000">
+  <programme channel="tv.101204600461" start="20180528050000 +0000" stop="20180528053000 +0000">
     <title>Nine News Now</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20180528060000 +0000" stop="20180528080000 +0000">
+  <programme channel="tv.101204600461" start="20180528053000 +0000" stop="20180528080000 +0000">
     <title>The Voice</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -9939,6 +9934,7 @@
   </programme>
   <programme channel="tv.101204600461" start="20180528124500 +0000" stop="20180528131500 +0000">
     <title>The Big Bang Theory</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -11526,7 +11522,6 @@
   </programme>
   <programme channel="tv.101204600464" start="20180528143000 +0000" stop="20180528153000 +0000">
     <title>Operation Thailand</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -11656,7 +11651,6 @@
   </programme>
   <programme channel="tv.101204600464" start="20180529050000 +0000" stop="20180529060000 +0000">
     <title>Operation Thailand</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -11705,6 +11699,9 @@
   </programme>
   <programme channel="tv.101204600464" start="20180529113000 +0000" stop="20180529123000 +0000">
     <title>Million Dollar Matchmaker</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101204600464" start="20180529123000 +0000" stop="20180529133000 +0000">
     <title>90 Day Fiance</title>
@@ -12581,10 +12578,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20180527003000 +0000" stop="20180527020000 +0000">
+  <programme channel="tv.101204600467" start="20180527003000 +0000" stop="20180527010000 +0000">
     <title>The Incredible Journey Presents</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600467" start="20180527010000 +0000" stop="20180527020000 +0000">
+    <title>TV Shop - Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204600467" start="20180527020000 +0000" stop="20180527023000 +0000">
@@ -12987,6 +12990,7 @@
   </programme>
   <programme channel="tv.101204600467" start="20180529124000 +0000" stop="20180529144000 +0000">
     <title>Midsomer Murders</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -14373,6 +14377,7 @@
   </programme>
   <programme channel="tv.101204600468" start="20180527140000 +0000" stop="20180527154500 +0000">
     <title>Sausage Party</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -23514,7 +23519,7 @@
     <title>Life Inside the Markets</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406070681" start="20180527033000 +0000" stop="20180527040000 +0000">
@@ -26935,7 +26940,11 @@
     </rating>
   </programme>
   <programme channel="tv.101406070688" start="20180526123000 +0000" stop="20180526133000 +0000">
-    <title>To Be Advised</title>
+    <title>Have You Been Paying Attention?</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
   </programme>
   <programme channel="tv.101406070688" start="20180526133000 +0000" stop="20180526143000 +0000">
     <title>Peter Helliar: One Hot Mess</title>
@@ -26947,7 +26956,7 @@
   <programme channel="tv.101406070688" start="20180526143000 +0000" stop="20180526153000 +0000">
     <title>James Corden: Best of the Week</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406070688" start="20180526153000 +0000" stop="20180526180000 +0000">
@@ -37053,21 +37062,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180522063705 +0000" stop="20180522073225 +0000">
-    <title>Explorers: Adventures of the Century S5E6</title>
-    <desc>A team of adventurers undertakes a first-ever kite skiing and kayaking mission across Greenland.</desc>
-    <sub-title>Into Twin Galaxies</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180522073225 +0000" stop="20180522075459 +0000">
-    <title>Listen To: Fritz Kalkbrenner</title>
-    <desc>One of Europe's most famous producers, Fritz Kalkbrenner previews his new record for a handful of lucky fans.</desc>
-    <sub-title>Live Preview of 'Grand Départ'</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180522075459 +0000" stop="20180522080046 +0000">
-    <title>Listen To: Fritz Kalkbrenner: Extra</title>
-    <desc>See DJ Fritz Kalkbrenner performing ‘Cerulean’ at Red Bull Studios Berlin, Germany.</desc>
-    <sub-title>Cerulean: Music Video</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180522080046 +0000" stop="20180522083922 +0000">
     <title>Paying the Price</title>
