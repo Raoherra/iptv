@@ -280,21 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180522033810 +0000" stop="20180522042643 +0000">
-    <title>28 Winters</title>
-    <desc>Every rider has their own style, but snowboarding is always about freedom, friends, and fun.</desc>
-    <sub-title>A Story About Nitro Snowboards</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180522042643 +0000" stop="20180522043443 +0000">
-    <title>A Profile of Mark McMorris</title>
-    <desc>This mini-doc gives a rare glimpse inside the life and mind of Mark McMorris, Canada’s slopestyle icon.</desc>
-    <sub-title>Inspiration</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180522043443 +0000" stop="20180522050150 +0000">
-    <title>Follow the Steps S1E1</title>
-    <desc>In the hours leading up to the Flying Steps' American debut, the crew recounts what it took to get there.</desc>
-    <sub-title>Breakout Performance</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180522050150 +0000" stop="20180522052615 +0000">
     <title>Rise of the Bullet</title>
     <desc>After becoming three-time world champ in MX2, watch how Jeffrey Herlings fares while competing in MX1. </desc>
@@ -1157,6 +1142,9 @@
   <programme channel="tv.9" start="20180522210000 +0000" stop="20180522220000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Rob Lowe.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180522220000 +0000" stop="20180522230000 +0000">
     <title>Tipping Point</title>
@@ -1193,6 +1181,9 @@
   <programme channel="tv.9" start="20180523020000 +0000" stop="20180523030000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Rob Lowe.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180523030000 +0000" stop="20180523040000 +0000">
     <title>Tipping Point</title>
@@ -1750,10 +1741,16 @@
     <title>Attitude</title>
     <desc>Sophia Malthus became a quadriplegic after being thrown off her horse. We follow this sassy young woman on a journey to acceptance and independence.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180526233000 +0000" stop="20180526235500 +0000">
     <title>Fair Go</title>
     <desc>Join Pippa Wetzell, Hadyn Jones and the Fair Go team as they stand up for the underdogs and consumer rights!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180526235500 +0000" stop="20180527005500 +0000">
     <title>Coronation Street</title>
@@ -1810,6 +1807,9 @@
     <title>Coast New Zealand</title>
     <desc>Season Finale: South Westland; in a Coast first, adventurer Dave Murray will land his plane on remote Big Bay paving the way for a historic flight of the NZ’s first ever commercial aircraft.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180527090000 +0000" stop="20180527100500 +0000">
     <title>The Philpott Fire: Five Years On</title>
@@ -1839,6 +1839,9 @@
     <title>Attitude</title>
     <desc>Sophia Malthus became a quadriplegic after being thrown off her horse. We follow this sassy young woman on a journey to acceptance and independence.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180527134000 +0000" stop="20180527153500 +0000">
     <title>Emmerdale</title>
@@ -1971,6 +1974,9 @@
     <title>Lucifer</title>
     <desc>S3 E7 A reporter learns that Lucifer has been sleeping with Linda, who happens to be the reporter's estranged wife.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180528102500 +0000" stop="20180528105500 +0000">
     <title>1 News Tonight</title>
@@ -2105,6 +2111,9 @@
     <title>Dog Squad</title>
     <desc>Tonight, in Hamilton Delta team Blair and Rush bust a burglar who burgled a bus and longtime Dog Squad star Watchman hangs up his jacket after 9 years of service.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180529080000 +0000" stop="20180529083000 +0000">
     <title>The Force</title>
@@ -2207,7 +2216,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180521173000 +0000" stop="20180521183000 +0000">
+  <programme channel="tv.10" start="20180521173000 +0000" stop="20180521180000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.10" start="20180521180000 +0000" stop="20180521183000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -2636,6 +2649,9 @@
   <programme channel="tv.10" start="20180523040000 +0000" stop="20180523043000 +0000">
     <title>Fanimals</title>
     <desc>Today it's all action in the next race for glory on 'Farmyard Olympics' in Paeroa, Wolf goes on an expedition to release some endangered native kiwis, and you could win big on 'Call of Nature'!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180523043000 +0000" stop="20180523050000 +0000">
     <title>Friends</title>
@@ -2657,6 +2673,9 @@
   <programme channel="tv.10" start="20180523053000 +0000" stop="20180523060000 +0000">
     <title>Home And Away</title>
     <desc>Maggie’s condition takes a dramatic turn for the worse; Ebony starts to reel Colby into her web of lies; Ryder’s attempts to win over Coco backfire spectacularly.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180523060000 +0000" stop="20180523063000 +0000">
     <title>The Big Bang Theory</title>
@@ -2907,6 +2926,9 @@
   <programme channel="tv.10" start="20180524024000 +0000" stop="20180524031000 +0000">
     <title>Home And Away</title>
     <desc>Maggie’s condition takes a dramatic turn for the worse; Ebony starts to reel Colby into her web of lies; Ryder’s attempts to win over Coco backfire spectacularly.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180524031000 +0000" stop="20180524034000 +0000">
     <title>Shortland Street</title>
@@ -3112,6 +3134,9 @@
   <programme channel="tv.10" start="20180524192500 +0000" stop="20180524195000 +0000">
     <title>The Zhu Zhus</title>
     <desc>Adventurous Frankie and her four extraordinary hamsters navigate life in Anytown, where anything's possible!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180524195000 +0000" stop="20180524201500 +0000">
     <title>Beyblade Burst Evolution</title>
@@ -3167,6 +3192,9 @@
   <programme channel="tv.10" start="20180525010000 +0000" stop="20180525020000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180525020000 +0000" stop="20180525023000 +0000">
     <title>Home Improvement</title>
@@ -3324,6 +3352,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180525124000 +0000" stop="20180525130000 +0000">
     <title>People Of Earth</title>
@@ -3370,6 +3401,9 @@
   <programme channel="tv.10" start="20180525160500 +0000" stop="20180525165500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180525165500 +0000" stop="20180525171000 +0000">
     <title>Regular Show</title>
@@ -3539,6 +3573,9 @@
     <title>Survivor New Zealand</title>
     <desc>Tonight, a fall-out at tribal council has left one castaway isolated and alone. But just when things seemed to take a turn for the worst, Matt Chisholm throws a curveball at the two tribes.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180526021000 +0000" stop="20180526031000 +0000">
     <title>The 100</title>
@@ -3893,7 +3930,7 @@
   </programme>
   <programme channel="tv.10" start="20180527184000 +0000" stop="20180527185000 +0000">
     <title>Takaro Tribe</title>
-    <desc>Come join the Tākaro Tribe! They sing and dance their way through their magical alphabet forest, meeting friends and whanau and learning as they go.</desc>
+    <desc>This New Zealand-made animaton sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -4206,7 +4243,7 @@
   </programme>
   <programme channel="tv.10" start="20180528184000 +0000" stop="20180528185000 +0000">
     <title>Takaro Tribe</title>
-    <desc>Come join the Tākaro Tribe! They sing and dance their way through their magical alphabet forest, meeting friends and whanau and learning as they go.</desc>
+    <desc>This New Zealand-made animaton sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
   </programme>
   <programme channel="tv.10" start="20180528185000 +0000" stop="20180528185500 +0000">
     <title>Masha And The Bear</title>
@@ -8617,6 +8654,9 @@
   <programme channel="tv.38" start="20180522220000 +0000" stop="20180522230000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Rob Lowe.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180522230000 +0000" stop="20180523000000 +0000">
     <title>Tipping Point</title>
@@ -8653,6 +8693,9 @@
   <programme channel="tv.38" start="20180523030000 +0000" stop="20180523040000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Rob Lowe.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180523040000 +0000" stop="20180523050000 +0000">
     <title>Tipping Point</title>
@@ -9210,10 +9253,16 @@
     <title>Attitude</title>
     <desc>Sophia Malthus became a quadriplegic after being thrown off her horse. We follow this sassy young woman on a journey to acceptance and independence.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180527003000 +0000" stop="20180527005500 +0000">
     <title>Fair Go</title>
     <desc>Join Pippa Wetzell, Hadyn Jones and the Fair Go team as they stand up for the underdogs and consumer rights!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180527005500 +0000" stop="20180527015500 +0000">
     <title>Coronation Street</title>
@@ -9270,6 +9319,9 @@
     <title>Coast New Zealand</title>
     <desc>Season Finale: South Westland; in a Coast first, adventurer Dave Murray will land his plane on remote Big Bay paving the way for a historic flight of the NZ’s first ever commercial aircraft.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180527100000 +0000" stop="20180527110500 +0000">
     <title>The Philpott Fire: Five Years On</title>
@@ -9299,6 +9351,9 @@
     <title>Attitude</title>
     <desc>Sophia Malthus became a quadriplegic after being thrown off her horse. We follow this sassy young woman on a journey to acceptance and independence.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180527144000 +0000" stop="20180527163500 +0000">
     <title>Emmerdale</title>
@@ -9431,6 +9486,9 @@
     <title>Lucifer</title>
     <desc>S3 E7 A reporter learns that Lucifer has been sleeping with Linda, who happens to be the reporter's estranged wife.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180528112500 +0000" stop="20180528115500 +0000">
     <title>1 News Tonight</title>
@@ -9565,6 +9623,9 @@
     <title>Dog Squad</title>
     <desc>Tonight, in Hamilton Delta team Blair and Rush bust a burglar who burgled a bus and longtime Dog Squad star Watchman hangs up his jacket after 9 years of service.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180529090000 +0000" stop="20180529093000 +0000">
     <title>The Force</title>
@@ -9658,7 +9719,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180521183000 +0000" stop="20180521193000 +0000">
+  <programme channel="tv.14" start="20180521183000 +0000" stop="20180521190000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.14" start="20180521190000 +0000" stop="20180521193000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -10048,6 +10113,9 @@
   <programme channel="tv.14" start="20180523050000 +0000" stop="20180523053000 +0000">
     <title>Fanimals</title>
     <desc>Today it's all action in the next race for glory on 'Farmyard Olympics' in Paeroa, Wolf goes on an expedition to release some endangered native kiwis, and you could win big on 'Call of Nature'!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180523053000 +0000" stop="20180523060000 +0000">
     <title>Friends</title>
@@ -10066,6 +10134,9 @@
   <programme channel="tv.14" start="20180523063000 +0000" stop="20180523070000 +0000">
     <title>Home And Away</title>
     <desc>Maggie’s condition takes a dramatic turn for the worse; Ebony starts to reel Colby into her web of lies; Ryder’s attempts to win over Coco backfire spectacularly.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180523070000 +0000" stop="20180523073000 +0000">
     <title>The Big Bang Theory</title>
@@ -10289,6 +10360,9 @@
   <programme channel="tv.14" start="20180524034000 +0000" stop="20180524041000 +0000">
     <title>Home And Away</title>
     <desc>Maggie’s condition takes a dramatic turn for the worse; Ebony starts to reel Colby into her web of lies; Ryder’s attempts to win over Coco backfire spectacularly.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180524041000 +0000" stop="20180524044000 +0000">
     <title>Shortland Street</title>
@@ -10473,6 +10547,9 @@
   <programme channel="tv.14" start="20180524202500 +0000" stop="20180524205000 +0000">
     <title>The Zhu Zhus</title>
     <desc>Adventurous Frankie and her four extraordinary hamsters navigate life in Anytown, where anything's possible!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180524205000 +0000" stop="20180524211500 +0000">
     <title>Beyblade Burst Evolution</title>
@@ -10528,6 +10605,9 @@
   <programme channel="tv.14" start="20180525020000 +0000" stop="20180525030000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180525030000 +0000" stop="20180525033000 +0000">
     <title>Home Improvement</title>
@@ -10661,6 +10741,9 @@
   <programme channel="tv.14" start="20180525131500 +0000" stop="20180525134000 +0000">
     <title>Less Than Perfect</title>
     <desc>Claude gets stuck in the middle when she tries to help Lydia and Jeb with their prenuptial agreement.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180525134000 +0000" stop="20180525140000 +0000">
     <title>People Of Earth</title>
@@ -10698,6 +10781,9 @@
   <programme channel="tv.14" start="20180525170500 +0000" stop="20180525175500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180525175500 +0000" stop="20180525181000 +0000">
     <title>Regular Show</title>
@@ -10849,6 +10935,9 @@
     <title>Survivor New Zealand</title>
     <desc>Tonight, a fall-out at tribal council has left one castaway isolated and alone. But just when things seemed to take a turn for the worst, Matt Chisholm throws a curveball at the two tribes.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180526031000 +0000" stop="20180526041000 +0000">
     <title>The 100</title>
@@ -11051,6 +11140,9 @@
     <title>Survivor New Zealand</title>
     <desc>A reward challenge has everyone desperate for the win. Later, with hopes to eliminate strong players, could a blindside be on the cards at tribal council?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180527093000 +0000" stop="20180527114500 +0000">
     <title>Olympus Has Fallen</title>
@@ -11134,7 +11226,7 @@
   </programme>
   <programme channel="tv.14" start="20180527194000 +0000" stop="20180527195000 +0000">
     <title>Takaro Tribe</title>
-    <desc>Come join the Tākaro Tribe! They sing and dance their way through their magical alphabet forest, meeting friends and whanau and learning as they go.</desc>
+    <desc>This New Zealand-made animaton sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -11414,7 +11506,7 @@
   </programme>
   <programme channel="tv.14" start="20180528194000 +0000" stop="20180528195000 +0000">
     <title>Takaro Tribe</title>
-    <desc>Come join the Tākaro Tribe! They sing and dance their way through their magical alphabet forest, meeting friends and whanau and learning as they go.</desc>
+    <desc>This New Zealand-made animaton sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
   </programme>
   <programme channel="tv.14" start="20180528195000 +0000" stop="20180528195500 +0000">
     <title>Masha And The Bear</title>
@@ -18772,14 +18864,23 @@
   <programme channel="tv.55" start="20180525073000 +0000" stop="20180525080000 +0000">
     <title>New: Live Pd Police Patrol</title>
     <desc>This program shows the actions and investigations of police forces across America. Ride along with six diverse police departments for a transparent look at law enforcement on duty.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180525080000 +0000" stop="20180525083000 +0000">
     <title>New: Live Pd Police Patrol</title>
     <desc>This program shows the actions and investigations of police forces across America. Ride along with six diverse police departments for a transparent look at law enforcement on duty.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180525083000 +0000" stop="20180525105000 +0000">
     <title>Movie: Everybody Wants Some</title>
     <desc>In 1980, a group of college baseball players navigate their way through the freedoms and responsibilities of unsupervised adulthood.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180525105000 +0000" stop="20180525114500 +0000">
     <title>Air Crash Disaster</title>
@@ -18791,6 +18892,9 @@
   <programme channel="tv.55" start="20180525114500 +0000" stop="20180525123500 +0000">
     <title>New: Bar Rescue</title>
     <desc>Rock legend and former Judas Priest front man turned bar owner calls on Jon Taffer to amp up his struggling live music venue before he's forced to pull the plug on the entire business.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180525123500 +0000" stop="20180525151000 +0000">
     <title>AFL - Collingwood v Western</title>
@@ -18941,7 +19045,7 @@
     </rating>
   </programme>
   <programme channel="tv.55" start="20180527100000 +0000" stop="20180527110000 +0000">
-    <title>New: Beyond</title>
+    <title>Beyond</title>
     <desc>New Series S1 E1 Holden, a young man who wakes up from a coma after 12 years, discovers new abilities that propel him into the middle of a dangerous conspiracy!</desc>
     <rating system="Freeview">
       <value>AO</value>
@@ -19129,6 +19233,9 @@
   <programme channel="tv.55" start="20180529112500 +0000" stop="20180529115000 +0000">
     <title>Live Pd: Police Patrol</title>
     <desc>This program shows the actions and investigations of police forces across America. Ride along with six diverse police departments for a transparent look at law enforcement on duty.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180529115000 +0000" stop="20180529122000 +0000">
     <title>MLS Highlights</title>
@@ -40953,8 +41060,9 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
-    <title>Close Of Business</title>
+  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526053000 +0000">
+    <title>Garrmalang Festival Panel: Live</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -53828,8 +53936,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20180525093000 +0000" stop="20180525103500 +0000">
-    <title>Walking the Himalayas</title>
+  <programme channel="tv.101204200427" start="20180525093000 +0000" stop="20180525103000 +0000">
+    <title>Weather Top Ten</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
