@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180523050130 +0000" stop="20180523063242 +0000">
-    <title>Pushing the Limits</title>
-    <desc>A stunning look at the people who are expanding the boundaries of capability and performance in action sports.</desc>
-    <sub-title>An Action Sports Opus</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180523063242 +0000" stop="20180523071011 +0000">
     <title>Follow the Wind</title>
     <desc>Using wind power to travel, Jerrie van de Kop sets out to explore the regions of Zanzibar and Tanzania.</desc>
@@ -4651,6 +4646,9 @@
   <programme channel="tv.11" start="20180524073000 +0000" stop="20180524080000 +0000">
     <title>All New Roseanne</title>
     <desc>Final. New Episode. Roseanne's knee gets worse so Dan is forced to a make an important work decision, but when a major storm hits Lanford, their fortunes change. S1 Ep9</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -24481,8 +24479,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180523153000 +0000" stop="20180523163000 +0000">
-    <title>COVERDERM Dermocosmetics</title>
-    <desc>Coverderm is an expert brand in advanced dermocosmetics specialising in all facial or body imperfections. Wholly cover flaws with easy-to-apply and long-lasting skincare!</desc>
+    <title>Philips XXL Airfryer CASHBACK</title>
+    <desc>Philips Airfryer - now extra, extra large! Perfect for family cooking the XXL features a digital touchscreen and larger capacity with Rapid Air technology for oil-free frying.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -24509,15 +24507,15 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180523193000 +0000" stop="20180523203000 +0000">
-    <title>Marambaia Topaz</title>
-    <desc>Top of all the Topaz, Marambaia sets the standard for this gemstone! The Marambaia colour is very desirable, more scarce and sets the benchmark for quality, colour and grade.</desc>
+    <title>COVERDERM Dermocosmetics</title>
+    <desc>Coverderm is an expert brand in advanced dermocosmetics specialising in all facial or body imperfections. Wholly cover flaws with easy-to-apply and long-lasting skincare!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180523203000 +0000" stop="20180523213000 +0000">
-    <title>Ovenwave Microwave Cooking</title>
-    <desc>Now you can sauté, grill, crisp and bake in your microwave. OvenWave changes the way you cook in the microwave using a non-stick pan for perfectly cooked meals with absolute ease.</desc>
+    <title>Turmeric Active</title>
+    <desc>Get the best for your body. Turmeric Active is a market leader Turmeric product in Australia. Formulated with Manuka Honey and lemon, Turmeric Active dissolves easily and tastes great!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
