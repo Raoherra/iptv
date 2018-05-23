@@ -614,13 +614,13 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
-    <title>ABC News</title>
+    <title>The Breakfast Couch</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
-    <title>The Breakfast Couch</title>
+    <title>ABC News</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -1642,6 +1642,13 @@
   </programme>
   <programme channel="tv.101002210220" start="20180531130000 +0000" stop="20180531140000 +0000">
     <title>ABC News Tonight</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180531140000 +0000" stop="20180531143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -13183,6 +13190,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204000407" start="20180531140000 +0000" stop="20180531143000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.10120400040A" start="20180523132100 +0000" stop="20180523142000 +0000">
     <title>Cold Case</title>
     <subtitles type="teletext"/>
@@ -18247,6 +18260,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180531140000 +0000" stop="20180531143000 +0000">
+    <title>Raceday Review - Racing.com Park</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305040540" start="20180523132800 +0000" stop="20180523142500 +0000">
     <title>Hell's Kitchen USA</title>
     <subtitles type="teletext"/>
@@ -19886,13 +19906,13 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20180526035900 +0000" stop="20180526042900 +0000">
+  <programme channel="tv.101305040542" start="20180526035900 +0000" stop="20180526042800 +0000">
     <title>The Great Australian Doorstep</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20180526035900 +0000" stop="20180526042800 +0000">
+  <programme channel="tv.101305040542" start="20180526035900 +0000" stop="20180526042900 +0000">
     <title>The Great Australian Doorstep</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -22345,6 +22365,12 @@
     </rating>
   </programme>
   <programme channel="tv.101305040543" start="20180531130200 +0000" stop="20180531140000 +0000">
+    <title>Robot Combat League</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040543" start="20180531140000 +0000" stop="20180531150000 +0000">
     <title>Robot Combat League</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -25425,6 +25451,12 @@
   <programme channel="tv.101406040641" start="20180531130000 +0000" stop="20180531140000 +0000">
     <title>SEAL Team</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406040641" start="20180531140000 +0000" stop="20180531150000 +0000">
+    <title>Highlander</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -34842,6 +34874,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180531140000 +0000" stop="20180531143000 +0000">
+    <title>Good Eats</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180523133500 +0000" stop="20180523140000 +0000">
     <title>Be Deadly</title>
     <rating system="Freeview">
@@ -36901,21 +36939,6 @@
     <rating system="Freeview">
       <value>NC</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180523210115 +0000" stop="20180523214358 +0000">
-    <title>Follow the Fraser</title>
-    <desc>Three professional mountain bikers travel north through Canada, riding their way toward the unknown.</desc>
-    <sub-title>A Mountain Bike Excursion Into the Unknown</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180523214358 +0000" stop="20180523214612 +0000">
-    <title>Martin Söderström and Dawid Godziek</title>
-    <desc>Martin Söderström and Dawid Godziek fly through an idyllic Swedish landscape without a single kicker in sight.</desc>
-    <sub-title>Field Trippin'</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180523214612 +0000" stop="20180523215837 +0000">
-    <title>Dedicate S1E1</title>
-    <desc>The skydiving record book gets turned on its head with an attempt to have 65 women fly upside down together.</desc>
-    <sub-title>Women's Skydive Record</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180523215837 +0000" stop="20180523222500 +0000">
     <title>Jokke Sommer Documentary </title>
