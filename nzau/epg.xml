@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180523032723 +0000" stop="20180523050130 +0000">
-    <title>Forced Perspective</title>
-    <desc>Walking the tightrope between creativity and mental illness has given life to artist Derek Hess’s work.</desc>
-    <sub-title>The Story of Artist Derek Hess</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180523050130 +0000" stop="20180523063242 +0000">
     <title>Pushing the Limits</title>
     <desc>A stunning look at the people who are expanding the boundaries of capability and performance in action sports.</desc>
@@ -1150,6 +1145,9 @@
   <programme channel="tv.9" start="20180523210000 +0000" stop="20180523220000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen hosts a Mother's Day show.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180523220000 +0000" stop="20180523230000 +0000">
     <title>Tipping Point</title>
@@ -1179,10 +1177,16 @@
   <programme channel="tv.9" start="20180524010000 +0000" stop="20180524020000 +0000">
     <title>Tiny House Nation</title>
     <desc>Today, John and Zack will have their hands full with a tiny house that can accommodate workspaces for three boys who are homeschooling, and enough space for musical jam sessions.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180524020000 +0000" stop="20180524030000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen hosts a Mother's Day show.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180524030000 +0000" stop="20180524040000 +0000">
     <title>Tipping Point</title>
@@ -1198,6 +1202,9 @@
   <programme channel="tv.9" start="20180524043000 +0000" stop="20180524045500 +0000">
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180524045500 +0000" stop="20180524060000 +0000">
     <title>The Chase</title>
@@ -1634,6 +1641,9 @@
   <programme channel="tv.9" start="20180527005500 +0000" stop="20180527015500 +0000">
     <title>Tiny House Nation</title>
     <desc>John Weisbarth and Zack Giffin travel across America showing off ingenious small spaces and the inventive people who live in them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180527015500 +0000" stop="20180527025500 +0000">
     <title>First Crossings</title>
@@ -1646,6 +1656,9 @@
   <programme channel="tv.9" start="20180527025500 +0000" stop="20180527035500 +0000">
     <title>Heavy Rescue 401</title>
     <desc>When winter hits, the Heavy Recovery operators of Southern Ontario fight to clear wrecks and keep drivers moving on the busiest stretch of highway in the world.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180527035500 +0000" stop="20180527045500 +0000">
     <title>Chasing Monsters</title>
@@ -1686,6 +1699,9 @@
     <title>The Philpott Fire: Five Years On</title>
     <desc>Special: In May 2012, Mick Philpott started a fire in his own house which killed six of his children. This documentary looks at what happened that fateful night.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180527100500 +0000" stop="20180527111000 +0000">
     <title>Seven Types Of Ambiguity</title>
@@ -1805,6 +1821,9 @@
   <programme channel="tv.9" start="20180528043000 +0000" stop="20180528045500 +0000">
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180528045500 +0000" stop="20180528060000 +0000">
     <title>The Chase</title>
@@ -1920,6 +1939,9 @@
   <programme channel="tv.9" start="20180528210000 +0000" stop="20180528220000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Bono and The Edge along with Diane Keatuin.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180528220000 +0000" stop="20180528230000 +0000">
     <title>Tipping Point</title>
@@ -1949,14 +1971,23 @@
   <programme channel="tv.9" start="20180529010000 +0000" stop="20180529020000 +0000">
     <title>Tiny House Nation</title>
     <desc>John Weisbarth and Zack Giffin travel across America showing off ingenious small spaces and the inventive people who live in them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180529020000 +0000" stop="20180529030000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Bono and The Edge along with Diane Keatuin.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180529030000 +0000" stop="20180529040000 +0000">
     <title>Tipping Point</title>
     <desc>Quiz show in which four players take on an extraordinary machine in the hope of winning its 10,000 pound jackpot.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180529040000 +0000" stop="20180529043000 +0000">
     <title>Te Karere</title>
@@ -1965,10 +1996,16 @@
   <programme channel="tv.9" start="20180529043000 +0000" stop="20180529045500 +0000">
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180529045500 +0000" stop="20180529060000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180529060000 +0000" stop="20180529070000 +0000">
     <title>1 News At 6pm</title>
@@ -2674,6 +2711,9 @@
   <programme channel="tv.10" start="20180524040000 +0000" stop="20180524043000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet some funky flamingos at Auckland Zoo, we show you how to make chunky monkey bites, and see what your teachers really get up to after school!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180524043000 +0000" stop="20180524050000 +0000">
     <title>Friends</title>
@@ -2861,6 +2901,9 @@
   <programme channel="tv.10" start="20180524195000 +0000" stop="20180524201500 +0000">
     <title>Beyblade Burst Evolution</title>
     <desc>Emerging from the shadows, a mysterious new Blader makes his mark on the World League stage. Can Cuza shine a light on this spiky-toothed spook’s true intentions?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180524201500 +0000" stop="20180524203500 +0000">
     <title>Disney Junior Art Attack</title>
@@ -3436,6 +3479,9 @@
   <programme channel="tv.10" start="20180526184500 +0000" stop="20180526185500 +0000">
     <title>Best Of Chuggington Collection</title>
     <desc>Choo choo! Catch a ride with Wilson, Koko and Brewster, the newest members of Chuggington crew. Along the track you'll visit the countryside, have fun, and learn new things!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180526185500 +0000" stop="20180526190000 +0000">
     <title>Chuggington: Little Trainees</title>
@@ -3457,6 +3503,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180526193500 +0000" stop="20180526200000 +0000">
     <title>Disney Andi Mack</title>
@@ -3464,6 +3513,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180526200000 +0000" stop="20180526220000 +0000">
     <title>What Now</title>
@@ -3493,6 +3545,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180527020000 +0000" stop="20180527023000 +0000">
     <title>Mike &amp; Molly</title>
@@ -3552,6 +3607,9 @@
     <title>Survivor New Zealand</title>
     <desc>A reward challenge has everyone desperate for the win. Later, with hopes to eliminate strong players, could a blindside be on the cards at tribal council?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180527083000 +0000" stop="20180527104500 +0000">
     <title>Olympus Has Fallen</title>
@@ -3679,6 +3737,9 @@
   <programme channel="tv.10" start="20180527192500 +0000" stop="20180527195000 +0000">
     <title>The Zhu Zhus</title>
     <desc>Adventurous Frankie and her four extraordinary hamsters navigate life in Anytown, where anything's possible!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180527195000 +0000" stop="20180527201500 +0000">
     <title>Beyblade Burst Evolution</title>
@@ -3964,6 +4025,9 @@
   <programme channel="tv.10" start="20180528184000 +0000" stop="20180528185000 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animaton sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180528185000 +0000" stop="20180528185500 +0000">
     <title>Masha And The Bear</title>
@@ -3999,6 +4063,9 @@
   <programme channel="tv.10" start="20180528195000 +0000" stop="20180528201500 +0000">
     <title>Beyblade Burst Evolution</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180528201500 +0000" stop="20180528203500 +0000">
     <title>Disney Junior Art Attack</title>
@@ -4043,10 +4110,16 @@
   <programme channel="tv.10" start="20180529000500 +0000" stop="20180529010500 +0000">
     <title>Jeremy Kyle</title>
     <desc>Today on Jeremy Kyle: I Refuse To Let My Teenage Son Come Home Because I'm Scared Of Him!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180529010500 +0000" stop="20180529020500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180529020500 +0000" stop="20180529023500 +0000">
     <title>Home Improvement</title>
@@ -4076,6 +4149,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180529040000 +0000" stop="20180529043000 +0000">
     <title>Fanimals</title>
@@ -4112,6 +4188,9 @@
   <programme channel="tv.10" start="20180529063000 +0000" stop="20180529070000 +0000">
     <title>Neighbours</title>
     <desc>An unexpected resident gets in deadly peril, a desperate search escalates and Elly is torn over Liam's question.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180529070000 +0000" stop="20180529073000 +0000">
     <title>Shortland Street</title>
@@ -4217,14 +4296,23 @@
   <programme channel="tv.10" start="20180529152500 +0000" stop="20180529161500 +0000">
     <title>Jeremy Kyle</title>
     <desc>Today on Jeremy Kyle: I Refuse To Let My Teenage Son Come Home Because I'm Scared Of Him!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180529161500 +0000" stop="20180529170500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180529170500 +0000" stop="20180529173000 +0000">
     <title>Neighbours</title>
     <desc>An unexpected resident gets in deadly peril, a desperate search escalates and Elly is torn over Liam's question.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180529173000 +0000" stop="20180529180000 +0000">
     <title>Infomercials 5:30am Sun- Thu</title>
@@ -4303,6 +4391,9 @@
   <programme channel="tv.10" start="20180529223000 +0000" stop="20180529230000 +0000">
     <title>Neighbours</title>
     <desc>An unexpected resident gets in deadly peril, a desperate search escalates and Elly is torn over Liam's question.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180529230000 +0000" stop="20180530000500 +0000">
     <title>My Kitchen Rules</title>
@@ -4426,6 +4517,9 @@
       <stereo>dolby</stereo>
     </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180530104500 +0000" stop="20180530111500 +0000">
     <title>Two And A Half Men</title>
@@ -8618,6 +8712,9 @@
   <programme channel="tv.38" start="20180523220000 +0000" stop="20180523230000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen hosts a Mother's Day show.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180523230000 +0000" stop="20180524000000 +0000">
     <title>Tipping Point</title>
@@ -8647,10 +8744,16 @@
   <programme channel="tv.38" start="20180524020000 +0000" stop="20180524030000 +0000">
     <title>Tiny House Nation</title>
     <desc>Today, John and Zack will have their hands full with a tiny house that can accommodate workspaces for three boys who are homeschooling, and enough space for musical jam sessions.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180524030000 +0000" stop="20180524040000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen hosts a Mother's Day show.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180524040000 +0000" stop="20180524050000 +0000">
     <title>Tipping Point</title>
@@ -8666,6 +8769,9 @@
   <programme channel="tv.38" start="20180524053000 +0000" stop="20180524055500 +0000">
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180524055500 +0000" stop="20180524070000 +0000">
     <title>The Chase</title>
@@ -9102,6 +9208,9 @@
   <programme channel="tv.38" start="20180527015500 +0000" stop="20180527025500 +0000">
     <title>Tiny House Nation</title>
     <desc>John Weisbarth and Zack Giffin travel across America showing off ingenious small spaces and the inventive people who live in them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180527025500 +0000" stop="20180527035500 +0000">
     <title>First Crossings</title>
@@ -9114,6 +9223,9 @@
   <programme channel="tv.38" start="20180527035500 +0000" stop="20180527045500 +0000">
     <title>Heavy Rescue 401</title>
     <desc>When winter hits, the Heavy Recovery operators of Southern Ontario fight to clear wrecks and keep drivers moving on the busiest stretch of highway in the world.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180527045500 +0000" stop="20180527055500 +0000">
     <title>Chasing Monsters</title>
@@ -9154,6 +9266,9 @@
     <title>The Philpott Fire: Five Years On</title>
     <desc>Special: In May 2012, Mick Philpott started a fire in his own house which killed six of his children. This documentary looks at what happened that fateful night.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180527110500 +0000" stop="20180527121000 +0000">
     <title>Seven Types Of Ambiguity</title>
@@ -9273,6 +9388,9 @@
   <programme channel="tv.38" start="20180528053000 +0000" stop="20180528055500 +0000">
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180528055500 +0000" stop="20180528070000 +0000">
     <title>The Chase</title>
@@ -9388,6 +9506,9 @@
   <programme channel="tv.38" start="20180528220000 +0000" stop="20180528230000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Bono and The Edge along with Diane Keatuin.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180528230000 +0000" stop="20180529000000 +0000">
     <title>Tipping Point</title>
@@ -9417,14 +9538,23 @@
   <programme channel="tv.38" start="20180529020000 +0000" stop="20180529030000 +0000">
     <title>Tiny House Nation</title>
     <desc>John Weisbarth and Zack Giffin travel across America showing off ingenious small spaces and the inventive people who live in them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180529030000 +0000" stop="20180529040000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Bono and The Edge along with Diane Keatuin.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180529040000 +0000" stop="20180529050000 +0000">
     <title>Tipping Point</title>
     <desc>Quiz show in which four players take on an extraordinary machine in the hope of winning its 10,000 pound jackpot.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180529050000 +0000" stop="20180529053000 +0000">
     <title>Te Karere</title>
@@ -9433,10 +9563,16 @@
   <programme channel="tv.38" start="20180529053000 +0000" stop="20180529055500 +0000">
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180529055500 +0000" stop="20180529070000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180529070000 +0000" stop="20180529080000 +0000">
     <title>1 News At 6pm</title>
@@ -10087,6 +10223,9 @@
   <programme channel="tv.14" start="20180524050000 +0000" stop="20180524053000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet some funky flamingos at Auckland Zoo, we show you how to make chunky monkey bites, and see what your teachers really get up to after school!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180524053000 +0000" stop="20180524060000 +0000">
     <title>Friends</title>
@@ -10259,6 +10398,9 @@
   <programme channel="tv.14" start="20180524205000 +0000" stop="20180524211500 +0000">
     <title>Beyblade Burst Evolution</title>
     <desc>Emerging from the shadows, a mysterious new Blader makes his mark on the World League stage. Can Cuza shine a light on this spiky-toothed spook’s true intentions?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180524211500 +0000" stop="20180524213500 +0000">
     <title>Disney Junior Art Attack</title>
@@ -10753,6 +10895,9 @@
   <programme channel="tv.14" start="20180526194500 +0000" stop="20180526195500 +0000">
     <title>Best Of Chuggington Collection</title>
     <desc>Choo choo! Catch a ride with Wilson, Koko and Brewster, the newest members of Chuggington crew. Along the track you'll visit the countryside, have fun, and learn new things!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180526195500 +0000" stop="20180526200000 +0000">
     <title>Chuggington: Little Trainees</title>
@@ -10771,10 +10916,16 @@
   <programme channel="tv.14" start="20180526201000 +0000" stop="20180526203500 +0000">
     <title>Disney Tangled: The Series</title>
     <desc>Eugene sets out to find a role for himself in the castle and decides to be a royal guard.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180526203500 +0000" stop="20180526210000 +0000">
     <title>Disney Andi Mack</title>
     <desc>A coming-of-age story about a girl who's trying to find out where she fits in, when her older sister returns with a revelation that changes everything, it sends Andi on a course of self-discovery.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180526210000 +0000" stop="20180526230000 +0000">
     <title>What Now</title>
@@ -10798,6 +10949,9 @@
   <programme channel="tv.14" start="20180527020000 +0000" stop="20180527030000 +0000">
     <title>Ugly Betty</title>
     <desc>Sofia Reyes leaves a lasting impression on Daniel and Betty.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180527030000 +0000" stop="20180527033000 +0000">
     <title>Mike &amp; Molly</title>
@@ -10960,6 +11114,9 @@
   <programme channel="tv.14" start="20180527202500 +0000" stop="20180527205000 +0000">
     <title>The Zhu Zhus</title>
     <desc>Adventurous Frankie and her four extraordinary hamsters navigate life in Anytown, where anything's possible!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180527205000 +0000" stop="20180527211500 +0000">
     <title>Beyblade Burst Evolution</title>
@@ -11212,6 +11369,9 @@
   <programme channel="tv.14" start="20180528194000 +0000" stop="20180528195000 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animaton sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180528195000 +0000" stop="20180528195500 +0000">
     <title>Masha And The Bear</title>
@@ -11244,6 +11404,9 @@
   <programme channel="tv.14" start="20180528205000 +0000" stop="20180528211500 +0000">
     <title>Beyblade Burst Evolution</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180528211500 +0000" stop="20180528213500 +0000">
     <title>Disney Junior Art Attack</title>
@@ -11288,10 +11451,16 @@
   <programme channel="tv.14" start="20180529010500 +0000" stop="20180529020500 +0000">
     <title>Jeremy Kyle</title>
     <desc>Today on Jeremy Kyle: I Refuse To Let My Teenage Son Come Home Because I'm Scared Of Him!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180529020500 +0000" stop="20180529030500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180529030500 +0000" stop="20180529033500 +0000">
     <title>Home Improvement</title>
@@ -11315,6 +11484,9 @@
   <programme channel="tv.14" start="20180529043500 +0000" stop="20180529050000 +0000">
     <title>K.C. Undercover</title>
     <desc>K.C. is tired of being just friends with Darien.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180529050000 +0000" stop="20180529053000 +0000">
     <title>Fanimals</title>
@@ -11348,6 +11520,9 @@
   <programme channel="tv.14" start="20180529073000 +0000" stop="20180529080000 +0000">
     <title>Neighbours</title>
     <desc>An unexpected resident gets in deadly peril, a desperate search escalates and Elly is torn over Liam's question.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180529080000 +0000" stop="20180529083000 +0000">
     <title>Shortland Street</title>
@@ -11432,14 +11607,23 @@
   <programme channel="tv.14" start="20180529162500 +0000" stop="20180529171500 +0000">
     <title>Jeremy Kyle</title>
     <desc>Today on Jeremy Kyle: I Refuse To Let My Teenage Son Come Home Because I'm Scared Of Him!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180529171500 +0000" stop="20180529180500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180529180500 +0000" stop="20180529183000 +0000">
     <title>Neighbours</title>
     <desc>An unexpected resident gets in deadly peril, a desperate search escalates and Elly is torn over Liam's question.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180529183000 +0000" stop="20180529190000 +0000">
     <title>Infomercials 5:30am Sun- Thu</title>
@@ -11515,6 +11699,9 @@
   <programme channel="tv.14" start="20180529233000 +0000" stop="20180530000000 +0000">
     <title>Neighbours</title>
     <desc>An unexpected resident gets in deadly peril, a desperate search escalates and Elly is torn over Liam's question.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180530000000 +0000" stop="20180530010500 +0000">
     <title>My Kitchen Rules</title>
@@ -11617,6 +11804,9 @@
     <title>This Is Us</title>
     <desc>S2 E13 Kevin helps Randall and Beth with a project; Kate contemplates a big gift for Toby; Jack and Rebecca talk about their future.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180530114500 +0000" stop="20180530121500 +0000">
     <title>Two And A Half Men</title>
@@ -40688,7 +40878,7 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
-    <title>ABC News</title>
+    <title>The Breakfast Couch</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
