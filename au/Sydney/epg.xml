@@ -600,12 +600,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
-    <title>Close Of Business</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526053000 +0000">
     <title>Garrmalang Festival Panel: Live</title>
     <subtitles type="teletext"/>
@@ -613,14 +607,20 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
-    <title>ABC News</title>
+  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
+    <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
     <title>The Breakfast Couch</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
+    <title>ABC News</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -18017,13 +18017,13 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180526035900 +0000" stop="20180526042900 +0000">
+  <programme channel="tv.101305020522" start="20180526035900 +0000" stop="20180526042800 +0000">
     <title>The Great Australian Doorstep</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180526035900 +0000" stop="20180526042800 +0000">
+  <programme channel="tv.101305020522" start="20180526035900 +0000" stop="20180526042900 +0000">
     <title>The Great Australian Doorstep</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -36880,31 +36880,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180523143242 +0000" stop="20180523160745 +0000">
-    <title>Forced Perspective</title>
-    <desc>Walking the tightrope between creativity and mental illness has given life to artist Derek Hess’s work.</desc>
-    <sub-title>The Story of Artist Derek Hess</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180523160745 +0000" stop="20180523162350 +0000">
-    <title>A Skate Film</title>
-    <desc>Four skaters from different backgrounds and styles convene in Arizona to explore new territory and tricks.</desc>
-    <sub-title>Red Bull Perspective</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180523162350 +0000" stop="20180523162926 +0000">
-    <title>The Way to Everest S1E1</title>
-    <desc>The crew assembles in Chengdu, China, and starts the trip off right with some killer sessions and good times.</desc>
-    <sub-title>Chengdu, China</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180523162926 +0000" stop="20180523163610 +0000">
-    <title>The Way to Everest S1E2</title>
-    <desc>Lhasa, Tibet, provides some killer spots for the skateboarders to skate while they acclimate to the altitude.</desc>
-    <sub-title>Lhasa, Tibet</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180523163610 +0000" stop="20180523164427 +0000">
-    <title>The Way to Everest S1E3</title>
-    <desc>On the road to Mount Everest Base Camp, the crew stops to skate in some spots with breathtaking backdrops.</desc>
-    <sub-title>The Road to Base Camp</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180523164427 +0000" stop="20180523171201 +0000">
     <title>Amazon High Tide</title>
     <desc>Ramón Navarro is a surfer brave enough to cross the Amazon jungle and find a secret wave spot.</desc>
@@ -37096,9 +37071,9 @@
     <sub-title>Breaking Classical Barriers</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180524120546 +0000" stop="20180524122157 +0000">
-    <title>A Skate Film</title>
+    <title>Red Bull Perspective</title>
     <desc>Four skaters from different backgrounds and styles convene in Arizona to explore new territory and tricks.</desc>
-    <sub-title>Red Bull Perspective</sub-title>
+    <sub-title>A Skateboard Film</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180524122157 +0000" stop="20180524122634 +0000">
     <title>The Way to Everest S1E1</title>
@@ -37386,9 +37361,9 @@
     <sub-title>A Battle Between Video Game Rivals </sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180525185839 +0000" stop="20180525191440 +0000">
-    <title>A Skate Film</title>
+    <title>Red Bull Perspective</title>
     <desc>Four skaters from different backgrounds and styles convene in Arizona to explore new territory and tricks.</desc>
-    <sub-title>Red Bull Perspective</sub-title>
+    <sub-title>A Skateboard Film</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180525191440 +0000" stop="20180525202735 +0000">
     <title>Bouncing Cats</title>
@@ -37586,9 +37561,9 @@
     <sub-title>Breaking Classical Barriers</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180527000014 +0000" stop="20180527001636 +0000">
-    <title>A Skate Film</title>
+    <title>Red Bull Perspective</title>
     <desc>Four skaters from different backgrounds and styles convene in Arizona to explore new territory and tricks.</desc>
-    <sub-title>Red Bull Perspective</sub-title>
+    <sub-title>A Skateboard Film</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180527001636 +0000" stop="20180527002112 +0000">
     <title>The Way to Everest S1E1</title>
