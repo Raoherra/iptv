@@ -774,15 +774,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
-    <title>Close Of Business</title>
+  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526053000 +0000">
+    <title>Garrmalang Festival Panel: Live</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526053000 +0000">
-    <title>Garrmalang Festival Panel: Live</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
+    <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -9004,18 +9004,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20180523075900 +0000" stop="20180523083000 +0000">
-    <title>The Checkout</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002710271" start="20180523075900 +0000" stop="20180523090000 +0000">
     <title>Think Tank</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002710271" start="20180523075900 +0000" stop="20180523083000 +0000">
+    <title>The Checkout</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002710271" start="20180523083000 +0000" stop="20180523090000 +0000">
@@ -37081,11 +37081,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180523090754 +0000" stop="20180523104006 +0000">
-    <title>Blood Road</title>
-    <desc>Rebecca Rusch rides 1,930km along the infamous Ho Chi Minh Trail through the dense jungles of Vietnam.</desc>
-    <sub-title>A Daughter’s Search. A Trail To Discovery.</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180523104006 +0000" stop="20180523114014 +0000">
     <title>Valhalla</title>
