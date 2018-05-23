@@ -768,12 +768,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
-    <title>Close Of Business</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526053000 +0000">
     <title>Garrmalang Festival Panel: Live</title>
     <subtitles type="teletext"/>
@@ -781,14 +775,20 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
-    <title>The Breakfast Couch</title>
+  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
+    <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
     <title>ABC News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
+    <title>The Breakfast Couch</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -9215,18 +9215,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002810281" start="20180524082900 +0000" stop="20180524092700 +0000">
-    <title>Think Tank</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002810281" start="20180524082900 +0000" stop="20180524085700 +0000">
     <title>The Checkout</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002810281" start="20180524082900 +0000" stop="20180524092700 +0000">
+    <title>Think Tank</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101002810281" start="20180524085700 +0000" stop="20180524092500 +0000">
@@ -29954,7 +29954,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180526043000 +0000" stop="20180526063500 +0000">
-    <title>International Gymnastics 2018</title>
+    <title>International Gymnastics</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -30249,7 +30249,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180528065500 +0000" stop="20180528080000 +0000">
-    <title>Roland Garros 2018: French Open Hilites</title>
+    <title>Roland Garros 2018: French Open Highlights</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -30418,7 +30418,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180529065500 +0000" stop="20180529080000 +0000">
-    <title>Roland Garros 2018: French Open Hilites</title>
+    <title>Roland Garros 2018: French Open Highlights</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -30587,7 +30587,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180530065500 +0000" stop="20180530080000 +0000">
-    <title>Roland Garros 2018: French Open Hilites</title>
+    <title>Roland Garros 2018: French Open Highlights</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -30858,7 +30858,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180523103000 +0000" stop="20180523110000 +0000">
-    <title>Stories From Norway</title>
+    <title>Stories From Norway: The Musical!</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -31141,7 +31141,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180524155500 +0000" stop="20180524162000 +0000">
-    <title>Femen: Sextremism In Canada</title>
+    <title>FEMEN: Sextremism in Canada</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -32051,7 +32051,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180528161000 +0000" stop="20180528163500 +0000">
-    <title>Vice Essentials Canada</title>
+    <title>VICE Essentials Canada</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -32497,7 +32497,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180530103000 +0000" stop="20180530110000 +0000">
-    <title>Stories From Norway</title>
+    <title>Stories From Norway: The Musical!</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
