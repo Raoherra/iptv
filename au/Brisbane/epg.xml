@@ -600,15 +600,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
-    <title>Close Of Business</title>
+  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526053000 +0000">
+    <title>Garrmalang Festival Panel: Live</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526053000 +0000">
-    <title>Garrmalang Festival Panel: Live</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
+    <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -9010,18 +9010,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002410241" start="20180524075900 +0000" stop="20180524082700 +0000">
-    <title>The Checkout</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002410241" start="20180524075900 +0000" stop="20180524085500 +0000">
     <title>Think Tank</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002410241" start="20180524075900 +0000" stop="20180524082700 +0000">
+    <title>The Checkout</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002410241" start="20180524082700 +0000" stop="20180524085500 +0000">
@@ -15380,17 +15380,17 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.10120400040B" start="20180527134500 +0000" stop="20180527151500 +0000">
+    <title>Love Island Australia</title>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
   <programme channel="tv.10120400040B" start="20180527134500 +0000" stop="20180527141500 +0000">
     <title>The Big Bang Theory</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.10120400040B" start="20180527134500 +0000" stop="20180527151500 +0000">
-    <title>Love Island Australia</title>
-    <rating system="Freeview">
-      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.10120400040B" start="20180527141500 +0000" stop="20180527142000 +0000">
@@ -20009,13 +20009,13 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20180526035900 +0000" stop="20180526042900 +0000">
+  <programme channel="tv.101305040542" start="20180526035900 +0000" stop="20180526042800 +0000">
     <title>The Great Australian Doorstep</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20180526035900 +0000" stop="20180526042800 +0000">
+  <programme channel="tv.101305040542" start="20180526035900 +0000" stop="20180526042900 +0000">
     <title>The Great Australian Doorstep</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -37090,26 +37090,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180524075925 +0000" stop="20180524080811 +0000">
-    <title>A Door in the Sky</title>
-    <desc>Get to know the Soul Flyers and see what went into making a ground-breaking BASE jump happen.</desc>
-    <sub-title>The Soul Flyers</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180524080811 +0000" stop="20180524081033 +0000">
-    <title>A Door in the Sky: Extra</title>
-    <desc>In a world first, the Soul Flyers wingsuit pilots BASE jump off a mountain and land inside a mid-air airplane.</desc>
-    <sub-title>The Soul Flyers</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180524081033 +0000" stop="20180524083747 +0000">
-    <title>Sharing the Sky</title>
-    <desc>Multi-discipline pilot Andy Hediger was born to fly, but a near-fatal crash almost clips his wings forever.</desc>
-    <sub-title>Andy Hediger's Fight for Flight </sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180524083747 +0000" stop="20180524084556 +0000">
-    <title>Ten Years of Rampage</title>
-    <desc>The two-time champion Kyle Strait looks back at the decade of races that changed mountain biking forever.</desc>
-    <sub-title>Blood, Sweat, and Gears</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180524084556 +0000" stop="20180524091332 +0000">
     <title>A Mountain Biker’s Hunt for Glory</title>
     <desc>Follow Nino from his youth as a child in a remote Swiss mountain village to his greatest victory yet.</desc>
@@ -37692,15 +37672,18 @@
   </programme>
   <programme channel="tv.redbull.tv" start="20180527083436 +0000" stop="20180527084226 +0000">
     <title>The Curry Connection S1E1</title>
-    <sub-title>Episode 1</sub-title>
+    <desc>Along for the wild ride to shred came skaters from around the world bringing their own distinctive styles.</desc>
+    <sub-title>Chapter I: Goa </sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180527084226 +0000" stop="20180527085018 +0000">
     <title>The Curry Connection S1E2</title>
-    <sub-title>Episode 2</sub-title>
+    <desc>The skateboarding crew immerse themselves in the city of Bangalore.</desc>
+    <sub-title>Chapter II: Bangalore</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180527084948 +0000" stop="20180527090019 +0000">
     <title>The Curry Connection S1E3</title>
-    <sub-title>Episode 3</sub-title>
+    <desc>Chennai's bustling Indian metropolis is the home of the sickest street spots the country has to offer.</desc>
+    <sub-title>Chapter III: Chennai</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180527090100 +0000" stop="20180527110100 +0000">
     <title>UCI Mountain Bike World Cup 2018</title>
@@ -37774,15 +37757,18 @@
   </programme>
   <programme channel="tv.redbull.tv" start="20180527164431 +0000" stop="20180527165221 +0000">
     <title>The Curry Connection S1E1</title>
-    <sub-title>Episode 1</sub-title>
+    <desc>Along for the wild ride to shred came skaters from around the world bringing their own distinctive styles.</desc>
+    <sub-title>Chapter I: Goa </sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180527165221 +0000" stop="20180527170014 +0000">
     <title>The Curry Connection S1E2</title>
-    <sub-title>Episode 2</sub-title>
+    <desc>The skateboarding crew immerse themselves in the city of Bangalore.</desc>
+    <sub-title>Chapter II: Bangalore</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180527165944 +0000" stop="20180527170827 +0000">
     <title>The Curry Connection S1E3</title>
-    <sub-title>Episode 3</sub-title>
+    <desc>Chennai's bustling Indian metropolis is the home of the sickest street spots the country has to offer.</desc>
+    <sub-title>Chapter III: Chennai</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180527170827 +0000" stop="20180527175933 +0000">
     <title>Visions of Greatness S1E1</title>
@@ -37891,15 +37877,18 @@
   </programme>
   <programme channel="tv.redbull.tv" start="20180528014118 +0000" stop="20180528014908 +0000">
     <title>The Curry Connection S1E1</title>
-    <sub-title>Episode 1</sub-title>
+    <desc>Along for the wild ride to shred came skaters from around the world bringing their own distinctive styles.</desc>
+    <sub-title>Chapter I: Goa </sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180528014908 +0000" stop="20180528015700 +0000">
     <title>The Curry Connection S1E2</title>
-    <sub-title>Episode 2</sub-title>
+    <desc>The skateboarding crew immerse themselves in the city of Bangalore.</desc>
+    <sub-title>Chapter II: Bangalore</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180528015630 +0000" stop="20180528020513 +0000">
     <title>The Curry Connection S1E3</title>
-    <sub-title>Episode 3</sub-title>
+    <desc>Chennai's bustling Indian metropolis is the home of the sickest street spots the country has to offer.</desc>
+    <sub-title>Chapter III: Chennai</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180528020513 +0000" stop="20180528025621 +0000">
     <title>Visions of Greatness S1E1</title>
