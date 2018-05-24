@@ -440,12 +440,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
-    <title>Close Of Business</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526053000 +0000">
     <title>Garrmalang Festival Panel: Live</title>
     <subtitles type="teletext"/>
@@ -453,14 +447,20 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
-    <title>ABC News</title>
+  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
+    <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
     <title>The Breakfast Couch</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
+    <title>ABC News</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -10739,15 +10739,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180527050000 +0000" stop="20180527053000 +0000">
-    <title>The Middle</title>
+  <programme channel="tv.101204300430" start="20180527050000 +0000" stop="20180527070000 +0000">
+    <title>The Voice</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180527050000 +0000" stop="20180527070000 +0000">
-    <title>The Voice</title>
+  <programme channel="tv.101204300430" start="20180527050000 +0000" stop="20180527053000 +0000">
+    <title>The Middle</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -15704,17 +15704,17 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300437" start="20180529133000 +0000" stop="20180529143000 +0000">
-    <title>Love Island Australia</title>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204300437" start="20180529133000 +0000" stop="20180529140000 +0000">
     <title>The Big Bang Theory</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300437" start="20180529133000 +0000" stop="20180529143000 +0000">
+    <title>Love Island Australia</title>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204300437" start="20180529140000 +0000" stop="20180529150000 +0000">
@@ -15962,17 +15962,17 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300437" start="20180530131500 +0000" stop="20180530141500 +0000">
-    <title>Love Island Australia</title>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204300437" start="20180530131500 +0000" stop="20180530134500 +0000">
     <title>The Big Bang Theory</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300437" start="20180530131500 +0000" stop="20180530141500 +0000">
+    <title>Love Island Australia</title>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204300437" start="20180530134500 +0000" stop="20180530141500 +0000">
@@ -19879,15 +19879,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20180526070000 +0000" stop="20180526073300 +0000">
-    <title>M*A*S*H</title>
+  <programme channel="tv.101305030532" start="20180526070000 +0000" stop="20180526073200 +0000">
+    <title>Crash Investigation Unit</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20180526070000 +0000" stop="20180526073200 +0000">
-    <title>Crash Investigation Unit</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305030532" start="20180526070000 +0000" stop="20180526073300 +0000">
+    <title>M*A*S*H</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -37027,11 +37027,6 @@
     <rating system="Freeview">
       <value>NC</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180524144236 +0000" stop="20180524154342 +0000">
-    <title>Valhalla</title>
-    <desc>Follow the story of one man's ski escape and his wild journey towards satisfaction, understanding, and love.</desc>
-    <sub-title>A Northward Chase for a Forgotten Dream</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180524154342 +0000" stop="20180524161058 +0000">
     <title>Red Bull Flugtag S2E2</title>
