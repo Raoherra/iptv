@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180524054017 +0000" stop="20180524062526 +0000">
-    <title>Breaking the Day  S1E4</title>
-    <desc>In Northern Spain, percebeiros (barnacle hunters) risk their lives to capture coveted gooseneck barnacles.</desc>
-    <sub-title>Percebeiros </sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180524062526 +0000" stop="20180524063733 +0000">
-    <title>Unclimbed</title>
-    <desc>David Lama travelled to an incredibly remote valley in Nepal with a team attempting to climb the unclimbed.</desc>
-    <sub-title>Annapurna III</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180524063733 +0000" stop="20180524070544 +0000">
     <title>Hubertusjagd S1E8</title>
     <desc>Hubertus travels to the one the USA’s most musical cities – also home to cowboy and Formula One culture.</desc>
@@ -4620,7 +4610,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180524010000 +0000" stop="20180524030000 +0000">
-    <title>American Idol</title>
+    <title>American Idol Encore</title>
     <desc>New Episode. It's Disney Night for the Top 10. S16 Ep15</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -4674,7 +4664,7 @@
   </programme>
   <programme channel="tv.11" start="20180524070000 +0000" stop="20180524073000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Patrick Gower brings us another exclusive story on Gloriavale.</desc>
   </programme>
   <programme channel="tv.11" start="20180524073000 +0000" stop="20180524080000 +0000">
     <title>All New Roseanne</title>
@@ -4922,14 +4912,14 @@
     <title>Newshub Live At 6pm</title>
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
   </programme>
-  <programme channel="tv.11" start="20180526070000 +0000" stop="20180526104000 +0000">
+  <programme channel="tv.11" start="20180526070000 +0000" stop="20180526104500 +0000">
     <title>Titanic</title>
     <desc>James Cameron's epic action-packed romance is set against the ill-fated maiden voyage of the RMS Titanic, where Jack, a penniless artist, and Rose, an upper class woman, fall in love. (1997)</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180526104000 +0000" stop="20180526130000 +0000">
+  <programme channel="tv.11" start="20180526104500 +0000" stop="20180526125000 +0000">
     <title>If I Stay</title>
     <desc>After a tragic car accident, a comatose 17-year-old musical prodigy has an out-of-body experience and faces a heart-rending decision about her own fate. Starring Chloe Grace Moretz. (2014)</desc>
     <audio>
@@ -4939,7 +4929,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180526130000 +0000" stop="20180526160000 +0000">
+  <programme channel="tv.11" start="20180526125000 +0000" stop="20180526160000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -4959,24 +4949,39 @@
     <desc/>
   </programme>
   <programme channel="tv.11" start="20180526180000 +0000" stop="20180526183000 +0000">
-    <title>Life TV</title>
+    <title>Life TV 160</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180526183000 +0000" stop="20180526190000 +0000">
-    <title>Brian Houston</title>
-    <desc/>
+    <title>Brian Houston @ Hillsong TV 1101</title>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180526190000 +0000" stop="20180526200000 +0000">
-    <title>Charles Stanley</title>
+    <title>Charles Stanley 1821</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180526200000 +0000" stop="20180526203000 +0000">
-    <title>Living Church of God</title>
+    <title>Living Church Of God</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180526203000 +0000" stop="20180526210000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180526210000 +0000" stop="20180526213000 +0000">
     <title>R &amp; R</title>
@@ -11799,7 +11804,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180524020000 +0000" stop="20180524040000 +0000">
-    <title>American Idol</title>
+    <title>American Idol Encore</title>
     <desc>New Episode. It's Disney Night for the Top 10. S16 Ep15</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -11850,7 +11855,7 @@
   </programme>
   <programme channel="tv.27" start="20180524080000 +0000" stop="20180524083000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Patrick Gower brings us another exclusive story on Gloriavale.</desc>
   </programme>
   <programme channel="tv.27" start="20180524083000 +0000" stop="20180524090000 +0000">
     <title>All New Roseanne</title>
@@ -12080,21 +12085,21 @@
     <title>Newshub Live At 6pm</title>
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
   </programme>
-  <programme channel="tv.27" start="20180526080000 +0000" stop="20180526114000 +0000">
+  <programme channel="tv.27" start="20180526080000 +0000" stop="20180526114500 +0000">
     <title>Titanic</title>
     <desc>James Cameron's epic action-packed romance is set against the ill-fated maiden voyage of the RMS Titanic, where Jack, a penniless artist, and Rose, an upper class woman, fall in love. (1997)</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180526114000 +0000" stop="20180526140000 +0000">
+  <programme channel="tv.27" start="20180526114500 +0000" stop="20180526135000 +0000">
     <title>If I Stay</title>
     <desc>After a tragic car accident, a comatose 17-year-old musical prodigy has an out-of-body experience and faces a heart-rending decision about her own fate. Starring Chloe Grace Moretz. (2014)</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180526140000 +0000" stop="20180526170000 +0000">
+  <programme channel="tv.27" start="20180526135000 +0000" stop="20180526170000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -12114,24 +12119,39 @@
     <desc/>
   </programme>
   <programme channel="tv.27" start="20180526190000 +0000" stop="20180526193000 +0000">
-    <title>Life TV</title>
+    <title>Life TV 160</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180526193000 +0000" stop="20180526200000 +0000">
-    <title>Brian Houston</title>
-    <desc/>
+    <title>Brian Houston @ Hillsong TV 1101</title>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180526200000 +0000" stop="20180526210000 +0000">
-    <title>Charles Stanley</title>
+    <title>Charles Stanley 1821</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180526210000 +0000" stop="20180526213000 +0000">
-    <title>Living Church of God</title>
+    <title>Living Church Of God</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180526213000 +0000" stop="20180526220000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180526220000 +0000" stop="20180526223000 +0000">
     <title>R &amp; R</title>
@@ -40606,7 +40626,7 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
-    <title>ABC News</title>
+    <title>The Breakfast Couch</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
