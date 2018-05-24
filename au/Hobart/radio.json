@@ -230,6 +230,21 @@
             "sample_rate": "32000"
         }
     },
+    "radio.ih.7890": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7890.png",
+        "name": "JS FM",
+        "description": "Mix of 80’s, 90’s, 00’s & Today's Hits",
+        "genres": [
+            "80s & 90s Hits",
+            "Top 40 & Pop"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7890|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
     "radio.ih.6898": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6898.png",
         "name": "Kyle & Jackie O's Alist",
