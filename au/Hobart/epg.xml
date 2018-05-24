@@ -440,12 +440,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
-    <title>Close Of Business</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526053000 +0000">
     <title>Garrmalang Festival Panel: Live</title>
     <subtitles type="teletext"/>
@@ -453,14 +447,20 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
-    <title>ABC News</title>
+  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
+    <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
     <title>The Breakfast Couch</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
+    <title>ABC News</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -15704,17 +15704,17 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.101204300437" start="20180529133000 +0000" stop="20180529143000 +0000">
+    <title>Love Island Australia</title>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204300437" start="20180529133000 +0000" stop="20180529140000 +0000">
     <title>The Big Bang Theory</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300437" start="20180529133000 +0000" stop="20180529143000 +0000">
-    <title>Love Island Australia</title>
-    <rating system="Freeview">
-      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204300437" start="20180529140000 +0000" stop="20180529150000 +0000">
@@ -31333,16 +31333,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180527043000 +0000" stop="20180527052000 +0000">
-    <title>States of Undress</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000302" start="20180527043000 +0000" stop="20180527063000 +0000">
     <title>UCL: Final: Real Madrid v Liverpool</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180527043000 +0000" stop="20180527052000 +0000">
+    <title>States of Undress</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180527054500 +0000" stop="20180527061000 +0000">
@@ -37027,11 +37027,6 @@
     <rating system="Freeview">
       <value>NC</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180524172510 +0000" stop="20180524192102 +0000">
-    <title>Thundercloud</title>
-    <desc>The story of Cloudbreak, one of the most revered waves in surfing, which changed the big wave scene forever.</desc>
-    <sub-title>The History of Surfing's Perfect Wave</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180524192102 +0000" stop="20180524201621 +0000">
     <title>Footwork and Fugues</title>
