@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180524033251 +0000" stop="20180524043313 +0000">
-    <title>Valhalla</title>
-    <desc>Follow the story of one man's ski escape and his wild journey towards satisfaction, understanding, and love.</desc>
-    <sub-title>A Northward Chase for a Forgotten Dream</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180524043313 +0000" stop="20180524050027 +0000">
-    <title>Red Bull Flugtag S2E2</title>
-    <desc>A crowd of 20,000 welcomes teams of amateur aviators who will attempt to fly on the coast of the Black Sea.</desc>
-    <sub-title>Varna, Bulgaria</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180524050027 +0000" stop="20180524051524 +0000">
     <title>No Contest S1E1</title>
     <desc>Get to know Australia's Gold Coast and the surfers who are there to catch some sick waves.</desc>
@@ -1663,6 +1653,9 @@
   <programme channel="tv.9" start="20180526203500 +0000" stop="20180526210000 +0000">
     <title>Waka Man</title>
     <desc>Join Waka Man, Alby Waititi, on a voyage of discovery as he paddles the waterways of Aotearoa, revealing what waka culture meant to us in the past and what it means for our future.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180526210000 +0000" stop="20180526220000 +0000">
     <title>Q+A</title>
@@ -1721,12 +1714,15 @@
     <title>Heavy Rescue 401</title>
     <desc>When winter hits, the Heavy Recovery operators of Southern Ontario fight to clear wrecks and keep drivers moving on the busiest stretch of highway in the world.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.9" start="20180527035500 +0000" stop="20180527045500 +0000">
     <title>Chasing Monsters</title>
     <desc>Fishing for kob along the coast of South Africa, Cyril must carefully manoeuvre across a rocky shoreline with pounding surf while avoiding sharks.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180527045500 +0000" stop="20180527060000 +0000">
     <title>The Celebrity Chase</title>
@@ -1801,24 +1797,8 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180527153500 +0000" stop="20180527160500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180527160500 +0000" stop="20180527163500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180527163500 +0000" stop="20180527170000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180527170000 +0000" stop="20180527173000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180527173000 +0000" stop="20180527180000 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180527153500 +0000" stop="20180527180000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.9" start="20180527180000 +0000" stop="20180527210000 +0000">
@@ -1906,7 +1886,7 @@
   </programme>
   <programme channel="tv.9" start="20180528073000 +0000" stop="20180528080000 +0000">
     <title>Fair Go</title>
-    <desc>Join Pippa Wetzell, Hadyn Jones and the Fair Go team as they stand up for the underdogs and consumer rights!</desc>
+    <desc>Tonight, A digger driver ploughs into a job with too much enthusiasm. Who pays for the 200-thousand dollar mess? Recycling makes us feel good, but is it worth it? Is it just a waste of time?</desc>
   </programme>
   <programme channel="tv.9" start="20180528080000 +0000" stop="20180528083000 +0000">
     <title>Mind Over Money With Nigel Latta</title>
@@ -1956,40 +1936,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.9" start="20180528131000 +0000" stop="20180528134000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180528134000 +0000" stop="20180528141000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180528141000 +0000" stop="20180528144000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180528144000 +0000" stop="20180528151000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180528151000 +0000" stop="20180528154000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180528154000 +0000" stop="20180528161000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180528161000 +0000" stop="20180528163500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180528163500 +0000" stop="20180528170500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180528170500 +0000" stop="20180528173500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180528131000 +0000" stop="20180528173500 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.9" start="20180528173500 +0000" stop="20180528180000 +0000">
@@ -2128,40 +2076,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.9" start="20180529131000 +0000" stop="20180529134000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180529134000 +0000" stop="20180529140500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180529140500 +0000" stop="20180529143500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180529143500 +0000" stop="20180529150500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180529150500 +0000" stop="20180529153500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180529153500 +0000" stop="20180529160500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180529160500 +0000" stop="20180529163500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180529163500 +0000" stop="20180529170500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180529170500 +0000" stop="20180529173500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180529131000 +0000" stop="20180529173500 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.9" start="20180529173500 +0000" stop="20180529180000 +0000">
@@ -2204,6 +2120,9 @@
   <programme channel="tv.9" start="20180530010000 +0000" stop="20180530020000 +0000">
     <title>Tiny House Nation</title>
     <desc>John Weisbarth and Zack Giffin travel across America showing off ingenious small spaces and the inventive people who live in them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180530020000 +0000" stop="20180530030000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -2273,40 +2192,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.9" start="20180530131500 +0000" stop="20180530134500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180530134500 +0000" stop="20180530141500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180530141500 +0000" stop="20180530144000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180530144000 +0000" stop="20180530151000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180530151000 +0000" stop="20180530154000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180530154000 +0000" stop="20180530160500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180530160500 +0000" stop="20180530163500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180530163500 +0000" stop="20180530170500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180530170500 +0000" stop="20180530173500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180530131500 +0000" stop="20180530173500 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.9" start="20180530173500 +0000" stop="20180530180000 +0000">
@@ -2349,6 +2236,9 @@
   <programme channel="tv.9" start="20180531010000 +0000" stop="20180531020000 +0000">
     <title>Tiny House Nation</title>
     <desc>John Weisbarth and Zack Giffin travel across America showing off ingenious small spaces and the inventive people who live in them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180531020000 +0000" stop="20180531030000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -2469,7 +2359,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180523173000 +0000" stop="20180523183000 +0000">
+  <programme channel="tv.10" start="20180523173000 +0000" stop="20180523180000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.10" start="20180523180000 +0000" stop="20180523183000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -2624,6 +2518,9 @@
   <programme channel="tv.10" start="20180524053000 +0000" stop="20180524060000 +0000">
     <title>Home And Away</title>
     <desc>Maggie’s illness takes a turn for the worse; Ebony drives a wedge between Colby and Jasmine; Coco pushes Ryder further away.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180524060000 +0000" stop="20180524063000 +0000">
     <title>The Big Bang Theory</title>
@@ -2858,6 +2755,9 @@
   <programme channel="tv.10" start="20180525023000 +0000" stop="20180525030000 +0000">
     <title>Home And Away</title>
     <desc>Maggie’s illness takes a turn for the worse; Ebony drives a wedge between Colby and Jasmine; Coco pushes Ryder further away.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180525030000 +0000" stop="20180525033000 +0000">
     <title>Shortland Street</title>
@@ -2890,6 +2790,9 @@
   <programme channel="tv.10" start="20180525040000 +0000" stop="20180525043000 +0000">
     <title>Fanimals</title>
     <desc>It's Friday and Fanimals is throwing a Chihuahua Grand Ball, TV journalist Miriama Kamo goes on a celebrity pet date with her pup Floey, and we could be calling you to win on 'Fact or Fiction'!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180525043000 +0000" stop="20180525050000 +0000">
     <title>Friends</title>
@@ -2911,6 +2814,9 @@
   <programme channel="tv.10" start="20180525053000 +0000" stop="20180525060000 +0000">
     <title>Home And Away</title>
     <desc>The Astoni’s prepare for the worst; Ebony drives a wedge between Jasmine and Colby; Ash is back in the Bay!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180525060000 +0000" stop="20180525063000 +0000">
     <title>The Big Bang Theory</title>
@@ -3129,6 +3035,9 @@
   <programme channel="tv.10" start="20180525193000 +0000" stop="20180525195000 +0000">
     <title>Transformers Robots In Disguise</title>
     <desc>When a new army of Decepticons appear, Bumblebee must lead a new team of Autobots to Earth against their eternal foes.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180525195000 +0000" stop="20180525201500 +0000">
     <title>The Legendaries</title>
@@ -3496,9 +3405,6 @@
     <title>Survivor New Zealand</title>
     <desc>A reward challenge has everyone desperate for the win. Later, with hopes to eliminate strong players, could a blindside be on the cards at tribal council?</desc>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
   <programme channel="tv.10" start="20180527083000 +0000" stop="20180527104500 +0000">
     <title>Olympus Has Fallen</title>
@@ -3581,7 +3487,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180527173000 +0000" stop="20180527180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180527180000 +0000" stop="20180527183000 +0000">
@@ -3651,16 +3557,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180527210000 +0000" stop="20180527213000 +0000">
-    <title>Infomercial 0900</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180527213000 +0000" stop="20180527220000 +0000">
+  <programme channel="tv.10" start="20180527210000 +0000" stop="20180527223000 +0000">
     <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180527220000 +0000" stop="20180527223000 +0000">
-    <title>Infomercial 1000</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180527223000 +0000" stop="20180527230000 +0000">
@@ -3687,6 +3585,9 @@
   <programme channel="tv.10" start="20180528010000 +0000" stop="20180528020000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180528020000 +0000" stop="20180528023000 +0000">
     <title>Home Improvement</title>
@@ -3698,6 +3599,9 @@
   <programme channel="tv.10" start="20180528023000 +0000" stop="20180528030000 +0000">
     <title>Home And Away</title>
     <desc>The Astoni’s prepare for the worst; Ebony drives a wedge between Jasmine and Colby; Ash is back in the Bay!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180528030000 +0000" stop="20180528033000 +0000">
     <title>Shortland Street</title>
@@ -3860,11 +3764,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180528134000 +0000" stop="20180528141000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180528141000 +0000" stop="20180528144000 +0000">
+  <programme channel="tv.10" start="20180528134000 +0000" stop="20180528144000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -3888,6 +3788,9 @@
   <programme channel="tv.10" start="20180528162000 +0000" stop="20180528170500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180528170500 +0000" stop="20180528173000 +0000">
     <title>Neighbours</title>
@@ -3896,12 +3799,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180528173000 +0000" stop="20180528180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180528180000 +0000" stop="20180528183000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.10" start="20180528173000 +0000" stop="20180528183000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180528183000 +0000" stop="20180528184000 +0000">
@@ -3971,7 +3870,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180528210000 +0000" stop="20180528213000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180528213000 +0000" stop="20180528220000 +0000">
@@ -3979,7 +3878,7 @@
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180528220000 +0000" stop="20180528223000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180528223000 +0000" stop="20180528230000 +0000">
@@ -4164,11 +4063,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180529134000 +0000" stop="20180529141000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180529141000 +0000" stop="20180529144000 +0000">
+  <programme channel="tv.10" start="20180529134000 +0000" stop="20180529144000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -4204,7 +4099,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180529173000 +0000" stop="20180529180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180529180000 +0000" stop="20180529183000 +0000">
@@ -4214,10 +4109,16 @@
   <programme channel="tv.10" start="20180529183000 +0000" stop="20180529184000 +0000">
     <title>The Wot Wots</title>
     <desc>SpottyWot is fixing the long lanky legs of the spaceship when his sister spots two other long legs through the Sneak-a-peek, two long and very pink lanky legs.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180529184000 +0000" stop="20180529185000 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animaton sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180529185000 +0000" stop="20180529185500 +0000">
     <title>Masha And The Bear</title>
@@ -4455,11 +4356,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180530134000 +0000" stop="20180530141500 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180530141500 +0000" stop="20180530144000 +0000">
+  <programme channel="tv.10" start="20180530134000 +0000" stop="20180530144000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -4488,12 +4385,8 @@
     <title>Neighbours</title>
     <desc>School camp goes from bad to disastrous; Steph struggles on mother’s day; Sheila goes undercover to confront Terese.</desc>
   </programme>
-  <programme channel="tv.10" start="20180530173000 +0000" stop="20180530180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180530180000 +0000" stop="20180530183000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.10" start="20180530173000 +0000" stop="20180530183000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180530183000 +0000" stop="20180530184000 +0000">
@@ -4551,7 +4444,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180530210000 +0000" stop="20180530213000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180530213000 +0000" stop="20180530220000 +0000">
@@ -4559,7 +4452,7 @@
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180530220000 +0000" stop="20180530223000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180530223000 +0000" stop="20180530230000 +0000">
@@ -9206,6 +9099,9 @@
   <programme channel="tv.38" start="20180526213500 +0000" stop="20180526220000 +0000">
     <title>Waka Man</title>
     <desc>Join Waka Man, Alby Waititi, on a voyage of discovery as he paddles the waterways of Aotearoa, revealing what waka culture meant to us in the past and what it means for our future.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180526220000 +0000" stop="20180526230000 +0000">
     <title>Q+A</title>
@@ -9264,12 +9160,15 @@
     <title>Heavy Rescue 401</title>
     <desc>When winter hits, the Heavy Recovery operators of Southern Ontario fight to clear wrecks and keep drivers moving on the busiest stretch of highway in the world.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.38" start="20180527045500 +0000" stop="20180527055500 +0000">
     <title>Chasing Monsters</title>
     <desc>Fishing for kob along the coast of South Africa, Cyril must carefully manoeuvre across a rocky shoreline with pounding surf while avoiding sharks.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180527055500 +0000" stop="20180527070000 +0000">
     <title>The Celebrity Chase</title>
@@ -9344,24 +9243,8 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180527163500 +0000" stop="20180527170500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180527170500 +0000" stop="20180527173500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180527173500 +0000" stop="20180527180000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180527180000 +0000" stop="20180527183000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180527183000 +0000" stop="20180527190000 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180527163500 +0000" stop="20180527190000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.38" start="20180527190000 +0000" stop="20180527220000 +0000">
@@ -9449,7 +9332,7 @@
   </programme>
   <programme channel="tv.38" start="20180528083000 +0000" stop="20180528090000 +0000">
     <title>Fair Go</title>
-    <desc>Join Pippa Wetzell, Hadyn Jones and the Fair Go team as they stand up for the underdogs and consumer rights!</desc>
+    <desc>Tonight, A digger driver ploughs into a job with too much enthusiasm. Who pays for the 200-thousand dollar mess? Recycling makes us feel good, but is it worth it? Is it just a waste of time?</desc>
   </programme>
   <programme channel="tv.38" start="20180528090000 +0000" stop="20180528093000 +0000">
     <title>Mind Over Money With Nigel Latta</title>
@@ -9499,40 +9382,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.38" start="20180528141000 +0000" stop="20180528144000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180528144000 +0000" stop="20180528151000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180528151000 +0000" stop="20180528154000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180528154000 +0000" stop="20180528161000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180528161000 +0000" stop="20180528164000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180528164000 +0000" stop="20180528171000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180528171000 +0000" stop="20180528173500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180528173500 +0000" stop="20180528180500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180528180500 +0000" stop="20180528183500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180528141000 +0000" stop="20180528183500 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.38" start="20180528183500 +0000" stop="20180528190000 +0000">
@@ -9671,40 +9522,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.38" start="20180529141000 +0000" stop="20180529144000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180529144000 +0000" stop="20180529150500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180529150500 +0000" stop="20180529153500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180529153500 +0000" stop="20180529160500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180529160500 +0000" stop="20180529163500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180529163500 +0000" stop="20180529170500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180529170500 +0000" stop="20180529173500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180529173500 +0000" stop="20180529180500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180529180500 +0000" stop="20180529183500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180529141000 +0000" stop="20180529183500 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.38" start="20180529183500 +0000" stop="20180529190000 +0000">
@@ -9747,6 +9566,9 @@
   <programme channel="tv.38" start="20180530020000 +0000" stop="20180530030000 +0000">
     <title>Tiny House Nation</title>
     <desc>John Weisbarth and Zack Giffin travel across America showing off ingenious small spaces and the inventive people who live in them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180530030000 +0000" stop="20180530040000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -9816,40 +9638,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.38" start="20180530141500 +0000" stop="20180530144500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180530144500 +0000" stop="20180530151500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180530151500 +0000" stop="20180530154000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180530154000 +0000" stop="20180530161000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180530161000 +0000" stop="20180530164000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180530164000 +0000" stop="20180530170500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180530170500 +0000" stop="20180530173500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180530173500 +0000" stop="20180530180500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180530180500 +0000" stop="20180530183500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180530141500 +0000" stop="20180530183500 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.38" start="20180530183500 +0000" stop="20180530190000 +0000">
@@ -9892,6 +9682,9 @@
   <programme channel="tv.38" start="20180531020000 +0000" stop="20180531030000 +0000">
     <title>Tiny House Nation</title>
     <desc>John Weisbarth and Zack Giffin travel across America showing off ingenious small spaces and the inventive people who live in them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180531030000 +0000" stop="20180531040000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -10010,7 +9803,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180523183000 +0000" stop="20180523193000 +0000">
+  <programme channel="tv.14" start="20180523183000 +0000" stop="20180523190000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.14" start="20180523190000 +0000" stop="20180523193000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -10156,6 +9953,9 @@
   <programme channel="tv.14" start="20180524063000 +0000" stop="20180524070000 +0000">
     <title>Home And Away</title>
     <desc>Maggie’s illness takes a turn for the worse; Ebony drives a wedge between Colby and Jasmine; Coco pushes Ryder further away.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180524070000 +0000" stop="20180524073000 +0000">
     <title>The Big Bang Theory</title>
@@ -10378,6 +10178,9 @@
   <programme channel="tv.14" start="20180525033000 +0000" stop="20180525040000 +0000">
     <title>Home And Away</title>
     <desc>Maggie’s illness takes a turn for the worse; Ebony drives a wedge between Colby and Jasmine; Coco pushes Ryder further away.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180525040000 +0000" stop="20180525043000 +0000">
     <title>Shortland Street</title>
@@ -10404,6 +10207,9 @@
   <programme channel="tv.14" start="20180525050000 +0000" stop="20180525053000 +0000">
     <title>Fanimals</title>
     <desc>It's Friday and Fanimals is throwing a Chihuahua Grand Ball, TV journalist Miriama Kamo goes on a celebrity pet date with her pup Floey, and we could be calling you to win on 'Fact or Fiction'!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180525053000 +0000" stop="20180525060000 +0000">
     <title>Friends</title>
@@ -10422,6 +10228,9 @@
   <programme channel="tv.14" start="20180525063000 +0000" stop="20180525070000 +0000">
     <title>Home And Away</title>
     <desc>The Astoni’s prepare for the worst; Ebony drives a wedge between Jasmine and Colby; Ash is back in the Bay!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180525070000 +0000" stop="20180525073000 +0000">
     <title>The Big Bang Theory</title>
@@ -10610,6 +10419,9 @@
   <programme channel="tv.14" start="20180525203000 +0000" stop="20180525205000 +0000">
     <title>Transformers Robots In Disguise</title>
     <desc>When a new army of Decepticons appear, Bumblebee must lead a new team of Autobots to Earth against their eternal foes.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180525205000 +0000" stop="20180525211500 +0000">
     <title>The Legendaries</title>
@@ -10911,9 +10723,6 @@
     <title>Survivor New Zealand</title>
     <desc>A reward challenge has everyone desperate for the win. Later, with hopes to eliminate strong players, could a blindside be on the cards at tribal council?</desc>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
   <programme channel="tv.14" start="20180527093000 +0000" stop="20180527114500 +0000">
     <title>Olympus Has Fallen</title>
@@ -10981,7 +10790,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180527183000 +0000" stop="20180527190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180527190000 +0000" stop="20180527193000 +0000">
@@ -11051,16 +10860,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180527220000 +0000" stop="20180527223000 +0000">
-    <title>Infomercial 0900</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180527223000 +0000" stop="20180527230000 +0000">
+  <programme channel="tv.14" start="20180527220000 +0000" stop="20180527233000 +0000">
     <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180527230000 +0000" stop="20180527233000 +0000">
-    <title>Infomercial 1000</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180527233000 +0000" stop="20180528000000 +0000">
@@ -11087,6 +10888,9 @@
   <programme channel="tv.14" start="20180528020000 +0000" stop="20180528030000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180528030000 +0000" stop="20180528033000 +0000">
     <title>Home Improvement</title>
@@ -11098,6 +10902,9 @@
   <programme channel="tv.14" start="20180528033000 +0000" stop="20180528040000 +0000">
     <title>Home And Away</title>
     <desc>The Astoni’s prepare for the worst; Ebony drives a wedge between Jasmine and Colby; Ash is back in the Bay!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180528040000 +0000" stop="20180528043000 +0000">
     <title>Shortland Street</title>
@@ -11230,11 +11037,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180528144000 +0000" stop="20180528151000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180528151000 +0000" stop="20180528154000 +0000">
+  <programme channel="tv.14" start="20180528144000 +0000" stop="20180528154000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -11255,6 +11058,9 @@
   <programme channel="tv.14" start="20180528172000 +0000" stop="20180528180500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180528180500 +0000" stop="20180528183000 +0000">
     <title>Neighbours</title>
@@ -11263,12 +11069,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180528183000 +0000" stop="20180528190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180528190000 +0000" stop="20180528193000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.14" start="20180528183000 +0000" stop="20180528193000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180528193000 +0000" stop="20180528194000 +0000">
@@ -11335,7 +11137,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180528220000 +0000" stop="20180528223000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180528223000 +0000" stop="20180528230000 +0000">
@@ -11343,7 +11145,7 @@
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180528230000 +0000" stop="20180528233000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180528233000 +0000" stop="20180529000000 +0000">
@@ -11501,11 +11303,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180529144000 +0000" stop="20180529151000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180529151000 +0000" stop="20180529154000 +0000">
+  <programme channel="tv.14" start="20180529144000 +0000" stop="20180529154000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -11538,7 +11336,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180529183000 +0000" stop="20180529190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180529190000 +0000" stop="20180529193000 +0000">
@@ -11548,10 +11346,16 @@
   <programme channel="tv.14" start="20180529193000 +0000" stop="20180529194000 +0000">
     <title>The Wot Wots</title>
     <desc>SpottyWot is fixing the long lanky legs of the spaceship when his sister spots two other long legs through the Sneak-a-peek, two long and very pink lanky legs.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180529194000 +0000" stop="20180529195000 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animaton sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180529195000 +0000" stop="20180529195500 +0000">
     <title>Masha And The Bear</title>
@@ -11753,11 +11557,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180530144000 +0000" stop="20180530151500 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180530151500 +0000" stop="20180530154000 +0000">
+  <programme channel="tv.14" start="20180530144000 +0000" stop="20180530154000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -11783,12 +11583,8 @@
     <title>Neighbours</title>
     <desc>School camp goes from bad to disastrous; Steph struggles on mother’s day; Sheila goes undercover to confront Terese.</desc>
   </programme>
-  <programme channel="tv.14" start="20180530183000 +0000" stop="20180530190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180530190000 +0000" stop="20180530193000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.14" start="20180530183000 +0000" stop="20180530193000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180530193000 +0000" stop="20180530194000 +0000">
@@ -11843,7 +11639,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180530220000 +0000" stop="20180530223000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180530223000 +0000" stop="20180530230000 +0000">
@@ -11851,7 +11647,7 @@
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180530230000 +0000" stop="20180530233000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180530233000 +0000" stop="20180531000000 +0000">
@@ -18746,19 +18542,19 @@
     <title>DUKE Back in the Future</title>
     <desc>We'll catch you later on DUKE.</desc>
   </programme>
-  <programme channel="tv.55" start="20180523180000 +0000" stop="20180523191500 +0000">
+  <programme channel="tv.55" start="20180523180000 +0000" stop="20180523191000 +0000">
     <title>On DUKE today...</title>
     <desc>Here's what's on DUKE today.</desc>
   </programme>
-  <programme channel="tv.55" start="20180523191500 +0000" stop="20180523194500 +0000">
+  <programme channel="tv.55" start="20180523191000 +0000" stop="20180523194000 +0000">
     <title>AFL Highlights</title>
     <desc>Highlights from the latest round of the 2018 AFL Season.</desc>
   </programme>
-  <programme channel="tv.55" start="20180523194500 +0000" stop="20180523201500 +0000">
+  <programme channel="tv.55" start="20180523194000 +0000" stop="20180523201000 +0000">
     <title>MLS Highlights</title>
     <desc>Catch the highlights from the latest round of action from the MLS.</desc>
   </programme>
-  <programme channel="tv.55" start="20180523201500 +0000" stop="20180523220000 +0000">
+  <programme channel="tv.55" start="20180523201000 +0000" stop="20180523220000 +0000">
     <title>Bundesliga Playoff Replay</title>
     <desc>Replay of Tuesday’s second promotion / relegation match as Holstein Kiel host Wolfsburg. Wolfsburg won the first leg 3-1.</desc>
   </programme>
@@ -19014,16 +18810,16 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20180526090000 +0000" stop="20180526093000 +0000">
+  <programme channel="tv.55" start="20180526090000 +0000" stop="20180526120000 +0000">
+    <title>Live: AFL - GWS v Essendon</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.55" start="20180526120000 +0000" stop="20180526123000 +0000">
     <title>Wild Kai Legends</title>
     <desc>Passionate hunter, Jack Terei, teams up with local hunting legends around the country. Jack's old mate Sam has sorted out a local shoot. Can they bag a prize stag?</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
-  </programme>
-  <programme channel="tv.55" start="20180526093000 +0000" stop="20180526123000 +0000">
-    <title>Live: AFL - GWS v Essendon</title>
-    <desc/>
   </programme>
   <programme channel="tv.55" start="20180526123000 +0000" stop="20180526132500 +0000">
     <title>Ice Road Truckers</title>
@@ -19124,17 +18920,17 @@
     <title>DUKE Back in the Future</title>
     <desc>We'll catch you later on DUKE.</desc>
   </programme>
-  <programme channel="tv.55" start="20180527180000 +0000" stop="20180528000000 +0000">
+  <programme channel="tv.55" start="20180527180000 +0000" stop="20180527225500 +0000">
     <title>On DUKE today...</title>
     <desc>Here's what's on DUKE today.</desc>
   </programme>
-  <programme channel="tv.55" start="20180528000000 +0000" stop="20180528010000 +0000">
-    <title>On DUKE today...</title>
-    <desc>Here's what's on DUKE today.</desc>
-  </programme>
-  <programme channel="tv.55" start="20180528010000 +0000" stop="20180528033000 +0000">
+  <programme channel="tv.55" start="20180527225500 +0000" stop="20180528012500 +0000">
     <title>AFL - Richmond v St Kilda</title>
     <desc>Delayed coverage of last night’s match as Geelong host Carlton from GMHBA Stadium in South Geelong.</desc>
+  </programme>
+  <programme channel="tv.55" start="20180528012500 +0000" stop="20180528033000 +0000">
+    <title>NBA Conference Finals</title>
+    <desc/>
   </programme>
   <programme channel="tv.55" start="20180528033000 +0000" stop="20180528043000 +0000">
     <title>Mythbusters</title>
@@ -19273,6 +19069,9 @@
   <programme channel="tv.55" start="20180529083000 +0000" stop="20180529093000 +0000">
     <title>Live At The Apollo</title>
     <desc>Stand-up comedy from the world-famous Hammersmith Apollo. Lee Mack, comedian and star of sitcom Not Going Out, presents sets from American comic Rich Hall and Scotland's Danny Bhoy.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180529093000 +0000" stop="20180529103000 +0000">
     <title>New: Modern Life Is Goodish</title>
@@ -19360,10 +19159,16 @@
   <programme channel="tv.55" start="20180530083000 +0000" stop="20180530090000 +0000">
     <title>New: Wild Kai Legends</title>
     <desc>Passionate hunter, Jack Terei, teams up with local hunting legends around the country. Jack takes a trip across to Great Barrier on an epic pig hunt with Wayde Blackwell – and dives for cray.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180530090000 +0000" stop="20180530101000 +0000">
     <title>Reggie Yates: Extreme South Africa</title>
     <desc>New Series S1 E1 Reggies Yates gets up close and personal with differenct communities. Tonight Reggie spends a week in South Africa's largest white squatter camp, Coronation Park.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180530101000 +0000" stop="20180530112000 +0000">
     <title>Reggie Yates: Extreme Russia</title>
@@ -19382,6 +19187,9 @@
   <programme channel="tv.55" start="20180530121500 +0000" stop="20180530124000 +0000">
     <title>Wild Kai Legends</title>
     <desc>Passionate hunter, Jack Terei, teams up with local hunting legends around the country. Jack takes a trip across to Great Barrier on an epic pig hunt with Wayde Blackwell – and dives for cray.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180530124000 +0000" stop="20180530132000 +0000">
     <title>AFL Highlights</title>
@@ -19441,10 +19249,16 @@
   <programme channel="tv.55" start="20180531073000 +0000" stop="20180531083000 +0000">
     <title>Duck Quacks Don't Echo</title>
     <desc>Entertainment show hosted by Lee Mack, comprising amazing facts and trivia, and celebrities testing their veracity.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180531083000 +0000" stop="20180531093000 +0000">
     <title>New: Taskmaster</title>
     <desc>S6 E3 Greg Davies returns for a sixth season, dragging with him a new quintet of brave yet terrified comedians. Tonight Richard Osman and Doc Brown are two of the funny folk involved.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180531093000 +0000" stop="20180531103000 +0000">
     <title>Live At The Apollo</title>
@@ -19463,6 +19277,9 @@
   <programme channel="tv.55" start="20180531110000 +0000" stop="20180531115500 +0000">
     <title>Live At The Apollo</title>
     <desc>Stand-up comedy from the world-famous Hammersmith Apollo. Lee Mack, comedian and star of sitcom Not Going Out, presents sets from American comic Rich Hall and Scotland's Danny Bhoy.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180531115500 +0000" stop="20180531180000 +0000">
     <title>DUKE Back in the Future</title>
