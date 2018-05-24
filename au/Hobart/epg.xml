@@ -600,12 +600,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
-    <title>Close Of Business</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526053000 +0000">
     <title>Garrmalang Festival Panel: Live</title>
     <subtitles type="teletext"/>
@@ -613,14 +607,20 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
-    <title>ABC News</title>
+  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
+    <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
     <title>The Breakfast Couch</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
+    <title>ABC News</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -10493,6 +10493,7 @@
   </programme>
   <programme channel="tv.101204300430" start="20180524093000 +0000" stop="20180524103000 +0000">
     <title>RBT</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -10942,15 +10943,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180527050000 +0000" stop="20180527070000 +0000">
-    <title>The Voice</title>
+  <programme channel="tv.101204300430" start="20180527050000 +0000" stop="20180527053000 +0000">
+    <title>The Middle</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180527050000 +0000" stop="20180527053000 +0000">
-    <title>The Middle</title>
+  <programme channel="tv.101204300430" start="20180527050000 +0000" stop="20180527070000 +0000">
+    <title>The Voice</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -10979,7 +10980,6 @@
   </programme>
   <programme channel="tv.101204300430" start="20180527073000 +0000" stop="20180527080000 +0000">
     <title>Postcards</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -12029,7 +12029,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180525113000 +0000" stop="20180525120000 +0000">
+  <programme channel="tv.101204300433" start="20180525113000 +0000" stop="20180525123000 +0000">
     <title>New House New Life</title>
     <rating system="Freeview">
       <value>G</value>
@@ -12041,13 +12041,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180525123000 +0000" stop="20180525130000 +0000">
-    <title>Extreme Vacation Homes</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300433" start="20180525130000 +0000" stop="20180525133000 +0000">
+  <programme channel="tv.101204300433" start="20180525123000 +0000" stop="20180525133000 +0000">
     <title>Extreme Vacation Homes</title>
     <rating system="Freeview">
       <value>G</value>
@@ -12493,7 +12487,6 @@
   </programme>
   <programme channel="tv.101204300433" start="20180527180000 +0000" stop="20180527183000 +0000">
     <title>Postcards</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -12567,7 +12560,6 @@
   </programme>
   <programme channel="tv.101204300433" start="20180528023000 +0000" stop="20180528030000 +0000">
     <title>Postcards</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -13501,7 +13493,6 @@
   </programme>
   <programme channel="tv.101204300436" start="20180524215500 +0000" stop="20180524225400 +0000">
     <title>Ellen</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -19976,13 +19967,13 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20180526035900 +0000" stop="20180526042900 +0000">
+  <programme channel="tv.101305030532" start="20180526035900 +0000" stop="20180526042800 +0000">
     <title>The Great Australian Doorstep</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20180526035900 +0000" stop="20180526042800 +0000">
+  <programme channel="tv.101305030532" start="20180526035900 +0000" stop="20180526042900 +0000">
     <title>The Great Australian Doorstep</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -37066,21 +37057,6 @@
     <rating system="Freeview">
       <value>NC</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180523222734 +0000" stop="20180523231632 +0000">
-    <title>28 Winters</title>
-    <desc>Every rider has their own style, but snowboarding is always about freedom, friends, and fun.</desc>
-    <sub-title>A Story About Nitro Snowboards</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180523231632 +0000" stop="20180523232432 +0000">
-    <title>A Profile of Mark McMorris</title>
-    <desc>This mini-doc gives a rare glimpse inside the life and mind of Mark McMorris, Canada’s slopestyle icon.</desc>
-    <sub-title>Inspiration</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180523232432 +0000" stop="20180523235139 +0000">
-    <title>Follow the Steps S1E1</title>
-    <desc>In the hours leading up to the Flying Steps' American debut, the crew recounts what it took to get there.</desc>
-    <sub-title>Breakout Performance</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180523235139 +0000" stop="20180524001347 +0000">
     <title>Way Past Midnight S1E8</title>
