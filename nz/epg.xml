@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180525132128 +0000" stop="20180525151658 +0000">
-    <title>Thundercloud</title>
-    <desc>The story of Cloudbreak, one of the most revered waves in surfing, which changed the big wave scene forever.</desc>
-    <sub-title>The History of Surfing's Perfect Wave</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180525151658 +0000" stop="20180525161237 +0000">
     <title>Footwork and Fugues</title>
     <desc>When a dance group and an opera director get together to make music and dance the result is magical.</desc>
@@ -36139,31 +36134,12 @@
     <title>Europe in Concert</title>
     <desc>Top Acts Live George Dalaras</desc>
   </programme>
-  <programme channel="tv.41" start="20180526010000 +0000" stop="20180526020000 +0000">
+  <programme channel="tv.41" start="20180526010000 +0000" stop="20180526040000 +0000">
     <title>Council Matters</title>
     <desc>Coverage of the Dunedin City Council's Council Meetings.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
-  </programme>
-  <programme channel="tv.41" start="20180526020000 +0000" stop="20180526023000 +0000">
-    <title>National Geographic - LIVE</title>
-    <desc>National Geographic LIVE documentary series.</desc>
-  </programme>
-  <programme channel="tv.41" start="20180526023000 +0000" stop="20180526030000 +0000">
-    <title>Americas Heartland</title>
-    <desc></desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.41" start="20180526030000 +0000" stop="20180526033000 +0000">
-    <title>Kick Off! Countdown</title>
-    <desc>Kick off! Countdown bring the news, top names, the very latest from the German Bundesliga.</desc>
-  </programme>
-  <programme channel="tv.41" start="20180526033000 +0000" stop="20180526040000 +0000">
-    <title>Journeys In Time</title>
-    <desc>Journeys in Time hears from the archaeologists, the anthropologists and the historians who have extended the boundaries of what we know about our own past and our planetas history.</desc>
   </programme>
   <programme channel="tv.41" start="20180526040000 +0000" stop="20180526043000 +0000">
     <title>Talking Pictures</title>
@@ -36599,9 +36575,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.41" start="20180529003000 +0000" stop="20180529013000 +0000">
+  <programme channel="tv.41" start="20180529003000 +0000" stop="20180529010000 +0000">
     <title>PopXport</title>
     <desc>popXport showcases excellent musicians and bands, highlights the latest trends and reports on major music events.</desc>
+  </programme>
+  <programme channel="tv.41" start="20180529010000 +0000" stop="20180529013000 +0000">
+    <title>Bean Scene</title>
+    <desc>A look at Dunedin's coffee and cafe culture.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.41" start="20180529013000 +0000" stop="20180529020000 +0000">
     <title>DW News</title>

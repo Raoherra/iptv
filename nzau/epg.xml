@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180525132128 +0000" stop="20180525151658 +0000">
-    <title>Thundercloud</title>
-    <desc>The story of Cloudbreak, one of the most revered waves in surfing, which changed the big wave scene forever.</desc>
-    <sub-title>The History of Surfing's Perfect Wave</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180525151658 +0000" stop="20180525161237 +0000">
     <title>Footwork and Fugues</title>
     <desc>When a dance group and an opera director get together to make music and dance the result is magical.</desc>
@@ -36258,31 +36253,12 @@
     <title>Europe in Concert</title>
     <desc>Top Acts Live George Dalaras</desc>
   </programme>
-  <programme channel="tv.41" start="20180526010000 +0000" stop="20180526020000 +0000">
+  <programme channel="tv.41" start="20180526010000 +0000" stop="20180526040000 +0000">
     <title>Council Matters</title>
     <desc>Coverage of the Dunedin City Council's Council Meetings.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
-  </programme>
-  <programme channel="tv.41" start="20180526020000 +0000" stop="20180526023000 +0000">
-    <title>National Geographic - LIVE</title>
-    <desc>National Geographic LIVE documentary series.</desc>
-  </programme>
-  <programme channel="tv.41" start="20180526023000 +0000" stop="20180526030000 +0000">
-    <title>Americas Heartland</title>
-    <desc/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.41" start="20180526030000 +0000" stop="20180526033000 +0000">
-    <title>Kick Off! Countdown</title>
-    <desc>Kick off! Countdown bring the news, top names, the very latest from the German Bundesliga.</desc>
-  </programme>
-  <programme channel="tv.41" start="20180526033000 +0000" stop="20180526040000 +0000">
-    <title>Journeys In Time</title>
-    <desc>Journeys in Time hears from the archaeologists, the anthropologists and the historians who have extended the boundaries of what we know about our own past and our planetas history.</desc>
   </programme>
   <programme channel="tv.41" start="20180526040000 +0000" stop="20180526043000 +0000">
     <title>Talking Pictures</title>
@@ -36718,9 +36694,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.41" start="20180529003000 +0000" stop="20180529013000 +0000">
+  <programme channel="tv.41" start="20180529003000 +0000" stop="20180529010000 +0000">
     <title>PopXport</title>
     <desc>popXport showcases excellent musicians and bands, highlights the latest trends and reports on major music events.</desc>
+  </programme>
+  <programme channel="tv.41" start="20180529010000 +0000" stop="20180529013000 +0000">
+    <title>Bean Scene</title>
+    <desc>A look at Dunedin's coffee and cafe culture.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.41" start="20180529013000 +0000" stop="20180529020000 +0000">
     <title>DW News</title>
@@ -40069,14 +40052,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
-    <title>Close Of Business</title>
+  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526053000 +0000">
+    <title>Garrmalang Festival Panel: Live</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
-    <title>The Breakfast Couch</title>
+    <title>ABC News</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -55089,10 +55073,11 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20180529133000 +0000" stop="20180529143000 +0000">
-    <title>Love Island Australia</title>
+  <programme channel="tv.101204200428" start="20180529133000 +0000" stop="20180529140000 +0000">
+    <title>The Big Bang Theory</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180529140000 +0000" stop="20180529150000 +0000">
@@ -55340,11 +55325,10 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20180530131500 +0000" stop="20180530134500 +0000">
-    <title>The Big Bang Theory</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101204200428" start="20180530131500 +0000" stop="20180530141500 +0000">
+    <title>Love Island Australia</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180530134500 +0000" stop="20180530141500 +0000">
@@ -57294,9 +57278,8 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180526070000 +0000" stop="20180526073200 +0000">
-    <title>Crash Investigation Unit</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020522" start="20180526070000 +0000" stop="20180526073300 +0000">
+    <title>M*A*S*H</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
