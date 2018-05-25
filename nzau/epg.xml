@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180525020822 +0000" stop="20180525040516 +0000">
-    <title>Thundercloud</title>
-    <desc>The story of Cloudbreak, one of the most revered waves in surfing, which changed the big wave scene forever.</desc>
-    <sub-title>The History of Surfing's Perfect Wave</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180525040516 +0000" stop="20180525050041 +0000">
-    <title>Footwork and Fugues</title>
-    <desc>When a dance group and an opera director get together to make music and dance the result is magical.</desc>
-    <sub-title>Breaking Classical Barriers</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180525050041 +0000" stop="20180525054339 +0000">
     <title>Follow the Fraser</title>
     <desc>Three professional mountain bikers travel north through Canada, riding their way toward the unknown.</desc>
@@ -2148,7 +2138,7 @@
   </programme>
   <programme channel="tv.9" start="20180527073000 +0000" stop="20180527080000 +0000">
     <title>Sunday</title>
-    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe.</desc>
+    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe. Tonight, we're in North Korea, considered by many to be one of the most terrifying places on earth.</desc>
   </programme>
   <programme channel="tv.9" start="20180527080000 +0000" stop="20180527090000 +0000">
     <title>Coast New Zealand</title>
@@ -2546,6 +2536,9 @@
   <programme channel="tv.9" start="20180530045500 +0000" stop="20180530060000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180530060000 +0000" stop="20180530070000 +0000">
     <title>1 News At 6pm</title>
@@ -2566,11 +2559,17 @@
     <title>Doctor Doctor</title>
     <desc>S2 E6 Things get complicated for Penny when she’s left to care for a teenager with Down syndrome, and Charlie gets into strife when she pushes the school boundaries and gets fired.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180530093500 +0000" stop="20180530103500 +0000">
     <title>Coronation Street</title>
     <desc>Roy and Cathy face the truth; Anna’s day ends on a sour note; and Nick continues to make childish jibes at Peter.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180530103500 +0000" stop="20180530110500 +0000">
     <title>1 News Tonight</title>
@@ -2658,10 +2657,16 @@
   <programme channel="tv.9" start="20180531043000 +0000" stop="20180531045500 +0000">
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180531045500 +0000" stop="20180531060000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180531060000 +0000" stop="20180531070000 +0000">
     <title>1 News At 6pm</title>
@@ -2682,6 +2687,9 @@
   <programme channel="tv.9" start="20180531083000 +0000" stop="20180531093000 +0000">
     <title>George Clarke's Amazing Spaces</title>
     <desc>S7 E2 George travels over 5000 miles to explore the wonder of small space builds in Japan. In the Midlands, a father and daughter salvage a dilapidated tree house with a £300 budget.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180531093000 +0000" stop="20180531103000 +0000">
     <title>Coronation Street</title>
@@ -3640,6 +3648,9 @@
     <title>Survivor New Zealand</title>
     <desc>A reward challenge has everyone desperate for the win. Later, with hopes to eliminate strong players, could a blindside be on the cards at tribal council?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180527083000 +0000" stop="20180527104500 +0000">
     <title>Olympus Has Fallen</title>
@@ -3869,6 +3880,9 @@
   <programme channel="tv.10" start="20180528040000 +0000" stop="20180528043000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Millie and her axolotls; our Ask Me Anything Vet Stacey is here to answer all your questions, and we get to work with Aria the black lab who has a special job as a kiwi tracker!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180528043000 +0000" stop="20180528050000 +0000">
     <title>Friends</title>
@@ -3890,6 +3904,9 @@
   <programme channel="tv.10" start="20180528053000 +0000" stop="20180528060000 +0000">
     <title>Home And Away</title>
     <desc>Ash returns to the bay as a changed man; Robbo returns to basic police training in order to get his job back. But can he tick all the required boxes?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180528060000 +0000" stop="20180528063000 +0000">
     <title>The Big Bang Theory</title>
@@ -4154,6 +4171,9 @@
   <programme channel="tv.10" start="20180529023500 +0000" stop="20180529030500 +0000">
     <title>Home And Away</title>
     <desc>Ash returns to the bay as a changed man; Robbo returns to basic police training in order to get his job back. But can he tick all the required boxes?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180529030500 +0000" stop="20180529033500 +0000">
     <title>Shortland Street</title>
@@ -4200,6 +4220,9 @@
   <programme channel="tv.10" start="20180529053000 +0000" stop="20180529060000 +0000">
     <title>Home And Away</title>
     <desc>Leah’s Vlogg gets some unwanted attention; Robbo turns down the job with the Feds; Dean gets the girl!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180529060000 +0000" stop="20180529063000 +0000">
     <title>The Big Bang Theory</title>
@@ -4382,10 +4405,16 @@
   <programme channel="tv.10" start="20180529192500 +0000" stop="20180529195000 +0000">
     <title>The Zhu Zhus</title>
     <desc>Adventurous Frankie and her four extraordinary hamsters navigate life in Anytown, where anything's possible!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180529195000 +0000" stop="20180529201500 +0000">
     <title>Beyblade Burst Evolution</title>
     <desc>The adventures of a pair of youths wielding beyblades.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180529201500 +0000" stop="20180529203500 +0000">
     <title>Disney Junior Art Attack</title>
@@ -4437,6 +4466,9 @@
   <programme channel="tv.10" start="20180530010500 +0000" stop="20180530020500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180530020500 +0000" stop="20180530023500 +0000">
     <title>Home Improvement</title>
@@ -4448,6 +4480,9 @@
   <programme channel="tv.10" start="20180530023500 +0000" stop="20180530030500 +0000">
     <title>Home And Away</title>
     <desc>Leah’s Vlogg gets some unwanted attention; Robbo turns down the job with the Feds; Dean gets the girl!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180530030500 +0000" stop="20180530033500 +0000">
     <title>Shortland Street</title>
@@ -4466,6 +4501,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180530040000 +0000" stop="20180530043000 +0000">
     <title>Fanimals</title>
@@ -4502,6 +4540,9 @@
   <programme channel="tv.10" start="20180530063000 +0000" stop="20180530070000 +0000">
     <title>Neighbours</title>
     <desc>School camp goes from bad to disastrous; Steph struggles on mother’s day; Sheila goes undercover to confront Terese.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180530070000 +0000" stop="20180530073000 +0000">
     <title>Shortland Street</title>
@@ -4517,6 +4558,9 @@
   <programme channel="tv.10" start="20180530073000 +0000" stop="20180530084500 +0000">
     <title>My Kitchen Rules</title>
     <desc>Teams have a third chance to advance to the Semi Finals. As they compete over two rounds, they deliver some of the best cooking we’ve seen but the strain of finals is too much for one team.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180530084500 +0000" stop="20180530091500 +0000">
     <title>All New The Big Bang Theory</title>
@@ -4524,6 +4568,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180530091500 +0000" stop="20180530094500 +0000">
     <title>All New Mom</title>
@@ -4615,10 +4662,16 @@
   <programme channel="tv.10" start="20180530162000 +0000" stop="20180530170500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180530170500 +0000" stop="20180530173000 +0000">
     <title>Neighbours</title>
     <desc>School camp goes from bad to disastrous; Steph struggles on mother’s day; Sheila goes undercover to confront Terese.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180530173000 +0000" stop="20180530183000 +0000">
     <title>Infomercial</title>
@@ -4627,10 +4680,16 @@
   <programme channel="tv.10" start="20180530183000 +0000" stop="20180530184000 +0000">
     <title>The Wot Wots</title>
     <desc>The WotWots are playing hide and seek, and when SpottyWot uses the Sneak-a-peek to look for his sister he spots an amazing new animal.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180530184000 +0000" stop="20180530185000 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animaton sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180530185000 +0000" stop="20180530185500 +0000">
     <title>Masha And The Bear</title>
@@ -4659,10 +4718,16 @@
   <programme channel="tv.10" start="20180530192500 +0000" stop="20180530195000 +0000">
     <title>The Zhu Zhus</title>
     <desc>Adventurous Frankie and her four extraordinary hamsters navigate life in Anytown, where anything's possible!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180530195000 +0000" stop="20180530201500 +0000">
     <title>Beyblade Burst Evolution</title>
     <desc>The adventures of a pair of youths wielding beyblades.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180530201500 +0000" stop="20180530203500 +0000">
     <title>Disney Junior Art Attack</title>
@@ -4693,10 +4758,16 @@
   <programme channel="tv.10" start="20180530223000 +0000" stop="20180530230000 +0000">
     <title>Neighbours</title>
     <desc>School camp goes from bad to disastrous; Steph struggles on mother’s day; Sheila goes undercover to confront Terese.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180530230000 +0000" stop="20180531000500 +0000">
     <title>My Kitchen Rules</title>
     <desc>Teams have a third chance to advance to the Semi Finals. As they compete over two rounds, they deliver some of the best cooking we’ve seen but the strain of finals is too much for one team.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180531000500 +0000" stop="20180531010500 +0000">
     <title>Jeremy Kyle</title>
@@ -4737,6 +4808,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180531040000 +0000" stop="20180531043000 +0000">
     <title>Fanimals</title>
@@ -4792,6 +4866,9 @@
   <programme channel="tv.10" start="20180531080000 +0000" stop="20180531083000 +0000">
     <title>All New Motorway Patrol</title>
     <desc>Tonight, police call on multiple units and the Eagle helicopter as they hunt a stolen Subaru and a cyclist can’t quite comprehend why he can’t bike along the motorway.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180531083000 +0000" stop="20180531093500 +0000">
     <title>Tourettes - Teenage Tics</title>
@@ -9471,7 +9548,7 @@
   </programme>
   <programme channel="tv.38" start="20180527083000 +0000" stop="20180527090000 +0000">
     <title>Sunday</title>
-    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe.</desc>
+    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe. Tonight, we're in North Korea, considered by many to be one of the most terrifying places on earth.</desc>
   </programme>
   <programme channel="tv.38" start="20180527090000 +0000" stop="20180527100000 +0000">
     <title>Coast New Zealand</title>
@@ -9869,6 +9946,9 @@
   <programme channel="tv.38" start="20180530055500 +0000" stop="20180530070000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180530070000 +0000" stop="20180530080000 +0000">
     <title>1 News At 6pm</title>
@@ -9889,11 +9969,17 @@
     <title>Doctor Doctor</title>
     <desc>S2 E6 Things get complicated for Penny when she’s left to care for a teenager with Down syndrome, and Charlie gets into strife when she pushes the school boundaries and gets fired.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180530103500 +0000" stop="20180530113500 +0000">
     <title>Coronation Street</title>
     <desc>Roy and Cathy face the truth; Anna’s day ends on a sour note; and Nick continues to make childish jibes at Peter.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180530113500 +0000" stop="20180530120500 +0000">
     <title>1 News Tonight</title>
@@ -9973,6 +10059,9 @@
   <programme channel="tv.38" start="20180531040000 +0000" stop="20180531050000 +0000">
     <title>Tipping Point</title>
     <desc>Quiz show in which four players take on an extraordinary machine in the hope of winning its 10,000 pound jackpot.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180531050000 +0000" stop="20180531053000 +0000">
     <title>Te Karere</title>
@@ -9981,10 +10070,16 @@
   <programme channel="tv.38" start="20180531053000 +0000" stop="20180531055500 +0000">
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180531055500 +0000" stop="20180531070000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180531070000 +0000" stop="20180531080000 +0000">
     <title>1 News At 6pm</title>
@@ -10005,6 +10100,9 @@
   <programme channel="tv.38" start="20180531093000 +0000" stop="20180531103000 +0000">
     <title>George Clarke's Amazing Spaces</title>
     <desc>S7 E2 George travels over 5000 miles to explore the wonder of small space builds in Japan. In the Midlands, a father and daughter salvage a dilapidated tree house with a £300 budget.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180531103000 +0000" stop="20180531113000 +0000">
     <title>Coronation Street</title>
@@ -10863,6 +10961,9 @@
     <title>Survivor New Zealand</title>
     <desc>A reward challenge has everyone desperate for the win. Later, with hopes to eliminate strong players, could a blindside be on the cards at tribal council?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180527093000 +0000" stop="20180527114500 +0000">
     <title>Olympus Has Fallen</title>
@@ -11071,6 +11172,9 @@
   <programme channel="tv.14" start="20180528050000 +0000" stop="20180528053000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Millie and her axolotls; our Ask Me Anything Vet Stacey is here to answer all your questions, and we get to work with Aria the black lab who has a special job as a kiwi tracker!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180528053000 +0000" stop="20180528060000 +0000">
     <title>Friends</title>
@@ -11089,6 +11193,9 @@
   <programme channel="tv.14" start="20180528063000 +0000" stop="20180528070000 +0000">
     <title>Home And Away</title>
     <desc>Ash returns to the bay as a changed man; Robbo returns to basic police training in order to get his job back. But can he tick all the required boxes?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180528070000 +0000" stop="20180528073000 +0000">
     <title>The Big Bang Theory</title>
@@ -11326,6 +11433,9 @@
   <programme channel="tv.14" start="20180529033500 +0000" stop="20180529040500 +0000">
     <title>Home And Away</title>
     <desc>Ash returns to the bay as a changed man; Robbo returns to basic police training in order to get his job back. But can he tick all the required boxes?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180529040500 +0000" stop="20180529043500 +0000">
     <title>Shortland Street</title>
@@ -11345,6 +11455,9 @@
   <programme channel="tv.14" start="20180529050000 +0000" stop="20180529053000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Comet, a calf at the SPCA, our Ask Me Anything Vet Stacey is here to answer all your pet questions, and we go exploring with some Wetland Warriors in Aotearoa Superheroes!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180529053000 +0000" stop="20180529060000 +0000">
     <title>Friends</title>
@@ -11363,6 +11476,9 @@
   <programme channel="tv.14" start="20180529063000 +0000" stop="20180529070000 +0000">
     <title>Home And Away</title>
     <desc>Leah’s Vlogg gets some unwanted attention; Robbo turns down the job with the Feds; Dean gets the girl!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180529070000 +0000" stop="20180529073000 +0000">
     <title>The Big Bang Theory</title>
@@ -11521,10 +11637,16 @@
   <programme channel="tv.14" start="20180529202500 +0000" stop="20180529205000 +0000">
     <title>The Zhu Zhus</title>
     <desc>Adventurous Frankie and her four extraordinary hamsters navigate life in Anytown, where anything's possible!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180529205000 +0000" stop="20180529211500 +0000">
     <title>Beyblade Burst Evolution</title>
     <desc>The adventures of a pair of youths wielding beyblades.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180529211500 +0000" stop="20180529213500 +0000">
     <title>Disney Junior Art Attack</title>
@@ -11576,6 +11698,9 @@
   <programme channel="tv.14" start="20180530020500 +0000" stop="20180530030500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180530030500 +0000" stop="20180530033500 +0000">
     <title>Home Improvement</title>
@@ -11587,6 +11712,9 @@
   <programme channel="tv.14" start="20180530033500 +0000" stop="20180530040500 +0000">
     <title>Home And Away</title>
     <desc>Leah’s Vlogg gets some unwanted attention; Robbo turns down the job with the Feds; Dean gets the girl!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180530040500 +0000" stop="20180530043500 +0000">
     <title>Shortland Street</title>
@@ -11599,6 +11727,9 @@
   <programme channel="tv.14" start="20180530043500 +0000" stop="20180530050000 +0000">
     <title>K.C. Undercover</title>
     <desc>K.C. is assigned to protect a foreign diplomat at a university ceremony and must go undercover by joining the school's drumline to secure a key position next to the diplomat.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180530050000 +0000" stop="20180530053000 +0000">
     <title>Fanimals</title>
@@ -11632,6 +11763,9 @@
   <programme channel="tv.14" start="20180530073000 +0000" stop="20180530080000 +0000">
     <title>Neighbours</title>
     <desc>School camp goes from bad to disastrous; Steph struggles on mother’s day; Sheila goes undercover to confront Terese.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180530080000 +0000" stop="20180530083000 +0000">
     <title>Shortland Street</title>
@@ -11644,10 +11778,16 @@
   <programme channel="tv.14" start="20180530083000 +0000" stop="20180530094500 +0000">
     <title>My Kitchen Rules</title>
     <desc>Teams have a third chance to advance to the Semi Finals. As they compete over two rounds, they deliver some of the best cooking we’ve seen but the strain of finals is too much for one team.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180530094500 +0000" stop="20180530101500 +0000">
     <title>All New The Big Bang Theory</title>
     <desc>Season Finale: Amy’s parents arrive along with Sheldon’s family and everybody’s focused on making sure all goes according to plan, everyone except the bride and groom. Mark Hamill guest stars.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180530101500 +0000" stop="20180530104500 +0000">
     <title>All New Mom</title>
@@ -11718,10 +11858,16 @@
   <programme channel="tv.14" start="20180530172000 +0000" stop="20180530180500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180530180500 +0000" stop="20180530183000 +0000">
     <title>Neighbours</title>
     <desc>School camp goes from bad to disastrous; Steph struggles on mother’s day; Sheila goes undercover to confront Terese.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180530183000 +0000" stop="20180530193000 +0000">
     <title>Infomercial</title>
@@ -11730,10 +11876,16 @@
   <programme channel="tv.14" start="20180530193000 +0000" stop="20180530194000 +0000">
     <title>The Wot Wots</title>
     <desc>The WotWots are playing hide and seek, and when SpottyWot uses the Sneak-a-peek to look for his sister he spots an amazing new animal.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180530194000 +0000" stop="20180530195000 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animaton sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180530195000 +0000" stop="20180530195500 +0000">
     <title>Masha And The Bear</title>
@@ -11759,10 +11911,16 @@
   <programme channel="tv.14" start="20180530202500 +0000" stop="20180530205000 +0000">
     <title>The Zhu Zhus</title>
     <desc>Adventurous Frankie and her four extraordinary hamsters navigate life in Anytown, where anything's possible!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180530205000 +0000" stop="20180530211500 +0000">
     <title>Beyblade Burst Evolution</title>
     <desc>The adventures of a pair of youths wielding beyblades.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180530211500 +0000" stop="20180530213500 +0000">
     <title>Disney Junior Art Attack</title>
@@ -11793,10 +11951,16 @@
   <programme channel="tv.14" start="20180530233000 +0000" stop="20180531000000 +0000">
     <title>Neighbours</title>
     <desc>School camp goes from bad to disastrous; Steph struggles on mother’s day; Sheila goes undercover to confront Terese.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180531000000 +0000" stop="20180531010500 +0000">
     <title>My Kitchen Rules</title>
     <desc>Teams have a third chance to advance to the Semi Finals. As they compete over two rounds, they deliver some of the best cooking we’ve seen but the strain of finals is too much for one team.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180531010500 +0000" stop="20180531020500 +0000">
     <title>Jeremy Kyle</title>
@@ -11831,6 +11995,9 @@
   <programme channel="tv.14" start="20180531043500 +0000" stop="20180531050000 +0000">
     <title>K.C. Undercover</title>
     <desc>K.C. creates a fictional identical cousin to fool Byron, then must break Bernice out of jail in order to pull off the ruse.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180531050000 +0000" stop="20180531053000 +0000">
     <title>Fanimals</title>
@@ -11880,6 +12047,9 @@
   <programme channel="tv.14" start="20180531090000 +0000" stop="20180531093000 +0000">
     <title>All New Motorway Patrol</title>
     <desc>Tonight, police call on multiple units and the Eagle helicopter as they hunt a stolen Subaru and a cyclist can’t quite comprehend why he can’t bike along the motorway.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180531093000 +0000" stop="20180531103500 +0000">
     <title>Tourettes - Teenage Tics</title>
@@ -19199,6 +19369,9 @@
   <programme channel="tv.55" start="20180528090000 +0000" stop="20180528111500 +0000">
     <title>Movie: Matchstick Men</title>
     <desc>Two con-artists run a successful small-time scam, but Roy's personal life is not so rewarding - and now he discovers he has a 14-year-old daughter, Angela. Starring Nicolas Cage and Sam Rockwell.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180528111500 +0000" stop="20180528114500 +0000">
     <title>Wild Kai Legends</title>
@@ -40697,7 +40870,7 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
-    <title>The Breakfast Couch</title>
+    <title>ABC News</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -55592,10 +55765,11 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20180528133000 +0000" stop="20180528143000 +0000">
-    <title>Love Island Australia</title>
+  <programme channel="tv.101204200428" start="20180528133000 +0000" stop="20180528140000 +0000">
+    <title>The Big Bang Theory</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180528140000 +0000" stop="20180528143000 +0000">
@@ -55852,10 +56026,11 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20180529133000 +0000" stop="20180529143000 +0000">
-    <title>Love Island Australia</title>
+  <programme channel="tv.101204200428" start="20180529133000 +0000" stop="20180529140000 +0000">
+    <title>The Big Bang Theory</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180529140000 +0000" stop="20180529150000 +0000">
@@ -56103,10 +56278,11 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20180530131500 +0000" stop="20180530141500 +0000">
-    <title>Love Island Australia</title>
+  <programme channel="tv.101204200428" start="20180530131500 +0000" stop="20180530134500 +0000">
+    <title>The Big Bang Theory</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180530134500 +0000" stop="20180530141500 +0000">
@@ -58083,7 +58259,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180526035900 +0000" stop="20180526042800 +0000">
+  <programme channel="tv.101305020522" start="20180526035900 +0000" stop="20180526042900 +0000">
     <title>The Great Australian Doorstep</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -62435,7 +62611,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180524230000 +0000" stop="20180524233000 +0000">
-    <title>Raceday Review - Racing.com Park</title>
+    <title>Sectional Stars</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
