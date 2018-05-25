@@ -1717,6 +1717,37 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180602140000 +0000" stop="20180602141500 +0000">
+    <title>ABC Late News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180602141500 +0000" stop="20180602150000 +0000">
+    <title>Matter Of Fact: This Week</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180602150000 +0000" stop="20180602151500 +0000">
+    <title>DW News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180602151500 +0000" stop="20180602153000 +0000">
+    <title>ABC Late News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180602153000 +0000" stop="20180602163500 +0000">
+    <title>Q&amp;A</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180525154600 +0000" stop="20180525160700 +0000">
     <title>The Office</title>
     <rating system="Freeview">
@@ -5826,6 +5857,27 @@
   </programme>
   <programme channel="tv.101002210222" start="20180602135700 +0000" stop="20180602142500 +0000">
     <title>The Librarians</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180602142500 +0000" stop="20180602145300 +0000">
+    <title>The Librarians</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180602145300 +0000" stop="20180602153800 +0000">
+    <title>An Idiot Abroad</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180602153800 +0000" stop="20180602162400 +0000">
+    <title>Live at the Apollo</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -11679,6 +11731,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204600464" start="20180602160000 +0000" stop="20180602170000 +0000">
+    <title>Hotel Impossible</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204600467" start="20180525155900 +0000" stop="20180525170100 +0000">
     <title>A.D. Kingdom And Empire</title>
     <subtitles type="teletext"/>
@@ -12923,6 +12981,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600467" start="20180602160000 +0000" stop="20180602170000 +0000">
+    <title>Cold Case</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204600468" start="20180525123000 +0000" stop="20180525160800 +0000">
@@ -14820,6 +14885,12 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101204600468" start="20180602160000 +0000" stop="20180602160500 +0000">
+    <title>[adult swim]</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020528" start="20180525153000 +0000" stop="20180525160000 +0000">
     <title>Raceday Review - Werribee</title>
     <subtitles type="teletext"/>
@@ -16703,6 +16774,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180602160000 +0000" stop="20180602164500 +0000">
+    <title>Raceday Review - The Valley</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305060560" start="20180525152500 +0000" stop="20180525163400 +0000">
     <title>The Mentor</title>
     <subtitles type="teletext"/>
@@ -17981,13 +18059,13 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20180526055900 +0000" stop="20180526062800 +0000">
+  <programme channel="tv.101305060562" start="20180526055900 +0000" stop="20180526062900 +0000">
     <title>The Great Australian Doorstep</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20180526055900 +0000" stop="20180526062900 +0000">
+  <programme channel="tv.101305060562" start="20180526055900 +0000" stop="20180526062800 +0000">
     <title>The Great Australian Doorstep</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -18027,15 +18105,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20180526090000 +0000" stop="20180526093300 +0000">
-    <title>M*A*S*H</title>
+  <programme channel="tv.101305060562" start="20180526090000 +0000" stop="20180526093200 +0000">
+    <title>Crash Investigation Unit</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20180526090000 +0000" stop="20180526093200 +0000">
-    <title>Crash Investigation Unit</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305060562" start="20180526090000 +0000" stop="20180526093300 +0000">
+    <title>M*A*S*H</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -23859,6 +23937,13 @@
     </rating>
   </programme>
   <programme channel="tv.101406070681" start="20180602150000 +0000" stop="20180602160000 +0000">
+    <title>NCIS</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406070681" start="20180602160000 +0000" stop="20180602170000 +0000">
     <title>NCIS</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -32179,6 +32264,24 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000302" start="20180602143000 +0000" stop="20180602150000 +0000">
+    <title>The Movie Show</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180602150000 +0000" stop="20180602153000 +0000">
+    <title>The Movie Show</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180602153000 +0000" stop="20180602162000 +0000">
+    <title>Big Night Out</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000304" start="20180525153000 +0000" stop="20180525162500 +0000">
     <title>Far Flung With Gary Mehigan</title>
     <rating system="Freeview">
@@ -34561,6 +34664,36 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180602142000 +0000" stop="20180602145000 +0000">
+    <title>Taco Trip</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180602145000 +0000" stop="20180602150000 +0000">
+    <title>Lyndey Milan's Taste of Ireland</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180602150000 +0000" stop="20180602153000 +0000">
+    <title>Sugar &amp; Sparks</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180602153000 +0000" stop="20180602160000 +0000">
+    <title>Mystery Diners</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180602160000 +0000" stop="20180602163000 +0000">
+    <title>Mystery Diners</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180525150000 +0000" stop="20180525160000 +0000">
     <title>Volumz</title>
     <rating system="Freeview">
@@ -36567,15 +36700,23 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180525203100 +0000" stop="20180525220100 +0000">
-    <title>The Dance 2018</title>
-    <desc>Ten of the world’s best street dance crews battle it out to win Europe’s prestigious urban dance title.</desc>
-    <sub-title>Finals – Zurich, Switzerland</sub-title>
+  <programme channel="tv.320203000305" start="20180602140000 +0000" stop="20180602150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180525220100 +0000" stop="20180525220255 +0000">
-    <title>Never-ending Dance Moves</title>
-    <desc>The Red Bull BC One All Stars show off their moves in a mirror cube that gives the illusion of infinity. </desc>
-    <sub-title>Infinity Cube</sub-title>
+  <programme channel="tv.320203000305" start="20180602150000 +0000" stop="20180602160000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180602160000 +0000" stop="20180602170000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.redbull.tv" start="20180525220255 +0000" stop="20180525225804 +0000">
     <title>Footwork and Fugues</title>
