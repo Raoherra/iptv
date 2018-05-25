@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180525055706 +0000" stop="20180525062300 +0000">
-    <title>Jokke Sommer Documentary </title>
-    <desc>A look into the life of one of the world’s most famous and daring wingsuit flyers.</desc>
-    <sub-title>A Wingsuit Superstar Takes Flight</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180525062300 +0000" stop="20180525071153 +0000">
     <title>28 Winters</title>
     <desc>Every rider has their own style, but snowboarding is always about freedom, friends, and fun.</desc>
@@ -5140,6 +5135,9 @@
   <programme channel="tv.11" start="20180525090000 +0000" stop="20180525094500 +0000">
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Jeremy Elwood, Becky Lucas, Cori Gonzalez-Macuer and Urzila Carlson.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180525094500 +0000" stop="20180525101500 +0000">
     <title>Funny Girls</title>
@@ -5207,11 +5205,11 @@
     <title>Dancing With The Stars</title>
     <desc>New Episode. Ten couples remain in the competition, and tonight seven couples attempt to win your votes and the judge's points by dancing live!</desc>
   </programme>
-  <programme channel="tv.11" start="20180526013000 +0000" stop="20180526023000 +0000">
+  <programme channel="tv.11" start="20180526013000 +0000" stop="20180526023500 +0000">
     <title>Dancing With The Stars</title>
     <desc>New Episode. Four more couples try to tempt your audience vote, before the big elimination. Who will be next to leave the dance floor?</desc>
   </programme>
-  <programme channel="tv.11" start="20180526023000 +0000" stop="20180526030000 +0000">
+  <programme channel="tv.11" start="20180526023500 +0000" stop="20180526030500 +0000">
     <title>9JKL</title>
     <desc>New Episode. After Harry scales back to a four-day work week, Josh suggests he take acting class on Fridays to avoid spending the day together. S1 Ep14</desc>
     <audio>
@@ -5221,14 +5219,14 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180526030000 +0000" stop="20180526040000 +0000">
+  <programme channel="tv.11" start="20180526030500 +0000" stop="20180526041500 +0000">
     <title>Survivor: Ghost Island</title>
     <desc>Catch an all new episode of Survivor: Ghost Island fast-tracked from the States. S36 Ep14</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180526040000 +0000" stop="20180526060000 +0000">
+  <programme channel="tv.11" start="20180526041500 +0000" stop="20180526060000 +0000">
     <title>1</title>
     <desc>Final. It's game time! Who will be crowned Sole Survivor? Find out in the epic feature-length Grand Final, fast-tracked from the States. S36 Ep15</desc>
     <rating system="Freeview">
@@ -5782,7 +5780,7 @@
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
   <programme channel="tv.11" start="20180530073000 +0000" stop="20180530102000 +0000">
-    <title>Star Wars: Episode II - Attack Of The Clones</title>
+    <title>Star Wars: Attack Of The Clones</title>
     <desc>Ten years after meeting, Anakin Skywalker shares a forbidden romance with Padme Amidala, while Obi-Wan investigates an assassination attempt on the senator and discovers a secret clone army. (2002)</desc>
     <rating system="Freeview">
       <value>PGR</value>
@@ -12291,6 +12289,9 @@
   <programme channel="tv.27" start="20180525100000 +0000" stop="20180525104500 +0000">
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Jeremy Elwood, Becky Lucas, Cori Gonzalez-Macuer and Urzila Carlson.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180525104500 +0000" stop="20180525111500 +0000">
     <title>Funny Girls</title>
@@ -12352,25 +12353,25 @@
     <title>Dancing With The Stars</title>
     <desc>New Episode. Ten couples remain in the competition, and tonight seven couples attempt to win your votes and the judge's points by dancing live!</desc>
   </programme>
-  <programme channel="tv.27" start="20180526023000 +0000" stop="20180526033000 +0000">
+  <programme channel="tv.27" start="20180526023000 +0000" stop="20180526033500 +0000">
     <title>Dancing With The Stars</title>
     <desc>New Episode. Four more couples try to tempt your audience vote, before the big elimination. Who will be next to leave the dance floor?</desc>
   </programme>
-  <programme channel="tv.27" start="20180526033000 +0000" stop="20180526040000 +0000">
+  <programme channel="tv.27" start="20180526033500 +0000" stop="20180526040500 +0000">
     <title>9JKL</title>
     <desc>New Episode. After Harry scales back to a four-day work week, Josh suggests he take acting class on Fridays to avoid spending the day together. S1 Ep14</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180526040000 +0000" stop="20180526050000 +0000">
+  <programme channel="tv.27" start="20180526040500 +0000" stop="20180526051500 +0000">
     <title>Survivor: Ghost Island</title>
     <desc>Catch an all new episode of Survivor: Ghost Island fast-tracked from the States. S36 Ep14</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180526050000 +0000" stop="20180526070000 +0000">
+  <programme channel="tv.27" start="20180526051500 +0000" stop="20180526070000 +0000">
     <title>1</title>
     <desc>Final. It's game time! Who will be crowned Sole Survivor? Find out in the epic feature-length Grand Final, fast-tracked from the States. S36 Ep15</desc>
     <rating system="Freeview">
@@ -12894,7 +12895,7 @@
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
   <programme channel="tv.27" start="20180530083000 +0000" stop="20180530112000 +0000">
-    <title>Star Wars: Episode II - Attack Of The Clones</title>
+    <title>Star Wars: Attack Of The Clones</title>
     <desc>Ten years after meeting, Anakin Skywalker shares a forbidden romance with Padme Amidala, while Obi-Wan investigates an assassination attempt on the senator and discovers a secret clone army. (2002)</desc>
     <rating system="Freeview">
       <value>PGR</value>
