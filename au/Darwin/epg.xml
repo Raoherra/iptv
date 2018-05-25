@@ -434,12 +434,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
-    <title>Close Of Business</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526053000 +0000">
     <title>Garrmalang Festival Panel: Live</title>
     <subtitles type="teletext"/>
@@ -447,14 +441,20 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
-    <title>The Breakfast Couch</title>
+  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
+    <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
     <title>ABC News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
+    <title>The Breakfast Couch</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -15892,17 +15892,17 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20180530131500 +0000" stop="20180530141500 +0000">
-    <title>Love Island Australia</title>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200428" start="20180530131500 +0000" stop="20180530134500 +0000">
     <title>The Big Bang Theory</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20180530131500 +0000" stop="20180530141500 +0000">
+    <title>Love Island Australia</title>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180530134500 +0000" stop="20180530141500 +0000">
@@ -19869,15 +19869,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20180526073000 +0000" stop="20180526080200 +0000">
-    <title>Crash Investigation Unit</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305050552" start="20180526073000 +0000" stop="20180526080300 +0000">
+    <title>M*A*S*H</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20180526073000 +0000" stop="20180526080300 +0000">
-    <title>M*A*S*H</title>
+  <programme channel="tv.101305050552" start="20180526073000 +0000" stop="20180526080200 +0000">
+    <title>Crash Investigation Unit</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -31361,16 +31361,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180527043000 +0000" stop="20180527063000 +0000">
-    <title>UCL: Final: Real Madrid v Liverpool</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000302" start="20180527043000 +0000" stop="20180527052000 +0000">
     <title>States of Undress</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180527043000 +0000" stop="20180527063000 +0000">
+    <title>UCL: Final: Real Madrid v Liverpool</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180527054500 +0000" stop="20180527061000 +0000">
@@ -37055,36 +37055,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180525074621 +0000" stop="20180525080844 +0000">
-    <title>Way Past Midnight S1E8</title>
-    <desc>Artists, dancers, and DJs in Barcelona's hip-hop scene join forces to put on the best party in the city.</desc>
-    <sub-title>Friday Night Juice </sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180525080844 +0000" stop="20180525083605 +0000">
-    <title>Way Back Home</title>
-    <desc>Danny MacAskill documents his trip from Edinburgh to Skye as he works on filming a new action film project.</desc>
-    <sub-title>Back to the Stomping Grounds</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180525083605 +0000" stop="20180525084034 +0000">
-    <title>Danny MacAskill in Scotland</title>
-    <desc>Danny MacAskill tears around rural Scotland, setting out to capture the simple fun of a ride in the country.</desc>
-    <sub-title>Wee Day Out</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180525084034 +0000" stop="20180525084434 +0000">
-    <title>Matthias Dandois on the Streets of Lisbon</title>
-    <desc>Matthias Dandois considers the artistic side of BMX riding – the result is full of creativity and skill.</desc>
-    <sub-title>Portuguese Cobblestone</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180525084434 +0000" stop="20180525085445 +0000">
-    <title>MX Nation S3E3</title>
-    <desc>Former pro cyclist Aldon Baker, now a trainer, has a record of turning racers into champions.</desc>
-    <sub-title>The Training Programme</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180525085445 +0000" stop="20180525090441 +0000">
-    <title>MX Nation S3E4</title>
-    <desc>In competing for the 450 Class overall title, mental readiness can play a huge role in the podium rankings.</desc>
-    <sub-title>Mind Games</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180525090441 +0000" stop="20180525101015 +0000">
     <title>Red Bull Signature Series S6E5</title>
