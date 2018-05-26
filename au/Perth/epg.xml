@@ -249,12 +249,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
-    <title>Close Of Business</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526053000 +0000">
     <title>Garrmalang Festival Panel: Live</title>
     <subtitles type="teletext"/>
@@ -262,14 +256,20 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
-    <title>The Breakfast Couch</title>
+  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
+    <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
     <title>ABC News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
+    <title>The Breakfast Couch</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -14196,17 +14196,17 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101204600468" start="20180530151500 +0000" stop="20180530161500 +0000">
+    <title>Love Island Australia</title>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204600468" start="20180530151500 +0000" stop="20180530154500 +0000">
     <title>The Big Bang Theory</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600468" start="20180530151500 +0000" stop="20180530161500 +0000">
-    <title>Love Island Australia</title>
-    <rating system="Freeview">
-      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204600468" start="20180530154500 +0000" stop="20180530161500 +0000">
@@ -30794,16 +30794,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180527043000 +0000" stop="20180527063000 +0000">
-    <title>UCL: Final: Real Madrid v Liverpool</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000302" start="20180527043000 +0000" stop="20180527052000 +0000">
     <title>States of Undress</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180527043000 +0000" stop="20180527063000 +0000">
+    <title>UCL: Final: Real Madrid v Liverpool</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180527054500 +0000" stop="20180527061000 +0000">
@@ -36717,11 +36717,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180525225804 +0000" stop="20180526003048 +0000">
-    <title>Blood Road</title>
-    <desc>Rebecca Rusch rides 1,930km along the infamous Ho Chi Minh Trail through the dense jungles of Vietnam.</desc>
-    <sub-title>A Daughter’s Search. A Trail To Discovery.</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180526003048 +0000" stop="20180526013110 +0000">
     <title>Valhalla</title>
