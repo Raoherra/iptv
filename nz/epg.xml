@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180526034808 +0000" stop="20180526050058 +0000">
-    <title>Bouncing Cats</title>
-    <desc>A Ugandan AIDS orphan works to empower his community's children through exposure to b-boy dance culture.</desc>
-    <sub-title>The Story of Breakdance Project Uganda</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180526050058 +0000" stop="20180526052631 +0000">
     <title>Ultimate Rush S5E6</title>
     <desc>Robbie Maddison is a master of motocross on land. Now, he takes his bike to one of the globe's heaviest waves.</desc>
@@ -2192,6 +2187,9 @@
   <programme channel="tv.9" start="20180531030000 +0000" stop="20180531040000 +0000">
     <title>Tipping Point</title>
     <desc>Quiz show in which four players take on an extraordinary machine in the hope of winning its 10,000 pound jackpot.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180531040000 +0000" stop="20180531043000 +0000">
     <title>Te Karere</title>
@@ -3570,6 +3568,9 @@
   <programme channel="tv.10" start="20180529040000 +0000" stop="20180529043000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Comet, a calf at the SPCA, our Ask Me Anything Vet Stacey is here to answer all your pet questions, and we go exploring with some Wetland Warriors in Aotearoa Superheroes!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180529043000 +0000" stop="20180529050000 +0000">
     <title>Friends</title>
@@ -3879,6 +3880,9 @@
   <programme channel="tv.10" start="20180530040000 +0000" stop="20180530043000 +0000">
     <title>Fanimals</title>
     <desc>Today it's all action in the next race for glory on Farmyard Olympics, we play Call of Nature with someone on the phone, and our Ask Me Anything Vet Stacey is here to answer all your pet questions!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180530043000 +0000" stop="20180530050000 +0000">
     <title>Friends</title>
@@ -3900,6 +3904,9 @@
   <programme channel="tv.10" start="20180530053000 +0000" stop="20180530060000 +0000">
     <title>Home And Away</title>
     <desc>Maggie is worried that Ben isn’t ready to face the reality of her Cancer; young love blooms between Raffy and Ty; and Leah is standing up to her cyber trolls, but has Ryder taken things too far?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180530060000 +0000" stop="20180530063000 +0000">
     <title>The Big Bang Theory</title>
@@ -3997,6 +4004,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180530131500 +0000" stop="20180530134000 +0000">
     <title>Shortland Street</title>
@@ -4136,9 +4146,6 @@
   <programme channel="tv.10" start="20180530230000 +0000" stop="20180531000500 +0000">
     <title>My Kitchen Rules</title>
     <desc>Teams have a third chance to advance to the Semi Finals. As they compete over two rounds, they deliver some of the best cooking we’ve seen but the strain of finals is too much for one team.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.10" start="20180531000500 +0000" stop="20180531010500 +0000">
     <title>Jeremy Kyle</title>
@@ -4161,6 +4168,9 @@
   <programme channel="tv.10" start="20180531023500 +0000" stop="20180531030500 +0000">
     <title>Home And Away</title>
     <desc>Maggie is worried that Ben isn’t ready to face the reality of her Cancer; young love blooms between Raffy and Ty; and Leah is standing up to her cyber trolls, but has Ryder taken things too far?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180531030500 +0000" stop="20180531033500 +0000">
     <title>Shortland Street</title>
@@ -4207,6 +4217,9 @@
   <programme channel="tv.10" start="20180531053000 +0000" stop="20180531060000 +0000">
     <title>Home And Away</title>
     <desc>Raffy deals with the fallout from her kiss. Leah teaches Ryder an important lesson about consent. Can Colby and Jasmine salvage their friendship?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180531060000 +0000" stop="20180531063000 +0000">
     <title>The Big Bang Theory</title>
@@ -4434,6 +4447,9 @@
   <programme channel="tv.10" start="20180601023000 +0000" stop="20180601030000 +0000">
     <title>Home And Away</title>
     <desc>Raffy deals with the fallout from her kiss. Leah teaches Ryder an important lesson about consent. Can Colby and Jasmine salvage their friendship?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180601030000 +0000" stop="20180601033000 +0000">
     <title>Shortland Street</title>
@@ -4523,6 +4539,9 @@
   <programme channel="tv.10" start="20180601113000 +0000" stop="20180601124500 +0000">
     <title>Sensing Murder</title>
     <desc>Season finale. Sixty two-year-old Kaye Stewart was a devoted wife, mother and grandmother. In 2005 she set out for a walk in Rimutaka Forest Park and was never seen again. Kaye's family want to unrave</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180601124500 +0000" stop="20180601130500 +0000">
     <title>People Of Earth</title>
@@ -11081,6 +11100,9 @@
   <programme channel="tv.14" start="20180530050000 +0000" stop="20180530053000 +0000">
     <title>Fanimals</title>
     <desc>Today it's all action in the next race for glory on Farmyard Olympics, we play Call of Nature with someone on the phone, and our Ask Me Anything Vet Stacey is here to answer all your pet questions!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180530053000 +0000" stop="20180530060000 +0000">
     <title>Friends</title>
@@ -11099,6 +11121,9 @@
   <programme channel="tv.14" start="20180530063000 +0000" stop="20180530070000 +0000">
     <title>Home And Away</title>
     <desc>Maggie is worried that Ben isn’t ready to face the reality of her Cancer; young love blooms between Raffy and Ty; and Leah is standing up to her cyber trolls, but has Ryder taken things too far?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180530070000 +0000" stop="20180530073000 +0000">
     <title>The Big Bang Theory</title>
@@ -11175,6 +11200,9 @@
   <programme channel="tv.14" start="20180530133000 +0000" stop="20180530141500 +0000">
     <title>Private Practice</title>
     <desc>While Sam finds himself in the midst of a dangerous house call, love - or at least lust - is in the air at Oceanside Wellness Centre, as Pete and Addison decide to take their relationship further.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180530141500 +0000" stop="20180530144000 +0000">
     <title>Shortland Street</title>
@@ -11305,9 +11333,6 @@
   <programme channel="tv.14" start="20180531000000 +0000" stop="20180531010500 +0000">
     <title>My Kitchen Rules</title>
     <desc>Teams have a third chance to advance to the Semi Finals. As they compete over two rounds, they deliver some of the best cooking we’ve seen but the strain of finals is too much for one team.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.14" start="20180531010500 +0000" stop="20180531020500 +0000">
     <title>Jeremy Kyle</title>
@@ -11330,6 +11355,9 @@
   <programme channel="tv.14" start="20180531033500 +0000" stop="20180531040500 +0000">
     <title>Home And Away</title>
     <desc>Maggie is worried that Ben isn’t ready to face the reality of her Cancer; young love blooms between Raffy and Ty; and Leah is standing up to her cyber trolls, but has Ryder taken things too far?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180531040500 +0000" stop="20180531043500 +0000">
     <title>Shortland Street</title>
@@ -11367,6 +11395,9 @@
   <programme channel="tv.14" start="20180531063000 +0000" stop="20180531070000 +0000">
     <title>Home And Away</title>
     <desc>Raffy deals with the fallout from her kiss. Leah teaches Ryder an important lesson about consent. Can Colby and Jasmine salvage their friendship?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180531070000 +0000" stop="20180531073000 +0000">
     <title>The Big Bang Theory</title>
@@ -11579,6 +11610,9 @@
   <programme channel="tv.14" start="20180601033000 +0000" stop="20180601040000 +0000">
     <title>Home And Away</title>
     <desc>Raffy deals with the fallout from her kiss. Leah teaches Ryder an important lesson about consent. Can Colby and Jasmine salvage their friendship?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180601040000 +0000" stop="20180601043000 +0000">
     <title>Shortland Street</title>
@@ -11653,6 +11687,9 @@
   <programme channel="tv.14" start="20180601123000 +0000" stop="20180601134500 +0000">
     <title>Sensing Murder</title>
     <desc>Season finale. Sixty two-year-old Kaye Stewart was a devoted wife, mother and grandmother. In 2005 she set out for a walk in Rimutaka Forest Park and was never seen again. Kaye's family want to unrave</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180601134500 +0000" stop="20180601140500 +0000">
     <title>People Of Earth</title>
