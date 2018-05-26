@@ -1748,6 +1748,12 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180603140000 +0000" stop="20180603141500 +0000">
+    <title>ABC Late News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180526135700 +0000" stop="20180526142400 +0000">
     <title>The Librarians</title>
     <subtitles type="teletext"/>
@@ -11643,6 +11649,13 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101204300430" start="20180603140000 +0000" stop="20180603150000 +0000">
+    <title>Major Crimes</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204300433" start="20180526135900 +0000" stop="20180526150200 +0000">
     <title>Hotel Impossible</title>
     <rating system="Freeview">
@@ -13183,6 +13196,12 @@
     <title>House Hunters International</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300433" start="20180603140000 +0000" stop="20180603150000 +0000">
+    <title>Fixer Upper</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204300436" start="20180526113100 +0000" stop="20180526140000 +0000">
@@ -15235,17 +15254,17 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.101204300437" start="20180529133000 +0000" stop="20180529143000 +0000">
+    <title>Love Island Australia</title>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204300437" start="20180529133000 +0000" stop="20180529140000 +0000">
     <title>The Big Bang Theory</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300437" start="20180529133000 +0000" stop="20180529143000 +0000">
-    <title>Love Island Australia</title>
-    <rating system="Freeview">
-      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204300437" start="20180529140000 +0000" stop="20180529150000 +0000">
@@ -15493,17 +15512,17 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101204300437" start="20180530131500 +0000" stop="20180530141500 +0000">
+    <title>Love Island Australia</title>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204300437" start="20180530131500 +0000" stop="20180530134500 +0000">
     <title>The Big Bang Theory</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300437" start="20180530131500 +0000" stop="20180530141500 +0000">
-    <title>Love Island Australia</title>
-    <rating system="Freeview">
-      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204300437" start="20180530134500 +0000" stop="20180530141500 +0000">
@@ -18251,6 +18270,13 @@
   </programme>
   <programme channel="tv.101305020528" start="20180603133000 +0000" stop="20180603140000 +0000">
     <title>Raceday Review - Penola</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180603140000 +0000" stop="20180603143000 +0000">
+    <title>Raceday Review - Ballarat</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -29227,6 +29253,12 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101406030638" start="20180603140000 +0000" stop="20180603143000 +0000">
+    <title>Everybody Loves Raymond</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000301" start="20180526135000 +0000" stop="20180526145500 +0000">
     <title>Mexico's Ancient Megacity</title>
     <rating system="Freeview">
@@ -30663,16 +30695,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180527043000 +0000" stop="20180527052000 +0000">
-    <title>States of Undress</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000302" start="20180527043000 +0000" stop="20180527063000 +0000">
     <title>UCL: Final: Real Madrid v Liverpool</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180527043000 +0000" stop="20180527052000 +0000">
+    <title>States of Undress</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180527054500 +0000" stop="20180527061000 +0000">
@@ -36756,10 +36788,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180526204041 +0000" stop="20180526210834 +0000">
-    <title>A Mountain Biker’s Hunt for Glory</title>
-    <desc>Follow Nino from his youth as a child in a remote Swiss mountain village to his greatest victory yet.</desc>
-    <sub-title>Nino Schurter's Ride</sub-title>
+  <programme channel="tv.320203000305" start="20180603140000 +0000" stop="20180603150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.redbull.tv" start="20180526210834 +0000" stop="20180526230418 +0000">
     <title>Thundercloud</title>
