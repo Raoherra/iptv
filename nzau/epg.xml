@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180526080414 +0000" stop="20180526083524 +0000">
-    <title>Mountain Biking to the Top</title>
-    <desc>Facing altitude challenges and health risks, a team of mountain bikers explore Tanzania's Mount Kilimanjaro.</desc>
-    <sub-title>Kilimanjaro: Mountain of Greatness</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180526083524 +0000" stop="20180526090135 +0000">
-    <title>Not Bad</title>
-    <desc>An FMB dream team chronicles a 30-day saga of mountain bike shredding and tomfoolery in New Zealand. </desc>
-    <sub-title>30 Days of Mountain Bike Tomfoolery</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180526090135 +0000" stop="20180526101837 +0000">
     <title>Lords of BSV</title>
     <desc>From the dance hotbed of Bed-Stuy, Brooklyn, a new form of dance emerged that upended the dance world.</desc>
@@ -39974,15 +39964,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526053000 +0000">
-    <title>Garrmalang Festival Panel: Live</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20180526043000 +0000" stop="20180526050000 +0000">
+    <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180526053000 +0000" stop="20180526060000 +0000">
-    <title>ABC News</title>
+    <title>The Breakfast Couch</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -55014,10 +55003,11 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20180529133000 +0000" stop="20180529143000 +0000">
-    <title>Love Island Australia</title>
+  <programme channel="tv.101204200428" start="20180529133000 +0000" stop="20180529140000 +0000">
+    <title>The Big Bang Theory</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180529140000 +0000" stop="20180529150000 +0000">
@@ -55265,11 +55255,10 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20180530131500 +0000" stop="20180530134500 +0000">
-    <title>The Big Bang Theory</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101204200428" start="20180530131500 +0000" stop="20180530141500 +0000">
+    <title>Love Island Australia</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180530134500 +0000" stop="20180530141500 +0000">
@@ -57207,7 +57196,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180526035900 +0000" stop="20180526042800 +0000">
+  <programme channel="tv.101305020522" start="20180526035900 +0000" stop="20180526042900 +0000">
     <title>The Great Australian Doorstep</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -57225,8 +57214,9 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180526070000 +0000" stop="20180526073300 +0000">
-    <title>M*A*S*H</title>
+  <programme channel="tv.101305020522" start="20180526070000 +0000" stop="20180526073200 +0000">
+    <title>Crash Investigation Unit</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
