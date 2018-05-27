@@ -1627,6 +1627,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180604140000 +0000" stop="20180604143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180527132500 +0000" stop="20180527140800 +0000">
     <title>Adam Hills: The Last Leg</title>
     <subtitles type="teletext"/>
@@ -13152,6 +13159,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204300433" start="20180604140000 +0000" stop="20180604143000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204300436" start="20180527130600 +0000" stop="20180527140200 +0000">
     <title>The Closer</title>
     <rating system="Freeview">
@@ -14991,17 +15004,17 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300437" start="20180529133000 +0000" stop="20180529143000 +0000">
-    <title>Love Island Australia</title>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204300437" start="20180529133000 +0000" stop="20180529140000 +0000">
     <title>The Big Bang Theory</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300437" start="20180529133000 +0000" stop="20180529143000 +0000">
+    <title>Love Island Australia</title>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204300437" start="20180529140000 +0000" stop="20180529150000 +0000">
@@ -18324,6 +18337,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180604140000 +0000" stop="20180604143000 +0000">
+    <title>Raceday Review: Wangaratta</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305030530" start="20180527133600 +0000" stop="20180527143300 +0000">
     <title>Blindspot</title>
     <subtitles type="teletext"/>
@@ -19453,6 +19473,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030530" start="20180604140000 +0000" stop="20180604145700 +0000">
+    <title>Blindspot</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20180527133400 +0000" stop="20180527140200 +0000">
@@ -22501,6 +22528,13 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101305030533" start="20180604140000 +0000" stop="20180604142900 +0000">
+    <title>Pawn Stars</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305030535" start="20180527130100 +0000" stop="20180527150400 +0000">
     <title>Terminal Velocity</title>
     <rating system="Freeview">
@@ -24038,6 +24072,12 @@
     <title>Marvel's Agents of S.H.I.E.L.D</title>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030535" start="20180604140000 +0000" stop="20180604143000 +0000">
+    <title>Dr. Ken</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406030631" start="20180527135100 +0000" stop="20180527144800 +0000">
@@ -34862,6 +34902,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180604140000 +0000" stop="20180604143000 +0000">
+    <title>Good Eats</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180527130000 +0000" stop="20180527140000 +0000">
     <title>My Life As I Live It</title>
     <rating system="Freeview">
@@ -36898,10 +36944,11 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180527205337 +0000" stop="20180527215940 +0000">
-    <title>Red Bull Signature Series S6E5</title>
-    <desc>Five hundred riders battle each other and Austria's biggest mine in Hard Enduro's biggest race of the year.</desc>
-    <sub-title>Hare Scramble </sub-title>
+  <programme channel="tv.320203000305" start="20180604140000 +0000" stop="20180604150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.redbull.tv" start="20180527215940 +0000" stop="20180527224357 +0000">
     <title>Wreck or Get Rekt</title>
