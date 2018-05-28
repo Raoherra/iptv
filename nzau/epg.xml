@@ -280,21 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180528035144 +0000" stop="20180528043057 +0000">
-    <title>unReal</title>
-    <desc>Break free from the confines of everyday life and venture into a limitless world of wonder and potential.</desc>
-    <sub-title>Reality Is What You Make It</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180528043057 +0000" stop="20180528045858 +0000">
-    <title>Not2Bad</title>
-    <desc>Anthill Films' sequel to Not Bad is a double dose of freestyle mountain biking and tomfoolery.</desc>
-    <sub-title>More Epic Tomfoolery in Spain</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180528045858 +0000" stop="20180528050131 +0000">
-    <title>Matthias Dandois on the Streets of Lisbon</title>
-    <desc>Matthias Dandois considers the artistic side of BMX riding – the result is full of creativity and skill.</desc>
-    <sub-title>Portuguese Cobblestone</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180528050131 +0000" stop="20180528065720 +0000">
     <title>Thundercloud</title>
     <desc>The story of Cloudbreak, one of the most revered waves in surfing, which changed the big wave scene forever.</desc>
@@ -1594,7 +1579,7 @@
     <desc>Phelan suffers poetic justice. Robert struggles to hide his feelings. Concern grows at Roy’s rash decision.</desc>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>AO</value>
     </rating>
   </programme>
   <programme channel="tv.9" start="20180531103000 +0000" stop="20180531110000 +0000">
@@ -1631,6 +1616,9 @@
   <programme channel="tv.9" start="20180531210000 +0000" stop="20180531220000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Jason Bateman.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180531220000 +0000" stop="20180531230000 +0000">
     <title>Tipping Point</title>
@@ -1667,6 +1655,9 @@
   <programme channel="tv.9" start="20180601020000 +0000" stop="20180601030000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Jason Bateman.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180601030000 +0000" stop="20180601040000 +0000">
     <title>Tipping Point</title>
@@ -1720,6 +1711,9 @@
     <title>Coronation Street</title>
     <desc>Andy sweats over his attack. Mary’s hopes are dashed. Bethany’s plans to escape Gary backfire.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180601102000 +0000" stop="20180601105000 +0000">
     <title>1 News Tonight</title>
@@ -1796,6 +1790,9 @@
     <title>Coronation Street</title>
     <desc>Roy and Cathy face the truth; Anna’s day ends on a sour note; and Nick continues to make childish jibes at Peter.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180602015500 +0000" stop="20180602025500 +0000">
     <title>Kirstie And Phil's Love It Or List It</title>
@@ -1829,6 +1826,9 @@
   <programme channel="tv.9" start="20180602045500 +0000" stop="20180602060000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180602060000 +0000" stop="20180602070000 +0000">
     <title>1 News At 6pm</title>
@@ -1837,6 +1837,9 @@
   <programme channel="tv.9" start="20180602070000 +0000" stop="20180602080000 +0000">
     <title>Britain's Got Talent</title>
     <desc>Tonight the last of the auditions; Simon Cowell, Amanda Holden, Alesha Dixon and David Walliams return to their rightful thrones on the judging panel in the search for the most exciting talent around.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180602080000 +0000" stop="20180602080500 +0000">
     <title>Lotto</title>
@@ -1845,6 +1848,9 @@
   <programme channel="tv.9" start="20180602080500 +0000" stop="20180602082000 +0000">
     <title>Britain's Got Talent Continued</title>
     <desc>Tonight the last of the auditions; Simon Cowell, Amanda Holden, Alesha Dixon and David Walliams return to their rightful thrones on the judging panel in the search for the most exciting talent around.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180602082000 +0000" stop="20180602092000 +0000">
     <title>The Hotel Inspector</title>
@@ -1955,6 +1961,9 @@
     <title>Coronation Street</title>
     <desc>Andy sweats over his attack. Mary’s hopes are dashed. Bethany’s plans to escape Gary backfire.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180603005500 +0000" stop="20180603015000 +0000">
     <title>Tiny House Nation</title>
@@ -2004,6 +2013,9 @@
     <title>The Real Camilla: HRH The Duchess Of Cornwall</title>
     <desc>Unprecedented access into the life of the 'real' Camilla, as HRH Duchess of Cornwall celebrates the big 7-0 with her husband, friends and family.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180603083000 +0000" stop="20180603102500 +0000">
     <title>My Week With Marilyn</title>
@@ -2111,6 +2123,9 @@
   <programme channel="tv.9" start="20180604010000 +0000" stop="20180604020000 +0000">
     <title>Tiny House Nation</title>
     <desc>John Weisbarth and Zack Giffin travel across America showing off ingenious small spaces and the inventive people who live in them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180604020000 +0000" stop="20180604030000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -2119,6 +2134,9 @@
   <programme channel="tv.9" start="20180604030000 +0000" stop="20180604040000 +0000">
     <title>Tipping Point</title>
     <desc>Quiz show in which four players take on an extraordinary machine in the hope of winning its 10,000 pound jackpot.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180604040000 +0000" stop="20180604043000 +0000">
     <title>Te Karere</title>
@@ -2127,10 +2145,16 @@
   <programme channel="tv.9" start="20180604043000 +0000" stop="20180604045500 +0000">
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180604045500 +0000" stop="20180604060000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180604060000 +0000" stop="20180604070000 +0000">
     <title>1 News At 6pm</title>
@@ -3287,6 +3311,9 @@
   <programme channel="tv.10" start="20180531010500 +0000" stop="20180531020500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180531020500 +0000" stop="20180531023500 +0000">
     <title>Home Improvement</title>
@@ -3420,10 +3447,16 @@
   <programme channel="tv.10" start="20180531113500 +0000" stop="20180531122500 +0000">
     <title>Medical Mysteries</title>
     <desc>Tonight, we meet the four-year-old boy, who’s hardly growing; a mum barely able to breathe, and a woman suffering from mysterious pains all over her body.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180531122500 +0000" stop="20180531131000 +0000">
     <title>What Really Happens In Thailand</title>
     <desc>Not all tattoos are meant to last forever. Aaron went a little overboard with the ink and is now in the painful process of having a tattoo lasered off his face.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180531131000 +0000" stop="20180531134000 +0000">
     <title>Shortland Street</title>
@@ -3460,6 +3493,9 @@
   <programme channel="tv.10" start="20180531162000 +0000" stop="20180531170500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180531170500 +0000" stop="20180531173000 +0000">
     <title>Neighbours</title>
@@ -3486,6 +3522,9 @@
   <programme channel="tv.10" start="20180531184000 +0000" stop="20180531185000 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animaton sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180531185000 +0000" stop="20180531185500 +0000">
     <title>Masha And The Bear</title>
@@ -3521,6 +3560,9 @@
   <programme channel="tv.10" start="20180531195000 +0000" stop="20180531201500 +0000">
     <title>Beyblade Burst Evolution</title>
     <desc>The adventures of a pair of youths wielding beyblades.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180531201500 +0000" stop="20180531203500 +0000">
     <title>Disney Junior Art Attack</title>
@@ -3572,6 +3614,9 @@
   <programme channel="tv.10" start="20180601010000 +0000" stop="20180601020000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180601020000 +0000" stop="20180601023000 +0000">
     <title>Home Improvement</title>
@@ -3650,6 +3695,9 @@
   <programme channel="tv.10" start="20180601063000 +0000" stop="20180601070000 +0000">
     <title>Neighbours</title>
     <desc>Mark becomes suspicious of Chloe; Sheila uses Gary as a vessel for her ambition; Steph considers an unlikely candidate.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180601070000 +0000" stop="20180601090000 +0000">
     <title>Pan</title>
@@ -3720,6 +3768,9 @@
   <programme channel="tv.10" start="20180601161000 +0000" stop="20180601170000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180601170000 +0000" stop="20180601171000 +0000">
     <title>Regular Show</title>
@@ -3731,6 +3782,9 @@
   <programme channel="tv.10" start="20180601171000 +0000" stop="20180601173500 +0000">
     <title>Neighbours</title>
     <desc>Mark becomes suspicious of Chloe; Sheila uses Gary as a vessel for her ambition; Steph considers an unlikely candidate.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180601173500 +0000" stop="20180601180000 +0000">
     <title>Grandfathered</title>
@@ -3928,6 +3982,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180602051000 +0000" stop="20180602070000 +0000">
     <title>Monsters University</title>
@@ -4159,6 +4216,9 @@
     <title>Survivor New Zealand</title>
     <desc>Tonight on Survivor New Zealand, a physical challenge is put to a dramatic halt. Later, Matt Chisholm turns up to camp with some unexpected news for one tribe.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180603083000 +0000" stop="20180603101500 +0000">
     <title>London Has Fallen</title>
@@ -4254,6 +4314,9 @@
   <programme channel="tv.10" start="20180603183000 +0000" stop="20180603184000 +0000">
     <title>The Wot Wots</title>
     <desc>Two friendly aliens traveling in a steam-powered spaceship explore the Earth's many unique environments and the animals inhabiting them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180603184000 +0000" stop="20180603185000 +0000">
     <title>Takaro Tribe</title>
@@ -4286,10 +4349,16 @@
   <programme channel="tv.10" start="20180603192500 +0000" stop="20180603195000 +0000">
     <title>The Zhu Zhus</title>
     <desc>Adventurous Frankie and her four extraordinary hamsters navigate life in Anytown, where anything's possible!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180603195000 +0000" stop="20180603201500 +0000">
     <title>Beyblade Burst Evolution</title>
     <desc>Season Finale: The adventures of a pair of youths wielding beyblades.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180603201500 +0000" stop="20180603204000 +0000">
     <title>Disney Junior Art Attack</title>
@@ -4320,6 +4389,9 @@
   <programme channel="tv.10" start="20180603223000 +0000" stop="20180603230000 +0000">
     <title>Neighbours</title>
     <desc>Mark becomes suspicious of Chloe; Sheila uses Gary as a vessel for her ambition; Steph considers an unlikely candidate.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180603230000 +0000" stop="20180604000000 +0000">
     <title>Hope And Faith</title>
@@ -4335,6 +4407,9 @@
   <programme channel="tv.10" start="20180604010000 +0000" stop="20180604020000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180604020000 +0000" stop="20180604023000 +0000">
     <title>Home Improvement</title>
@@ -4406,6 +4481,9 @@
   <programme channel="tv.10" start="20180604063000 +0000" stop="20180604070000 +0000">
     <title>Neighbours</title>
     <desc>Mark suspects the wrong man. Amy faces the possibility of losing jimmy. David fears Leo is hiding something.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180604070000 +0000" stop="20180604073000 +0000">
     <title>Shortland Street</title>
@@ -4421,6 +4499,9 @@
   <programme channel="tv.10" start="20180604073000 +0000" stop="20180604084500 +0000">
     <title>My Kitchen Rules</title>
     <desc>In a series first, the competition will farewell two of your favourite teams as the Semi Final line-up is decided. With one place left, a cheating scandal sends shock waves through the kitchen.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180604084500 +0000" stop="20180604091500 +0000">
     <title>American Housewife</title>
@@ -8924,7 +9005,7 @@
     <desc>Phelan suffers poetic justice. Robert struggles to hide his feelings. Concern grows at Roy’s rash decision.</desc>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>AO</value>
     </rating>
   </programme>
   <programme channel="tv.38" start="20180531113000 +0000" stop="20180531120000 +0000">
@@ -8961,6 +9042,9 @@
   <programme channel="tv.38" start="20180531220000 +0000" stop="20180531230000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Jason Bateman.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180531230000 +0000" stop="20180601000000 +0000">
     <title>Tipping Point</title>
@@ -8997,6 +9081,9 @@
   <programme channel="tv.38" start="20180601030000 +0000" stop="20180601040000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Jason Bateman.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180601040000 +0000" stop="20180601050000 +0000">
     <title>Tipping Point</title>
@@ -9050,6 +9137,9 @@
     <title>Coronation Street</title>
     <desc>Andy sweats over his attack. Mary’s hopes are dashed. Bethany’s plans to escape Gary backfire.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180601112000 +0000" stop="20180601115000 +0000">
     <title>1 News Tonight</title>
@@ -9126,6 +9216,9 @@
     <title>Coronation Street</title>
     <desc>Roy and Cathy face the truth; Anna’s day ends on a sour note; and Nick continues to make childish jibes at Peter.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180602025500 +0000" stop="20180602035500 +0000">
     <title>Kirstie And Phil's Love It Or List It</title>
@@ -9159,6 +9252,9 @@
   <programme channel="tv.38" start="20180602055500 +0000" stop="20180602070000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180602070000 +0000" stop="20180602080000 +0000">
     <title>1 News At 6pm</title>
@@ -9167,6 +9263,9 @@
   <programme channel="tv.38" start="20180602080000 +0000" stop="20180602090000 +0000">
     <title>Britain's Got Talent</title>
     <desc>Tonight the last of the auditions; Simon Cowell, Amanda Holden, Alesha Dixon and David Walliams return to their rightful thrones on the judging panel in the search for the most exciting talent around.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180602090000 +0000" stop="20180602090500 +0000">
     <title>Lotto</title>
@@ -9175,6 +9274,9 @@
   <programme channel="tv.38" start="20180602090500 +0000" stop="20180602092000 +0000">
     <title>Britain's Got Talent Continued</title>
     <desc>Tonight the last of the auditions; Simon Cowell, Amanda Holden, Alesha Dixon and David Walliams return to their rightful thrones on the judging panel in the search for the most exciting talent around.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180602092000 +0000" stop="20180602102000 +0000">
     <title>The Hotel Inspector</title>
@@ -9285,6 +9387,9 @@
     <title>Coronation Street</title>
     <desc>Andy sweats over his attack. Mary’s hopes are dashed. Bethany’s plans to escape Gary backfire.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180603015500 +0000" stop="20180603025000 +0000">
     <title>Tiny House Nation</title>
@@ -9334,6 +9439,9 @@
     <title>The Real Camilla: HRH The Duchess Of Cornwall</title>
     <desc>Unprecedented access into the life of the 'real' Camilla, as HRH Duchess of Cornwall celebrates the big 7-0 with her husband, friends and family.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180603093000 +0000" stop="20180603112500 +0000">
     <title>My Week With Marilyn</title>
@@ -9416,6 +9524,9 @@
   <programme channel="tv.38" start="20180603220000 +0000" stop="20180603230000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Alden Ehrenreich and Donald Glover.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180603230000 +0000" stop="20180604000000 +0000">
     <title>Tipping Point</title>
@@ -9441,14 +9552,23 @@
   <programme channel="tv.38" start="20180604020000 +0000" stop="20180604030000 +0000">
     <title>Tiny House Nation</title>
     <desc>John Weisbarth and Zack Giffin travel across America showing off ingenious small spaces and the inventive people who live in them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180604030000 +0000" stop="20180604040000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Alden Ehrenreich and Donald Glover.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180604040000 +0000" stop="20180604050000 +0000">
     <title>Tipping Point</title>
     <desc>Quiz show in which four players take on an extraordinary machine in the hope of winning its 10,000 pound jackpot.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180604050000 +0000" stop="20180604053000 +0000">
     <title>Te Karere</title>
@@ -9457,10 +9577,16 @@
   <programme channel="tv.38" start="20180604053000 +0000" stop="20180604055500 +0000">
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180604055500 +0000" stop="20180604070000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180604070000 +0000" stop="20180604080000 +0000">
     <title>1 News At 6pm</title>
@@ -10499,6 +10625,9 @@
   <programme channel="tv.14" start="20180531020500 +0000" stop="20180531030500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180531030500 +0000" stop="20180531033500 +0000">
     <title>Home Improvement</title>
@@ -10617,10 +10746,16 @@
   <programme channel="tv.14" start="20180531123500 +0000" stop="20180531132500 +0000">
     <title>Medical Mysteries</title>
     <desc>Tonight, we meet the four-year-old boy, who’s hardly growing; a mum barely able to breathe, and a woman suffering from mysterious pains all over her body.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180531132500 +0000" stop="20180531141000 +0000">
     <title>What Really Happens In Thailand</title>
     <desc>Not all tattoos are meant to last forever. Aaron went a little overboard with the ink and is now in the painful process of having a tattoo lasered off his face.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180531141000 +0000" stop="20180531144000 +0000">
     <title>Shortland Street</title>
@@ -10651,6 +10786,9 @@
   <programme channel="tv.14" start="20180531172000 +0000" stop="20180531180500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180531180500 +0000" stop="20180531183000 +0000">
     <title>Neighbours</title>
@@ -10677,6 +10815,9 @@
   <programme channel="tv.14" start="20180531194000 +0000" stop="20180531195000 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animaton sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180531195000 +0000" stop="20180531195500 +0000">
     <title>Masha And The Bear</title>
@@ -10709,6 +10850,9 @@
   <programme channel="tv.14" start="20180531205000 +0000" stop="20180531211500 +0000">
     <title>Beyblade Burst Evolution</title>
     <desc>The adventures of a pair of youths wielding beyblades.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180531211500 +0000" stop="20180531213500 +0000">
     <title>Disney Junior Art Attack</title>
@@ -10760,6 +10904,9 @@
   <programme channel="tv.14" start="20180601020000 +0000" stop="20180601030000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180601030000 +0000" stop="20180601033000 +0000">
     <title>Home Improvement</title>
@@ -10829,6 +10976,9 @@
   <programme channel="tv.14" start="20180601073000 +0000" stop="20180601080000 +0000">
     <title>Neighbours</title>
     <desc>Mark becomes suspicious of Chloe; Sheila uses Gary as a vessel for her ambition; Steph considers an unlikely candidate.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180601080000 +0000" stop="20180601100000 +0000">
     <title>Pan</title>
@@ -10887,6 +11037,9 @@
   <programme channel="tv.14" start="20180601171000 +0000" stop="20180601180000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180601180000 +0000" stop="20180601181000 +0000">
     <title>Regular Show</title>
@@ -10898,6 +11051,9 @@
   <programme channel="tv.14" start="20180601181000 +0000" stop="20180601183500 +0000">
     <title>Neighbours</title>
     <desc>Mark becomes suspicious of Chloe; Sheila uses Gary as a vessel for her ambition; Steph considers an unlikely candidate.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180601183500 +0000" stop="20180601190000 +0000">
     <title>Grandfathered</title>
@@ -11065,6 +11221,9 @@
   <programme channel="tv.14" start="20180602054000 +0000" stop="20180602061000 +0000">
     <title>America's Funniest Home Videos</title>
     <desc>From practical jokes to home improvement plans gone awry, and animal mishaps, this hilarious show pulls out all the stops to present everyday people caught on tape in their most embarrassing moments.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180602061000 +0000" stop="20180602080000 +0000">
     <title>Monsters University</title>
@@ -11257,6 +11416,9 @@
     <title>Survivor New Zealand</title>
     <desc>Tonight on Survivor New Zealand, a physical challenge is put to a dramatic halt. Later, Matt Chisholm turns up to camp with some unexpected news for one tribe.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180603093000 +0000" stop="20180603111500 +0000">
     <title>London Has Fallen</title>
@@ -11334,6 +11496,9 @@
   <programme channel="tv.14" start="20180603193000 +0000" stop="20180603194000 +0000">
     <title>The Wot Wots</title>
     <desc>Two friendly aliens traveling in a steam-powered spaceship explore the Earth's many unique environments and the animals inhabiting them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180603194000 +0000" stop="20180603195000 +0000">
     <title>Takaro Tribe</title>
@@ -11363,10 +11528,16 @@
   <programme channel="tv.14" start="20180603202500 +0000" stop="20180603205000 +0000">
     <title>The Zhu Zhus</title>
     <desc>Adventurous Frankie and her four extraordinary hamsters navigate life in Anytown, where anything's possible!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180603205000 +0000" stop="20180603211500 +0000">
     <title>Beyblade Burst Evolution</title>
     <desc>Season Finale: The adventures of a pair of youths wielding beyblades.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180603211500 +0000" stop="20180603214000 +0000">
     <title>Disney Junior Art Attack</title>
@@ -11397,6 +11568,9 @@
   <programme channel="tv.14" start="20180603233000 +0000" stop="20180604000000 +0000">
     <title>Neighbours</title>
     <desc>Mark becomes suspicious of Chloe; Sheila uses Gary as a vessel for her ambition; Steph considers an unlikely candidate.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180604000000 +0000" stop="20180604010000 +0000">
     <title>Hope And Faith</title>
@@ -11412,6 +11586,9 @@
   <programme channel="tv.14" start="20180604020000 +0000" stop="20180604030000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180604030000 +0000" stop="20180604033000 +0000">
     <title>Home Improvement</title>
@@ -11474,6 +11651,9 @@
   <programme channel="tv.14" start="20180604073000 +0000" stop="20180604080000 +0000">
     <title>Neighbours</title>
     <desc>Mark suspects the wrong man. Amy faces the possibility of losing jimmy. David fears Leo is hiding something.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180604080000 +0000" stop="20180604083000 +0000">
     <title>Shortland Street</title>
@@ -11486,6 +11666,9 @@
   <programme channel="tv.14" start="20180604083000 +0000" stop="20180604094500 +0000">
     <title>My Kitchen Rules</title>
     <desc>In a series first, the competition will farewell two of your favourite teams as the Semi Final line-up is decided. With one place left, a cheating scandal sends shock waves through the kitchen.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180604094500 +0000" stop="20180604101500 +0000">
     <title>American Housewife</title>
@@ -17934,17 +18117,17 @@
     <title>DUKE Back in the Future</title>
     <desc>We'll catch you later on DUKE.</desc>
   </programme>
-  <programme channel="tv.55" start="20180529180000 +0000" stop="20180529231000 +0000">
+  <programme channel="tv.55" start="20180529180000 +0000" stop="20180529230000 +0000">
     <title>On DUKE today...</title>
     <desc>Here's what's on DUKE today.</desc>
   </programme>
-  <programme channel="tv.55" start="20180529231000 +0000" stop="20180530014500 +0000">
+  <programme channel="tv.55" start="20180529230000 +0000" stop="20180530013000 +0000">
     <title>AFL - Geelong v Carlton</title>
     <desc>Replay of Saturday night’s match as Geelong host Carlton from GMHBA Stadium in South Geelong.</desc>
   </programme>
-  <programme channel="tv.55" start="20180530014500 +0000" stop="20180530033000 +0000">
-    <title>MLS - NY v Philadelphia</title>
-    <desc>Replay of Sunday’s match as the New York Red Bulls host the Philadelphia Union from the Red Bull Arena in Harrison, New Jersey.</desc>
+  <programme channel="tv.55" start="20180530013000 +0000" stop="20180530033000 +0000">
+    <title>NBA Conference Finals</title>
+    <desc>Coverage of Game 7 in the Western Conference Finals with the Houston Rockets hosting the Golden State Warriors from the Toyota Center in Houston, Texas.</desc>
   </programme>
   <programme channel="tv.55" start="20180530033000 +0000" stop="20180530043000 +0000">
     <title>Mythbusters</title>
@@ -18193,12 +18376,15 @@
   <programme channel="tv.55" start="20180601083000 +0000" stop="20180601100500 +0000">
     <title>Movie: Passenger 57</title>
     <desc>Action-thriller about a master terrorist hijacking a plane travelling from Florida to Los Angeles and how only one man can stop him. Starring Wesley Snipes, Bruce Payne and Elizabeth Hurley.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180601100500 +0000" stop="20180601110500 +0000">
     <title>Air Crash Disaster</title>
     <desc>Human error, technical snag, conspiracy theory, or something else? Find out as Air Crash Disaster uncovers the truth behind five aviation disasters that changed air travel forever.</desc>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.55" start="20180601110500 +0000" stop="20180601115500 +0000">
@@ -18243,6 +18429,9 @@
   <programme channel="tv.55" start="20180602063000 +0000" stop="20180602073000 +0000">
     <title>Ice Road Truckers</title>
     <desc>There are only three weeks left in the season and everyone is feeling the pressure to get the goods delivered to Deadhorse.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180602073000 +0000" stop="20180602080000 +0000">
     <title>New: Duck Dynasty</title>
@@ -18254,6 +18443,9 @@
   <programme channel="tv.55" start="20180602080000 +0000" stop="20180602090000 +0000">
     <title>New: Swamp People</title>
     <desc>Two brothers journey to a land that hasn't been hunted in 40 years; a swamper gets called back to his office job and a young hunter's risky night scout pays off.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180602090000 +0000" stop="20180602093000 +0000">
     <title>Wild Kai Legends</title>
@@ -18276,6 +18468,9 @@
   <programme channel="tv.55" start="20180602130000 +0000" stop="20180602135000 +0000">
     <title>Ice Road Truckers</title>
     <desc>There are only three weeks left in the season and everyone is feeling the pressure to get the goods delivered to Deadhorse.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180602135000 +0000" stop="20180602141500 +0000">
     <title>Duck Dynasty</title>
@@ -18350,6 +18545,9 @@
   <programme channel="tv.55" start="20180603100000 +0000" stop="20180603110000 +0000">
     <title>Beyond</title>
     <desc>S1 E2 Holden attempts to forget about his recent bizarre encounters and lead a “normal” life. Luke tries to help Holden acclimate to his new surroundings and brings him along to a college party.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180603110000 +0000" stop="20180603115000 +0000">
     <title>New: Marvel's Agents of Shield</title>
