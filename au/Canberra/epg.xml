@@ -14942,17 +14942,17 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200428" start="20180529133000 +0000" stop="20180529143000 +0000">
+    <title>Love Island Australia</title>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200428" start="20180529133000 +0000" stop="20180529140000 +0000">
     <title>The Big Bang Theory</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200428" start="20180529133000 +0000" stop="20180529143000 +0000">
-    <title>Love Island Australia</title>
-    <rating system="Freeview">
-      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180529140000 +0000" stop="20180529150000 +0000">
@@ -26690,10 +26690,18 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20180602131500 +0000" stop="20180602150000 +0000">
-    <title>To Be Advised</title>
+  <programme channel="tv.101406020625" start="20180602131500 +0000" stop="20180602141500 +0000">
+    <title>48 Hours</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020625" start="20180602141500 +0000" stop="20180602150000 +0000">
+    <title>Tough Conversations With Henry Rollins</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20180602150000 +0000" stop="20180602153000 +0000">
@@ -29413,7 +29421,7 @@
   <programme channel="tv.320203000301" start="20180528103000 +0000" stop="20180528113000 +0000">
     <title>Michael Mosley: Secret Science</title>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180528113000 +0000" stop="20180528123000 +0000">
@@ -29751,7 +29759,7 @@
   <programme channel="tv.320203000301" start="20180530103500 +0000" stop="20180530113000 +0000">
     <title>Australia's Forgotten Islands</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180530113000 +0000" stop="20180530123000 +0000">
@@ -29908,7 +29916,7 @@
   <programme channel="tv.320203000301" start="20180531093000 +0000" stop="20180531100500 +0000">
     <title>Great British Railway Journeys</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180531100500 +0000" stop="20180531103500 +0000">
@@ -30735,7 +30743,7 @@
   <programme channel="tv.320203000302" start="20180528044000 +0000" stop="20180528050500 +0000">
     <title>The Pizza Show</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180528050500 +0000" stop="20180528060000 +0000">
@@ -30846,8 +30854,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180528183000 +0000" stop="20180528193000 +0000">
+  <programme channel="tv.320203000302" start="20180528183000 +0000" stop="20180528190000 +0000">
     <title>Sri Lankan Sinhalese News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180528190000 +0000" stop="20180528193000 +0000">
+    <title>Korean News</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -31283,7 +31297,7 @@
   <programme channel="tv.320203000302" start="20180530144500 +0000" stop="20180530151000 +0000">
     <title>Desus and Mero</title>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180530151000 +0000" stop="20180530160000 +0000">
@@ -35712,7 +35726,7 @@
   <programme channel="tv.320203000305" start="20180530213000 +0000" stop="20180530214000 +0000">
     <title>Kaeloo</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20180530214000 +0000" stop="20180530220500 +0000">
@@ -36878,16 +36892,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180528025909 +0000" stop="20180528030748 +0000">
-    <title>Who is JOB S5E2</title>
-    <desc>Pipeline is pulsing, so Jamie O'Brien rips it to shreds before trying some tandem kayaking at Sunset Beach.</desc>
-    <sub-title>Tandem Kayaks and Pipeline</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180528030748 +0000" stop="20180528035144 +0000">
-    <title>Breaking the Day  S1E5</title>
-    <desc>Two years after breaking her neck, professional bronc rider Kaila Mussell prepares to get back on the horse. </desc>
-    <sub-title>Saddle Bronc Rider</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180528035144 +0000" stop="20180528043057 +0000">
     <title>unReal</title>
