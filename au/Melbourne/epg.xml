@@ -2156,16 +2156,16 @@
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180530133300 +0000" stop="20180530135500 +0000">
-    <title>Parks and Recreation</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210222" start="20180530133300 +0000" stop="20180530135500 +0000">
     <title>Archer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180530133300 +0000" stop="20180530135500 +0000">
+    <title>Parks and Recreation</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180530135500 +0000" stop="20180530142600 +0000">
@@ -36947,21 +36947,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180529211540 +0000" stop="20180529220618 +0000">
-    <title>Visions of Greatness S1E1</title>
-    <desc>Being an outsider can lead to success, as shown by surfer Laird Hamilton and musician Mark Mothersbaugh.</desc>
-    <sub-title>The Outsiders</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180529220618 +0000" stop="20180529221457 +0000">
-    <title>Who is JOB S5E2</title>
-    <desc>Pipeline is pulsing, so Jamie O'Brien rips it to shreds before trying some tandem kayaking at Sunset Beach.</desc>
-    <sub-title>Tandem Kayaks and Pipeline</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180529221457 +0000" stop="20180529225823 +0000">
-    <title>Breaking the Day  S1E5</title>
-    <desc>Two years after breaking her neck, professional bronc rider Kaila Mussell prepares to get back on the horse. </desc>
-    <sub-title>Saddle Bronc Rider</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180529225823 +0000" stop="20180529233731 +0000">
     <title>unReal</title>
     <desc>Break free from the confines of everyday life and venture into a limitless world of wonder and potential.</desc>
@@ -38946,5 +38931,20 @@
     <title>MTB RAW S1E8</title>
     <desc>Acclaimed filmmaker Rupert Walker travels deep into the wilderness to capture Matty Miles shred his MTB. </desc>
     <sub-title>Matt Miles</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605125837 +0000" stop="20180605130017 +0000">
+    <title>MTB RAW S1E9</title>
+    <desc>Canadian mountain biker Mike Hopkins pushes the limits to rip some of the planet’s fastest trails. </desc>
+    <sub-title>Mike Hopkins</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605130017 +0000" stop="20180605130157 +0000">
+    <title>MTB RAW S1E10</title>
+    <desc>Filmmaker Liam Mullany captures the insanely fast riding of mountain biker Bas van Steenbergen. </desc>
+    <sub-title>Bas van Steenbergen</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605130157 +0000" stop="20180605130540 +0000">
+    <title>MTB RAW S1E12</title>
+    <desc>One of the world’s most stylish downhill mountain bikers blasts down some of New Zealand’s finest trails. </desc>
+    <sub-title>Eliot Jackson</sub-title>
   </programme>
 </tv>
