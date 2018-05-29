@@ -1637,6 +1637,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180606140000 +0000" stop="20180606143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180529131200 +0000" stop="20180529141900 +0000">
     <title>Q&amp;A</title>
     <subtitles type="teletext"/>
@@ -3696,16 +3703,16 @@
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180530133300 +0000" stop="20180530135500 +0000">
+    <title>Parks and Recreation</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180530133300 +0000" stop="20180530135500 +0000">
     <title>Archer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210222" start="20180530133300 +0000" stop="20180530135500 +0000">
-    <title>Parks and Recreation</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180530135500 +0000" stop="20180530142600 +0000">
@@ -4241,16 +4248,16 @@
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
-    <title>Parks and Recreation</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
     <title>Archer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
+    <title>Parks and Recreation</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531140800 +0000" stop="20180531143800 +0000">
@@ -16336,6 +16343,13 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200428" start="20180606140000 +0000" stop="20180606150000 +0000">
+    <title>Love Island Australia</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020520" start="20180529135100 +0000" stop="20180529144500 +0000">
     <title>Grimm</title>
     <subtitles type="teletext"/>
@@ -17448,6 +17462,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020520" start="20180606140000 +0000" stop="20180606150000 +0000">
+    <title>Battle Creek</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180529133000 +0000" stop="20180529150000 +0000">
@@ -20456,6 +20477,12 @@
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180606133100 +0000" stop="20180606140000 +0000">
+    <title>American Dad!</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020523" start="20180606140000 +0000" stop="20180606143400 +0000">
     <title>American Dad!</title>
     <rating system="Freeview">
       <value>M</value>
@@ -34762,6 +34789,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180606140000 +0000" stop="20180606143000 +0000">
+    <title>Good Eats</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180529133000 +0000" stop="20180529140000 +0000">
     <title>Men Don't Cry</title>
     <rating system="Freeview">
@@ -36809,10 +36842,11 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180529210657 +0000" stop="20180529211540 +0000">
-    <title>The Curry Connection S1E3</title>
-    <desc>Chennai's bustling metropolis is the home of the sickest street spots India has to offer.</desc>
-    <sub-title>Chapter III: Chennai</sub-title>
+  <programme channel="tv.320203000305" start="20180606140000 +0000" stop="20180606150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.redbull.tv" start="20180529211540 +0000" stop="20180529220618 +0000">
     <title>Visions of Greatness S1E1</title>
@@ -38808,5 +38842,10 @@
     <title>MTB RAW S1E7</title>
     <desc>Watch as Canada's two-wheeled talent Finn Iles rips an epic downhill zone in British Columbia.</desc>
     <sub-title>Finn Iles</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605125657 +0000" stop="20180605125837 +0000">
+    <title>MTB RAW S1E8</title>
+    <desc>Acclaimed filmmaker Rupert Walker travels deep into the wilderness to capture Matty Miles shred his MTB. </desc>
+    <sub-title>Matt Miles</sub-title>
   </programme>
 </tv>

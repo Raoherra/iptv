@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180529205905 +0000" stop="20180529210657 +0000">
-    <title>The Curry Connection S1E2</title>
-    <desc>Christian Bica and friends immerse themselves in the city of Bangalore, known as the skate capital of India.</desc>
-    <sub-title>Chapter II: Bangalore</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180529210657 +0000" stop="20180529211540 +0000">
-    <title>The Curry Connection S1E3</title>
-    <desc>Chennai's bustling metropolis is the home of the sickest street spots India has to offer.</desc>
-    <sub-title>Chapter III: Chennai</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180529211540 +0000" stop="20180529220618 +0000">
     <title>Visions of Greatness S1E1</title>
     <desc>Being an outsider can lead to success, as shown by surfer Laird Hamilton and musician Mark Mothersbaugh.</desc>
@@ -2160,6 +2150,16 @@
     <title>MTB RAW S1E6</title>
     <desc>Enjoy the silky skills of Enduro World Series racer Cody Kelley as he floats through the night in Utah, USA.</desc>
     <sub-title>Cody Kelley</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605125521 +0000" stop="20180605125657 +0000">
+    <title>MTB RAW S1E7</title>
+    <desc>Watch as Canada's two-wheeled talent Finn Iles rips an epic downhill zone in British Columbia.</desc>
+    <sub-title>Finn Iles</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605125657 +0000" stop="20180605125837 +0000">
+    <title>MTB RAW S1E8</title>
+    <desc>Acclaimed filmmaker Rupert Walker travels deep into the wilderness to capture Matty Miles shred his MTB. </desc>
+    <sub-title>Matt Miles</sub-title>
   </programme>
   <programme channel="tv.9" start="20180529115000 +0000" stop="20180529124500 +0000">
     <title>Secrets And Lies</title>
@@ -35659,630 +35659,1101 @@
   <programme channel="tv.63" start="20180530120000 +0000" stop="20180530123000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180530123000 +0000" stop="20180530133000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180530133000 +0000" stop="20180530140000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180530140000 +0000" stop="20180530143000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180530143000 +0000" stop="20180530144500 +0000">
     <title>Chinese Cartoon</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180530144500 +0000" stop="20180530162000 +0000">
-    <title>Chinese Dramma</title>
+    <title>Chinese Drama</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180530162000 +0000" stop="20180530165000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180530165000 +0000" stop="20180530180000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180530180000 +0000" stop="20180530190000 +0000">
     <title>CH NEWS</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180530190000 +0000" stop="20180530220000 +0000">
     <title>Morning News</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180530220000 +0000" stop="20180531000000 +0000">
-    <title>Chinese Dramma</title>
+    <title>Chinese Drama</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531000000 +0000" stop="20180531010000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531010000 +0000" stop="20180531013000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531013000 +0000" stop="20180531015500 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531015500 +0000" stop="20180531021000 +0000">
     <title>Chinese Cartoon</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531021000 +0000" stop="20180531050000 +0000">
-    <title>Chinese Dramma</title>
+    <title>Chinese Drama</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531050000 +0000" stop="20180531052500 +0000">
     <title>Chinese Cartoon</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531052500 +0000" stop="20180531060000 +0000">
     <title>Cooking</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531060000 +0000" stop="20180531065800 +0000">
     <title>China News</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531065800 +0000" stop="20180531073000 +0000">
     <title>China_TaiWan News</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531073000 +0000" stop="20180531085500 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531085500 +0000" stop="20180531112200 +0000">
-    <title>Chinese Dramma</title>
+    <title>Chinese Drama</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531112200 +0000" stop="20180531120000 +0000">
     <title>Live Sat HN</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531120000 +0000" stop="20180531123000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531123000 +0000" stop="20180531133000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531133000 +0000" stop="20180531140000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531140000 +0000" stop="20180531143000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531143000 +0000" stop="20180531144500 +0000">
     <title>Chinese Cartoon</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531144500 +0000" stop="20180531162000 +0000">
-    <title>Chinese Dramma</title>
+    <title>Chinese Drama</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531162000 +0000" stop="20180531165000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531165000 +0000" stop="20180531180000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531180000 +0000" stop="20180531190000 +0000">
     <title>CH NEWS</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531190000 +0000" stop="20180531220000 +0000">
     <title>Morning News</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180531220000 +0000" stop="20180601000000 +0000">
-    <title>Chinese Dramma</title>
+    <title>Chinese Drama</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180601000000 +0000" stop="20180601010000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180601010000 +0000" stop="20180601013000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180601013000 +0000" stop="20180601015500 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180601015500 +0000" stop="20180601021000 +0000">
     <title>Chinese Cartoon</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180601021000 +0000" stop="20180601050000 +0000">
-    <title>Chinese Dramma</title>
+    <title>Chinese Drama</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180601050000 +0000" stop="20180601052500 +0000">
     <title>Chinese Cartoon</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180601052500 +0000" stop="20180601060000 +0000">
     <title>Cooking</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180601060000 +0000" stop="20180601065800 +0000">
     <title>China News</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180601065800 +0000" stop="20180601073000 +0000">
     <title>China_TaiWan News</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180601073000 +0000" stop="20180601085500 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180601085500 +0000" stop="20180601112200 +0000">
-    <title>Chinese Dramma</title>
+    <title>Chinese Drama</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180601112200 +0000" stop="20180601120000 +0000">
     <title>Live Sat HN</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180601120000 +0000" stop="20180601130000 +0000">
     <title>Chinese Variety Show_Accommodation</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180601130000 +0000" stop="20180601143000 +0000">
     <title>Chinese Variety Show_Singing</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180601143000 +0000" stop="20180601160000 +0000">
     <title>Chinese Variety Show_we are coming</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180601160000 +0000" stop="20180601170000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180601170000 +0000" stop="20180601183000 +0000">
     <title>Chinese Variety Show_Accommodation</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180601183000 +0000" stop="20180601200000 +0000">
     <title>Chinese Variety Show_Singing</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180601200000 +0000" stop="20180601210000 +0000">
     <title>Chinese Variety Show_we are coming</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180601210000 +0000" stop="20180602000000 +0000">
-    <title>Chinese Dramma</title>
+    <title>Chinese Drama</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602000000 +0000" stop="20180602003000 +0000">
     <title>Chinese Variety Show_Accommodation</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602003000 +0000" stop="20180602023000 +0000">
     <title>Chinese Variety Show_Singing</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602023000 +0000" stop="20180602040000 +0000">
     <title>Chinese Variety Show_we are coming</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602040000 +0000" stop="20180602043000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602043000 +0000" stop="20180602050000 +0000">
     <title>Chinese Variety Show_Singing</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602050000 +0000" stop="20180602052500 +0000">
     <title>Chinese Cartoon</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602052500 +0000" stop="20180602060000 +0000">
     <title>Cooking</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602060000 +0000" stop="20180602070000 +0000">
     <title>Panda Sport Live(repeat)</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602070000 +0000" stop="20180602074000 +0000">
     <title>Chinese Variety Show_Accommodation</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602074000 +0000" stop="20180602081000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602081000 +0000" stop="20180602084000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602084000 +0000" stop="20180602091000 +0000">
     <title>Chinese Variety Show_Singing</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602091000 +0000" stop="20180602092500 +0000">
     <title>Chinese Cartoon</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602092500 +0000" stop="20180602110000 +0000">
-    <title>Chinese Dramma</title>
+    <title>Chinese Drama</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602110000 +0000" stop="20180602113000 +0000">
     <title>Evening News</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602113000 +0000" stop="20180602120000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602120000 +0000" stop="20180602130000 +0000">
     <title>Chinese Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602130000 +0000" stop="20180602143000 +0000">
     <title>Chinese Variety Show_Singing</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602143000 +0000" stop="20180602160000 +0000">
     <title>Chinese Variety Show_The first year of Uni</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602160000 +0000" stop="20180602163000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602163000 +0000" stop="20180602170000 +0000">
     <title>Chinese Variety Show_Singing</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602170000 +0000" stop="20180602183000 +0000">
     <title>Chinese Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602183000 +0000" stop="20180602200000 +0000">
     <title>Chinese Variety Show_Singing</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602200000 +0000" stop="20180602213000 +0000">
     <title>Chinese Variety Show_The first year of Uni</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602213000 +0000" stop="20180602230000 +0000">
-    <title>Chinese Dramma</title>
+    <title>Chinese Drama</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180602230000 +0000" stop="20180603003000 +0000">
     <title>Chinese Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180603003000 +0000" stop="20180603023000 +0000">
     <title>Chinese Variety Show_Singing</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180603023000 +0000" stop="20180603040000 +0000">
     <title>Chinese Variety Show_The first year of Uni</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180603040000 +0000" stop="20180603043000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180603043000 +0000" stop="20180603050000 +0000">
     <title>Chinese Variety Show_Singing</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180603050000 +0000" stop="20180603052500 +0000">
     <title>Chinese Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180603052500 +0000" stop="20180603070000 +0000">
     <title>Chinese Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180603070000 +0000" stop="20180603083000 +0000">
     <title>Chinese Variety Show_Singing</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180603083000 +0000" stop="20180603110000 +0000">
     <title>Chinese Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180603110000 +0000" stop="20180603113000 +0000">
     <title>Evening News</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180603113000 +0000" stop="20180603120000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180603120000 +0000" stop="20180603143000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180603143000 +0000" stop="20180603160000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180603160000 +0000" stop="20180603163000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180603163000 +0000" stop="20180603180000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180603180000 +0000" stop="20180603190000 +0000">
     <title>CH NEWS</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180603190000 +0000" stop="20180603220000 +0000">
     <title>Morning News</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180603220000 +0000" stop="20180603230000 +0000">
-    <title>Chinese Dramma</title>
+    <title>Chinese Drama</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180603230000 +0000" stop="20180604020000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604020000 +0000" stop="20180604023000 +0000">
     <title>Chinese Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604023000 +0000" stop="20180604040000 +0000">
     <title>Movies in China</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604040000 +0000" stop="20180604043000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604043000 +0000" stop="20180604050000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604050000 +0000" stop="20180604052500 +0000">
     <title>Chinese Cartoon</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604052500 +0000" stop="20180604060000 +0000">
     <title>Cooking</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604060000 +0000" stop="20180604065800 +0000">
     <title>China News</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604065800 +0000" stop="20180604073000 +0000">
     <title>China_TaiWan News</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604073000 +0000" stop="20180604085500 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604085500 +0000" stop="20180604112200 +0000">
-    <title>Chinese Dramma</title>
+    <title>Chinese Drama</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604112200 +0000" stop="20180604120000 +0000">
     <title>Live Sat HN</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604120000 +0000" stop="20180604123000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604123000 +0000" stop="20180604130000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604130000 +0000" stop="20180604133000 +0000">
     <title>A Travel plan</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604133000 +0000" stop="20180604140000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604140000 +0000" stop="20180604143000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604143000 +0000" stop="20180604144500 +0000">
     <title>Chinese Cartoon</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604144500 +0000" stop="20180604162000 +0000">
-    <title>Chinese Dramma</title>
+    <title>Chinese Drama</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604162000 +0000" stop="20180604165000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604165000 +0000" stop="20180604180000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604180000 +0000" stop="20180604190000 +0000">
     <title>CH NEWS</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604190000 +0000" stop="20180604220000 +0000">
     <title>Morning News</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180604220000 +0000" stop="20180605000000 +0000">
-    <title>Chinese Dramma</title>
+    <title>Chinese Drama</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605000000 +0000" stop="20180605003000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605003000 +0000" stop="20180605010000 +0000">
     <title>A Travel plan</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605010000 +0000" stop="20180605013000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605013000 +0000" stop="20180605021000 +0000">
     <title>Chinese Cartoon</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605021000 +0000" stop="20180605040000 +0000">
-    <title>Chinese Dramma</title>
+    <title>Chinese Drama</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605040000 +0000" stop="20180605042500 +0000">
     <title>Chinese Cartoon</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605042500 +0000" stop="20180605050000 +0000">
     <title>Cooking</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605050000 +0000" stop="20180605060000 +0000">
     <title>Financial Lesson</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605060000 +0000" stop="20180605065800 +0000">
     <title>China News</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605065800 +0000" stop="20180605073000 +0000">
     <title>China_TaiWan News</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605073000 +0000" stop="20180605085500 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605085500 +0000" stop="20180605112200 +0000">
-    <title>Chinese Dramma</title>
+    <title>Chinese Drama</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605112200 +0000" stop="20180605120000 +0000">
     <title>Live Sat HN</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605120000 +0000" stop="20180605123000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605123000 +0000" stop="20180605130000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605130000 +0000" stop="20180605133000 +0000">
     <title>A Travel plan</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605133000 +0000" stop="20180605140000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605140000 +0000" stop="20180605143000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605143000 +0000" stop="20180605144500 +0000">
     <title>Chinese Cartoon</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605144500 +0000" stop="20180605162000 +0000">
-    <title>Chinese Dramma</title>
+    <title>Chinese Drama</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605162000 +0000" stop="20180605165000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605165000 +0000" stop="20180605180000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605180000 +0000" stop="20180605190000 +0000">
     <title>CH NEWS</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605190000 +0000" stop="20180605220000 +0000">
     <title>Morning News</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180605220000 +0000" stop="20180606000000 +0000">
-    <title>Chinese Dramma</title>
+    <title>Chinese Drama</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180606000000 +0000" stop="20180606010000 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180606010000 +0000" stop="20180606013000 +0000">
     <title>Documentry</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180606013000 +0000" stop="20180606015500 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180606015500 +0000" stop="20180606021000 +0000">
     <title>Chinese Cartoon</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180606021000 +0000" stop="20180606050000 +0000">
-    <title>Chinese Dramma</title>
+    <title>Chinese Drama</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180606050000 +0000" stop="20180606052500 +0000">
     <title>Chinese Cartoon</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180606052500 +0000" stop="20180606060000 +0000">
     <title>Cooking</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180606060000 +0000" stop="20180606070000 +0000">
     <title>Panda Sport Live</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180606070000 +0000" stop="20180606082500 +0000">
     <title>Variety Show</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180606082500 +0000" stop="20180606105000 +0000">
-    <title>Chinese Dramma</title>
+    <title>Chinese Drama</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.63" start="20180606105000 +0000" stop="20180606120000 +0000">
     <title>Live Sat HN</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.41" start="20180529113000 +0000" stop="20180529120000 +0000">
     <title>The Greats</title>
