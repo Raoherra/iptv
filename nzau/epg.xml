@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180529132101 +0000" stop="20180529141441 +0000">
-    <title>South to Sian</title>
-    <desc>Harrison Roach and Zye Norris set out to see if the dream of a true pioneering surf adventure is still alive.</desc>
-    <sub-title>A Two-Year Odyssey of Exploration</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180529141441 +0000" stop="20180529152520 +0000">
     <title>The Bits of Baco</title>
     <desc>A misfit band of brothers and friends stir up the ‘90s BMX scene with first-of-their-kind riding videos.</desc>
@@ -2279,6 +2274,11 @@
     <title>Twin Atlantic</title>
     <desc>The rock band travels to South Africa for the first time to meet fans and rock the iconic Oppikoppi festival.</desc>
     <sub-title>Live in South Africa</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605050100 +0000" stop="20180605060756 +0000">
+    <title>Ride: United</title>
+    <desc>The biggest names in every discipline celebrate the community and camaraderie of the competitive moto world.</desc>
+    <sub-title>A World of Competitive Moto Riding</sub-title>
   </programme>
   <programme channel="tv.9" start="20180529115000 +0000" stop="20180529124500 +0000">
     <title>Secrets And Lies</title>
@@ -43749,10 +43749,9 @@
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180530133300 +0000" stop="20180530135500 +0000">
-    <title>Archer</title>
-    <subtitles type="teletext"/>
+    <title>Parks and Recreation</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180530135500 +0000" stop="20180530142600 +0000">
@@ -44288,10 +44287,9 @@
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
-    <title>Archer</title>
-    <subtitles type="teletext"/>
+    <title>Parks and Recreation</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531140800 +0000" stop="20180531143800 +0000">
@@ -70747,7 +70745,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180530100000 +0000" stop="20180530103000 +0000">
-    <title>Walk of Shame Shuttle</title>
+    <title>South Park</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
