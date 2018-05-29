@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180529050032 +0000" stop="20180529060552 +0000">
-    <title>Red Bull Signature Series S6E5</title>
-    <desc>Five hundred riders battle each other and Austria's biggest mine in Hard Enduro's biggest race of the year.</desc>
-    <sub-title>Hare Scramble </sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180529060552 +0000" stop="20180529065011 +0000">
-    <title>Wreck or Get Rekt</title>
-    <desc>A couple of video game rivals get ready to face off in a head-to-head match.</desc>
-    <sub-title>A Battle Between Video Game Rivals </sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180529065011 +0000" stop="20180529080332 +0000">
     <title>Bouncing Cats</title>
     <desc>A Ugandan AIDS orphan works to empower his community's children through exposure to b-boy dance culture.</desc>
@@ -6026,6 +6016,9 @@
   <programme channel="tv.11" start="20180601080000 +0000" stop="20180601090000 +0000">
     <title>All New The Graham Norton Show</title>
     <desc>New Episode. Graham is joined by Chris Pratt, Bryce Dallas Howard, Jeff Goldblum and Jake Shears. S23 Ep8</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180601090000 +0000" stop="20180601094500 +0000">
     <title>7 Days</title>
@@ -13044,6 +13037,9 @@
   <programme channel="tv.27" start="20180601090000 +0000" stop="20180601100000 +0000">
     <title>All New The Graham Norton Show</title>
     <desc>New Episode. Graham is joined by Chris Pratt, Bryce Dallas Howard, Jeff Goldblum and Jake Shears. S23 Ep8</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180601100000 +0000" stop="20180601104500 +0000">
     <title>7 Days</title>
@@ -42935,8 +42931,8 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180604080000 +0000" stop="20180604090000 +0000">
-    <title>Think Tank</title>
+  <programme channel="tv.101002210221" start="20180604080000 +0000" stop="20180604083000 +0000">
+    <title>The Checkout</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -43724,10 +43720,11 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180529133500 +0000" stop="20180529135600 +0000">
-    <title>Parks and Recreation</title>
+  <programme channel="tv.101002210222" start="20180529133500 +0000" stop="20180529135800 +0000">
+    <title>Archer</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180529135600 +0000" stop="20180529142700 +0000">
@@ -44242,10 +44239,9 @@
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180530133300 +0000" stop="20180530135500 +0000">
-    <title>Archer</title>
-    <subtitles type="teletext"/>
+    <title>Parks and Recreation</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180530135500 +0000" stop="20180530142600 +0000">
