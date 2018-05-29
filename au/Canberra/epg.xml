@@ -1874,17 +1874,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20180530162800 +0000" stop="20180530172700 +0000">
-    <title>Big Name No Blanket</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210221" start="20180530162800 +0000" stop="20180530172700 +0000">
     <title>National Press Club Address</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210221" start="20180530162800 +0000" stop="20180530172700 +0000">
+    <title>Big Name No Blanket</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20180530172700 +0000" stop="20180530182800 +0000">
@@ -4241,16 +4241,16 @@
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
+    <title>Parks and Recreation</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
     <title>Archer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
-    <title>Parks and Recreation</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531140800 +0000" stop="20180531143800 +0000">
@@ -4284,17 +4284,17 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210222" start="20180531161200 +0000" stop="20180531161400 +0000">
+    <title>ABC News Update</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180531161200 +0000" stop="20180531163400 +0000">
     <title>Archer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210222" start="20180531161200 +0000" stop="20180531161400 +0000">
-    <title>ABC News Update</title>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531161400 +0000" stop="20180531180000 +0000">
@@ -36809,16 +36809,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180529180057 +0000" stop="20180529182656 +0000">
-    <title>Ultimate Rush S5E7</title>
-    <desc>Danny MacAskill puts it all on the line while making his majestic mountain bike film, Wee Day Out.</desc>
-    <sub-title>Off the Rails</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180529182656 +0000" stop="20180529183125 +0000">
-    <title>Danny MacAskill in Scotland</title>
-    <desc>Danny MacAskill tears around rural Scotland, setting out to capture the simple fun of a ride in the country.</desc>
-    <sub-title>Wee Day Out</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180529183125 +0000" stop="20180529194642 +0000">
     <title>Gaming the Real World</title>
     <desc>Visionary gamers, developers, and government officials dream of how games can shape the world of tomorrow.</desc>
@@ -38808,5 +38798,15 @@
     <title>Iron to the Core</title>
     <desc>Long-distance triathlete Sebastian Kienle gives an inside look at what it takes to be an IRONMAN athlete.</desc>
     <sub-title>The Sebastian Kienle Story</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605100509 +0000" stop="20180605103313 +0000">
+    <title>Crossing Corsica</title>
+    <desc>Ultrarunner François d’Haene attempts to break the record for running the 180km GR20 trail.</desc>
+    <sub-title>The GR20 Trail Quest</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605103313 +0000" stop="20180605120636 +0000">
+    <title>Fandom</title>
+    <desc>Christian Slater narrates a look inside the massive phenomenon of fantasy football.</desc>
+    <sub-title>The Fantasy Football Movie</sub-title>
   </programme>
 </tv>
