@@ -161,26 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180529034909 +0000" stop="20180529041757 +0000">
-    <title>Follow the Steps S1E2</title>
-    <desc>After the American debut of Flying Bach, the Flying Steps return to Europe to premiere a brand new show.</desc>
-    <sub-title>Burning at Both Ends</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180529041757 +0000" stop="20180529044017 +0000">
-    <title>Way Past Midnight S1E9</title>
-    <desc>Discover a party experience where every turn leads to a new and surreal part of an unforgettable night.</desc>
-    <sub-title>Choose Your Own Adventure</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180529044017 +0000" stop="20180529045034 +0000">
-    <title>Doppelgangers S1E1</title>
-    <desc>Two athletes, one in India, the other in Lithuania, discover the similarities between their different sports.</desc>
-    <sub-title>Stunt Biking</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180529045034 +0000" stop="20180529050032 +0000">
-    <title>Doppelgangers S1E2</title>
-    <desc>Two athletes in India, a martial artist and a b-boy, discover the similarities between their different sports.</desc>
-    <sub-title>Breaking</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180529050032 +0000" stop="20180529060552 +0000">
     <title>Red Bull Signature Series S6E5</title>
     <desc>Five hundred riders battle each other and Austria's biggest mine in Hard Enduro's biggest race of the year.</desc>
@@ -2650,6 +2630,9 @@
   <programme channel="tv.9" start="20180603025000 +0000" stop="20180603035500 +0000">
     <title>Heavy Rescue 401</title>
     <desc>Gary's team fights to upright a battered trailer that is dangerously close to splitting open; a rookie takes his first shot as lead operator on the rotator under tough conditions.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180603035500 +0000" stop="20180603045500 +0000">
     <title>Chasing Monsters</title>
@@ -2765,6 +2748,9 @@
   <programme channel="tv.9" start="20180603210000 +0000" stop="20180603220000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Alden Ehrenreich and Donald Glover.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180603220000 +0000" stop="20180603230000 +0000">
     <title>Tipping Point</title>
@@ -2797,6 +2783,9 @@
   <programme channel="tv.9" start="20180604020000 +0000" stop="20180604030000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Alden Ehrenreich and Donald Glover.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180604030000 +0000" stop="20180604040000 +0000">
     <title>Tipping Point</title>
@@ -2830,6 +2819,9 @@
   <programme channel="tv.9" start="20180604070000 +0000" stop="20180604073000 +0000">
     <title>Extreme Cake Makers</title>
     <desc>S2 E7 Bakers Phil and Christine channel the summer of love with a groovy vintage record player cake and Eloise creates a giant edible Prosecco bottle in a garden of flower pops.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180604073000 +0000" stop="20180604095500 +0000">
     <title>The Hundred-Foot Journey</title>
@@ -2843,6 +2835,9 @@
     <title>Lucifer</title>
     <desc>S3 E8 When a murder is connected to a celebrity dating app, Lucifer and Chloe question all they know about the world of social media in order to solve the case.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180604105000 +0000" stop="20180604114500 +0000">
     <title>Criminal Minds: Beyond Borders</title>
@@ -2988,6 +2983,9 @@
     <title>Dog Squad</title>
     <desc>Tonight, Christchurch City Delta team Regan and Kosmo track a fast-running car thief into a fast flowing river, and in the rugged Northland bush two kiwi jokers and two dogs look for a kiwi bird.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180605080000 +0000" stop="20180605083000 +0000">
     <title>The Force</title>
@@ -3000,6 +2998,9 @@
     <title>Class Of Mum And Dad</title>
     <desc>Series where parents go back to school to study the year six curriculum alongside their own kids. Tonight, the parents panic about their SAT exams, as the real Year 6 prepare for secondary school.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180605093000 +0000" stop="20180605103000 +0000">
     <title>20/20</title>
@@ -3087,7 +3088,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180528173000 +0000" stop="20180528183000 +0000">
+  <programme channel="tv.10" start="20180528173000 +0000" stop="20180528180000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.10" start="20180528180000 +0000" stop="20180528183000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -4521,15 +4526,18 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180602090000 +0000" stop="20180602112500 +0000">
-    <title>Ocean's 13</title>
-    <desc>The third instalment finds suave con man Danny Ocean and his crew plotting to rob a casino owner who double-crossed Danny's mentor.</desc>
+  <programme channel="tv.10" start="20180602090000 +0000" stop="20180602115500 +0000">
+    <title>The Lone Ranger</title>
+    <desc>Johnny Depp stars as Tonto, a Native American warrior recounting the untold tales that transformed John Reid, a man of the law, into a legend of justice. (2013).</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180602112500 +0000" stop="20180602135000 +0000">
+  <programme channel="tv.10" start="20180602115500 +0000" stop="20180602142000 +0000">
     <title>Face Off</title>
     <desc>FBI agent Sean Archer has facial transplant surgery to assume the identity of a terrorist. When the terrorist does the same, it gets personal. Starring Nicolas Cage and John Travolta.</desc>
     <audio>
@@ -4539,7 +4547,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180602135000 +0000" stop="20180602152000 +0000">
+  <programme channel="tv.10" start="20180602142000 +0000" stop="20180602155000 +0000">
     <title>Grey's Anatomy</title>
     <desc>S13 E23. The doctors of Grey Sloan encounter a difficult case involving a dangerous patient; Owen receives life-changing news that pushes Amelia to step up to support him.</desc>
     <audio>
@@ -4549,7 +4557,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180602152000 +0000" stop="20180602160000 +0000">
+  <programme channel="tv.10" start="20180602155000 +0000" stop="20180602163000 +0000">
     <title>The Exorcist</title>
     <desc>Season Finale: S1 E10 Everything has led to this moment. Forty years ago, the demon was denied its prize. Now it will stop at nothing to destroy Angela Rance and her family.</desc>
     <audio>
@@ -4559,7 +4567,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180602160000 +0000" stop="20180602173000 +0000">
+  <programme channel="tv.10" start="20180602163000 +0000" stop="20180602172000 +0000">
     <title>Once Upon A Time</title>
     <desc>S5 E19 Now that Hades and Zelena are reunited, Hades tells Zelena that he wants a future with her outside of the Underworld. All she needs to do is heal his heart with True Love’s Kiss.</desc>
     <audio>
@@ -4567,6 +4575,13 @@
     </audio>
     <rating system="Freeview">
       <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.10" start="20180602172000 +0000" stop="20180602173000 +0000">
+    <title>Regular Show</title>
+    <desc>Two best friends try to turn their regular, boring jobs into exciting adventures.</desc>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180602173000 +0000" stop="20180602180000 +0000">
@@ -4714,12 +4729,6 @@
   <programme channel="tv.10" start="20180603060000 +0000" stop="20180603063000 +0000">
     <title>The Middle</title>
     <desc>S6 E6 The Heck house is thrown into turmoil when the kitchen sink caves in. Meanwhile, Sue must master a tricky dance routine; and Brick tries to distract Mike after breaking the lawn mower.</desc>
-    <audio>
-      <stereo>dolby</stereo>
-    </audio>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.10" start="20180603063000 +0000" stop="20180603070000 +0000">
     <title>The Big Bang Theory</title>
@@ -4919,6 +4928,9 @@
   <programme channel="tv.10" start="20180604000000 +0000" stop="20180604010000 +0000">
     <title>Jeremy Kyle</title>
     <desc>Today on Jeremy Kyle: My daughter's a bad mum ... she left me to raise her baby!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180604010000 +0000" stop="20180604020000 +0000">
     <title>Judge Rinder</title>
@@ -4961,6 +4973,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180604040000 +0000" stop="20180604043000 +0000">
     <title>Fanimals</title>
@@ -5025,6 +5040,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180604091500 +0000" stop="20180604094500 +0000">
     <title>Life In Pieces</title>
@@ -5032,6 +5050,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180604094500 +0000" stop="20180604104000 +0000">
     <title>Grey's Anatomy</title>
@@ -5110,6 +5131,9 @@
   <programme channel="tv.10" start="20180604152000 +0000" stop="20180604161500 +0000">
     <title>Jeremy Kyle</title>
     <desc>Today on Jeremy Kyle: My daughter's a bad mum ... she left me to raise her baby!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180604161500 +0000" stop="20180604170500 +0000">
     <title>Judge Rinder</title>
@@ -5143,6 +5167,9 @@
   <programme channel="tv.10" start="20180604184000 +0000" stop="20180604185000 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animaton sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180604185000 +0000" stop="20180604185500 +0000">
     <title>Masha And The Bear</title>
@@ -5229,6 +5256,9 @@
   <programme channel="tv.10" start="20180605010500 +0000" stop="20180605020500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180605020500 +0000" stop="20180605023500 +0000">
     <title>Home Improvement</title>
@@ -5315,6 +5345,9 @@
   <programme channel="tv.10" start="20180605073000 +0000" stop="20180605084500 +0000">
     <title>My Kitchen Rules</title>
     <desc>Manu Feildel and Pete Evans are joined by Colin Fassnidge, Karen Martini, Guy Grossi and Liz Egan in Kitchen HQ for the first Semi Final of 2018.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180605084500 +0000" stop="20180605094000 +0000">
     <title>The Resident</title>
@@ -5332,6 +5365,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180605103000 +0000" stop="20180605110000 +0000">
     <title>Charlie's All Time Favourite Men</title>
@@ -9930,6 +9966,9 @@
   <programme channel="tv.38" start="20180603035000 +0000" stop="20180603045500 +0000">
     <title>Heavy Rescue 401</title>
     <desc>Gary's team fights to upright a battered trailer that is dangerously close to splitting open; a rookie takes his first shot as lead operator on the rotator under tough conditions.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180603045500 +0000" stop="20180603055500 +0000">
     <title>Chasing Monsters</title>
@@ -10116,6 +10155,9 @@
   <programme channel="tv.38" start="20180604080000 +0000" stop="20180604083000 +0000">
     <title>Extreme Cake Makers</title>
     <desc>S2 E7 Bakers Phil and Christine channel the summer of love with a groovy vintage record player cake and Eloise creates a giant edible Prosecco bottle in a garden of flower pops.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180604083000 +0000" stop="20180604105500 +0000">
     <title>The Hundred-Foot Journey</title>
@@ -10129,6 +10171,9 @@
     <title>Lucifer</title>
     <desc>S3 E8 When a murder is connected to a celebrity dating app, Lucifer and Chloe question all they know about the world of social media in order to solve the case.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180604115000 +0000" stop="20180604124500 +0000">
     <title>Criminal Minds: Beyond Borders</title>
@@ -10274,6 +10319,9 @@
     <title>Dog Squad</title>
     <desc>Tonight, Christchurch City Delta team Regan and Kosmo track a fast-running car thief into a fast flowing river, and in the rugged Northland bush two kiwi jokers and two dogs look for a kiwi bird.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180605090000 +0000" stop="20180605093000 +0000">
     <title>The Force</title>
@@ -10286,6 +10334,9 @@
     <title>Class Of Mum And Dad</title>
     <desc>Series where parents go back to school to study the year six curriculum alongside their own kids. Tonight, the parents panic about their SAT exams, as the real Year 6 prepare for secondary school.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180605103000 +0000" stop="20180605113000 +0000">
     <title>20/20</title>
@@ -10364,7 +10415,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180528183000 +0000" stop="20180528193000 +0000">
+  <programme channel="tv.14" start="20180528183000 +0000" stop="20180528190000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.14" start="20180528190000 +0000" stop="20180528193000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -11645,40 +11700,47 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180602100000 +0000" stop="20180602122500 +0000">
-    <title>Ocean's 13</title>
-    <desc>The third instalment finds suave con man Danny Ocean and his crew plotting to rob a casino owner who double-crossed Danny's mentor.</desc>
+  <programme channel="tv.14" start="20180602100000 +0000" stop="20180602125500 +0000">
+    <title>The Lone Ranger</title>
+    <desc>Johnny Depp stars as Tonto, a Native American warrior recounting the untold tales that transformed John Reid, a man of the law, into a legend of justice. (2013).</desc>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180602122500 +0000" stop="20180602145000 +0000">
+  <programme channel="tv.14" start="20180602125500 +0000" stop="20180602152000 +0000">
     <title>Face Off</title>
     <desc>FBI agent Sean Archer has facial transplant surgery to assume the identity of a terrorist. When the terrorist does the same, it gets personal. Starring Nicolas Cage and John Travolta.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180602145000 +0000" stop="20180602162000 +0000">
+  <programme channel="tv.14" start="20180602152000 +0000" stop="20180602165000 +0000">
     <title>Grey's Anatomy</title>
     <desc>S13 E23. The doctors of Grey Sloan encounter a difficult case involving a dangerous patient; Owen receives life-changing news that pushes Amelia to step up to support him.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180602162000 +0000" stop="20180602170000 +0000">
+  <programme channel="tv.14" start="20180602165000 +0000" stop="20180602173000 +0000">
     <title>The Exorcist</title>
     <desc>Season Finale: S1 E10 Everything has led to this moment. Forty years ago, the demon was denied its prize. Now it will stop at nothing to destroy Angela Rance and her family.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180602170000 +0000" stop="20180602183000 +0000">
+  <programme channel="tv.14" start="20180602173000 +0000" stop="20180602182000 +0000">
     <title>Once Upon A Time</title>
     <desc>S5 E19 Now that Hades and Zelena are reunited, Hades tells Zelena that he wants a future with her outside of the Underworld. All she needs to do is heal his heart with True Love’s Kiss.</desc>
     <rating system="Freeview">
       <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.14" start="20180602182000 +0000" stop="20180602183000 +0000">
+    <title>Regular Show</title>
+    <desc>Two best friends try to turn their regular, boring jobs into exciting adventures.</desc>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180602183000 +0000" stop="20180602190000 +0000">
@@ -11805,9 +11867,6 @@
   <programme channel="tv.14" start="20180603070000 +0000" stop="20180603073000 +0000">
     <title>The Middle</title>
     <desc>S6 E6 The Heck house is thrown into turmoil when the kitchen sink caves in. Meanwhile, Sue must master a tricky dance routine; and Brick tries to distract Mike after breaking the lawn mower.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.14" start="20180603073000 +0000" stop="20180603080000 +0000">
     <title>The Big Bang Theory</title>
@@ -11986,6 +12045,9 @@
   <programme channel="tv.14" start="20180604010000 +0000" stop="20180604020000 +0000">
     <title>Jeremy Kyle</title>
     <desc>Today on Jeremy Kyle: My daughter's a bad mum ... she left me to raise her baby!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180604020000 +0000" stop="20180604030000 +0000">
     <title>Judge Rinder</title>
@@ -12022,6 +12084,9 @@
   <programme channel="tv.14" start="20180604043500 +0000" stop="20180604050000 +0000">
     <title>K.C. Undercover</title>
     <desc>The Coopers track down agents who are distributing weapons to enemy agencies, only to discover they are parents of K.C.'s classmate Amy.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180604050000 +0000" stop="20180604053000 +0000">
     <title>Fanimals</title>
@@ -12077,10 +12142,16 @@
   <programme channel="tv.14" start="20180604094500 +0000" stop="20180604101500 +0000">
     <title>American Housewife</title>
     <desc>S1 E22 Katie and Greg enjoy a night on the town with Angela’s ex after Celeste, an editor, helps Greg land his first book deal. But Angela, is furious with Katie for socialising with her former wife.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180604101500 +0000" stop="20180604104500 +0000">
     <title>Life In Pieces</title>
     <desc>S1 E20 Feeling threatened by Jen’s very handsome new assistant, Jake, Greg tries to appear more masculine. Also, Heather and Tim pull a prank on Tyler’s school, Joan secretly lets Sophia chew gum.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180604104500 +0000" stop="20180604114000 +0000">
     <title>Grey's Anatomy</title>
@@ -12144,6 +12215,9 @@
   <programme channel="tv.14" start="20180604162000 +0000" stop="20180604171500 +0000">
     <title>Jeremy Kyle</title>
     <desc>Today on Jeremy Kyle: My daughter's a bad mum ... she left me to raise her baby!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180604171500 +0000" stop="20180604180500 +0000">
     <title>Judge Rinder</title>
@@ -12177,6 +12251,9 @@
   <programme channel="tv.14" start="20180604194000 +0000" stop="20180604195000 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animaton sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180604195000 +0000" stop="20180604195500 +0000">
     <title>Masha And The Bear</title>
@@ -12260,6 +12337,9 @@
   <programme channel="tv.14" start="20180605020500 +0000" stop="20180605030500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180605030500 +0000" stop="20180605033500 +0000">
     <title>Home Improvement</title>
@@ -12334,6 +12414,9 @@
   <programme channel="tv.14" start="20180605083000 +0000" stop="20180605094500 +0000">
     <title>My Kitchen Rules</title>
     <desc>Manu Feildel and Pete Evans are joined by Colin Fassnidge, Karen Martini, Guy Grossi and Liz Egan in Kitchen HQ for the first Semi Final of 2018.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180605094500 +0000" stop="20180605104000 +0000">
     <title>The Resident</title>
@@ -12345,6 +12428,9 @@
   <programme channel="tv.14" start="20180605104000 +0000" stop="20180605113000 +0000">
     <title>Grey's Anatomy</title>
     <desc>S14 E14 Maggie's relationship with Clive progresses; she invites him over for a game night to meet Meredith and Amelia; Meredith and Jo meet with the owner of the patent to the polymer they need.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180605113000 +0000" stop="20180605120000 +0000">
     <title>Charlie's All Time Favourite Men</title>
