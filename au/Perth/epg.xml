@@ -2098,16 +2098,16 @@
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180530133300 +0000" stop="20180530135500 +0000">
+    <title>Parks and Recreation</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180530133300 +0000" stop="20180530135500 +0000">
     <title>Archer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210222" start="20180530133300 +0000" stop="20180530135500 +0000">
-    <title>Parks and Recreation</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180530135500 +0000" stop="20180530142600 +0000">
@@ -2643,16 +2643,16 @@
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
-    <title>Parks and Recreation</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
     <title>Archer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
+    <title>Parks and Recreation</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531140800 +0000" stop="20180531143800 +0000">
@@ -2686,17 +2686,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180531161200 +0000" stop="20180531161400 +0000">
-    <title>ABC News Update</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210222" start="20180531161200 +0000" stop="20180531163400 +0000">
     <title>Archer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180531161200 +0000" stop="20180531161400 +0000">
+    <title>ABC News Update</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531161400 +0000" stop="20180531180000 +0000">
@@ -36776,16 +36776,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180529170051 +0000" stop="20180529170719 +0000">
-    <title>The Book of John J S2E1</title>
-    <desc>Before John Jackson hits the road again, he fits in a Tahoe session with fellow rider Sammy Luebke.</desc>
-    <sub-title>Another Beginning</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180529170719 +0000" stop="20180529180057 +0000">
-    <title>Visions of Greatness S1E2</title>
-    <desc>Is it possible to be born great? Pianist Lang Lang and skier Mikaela Shiffrin were both child prodigies.</desc>
-    <sub-title>The Prodigies</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180529180057 +0000" stop="20180529182656 +0000">
     <title>Ultimate Rush S5E7</title>
     <desc>Danny MacAskill puts it all on the line while making his majestic mountain bike film, Wee Day Out.</desc>
@@ -38775,5 +38765,15 @@
     <title>Bryce Menzies: The Next Stage S1E2</title>
     <desc>Bryce and his team begin the extensive preparations needed to race in Dakar Rally and make their way to Peru.</desc>
     <sub-title>Preparation and Arrival</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605090239 +0000" stop="20180605095206 +0000">
+    <title>Builder</title>
+    <desc>Explore the craft of trail building through the eyes of some of MTB's best riders and most respected builders.</desc>
+    <sub-title>The Art and Science of Trail Building</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605095206 +0000" stop="20180605100509 +0000">
+    <title>Iron to the Core</title>
+    <desc>Long-distance triathlete Sebastian Kienle gives an inside look at what it takes to be an IRONMAN athlete.</desc>
+    <sub-title>The Sebastian Kienle Story</sub-title>
   </programme>
 </tv>
