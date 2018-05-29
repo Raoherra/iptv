@@ -2098,16 +2098,16 @@
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180530133300 +0000" stop="20180530135500 +0000">
-    <title>Parks and Recreation</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210222" start="20180530133300 +0000" stop="20180530135500 +0000">
     <title>Archer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180530133300 +0000" stop="20180530135500 +0000">
+    <title>Parks and Recreation</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180530135500 +0000" stop="20180530142600 +0000">
@@ -2643,16 +2643,16 @@
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
+    <title>Parks and Recreation</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
     <title>Archer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
-    <title>Parks and Recreation</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531140800 +0000" stop="20180531143800 +0000">
@@ -2686,17 +2686,17 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210222" start="20180531161200 +0000" stop="20180531161400 +0000">
+    <title>ABC News Update</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180531161200 +0000" stop="20180531163400 +0000">
     <title>Archer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210222" start="20180531161200 +0000" stop="20180531161400 +0000">
-    <title>ABC News Update</title>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531161400 +0000" stop="20180531180000 +0000">
@@ -27895,17 +27895,17 @@
     </rating>
   </programme>
   <programme channel="tv.3201026102E1" start="20180530182800 +0000" stop="20180530192700 +0000">
-    <title>National Press Club Address</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.3201026102E1" start="20180530182800 +0000" stop="20180530192700 +0000">
     <title>Big Name No Blanket</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.3201026102E1" start="20180530182800 +0000" stop="20180530192700 +0000">
+    <title>National Press Club Address</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.3201026102E1" start="20180530192700 +0000" stop="20180530202800 +0000">
@@ -36776,16 +36776,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180529141441 +0000" stop="20180529152520 +0000">
-    <title>The Bits of Baco</title>
-    <desc>A misfit band of brothers and friends stir up the ‘90s BMX scene with first-of-their-kind riding videos.</desc>
-    <sub-title>Chronicles of Flatland</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180529152520 +0000" stop="20180529155359 +0000">
-    <title>Follow the Steps S1E2</title>
-    <desc>After the American debut of Flying Bach, the Flying Steps return to Europe to premiere a brand new show.</desc>
-    <sub-title>Burning at Both Ends</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180529155359 +0000" stop="20180529161619 +0000">
     <title>Way Past Midnight S1E9</title>
     <desc>Discover a party experience where every turn leads to a new and surreal part of an unforgettable night.</desc>
@@ -38775,5 +38765,15 @@
     <title>Ride: United</title>
     <desc>The biggest names in every discipline celebrate the community and camaraderie of the competitive moto world.</desc>
     <sub-title>A World of Competitive Moto Riding</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605060756 +0000" stop="20180605061054 +0000">
+    <title>Red Bull 111 Megawatt 2015</title>
+    <desc>Taddy Blasuziak and Jonny Walker freeride through  the Belchatów coal mine, scene of the 2015 event in Poland.</desc>
+    <sub-title>Elektrownia Freeride</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605061056 +0000" stop="20180605065856 +0000">
+    <title>The Smoke That Thunders</title>
+    <desc>Two world-class cliff divers face the most challenging dive of their lives: the world’s largest waterfall.</desc>
+    <sub-title>Staring Down the World’s Largest Waterfall</sub-title>
   </programme>
 </tv>

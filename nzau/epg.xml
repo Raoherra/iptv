@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180529141441 +0000" stop="20180529152520 +0000">
-    <title>The Bits of Baco</title>
-    <desc>A misfit band of brothers and friends stir up the ‘90s BMX scene with first-of-their-kind riding videos.</desc>
-    <sub-title>Chronicles of Flatland</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180529152520 +0000" stop="20180529155359 +0000">
-    <title>Follow the Steps S1E2</title>
-    <desc>After the American debut of Flying Bach, the Flying Steps return to Europe to premiere a brand new show.</desc>
-    <sub-title>Burning at Both Ends</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180529155359 +0000" stop="20180529161619 +0000">
     <title>Way Past Midnight S1E9</title>
     <desc>Discover a party experience where every turn leads to a new and surreal part of an unforgettable night.</desc>
@@ -2279,6 +2269,16 @@
     <title>Ride: United</title>
     <desc>The biggest names in every discipline celebrate the community and camaraderie of the competitive moto world.</desc>
     <sub-title>A World of Competitive Moto Riding</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605060756 +0000" stop="20180605061054 +0000">
+    <title>Red Bull 111 Megawatt 2015</title>
+    <desc>Taddy Blasuziak and Jonny Walker freeride through  the Belchatów coal mine, scene of the 2015 event in Poland.</desc>
+    <sub-title>Elektrownia Freeride</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605061056 +0000" stop="20180605065856 +0000">
+    <title>The Smoke That Thunders</title>
+    <desc>Two world-class cliff divers face the most challenging dive of their lives: the world’s largest waterfall.</desc>
+    <sub-title>Staring Down the World’s Largest Waterfall</sub-title>
   </programme>
   <programme channel="tv.9" start="20180529115000 +0000" stop="20180529124500 +0000">
     <title>Secrets And Lies</title>
@@ -20420,7 +20420,7 @@
   </programme>
   <programme channel="tv.46" start="20180529193000 +0000" stop="20180529200000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>The Stream looks how the Korean War shapes US-Korea relations today.</desc>
   </programme>
   <programme channel="tv.46" start="20180529200000 +0000" stop="20180529210000 +0000">
     <title>Al Jazeera World</title>
@@ -20472,7 +20472,7 @@
   </programme>
   <programme channel="tv.46" start="20180530043000 +0000" stop="20180530050000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>The Stream looks how the Korean War shapes US-Korea relations today.</desc>
   </programme>
   <programme channel="tv.46" start="20180530050000 +0000" stop="20180530053000 +0000">
     <title>News Live</title>
@@ -20500,7 +20500,7 @@
   </programme>
   <programme channel="tv.46" start="20180530083000 +0000" stop="20180530090000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>The Stream looks how the Korean War shapes US-Korea relations today.</desc>
   </programme>
   <programme channel="tv.46" start="20180530090000 +0000" stop="20180530093000 +0000">
     <title>News Live</title>
@@ -20536,7 +20536,7 @@
   </programme>
   <programme channel="tv.46" start="20180530143000 +0000" stop="20180530150000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>The Stream looks how the Korean War shapes US-Korea relations today.</desc>
   </programme>
   <programme channel="tv.46" start="20180530150000 +0000" stop="20180530160000 +0000">
     <title>newsgrid</title>
@@ -36470,7 +36470,7 @@
   </programme>
   <programme channel="tv.41" start="20180529193000 +0000" stop="20180529220000 +0000">
     <title>Southern Attractions</title>
-    <desc>Local tourism show.</desc>
+    <desc>Show highlighting local tourism activities.</desc>
   </programme>
   <programme channel="tv.41" start="20180529220000 +0000" stop="20180529223000 +0000">
     <title>Tomorrow Today</title>
@@ -37053,16 +37053,26 @@
     <title>Europe in Concert</title>
     <desc>Top Acts Live George Dalaras</desc>
   </programme>
-  <programme channel="tv.41" start="20180602010000 +0000" stop="20180602020000 +0000">
+  <programme channel="tv.41" start="20180602010000 +0000" stop="20180602013000 +0000">
     <title>Council Matters</title>
     <desc>Coverage of the Dunedin City Council's Council Meetings.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.41" start="20180602013000 +0000" stop="20180602020000 +0000">
+    <title>Message On The Wall</title>
+    <desc>Locally Made Documentary</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
   <programme channel="tv.41" start="20180602020000 +0000" stop="20180602023000 +0000">
     <title>National Geographic - LIVE</title>
     <desc>National Geographic LIVE documentary series.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.41" start="20180602023000 +0000" stop="20180602030000 +0000">
     <title>Americas Heartland</title>
@@ -37345,9 +37355,16 @@
     <title>Southern Attractions</title>
     <desc>Show highlighting local tourism activities.</desc>
   </programme>
-  <programme channel="tv.41" start="20180604040000 +0000" stop="20180604050000 +0000">
+  <programme channel="tv.41" start="20180604040000 +0000" stop="20180604043000 +0000">
     <title>World of Wildlife</title>
     <desc>Wildlife documentary series by Sunset and Vine, using archive footage from differing companies and productions.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.41" start="20180604043000 +0000" stop="20180604050000 +0000">
+    <title>Twisted Tales</title>
+    <desc>A series that studies facts, fallacies and myths about animals.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -37368,20 +37385,44 @@
     <title>The South Today</title>
     <desc>The Southern Regions news presented by Melissa Barton.</desc>
   </programme>
-  <programme channel="tv.41" start="20180604073000 +0000" stop="20180604090000 +0000">
-    <title>China Now</title>
-    <desc/>
+  <programme channel="tv.41" start="20180604073000 +0000" stop="20180604080000 +0000">
+    <title>Adventure Bound</title>
+    <desc>Fishing, diving, 4WD and outdoor action from around Australia.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.41" start="20180604090000 +0000" stop="20180604093000 +0000">
-    <title>America's Heartland</title>
-    <desc>A series that looks at the culture and values of country folk in the USA.</desc>
+  <programme channel="tv.41" start="20180604080000 +0000" stop="20180604083000 +0000">
+    <title>Walks Around Britain</title>
+    <desc>Andrew White discovers walks in the British countryside with intriguing history and stunning views. All new episodes.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme channel="tv.41" start="20180604093000 +0000" stop="20180604110000 +0000">
+  <programme channel="tv.41" start="20180604083000 +0000" stop="20180604090000 +0000">
+    <title>TV Wild</title>
+    <desc>The Graf boys bring you hunting and fishing, plus general outdoors and wildlife. Warning - this show may contain scenes of killed or butchered animals.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.41" start="20180604090000 +0000" stop="20180604093000 +0000">
+    <title>Roarin in Reds</title>
+    <desc>Filmed entirely on public land, Roarin in Reds gets straight down to business. You'll get to see wild red stags up close, within 3 metres of the camera on more occasions than one. You'll get to learn</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.41" start="20180604093000 +0000" stop="20180604100000 +0000">
     <title>The South Today</title>
     <desc>The Southern Regions news presented by Melissa Barton.</desc>
+  </programme>
+  <programme channel="tv.41" start="20180604100000 +0000" stop="20180604110000 +0000">
+    <title>Europe Concert Re-Run</title>
+    <desc/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.41" start="20180604110000 +0000" stop="20180604113000 +0000">
     <title>National Geographic - LIVE</title>
@@ -37482,9 +37523,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.41" start="20180605003000 +0000" stop="20180605013000 +0000">
+  <programme channel="tv.41" start="20180605003000 +0000" stop="20180605010000 +0000">
     <title>PopXport</title>
     <desc>popXport showcases excellent musicians and bands, highlights the latest trends and reports on major music events.</desc>
+  </programme>
+  <programme channel="tv.41" start="20180605010000 +0000" stop="20180605013000 +0000">
+    <title>Behind Bowel Cancer</title>
+    <desc>We talk to specialists, volunteers and researchers about the symptoms, treatments and effects of NZ's no. 2 killer - Bowel Cancer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.41" start="20180605013000 +0000" stop="20180605020000 +0000">
     <title>DW News</title>
@@ -37498,16 +37546,16 @@
     <title>Tech Tools</title>
     <desc>Tech Tools showcases technology and how it can be used in the work place.</desc>
   </programme>
-  <programme channel="tv.41" start="20180605030000 +0000" stop="20180605040000 +0000">
+  <programme channel="tv.41" start="20180605030000 +0000" stop="20180605033000 +0000">
     <title>Southern Attractions</title>
     <desc>Show highlighting local tourism activities.</desc>
-  </programme>
-  <programme channel="tv.41" start="20180605040000 +0000" stop="20180605050000 +0000">
-    <title>World of Wildlife</title>
-    <desc>Wildlife documentary series by Sunset and Vine, using archive footage from differing companies and productions.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
+  </programme>
+  <programme channel="tv.41" start="20180605033000 +0000" stop="20180605050000 +0000">
+    <title>Oakley's Off the Bar</title>
+    <desc>local junior football.</desc>
   </programme>
   <programme channel="tv.41" start="20180605050000 +0000" stop="20180605053000 +0000">
     <title>Euromaxx</title>
@@ -37525,16 +37573,44 @@
     <title>The South Today</title>
     <desc>The Southern Regions news presented by Melissa Barton.</desc>
   </programme>
-  <programme channel="tv.41" start="20180605073000 +0000" stop="20180605093000 +0000">
+  <programme channel="tv.41" start="20180605073000 +0000" stop="20180605080000 +0000">
     <title>Put Some Colour In Your Life</title>
     <desc>Put Some Colour In Your Life is a TV Series about building a library of the minds of artists. Each individual episode examines the many creative processes that artists portray in their work and their</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.41" start="20180605093000 +0000" stop="20180605103000 +0000">
+  <programme channel="tv.41" start="20180605080000 +0000" stop="20180605083000 +0000">
+    <title>Get Reel Music Mix</title>
+    <desc>A weekly, unhosted series of half-hour episodes of music videos and entertainment news from top recording artists.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.41" start="20180605083000 +0000" stop="20180605090000 +0000">
+    <title>Rural Delivery</title>
+    <desc>Motor Trade Finance proudly brings you the places and faces behind New Zealand's agricultural sector. Made with funding from New Zealand On Air.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.41" start="20180605090000 +0000" stop="20180605093000 +0000">
+    <title>Arizona Backroads</title>
+    <desc>Take a ride through the American Southwest.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.41" start="20180605093000 +0000" stop="20180605100000 +0000">
     <title>The South Today</title>
     <desc>The Southern Regions news presented by Melissa Barton.</desc>
+  </programme>
+  <programme channel="tv.41" start="20180605100000 +0000" stop="20180605103000 +0000">
+    <title>Playin It Safe</title>
+    <desc>How to keep safe in sports.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.41" start="20180605103000 +0000" stop="20180605110000 +0000">
     <title>Kick Off!</title>
@@ -37611,7 +37687,7 @@
   </programme>
   <programme channel="tv.41" start="20180605193000 +0000" stop="20180605220000 +0000">
     <title>Southern Attractions</title>
-    <desc>Local tourism show.</desc>
+    <desc>Show highlighting local tourism activities.</desc>
   </programme>
   <programme channel="tv.41" start="20180605220000 +0000" stop="20180605223000 +0000">
     <title>Tomorrow Today</title>
@@ -37663,9 +37739,16 @@
     <title>Southern Attractions</title>
     <desc>Show highlighting local tourism activities.</desc>
   </programme>
-  <programme channel="tv.41" start="20180606040000 +0000" stop="20180606050000 +0000">
+  <programme channel="tv.41" start="20180606040000 +0000" stop="20180606043000 +0000">
     <title>World of Wildlife</title>
     <desc>Wildlife documentary series by Sunset and Vine, using archive footage from differing companies and productions.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.41" start="20180606043000 +0000" stop="20180606050000 +0000">
+    <title>Twisted Tales</title>
+    <desc>A series that studies facts, fallacies and myths about animals.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -37682,9 +37765,16 @@
     <title>Southern Attractions</title>
     <desc>Show highlighting local tourism activities.</desc>
   </programme>
-  <programme channel="tv.41" start="20180606070000 +0000" stop="20180606083000 +0000">
+  <programme channel="tv.41" start="20180606070000 +0000" stop="20180606073000 +0000">
     <title>The South Today</title>
     <desc>The Southern Regions news presented by Melissa Barton.</desc>
+  </programme>
+  <programme channel="tv.41" start="20180606073000 +0000" stop="20180606083000 +0000">
+    <title>A Family Affair - Klais Organs</title>
+    <desc>Klais is a traditional German company of organ builders. Founded in 1882, the family business is now in its fourth generation and the organs are still made by hand just as they were 100 years ago.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.41" start="20180606083000 +0000" stop="20180606093000 +0000">
     <title>New Zealand Railscene</title>
@@ -37695,8 +37785,8 @@
     <desc>The Southern Regions news presented by Melissa Barton.</desc>
   </programme>
   <programme channel="tv.41" start="20180606100000 +0000" stop="20180606103000 +0000">
-    <title>TNEWS</title>
-    <desc>A New Zealand Tongan community news programme.</desc>
+    <title>Flying Through Time</title>
+    <desc>Everything you ever wanted to find out about the history of flight.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
