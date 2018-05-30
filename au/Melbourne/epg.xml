@@ -2156,16 +2156,16 @@
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180530133300 +0000" stop="20180530135500 +0000">
+    <title>Parks and Recreation</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180530133300 +0000" stop="20180530135500 +0000">
     <title>Archer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210222" start="20180530133300 +0000" stop="20180530135500 +0000">
-    <title>Parks and Recreation</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180530135500 +0000" stop="20180530142600 +0000">
@@ -2701,16 +2701,16 @@
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
-    <title>Parks and Recreation</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
     <title>Archer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
+    <title>Parks and Recreation</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531140800 +0000" stop="20180531143800 +0000">
@@ -36947,16 +36947,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180529225823 +0000" stop="20180529233731 +0000">
-    <title>unReal</title>
-    <desc>Break free from the confines of everyday life and venture into a limitless world of wonder and potential.</desc>
-    <sub-title>Reality Is What You Make It</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180529233731 +0000" stop="20180530000531 +0000">
-    <title>Not2Bad</title>
-    <desc>Anthill Films' sequel to Not Bad is a double dose of freestyle mountain biking and tomfoolery.</desc>
-    <sub-title>More Epic Tomfoolery in Spain</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180530000531 +0000" stop="20180530001159 +0000">
     <title>The Rise of Korean R&amp;B</title>
     <desc>Gallant, a GRAMMY-nominated artist, explores South Korea's emerging R&amp;B scene.</desc>
@@ -38946,5 +38936,15 @@
     <title>MTB RAW S1E12</title>
     <desc>One of the world’s most stylish downhill mountain bikers blasts down some of New Zealand’s finest trails. </desc>
     <sub-title>Eliot Jackson</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605130540 +0000" stop="20180605140119 +0000">
+    <title>Visions of Greatness S1E5</title>
+    <desc>The chasing for a dream is fraught with failure, but those who achieve greatness approach failure differently.</desc>
+    <sub-title>The Resilient</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605140119 +0000" stop="20180605140903 +0000">
+    <title>The Book of John J S2E3</title>
+    <desc>John J leaves the RV on the mainland and heads across the Pacific in search of shred sessions and monkeys.</desc>
+    <sub-title>Exploration</sub-title>
   </programme>
 </tv>
