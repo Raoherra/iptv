@@ -1652,17 +1652,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20180530162800 +0000" stop="20180530172700 +0000">
-    <title>Big Name No Blanket</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210221" start="20180530162800 +0000" stop="20180530172700 +0000">
     <title>National Press Club Address</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210221" start="20180530162800 +0000" stop="20180530172700 +0000">
+    <title>Big Name No Blanket</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20180530172700 +0000" stop="20180530182800 +0000">
@@ -15881,17 +15881,17 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200428" start="20180605093000 +0000" stop="20180605103000 +0000">
+    <title>Real, Fake or Unknown</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200428" start="20180605093000 +0000" stop="20180605100000 +0000">
     <title>The Big Bang Theory</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200428" start="20180605093000 +0000" stop="20180605103000 +0000">
-    <title>Real, Fake or Unknown</title>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180605100000 +0000" stop="20180605103000 +0000">
@@ -27643,13 +27643,13 @@
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180601090000 +0000" stop="20180601093000 +0000">
-    <title>Will &amp; Grace</title>
+    <title>Roseanne</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180601090000 +0000" stop="20180601093000 +0000">
-    <title>Roseanne</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -36962,16 +36962,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180530134401 +0000" stop="20180530140952 +0000">
-    <title>Ultimate Rush S5E7</title>
-    <desc>Danny MacAskill puts it all on the line while making his majestic mountain bike film, Wee Day Out.</desc>
-    <sub-title>Off the Rails</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180530140952 +0000" stop="20180530141421 +0000">
-    <title>Danny MacAskill in Scotland</title>
-    <desc>Danny MacAskill tears around rural Scotland, setting out to capture the simple fun of a ride in the country.</desc>
-    <sub-title>Wee Day Out</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180530141421 +0000" stop="20180530153010 +0000">
     <title>Gaming the Real World</title>
     <desc>Visionary gamers, developers, and government officials dream of how games can shape the world of tomorrow.</desc>
@@ -38961,5 +38951,15 @@
     <title>Ultimate Rush S5E8</title>
     <desc>Watch what happens when water athlete Kai Lenny kitesurfs upstream of crazy rapids.</desc>
     <sub-title>Upstream Rider</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180606013027 +0000" stop="20180606014505 +0000">
+    <title>Mike Meets S1E1</title>
+    <desc>Mike Chen meets World Rally Championship driver Elfyn Evans to find out what it took to get to the top.</desc>
+    <sub-title>Mike Meets Elfyn Evans</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180606014505 +0000" stop="20180606015047 +0000">
+    <title>Bryce Menzies: The Next Stage S1E2</title>
+    <desc>Bryce and his team begin the extensive preparations needed to race in Dakar Rally and make their way to Peru.</desc>
+    <sub-title>Preparation and Arrival</sub-title>
   </programme>
 </tv>
