@@ -2695,16 +2695,16 @@
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
+    <title>Parks and Recreation</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
     <title>Archer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
-    <title>Parks and Recreation</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531140800 +0000" stop="20180531143800 +0000">
@@ -27839,13 +27839,13 @@
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180601053000 +0000" stop="20180601060000 +0000">
-    <title>Will &amp; Grace</title>
+    <title>Roseanne</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180601053000 +0000" stop="20180601060000 +0000">
-    <title>Roseanne</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -27896,13 +27896,13 @@
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180601093000 +0000" stop="20180601100000 +0000">
-    <title>Roseanne</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180601093000 +0000" stop="20180601100000 +0000">
-    <title>Will &amp; Grace</title>
+    <title>Roseanne</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -36940,16 +36940,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180530031927 +0000" stop="20180530043515 +0000">
-    <title>Gaming the Real World</title>
-    <desc>Visionary gamers, developers, and government officials dream of how games can shape the world of tomorrow.</desc>
-    <sub-title>Video Games Shaping Cities of the Future</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180530043515 +0000" stop="20180530050132 +0000">
-    <title>Red Bull Studios Berlin – Remade</title>
-    <desc>A diverse group of artists unites at Red Bull Studios Berlin to put their spin on Motörhead's 'Ace of Spades'.</desc>
-    <sub-title>Motörhead's 'Ace of Spades'</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180530050133 +0000" stop="20180530061903 +0000">
     <title>Lords of BSV</title>
     <desc>From the dance hotbed of Bed-Stuy, Brooklyn, a new form of dance emerged that upended the dance world.</desc>
@@ -38939,5 +38929,15 @@
     <title>Fandom</title>
     <desc>Christian Slater narrates a look inside the massive phenomenon of fantasy football.</desc>
     <sub-title>The Fantasy Football Movie</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605200928 +0000" stop="20180605201645 +0000">
+    <title>27 @ 27 S1E2</title>
+    <desc>The pain from a shoulder injury returns with a vengeance after David Colturi’s first dive of the season.</desc>
+    <sub-title>A Rusty Start</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605201645 +0000" stop="20180605202401 +0000">
+    <title>27 @ 27 S1E3</title>
+    <desc>David Colturi decides to compete in the Cliff Diving World Series, balancing travel and competition with some </desc>
+    <sub-title>Packing the Bags</sub-title>
   </programme>
 </tv>

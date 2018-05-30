@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180530031927 +0000" stop="20180530043515 +0000">
-    <title>Gaming the Real World</title>
-    <desc>Visionary gamers, developers, and government officials dream of how games can shape the world of tomorrow.</desc>
-    <sub-title>Video Games Shaping Cities of the Future</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180530043515 +0000" stop="20180530050132 +0000">
-    <title>Red Bull Studios Berlin – Remade</title>
-    <desc>A diverse group of artists unites at Red Bull Studios Berlin to put their spin on Motörhead's 'Ace of Spades'.</desc>
-    <sub-title>Motörhead's 'Ace of Spades'</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180530050133 +0000" stop="20180530061903 +0000">
     <title>Lords of BSV</title>
     <desc>From the dance hotbed of Bed-Stuy, Brooklyn, a new form of dance emerged that upended the dance world.</desc>
@@ -2280,6 +2270,16 @@
     <desc>Christian Slater narrates a look inside the massive phenomenon of fantasy football.</desc>
     <sub-title>The Fantasy Football Movie</sub-title>
   </programme>
+  <programme channel="tv.redbull.tv" start="20180605200928 +0000" stop="20180605201645 +0000">
+    <title>27 @ 27 S1E2</title>
+    <desc>The pain from a shoulder injury returns with a vengeance after David Colturi’s first dive of the season.</desc>
+    <sub-title>A Rusty Start</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605201645 +0000" stop="20180605202401 +0000">
+    <title>27 @ 27 S1E3</title>
+    <desc>David Colturi decides to compete in the Cliff Diving World Series, balancing travel and competition with some </desc>
+    <sub-title>Packing the Bags</sub-title>
+  </programme>
   <programme channel="tv.9" start="20180529115000 +0000" stop="20180529124500 +0000">
     <title>Secrets And Lies</title>
     <desc>S2 E7 Patrick's secret sins and major transgressions come home to roost.</desc>
@@ -2816,7 +2816,7 @@
     <title>The Hotel Inspector</title>
     <desc>Alex Polizzi visits The Richmoor Hotel in Weymouth, Dorset, where mother and manager Loraine employs several of her seven children. But her mothering instincts are getting in the way of business.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.9" start="20180602092000 +0000" stop="20180602102500 +0000">
@@ -3276,6 +3276,9 @@
   <programme channel="tv.9" start="20180605043000 +0000" stop="20180605045500 +0000">
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180605045500 +0000" stop="20180605060000 +0000">
     <title>The Chase</title>
@@ -3440,6 +3443,9 @@
   <programme channel="tv.9" start="20180606045500 +0000" stop="20180606060000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180606060000 +0000" stop="20180606070000 +0000">
     <title>1 News At 6pm</title>
@@ -3452,6 +3458,9 @@
   <programme channel="tv.9" start="20180606073000 +0000" stop="20180606083500 +0000">
     <title>Kirstie And Phil's Love It Or List It</title>
     <desc>S3 E2 Kirstie and Phil help the Tuck family decide if their cramped three bedroom semi needs a refurb or just selling.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180606083500 +0000" stop="20180606093500 +0000">
     <title>Doctor Doctor</title>
@@ -4022,6 +4031,9 @@
   <programme channel="tv.10" start="20180531040000 +0000" stop="20180531043000 +0000">
     <title>Fanimals</title>
     <desc>Today we go behind the scenes with Tara Sullivan in Teacher's Pet, meet the awesome team at Riding for the Disabled, and Jess shows you how to make animal crackers for your afternoon snack!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180531043000 +0000" stop="20180531050000 +0000">
     <title>Friends</title>
@@ -4332,6 +4344,9 @@
   <programme channel="tv.10" start="20180601040000 +0000" stop="20180601043000 +0000">
     <title>Fanimals</title>
     <desc>It's Friday and Fanimals is throwing a party, we could be calling you to play Fanimals Fact or Fiction, and we go to the Fairlie Dog Trials in Best In Show.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180601043000 +0000" stop="20180601050000 +0000">
     <title>Friends</title>
@@ -4877,6 +4892,12 @@
   <programme channel="tv.10" start="20180603060000 +0000" stop="20180603063000 +0000">
     <title>The Middle</title>
     <desc>S6 E6 The Heck house is thrown into turmoil when the kitchen sink caves in. Meanwhile, Sue must master a tricky dance routine; and Brick tries to distract Mike after breaking the lawn mower.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180603063000 +0000" stop="20180603070000 +0000">
     <title>The Big Bang Theory</title>
@@ -5400,6 +5421,9 @@
   <programme channel="tv.10" start="20180605000500 +0000" stop="20180605010500 +0000">
     <title>Jeremy Kyle</title>
     <desc>Today on Jeremy Kyle: My wicked stepmum made me homeless because I wouldn't give her my inheritance!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180605010500 +0000" stop="20180605020500 +0000">
     <title>Judge Rinder</title>
@@ -5586,6 +5610,9 @@
   <programme channel="tv.10" start="20180605151500 +0000" stop="20180605160500 +0000">
     <title>Jeremy Kyle</title>
     <desc>Today on Jeremy Kyle: My wicked stepmum made me homeless because I wouldn't give her my inheritance!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180605160500 +0000" stop="20180605165500 +0000">
     <title>Judge Rinder</title>
@@ -5795,6 +5822,9 @@
   <programme channel="tv.10" start="20180606073000 +0000" stop="20180606084500 +0000">
     <title>My Kitchen Rules</title>
     <desc>It’s the second Semi Final for 2018. With only one spot left, dishing up food that splits the table is the last thing they need. It’s high stakes and high stress on the Kitchen HQ battlefield.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180606084500 +0000" stop="20180606091500 +0000">
     <title>The Big Bang Theory</title>
@@ -9974,7 +10004,7 @@
     <title>The Hotel Inspector</title>
     <desc>Alex Polizzi visits The Richmoor Hotel in Weymouth, Dorset, where mother and manager Loraine employs several of her seven children. But her mothering instincts are getting in the way of business.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.38" start="20180602102000 +0000" stop="20180602112500 +0000">
@@ -10434,6 +10464,9 @@
   <programme channel="tv.38" start="20180605053000 +0000" stop="20180605055500 +0000">
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180605055500 +0000" stop="20180605070000 +0000">
     <title>The Chase</title>
@@ -10598,6 +10631,9 @@
   <programme channel="tv.38" start="20180606055500 +0000" stop="20180606070000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180606070000 +0000" stop="20180606080000 +0000">
     <title>1 News At 6pm</title>
@@ -10610,6 +10646,9 @@
   <programme channel="tv.38" start="20180606083000 +0000" stop="20180606093500 +0000">
     <title>Kirstie And Phil's Love It Or List It</title>
     <desc>S3 E2 Kirstie and Phil help the Tuck family decide if their cramped three bedroom semi needs a refurb or just selling.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180606093500 +0000" stop="20180606103500 +0000">
     <title>Doctor Doctor</title>
@@ -11119,6 +11158,9 @@
   <programme channel="tv.14" start="20180531050000 +0000" stop="20180531053000 +0000">
     <title>Fanimals</title>
     <desc>Today we go behind the scenes with Tara Sullivan in Teacher's Pet, meet the awesome team at Riding for the Disabled, and Jess shows you how to make animal crackers for your afternoon snack!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180531053000 +0000" stop="20180531060000 +0000">
     <title>Friends</title>
@@ -11405,6 +11447,9 @@
   <programme channel="tv.14" start="20180601050000 +0000" stop="20180601053000 +0000">
     <title>Fanimals</title>
     <desc>It's Friday and Fanimals is throwing a party, we could be calling you to play Fanimals Fact or Fiction, and we go to the Fairlie Dog Trials in Best In Show.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180601053000 +0000" stop="20180601060000 +0000">
     <title>Friends</title>
@@ -11866,6 +11911,9 @@
   <programme channel="tv.14" start="20180603070000 +0000" stop="20180603073000 +0000">
     <title>The Middle</title>
     <desc>S6 E6 The Heck house is thrown into turmoil when the kitchen sink caves in. Meanwhile, Sue must master a tricky dance routine; and Brick tries to distract Mike after breaking the lawn mower.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180603073000 +0000" stop="20180603080000 +0000">
     <title>The Big Bang Theory</title>
@@ -12332,6 +12380,9 @@
   <programme channel="tv.14" start="20180605010500 +0000" stop="20180605020500 +0000">
     <title>Jeremy Kyle</title>
     <desc>Today on Jeremy Kyle: My wicked stepmum made me homeless because I wouldn't give her my inheritance!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180605020500 +0000" stop="20180605030500 +0000">
     <title>Judge Rinder</title>
@@ -12485,6 +12536,9 @@
   <programme channel="tv.14" start="20180605161500 +0000" stop="20180605170500 +0000">
     <title>Jeremy Kyle</title>
     <desc>Today on Jeremy Kyle: My wicked stepmum made me homeless because I wouldn't give her my inheritance!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180605170500 +0000" stop="20180605175500 +0000">
     <title>Judge Rinder</title>
@@ -12679,6 +12733,9 @@
   <programme channel="tv.14" start="20180606083000 +0000" stop="20180606094500 +0000">
     <title>My Kitchen Rules</title>
     <desc>It’s the second Semi Final for 2018. With only one spot left, dishing up food that splits the table is the last thing they need. It’s high stakes and high stress on the Kitchen HQ battlefield.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180606094500 +0000" stop="20180606101500 +0000">
     <title>The Big Bang Theory</title>
@@ -18989,7 +19046,7 @@
     </rating>
   </programme>
   <programme channel="tv.55" start="20180601115500 +0000" stop="20180601143000 +0000">
-    <title>AFL - Geelong v Carlton</title>
+    <title>AFL - Sydney v Carlton</title>
     <desc>Delayed coverage of tonight’s match with the Sydney Swans hosting Carlton from the SCG in Sydney.</desc>
   </programme>
   <programme channel="tv.55" start="20180601143000 +0000" stop="20180601180000 +0000">
@@ -19014,7 +19071,7 @@
   </programme>
   <programme channel="tv.55" start="20180602012500 +0000" stop="20180602033000 +0000">
     <title>NBA Finals</title>
-    <desc>Coverage of Game #1 as this year’s NBA Finals kick off.</desc>
+    <desc>Coverage of Game #1 in the NBA Finals as the Golden State Warriors host the Cleveland Cavaliers from Oracle Arena in Oakland, California.</desc>
   </programme>
   <programme channel="tv.55" start="20180602033000 +0000" stop="20180602063000 +0000">
     <title>Live: AFL - Western v Melbourne</title>
@@ -19259,7 +19316,7 @@
   </programme>
   <programme channel="tv.55" start="20180605015000 +0000" stop="20180605035500 +0000">
     <title>NBA Finals</title>
-    <desc>Coverage of Game #2 as this year’s NBA Finals continue.</desc>
+    <desc>Coverage of Game #2 in the NBA Finals as the Golden State Warriors host the Cleveland Cavaliers from Oracle Arena in Oakland, California.</desc>
   </programme>
   <programme channel="tv.55" start="20180605035500 +0000" stop="20180605045000 +0000">
     <title>Mythbusters</title>
@@ -19313,6 +19370,9 @@
   <programme channel="tv.55" start="20180605093000 +0000" stop="20180605103000 +0000">
     <title>New: Modern Life Is Goodish</title>
     <desc>Stand-up comedian Dave Gorman assesses the "goodishness" of modern life. Dave finds a convoluted method for getting rid of an unwanted gift, and reimagines a classic game show.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180605103000 +0000" stop="20180605112500 +0000">
     <title>Duck Quacks Don't Echo</title>
@@ -44855,10 +44915,9 @@
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
-    <title>Archer</title>
-    <subtitles type="teletext"/>
+    <title>Parks and Recreation</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531140800 +0000" stop="20180531143800 +0000">
@@ -68360,7 +68419,7 @@
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180601050000 +0000" stop="20180601053000 +0000">
-    <title>Roseanne</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -68411,7 +68470,7 @@
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180601090000 +0000" stop="20180601093000 +0000">
-    <title>Will &amp; Grace</title>
+    <title>Roseanne</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
