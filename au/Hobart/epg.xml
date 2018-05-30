@@ -8927,17 +8927,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002710271" start="20180530162800 +0000" stop="20180530172700 +0000">
-    <title>Big Name No Blanket</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002710271" start="20180530162800 +0000" stop="20180530172700 +0000">
     <title>National Press Club Address</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002710271" start="20180530162800 +0000" stop="20180530172700 +0000">
+    <title>Big Name No Blanket</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002710271" start="20180530172700 +0000" stop="20180530182800 +0000">
@@ -15949,17 +15949,17 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101204300437" start="20180605093000 +0000" stop="20180605103000 +0000">
+    <title>Real, Fake or Unknown</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204300437" start="20180605093000 +0000" stop="20180605100000 +0000">
     <title>The Big Bang Theory</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300437" start="20180605093000 +0000" stop="20180605103000 +0000">
-    <title>Real, Fake or Unknown</title>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204300437" start="20180605100000 +0000" stop="20180605103000 +0000">
@@ -21412,14 +21412,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180601050000 +0000" stop="20180601060100 +0000">
-    <title>United Stuff of America</title>
+  <programme channel="tv.101305030533" start="20180601050000 +0000" stop="20180601060200 +0000">
+    <title>Barter Kings</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180601050000 +0000" stop="20180601060200 +0000">
-    <title>Barter Kings</title>
+  <programme channel="tv.101305030533" start="20180601050000 +0000" stop="20180601060100 +0000">
+    <title>United Stuff of America</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -37063,16 +37063,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180530160115 +0000" stop="20180530162608 +0000">
-    <title>Rise of the Bullet</title>
-    <desc>After becoming three-time world champ in MX2, watch how Jeffrey Herlings fares while competing in MX1. </desc>
-    <sub-title>Jeffrey Herlings Takes on MX1</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180530162608 +0000" stop="20180530165353 +0000">
-    <title>Return to Nazaré</title>
-    <desc>After nearly losing her life on the huge waves in Nazaré, Portugal, Maya Gabeira battles back to try again.</desc>
-    <sub-title>Maya Gabeira's Triumphant Comeback</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180530165353 +0000" stop="20180530174932 +0000">
     <title>Locked In</title>
     <desc>Ben Stookesberry and a group of kayakers attempt a first descent of the Beriman River in Papua New Guinea.</desc>
@@ -39062,5 +39052,15 @@
     <title>Iron to the Core</title>
     <desc>Long-distance triathlete Sebastian Kienle gives an inside look at what it takes to be an IRONMAN athlete.</desc>
     <sub-title>The Sebastian Kienle Story</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180606030018 +0000" stop="20180606032822 +0000">
+    <title>Crossing Corsica</title>
+    <desc>Ultrarunner François d’Haene attempts to break the record for running the 180km GR20 trail.</desc>
+    <sub-title>The GR20 Trail Quest</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180606032823 +0000" stop="20180606050145 +0000">
+    <title>Fandom</title>
+    <desc>Christian Slater narrates a look inside the massive phenomenon of fantasy football.</desc>
+    <sub-title>The Fantasy Football Movie</sub-title>
   </programme>
 </tv>
