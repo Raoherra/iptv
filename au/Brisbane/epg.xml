@@ -1623,6 +1623,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180607140000 +0000" stop="20180607143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180530135400 +0000" stop="20180530142400 +0000">
     <title>Never Mind the Buzzcocks</title>
     <subtitles type="teletext"/>
@@ -13193,6 +13200,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204000407" start="20180607140000 +0000" stop="20180607143000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.10120400040A" start="20180530135400 +0000" stop="20180530141900 +0000">
     <title>Hot in Cleveland</title>
     <subtitles type="teletext"/>
@@ -14457,6 +14470,13 @@
   </programme>
   <programme channel="tv.10120400040A" start="20180607120000 +0000" stop="20180607140000 +0000">
     <title>The Babadook</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.10120400040A" start="20180607140000 +0000" stop="20180607150000 +0000">
+    <title>Rizzoli &amp; Isles</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -18302,6 +18322,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180607140000 +0000" stop="20180607141500 +0000">
+    <title>Trackwork</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305040540" start="20180530132500 +0000" stop="20180530143500 +0000">
     <title>Hell's Kitchen USA</title>
     <subtitles type="teletext"/>
@@ -21346,14 +21373,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040543" start="20180601050000 +0000" stop="20180601060200 +0000">
-    <title>Barter Kings</title>
+  <programme channel="tv.101305040543" start="20180601050000 +0000" stop="20180601060100 +0000">
+    <title>United Stuff of America</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040543" start="20180601050000 +0000" stop="20180601060100 +0000">
-    <title>United Stuff of America</title>
+  <programme channel="tv.101305040543" start="20180601050000 +0000" stop="20180601060200 +0000">
+    <title>Barter Kings</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -25509,6 +25536,12 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406040641" start="20180607140000 +0000" stop="20180607143000 +0000">
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406040645" start="20180530130100 +0000" stop="20180530140400 +0000">
@@ -34907,6 +34940,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180607140000 +0000" stop="20180607143000 +0000">
+    <title>Good Eats</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180530133500 +0000" stop="20180530140000 +0000">
     <title>Shark Curry - A Cricket Delicacy</title>
     <rating system="Freeview">
@@ -36946,11 +36985,6 @@
     <rating system="Freeview">
       <value>NC</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180530210048 +0000" stop="20180530215430 +0000">
-    <title>South to Sian</title>
-    <desc>Harrison Roach and Zye Norris set out to see if the dream of a true pioneering surf adventure is still alive.</desc>
-    <sub-title>A Two-Year Odyssey of Exploration</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180530215430 +0000" stop="20180530230511 +0000">
     <title>The Bits of Baco</title>

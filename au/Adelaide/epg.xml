@@ -1617,6 +1617,20 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180607140000 +0000" stop="20180607143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180607143000 +0000" stop="20180607150000 +0000">
+    <title>7.30</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180530142400 +0000" stop="20180530145200 +0000">
     <title>The Mighty Boosh</title>
     <rating system="Freeview">
@@ -5823,6 +5837,12 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180607141000 +0000" stop="20180607143200 +0000">
+    <title>Parks and Recreation</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210224" start="20180530133700 +0000" stop="20180530190000 +0000">
@@ -13244,6 +13264,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204500454" start="20180607143000 +0000" stop="20180607150000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204500457" start="20180530142400 +0000" stop="20180530144900 +0000">
     <title>Hot in Cleveland</title>
     <subtitles type="teletext"/>
@@ -14514,6 +14540,13 @@
   </programme>
   <programme channel="tv.101204500457" start="20180607123000 +0000" stop="20180607143000 +0000">
     <title>The Babadook</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500457" start="20180607143000 +0000" stop="20180607153000 +0000">
+    <title>Rizzoli &amp; Isles</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -15924,17 +15957,17 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101204500458" start="20180605100000 +0000" stop="20180605110000 +0000">
+    <title>Real, Fake or Unknown</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204500458" start="20180605100000 +0000" stop="20180605103000 +0000">
     <title>The Big Bang Theory</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204500458" start="20180605100000 +0000" stop="20180605110000 +0000">
-    <title>Real, Fake or Unknown</title>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204500458" start="20180605103000 +0000" stop="20180605110000 +0000">
@@ -18354,6 +18387,20 @@
   </programme>
   <programme channel="tv.101305020528" start="20180607130000 +0000" stop="20180607140000 +0000">
     <title>Get On!</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180607140000 +0000" stop="20180607141500 +0000">
+    <title>Trackwork</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180607141500 +0000" stop="20180607144500 +0000">
+    <title>Raceday Review - Seymour</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -21423,14 +21470,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050553" start="20180601053000 +0000" stop="20180601063100 +0000">
-    <title>United Stuff of America</title>
+  <programme channel="tv.101305050553" start="20180601053000 +0000" stop="20180601063200 +0000">
+    <title>Barter Kings</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050553" start="20180601053000 +0000" stop="20180601063200 +0000">
-    <title>Barter Kings</title>
+  <programme channel="tv.101305050553" start="20180601053000 +0000" stop="20180601063100 +0000">
+    <title>United Stuff of America</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -25637,6 +25684,12 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101406050651" start="20180607143000 +0000" stop="20180607150000 +0000">
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406050655" start="20180530133100 +0000" stop="20180530143400 +0000">
     <title>Hawaii Five-O</title>
     <subtitles type="teletext"/>
@@ -27697,13 +27750,13 @@
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180601053000 +0000" stop="20180601060000 +0000">
-    <title>Will &amp; Grace</title>
+    <title>Roseanne</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180601053000 +0000" stop="20180601060000 +0000">
-    <title>Roseanne</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -27754,13 +27807,13 @@
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180601093000 +0000" stop="20180601100000 +0000">
-    <title>Roseanne</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180601093000 +0000" stop="20180601100000 +0000">
-    <title>Will &amp; Grace</title>
+    <title>Roseanne</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -35021,6 +35074,18 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180607140000 +0000" stop="20180607143000 +0000">
+    <title>Good Eats</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180607143000 +0000" stop="20180607152500 +0000">
+    <title>Cooks vs. Cons</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180530140000 +0000" stop="20180530150000 +0000">
     <title>Volumz</title>
     <rating system="Freeview">
@@ -37054,11 +37119,6 @@
     <rating system="Freeview">
       <value>NC</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180530210048 +0000" stop="20180530215430 +0000">
-    <title>South to Sian</title>
-    <desc>Harrison Roach and Zye Norris set out to see if the dream of a true pioneering surf adventure is still alive.</desc>
-    <sub-title>A Two-Year Odyssey of Exploration</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180530215430 +0000" stop="20180530230511 +0000">
     <title>The Bits of Baco</title>

@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180530210048 +0000" stop="20180530215430 +0000">
-    <title>South to Sian</title>
-    <desc>Harrison Roach and Zye Norris set out to see if the dream of a true pioneering surf adventure is still alive.</desc>
-    <sub-title>A Two-Year Odyssey of Exploration</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180530215430 +0000" stop="20180530230511 +0000">
     <title>The Bits of Baco</title>
     <desc>A misfit band of brothers and friends stir up the ‘90s BMX scene with first-of-their-kind riding videos.</desc>
@@ -42052,6 +42047,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180607140000 +0000" stop="20180607143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180530132400 +0000" stop="20180530141000 +0000">
     <title>Four Corners</title>
     <subtitles type="teletext"/>
@@ -53615,6 +53617,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200424" start="20180607140000 +0000" stop="20180607143000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200427" start="20180530135400 +0000" stop="20180530141900 +0000">
     <title>Hot in Cleveland</title>
     <subtitles type="teletext"/>
@@ -54873,6 +54881,13 @@
   </programme>
   <programme channel="tv.101204200427" start="20180607120000 +0000" stop="20180607140000 +0000">
     <title>The Babadook</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200427" start="20180607140000 +0000" stop="20180607150000 +0000">
+    <title>Rizzoli &amp; Isles</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -56303,11 +56318,10 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20180605093000 +0000" stop="20180605100000 +0000">
-    <title>The Big Bang Theory</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101204200428" start="20180605093000 +0000" stop="20180605103000 +0000">
+    <title>Real, Fake or Unknown</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180605100000 +0000" stop="20180605103000 +0000">
@@ -64459,6 +64473,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180607140000 +0000" stop="20180607141500 +0000">
+    <title>Trackwork</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406020621" start="20180530134300 +0000" stop="20180530143000 +0000">
     <title>Homicide: Hours To Kill</title>
     <rating system="Freeview">
@@ -65934,6 +65955,12 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020621" start="20180607140000 +0000" stop="20180607143000 +0000">
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20180530130100 +0000" stop="20180530140400 +0000">
@@ -75310,6 +75337,12 @@
   </programme>
   <programme channel="tv.320203000304" start="20180607135500 +0000" stop="20180607140000 +0000">
     <title>Lyndey &amp; Herbie's Moveable Feast</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180607140000 +0000" stop="20180607143000 +0000">
+    <title>Good Eats</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
