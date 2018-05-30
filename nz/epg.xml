@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180530015514 +0000" stop="20180530024906 +0000">
-    <title>Visions of Greatness S1E2</title>
-    <desc>Is it possible to be born great? Pianist Lang Lang and skier Mikaela Shiffrin were both child prodigies.</desc>
-    <sub-title>The Prodigies</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180530024906 +0000" stop="20180530031458 +0000">
     <title>Ultimate Rush S5E7</title>
     <desc>Danny MacAskill puts it all on the line while making his majestic mountain bike film, Wee Day Out.</desc>
@@ -2160,6 +2155,11 @@
     <title>Builder</title>
     <desc>Explore the craft of trail building through the eyes of some of MTB's best riders and most respected builders.</desc>
     <sub-title>The Art and Science of Trail Building</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605175457 +0000" stop="20180605180800 +0000">
+    <title>Iron to the Core</title>
+    <desc>Long-distance triathlete Sebastian Kienle gives an inside look at what it takes to be an IRONMAN athlete.</desc>
+    <sub-title>The Sebastian Kienle Story</sub-title>
   </programme>
   <programme channel="tv.9" start="20180529115000 +0000" stop="20180529124500 +0000">
     <title>Secrets And Lies</title>
@@ -24607,8 +24607,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180530093000 +0000" stop="20180530103000 +0000">
-    <title>iSonic Exfoliator</title>
-    <desc>The iSonic Exfoliator is the latest innovation for personal use exfoliation delivering a passive ultrasonic cleanse, providing your skin with an incredible skin exfoliation treatment.</desc>
+    <title>Turmeric Active</title>
+    <desc>Get the best for your body. Turmeric Active is a market leader Turmeric product in Australia. Formulated with Manuka Honey and lemon, Turmeric Active dissolves easily and tastes great!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -24712,15 +24712,15 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180531003000 +0000" stop="20180531013000 +0000">
-    <title>iSonic Exfoliator</title>
-    <desc>The iSonic Exfoliator is the latest innovation for personal use exfoliation delivering a passive ultrasonic cleanse, providing your skin with an incredible skin exfoliation treatment.</desc>
+    <title>Trophy Skin MicrodermMD</title>
+    <desc>At last a portable DIY home microdermabrasion system that delivers smooth bright skin - an alternative to costly clinical treatments! Tune in as we show you the incredible benefits of Trophy Skin.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180531013000 +0000" stop="20180531023000 +0000">
-    <title>Colours of Quartz</title>
-    <desc>Quartz crystals were revered from ancient times as mystical talismans and crystal balls. Harness the magic of colourful Quartz stones in these stunning gold rings, pendants and earrings.</desc>
+    <title>Simply Gold</title>
+    <desc>Gold jewellery never goes out of style! Shop classic styles in a mix of yellow, rose and white gold.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -24747,8 +24747,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180531053000 +0000" stop="20180531063000 +0000">
-    <title>iSonic Exfoliator</title>
-    <desc>The iSonic Exfoliator is the latest innovation for personal use exfoliation delivering a passive ultrasonic cleanse, providing your skin with an incredible skin exfoliation treatment.</desc>
+    <title>Pureairssentials Air Diffusers</title>
+    <desc>Make your home feel magical &amp; enchanting with Pureairesentials Air Purifiers. These unique, compact machines provide cleaner air and a healthier living environment for you &amp; your family.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -24789,8 +24789,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180531113000 +0000" stop="20180531123000 +0000">
-    <title>iSonic Exfoliator</title>
-    <desc>The iSonic Exfoliator is the latest innovation for personal use exfoliation delivering a passive ultrasonic cleanse, providing your skin with an incredible skin exfoliation treatment.</desc>
+    <title>Trophy Skin MicrodermMD</title>
+    <desc>At last a portable DIY home microdermabrasion system that delivers smooth bright skin - an alternative to costly clinical treatments! Tune in as we show you the incredible benefits of Trophy Skin.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -24859,8 +24859,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180531213000 +0000" stop="20180531223000 +0000">
-    <title>iSonic Exfoliator</title>
-    <desc>The iSonic Exfoliator is the latest innovation for personal use exfoliation delivering a passive ultrasonic cleanse, providing your skin with an incredible skin exfoliation treatment.</desc>
+    <title>Pureairssentials Air Diffusers</title>
+    <desc>Make your home feel magical &amp; enchanting with Pureairesentials Air Purifiers. These unique, compact machines provide cleaner air and a healthier living environment for you &amp; your family.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -24887,15 +24887,15 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180601013000 +0000" stop="20180601023000 +0000">
-    <title>PUR Cosmetics Smart Beauty</title>
+    <title>PUR Cosmetics</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180601023000 +0000" stop="20180601033000 +0000">
-    <title>iSonic Exfoliator</title>
-    <desc>The iSonic Exfoliator is the latest innovation for personal use exfoliation delivering a passive ultrasonic cleanse, providing your skin with an incredible skin exfoliation treatment.</desc>
+    <title>Parker &amp; Morgan Bedding</title>
+    <desc>There is nothing more important than your own wellbeing. Discover how to increase your wellness through luxe, sustainable and natural products from Parker &amp; Morgan.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -24922,7 +24922,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180601063000 +0000" stop="20180601073000 +0000">
-    <title>PUR Cosmetics Smart Beauty</title>
+    <title>PUR Cosmetics</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -24936,8 +24936,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180601083000 +0000" stop="20180601093000 +0000">
-    <title>iSonic Exfoliator</title>
-    <desc>The iSonic Exfoliator is the latest innovation for personal use exfoliation delivering a passive ultrasonic cleanse, providing your skin with an incredible skin exfoliation treatment.</desc>
+    <title>Pureairssentials Air Diffusers</title>
+    <desc>Make your home feel magical &amp; enchanting with Pureairesentials Air Purifiers. These unique, compact machines provide cleaner air and a healthier living environment for you &amp; your family.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -24964,15 +24964,15 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180601123000 +0000" stop="20180601133000 +0000">
-    <title>PUR Cosmetics Smart Beauty</title>
+    <title>PUR Cosmetics</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180601133000 +0000" stop="20180601143000 +0000">
-    <title>iSonic Exfoliator</title>
-    <desc>The iSonic Exfoliator is the latest innovation for personal use exfoliation delivering a passive ultrasonic cleanse, providing your skin with an incredible skin exfoliation treatment.</desc>
+    <title>Parker &amp; Morgan Bedding</title>
+    <desc>There is nothing more important than your own wellbeing. Discover how to increase your wellness through luxe, sustainable and natural products from Parker &amp; Morgan.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25006,7 +25006,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180601183000 +0000" stop="20180601193000 +0000">
-    <title>PUR Cosmetics Smart Beauty</title>
+    <title>PUR Cosmetics</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -25041,7 +25041,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180601233000 +0000" stop="20180602003000 +0000">
-    <title>PUR Cosmetics Smart Beauty</title>
+    <title>PUR Cosmetics</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -25076,7 +25076,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180602043000 +0000" stop="20180602053000 +0000">
-    <title>PUR Cosmetics Smart Beauty</title>
+    <title>PUR Cosmetics</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -25125,7 +25125,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180602113000 +0000" stop="20180602123000 +0000">
-    <title>PUR Cosmetics Smart Beauty</title>
+    <title>PUR Cosmetics</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -25195,7 +25195,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180602213000 +0000" stop="20180602223000 +0000">
-    <title>PUR Cosmetics Smart Beauty</title>
+    <title>PUR Cosmetics</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -25237,7 +25237,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180603033000 +0000" stop="20180603043000 +0000">
-    <title>PUR Cosmetics Smart Beauty</title>
+    <title>PUR Cosmetics</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -25279,7 +25279,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180603093000 +0000" stop="20180603103000 +0000">
-    <title>PUR Cosmetics Smart Beauty</title>
+    <title>PUR Cosmetics</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -25307,7 +25307,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180603133000 +0000" stop="20180603143000 +0000">
-    <title>PUR Cosmetics Smart Beauty</title>
+    <title>PUR Cosmetics</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -25342,7 +25342,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180603183000 +0000" stop="20180603193000 +0000">
-    <title>PUR Cosmetics Smart Beauty</title>
+    <title>PUR Cosmetics</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -25398,7 +25398,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180604023000 +0000" stop="20180604033000 +0000">
-    <title>PUR Cosmetics Smart Beauty</title>
+    <title>PUR Cosmetics</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -25440,7 +25440,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180604083000 +0000" stop="20180604093000 +0000">
-    <title>PUR Cosmetics Smart Beauty</title>
+    <title>PUR Cosmetics</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -25482,7 +25482,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180604143000 +0000" stop="20180604153000 +0000">
-    <title>PUR Cosmetics Smart Beauty</title>
+    <title>PUR Cosmetics</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -25524,7 +25524,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180604203000 +0000" stop="20180604213000 +0000">
-    <title>PUR Cosmetics Smart Beauty</title>
+    <title>PUR Cosmetics</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
