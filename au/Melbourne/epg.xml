@@ -8927,17 +8927,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002310231" start="20180530162800 +0000" stop="20180530172700 +0000">
-    <title>National Press Club Address</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002310231" start="20180530162800 +0000" stop="20180530172700 +0000">
     <title>Big Name No Blanket</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002310231" start="20180530162800 +0000" stop="20180530172700 +0000">
+    <title>National Press Club Address</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002310231" start="20180530172700 +0000" stop="20180530182800 +0000">
@@ -21412,14 +21412,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180601050000 +0000" stop="20180601060200 +0000">
-    <title>Barter Kings</title>
+  <programme channel="tv.101305030533" start="20180601050000 +0000" stop="20180601060100 +0000">
+    <title>United Stuff of America</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180601050000 +0000" stop="20180601060100 +0000">
-    <title>United Stuff of America</title>
+  <programme channel="tv.101305030533" start="20180601050000 +0000" stop="20180601060200 +0000">
+    <title>Barter Kings</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -37063,11 +37063,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180530125034 +0000" stop="20180530134401 +0000">
-    <title>Visions of Greatness S1E2</title>
-    <desc>Is it possible to be born great? Pianist Lang Lang and skier Mikaela Shiffrin were both child prodigies.</desc>
-    <sub-title>The Prodigies</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180530134401 +0000" stop="20180530140952 +0000">
     <title>Ultimate Rush S5E7</title>
     <desc>Danny MacAskill puts it all on the line while making his majestic mountain bike film, Wee Day Out.</desc>
@@ -39062,5 +39057,10 @@
     <title>On Top Again</title>
     <desc>A prolific champion is determined to return stronger than ever after suffering a career-threatening injury.</desc>
     <sub-title>The Comeback of Orlando Duque</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180606010305 +0000" stop="20180606013027 +0000">
+    <title>Ultimate Rush S5E8</title>
+    <desc>Watch what happens when water athlete Kai Lenny kitesurfs upstream of crazy rapids.</desc>
+    <sub-title>Upstream Rider</sub-title>
   </programme>
 </tv>
