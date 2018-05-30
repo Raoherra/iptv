@@ -2150,16 +2150,16 @@
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180530133300 +0000" stop="20180530135500 +0000">
-    <title>Parks and Recreation</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210222" start="20180530133300 +0000" stop="20180530135500 +0000">
     <title>Archer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180530133300 +0000" stop="20180530135500 +0000">
+    <title>Parks and Recreation</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180530135500 +0000" stop="20180530142600 +0000">
@@ -2695,16 +2695,16 @@
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
+    <title>Parks and Recreation</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
     <title>Archer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210222" start="20180531134600 +0000" stop="20180531140800 +0000">
-    <title>Parks and Recreation</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531140800 +0000" stop="20180531143800 +0000">
@@ -2738,17 +2738,17 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210222" start="20180531161200 +0000" stop="20180531161400 +0000">
+    <title>ABC News Update</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180531161200 +0000" stop="20180531163400 +0000">
     <title>Archer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210222" start="20180531161200 +0000" stop="20180531161400 +0000">
-    <title>ABC News Update</title>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210222" start="20180531161400 +0000" stop="20180531180000 +0000">
@@ -9116,17 +9116,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002510251" start="20180530165800 +0000" stop="20180530175700 +0000">
-    <title>National Press Club Address</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002510251" start="20180530165800 +0000" stop="20180530175700 +0000">
     <title>Big Name No Blanket</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002510251" start="20180530165800 +0000" stop="20180530175700 +0000">
+    <title>National Press Club Address</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002510251" start="20180530175700 +0000" stop="20180530185800 +0000">
@@ -30898,13 +30898,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180530100000 +0000" stop="20180530103000 +0000">
-    <title>South Park</title>
+    <title>Walk of Shame Shuttle</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180530100000 +0000" stop="20180530103000 +0000">
-    <title>Walk of Shame Shuttle</title>
+    <title>South Park</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -37001,11 +37001,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180530050133 +0000" stop="20180530061903 +0000">
-    <title>Lords of BSV</title>
-    <desc>From the dance hotbed of Bed-Stuy, Brooklyn, a new form of dance emerged that upended the dance world.</desc>
-    <sub-title>The Birth and Legacy of Bruk Up Dance</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180530061903 +0000" stop="20180530071259 +0000">
     <title>Mark Grist Battles the World – Philippines</title>
     <desc>Poet Mark Grist enters a war of words as he travels to the Philippines to take on legendary MC Loonie.</desc>
@@ -39000,5 +38995,10 @@
     <title>27 @ 27 S1E3</title>
     <desc>David Colturi decides to compete in the Cliff Diving World Series, balancing travel and competition with some </desc>
     <sub-title>Packing the Bags</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180605202401 +0000" stop="20180605203136 +0000">
+    <title>27 @ 27 S1E4</title>
+    <desc>Cliff diver David Colturi recalibrates with some rest and relaxation at the halfway point of the season.</desc>
+    <sub-title>Down Time</sub-title>
   </programme>
 </tv>
