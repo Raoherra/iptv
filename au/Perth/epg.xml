@@ -14010,17 +14010,17 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204600468" start="20180605113000 +0000" stop="20180605123000 +0000">
+    <title>Real, Fake or Unknown</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204600468" start="20180605113000 +0000" stop="20180605120000 +0000">
     <title>The Big Bang Theory</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600468" start="20180605113000 +0000" stop="20180605123000 +0000">
-    <title>Real, Fake or Unknown</title>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204600468" start="20180605120000 +0000" stop="20180605123000 +0000">
@@ -19637,14 +19637,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060563" start="20180601070000 +0000" stop="20180601080100 +0000">
-    <title>United Stuff of America</title>
+  <programme channel="tv.101305060563" start="20180601070000 +0000" stop="20180601080200 +0000">
+    <title>Barter Kings</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060563" start="20180601070000 +0000" stop="20180601080200 +0000">
-    <title>Barter Kings</title>
+  <programme channel="tv.101305060563" start="20180601070000 +0000" stop="20180601080100 +0000">
+    <title>United Stuff of America</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -27628,13 +27628,19 @@
     </rating>
   </programme>
   <programme channel="tv.101406070688" start="20180608060000 +0000" stop="20180608063000 +0000">
-    <title>Frasier</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406070688" start="20180608060000 +0000" stop="20180608063000 +0000">
-    <title>Will &amp; Grace</title>
+    <title>Frasier</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406070688" start="20180608063000 +0000" stop="20180608070000 +0000">
+    <title>Frasier</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -27643,12 +27649,6 @@
     <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406070688" start="20180608063000 +0000" stop="20180608070000 +0000">
-    <title>Frasier</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406070688" start="20180608070000 +0000" stop="20180608073000 +0000">
@@ -36823,16 +36823,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180531115522 +0000" stop="20180531122015 +0000">
-    <title>Rise of the Bullet</title>
-    <desc>After becoming three-time world champ in MX2, watch how Jeffrey Herlings fares while competing in MX1. </desc>
-    <sub-title>Jeffrey Herlings Takes on MX1</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180531122015 +0000" stop="20180531124825 +0000">
-    <title>Return to Nazaré</title>
-    <desc>After nearly losing her life on the huge waves in Nazaré, Portugal, Maya Gabeira battles back to try again.</desc>
-    <sub-title>Maya Gabeira's Triumphant Comeback</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180531124825 +0000" stop="20180531134404 +0000">
     <title>Locked In</title>
     <desc>Ben Stookesberry and a group of kayakers attempt a first descent of the Beriman River in Papua New Guinea.</desc>
@@ -38822,5 +38812,15 @@
     <title>MTB RAW S1E2</title>
     <desc>Not many get a second shot, but Brandon Semenuk managed an incredible third take at the MTB Raw series.</desc>
     <sub-title>Brandon Semenuk Part 2</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180606210222 +0000" stop="20180606210420 +0000">
+    <title>MTB RAW S1E3</title>
+    <desc>Check out the epic training ground that Canadian MTB rider Anthony Messere has in his backyard. </desc>
+    <sub-title>Anthony Messere</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180606210420 +0000" stop="20180606210556 +0000">
+    <title>MTB RAW S1E5</title>
+    <desc>Get an an education in ‘flow’ from one of the most stylish riders on earth, Brendan Howey. </desc>
+    <sub-title>Brendan Howey</sub-title>
   </programme>
 </tv>
