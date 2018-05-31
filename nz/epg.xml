@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180531060026 +0000" stop="20180531064352 +0000">
-    <title>Breaking the Day  S1E5</title>
-    <desc>Two years after breaking her neck, professional bronc rider Kaila Mussell prepares to get back on the horse. </desc>
-    <sub-title>Saddle Bronc Rider</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180531064352 +0000" stop="20180531072251 +0000">
     <title>unReal</title>
     <desc>Break free from the confines of everyday life and venture into a limitless world of wonder and potential.</desc>
@@ -2160,6 +2155,11 @@
     <title>Fandom</title>
     <desc>Christian Slater narrates a look inside the massive phenomenon of fantasy football.</desc>
     <sub-title>The Fantasy Football Movie</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180606161153 +0000" stop="20180606162427 +0000">
+    <title>Going Straight Sideways S1E1</title>
+    <desc>Mike Chen is a longtime WRC TV journalist, but now he’s trying out the driver’s seat.</desc>
+    <sub-title>Journalist-Turned-Driver</sub-title>
   </programme>
   <programme channel="tv.9" start="20180530115500 +0000" stop="20180530125000 +0000">
     <title>Queen Sugar</title>
@@ -5740,6 +5740,9 @@
   <programme channel="tv.11" start="20180531073000 +0000" stop="20180531083000 +0000">
     <title>Jono And Ben</title>
     <desc>Premiere. New Episode. Jono and Ben watch the Deadpool 2 trailer on repeat, hoping that Ryan Reynolds will call them. Plus, a game show in an elevator and a drunk interview with David Seymour. S4 Ep1</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180531083000 +0000" stop="20180531104500 +0000">
     <title>Mission Impossible</title>
@@ -5873,11 +5876,14 @@
   </programme>
   <programme channel="tv.11" start="20180601090000 +0000" stop="20180601094500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Hayley Sproull, Bryce Casey, Joel Creasey and Rhys Mathewson.</desc>
   </programme>
   <programme channel="tv.11" start="20180601094500 +0000" stop="20180601101500 +0000">
     <title>Funny Girls</title>
     <desc>New Episode. The Funny Girls learn how to kiss, how to avoid embarrassing public bathroom encounters and how to keep the fire lit in long term relationships. S3 Ep4</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180601101500 +0000" stop="20180601104500 +0000">
     <title>Newshub Late</title>
@@ -6023,7 +6029,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.11" start="20180602170000 +0000" stop="20180602173000 +0000">
-    <title>Brian Houston @ Hillsong TV 1101</title>
+    <title>Brian Houston</title>
     <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -6036,26 +6042,41 @@
   <programme channel="tv.11" start="20180602180000 +0000" stop="20180602183000 +0000">
     <title>Life TV</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180602183000 +0000" stop="20180602190000 +0000">
     <title>Brian Houston</title>
-    <desc></desc>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180602190000 +0000" stop="20180602200000 +0000">
     <title>Charles Stanley</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180602200000 +0000" stop="20180602203000 +0000">
-    <title>Living Church of God</title>
+    <title>Living Church Of God</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180602203000 +0000" stop="20180602210000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180602210000 +0000" stop="20180602213000 +0000">
     <title>R &amp; R</title>
-    <desc>Premiere. New Episode. Now that they are into their first year, how is our new coalition government performing? Three political commentators weigh up the report card. S3 Ep1</desc>
+    <desc>Premiere. New Episode. Well into their first year, how is our new coalition government performing? Political commentators Marama Fox, Mitch Harris and Ripeka Timutimu weigh up the report card. S3 Ep1</desc>
   </programme>
   <programme channel="tv.11" start="20180602213000 +0000" stop="20180602220000 +0000">
     <title>The Hui</title>
@@ -6123,7 +6144,7 @@
   </programme>
   <programme channel="tv.11" start="20180603070000 +0000" stop="20180603083000 +0000">
     <title>Dancing With The Stars</title>
-    <desc>Hosted by Dai Henwood and Sharyn Casey, Dancing with the Stars NZ sees 12 Kiwi stars and their professional dance partners battle it out to take home the coveted mirror-ball trophy and win for charity</desc>
+    <desc>New Episode. The competition is stepping up a notch. Each couple has to incorporate a third dancer into their routines in Trio Week!</desc>
   </programme>
   <programme channel="tv.11" start="20180603083000 +0000" stop="20180603104500 +0000">
     <title>The Heat</title>
@@ -6197,7 +6218,7 @@
   </programme>
   <programme channel="tv.11" start="20180604010000 +0000" stop="20180604023000 +0000">
     <title>Dancing With The Stars</title>
-    <desc>Hosted by Dai Henwood and Sharyn Casey, Dancing with the Stars NZ sees 12 Kiwi stars and their professional dance partners battle it out to take home the coveted mirror-ball trophy and win for charity</desc>
+    <desc>New Episode. The competition is stepping up a notch. Each couple has to incorporate a third dancer into their routines in Trio Week!</desc>
   </programme>
   <programme channel="tv.11" start="20180604023000 +0000" stop="20180604043000 +0000">
     <title>Monster House</title>
@@ -6243,7 +6264,7 @@
   </programme>
   <programme channel="tv.11" start="20180604073000 +0000" stop="20180604083000 +0000">
     <title>Dancing With The Stars</title>
-    <desc>Hosted by Dai Henwood and Sharyn Casey, Dancing with the Stars NZ sees 12 Kiwi stars and their professional dance partners battle it out to take home the coveted mirror-ball trophy and win for charity</desc>
+    <desc>New Episode. Trio Week continues with each couple having to incorporate a third dancer, and someone goes home tonight! Who will it be?</desc>
   </programme>
   <programme channel="tv.11" start="20180604083000 +0000" stop="20180604093000 +0000">
     <title>Lost &amp; Found</title>
@@ -6315,7 +6336,7 @@
   </programme>
   <programme channel="tv.11" start="20180605010000 +0000" stop="20180605020000 +0000">
     <title>Dancing With The Stars</title>
-    <desc>Hosted by Dai Henwood and Sharyn Casey, Dancing with the Stars NZ sees 12 Kiwi stars and their professional dance partners battle it out to take home the coveted mirror-ball trophy and win for charity</desc>
+    <desc>New Episode. Trio Week continues with each couple having to incorporate a third dancer, and someone goes home tonight! Who will it be?</desc>
   </programme>
   <programme channel="tv.11" start="20180605020000 +0000" stop="20180605030000 +0000">
     <title>Wipeout</title>
@@ -12402,6 +12423,9 @@
   <programme channel="tv.27" start="20180531083000 +0000" stop="20180531093000 +0000">
     <title>Jono And Ben</title>
     <desc>Premiere. New Episode. Jono and Ben watch the Deadpool 2 trailer on repeat, hoping that Ryan Reynolds will call them. Plus, a game show in an elevator and a drunk interview with David Seymour. S4 Ep1</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180531093000 +0000" stop="20180531114500 +0000">
     <title>Mission Impossible</title>
@@ -12526,11 +12550,14 @@
   </programme>
   <programme channel="tv.27" start="20180601100000 +0000" stop="20180601104500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Hayley Sproull, Bryce Casey, Joel Creasey and Rhys Mathewson.</desc>
   </programme>
   <programme channel="tv.27" start="20180601104500 +0000" stop="20180601111500 +0000">
     <title>Funny Girls</title>
     <desc>New Episode. The Funny Girls learn how to kiss, how to avoid embarrassing public bathroom encounters and how to keep the fire lit in long term relationships. S3 Ep4</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180601111500 +0000" stop="20180601114500 +0000">
     <title>Newshub Late</title>
@@ -12658,7 +12685,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.27" start="20180602180000 +0000" stop="20180602183000 +0000">
-    <title>Brian Houston @ Hillsong TV 1101</title>
+    <title>Brian Houston</title>
     <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -12671,26 +12698,41 @@
   <programme channel="tv.27" start="20180602190000 +0000" stop="20180602193000 +0000">
     <title>Life TV</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180602193000 +0000" stop="20180602200000 +0000">
     <title>Brian Houston</title>
-    <desc></desc>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180602200000 +0000" stop="20180602210000 +0000">
     <title>Charles Stanley</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180602210000 +0000" stop="20180602213000 +0000">
-    <title>Living Church of God</title>
+    <title>Living Church Of God</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180602213000 +0000" stop="20180602220000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180602220000 +0000" stop="20180602223000 +0000">
     <title>R &amp; R</title>
-    <desc>Premiere. New Episode. Now that they are into their first year, how is our new coalition government performing? Three political commentators weigh up the report card. S3 Ep1</desc>
+    <desc>Premiere. New Episode. Well into their first year, how is our new coalition government performing? Political commentators Marama Fox, Mitch Harris and Ripeka Timutimu weigh up the report card. S3 Ep1</desc>
   </programme>
   <programme channel="tv.27" start="20180602223000 +0000" stop="20180602230000 +0000">
     <title>The Hui</title>
@@ -12758,7 +12800,7 @@
   </programme>
   <programme channel="tv.27" start="20180603080000 +0000" stop="20180603093000 +0000">
     <title>Dancing With The Stars</title>
-    <desc>Hosted by Dai Henwood and Sharyn Casey, Dancing with the Stars NZ sees 12 Kiwi stars and their professional dance partners battle it out to take home the coveted mirror-ball trophy and win for charity</desc>
+    <desc>New Episode. The competition is stepping up a notch. Each couple has to incorporate a third dancer into their routines in Trio Week!</desc>
   </programme>
   <programme channel="tv.27" start="20180603093000 +0000" stop="20180603114500 +0000">
     <title>The Heat</title>
@@ -12823,7 +12865,7 @@
   </programme>
   <programme channel="tv.27" start="20180604020000 +0000" stop="20180604033000 +0000">
     <title>Dancing With The Stars</title>
-    <desc>Hosted by Dai Henwood and Sharyn Casey, Dancing with the Stars NZ sees 12 Kiwi stars and their professional dance partners battle it out to take home the coveted mirror-ball trophy and win for charity</desc>
+    <desc>New Episode. The competition is stepping up a notch. Each couple has to incorporate a third dancer into their routines in Trio Week!</desc>
   </programme>
   <programme channel="tv.27" start="20180604033000 +0000" stop="20180604053000 +0000">
     <title>Monster House</title>
@@ -12863,7 +12905,7 @@
   </programme>
   <programme channel="tv.27" start="20180604083000 +0000" stop="20180604093000 +0000">
     <title>Dancing With The Stars</title>
-    <desc>Hosted by Dai Henwood and Sharyn Casey, Dancing with the Stars NZ sees 12 Kiwi stars and their professional dance partners battle it out to take home the coveted mirror-ball trophy and win for charity</desc>
+    <desc>New Episode. Trio Week continues with each couple having to incorporate a third dancer, and someone goes home tonight! Who will it be?</desc>
   </programme>
   <programme channel="tv.27" start="20180604093000 +0000" stop="20180604103000 +0000">
     <title>Lost &amp; Found</title>
@@ -12935,7 +12977,7 @@
   </programme>
   <programme channel="tv.27" start="20180605020000 +0000" stop="20180605030000 +0000">
     <title>Dancing With The Stars</title>
-    <desc>Hosted by Dai Henwood and Sharyn Casey, Dancing with the Stars NZ sees 12 Kiwi stars and their professional dance partners battle it out to take home the coveted mirror-ball trophy and win for charity</desc>
+    <desc>New Episode. Trio Week continues with each couple having to incorporate a third dancer, and someone goes home tonight! Who will it be?</desc>
   </programme>
   <programme channel="tv.27" start="20180605030000 +0000" stop="20180605040000 +0000">
     <title>Wipeout</title>
@@ -23557,6 +23599,9 @@
   <programme channel="tv.51" start="20180601210000 +0000" stop="20180601220000 +0000">
     <title>Jono And Ben</title>
     <desc>Premiere. New Episode. Jono and Ben watch the Deadpool 2 trailer on repeat, hoping that Ryan Reynolds will call them. Plus, a game show in an elevator and a drunk interview with David Seymour. S4 Ep1</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.51" start="20180601220000 +0000" stop="20180602010000 +0000">
     <title>The Edge Fresh 40</title>
