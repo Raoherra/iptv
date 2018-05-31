@@ -15545,17 +15545,17 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200428" start="20180605093000 +0000" stop="20180605103000 +0000">
+    <title>Real, Fake or Unknown</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200428" start="20180605093000 +0000" stop="20180605100000 +0000">
     <title>The Big Bang Theory</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200428" start="20180605093000 +0000" stop="20180605103000 +0000">
-    <title>Real, Fake or Unknown</title>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180605100000 +0000" stop="20180605103000 +0000">
@@ -29183,13 +29183,13 @@
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180608040000 +0000" stop="20180608043000 +0000">
-    <title>Frasier</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180608040000 +0000" stop="20180608043000 +0000">
-    <title>Will &amp; Grace</title>
+    <title>Frasier</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -36918,11 +36918,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180531174630 +0000" stop="20180531181317 +0000">
-    <title>The Ripple Effect S2E2</title>
-    <desc>A group of technophiles fuse art, design, and technology to become the mouthpiece of the digital revolution.</desc>
-    <sub-title>Wired</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180531181317 +0000" stop="20180531194748 +0000">
     <title>Addicted to Life</title>
     <desc>The achievements of action sports athletes are celebrated in a collection of profiles.</desc>
@@ -38917,5 +38912,10 @@
     <title>Prime</title>
     <desc>Filmed in stunning locations around the world, elite wakeboarders take their sport to the next level.</desc>
     <sub-title>Wakeboarding Progression</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180606232840 +0000" stop="20180606235618 +0000">
+    <title>Follow the Steps S1E3</title>
+    <desc>Before the Austrian premiere of Flying Illusion, the newest members of the team tell their stories.</desc>
+    <sub-title>Austrian Opening</sub-title>
   </programme>
 </tv>
