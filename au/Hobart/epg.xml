@@ -1621,6 +1621,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180608140000 +0000" stop="20180608143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180531134300 +0000" stop="20180531140500 +0000">
     <title>Parks and Recreation</title>
     <rating system="Freeview">
@@ -13145,6 +13152,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204300433" start="20180608140000 +0000" stop="20180608143000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204300436" start="20180531114500 +0000" stop="20180531142800 +0000">
     <title>Hell to Eternity</title>
     <subtitles type="teletext"/>
@@ -18311,6 +18324,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180608140000 +0000" stop="20180608143000 +0000">
+    <title>Raceday Review: Swan Hill</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305030530" start="20180531133800 +0000" stop="20180531143500 +0000">
     <title>Autopsy</title>
     <subtitles type="teletext"/>
@@ -19467,6 +19487,13 @@
   </programme>
   <programme channel="tv.101305030530" start="20180608130000 +0000" stop="20180608140000 +0000">
     <title>To Be Advised</title>
+  </programme>
+  <programme channel="tv.101305030530" start="20180608140000 +0000" stop="20180608160000 +0000">
+    <title>An American Affair</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
   </programme>
   <programme channel="tv.101305030532" start="20180531133600 +0000" stop="20180531143400 +0000">
     <title>Bargain Hunt</title>
@@ -29256,13 +29283,13 @@
     </rating>
   </programme>
   <programme channel="tv.101406030638" start="20180608040000 +0000" stop="20180608043000 +0000">
-    <title>Frasier</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406030638" start="20180608040000 +0000" stop="20180608043000 +0000">
-    <title>Will &amp; Grace</title>
+    <title>Frasier</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -34951,6 +34978,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180608140000 +0000" stop="20180608143000 +0000">
+    <title>Good Eats</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180531131000 +0000" stop="20180531144000 +0000">
     <title>The Marngrook Footy Show</title>
     <rating system="Freeview">
@@ -36991,20 +37024,11 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180531203848 +0000" stop="20180531213142 +0000">
-    <title>Visions of Greatness S1E2</title>
-    <desc>Is it possible to be born great? Pianist Lang Lang and skier Mikaela Shiffrin were both child prodigies.</desc>
-    <sub-title>The Prodigies</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180531213142 +0000" stop="20180531215802 +0000">
-    <title>Ultimate Rush S5E7</title>
-    <desc>Danny MacAskill puts it all on the line while making his majestic mountain bike film, Wee Day Out.</desc>
-    <sub-title>Off the Rails</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180531215802 +0000" stop="20180531220231 +0000">
-    <title>Danny MacAskill in Scotland</title>
-    <desc>Danny MacAskill tears around rural Scotland, setting out to capture the simple fun of a ride in the country.</desc>
-    <sub-title>Wee Day Out</sub-title>
+  <programme channel="tv.320203000305" start="20180608140000 +0000" stop="20180608150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.redbull.tv" start="20180531220231 +0000" stop="20180531231718 +0000">
     <title>Gaming the Real World</title>
@@ -38990,5 +39014,20 @@
     <title>Going Straight Sideways S1E1</title>
     <desc>Mike Chen is a longtime WRC TV journalist, but now he’s trying out the driver’s seat.</desc>
     <sub-title>Journalist-Turned-Driver</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180607013202 +0000" stop="20180607014621 +0000">
+    <title>Going Straight Sideways S1E2</title>
+    <desc>To race in Rally GB, Mike Chen needs to get his competition licence. Then, it's time to meet his co-driver.</desc>
+    <sub-title>Licences and Pace Notes</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180607014621 +0000" stop="20180607020714 +0000">
+    <title>Reel Rock S3E1</title>
+    <desc>Will Stanhope and Matt Segal are a couple of loose cannons aiming at one of the world's hardest crack climbs.</desc>
+    <sub-title>Boys in the Bugs</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180607020714 +0000" stop="20180607021921 +0000">
+    <title>Unclimbed</title>
+    <desc>David Lama travelled to an incredibly remote valley in Nepal with a team attempting to climb the unclimbed.</desc>
+    <sub-title>Annapurna III</sub-title>
   </programme>
 </tv>
