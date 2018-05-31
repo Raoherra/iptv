@@ -15506,17 +15506,17 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200428" start="20180605093000 +0000" stop="20180605103000 +0000">
+    <title>Real, Fake or Unknown</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200428" start="20180605093000 +0000" stop="20180605100000 +0000">
     <title>The Big Bang Theory</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200428" start="20180605093000 +0000" stop="20180605103000 +0000">
-    <title>Real, Fake or Unknown</title>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180605100000 +0000" stop="20180605103000 +0000">
@@ -29178,13 +29178,13 @@
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180608043000 +0000" stop="20180608050000 +0000">
-    <title>Will &amp; Grace</title>
+    <title>Frasier</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180608043000 +0000" stop="20180608050000 +0000">
-    <title>Frasier</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -36901,16 +36901,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180531145659 +0000" stop="20180531152535 +0000">
-    <title>Fuse</title>
-    <desc>At Fuse, a nightclub in Brussels, Belgium, everyone has the same unwritten purpose: enjoying techno music.</desc>
-    <sub-title>The History of Belgium’s Premier Techno Club</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180531152535 +0000" stop="20180531155319 +0000">
-    <title>Red Bull Flugtag S2E3</title>
-    <desc>Fifty teams fly homemade flying craft around (and in!) Lake Zurich, Switzerland.</desc>
-    <sub-title>Zurich, Switzerland</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180531155319 +0000" stop="20180531162046 +0000">
     <title>UCI Mountain Bike World Cup 2018</title>
     <desc>Get all the cross-country action from the third stop of the MTB World Cup.</desc>
@@ -38900,5 +38890,15 @@
     <title>MTB RAW S1E7</title>
     <desc>Watch as Canada's two-wheeled talent Finn Iles rips an epic downhill zone in British Columbia.</desc>
     <sub-title>Finn Iles</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180606210917 +0000" stop="20180606211057 +0000">
+    <title>MTB RAW S1E8</title>
+    <desc>Acclaimed filmmaker Rupert Walker travels deep into the wilderness to capture Matty Miles shred his MTB. </desc>
+    <sub-title>Matt Miles</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180606211057 +0000" stop="20180606211237 +0000">
+    <title>MTB RAW S1E9</title>
+    <desc>Canadian mountain biker Mike Hopkins pushes the limits to rip some of the planet’s fastest trails. </desc>
+    <sub-title>Mike Hopkins</sub-title>
   </programme>
 </tv>
