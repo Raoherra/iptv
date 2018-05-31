@@ -10888,7 +10888,6 @@
   </programme>
   <programme channel="tv.101204500451" start="20180602080000 +0000" stop="20180602083000 +0000">
     <title>Getaway</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -10942,7 +10941,6 @@
   </programme>
   <programme channel="tv.101204500451" start="20180602180000 +0000" stop="20180602183000 +0000">
     <title>Getaway</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -11270,7 +11268,6 @@
   </programme>
   <programme channel="tv.101204500451" start="20180604153000 +0000" stop="20180604160000 +0000">
     <title>Postcards</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -11364,7 +11361,6 @@
   </programme>
   <programme channel="tv.101204500451" start="20180605073000 +0000" stop="20180605083000 +0000">
     <title>Millionaire Hot Seat</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -11528,7 +11524,6 @@
   </programme>
   <programme channel="tv.101204500451" start="20180606073000 +0000" stop="20180606083000 +0000">
     <title>Millionaire Hot Seat</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -12532,7 +12527,6 @@
   </programme>
   <programme channel="tv.101204500454" start="20180603183000 +0000" stop="20180603190000 +0000">
     <title>Postcards</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -12605,7 +12599,6 @@
   </programme>
   <programme channel="tv.101204500454" start="20180604030000 +0000" stop="20180604033000 +0000">
     <title>Postcards</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -13621,6 +13614,7 @@
   </programme>
   <programme channel="tv.101204500457" start="20180601173000 +0000" stop="20180601183100 +0000">
     <title>Walking the Himalayas</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -13810,7 +13804,6 @@
   </programme>
   <programme channel="tv.101204500457" start="20180603023000 +0000" stop="20180603030000 +0000">
     <title>Getaway</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -13908,7 +13901,6 @@
   </programme>
   <programme channel="tv.101204500457" start="20180603183000 +0000" stop="20180603190000 +0000">
     <title>Getaway</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -14289,7 +14281,19 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500457" start="20180605233000 +0000" stop="20180606010000 +0000">
+  <programme channel="tv.101204500457" start="20180605233000 +0000" stop="20180606000000 +0000">
+    <title>TV Shop - Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500457" start="20180606000000 +0000" stop="20180606003000 +0000">
+    <title>TV Shop - Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500457" start="20180606003000 +0000" stop="20180606010000 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
@@ -14461,7 +14465,19 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500457" start="20180606233000 +0000" stop="20180607010000 +0000">
+  <programme channel="tv.101204500457" start="20180606233000 +0000" stop="20180607000000 +0000">
+    <title>TV Shop - Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500457" start="20180607000000 +0000" stop="20180607003000 +0000">
+    <title>TV Shop - Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500457" start="20180607003000 +0000" stop="20180607010000 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
@@ -15720,7 +15736,7 @@
     <title>The Big Bang Theory</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204500458" start="20180604103000 +0000" stop="20180604110000 +0000">
@@ -15973,7 +15989,7 @@
     <title>The Big Bang Theory</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204500458" start="20180605100000 +0000" stop="20180605110000 +0000">
@@ -16927,35 +16943,42 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180531233000 +0000" stop="20180601000000 +0000">
+  <programme channel="tv.101305020528" start="20180531233000 +0000" stop="20180531234500 +0000">
+    <title>Trackwork</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180531234500 +0000" stop="20180601001500 +0000">
     <title>Ten of the Best - Rivalries</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180601000000 +0000" stop="20180601003000 +0000">
+  <programme channel="tv.101305020528" start="20180601001500 +0000" stop="20180601004500 +0000">
     <title>Tuesdays With Terry</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180601003000 +0000" stop="20180601010000 +0000">
+  <programme channel="tv.101305020528" start="20180601004500 +0000" stop="20180601011500 +0000">
     <title>After The Last</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180601010000 +0000" stop="20180601020000 +0000">
+  <programme channel="tv.101305020528" start="20180601011500 +0000" stop="20180601021500 +0000">
     <title>Get On!</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180601020000 +0000" stop="20180601064500 +0000">
+  <programme channel="tv.101305020528" start="20180601021500 +0000" stop="20180601064500 +0000">
     <title>Racing Live: Geelong</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -26048,14 +26071,14 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050655" start="20180531141000 +0000" stop="20180531151000 +0000">
+  <programme channel="tv.101406050655" start="20180531141000 +0000" stop="20180531150900 +0000">
     <title>The Project</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050655" start="20180531151000 +0000" stop="20180531160000 +0000">
+  <programme channel="tv.101406050655" start="20180531150900 +0000" stop="20180531160000 +0000">
     <title>The Late Show With Stephen Colbert</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -28799,9 +28822,9 @@
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180604093000 +0000" stop="20180604100000 +0000">
-    <title>To Be Advised</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180604100000 +0000" stop="20180604110000 +0000">
@@ -29013,9 +29036,9 @@
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180605053000 +0000" stop="20180605060000 +0000">
-    <title>To Be Advised</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180605060000 +0000" stop="20180605063000 +0000">
@@ -29064,9 +29087,9 @@
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180605093000 +0000" stop="20180605100000 +0000">
-    <title>To Be Advised</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180605100000 +0000" stop="20180605103000 +0000">
@@ -29283,9 +29306,9 @@
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180606053000 +0000" stop="20180606060000 +0000">
-    <title>To Be Advised</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180606060000 +0000" stop="20180606063000 +0000">
@@ -29334,9 +29357,9 @@
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180606093000 +0000" stop="20180606100000 +0000">
-    <title>To Be Advised</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180606100000 +0000" stop="20180606103000 +0000">
@@ -29560,9 +29583,9 @@
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180607053000 +0000" stop="20180607060000 +0000">
-    <title>To Be Advised</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180607060000 +0000" stop="20180607063000 +0000">
@@ -29611,9 +29634,9 @@
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180607093000 +0000" stop="20180607100000 +0000">
-    <title>To Be Advised</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180607100000 +0000" stop="20180607103000 +0000">
@@ -32258,14 +32281,8 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180605010000 +0000" stop="20180605011500 +0000">
+  <programme channel="tv.320203000302" start="20180605010000 +0000" stop="20180605013500 +0000">
     <title>NHK Japanese News</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000302" start="20180605011500 +0000" stop="20180605013500 +0000">
-    <title>Korean News</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -32342,7 +32359,13 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180605100000 +0000" stop="20180605103000 +0000">
+  <programme channel="tv.320203000302" start="20180605100000 +0000" stop="20180605100500 +0000">
+    <title>Are You Ready to Be 30?</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180605100500 +0000" stop="20180605103000 +0000">
     <title>Gadget Man</title>
     <rating system="Freeview">
       <value>G</value>
@@ -37288,26 +37311,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180531064352 +0000" stop="20180531072251 +0000">
-    <title>unReal</title>
-    <desc>Break free from the confines of everyday life and venture into a limitless world of wonder and potential.</desc>
-    <sub-title>Reality Is What You Make It</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180531072251 +0000" stop="20180531075051 +0000">
-    <title>Not2Bad</title>
-    <desc>Anthill Films' sequel to Not Bad is a double dose of freestyle mountain biking and tomfoolery.</desc>
-    <sub-title>More Epic Tomfoolery in Spain</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180531075051 +0000" stop="20180531075719 +0000">
-    <title>The Rise of Korean R&amp;B</title>
-    <desc>Gallant, a GRAMMY-nominated artist, explores South Korea's emerging R&amp;B scene.</desc>
-    <sub-title>Seoul Music</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180531075719 +0000" stop="20180531080026 +0000">
-    <title>Corner Boy</title>
-    <desc>To a delightfully folksy tune, follow a man combing his seemingly abandoned town for discarded treasures.</desc>
-    <sub-title>Ghost Town City: Music Video</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180531080026 +0000" stop="20180531082825 +0000">
     <title>UCI Mountain Bike World Cup 2018</title>
     <desc>Get all the race action as well as stories about the athletes. </desc>
@@ -39287,5 +39290,25 @@
     <title>Going Straight Sideways S1E1</title>
     <desc>Mike Chen is a longtime WRC TV journalist, but now he’s trying out the driver’s seat.</desc>
     <sub-title>Journalist-Turned-Driver</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180606162427 +0000" stop="20180606163846 +0000">
+    <title>Going Straight Sideways S1E2</title>
+    <desc>To race in Rally GB, Mike Chen needs to get his competition licence. Then, it's time to meet his co-driver.</desc>
+    <sub-title>Licences and Pace Notes</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180606163846 +0000" stop="20180606165940 +0000">
+    <title>Reel Rock S3E1</title>
+    <desc>Will Stanhope and Matt Segal are a couple of loose cannons aiming at one of the world's hardest crack climbs.</desc>
+    <sub-title>Boys in the Bugs</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180606165940 +0000" stop="20180606171146 +0000">
+    <title>Unclimbed</title>
+    <desc>David Lama travelled to an incredibly remote valley in Nepal with a team attempting to climb the unclimbed.</desc>
+    <sub-title>Annapurna III</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180606171146 +0000" stop="20180606180759 +0000">
+    <title>Visions of Greatness S1E6</title>
+    <desc>Experience the madness of creativity with Jane's Addiction frontman Perry Farrell and photographer Mick Rock.</desc>
+    <sub-title>The Wild Ones</sub-title>
   </programme>
 </tv>
