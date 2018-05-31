@@ -15583,17 +15583,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500458" start="20180605100000 +0000" stop="20180605110000 +0000">
-    <title>Real, Fake or Unknown</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204500458" start="20180605100000 +0000" stop="20180605103000 +0000">
     <title>The Big Bang Theory</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500458" start="20180605100000 +0000" stop="20180605110000 +0000">
+    <title>Real, Fake or Unknown</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204500458" start="20180605103000 +0000" stop="20180605110000 +0000">
@@ -36978,11 +36978,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180531124825 +0000" stop="20180531134404 +0000">
-    <title>Locked In</title>
-    <desc>Ben Stookesberry and a group of kayakers attempt a first descent of the Beriman River in Papua New Guinea.</desc>
-    <sub-title>First Descent of the Beriman Gorge</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180531134404 +0000" stop="20180531145659 +0000">
     <title>Pretty Sweet</title>
     <desc>Skateboarding's two hottest teams, Girl and Chocolate, combine forces to deliver a blockbuster skate movie.</desc>
@@ -38977,5 +38972,10 @@
     <title>MTB RAW S1E5</title>
     <desc>Get an an education in ‘flow’ from one of the most stylish riders on earth, Brendan Howey. </desc>
     <sub-title>Brendan Howey</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180606210556 +0000" stop="20180606210741 +0000">
+    <title>MTB RAW S1E6</title>
+    <desc>Enjoy the silky skills of Enduro World Series racer Cody Kelley as he floats through the night in Utah, USA.</desc>
+    <sub-title>Cody Kelley</sub-title>
   </programme>
 </tv>
