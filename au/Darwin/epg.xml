@@ -8937,17 +8937,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002810281" start="20180530165800 +0000" stop="20180530175700 +0000">
-    <title>National Press Club Address</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002810281" start="20180530165800 +0000" stop="20180530175700 +0000">
     <title>Big Name No Blanket</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002810281" start="20180530165800 +0000" stop="20180530175700 +0000">
+    <title>National Press Club Address</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002810281" start="20180530175700 +0000" stop="20180530185800 +0000">
@@ -37245,11 +37245,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180531095411 +0000" stop="20180531102051 +0000">
-    <title>The Ripple Effect S2E2</title>
-    <desc>A group of technophiles fuse art, design, and technology to become the mouthpiece of the digital revolution.</desc>
-    <sub-title>Wired</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180531102051 +0000" stop="20180531115522 +0000">
     <title>Addicted to Life</title>
     <desc>The achievements of action sports athletes are celebrated in a collection of profiles.</desc>
@@ -39244,5 +39239,10 @@
     <title>Paying the Price</title>
     <desc>Follow Toby Price’s emotional journey from simple country kid to Australia’s first Dakar Rally champion.</desc>
     <sub-title>Taking on the World's Toughest Enduro Race</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180606205902 +0000" stop="20180606210042 +0000">
+    <title>MTB RAW S1E1</title>
+    <desc>Brandon Semenuk, pushes both his own creativity and that of acclaimed filmmaker Rupert Walker to new heights.</desc>
+    <sub-title>Brandon Semenuk Part 1</sub-title>
   </programme>
 </tv>
