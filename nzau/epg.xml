@@ -280,26 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180601194801 +0000" stop="20180601201428 +0000">
-    <title>Rise of the Bullet</title>
-    <desc>After becoming three-time world champ in MX2, watch how Jeffrey Herlings fares while competing in MX1. </desc>
-    <sub-title>Jeffrey Herlings Takes on MX1</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180601201428 +0000" stop="20180601202653 +0000">
-    <title>Dedicate S1E1</title>
-    <desc>The skydiving record book gets turned on its head with an attempt to have 65 women fly upside down together.</desc>
-    <sub-title>Women's Skydive Record</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180601202653 +0000" stop="20180601203432 +0000">
-    <title>Dedicate S1E2</title>
-    <desc>Jacques de Vos heads to Tromsø, Norway, to realise his childhood dream of photographing orca while freediving.</desc>
-    <sub-title>Diving Free</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180601203432 +0000" stop="20180601210211 +0000">
-    <title>Return to Nazaré</title>
-    <desc>After nearly losing her life on the huge waves in Nazaré, Portugal, Maya Gabeira battles back to try again.</desc>
-    <sub-title>Maya Gabeira's Triumphant Comeback</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180601210211 +0000" stop="20180601215738 +0000">
     <title>Locked In</title>
     <desc>Ben Stookesberry and a group of kayakers attempt a first descent of the Beriman River in Papua New Guinea.</desc>
@@ -57152,7 +57132,8 @@
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180607133000 +0000" stop="20180607143000 +0000">
-    <title>WWE Raw</title>
+    <title>Love Island Australia</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -60024,10 +60005,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180607232900 +0000" stop="20180608002600 +0000">
-    <title>Melbourne International 3 Day Event</title>
+  <programme channel="tv.101305020522" start="20180607232900 +0000" stop="20180608002700 +0000">
+    <title>House Calls to the Rescue</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180608002600 +0000" stop="20180608012500 +0000">
@@ -60937,8 +60919,8 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180605040400 +0000" stop="20180605043100 +0000">
-    <title>Cajun Pawn Stars</title>
+  <programme channel="tv.101305020523" start="20180605040400 +0000" stop="20180605050100 +0000">
+    <title>American Pickers</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -61665,7 +61647,8 @@
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180609000000 +0000" stop="20180609010000 +0000">
-    <title>Ice Road Truckers</title>
+    <title>Big Australia</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
