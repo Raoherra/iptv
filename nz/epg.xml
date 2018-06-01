@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180601024307 +0000" stop="20180601030947 +0000">
-    <title>The Ripple Effect S2E2</title>
-    <desc>A group of technophiles fuse art, design, and technology to become the mouthpiece of the digital revolution.</desc>
-    <sub-title>Wired</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180601030947 +0000" stop="20180601044330 +0000">
     <title>Addicted to Life</title>
     <desc>The achievements of action sports athletes are celebrated in a collection of profiles.</desc>
@@ -15183,6 +15178,9 @@
   <programme channel="tv.28" start="20180602013000 +0000" stop="20180602023000 +0000">
     <title>NRL Try Time</title>
     <desc>Missed the latest NRL action? Lara Pitt showcases the best tries from the NRL Telstra Premiership in a jam-packed hour. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180602023000 +0000" stop="20180602030000 +0000">
     <title>Storage Hunters</title>
@@ -15332,6 +15330,9 @@
   <programme channel="tv.28" start="20180603010000 +0000" stop="20180603020000 +0000">
     <title>Haati Grassroots Rugby</title>
     <desc>Join Haati Grassroots Rugby for a showcase of club rugby matches and homegrown stories from some of the 600 rugby clubs throughout New Zealand. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180603020000 +0000" stop="20180603023000 +0000">
     <title>Mad About You</title>
@@ -15776,9 +15777,6 @@
   <programme channel="tv.28" start="20180605063000 +0000" stop="20180605070000 +0000">
     <title>Pawn Stars</title>
     <desc>'Chumlee and Olivia are offered a sculpture by Salvador Dali. Without any proof of authenticity, will they take a night shift risk? G'</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.28" start="20180605070000 +0000" stop="20180605073000 +0000">
     <title>The Crowd Goes Wild</title>
