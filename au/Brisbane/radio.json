@@ -1,4 +1,21 @@
 {
+    "radio.ih.7103": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7103.png",
+        "name": "2RS",
+        "description": "The Ultimate 80s to Now Station!",
+        "genres": [
+            "Popular Artists",
+            "Rock",
+            "Top 40 & Pop",
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7103|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
     "radio.ih.6711": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6711.png",
         "name": "4BC Brisbane",
@@ -536,22 +553,6 @@
             "News & Talk"
         ],
         "url": "http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7027.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
-        }
-    },
-    "radio.ih.7103": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7103.png",
-        "name": "Show Radio",
-        "description": "AFTRS Live from the Royal Easter Show",
-        "genres": [
-            "College Radio",
-            "Kids & Family",
-            "Country"
-        ],
-        "url": "http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7103|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "codec": "aac",
             "channels": 2,
