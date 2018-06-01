@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180601210211 +0000" stop="20180601215738 +0000">
-    <title>Locked In</title>
-    <desc>Ben Stookesberry and a group of kayakers attempt a first descent of the Beriman River in Papua New Guinea.</desc>
-    <sub-title>First Descent of the Beriman Gorge</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180601215738 +0000" stop="20180601231103 +0000">
     <title>Pretty Sweet</title>
     <desc>Skateboarding's two hottest teams, Girl and Chocolate, combine forces to deliver a blockbuster skate movie.</desc>
@@ -42944,6 +42939,12 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180609140000 +0000" stop="20180609141500 +0000">
+    <title>ABC Late News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180601133700 +0000" stop="20180601140600 +0000">
     <title>The Weekly With Charlie Pickering</title>
     <subtitles type="teletext"/>
@@ -54356,6 +54357,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200424" start="20180609140000 +0000" stop="20180609150000 +0000">
+    <title>Hotel Impossible</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200427" start="20180601133700 +0000" stop="20180601143200 +0000">
     <title>A.D. Kingdom And Empire</title>
     <subtitles type="teletext"/>
@@ -55593,6 +55600,13 @@
   </programme>
   <programme channel="tv.101204200427" start="20180609113000 +0000" stop="20180609140000 +0000">
     <title>The Spy Who Loved Me</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200427" start="20180609140000 +0000" stop="20180609150000 +0000">
+    <title>Cold Case</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -57132,8 +57146,7 @@
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180607133000 +0000" stop="20180607143000 +0000">
-    <title>Love Island Australia</title>
-    <subtitles type="teletext"/>
+    <title>WWE Raw</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -60005,11 +60018,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180607232900 +0000" stop="20180608002700 +0000">
-    <title>House Calls to the Rescue</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020522" start="20180607232900 +0000" stop="20180608002600 +0000">
+    <title>Melbourne International 3 Day Event</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180608002600 +0000" stop="20180608012500 +0000">
@@ -60919,8 +60931,8 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180605040400 +0000" stop="20180605050100 +0000">
-    <title>American Pickers</title>
+  <programme channel="tv.101305020523" start="20180605040400 +0000" stop="20180605043100 +0000">
+    <title>Cajun Pawn Stars</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -65192,6 +65204,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180609140000 +0000" stop="20180609144500 +0000">
+    <title>Raceday Review - Flemington</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406020621" start="20180601130000 +0000" stop="20180601140000 +0000">
     <title>NCIS: Los Angeles</title>
     <subtitles type="teletext"/>
@@ -66692,6 +66711,13 @@
     </rating>
   </programme>
   <programme channel="tv.101406020621" start="20180609130000 +0000" stop="20180609140000 +0000">
+    <title>NCIS</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020621" start="20180609140000 +0000" stop="20180609150000 +0000">
     <title>NCIS</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -70102,7 +70128,7 @@
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180608040000 +0000" stop="20180608043000 +0000">
-    <title>Will &amp; Grace</title>
+    <title>Frasier</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -76013,6 +76039,12 @@
     <title>Mystery Diners</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180609140000 +0000" stop="20180609143000 +0000">
+    <title>Good Eats</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20180601130500 +0000" stop="20180601140000 +0000">
