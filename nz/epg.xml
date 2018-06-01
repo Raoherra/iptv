@@ -161,21 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180601030947 +0000" stop="20180601044330 +0000">
-    <title>Addicted to Life</title>
-    <desc>The achievements of action sports athletes are celebrated in a collection of profiles.</desc>
-    <sub-title>Inside the Mind of an Action Sports Athlete</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180601044330 +0000" stop="20180601045241 +0000">
-    <title>Doppelgangers S1E3</title>
-    <desc>This unique activity isn't quite the same kind of bouldering that's most known, but it's similar.</desc>
-    <sub-title>Bouldering</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180601045241 +0000" stop="20180601050129 +0000">
-    <title>Who is JOB S5E3</title>
-    <desc>A big swell hits Jaws, Hawaii’s legendary wave break, so Jamie O'Brien and the crew take advantage.</desc>
-    <sub-title>Giant Jaws on Odd Boards</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180601050129 +0000" stop="20180601055510 +0000">
     <title>South to Sian</title>
     <desc>Harrison Roach and Zye Norris set out to see if the dream of a true pioneering surf adventure is still alive.</desc>
@@ -2483,7 +2468,7 @@
   </programme>
   <programme channel="tv.9" start="20180602223000 +0000" stop="20180602230000 +0000">
     <title>Waka Huia</title>
-    <desc>Professor Kalani Meinecke reveals the many similarities between her people of Hawai’i and Aotearoa, similarities which may prove an eye opener to Māori.</desc>
+    <desc>Moka Puru (Ngapuhi), who carved the pou whenua for the 1975 Maori land march, reveals how marrying the daughter of Dame Whina Cooper made him the man he is today.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -2887,6 +2872,9 @@
   <programme channel="tv.9" start="20180605210000 +0000" stop="20180605220000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Rebel Wilson.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180605220000 +0000" stop="20180605230000 +0000">
     <title>Tipping Point</title>
@@ -2916,10 +2904,16 @@
   <programme channel="tv.9" start="20180606010000 +0000" stop="20180606020000 +0000">
     <title>Tiny House Nation</title>
     <desc>John Weisbarth and Zack Giffin travel across America showing off ingenious small spaces and the inventive people who live in them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180606020000 +0000" stop="20180606030000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Rebel Wilson.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180606030000 +0000" stop="20180606040000 +0000">
     <title>Tipping Point</title>
@@ -2935,6 +2929,9 @@
   <programme channel="tv.9" start="20180606043000 +0000" stop="20180606045500 +0000">
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180606045500 +0000" stop="20180606060000 +0000">
     <title>The Chase</title>
@@ -3143,6 +3140,9 @@
   <programme channel="tv.9" start="20180607210000 +0000" stop="20180607220000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Ewan McGregor.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180607220000 +0000" stop="20180607230000 +0000">
     <title>Tipping Point</title>
@@ -3179,6 +3179,9 @@
   <programme channel="tv.9" start="20180608020000 +0000" stop="20180608030000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Ewan McGregor.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180608030000 +0000" stop="20180608040000 +0000">
     <title>Tipping Point</title>
@@ -4609,6 +4612,9 @@
   <programme channel="tv.10" start="20180605053000 +0000" stop="20180605060000 +0000">
     <title>Home And Away</title>
     <desc>Can Tori and Ash give their relationship another go? Maggie’s goodbye letters are discovered. Alf tries to help Robbo find a purpose in life.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180605060000 +0000" stop="20180605063000 +0000">
     <title>The Big Bang Theory</title>
@@ -4862,6 +4868,9 @@
   <programme channel="tv.10" start="20180606011000 +0000" stop="20180606020500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180606020500 +0000" stop="20180606023500 +0000">
     <title>Home Improvement</title>
@@ -4873,6 +4882,9 @@
   <programme channel="tv.10" start="20180606023500 +0000" stop="20180606030500 +0000">
     <title>Home And Away</title>
     <desc>Can Tori and Ash give their relationship another go? Maggie’s goodbye letters are discovered. Alf tries to help Robbo find a purpose in life.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180606030500 +0000" stop="20180606033500 +0000">
     <title>Shortland Street</title>
@@ -4891,6 +4903,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180606040000 +0000" stop="20180606043000 +0000">
     <title>Fanimals</title>
@@ -4916,6 +4931,9 @@
   <programme channel="tv.10" start="20180606053000 +0000" stop="20180606060000 +0000">
     <title>Home And Away</title>
     <desc>Mason and Hunter are promoting the Singles Mingle at Salt. Ziggy finds motivation from Maggie’s letter to propose to Brody. The Astoni’s deal with the fallout from Maggie’s letters</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180606060000 +0000" stop="20180606063000 +0000">
     <title>The Big Bang Theory</title>
@@ -5013,6 +5031,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180606131000 +0000" stop="20180606133500 +0000">
     <title>Shortland Street</title>
@@ -5049,6 +5070,9 @@
   <programme channel="tv.10" start="20180606161500 +0000" stop="20180606170500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180606170500 +0000" stop="20180606173000 +0000">
     <title>Neighbours</title>
@@ -5177,6 +5201,9 @@
   <programme channel="tv.10" start="20180607023500 +0000" stop="20180607030500 +0000">
     <title>Home And Away</title>
     <desc>Mason and Hunter are promoting the Singles Mingle at Salt. Ziggy finds motivation from Maggie’s letter to propose to Brody. The Astoni’s deal with the fallout from Maggie’s letters</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180607030500 +0000" stop="20180607033500 +0000">
     <title>Shortland Street</title>
@@ -5465,6 +5492,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180608040000 +0000" stop="20180608043000 +0000">
     <title>Fanimals</title>
@@ -5519,6 +5549,9 @@
       <stereo>dolby</stereo>
     </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180608080000 +0000" stop="20180608083000 +0000">
     <title>The New Legends Of Monkey</title>
@@ -5527,10 +5560,16 @@
       <stereo>dolby</stereo>
     </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180608083000 +0000" stop="20180608093000 +0000">
     <title>Make You Laugh Out Loud</title>
     <desc>Iain Lee narrates a collection of comic clips featuring kids that have taken the internet by storm, inlcuding Sassy six-year-old Johanna belts out her version of Aretha Franklyn's Respect.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180608093000 +0000" stop="20180608103000 +0000">
     <title>Alan Carr: Yap Yap Yap</title>
@@ -5672,6 +5711,9 @@
   <programme channel="tv.11" start="20180601090000 +0000" stop="20180601094500 +0000">
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Hayley Sproull, Bryce Casey, Joel Creasey and Rhys Mathewson.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180601094500 +0000" stop="20180601101500 +0000">
     <title>Funny Girls</title>
@@ -6079,11 +6121,11 @@
     <title>The Hui</title>
     <desc>Mihingarangi Forbes presents a compelling mix of current affairs investigations, human interest and arts and culture stories.</desc>
   </programme>
-  <programme channel="tv.11" start="20180604111500 +0000" stop="20180604122000 +0000">
+  <programme channel="tv.11" start="20180604111500 +0000" stop="20180604121500 +0000">
     <title>Newshub Nation</title>
     <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
   </programme>
-  <programme channel="tv.11" start="20180604122000 +0000" stop="20180604170000 +0000">
+  <programme channel="tv.11" start="20180604121500 +0000" stop="20180604170000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -6190,14 +6232,14 @@
     <title>The Project</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
-  <programme channel="tv.11" start="20180605073000 +0000" stop="20180605083500 +0000">
+  <programme channel="tv.11" start="20180605073000 +0000" stop="20180605083000 +0000">
     <title>Grand Designs UK</title>
     <desc>New Episode. Kevin visits a house belonging to engineer Stephen Tetlow that resembles a giant snake. S15 Ep6</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180605083500 +0000" stop="20180605093000 +0000">
+  <programme channel="tv.11" start="20180605083000 +0000" stop="20180605092500 +0000">
     <title>NCIS</title>
     <desc>New Episode. A petty officer is found murdered on a golf course and McGee tries to locate a key witness by spending hours on the victim's ham radio. S15 Ep6</desc>
     <audio>
@@ -6207,7 +6249,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180605093000 +0000" stop="20180605102000 +0000">
+  <programme channel="tv.11" start="20180605092500 +0000" stop="20180605102000 +0000">
     <title>SVU: Special Victims Unit</title>
     <desc>New Episode. The SVU must break through military red tape when a soldier is suspected of sexual assault. S19 Ep18</desc>
     <audio>
@@ -6221,7 +6263,7 @@
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.11" start="20180605105000 +0000" stop="20180605115000 +0000">
+  <programme channel="tv.11" start="20180605105000 +0000" stop="20180605114000 +0000">
     <title>Chicago P.D.</title>
     <desc>New Episode. Roman and Burgess discover the corpse of a young boy who was reported missing and Burgess talks to Ruzek about Roman's suspicious behaviour. S3 Ep2</desc>
     <audio>
@@ -6231,7 +6273,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180605115000 +0000" stop="20180605170000 +0000">
+  <programme channel="tv.11" start="20180605114000 +0000" stop="20180605170000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -9879,7 +9921,7 @@
   </programme>
   <programme channel="tv.38" start="20180602233000 +0000" stop="20180603000000 +0000">
     <title>Waka Huia</title>
-    <desc>Professor Kalani Meinecke reveals the many similarities between her people of Hawai’i and Aotearoa, similarities which may prove an eye opener to Māori.</desc>
+    <desc>Moka Puru (Ngapuhi), who carved the pou whenua for the 1975 Maori land march, reveals how marrying the daughter of Dame Whina Cooper made him the man he is today.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -10283,6 +10325,9 @@
   <programme channel="tv.38" start="20180605220000 +0000" stop="20180605230000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Rebel Wilson.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180605230000 +0000" stop="20180606000000 +0000">
     <title>Tipping Point</title>
@@ -10312,10 +10357,16 @@
   <programme channel="tv.38" start="20180606020000 +0000" stop="20180606030000 +0000">
     <title>Tiny House Nation</title>
     <desc>John Weisbarth and Zack Giffin travel across America showing off ingenious small spaces and the inventive people who live in them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180606030000 +0000" stop="20180606040000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Rebel Wilson.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180606040000 +0000" stop="20180606050000 +0000">
     <title>Tipping Point</title>
@@ -10331,6 +10382,9 @@
   <programme channel="tv.38" start="20180606053000 +0000" stop="20180606055500 +0000">
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180606055500 +0000" stop="20180606070000 +0000">
     <title>The Chase</title>
@@ -10539,6 +10593,9 @@
   <programme channel="tv.38" start="20180607220000 +0000" stop="20180607230000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Ewan McGregor.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180607230000 +0000" stop="20180608000000 +0000">
     <title>Tipping Point</title>
@@ -10575,6 +10632,9 @@
   <programme channel="tv.38" start="20180608030000 +0000" stop="20180608040000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Ewan McGregor.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180608040000 +0000" stop="20180608050000 +0000">
     <title>Tipping Point</title>
@@ -11848,6 +11908,9 @@
   <programme channel="tv.14" start="20180605063000 +0000" stop="20180605070000 +0000">
     <title>Home And Away</title>
     <desc>Can Tori and Ash give their relationship another go? Maggie’s goodbye letters are discovered. Alf tries to help Robbo find a purpose in life.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180605070000 +0000" stop="20180605073000 +0000">
     <title>The Big Bang Theory</title>
@@ -12074,6 +12137,9 @@
   <programme channel="tv.14" start="20180606021000 +0000" stop="20180606030500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180606030500 +0000" stop="20180606033500 +0000">
     <title>Home Improvement</title>
@@ -12085,6 +12151,9 @@
   <programme channel="tv.14" start="20180606033500 +0000" stop="20180606040500 +0000">
     <title>Home And Away</title>
     <desc>Can Tori and Ash give their relationship another go? Maggie’s goodbye letters are discovered. Alf tries to help Robbo find a purpose in life.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180606040500 +0000" stop="20180606043500 +0000">
     <title>Shortland Street</title>
@@ -12097,6 +12166,9 @@
   <programme channel="tv.14" start="20180606043500 +0000" stop="20180606050000 +0000">
     <title>K.C. Undercover</title>
     <desc>K.C. decides to save Ernie since it was her fault the barbecue failed. They learn the Bishops have planted listening devices and someone called the "The Mask" wants the weapons sold.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180606050000 +0000" stop="20180606053000 +0000">
     <title>Fanimals</title>
@@ -12119,6 +12191,9 @@
   <programme channel="tv.14" start="20180606063000 +0000" stop="20180606070000 +0000">
     <title>Home And Away</title>
     <desc>Mason and Hunter are promoting the Singles Mingle at Salt. Ziggy finds motivation from Maggie’s letter to propose to Brody. The Astoni’s deal with the fallout from Maggie’s letters</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180606070000 +0000" stop="20180606073000 +0000">
     <title>The Big Bang Theory</title>
@@ -12195,6 +12270,9 @@
   <programme channel="tv.14" start="20180606132500 +0000" stop="20180606141000 +0000">
     <title>Private Practice</title>
     <desc>Cooper returns to the online dating game with surprising results, Addison goes out on a date with one of Violet's patients, and Naomi and Sam make a house call at a convent.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180606141000 +0000" stop="20180606143500 +0000">
     <title>Shortland Street</title>
@@ -12225,6 +12303,9 @@
   <programme channel="tv.14" start="20180606171500 +0000" stop="20180606180500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180606180500 +0000" stop="20180606183000 +0000">
     <title>Neighbours</title>
@@ -12350,6 +12431,9 @@
   <programme channel="tv.14" start="20180607033500 +0000" stop="20180607040500 +0000">
     <title>Home And Away</title>
     <desc>Mason and Hunter are promoting the Singles Mingle at Salt. Ziggy finds motivation from Maggie’s letter to propose to Brody. The Astoni’s deal with the fallout from Maggie’s letters</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180607040500 +0000" stop="20180607043500 +0000">
     <title>Shortland Street</title>
@@ -12608,6 +12692,9 @@
   <programme channel="tv.14" start="20180608043500 +0000" stop="20180608050000 +0000">
     <title>K.C. Undercover</title>
     <desc>K.C. struggles to decide if she should continue as a full time spy or live a normal life at college.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180608050000 +0000" stop="20180608053000 +0000">
     <title>Fanimals</title>
@@ -12653,15 +12740,24 @@
     <title>The Simpsons</title>
     <desc>S29 E14 Bart goes to prankster rehab after a clown-mask prank terrifies the town and destroys Krusty’s career. A tortured Krusty then tries his hand at serious drama with a regional theatre company.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180608090000 +0000" stop="20180608093000 +0000">
     <title>The New Legends Of Monkey</title>
     <desc>S1 Ep7 The shaman hires nightmarish forest dwellers to hunt the group down; a foe from Monkey's past sows seeds of doubt in Tripitaka's mind.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180608093000 +0000" stop="20180608103000 +0000">
     <title>Make You Laugh Out Loud</title>
     <desc>Iain Lee narrates a collection of comic clips featuring kids that have taken the internet by storm, inlcuding Sassy six-year-old Johanna belts out her version of Aretha Franklyn's Respect.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180608103000 +0000" stop="20180608113000 +0000">
     <title>Alan Carr: Yap Yap Yap</title>
@@ -20171,10 +20267,16 @@
   <programme channel="tv.55" start="20180608080000 +0000" stop="20180608083000 +0000">
     <title>New: Live Pd Police Patrol</title>
     <desc>This program shows the actions and investigations of police forces across America. Ride along with six diverse police departments for a transparent look at law enforcement on duty.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180608083000 +0000" stop="20180608104000 +0000">
     <title>Movie: Blade Runner</title>
     <desc>A modified version of the original sci-fi adventure set in the future about an ex-Blade runner enlisted to find four genetically-engineered 'humans'.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180608104000 +0000" stop="20180608114000 +0000">
     <title>Air Crash Disaster</title>
