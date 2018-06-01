@@ -15632,17 +15632,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500458" start="20180605100000 +0000" stop="20180605110000 +0000">
-    <title>Real, Fake or Unknown</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204500458" start="20180605100000 +0000" stop="20180605103000 +0000">
     <title>The Big Bang Theory</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500458" start="20180605100000 +0000" stop="20180605110000 +0000">
+    <title>Real, Fake or Unknown</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204500458" start="20180605103000 +0000" stop="20180605110000 +0000">
@@ -20466,17 +20466,17 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20180605005700 +0000" stop="20180605020100 +0000">
-    <title>Melbourne International 3 Day Event</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050552" start="20180605005700 +0000" stop="20180605020400 +0000">
     <title>The Great Outdoors</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050552" start="20180605005700 +0000" stop="20180605020100 +0000">
+    <title>Melbourne International 3 Day Event</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20180605020100 +0000" stop="20180605043100 +0000">
@@ -37126,11 +37126,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180601014842 +0000" stop="20180601024307 +0000">
-    <title>Visions of Greatness S1E3</title>
-    <desc>At the pinnacle of performance, natural ability only goes so far. Drive separates the good from the great.</desc>
-    <sub-title>The Driven</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180601024307 +0000" stop="20180601030947 +0000">
     <title>The Ripple Effect S2E2</title>

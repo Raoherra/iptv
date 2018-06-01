@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180601014842 +0000" stop="20180601024307 +0000">
-    <title>Visions of Greatness S1E3</title>
-    <desc>At the pinnacle of performance, natural ability only goes so far. Drive separates the good from the great.</desc>
-    <sub-title>The Driven</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180601024307 +0000" stop="20180601030947 +0000">
     <title>The Ripple Effect S2E2</title>
     <desc>A group of technophiles fuse art, design, and technology to become the mouthpiece of the digital revolution.</desc>
@@ -6715,10 +6710,16 @@
   <programme channel="tv.12" start="20180601073300 +0000" stop="20180601073500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180601073500 +0000" stop="20180601083000 +0000">
     <title>Catfish</title>
     <desc>Danny wants to build a family with his online love in spite of her violent past, but Nev and Max discover possible ties to a former catfish.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180601083000 +0000" stop="20180601105800 +0000">
     <title>Shakespeare In Love</title>
@@ -6730,6 +6731,9 @@
   <programme channel="tv.12" start="20180601105800 +0000" stop="20180601110000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180601110000 +0000" stop="20180601115000 +0000">
     <title>Killer Couples</title>
@@ -6774,6 +6778,9 @@
   <programme channel="tv.12" start="20180601225300 +0000" stop="20180601225500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180601225500 +0000" stop="20180601232500 +0000">
     <title>Say Yes To The Dress Atlanta</title>
@@ -6798,7 +6805,7 @@
   </programme>
   <programme channel="tv.12" start="20180602002000 +0000" stop="20180602004800 +0000">
     <title>Say Yes To The Dress Atlanta</title>
-    <desc>Bride Zelda reveals that she hasn't seen her fianc‚ in 12 YEARS, much to the shock of her unknowing family. With the mood drastically changed, will anything improve this appointment? S7 Ep18</desc>
+    <desc>Bride Zelda reveals that she hasn't seen her fiance in 12 YEARS, much to the shock of her unknowing family. With the mood drastically changed, will anything improve this appointment? S7 Ep18</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -6806,6 +6813,9 @@
   <programme channel="tv.12" start="20180602004800 +0000" stop="20180602005000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180602005000 +0000" stop="20180602015000 +0000">
     <title>Back With The Ex</title>
@@ -6824,6 +6834,9 @@
   <programme channel="tv.12" start="20180602024300 +0000" stop="20180602024500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180602024500 +0000" stop="20180602034500 +0000">
     <title>Sell It Like Serhant</title>
@@ -6856,6 +6869,9 @@
   <programme channel="tv.12" start="20180602063000 +0000" stop="20180602073000 +0000">
     <title>The Getaway</title>
     <desc>Actor Ryan Kwanten eats, drinks and surfs his way through Los Angeles.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180602073000 +0000" stop="20180602082800 +0000">
     <title>Below Deck</title>
@@ -6867,6 +6883,9 @@
   <programme channel="tv.12" start="20180602082800 +0000" stop="20180602083000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180602083000 +0000" stop="20180602090000 +0000">
     <title>Life Of Kylie</title>
@@ -6882,21 +6901,21 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180602093000 +0000" stop="20180602103000 +0000">
+  <programme channel="tv.12" start="20180602093000 +0000" stop="20180602104000 +0000">
     <title>Southern Charm</title>
     <desc>Emotions run high during the gang's first night in Hilton Head, when Ashley confronts Kathryn. After the group is forced to pick sides, everyone is walking on eggshells for the rest of the weekend.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180602103000 +0000" stop="20180602121500 +0000">
+  <programme channel="tv.12" start="20180602104000 +0000" stop="20180602122500 +0000">
     <title>Final Appeal</title>
     <desc>Brian and Loni head to North Carolina to reexamine the case against Dontae Sharpe, who has maintained his innocence since 1994.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180602121500 +0000" stop="20180602170000 +0000">
+  <programme channel="tv.12" start="20180602122500 +0000" stop="20180602170000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -6945,6 +6964,9 @@
   <programme channel="tv.12" start="20180602215300 +0000" stop="20180602215500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180602215500 +0000" stop="20180602224000 +0000">
     <title>I'm Having Their Baby</title>
@@ -6963,10 +6985,16 @@
   <programme channel="tv.12" start="20180602233000 +0000" stop="20180603000800 +0000">
     <title>Catfish</title>
     <desc>Danny wants to build a family with his online love in spite of her violent past, but Nev and Max discover possible ties to a former catfish.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180603000800 +0000" stop="20180603001000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180603001000 +0000" stop="20180603015500 +0000">
     <title>Final Appeal</title>
@@ -7006,6 +7034,9 @@
   <programme channel="tv.12" start="20180603034800 +0000" stop="20180603035000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180603035000 +0000" stop="20180603045000 +0000">
     <title>I'm Having Their Baby</title>
@@ -7031,6 +7062,9 @@
   <programme channel="tv.12" start="20180603064000 +0000" stop="20180603073500 +0000">
     <title>Catfish</title>
     <desc>Frustrated by several failed attempts to video chat with Shai, Telizza turns to Nev and Max to uncover the truth.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180603073500 +0000" stop="20180603083500 +0000">
     <title>Making A Model With Yolanda Hadid</title>
@@ -7041,7 +7075,7 @@
   </programme>
   <programme channel="tv.12" start="20180603083500 +0000" stop="20180603094000 +0000">
     <title>Back With The Ex</title>
-    <desc></desc>
+    <desc>After spending a week together, the couples trade houses. How far will they go to please their partner? Alarm bells ring in North Carolina. Will the day to day drive a wedge between peter and Diane?</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -7056,6 +7090,9 @@
   <programme channel="tv.12" start="20180603104300 +0000" stop="20180603104500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180603104500 +0000" stop="20180603111500 +0000">
     <title>Don't Be Tardy</title>
@@ -7107,6 +7144,9 @@
   <programme channel="tv.12" start="20180603225300 +0000" stop="20180603225500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180603225500 +0000" stop="20180603234500 +0000">
     <title>Catfish</title>
@@ -7125,6 +7165,9 @@
   <programme channel="tv.12" start="20180604003300 +0000" stop="20180604003500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180604003500 +0000" stop="20180604013000 +0000">
     <title>Below Deck</title>
@@ -7156,7 +7199,7 @@
   </programme>
   <programme channel="tv.12" start="20180604043000 +0000" stop="20180604050000 +0000">
     <title>Say Yes To The Dress Atlanta</title>
-    <desc>Lindsay is torn between pleasing her dad and her fianc‚, YouTube star Phil DeFranco's very different dress visions. S8 Ep7</desc>
+    <desc>Lindsay is torn between pleasing her dad and her fiance, YouTube star Phil DeFranco's very different dress visions. S8 Ep7</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -7166,6 +7209,634 @@
     <desc>Chasity wants a fabulous dress for her Vegas themed wedding, but her fashionista brother has other ideas. Bride Sarah's mum deems her daughters dress vision too fancy for her barn wedding. S8 Ep8</desc>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180604053000 +0000" stop="20180604063000 +0000">
+    <title>Love It Or List It: Vancouver</title>
+    <desc>Nicola and husband pro race car driver, Michael are at odds over their home with a view. Can Todd get Nicola to leave for a move-in-ready house?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180604063000 +0000" stop="20180604073000 +0000">
+    <title>Catfish</title>
+    <desc>Years ago, Mike met Kristen on Facebook. They quickly forged a deep connection, but Mike's frequent efforts to meet Kristen have been futile. Will Mike finally get face to face with Kristen? S2 Ep7</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180604073000 +0000" stop="20180604083000 +0000">
+    <title>Dress To Impress</title>
+    <desc>In London, three singletons go up against each other in a series of shopping challenges to win the affections of self-proclaimed princess Winter.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180604083000 +0000" stop="20180604093000 +0000">
+    <title>Sell It Like Serhant</title>
+    <desc>Ryan faces his hardest challenge yet: helping a salesperson who hasn't made a single sale... ever!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180604093000 +0000" stop="20180604100000 +0000">
+    <title>Beverly Hills Pawn</title>
+    <desc>Yossi and Dominique board a luxury yacht for a chance to acquire sunken treasure from the sea!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180604100000 +0000" stop="20180604103000 +0000">
+    <title>Beverly Hills Pawn</title>
+    <desc>Yossi and Cory are wow'd by a Thor Hammer prop from the blockbuster movie THE AVENGERS. but is it authentic?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180604103000 +0000" stop="20180604112500 +0000">
+    <title>Killer Couples</title>
+    <desc>A Las Vegas red haired siren and her millionaire boyfriend become suspects in a murder, hundreds of miles away. S8 Ep4</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180604112500 +0000" stop="20180604121000 +0000">
+    <title>Escaping Polygamy</title>
+    <desc>Rachel is in desperate need of breaking free from the Order. But is torn between leaving other brothers and sisters behind and losing her mother's love along the way. S1 Ep3</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180604121000 +0000" stop="20180604170000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.12" start="20180604170000 +0000" stop="20180604180000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.12" start="20180604180000 +0000" stop="20180604220000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.12" start="20180604220000 +0000" stop="20180604223000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Lindsay is torn between pleasing her dad and her fiance, YouTube star Phil DeFranco's very different dress visions. S8 Ep7</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180604223000 +0000" stop="20180604225500 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Chasity wants a fabulous dress for her Vegas themed wedding, but her fashionista brother has other ideas. Bride Sarah's mum deems her daughters dress vision too fancy for her barn wedding. S8 Ep8</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180604225500 +0000" stop="20180604235000 +0000">
+    <title>Catfish</title>
+    <desc>Years ago, Mike met Kristen on Facebook. They quickly forged a deep connection, but Mike's frequent efforts to meet Kristen have been futile. Will Mike finally get face to face with Kristen? S2 Ep7</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180604235000 +0000" stop="20180605004000 +0000">
+    <title>Escaping Polygamy</title>
+    <desc>Rachel is in desperate need of breaking free from the Order. But is torn between leaving other brothers and sisters behind and losing her mother's love along the way. S1 Ep3</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180605004000 +0000" stop="20180605013500 +0000">
+    <title>Below Deck</title>
+    <desc>Lost footage from the first season is revealed with never before seen cast interviews. Get a closer look at the outrageous hijinks of the charter guests and crew with Below Decks The Crew Tells All.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180605013500 +0000" stop="20180605023000 +0000">
+    <title>Sell It Like Serhant</title>
+    <desc>Ryan faces his hardest challenge yet: helping a salesperson who hasn't made a single sale... ever!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180605023000 +0000" stop="20180605033000 +0000">
+    <title>Back With The Ex</title>
+    <desc>After spending a week together, the couples trade houses. How far will they go to please their partner? Alarm bells ring in North Carolina. Will the day to day drive a wedge between peter and Diane?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180605033000 +0000" stop="20180605043000 +0000">
+    <title>Dance Moms</title>
+    <desc>Abby and the mums reunite to hash out the drama of last season while updates on the girls are unveiled and they take to centre stage with new performances. S4 Ep2</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180605043000 +0000" stop="20180605050000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Bride Christina's long-distance engagement has left her friends and family weary. Can Christina soften the blow with the perfect gown? S8 Ep9</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180605050000 +0000" stop="20180605053000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>After a horrific accident, Katie was told she'd never walk again. Unwilling to accept her fate, Katie is determined to walk down the aisle in her dream dress. S8 Ep10</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180605053000 +0000" stop="20180605063000 +0000">
+    <title>Love It Or List It: Vancouver</title>
+    <desc>Harvey adores his heritage house, but his pregnant wife Susan can't stand the old-fashioned layout.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180605063000 +0000" stop="20180605072800 +0000">
+    <title>Catfish</title>
+    <desc>When Jesse met Brian on Facebook, she thought she'd hit the jackpot. They made plans to meet, but Brian stood her up. Now, years later, Jesse still can't stop wondering - what is Brian hiding? S2 Ep8</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180605072800 +0000" stop="20180605073000 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.12" start="20180605073000 +0000" stop="20180605083000 +0000">
+    <title>Tabatha's Salon Takeover</title>
+    <desc>Tabatha tries to give a permanent makeover to a salon in a Cape Cod resort town mismanaged by an owner who believes his outrageous antics bring in customers. S3 Ep4</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180605083000 +0000" stop="20180605093000 +0000">
+    <title>Botched</title>
+    <desc>Dr. Dubrow helps a former recluse break out with new breasts, while Dr. Nassif tackles a telenovela nose job gone wrong.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180605093000 +0000" stop="20180605103300 +0000">
+    <title>The Real Housewives Of New York City</title>
+    <desc>Bethenny and Dorinda hit the ground in Puerto Rico and get to work. Ramona attempts to mend fences with Sonja. Carole works on a revealing story with a magazine.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180605103300 +0000" stop="20180605103500 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.12" start="20180605103500 +0000" stop="20180605112500 +0000">
+    <title>Killer Couples</title>
+    <desc>A lonely military wife and psychologist go searching for sex on the Internet with deadly results. S8 Ep5</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180605112500 +0000" stop="20180605121500 +0000">
+    <title>Escaping Polygamy</title>
+    <desc>Priscilla must flee from Utah to Nevada to escape from the clutches of polygamy and Utah's runaway laws. Having unsuccessfully attempted to escape before, she is going to need some help. S1 Ep4</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180605121500 +0000" stop="20180605170000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.12" start="20180605170000 +0000" stop="20180605180000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.12" start="20180605180000 +0000" stop="20180605220000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.12" start="20180605220000 +0000" stop="20180605223000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Bride Christina's long-distance engagement has left her friends and family weary. Can Christina soften the blow with the perfect gown? S8 Ep9</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180605223000 +0000" stop="20180605225800 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>After a horrific accident, Katie was told she'd never walk again. Unwilling to accept her fate, Katie is determined to walk down the aisle in her dream dress. S8 Ep10</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180605225800 +0000" stop="20180605230000 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.12" start="20180605230000 +0000" stop="20180605235000 +0000">
+    <title>Catfish</title>
+    <desc>When Jesse met Brian on Facebook, she thought she'd hit the jackpot. They made plans to meet, but Brian stood her up. Now, years later, Jesse still can't stop wondering - what is Brian hiding? S2 Ep8</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180605235000 +0000" stop="20180606003800 +0000">
+    <title>Escaping Polygamy</title>
+    <desc>Priscilla must flee from Utah to Nevada to escape from the clutches of polygamy and Utah's runaway laws. Having unsuccessfully attempted to escape before, she is going to need some help. S1 Ep4</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180606003800 +0000" stop="20180606004000 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.12" start="20180606004000 +0000" stop="20180606011000 +0000">
+    <title>Below Deck</title>
+    <desc>Captain Lee and his returning crew Kat, Ben and Eddie have to navigate a new boat and five new faces as the nine-member crew learn to live and work together aboard the luxury yach Ohana</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180606011000 +0000" stop="20180606013500 +0000">
+    <title>Beverly Hills Pawn</title>
+    <desc>Yossi and Dominique board a luxury yacht for a chance to acquire sunken treasure from the sea!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180606013500 +0000" stop="20180606022800 +0000">
+    <title>The Real Housewives Of New York City</title>
+    <desc>Bethenny and Dorinda hit the ground in Puerto Rico and get to work. Ramona attempts to mend fences with Sonja. Carole works on a revealing story with a magazine.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180606022800 +0000" stop="20180606023000 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.12" start="20180606023000 +0000" stop="20180606033500 +0000">
+    <title>Botched</title>
+    <desc>Dr. Dubrow helps a former recluse break out with new breasts, while Dr. Nassif tackles a telenovela nose job gone wrong.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180606033500 +0000" stop="20180606043000 +0000">
+    <title>Dance Moms</title>
+    <desc>It's a new dance season for the ALDC and Abby drops a bombshell, she will be holding open call auditions across the country searching for new dancers...and nobody's place on the team is safe. S4 Ep3</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180606043000 +0000" stop="20180606050000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>WNBA star Glory Johnson brings her fiance WNBA player Brittney Griner to help find a gown that feels just right. But it's not all fun and games for Glory as the pressure to find the one rises. S8 Ep11</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180606050000 +0000" stop="20180606053000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>To bride Kiara, the only opinion that matters is her grandfathers. But when Kiara falls for a dress over budget, she may risk leaving the salon empty handed. S8 Ep12</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180606053000 +0000" stop="20180606063500 +0000">
+    <title>Love It Or List It: Vancouver</title>
+    <desc>Karin and Bruce love their dogs, and entertaining. Can Jillian turn their home into a pet-friendly, open-concept oasis? Or will Todd win Bruce over with a move-in-ready house.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180606063500 +0000" stop="20180606073000 +0000">
+    <title>Catfish</title>
+    <desc>Artis met Jess online. Artis and Jess each were in relationships, but believed they'd found true love. Artis is finally ready to meet in person. But is Jess everything that she says she is? S2 Ep9</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180606073000 +0000" stop="20180606083000 +0000">
+    <title>Hollywood Medium With Tyler Henry</title>
+    <desc>Tyler's connection leaves Lil' Kim truly shocked as she is re-united with her soulmate, The Notorious BIG.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180606083000 +0000" stop="20180606093000 +0000">
+    <title>Love After Lockup</title>
+    <desc>Johnna confronts Garrett after he stays out all night partying, and she's left wondering if there will still be a wedding.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180606093000 +0000" stop="20180606103300 +0000">
+    <title>Vanderpump Rules</title>
+    <desc>Andy Cohen joins Lisa and the cast of Vanderpump Rules for Secrets Revealed. a hilarious, illuminating, and occasionally scandalous look at never-before-seen footage from Season Six.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180606103300 +0000" stop="20180606103500 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.12" start="20180606103500 +0000" stop="20180606112500 +0000">
+    <title>Killer Couples</title>
+    <desc>A couple of drifters befriend a Good Samaritan with horrific results. S8 Ep6</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180606112500 +0000" stop="20180606121500 +0000">
+    <title>Escaping Polygamy</title>
+    <desc>Shanell's younger half-sister desperately wants out of the order. Shanell must now focus on the proper legal channels to try to make sure her little sister is kept safe. S1 Ep5</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180606121500 +0000" stop="20180606170000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.12" start="20180606170000 +0000" stop="20180606180000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.12" start="20180606180000 +0000" stop="20180606220000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.12" start="20180606220000 +0000" stop="20180606223000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>WNBA star Glory Johnson brings her fiance WNBA player Brittney Griner to help find a gown that feels just right. But it's not all fun and games for Glory as the pressure to find the one rises. S8 Ep11</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180606223000 +0000" stop="20180606225500 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>To bride Kiara, the only opinion that matters is her grandfathers. But when Kiara falls for a dress over budget, she may risk leaving the salon empty handed. S8 Ep12</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180606225500 +0000" stop="20180606234800 +0000">
+    <title>Catfish</title>
+    <desc>Artis met Jess online. Artis and Jess each were in relationships, but believed they'd found true love. Artis is finally ready to meet in person. But is Jess everything that she says she is? S2 Ep9</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180606234800 +0000" stop="20180606235000 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.12" start="20180606235000 +0000" stop="20180607004000 +0000">
+    <title>Escaping Polygamy</title>
+    <desc>Shanell's younger half-sister desperately wants out of the order. Shanell must now focus on the proper legal channels to try to make sure her little sister is kept safe. S1 Ep5</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180607004000 +0000" stop="20180607013300 +0000">
+    <title>Below Deck</title>
+    <desc>Tempers flare on deck as the crew hustles to prepare the boat for their first group of charter guests, a larger-than-life group of fun-loving southerners.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180607013300 +0000" stop="20180607013500 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.12" start="20180607013500 +0000" stop="20180607023000 +0000">
+    <title>Vanderpump Rules</title>
+    <desc>Andy Cohen joins Lisa and the cast of Vanderpump Rules for Secrets Revealed. a hilarious, illuminating, and occasionally scandalous look at never-before-seen footage from Season Six.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180607023000 +0000" stop="20180607032800 +0000">
+    <title>Love After Lockup</title>
+    <desc>Johnna confronts Garrett after he stays out all night partying, and she's left wondering if there will still be a wedding.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180607032800 +0000" stop="20180607033000 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.12" start="20180607033000 +0000" stop="20180607043000 +0000">
+    <title>Dance Moms</title>
+    <desc>With the cloud of Abby's open auditions looming over the team, everyone is on edge as the ALDC competes with the Candy Apples for the first time since Nationals. S4 Ep4</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180607043000 +0000" stop="20180607050000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Jibrell wants to look like a princess on her big day. But her unfiltered mum may turn Jibrells fairytale dress dreams into a nightmare. S8 Ep13</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180607050000 +0000" stop="20180607053000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>After a car crash, Brandi turned to singer, Jessie James Decker's song lyrics to help her move forward. Now a bride, Brandi hopes to find a dress similar to what Jessie wore on her big day. S8 Ep14</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180607053000 +0000" stop="20180607063000 +0000">
+    <title>Love It Or List It: Vancouver</title>
+    <desc>Violet wants to buy a luxurious condo, but her husband Rob won't leave their beachside duplex.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180607063000 +0000" stop="20180607072800 +0000">
+    <title>Catfish</title>
+    <desc>Aaliyah has been able to share her life struggles with her first girlfriend Alicia. However, despite living only 70 blocks away, Alicia refuses to meet Aaliyah. S2 Ep10</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180607072800 +0000" stop="20180607073000 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.12" start="20180607073000 +0000" stop="20180607083000 +0000">
+    <title>Killer Couples</title>
+    <desc>A Las Vegas red haired siren and her millionaire boyfriend become suspects in a murder, hundreds of miles away. S8 Ep4</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180607083000 +0000" stop="20180607093000 +0000">
+    <title>Mysteries &amp; Scandals</title>
+    <desc>In 1977 Christa Helm was found murdered in West Hollywood. She was known for her secret diary, detailing romantic encounters with celebrities. Her death remains one of Hollywood's greatest mysteries.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180607093000 +0000" stop="20180607103000 +0000">
+    <title>Final Appeal</title>
+    <desc>Brian and Loni explore the case of Cleve Heidelberg, whose been behind bars for more than 45 years.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180607103000 +0000" stop="20180607112500 +0000">
+    <title>Killer Couples</title>
+    <desc>A mother-daughter trip to paradise is cut short by a shocking crime. S8 Ep7</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180607112500 +0000" stop="20180607121000 +0000">
+    <title>Escaping Polygamy</title>
+    <desc>Yolanda needs help to escape from the notorious FLDS compound. While the girls are familiar with the cult and its infamous prophet Warren Jeffs, the girls are hundreds of miles away from home. S1 Ep6</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180607121000 +0000" stop="20180607170000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.12" start="20180607170000 +0000" stop="20180607180000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.12" start="20180607180000 +0000" stop="20180607220000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.12" start="20180607220000 +0000" stop="20180607222500 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Jibrell wants to look like a princess on her big day. But her unfiltered mum may turn Jibrells fairytale dress dreams into a nightmare. S8 Ep13</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180607222500 +0000" stop="20180607225500 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>After a car crash, Brandi turned to singer, Jessie James Decker's song lyrics to help her move forward. Now a bride, Brandi hopes to find a dress similar to what Jessie wore on her big day. S8 Ep14</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180607225500 +0000" stop="20180607234500 +0000">
+    <title>Catfish</title>
+    <desc>Aaliyah has been able to share her life struggles with her first girlfriend Alicia. However, despite living only 70 blocks away, Alicia refuses to meet Aaliyah. S2 Ep10</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180607234500 +0000" stop="20180608003500 +0000">
+    <title>Escaping Polygamy</title>
+    <desc>Yolanda needs help to escape from the notorious FLDS compound. While the girls are familiar with the cult and its infamous prophet Warren Jeffs, the girls are hundreds of miles away from home. S1 Ep6</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180608003500 +0000" stop="20180608013000 +0000">
+    <title>Below Deck</title>
+    <desc>Kate grows increasingly unhappy with Kat's bad attitude and constant complaining, but is Kat acting out because she fears Kate and Ben are getting just a little too close?</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180608013000 +0000" stop="20180608023000 +0000">
+    <title>Mysteries &amp; Scandals</title>
+    <desc>In 1977 Christa Helm was found murdered in West Hollywood. She was known for her secret diary, detailing romantic encounters with celebrities. Her death remains one of Hollywood's greatest mysteries.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180608023000 +0000" stop="20180608033000 +0000">
+    <title>Final Appeal</title>
+    <desc>Brian and Loni explore the case of Cleve Heidelberg, whose been behind bars for more than 45 years.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180608033000 +0000" stop="20180608043000 +0000">
+    <title>Dance Moms</title>
+    <desc>Everyone is on edge when Abby announces she'll be holding her first national open audition. Meanwhile the fallout over Chloe and Kendall's solos continues as Jill accuses Christi of lying. S4 Ep5</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180608043000 +0000" stop="20180608050000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Brandy comes to the salon armed with her country superstar boss, Naomi Judd with a specific vision for her wedding dress. S8 Ep15</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180608050000 +0000" stop="20180608053000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Tareka aims to trade in her city chic style for a country gown. But her fashion forward entourage has other ideas. S8 Ep16</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180608053000 +0000" stop="20180608063000 +0000">
+    <title>Love It Or List It: Vancouver</title>
+    <desc>A blended family struggles in a small, dysfunctional home. Can Jillian create space that will convince Shanti to stay? Or will Todd find something larger in their lakeside community.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180608063000 +0000" stop="20180608072800 +0000">
+    <title>Catfish</title>
+    <desc>Nick and Melissa fell in love when they met online when they were 12. Now 18, Nick is ready to finally ready to meet Melissa. But is Melissa the real deal or has Nick been entangled in lies? S2 Ep11</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180608072800 +0000" stop="20180608073000 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.12" start="20180608073000 +0000" stop="20180608083000 +0000">
+    <title>Catfish</title>
+    <desc>Frustrated by several failed attempts to video chat with Shai, Telizza turns to Nev and Max to uncover the truth.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180608083000 +0000" stop="20180608103300 +0000">
+    <title>Failure To Launch</title>
+    <desc>A thirtysomething slacker suspects his parents of setting him up with his dream girl so he'll finally vacate their home. Starring Matthew McConaughey, Sarah Jessica Parker, Zooey Deschanel.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180608103300 +0000" stop="20180608103500 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.12" start="20180608103500 +0000" stop="20180608113000 +0000">
+    <title>Killer Couples</title>
+    <desc>In a deadly race against the clock, authorities must piece together a string of murders led by a modern day Bonnie and Clyde. S8 Ep8</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20180608113000 +0000" stop="20180608122000 +0000">
+    <title>Escaping Polygamy</title>
+    <desc>Jessica receives a frantic call in the middle of the night from their little sister, who is being forced to marry someone she doesn't love and wants out. S2 Ep1</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.13" start="20180531113000 +0000" stop="20180531120000 +0000">
@@ -12128,6 +12799,9 @@
   <programme channel="tv.27" start="20180601100000 +0000" stop="20180601104500 +0000">
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Hayley Sproull, Bryce Casey, Joel Creasey and Rhys Mathewson.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180601104500 +0000" stop="20180601111500 +0000">
     <title>Funny Girls</title>
@@ -12502,11 +13176,11 @@
     <title>The Hui</title>
     <desc>Mihingarangi Forbes presents a compelling mix of current affairs investigations, human interest and arts and culture stories.</desc>
   </programme>
-  <programme channel="tv.27" start="20180604121500 +0000" stop="20180604132000 +0000">
+  <programme channel="tv.27" start="20180604121500 +0000" stop="20180604131500 +0000">
     <title>Newshub Nation</title>
     <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
   </programme>
-  <programme channel="tv.27" start="20180604132000 +0000" stop="20180604180000 +0000">
+  <programme channel="tv.27" start="20180604131500 +0000" stop="20180604180000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -12610,21 +13284,21 @@
     <title>The Project</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
-  <programme channel="tv.27" start="20180605083000 +0000" stop="20180605093500 +0000">
+  <programme channel="tv.27" start="20180605083000 +0000" stop="20180605093000 +0000">
     <title>Grand Designs UK</title>
     <desc>New Episode. Kevin visits a house belonging to engineer Stephen Tetlow that resembles a giant snake. S15 Ep6</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180605093500 +0000" stop="20180605103000 +0000">
+  <programme channel="tv.27" start="20180605093000 +0000" stop="20180605102500 +0000">
     <title>NCIS</title>
     <desc>New Episode. A petty officer is found murdered on a golf course and McGee tries to locate a key witness by spending hours on the victim's ham radio. S15 Ep6</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180605103000 +0000" stop="20180605112000 +0000">
+  <programme channel="tv.27" start="20180605102500 +0000" stop="20180605112000 +0000">
     <title>SVU: Special Victims Unit</title>
     <desc>New Episode. The SVU must break through military red tape when a soldier is suspected of sexual assault. S19 Ep18</desc>
     <rating system="Freeview">
@@ -12635,14 +13309,14 @@
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.27" start="20180605115000 +0000" stop="20180605125000 +0000">
+  <programme channel="tv.27" start="20180605115000 +0000" stop="20180605124000 +0000">
     <title>Chicago P.D.</title>
     <desc>New Episode. Roman and Burgess discover the corpse of a young boy who was reported missing and Burgess talks to Ruzek about Roman's suspicious behaviour. S3 Ep2</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180605125000 +0000" stop="20180605180000 +0000">
+  <programme channel="tv.27" start="20180605124000 +0000" stop="20180605180000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -13073,6 +13747,1145 @@
     <desc>Caroline's dress vision is threated by her very opinionated entourage. Elizabeth hopes her fitting will be a lasting memory for her mum who is unable to attend her wedding. S8 Ep6</desc>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180601063000 +0000" stop="20180601073500 +0000">
+    <title>Love It Or List It: Vancouver</title>
+    <desc>Sat hates the layout in his large home, but wife Karen doesn't want to downsize. Can Jillian convince Sat to stay by creating an open-concept main floor?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180601073500 +0000" stop="20180601083300 +0000">
+    <title>Catfish</title>
+    <desc>Jen relies on online communities to establish relationships. After meeting Skylar online, they immediately hit it off. But they've never met in person. Will Skylar consent to a visit from Jen? S2 Ep6</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180601083300 +0000" stop="20180601083500 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180601083500 +0000" stop="20180601093000 +0000">
+    <title>Catfish</title>
+    <desc>Danny wants to build a family with his online love in spite of her violent past, but Nev and Max discover possible ties to a former catfish.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180601093000 +0000" stop="20180601115800 +0000">
+    <title>Shakespeare In Love</title>
+    <desc>Also starring: Colin Firth, Rupert Everett, Tom Wilkinson and Dame Judi Dench. Directed by John Madden.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180601115800 +0000" stop="20180601120000 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180601120000 +0000" stop="20180601125000 +0000">
+    <title>Killer Couples</title>
+    <desc>A cougar and her new boyfriend devise a vicious plot to get rid of an old boyfriend. S8 Ep3</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180601125000 +0000" stop="20180601134000 +0000">
+    <title>Escaping Polygamy</title>
+    <desc>Shanell's aunt has decided to leave the Order after having raised sixteen children under the umbrella of the cult, Shanell must intervene and get her family into hiding as quickly as possible. S1 Ep2</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180601134000 +0000" stop="20180601180000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.30" start="20180601180000 +0000" stop="20180601190000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.30" start="20180601190000 +0000" stop="20180601230000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.30" start="20180601230000 +0000" stop="20180601232500 +0000">
+    <title>Beverly Hills Pawn</title>
+    <desc>A long-time customer offers Yossi and Cory the chance to buy a very special baseball - signed by Joe DiMaggio and Marilyn Monroe!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180601232500 +0000" stop="20180601235300 +0000">
+    <title>Beverly Hills Pawn</title>
+    <desc>Yossi and Cory have a chance to get their hands on a pair of valuable, antique books. chronicling the historic expedition of Lewis and Clark!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180601235300 +0000" stop="20180601235500 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180601235500 +0000" stop="20180602002500 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Olympic bobsledder bride Elana is searching for a long reception dress, but mum is pushing for short. Since mum usually picks out Elana's clothes, who will win this battle? S7 Ep15</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602002500 +0000" stop="20180602005000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Bride Elizabeth's Mom may not attend her Hawaiian wedding due to difficulties at home with her disapproving father. Can dress shopping mend a broken mother-daughter bond? S7 Ep16</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602005000 +0000" stop="20180602012000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>With 3 cancelled dresses and 3 months to go, bride June is under the gun to find her perfect dress. Will she have her bridal moment before it's too late? S7 Ep17</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602012000 +0000" stop="20180602014800 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Bride Zelda reveals that she hasn't seen her fiance in 12 YEARS, much to the shock of her unknowing family. With the mood drastically changed, will anything improve this appointment? S7 Ep18</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602014800 +0000" stop="20180602015000 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602015000 +0000" stop="20180602025000 +0000">
+    <title>Back With The Ex</title>
+    <desc>All the exes meet each other on an all boys and girls night out and compare notes on the status of their relationships. Secrets will be revealed and one revelation shocks them all.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602025000 +0000" stop="20180602034300 +0000">
+    <title>I'm Having Their Baby</title>
+    <desc>Jeni's daughter just had a baby and now Jeni is pregnant herself. Cathleen doesn't think she can handle a third child but her mother relentlessly tries to dissuade her. S2 Ep8</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602034300 +0000" stop="20180602034500 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602034500 +0000" stop="20180602044500 +0000">
+    <title>Sell It Like Serhant</title>
+    <desc>Ryan's invited to a waxing salon in Tribeca to try and help Mariel, but he's unprepared for how hairy the challenge becomes.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602044500 +0000" stop="20180602053500 +0000">
+    <title>Catfish</title>
+    <desc>Anthony is an Iraq War veteran. Over a year ago, he bonded online with a caring, emotionally available man named Marq. Today, they're head over heels in love - but what is Marq hiding? S2 Ep2</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602053500 +0000" stop="20180602063000 +0000">
+    <title>Catfish</title>
+    <desc>Ramon's one shining glimmer of happiness is Paola, a girl he met on Facebook. But after many failed attempts to video chat with Paola, is she really who he thinks she is? S2 Ep3</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602063000 +0000" stop="20180602073000 +0000">
+    <title>Catfish</title>
+    <desc>Lauren and Derek have never met in real life. Derek is caring, supporting Lauren after she had a baby with an ex-boyfriend. Lauren thinks he is the one, so why has he avoided meeting her? S2 Ep4</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602073000 +0000" stop="20180602083000 +0000">
+    <title>The Getaway</title>
+    <desc>Actor Ryan Kwanten eats, drinks and surfs his way through Los Angeles.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602083000 +0000" stop="20180602092800 +0000">
+    <title>Below Deck</title>
+    <desc>Captain Lee has a special guest come aboard and the crew gets to see a different side to their fearless leader.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602092800 +0000" stop="20180602093000 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602093000 +0000" stop="20180602100000 +0000">
+    <title>Life Of Kylie</title>
+    <desc>Kylie, Jordyn and Kris travel to Peru on a charity mission. But when Kylie's spontaneous lifestyle doesn't fare well with Kris Jenner's demanding itinerary, they have to reconcile their differences.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602100000 +0000" stop="20180602103000 +0000">
+    <title>Life Of Kylie</title>
+    <desc>Kylie and Jordyn continue their trip. The guidance of a shaman reading and a commitment ceremony leads Kylie and Jordyn into the next chapter of their lives.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602103000 +0000" stop="20180602114000 +0000">
+    <title>Southern Charm</title>
+    <desc>Emotions run high during the gang's first night in Hilton Head, when Ashley confronts Kathryn. After the group is forced to pick sides, everyone is walking on eggshells for the rest of the weekend.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602114000 +0000" stop="20180602132500 +0000">
+    <title>Final Appeal</title>
+    <desc>Brian and Loni head to North Carolina to reexamine the case against Dontae Sharpe, who has maintained his innocence since 1994.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602132500 +0000" stop="20180602180000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.30" start="20180602180000 +0000" stop="20180602190000 +0000">
+    <title>Love It Or List It: Vancouver</title>
+    <desc>Nick wants to move from their apartment-sized home. Can Jillian regain the space in their downstairs rental suite to make him stay? Or will Todd convince wife Christina it's time to move.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602190000 +0000" stop="20180602194500 +0000">
+    <title>Love It Or List It: Vancouver</title>
+    <desc>Kavita, Sanjeev and their two grown sons are too crowded. Can Todd find a larger home in their upscale area and pull Sanjeev from his beloved man-cave?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602194500 +0000" stop="20180602203500 +0000">
+    <title>Love It Or List It: Vancouver</title>
+    <desc>Danielle loves Trevor but not his house. Can Jillian convince her to stay by bringing out the beauty in this heritage home? Or can Todd help Trevor move?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602203500 +0000" stop="20180602212000 +0000">
+    <title>Love It Or List It: Vancouver</title>
+    <desc>Amie and Mark love mountain living but hate their dark, gloomy location. Can Todd find Mark the bright, sunny home of his dreams or can Jillian actually bring light to the darkness?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602212000 +0000" stop="20180602221000 +0000">
+    <title>Love It Or List It: Vancouver</title>
+    <desc>Sat hates the layout in his large home, but wife Karen doesn't want to downsize. Can Jillian convince Sat to stay by creating an open-concept main floor?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602221000 +0000" stop="20180602225300 +0000">
+    <title>I'm Having Their Baby</title>
+    <desc>Alysia fears her illness and a fourth child will be too big of a burden. Christina intends to place her baby with her sister and her sister's wife. S2 Ep10</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602225300 +0000" stop="20180602225500 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602225500 +0000" stop="20180602234000 +0000">
+    <title>I'm Having Their Baby</title>
+    <desc>Sonya's mother fears her daughter is being manipulated into placing her child. Kayla's volatile boyfriend Justin is opposed to adoption and wants to parent their baby. S2 Ep11</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180602234000 +0000" stop="20180603003000 +0000">
+    <title>Below Deck</title>
+    <desc>Captain Lee has a special guest come aboard and the crew gets to see a different side to their fearless leader.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603003000 +0000" stop="20180603010800 +0000">
+    <title>Catfish</title>
+    <desc>Danny wants to build a family with his online love in spite of her violent past, but Nev and Max discover possible ties to a former catfish.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603010800 +0000" stop="20180603011000 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603011000 +0000" stop="20180603025500 +0000">
+    <title>Final Appeal</title>
+    <desc>Brian and Loni head to North Carolina to reexamine the case against Dontae Sharpe, who has maintained his innocence since 1994.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603025500 +0000" stop="20180603032000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Taylor wants to wear an over the top gown on her big day. But when her NFL star brother Maurice Jones-Drew puts a cap on her budget, Taylor's dress dreams may have a game change. S8 Ep3</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603032000 +0000" stop="20180603035000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Bride Morgan is marrying country music star Jerrod Niemann and needs a dress that will impress. Problem is.. her vision is in her head and not in the store. S8 Ep4</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603035000 +0000" stop="20180603042000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Bride Julianne has chosen to elope against her families wishes. To ease some of the tension, Julianne brings her family to the salon to help her select her wedding dress. S8 Ep5</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603042000 +0000" stop="20180603044800 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Caroline's dress vision is threated by her very opinionated entourage. Elizabeth hopes her fitting will be a lasting memory for her mum who is unable to attend her wedding. S8 Ep6</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603044800 +0000" stop="20180603045000 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603045000 +0000" stop="20180603055000 +0000">
+    <title>I'm Having Their Baby</title>
+    <desc>The finale episode revisits the lives of four birth moms during the first year after birth. S2 Ep12</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603055000 +0000" stop="20180603064500 +0000">
+    <title>Catfish</title>
+    <desc>Dorion is torn between his current girlfriend and his online love, Jeszica. He is willing to give up everything for Jeszica but needs know, is she really the girl in the pictures? S2 Ep5</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603064500 +0000" stop="20180603074000 +0000">
+    <title>Catfish</title>
+    <desc>Jen relies on online communities to establish relationships. After meeting Skylar online, they immediately hit it off. But they've never met in person. Will Skylar consent to a visit from Jen? S2 Ep6</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603074000 +0000" stop="20180603083500 +0000">
+    <title>Catfish</title>
+    <desc>Frustrated by several failed attempts to video chat with Shai, Telizza turns to Nev and Max to uncover the truth.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603083500 +0000" stop="20180603093500 +0000">
+    <title>Making A Model With Yolanda Hadid</title>
+    <desc>The guys from the Broadway show Kinky Boots provide a master class on how to walk; model Alek Wek gives the models one last confidence boost before they walk the runway.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603093500 +0000" stop="20180603104000 +0000">
+    <title>Back With The Ex</title>
+    <desc>After spending a week together, the couples trade houses. How far will they go to please their partner? Alarm bells ring in North Carolina. Will the day to day drive a wedge between peter and Diane?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603104000 +0000" stop="20180603114300 +0000">
+    <title>Hollywood Medium With Tyler Henry</title>
+    <desc>Tyler's connection leaves Lil' Kim truly shocked as she is re-united with her soulmate, The Notorious BIG.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603114300 +0000" stop="20180603114500 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603114500 +0000" stop="20180603121500 +0000">
+    <title>Don't Be Tardy</title>
+    <desc>Kim takes Brielle &amp; Slade to their first psychic reading with Rose who has some very surprising predictions.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603121500 +0000" stop="20180603124000 +0000">
+    <title>Don't Be Tardy</title>
+    <desc>Brushes with death are often followed by a new lease on life, and Kim is no exception. After her second dance on DWTS, she suffered a stroke, which in turn led to major heart surgery.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603124000 +0000" stop="20180603133000 +0000">
+    <title>Sell It Like Serhant</title>
+    <desc>Ryan's invited to a waxing salon in Tribeca to try and help Mariel, but he's unprepared for how hairy the challenge becomes.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603133000 +0000" stop="20180603180000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.30" start="20180603180000 +0000" stop="20180603190000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.30" start="20180603190000 +0000" stop="20180603230000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.30" start="20180603230000 +0000" stop="20180603232500 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Bride Julianne has chosen to elope against her families wishes. To ease some of the tension, Julianne brings her family to the salon to help her select her wedding dress. S8 Ep5</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603232500 +0000" stop="20180603235300 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Caroline's dress vision is threated by her very opinionated entourage. Elizabeth hopes her fitting will be a lasting memory for her mum who is unable to attend her wedding. S8 Ep6</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603235300 +0000" stop="20180603235500 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180603235500 +0000" stop="20180604004500 +0000">
+    <title>Catfish</title>
+    <desc>Jen relies on online communities to establish relationships. After meeting Skylar online, they immediately hit it off. But they've never met in person. Will Skylar consent to a visit from Jen? S2 Ep6</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180604004500 +0000" stop="20180604013300 +0000">
+    <title>Escaping Polygamy</title>
+    <desc>Shanell's aunt has decided to leave the Order after having raised sixteen children under the umbrella of the cult, Shanell must intervene and get her family into hiding as quickly as possible. S1 Ep2</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180604013300 +0000" stop="20180604013500 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180604013500 +0000" stop="20180604023000 +0000">
+    <title>Below Deck</title>
+    <desc>Andy Cohen, the reunion brings Adrienne Gang, Aleks Taldykin, Ben Robinson, C.J. Lebeau, David Bradberry, Eddie Lucas, Kat Held and Sam Orme to discuss some of the most talked about antics.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180604023000 +0000" stop="20180604033000 +0000">
+    <title>Hollywood Medium With Tyler Henry</title>
+    <desc>Tyler's connection leaves Lil' Kim truly shocked as she is re-united with her soulmate, The Notorious BIG.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180604033000 +0000" stop="20180604043000 +0000">
+    <title>Making A Model With Yolanda Hadid</title>
+    <desc>The guys from the Broadway show Kinky Boots provide a master class on how to walk; model Alek Wek gives the models one last confidence boost before they walk the runway.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180604043000 +0000" stop="20180604053000 +0000">
+    <title>Dance Moms</title>
+    <desc>Tis the season of giving, but beware of dance teachers bearing gifts because Abby Lee Miller is about to give the mums some big ones. S4 Ep1</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180604053000 +0000" stop="20180604060000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Lindsay is torn between pleasing her dad and her fiance, YouTube star Phil DeFranco's very different dress visions. S8 Ep7</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180604060000 +0000" stop="20180604063000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Chasity wants a fabulous dress for her Vegas themed wedding, but her fashionista brother has other ideas. Bride Sarah's mum deems her daughters dress vision too fancy for her barn wedding. S8 Ep8</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180604063000 +0000" stop="20180604073000 +0000">
+    <title>Love It Or List It: Vancouver</title>
+    <desc>Nicola and husband pro race car driver, Michael are at odds over their home with a view. Can Todd get Nicola to leave for a move-in-ready house?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180604073000 +0000" stop="20180604083000 +0000">
+    <title>Catfish</title>
+    <desc>Years ago, Mike met Kristen on Facebook. They quickly forged a deep connection, but Mike's frequent efforts to meet Kristen have been futile. Will Mike finally get face to face with Kristen? S2 Ep7</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180604083000 +0000" stop="20180604093000 +0000">
+    <title>Dress To Impress</title>
+    <desc>In London, three singletons go up against each other in a series of shopping challenges to win the affections of self-proclaimed princess Winter.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180604093000 +0000" stop="20180604103000 +0000">
+    <title>Sell It Like Serhant</title>
+    <desc>Ryan faces his hardest challenge yet: helping a salesperson who hasn't made a single sale... ever!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180604103000 +0000" stop="20180604110000 +0000">
+    <title>Beverly Hills Pawn</title>
+    <desc>Yossi and Dominique board a luxury yacht for a chance to acquire sunken treasure from the sea!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180604110000 +0000" stop="20180604113000 +0000">
+    <title>Beverly Hills Pawn</title>
+    <desc>Yossi and Cory are wow'd by a Thor Hammer prop from the blockbuster movie THE AVENGERS. but is it authentic?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180604113000 +0000" stop="20180604122500 +0000">
+    <title>Killer Couples</title>
+    <desc>A Las Vegas red haired siren and her millionaire boyfriend become suspects in a murder, hundreds of miles away. S8 Ep4</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180604122500 +0000" stop="20180604131000 +0000">
+    <title>Escaping Polygamy</title>
+    <desc>Rachel is in desperate need of breaking free from the Order. But is torn between leaving other brothers and sisters behind and losing her mother's love along the way. S1 Ep3</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180604131000 +0000" stop="20180604180000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.30" start="20180604180000 +0000" stop="20180604190000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.30" start="20180604190000 +0000" stop="20180604230000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.30" start="20180604230000 +0000" stop="20180604233000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Lindsay is torn between pleasing her dad and her fiance, YouTube star Phil DeFranco's very different dress visions. S8 Ep7</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180604233000 +0000" stop="20180604235500 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Chasity wants a fabulous dress for her Vegas themed wedding, but her fashionista brother has other ideas. Bride Sarah's mum deems her daughters dress vision too fancy for her barn wedding. S8 Ep8</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180604235500 +0000" stop="20180605005000 +0000">
+    <title>Catfish</title>
+    <desc>Years ago, Mike met Kristen on Facebook. They quickly forged a deep connection, but Mike's frequent efforts to meet Kristen have been futile. Will Mike finally get face to face with Kristen? S2 Ep7</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180605005000 +0000" stop="20180605014000 +0000">
+    <title>Escaping Polygamy</title>
+    <desc>Rachel is in desperate need of breaking free from the Order. But is torn between leaving other brothers and sisters behind and losing her mother's love along the way. S1 Ep3</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180605014000 +0000" stop="20180605023500 +0000">
+    <title>Below Deck</title>
+    <desc>Lost footage from the first season is revealed with never before seen cast interviews. Get a closer look at the outrageous hijinks of the charter guests and crew with Below Decks The Crew Tells All.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180605023500 +0000" stop="20180605033000 +0000">
+    <title>Sell It Like Serhant</title>
+    <desc>Ryan faces his hardest challenge yet: helping a salesperson who hasn't made a single sale... ever!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180605033000 +0000" stop="20180605043000 +0000">
+    <title>Back With The Ex</title>
+    <desc>After spending a week together, the couples trade houses. How far will they go to please their partner? Alarm bells ring in North Carolina. Will the day to day drive a wedge between peter and Diane?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180605043000 +0000" stop="20180605053000 +0000">
+    <title>Dance Moms</title>
+    <desc>Abby and the mums reunite to hash out the drama of last season while updates on the girls are unveiled and they take to centre stage with new performances. S4 Ep2</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180605053000 +0000" stop="20180605060000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Bride Christina's long-distance engagement has left her friends and family weary. Can Christina soften the blow with the perfect gown? S8 Ep9</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180605060000 +0000" stop="20180605063000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>After a horrific accident, Katie was told she'd never walk again. Unwilling to accept her fate, Katie is determined to walk down the aisle in her dream dress. S8 Ep10</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180605063000 +0000" stop="20180605073000 +0000">
+    <title>Love It Or List It: Vancouver</title>
+    <desc>Harvey adores his heritage house, but his pregnant wife Susan can't stand the old-fashioned layout.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180605073000 +0000" stop="20180605082800 +0000">
+    <title>Catfish</title>
+    <desc>When Jesse met Brian on Facebook, she thought she'd hit the jackpot. They made plans to meet, but Brian stood her up. Now, years later, Jesse still can't stop wondering - what is Brian hiding? S2 Ep8</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180605082800 +0000" stop="20180605083000 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.30" start="20180605083000 +0000" stop="20180605093000 +0000">
+    <title>Tabatha's Salon Takeover</title>
+    <desc>Tabatha tries to give a permanent makeover to a salon in a Cape Cod resort town mismanaged by an owner who believes his outrageous antics bring in customers. S3 Ep4</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180605093000 +0000" stop="20180605103000 +0000">
+    <title>Botched</title>
+    <desc>Dr. Dubrow helps a former recluse break out with new breasts, while Dr. Nassif tackles a telenovela nose job gone wrong.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180605103000 +0000" stop="20180605113300 +0000">
+    <title>The Real Housewives Of New York City</title>
+    <desc>Bethenny and Dorinda hit the ground in Puerto Rico and get to work. Ramona attempts to mend fences with Sonja. Carole works on a revealing story with a magazine.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180605113300 +0000" stop="20180605113500 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.30" start="20180605113500 +0000" stop="20180605122500 +0000">
+    <title>Killer Couples</title>
+    <desc>A lonely military wife and psychologist go searching for sex on the Internet with deadly results. S8 Ep5</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180605122500 +0000" stop="20180605131500 +0000">
+    <title>Escaping Polygamy</title>
+    <desc>Priscilla must flee from Utah to Nevada to escape from the clutches of polygamy and Utah's runaway laws. Having unsuccessfully attempted to escape before, she is going to need some help. S1 Ep4</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180605131500 +0000" stop="20180605180000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.30" start="20180605180000 +0000" stop="20180605190000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.30" start="20180605190000 +0000" stop="20180605230000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.30" start="20180605230000 +0000" stop="20180605233000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Bride Christina's long-distance engagement has left her friends and family weary. Can Christina soften the blow with the perfect gown? S8 Ep9</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180605233000 +0000" stop="20180605235800 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>After a horrific accident, Katie was told she'd never walk again. Unwilling to accept her fate, Katie is determined to walk down the aisle in her dream dress. S8 Ep10</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180605235800 +0000" stop="20180606000000 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.30" start="20180606000000 +0000" stop="20180606005000 +0000">
+    <title>Catfish</title>
+    <desc>When Jesse met Brian on Facebook, she thought she'd hit the jackpot. They made plans to meet, but Brian stood her up. Now, years later, Jesse still can't stop wondering - what is Brian hiding? S2 Ep8</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180606005000 +0000" stop="20180606013800 +0000">
+    <title>Escaping Polygamy</title>
+    <desc>Priscilla must flee from Utah to Nevada to escape from the clutches of polygamy and Utah's runaway laws. Having unsuccessfully attempted to escape before, she is going to need some help. S1 Ep4</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180606013800 +0000" stop="20180606014000 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.30" start="20180606014000 +0000" stop="20180606021000 +0000">
+    <title>Below Deck</title>
+    <desc>Captain Lee and his returning crew Kat, Ben and Eddie have to navigate a new boat and five new faces as the nine-member crew learn to live and work together aboard the luxury yach Ohana</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180606021000 +0000" stop="20180606023500 +0000">
+    <title>Beverly Hills Pawn</title>
+    <desc>Yossi and Dominique board a luxury yacht for a chance to acquire sunken treasure from the sea!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180606023500 +0000" stop="20180606032800 +0000">
+    <title>The Real Housewives Of New York City</title>
+    <desc>Bethenny and Dorinda hit the ground in Puerto Rico and get to work. Ramona attempts to mend fences with Sonja. Carole works on a revealing story with a magazine.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180606032800 +0000" stop="20180606033000 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.30" start="20180606033000 +0000" stop="20180606043500 +0000">
+    <title>Botched</title>
+    <desc>Dr. Dubrow helps a former recluse break out with new breasts, while Dr. Nassif tackles a telenovela nose job gone wrong.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180606043500 +0000" stop="20180606053000 +0000">
+    <title>Dance Moms</title>
+    <desc>It's a new dance season for the ALDC and Abby drops a bombshell, she will be holding open call auditions across the country searching for new dancers...and nobody's place on the team is safe. S4 Ep3</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180606053000 +0000" stop="20180606060000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>WNBA star Glory Johnson brings her fiance WNBA player Brittney Griner to help find a gown that feels just right. But it's not all fun and games for Glory as the pressure to find the one rises. S8 Ep11</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180606060000 +0000" stop="20180606063000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>To bride Kiara, the only opinion that matters is her grandfathers. But when Kiara falls for a dress over budget, she may risk leaving the salon empty handed. S8 Ep12</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180606063000 +0000" stop="20180606073500 +0000">
+    <title>Love It Or List It: Vancouver</title>
+    <desc>Karin and Bruce love their dogs, and entertaining. Can Jillian turn their home into a pet-friendly, open-concept oasis? Or will Todd win Bruce over with a move-in-ready house.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180606073500 +0000" stop="20180606083000 +0000">
+    <title>Catfish</title>
+    <desc>Artis met Jess online. Artis and Jess each were in relationships, but believed they'd found true love. Artis is finally ready to meet in person. But is Jess everything that she says she is? S2 Ep9</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180606083000 +0000" stop="20180606093000 +0000">
+    <title>Hollywood Medium With Tyler Henry</title>
+    <desc>Tyler's connection leaves Lil' Kim truly shocked as she is re-united with her soulmate, The Notorious BIG.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180606093000 +0000" stop="20180606103000 +0000">
+    <title>Love After Lockup</title>
+    <desc>Johnna confronts Garrett after he stays out all night partying, and she's left wondering if there will still be a wedding.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180606103000 +0000" stop="20180606113300 +0000">
+    <title>Vanderpump Rules</title>
+    <desc>Andy Cohen joins Lisa and the cast of Vanderpump Rules for Secrets Revealed. a hilarious, illuminating, and occasionally scandalous look at never-before-seen footage from Season Six.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180606113300 +0000" stop="20180606113500 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.30" start="20180606113500 +0000" stop="20180606122500 +0000">
+    <title>Killer Couples</title>
+    <desc>A couple of drifters befriend a Good Samaritan with horrific results. S8 Ep6</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180606122500 +0000" stop="20180606131500 +0000">
+    <title>Escaping Polygamy</title>
+    <desc>Shanell's younger half-sister desperately wants out of the order. Shanell must now focus on the proper legal channels to try to make sure her little sister is kept safe. S1 Ep5</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180606131500 +0000" stop="20180606180000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.30" start="20180606180000 +0000" stop="20180606190000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.30" start="20180606190000 +0000" stop="20180606230000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.30" start="20180606230000 +0000" stop="20180606233000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>WNBA star Glory Johnson brings her fiance WNBA player Brittney Griner to help find a gown that feels just right. But it's not all fun and games for Glory as the pressure to find the one rises. S8 Ep11</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180606233000 +0000" stop="20180606235500 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>To bride Kiara, the only opinion that matters is her grandfathers. But when Kiara falls for a dress over budget, she may risk leaving the salon empty handed. S8 Ep12</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180606235500 +0000" stop="20180607004800 +0000">
+    <title>Catfish</title>
+    <desc>Artis met Jess online. Artis and Jess each were in relationships, but believed they'd found true love. Artis is finally ready to meet in person. But is Jess everything that she says she is? S2 Ep9</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180607004800 +0000" stop="20180607005000 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.30" start="20180607005000 +0000" stop="20180607014000 +0000">
+    <title>Escaping Polygamy</title>
+    <desc>Shanell's younger half-sister desperately wants out of the order. Shanell must now focus on the proper legal channels to try to make sure her little sister is kept safe. S1 Ep5</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180607014000 +0000" stop="20180607023300 +0000">
+    <title>Below Deck</title>
+    <desc>Tempers flare on deck as the crew hustles to prepare the boat for their first group of charter guests, a larger-than-life group of fun-loving southerners.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180607023300 +0000" stop="20180607023500 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.30" start="20180607023500 +0000" stop="20180607033000 +0000">
+    <title>Vanderpump Rules</title>
+    <desc>Andy Cohen joins Lisa and the cast of Vanderpump Rules for Secrets Revealed. a hilarious, illuminating, and occasionally scandalous look at never-before-seen footage from Season Six.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180607033000 +0000" stop="20180607042800 +0000">
+    <title>Love After Lockup</title>
+    <desc>Johnna confronts Garrett after he stays out all night partying, and she's left wondering if there will still be a wedding.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180607042800 +0000" stop="20180607043000 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.30" start="20180607043000 +0000" stop="20180607053000 +0000">
+    <title>Dance Moms</title>
+    <desc>With the cloud of Abby's open auditions looming over the team, everyone is on edge as the ALDC competes with the Candy Apples for the first time since Nationals. S4 Ep4</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180607053000 +0000" stop="20180607060000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Jibrell wants to look like a princess on her big day. But her unfiltered mum may turn Jibrells fairytale dress dreams into a nightmare. S8 Ep13</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180607060000 +0000" stop="20180607063000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>After a car crash, Brandi turned to singer, Jessie James Decker's song lyrics to help her move forward. Now a bride, Brandi hopes to find a dress similar to what Jessie wore on her big day. S8 Ep14</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180607063000 +0000" stop="20180607073000 +0000">
+    <title>Love It Or List It: Vancouver</title>
+    <desc>Violet wants to buy a luxurious condo, but her husband Rob won't leave their beachside duplex.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180607073000 +0000" stop="20180607082800 +0000">
+    <title>Catfish</title>
+    <desc>Aaliyah has been able to share her life struggles with her first girlfriend Alicia. However, despite living only 70 blocks away, Alicia refuses to meet Aaliyah. S2 Ep10</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180607082800 +0000" stop="20180607083000 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.30" start="20180607083000 +0000" stop="20180607093000 +0000">
+    <title>Killer Couples</title>
+    <desc>A Las Vegas red haired siren and her millionaire boyfriend become suspects in a murder, hundreds of miles away. S8 Ep4</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180607093000 +0000" stop="20180607103000 +0000">
+    <title>Mysteries &amp; Scandals</title>
+    <desc>In 1977 Christa Helm was found murdered in West Hollywood. She was known for her secret diary, detailing romantic encounters with celebrities. Her death remains one of Hollywood's greatest mysteries.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180607103000 +0000" stop="20180607113000 +0000">
+    <title>Final Appeal</title>
+    <desc>Brian and Loni explore the case of Cleve Heidelberg, whose been behind bars for more than 45 years.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180607113000 +0000" stop="20180607122500 +0000">
+    <title>Killer Couples</title>
+    <desc>A mother-daughter trip to paradise is cut short by a shocking crime. S8 Ep7</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180607122500 +0000" stop="20180607131000 +0000">
+    <title>Escaping Polygamy</title>
+    <desc>Yolanda needs help to escape from the notorious FLDS compound. While the girls are familiar with the cult and its infamous prophet Warren Jeffs, the girls are hundreds of miles away from home. S1 Ep6</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180607131000 +0000" stop="20180607180000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.30" start="20180607180000 +0000" stop="20180607190000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.30" start="20180607190000 +0000" stop="20180607230000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.30" start="20180607230000 +0000" stop="20180607232500 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Jibrell wants to look like a princess on her big day. But her unfiltered mum may turn Jibrells fairytale dress dreams into a nightmare. S8 Ep13</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180607232500 +0000" stop="20180607235500 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>After a car crash, Brandi turned to singer, Jessie James Decker's song lyrics to help her move forward. Now a bride, Brandi hopes to find a dress similar to what Jessie wore on her big day. S8 Ep14</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180607235500 +0000" stop="20180608004500 +0000">
+    <title>Catfish</title>
+    <desc>Aaliyah has been able to share her life struggles with her first girlfriend Alicia. However, despite living only 70 blocks away, Alicia refuses to meet Aaliyah. S2 Ep10</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180608004500 +0000" stop="20180608013500 +0000">
+    <title>Escaping Polygamy</title>
+    <desc>Yolanda needs help to escape from the notorious FLDS compound. While the girls are familiar with the cult and its infamous prophet Warren Jeffs, the girls are hundreds of miles away from home. S1 Ep6</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180608013500 +0000" stop="20180608023000 +0000">
+    <title>Below Deck</title>
+    <desc>Kate grows increasingly unhappy with Kat's bad attitude and constant complaining, but is Kat acting out because she fears Kate and Ben are getting just a little too close?</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180608023000 +0000" stop="20180608033000 +0000">
+    <title>Mysteries &amp; Scandals</title>
+    <desc>In 1977 Christa Helm was found murdered in West Hollywood. She was known for her secret diary, detailing romantic encounters with celebrities. Her death remains one of Hollywood's greatest mysteries.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180608033000 +0000" stop="20180608043000 +0000">
+    <title>Final Appeal</title>
+    <desc>Brian and Loni explore the case of Cleve Heidelberg, whose been behind bars for more than 45 years.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180608043000 +0000" stop="20180608053000 +0000">
+    <title>Dance Moms</title>
+    <desc>Everyone is on edge when Abby announces she'll be holding her first national open audition. Meanwhile the fallout over Chloe and Kendall's solos continues as Jill accuses Christi of lying. S4 Ep5</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180608053000 +0000" stop="20180608060000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Brandy comes to the salon armed with her country superstar boss, Naomi Judd with a specific vision for her wedding dress. S8 Ep15</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180608060000 +0000" stop="20180608063000 +0000">
+    <title>Say Yes To The Dress Atlanta</title>
+    <desc>Tareka aims to trade in her city chic style for a country gown. But her fashion forward entourage has other ideas. S8 Ep16</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180608063000 +0000" stop="20180608073000 +0000">
+    <title>Love It Or List It: Vancouver</title>
+    <desc>A blended family struggles in a small, dysfunctional home. Can Jillian create space that will convince Shanti to stay? Or will Todd find something larger in their lakeside community.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180608073000 +0000" stop="20180608082800 +0000">
+    <title>Catfish</title>
+    <desc>Nick and Melissa fell in love when they met online when they were 12. Now 18, Nick is ready to finally ready to meet Melissa. But is Melissa the real deal or has Nick been entangled in lies? S2 Ep11</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180608082800 +0000" stop="20180608083000 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.30" start="20180608083000 +0000" stop="20180608093000 +0000">
+    <title>Catfish</title>
+    <desc>Frustrated by several failed attempts to video chat with Shai, Telizza turns to Nev and Max to uncover the truth.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180608093000 +0000" stop="20180608113300 +0000">
+    <title>Failure To Launch</title>
+    <desc>A thirtysomething slacker suspects his parents of setting him up with his dream girl so he'll finally vacate their home. Starring Matthew McConaughey, Sarah Jessica Parker, Zooey Deschanel.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20180608113300 +0000" stop="20180608113500 +0000">
+    <title>The Dish</title>
+    <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+  </programme>
+  <programme channel="tv.30" start="20180608113500 +0000" stop="20180608123000 +0000">
+    <title>Killer Couples</title>
+    <desc>In a deadly race against the clock, authorities must piece together a string of murders led by a modern day Bonnie and Clyde. S8 Ep8</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.28" start="20180531113000 +0000" stop="20180531120000 +0000">
