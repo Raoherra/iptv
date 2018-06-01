@@ -161,21 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180531220231 +0000" stop="20180531231718 +0000">
-    <title>Gaming the Real World</title>
-    <desc>Visionary gamers, developers, and government officials dream of how games can shape the world of tomorrow.</desc>
-    <sub-title>Video Games Shaping Cities of the Future</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180531231718 +0000" stop="20180531234427 +0000">
-    <title>Red Bull Studios Berlin – Remade</title>
-    <desc>A diverse group of artists unites at Red Bull Studios Berlin to put their spin on Motörhead's 'Ace of Spades'.</desc>
-    <sub-title>Motörhead's 'Ace of Spades'</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180531234427 +0000" stop="20180531234808 +0000">
-    <title>Red Bull Studios Berlin – Remade</title>
-    <desc>A new twist on an old song from the creative collective that converged on Red Bull Studios Berlin, Germany. </desc>
-    <sub-title>Motörhead's 'Ace of Spades': Music Video</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180531234808 +0000" stop="20180601004147 +0000">
     <title>Wingmen</title>
     <desc>Three elite BASE jumpers face the unknown on a global journey to find the best wingsuit and BASE jump spots.</desc>
@@ -2160,6 +2145,21 @@
     <title>Unclimbed</title>
     <desc>David Lama travelled to an incredibly remote valley in Nepal with a team attempting to climb the unclimbed.</desc>
     <sub-title>Annapurna III</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180607021921 +0000" stop="20180607031534 +0000">
+    <title>Visions of Greatness S1E6</title>
+    <desc>Experience the madness of creativity with Jane's Addiction frontman Perry Farrell and photographer Mick Rock.</desc>
+    <sub-title>The Wild Ones</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180607031534 +0000" stop="20180607032933 +0000">
+    <title>The Book of John J S2E4</title>
+    <desc>The boys hit the backcountry in Whistler, Canada for some shredding fun with a crew of fellow snowboarders.</desc>
+    <sub-title>Manning Up</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180607032933 +0000" stop="20180607033628 +0000">
+    <title>The Inca Trail S1E2</title>
+    <desc>Madars Apse and his friends continue their skate adventure as they shred south to the Peruvian city of Puno.</desc>
+    <sub-title>Cusco to Puno</sub-title>
   </programme>
   <programme channel="tv.9" start="20180531110000 +0000" stop="20180531120000 +0000">
     <title>20/20</title>
@@ -16893,28 +16893,21 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180604073000 +0000" stop="20180604080000 +0000">
+  <programme channel="tv.37" start="20180604073000 +0000" stop="20180604083000 +0000">
     <title>Travel Man: 48 Hours In</title>
     <desc>Acclaimed director, author and BAFTA winning actor Richard Ayoade continues his travelling adventures with famous friends.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180604080000 +0000" stop="20180604083000 +0000">
-    <title>Travel Man: 48 Hours In</title>
-    <desc>Acclaimed director, author and BAFTA winning actor Richard Ayoade continues his travelling adventures with famous friends.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.37" start="20180604083000 +0000" stop="20180604093000 +0000">
+  <programme channel="tv.37" start="20180604083000 +0000" stop="20180604093500 +0000">
     <title>WWII Great Escapes: The Freedom Trails</title>
     <desc>Monty tells an incredible story of evasion and escape through unknown, hostile territory in central Italy. He follows the route taken by prisoner of war Len Harley.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180604093000 +0000" stop="20180604103000 +0000">
+  <programme channel="tv.37" start="20180604093500 +0000" stop="20180604103000 +0000">
     <title>Vienna: Empire, Dynasty and Dream</title>
     <desc>Simon Sebag Montefiore explores the rich history of Vienna, from war, to peace, to a city rebuilt, emperors transformed their city from a fortress to into a great cultural capital.</desc>
     <rating system="Freeview">
@@ -16970,14 +16963,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180604160000 +0000" stop="20180604163000 +0000">
-    <title>Travel Man: 48 Hours In</title>
-    <desc>Acclaimed director, author and BAFTA winning actor Richard Ayoade continues his travelling adventures with famous friends.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.37" start="20180604163000 +0000" stop="20180604170000 +0000">
+  <programme channel="tv.37" start="20180604160000 +0000" stop="20180604170000 +0000">
     <title>Travel Man: 48 Hours In</title>
     <desc>Acclaimed director, author and BAFTA winning actor Richard Ayoade continues his travelling adventures with famous friends.</desc>
     <rating system="Freeview">
@@ -17040,14 +17026,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180604233000 +0000" stop="20180605000000 +0000">
-    <title>Travel Man: 48 Hours In</title>
-    <desc>Acclaimed director, author and BAFTA winning actor Richard Ayoade continues his travelling adventures with famous friends.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.37" start="20180605000000 +0000" stop="20180605003000 +0000">
+  <programme channel="tv.37" start="20180604233000 +0000" stop="20180605003000 +0000">
     <title>Travel Man: 48 Hours In</title>
     <desc>Acclaimed director, author and BAFTA winning actor Richard Ayoade continues his travelling adventures with famous friends.</desc>
     <rating system="Freeview">
@@ -17110,14 +17089,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180605083000 +0000" stop="20180605093000 +0000">
+  <programme channel="tv.37" start="20180605083000 +0000" stop="20180605093500 +0000">
     <title>Escape to the Chateau: DIY</title>
     <desc>Dick goes in search of a mythical stash of wine, hidden by the Germans in one of Jonathan and Michael's caves during the Second World War. Will they find it?</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180605093000 +0000" stop="20180605103000 +0000">
+  <programme channel="tv.37" start="20180605093500 +0000" stop="20180605103000 +0000">
     <title>My Dream Home</title>
     <desc>Juggling after-school activities with busy careers, Mark and Eugenie haven't had much time for house hunting. That's where the Property Brothers come in.</desc>
     <rating system="Freeview">
@@ -17243,14 +17222,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180606023000 +0000" stop="20180606033000 +0000">
+  <programme channel="tv.37" start="20180606023000 +0000" stop="20180606032500 +0000">
     <title>My Dream Home</title>
     <desc>Juggling after-school activities with busy careers, Mark and Eugenie haven't had much time for house hunting. That's where the Property Brothers come in.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180606033000 +0000" stop="20180606043000 +0000">
+  <programme channel="tv.37" start="20180606032500 +0000" stop="20180606043000 +0000">
     <title>Love Nature: Frogs: The Thin Green Line</title>
     <desc>Frogs are at the centre of one of the greatest mass extinctions since the dinosaurs. Ecosystems are beginning to unravel, and important medical cures are vanishing. This programme looks at the causes and reveals a new fungus called 'chrytid' as the major culprit for which no cure has yet been found.</desc>
     <rating system="Freeview">
