@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180601050129 +0000" stop="20180601055510 +0000">
-    <title>South to Sian</title>
-    <desc>Harrison Roach and Zye Norris set out to see if the dream of a true pioneering surf adventure is still alive.</desc>
-    <sub-title>A Two-Year Odyssey of Exploration</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180601055510 +0000" stop="20180601070514 +0000">
     <title>The Bits of Baco</title>
     <desc>A misfit band of brothers and friends stir up the ‘90s BMX scene with first-of-their-kind riding videos.</desc>
@@ -31108,7 +31103,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180601160000 +0000" stop="20180601171000 +0000">
+  <programme channel="tv.56" start="20180601160000 +0000" stop="20180601161500 +0000">
+    <title>Answers In Genesis</title>
+    <desc>The Bible is often seen as a relic from the past, full of tales and stories from another time and place. But it is so much more than that. It is real, it is powerful, it is the ultimate truth</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180601161500 +0000" stop="20180601171000 +0000">
     <title>Revelation Today</title>
     <desc>It seems society is out of control. Few people doubt things are getting worse and worse. The Bible tells us why. Explore this topic with Ron Halvorsen as he explains from the Bible</desc>
     <rating system="Freeview">
@@ -31178,9 +31180,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180601230000 +0000" stop="20180602000000 +0000">
+  <programme channel="tv.56" start="20180601230000 +0000" stop="20180601234500 +0000">
     <title>New Perceptions</title>
     <desc>Dwight Nelson looks at how to overcome the dragon by the blood of the lamb</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180601234500 +0000" stop="20180602000000 +0000">
+    <title>Hymns of the Forefathers</title>
+    <desc>Enjoy a journey through some of England's most beautiful scenery and places of worship, learning about the history of hymns. Classic hymn writers such as Isaac Watts</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -31234,21 +31243,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180602045500 +0000" stop="20180602052000 +0000">
+  <programme channel="tv.56" start="20180602045500 +0000" stop="20180602053000 +0000">
     <title>Bible Land Passages</title>
     <desc>At the base of Mount Gilboa a spring still flows as it has for millennia. Here Gideon and his men prepared for battle against the huge Midianite army, and despite the odds, God promised Gideon victo</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180602052000 +0000" stop="20180602053500 +0000">
-    <title>Let's Pray</title>
-    <desc>John Boston swerved his car to miss an oncoming vehicle, hitting a utility pole. Upon impact, a live transformer crashed onto his car, trapping him inside the melting vehicle. How did he escape?</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.56" start="20180602053500 +0000" stop="20180602063000 +0000">
+  <programme channel="tv.56" start="20180602053000 +0000" stop="20180602063000 +0000">
     <title>Cross Connection</title>
     <desc>What did Jesus mean when he said we must all become like little children?</desc>
     <rating system="Freeview">
@@ -31486,21 +31488,21 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180603040000 +0000" stop="20180603042500 +0000">
-    <title>Get Growing</title>
-    <desc>This week, our new team mate Nicola tackles a backyard that's totally out of control; Justin learns about zen gardening, and Lynda gives tips for your weekend in the garden</desc>
+  <programme channel="tv.56" start="20180603040000 +0000" stop="20180603042000 +0000">
+    <title>Garden Pantry</title>
+    <desc>Be self-sustainable from your own backyard. Grow and harvest fruit and veggies; cook, preserve and freeze produce for winter; get back to the basics of healthy eating and grow and process your own f</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180603042500 +0000" stop="20180603044000 +0000">
+  <programme channel="tv.56" start="20180603042000 +0000" stop="20180603043500 +0000">
     <title>Let's Pray</title>
     <desc></desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180603044000 +0000" stop="20180603053000 +0000">
+  <programme channel="tv.56" start="20180603043500 +0000" stop="20180603053000 +0000">
     <title>Disclosure</title>
     <desc>Imagine a time when many people would be willing to die for the gospel. The Bible actually prophesied about it generations before it happened</desc>
     <rating system="Freeview">
