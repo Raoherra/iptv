@@ -280,21 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180602050124 +0000" stop="20180602063208 +0000">
-    <title>On Any Sunday: The Next Chapter</title>
-    <desc>This sequel to the classic 1971 documentary On Any Sunday captures the passion for motorcycle riding.</desc>
-    <sub-title>Motorcycles and Those Who Ride</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180602063208 +0000" stop="20180602063524 +0000">
-    <title>On Any Sunday: The Next Chapter: Extra</title>
-    <desc>In anticipation of Father's Day, motocross stars reminisce about their father's influence on their lives.</desc>
-    <sub-title>A Tribute to Dads</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180602063524 +0000" stop="20180602064152 +0000">
-    <title>The Book of John J S2E1</title>
-    <desc>Before John Jackson hits the road again, he fits in a Tahoe session with fellow rider Sammy Luebke.</desc>
-    <sub-title>Another Beginning</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180602064152 +0000" stop="20180602073456 +0000">
     <title>Visions of Greatness S1E2</title>
     <desc>Is it possible to be born great? Pianist Lang Lang and skier Mikaela Shiffrin were both child prodigies.</desc>
@@ -5489,11 +5474,11 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180601233000 +0000" stop="20180602010000 +0000">
-    <title>Dancing With The Stars</title>
+    <title>Dancing With The Stars Encore</title>
     <desc>New Episode. Six celebrities and their dance partners bring it all to the dance floor, hoping that they won't be going home in tomorrow night's elimination!</desc>
   </programme>
   <programme channel="tv.11" start="20180602010000 +0000" stop="20180602020500 +0000">
-    <title>Dancing With The Stars</title>
+    <title>Dancing With The Stars Encore</title>
     <desc>New Episode. It's elimination night, who will be in the bottom two and be forced to dance off against each other?</desc>
   </programme>
   <programme channel="tv.11" start="20180602020500 +0000" stop="20180602023500 +0000">
@@ -12638,11 +12623,11 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180602003000 +0000" stop="20180602020000 +0000">
-    <title>Dancing With The Stars</title>
+    <title>Dancing With The Stars Encore</title>
     <desc>New Episode. Six celebrities and their dance partners bring it all to the dance floor, hoping that they won't be going home in tomorrow night's elimination!</desc>
   </programme>
   <programme channel="tv.27" start="20180602020000 +0000" stop="20180602030500 +0000">
-    <title>Dancing With The Stars</title>
+    <title>Dancing With The Stars Encore</title>
     <desc>New Episode. It's elimination night, who will be in the bottom two and be forced to dance off against each other?</desc>
   </programme>
   <programme channel="tv.27" start="20180602030500 +0000" stop="20180602033500 +0000">
@@ -56801,11 +56786,11 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20180606140000 +0000" stop="20180606150000 +0000">
-    <title>Love Island Australia</title>
+  <programme channel="tv.101204200428" start="20180606140000 +0000" stop="20180606143000 +0000">
+    <title>Mom</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180606143000 +0000" stop="20180606150000 +0000">
@@ -59344,10 +59329,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180605002700 +0000" stop="20180605013100 +0000">
-    <title>Melbourne International 3 Day Event</title>
+  <programme channel="tv.101305020522" start="20180605002700 +0000" stop="20180605013400 +0000">
+    <title>The Great Outdoors</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180605013100 +0000" stop="20180605040100 +0000">
@@ -59940,11 +59926,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180607232900 +0000" stop="20180608002700 +0000">
-    <title>House Calls to the Rescue</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020522" start="20180607232900 +0000" stop="20180608002600 +0000">
+    <title>Melbourne International 3 Day Event</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180608002600 +0000" stop="20180608012500 +0000">
@@ -61582,7 +61567,8 @@
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180609000000 +0000" stop="20180609010000 +0000">
-    <title>Ice Road Truckers</title>
+    <title>Big Australia</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
