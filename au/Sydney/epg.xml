@@ -2017,15 +2017,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180604080000 +0000" stop="20180604083000 +0000">
-    <title>The Checkout</title>
+  <programme channel="tv.101002210221" start="20180604080000 +0000" stop="20180604090000 +0000">
+    <title>Think Tank</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180604080000 +0000" stop="20180604090000 +0000">
-    <title>Think Tank</title>
+  <programme channel="tv.101002210221" start="20180604080000 +0000" stop="20180604083000 +0000">
+    <title>The Checkout</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -15426,18 +15426,18 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20180606140000 +0000" stop="20180606150000 +0000">
-    <title>Love Island Australia</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200428" start="20180606140000 +0000" stop="20180606143000 +0000">
     <title>Mom</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20180606140000 +0000" stop="20180606150000 +0000">
+    <title>Love Island Australia</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180606143000 +0000" stop="20180606150000 +0000">
@@ -15699,14 +15699,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180607133000 +0000" stop="20180607143000 +0000">
-    <title>Love Island Australia</title>
-    <subtitles type="teletext"/>
+    <title>WWE Raw</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180607133000 +0000" stop="20180607143000 +0000">
-    <title>WWE Raw</title>
+    <title>Love Island Australia</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -28711,15 +28711,15 @@
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180608043000 +0000" stop="20180608050000 +0000">
-    <title>Frasier</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406020628" start="20180608043000 +0000" stop="20180608050000 +0000">
     <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020628" start="20180608043000 +0000" stop="20180608050000 +0000">
+    <title>Frasier</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180608050000 +0000" stop="20180608053000 +0000">
@@ -36831,41 +36831,6 @@
     <rating system="Freeview">
       <value>G</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180602142057 +0000" stop="20180602152057 +0000">
-    <title>Red Bull MotoGP Rookies Cup 2018</title>
-    <desc>One of the world's most beautiful circuits, Mugello is famous for its challenging variation of elevations.</desc>
-    <sub-title>Day 1 – Mugello, Italy</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180602152057 +0000" stop="20180602152453 +0000">
-    <title>Red Bull Rookies Cup: GoPro Extra</title>
-    <desc>Take an inside look at the teamwork and hard work that goes into racing the Red Bull MotoGP Rookies Cup.</desc>
-    <sub-title>The Future of MotoGP</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180602152453 +0000" stop="20180602153302 +0000">
-    <title>MX Nation S2E1</title>
-    <desc>Motocross rider Jeremy Martin prepares for the 2016 season.</desc>
-    <sub-title>Preparation Time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180602153302 +0000" stop="20180602154359 +0000">
-    <title>MX Nation S3E5</title>
-    <desc>Blake Baggett has enjoyed a great 2017 season, but in pro motocross there's always another challenge ahead.</desc>
-    <sub-title>Sandy Southwick Raceway</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180602154359 +0000" stop="20180602155458 +0000">
-    <title>MX Nation S3E6</title>
-    <desc>How do pro riders make a comeback after a set-back like injury or mechanical failure?</desc>
-    <sub-title>Comebacks</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180602155458 +0000" stop="20180602155756 +0000">
-    <title>Extreme XL Lagares 2018</title>
-    <desc>Relive the best of three days of Hard Enduro racing action at Extreme XL Lagares in Portugal.</desc>
-    <sub-title>Best of the Racing Action</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180602155756 +0000" stop="20180602160055 +0000">
-    <title>Red Bull 111 Megawatt 2015</title>
-    <desc>Taddy Blasuziak and Jonny Walker freeride through  the Belchatów coal mine, scene of the 2015 event in Poland.</desc>
-    <sub-title>Elektrownia Freeride</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180602160055 +0000" stop="20180602163055 +0000">
     <title>Erzbergrodeo Red Bull Hare Scramble 2018</title>
