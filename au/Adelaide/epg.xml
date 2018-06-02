@@ -1727,6 +1727,18 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180610140000 +0000" stop="20180610141500 +0000">
+    <title>ABC Late News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180610141500 +0000" stop="20180610150000 +0000">
+    <title>National Wrap</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180602142200 +0000" stop="20180602145000 +0000">
     <title>The Librarians</title>
     <subtitles type="teletext"/>
@@ -5890,6 +5902,13 @@
   </programme>
   <programme channel="tv.101002210222" start="20180610135000 +0000" stop="20180610142200 +0000">
     <title>W1A</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180610142200 +0000" stop="20180610144600 +0000">
+    <title>Plebs</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -13192,6 +13211,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204500454" start="20180610143000 +0000" stop="20180610153000 +0000">
+    <title>Fixer Upper</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204500457" start="20180602120300 +0000" stop="20180602143300 +0000">
     <title>The Jackal</title>
     <subtitles type="teletext"/>
@@ -16473,6 +16498,12 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204500458" start="20180610143000 +0000" stop="20180610143500 +0000">
+    <title>[adult swim]</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020528" start="20180602123000 +0000" stop="20180602160000 +0000">
     <title>UK Racing</title>
     <subtitles type="teletext"/>
@@ -18391,6 +18422,20 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180610140000 +0000" stop="20180610143000 +0000">
+    <title>Raceday Review: Swan Hill</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180610143000 +0000" stop="20180610150000 +0000">
+    <title>Raceday Review - Edenhope</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305050550" start="20180602135800 +0000" stop="20180602143000 +0000">
     <title>The Goldbergs</title>
     <subtitles type="teletext"/>
@@ -20095,17 +20140,17 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101305050552" start="20180605005700 +0000" stop="20180605020100 +0000">
+    <title>Melbourne International 3 Day Event</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305050552" start="20180605005700 +0000" stop="20180605020400 +0000">
     <title>The Great Outdoors</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305050552" start="20180605005700 +0000" stop="20180605020100 +0000">
-    <title>Melbourne International 3 Day Event</title>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20180605020100 +0000" stop="20180605043100 +0000">
@@ -20698,17 +20743,17 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20180607235900 +0000" stop="20180608005600 +0000">
-    <title>Melbourne International 3 Day Event</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050552" start="20180607235900 +0000" stop="20180608005700 +0000">
     <title>House Calls to the Rescue</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050552" start="20180607235900 +0000" stop="20180608005600 +0000">
+    <title>Melbourne International 3 Day Event</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20180608005600 +0000" stop="20180608015500 +0000">
@@ -21170,6 +21215,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050552" start="20180610143000 +0000" stop="20180610145900 +0000">
+    <title>Border Security: Australia's Front Line</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050553" start="20180602141800 +0000" stop="20180602144500 +0000">
@@ -22674,6 +22726,12 @@
     <title>The Corruptor</title>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050553" start="20180610143000 +0000" stop="20180610153000 +0000">
+    <title>Ink Master</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180602131300 +0000" stop="20180602153300 +0000">
@@ -27283,6 +27341,12 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101406050655" start="20180610143000 +0000" stop="20180610150000 +0000">
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406050658" start="20180602135700 +0000" stop="20180602163200 +0000">
     <title>The Loop</title>
     <rating system="Freeview">
@@ -29486,6 +29550,13 @@
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180610140000 +0000" stop="20180610143000 +0000">
+    <title>Everybody Loves Raymond</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406050658" start="20180610143000 +0000" stop="20180610150000 +0000">
     <title>Everybody Loves Raymond</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -32646,6 +32717,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000302" start="20180610140000 +0000" stop="20180610145500 +0000">
+    <title>Sex Box</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000304" start="20180602142000 +0000" stop="20180602145000 +0000">
     <title>Taco Trip</title>
     <rating system="Freeview">
@@ -35004,6 +35081,18 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180610142500 +0000" stop="20180610143000 +0000">
+    <title>Small Business Secrets Bitesize</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180610143000 +0000" stop="20180610152500 +0000">
+    <title>Restaurant: Impossible</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180602140000 +0000" stop="20180602150000 +0000">
     <title>Volumz</title>
     <rating system="Freeview">
@@ -36979,20 +37068,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180602201545 +0000" stop="20180602213045 +0000">
-    <title>Red Bull Cliff Diving World Series 2018</title>
-    <desc>Daunting Hell’s Gate at Possum Kingdom Lake hosts the start of the 2018 cliff diving season.</desc>
-    <sub-title>Finals – Texas</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180602213045 +0000" stop="20180602213216 +0000">
-    <title>Red Bull Cliff Diving World Series 2018</title>
-    <desc>Taking place at seven locations around the world, the aerobatic diving spectacle returns for a 10th season.</desc>
-    <sub-title>Teaser: A Landmark Year</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180602213216 +0000" stop="20180602220112 +0000">
-    <title>On Top Again</title>
-    <desc>A prolific champion is determined to return stronger than ever after suffering a career-threatening injury.</desc>
-    <sub-title>The Comeback of Orlando Duque</sub-title>
+  <programme channel="tv.320203000305" start="20180610140000 +0000" stop="20180610150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.redbull.tv" start="20180602220112 +0000" stop="20180602222816 +0000">
     <title>The Ripple Effect S2E2</title>

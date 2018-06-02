@@ -1739,6 +1739,12 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180610140000 +0000" stop="20180610141500 +0000">
+    <title>ABC Late News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180602135500 +0000" stop="20180602190000 +0000">
     <title>rage</title>
     <rating system="Freeview">
@@ -13136,6 +13142,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200424" start="20180610140000 +0000" stop="20180610150000 +0000">
+    <title>Fixer Upper</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200427" start="20180602113300 +0000" stop="20180602140300 +0000">
     <title>The Jackal</title>
     <subtitles type="teletext"/>
@@ -15699,14 +15711,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180607133000 +0000" stop="20180607143000 +0000">
-    <title>Love Island Australia</title>
-    <subtitles type="teletext"/>
+    <title>WWE Raw</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180607133000 +0000" stop="20180607143000 +0000">
-    <title>WWE Raw</title>
+    <title>Love Island Australia</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -16355,6 +16367,12 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20180610140000 +0000" stop="20180610140500 +0000">
+    <title>[adult swim]</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180602115700 +0000" stop="20180602141900 +0000">
@@ -19136,6 +19154,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020522" start="20180610140000 +0000" stop="20180610142900 +0000">
+    <title>Border Security: Australia's Front Line</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180602123000 +0000" stop="20180602144100 +0000">
@@ -24094,6 +24119,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180610140000 +0000" stop="20180610143000 +0000">
+    <title>Raceday Review: Swan Hill</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406020621" start="20180602135500 +0000" stop="20180602145300 +0000">
     <title>NCIS</title>
     <subtitles type="teletext"/>
@@ -27124,6 +27156,12 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101406020625" start="20180610140000 +0000" stop="20180610143000 +0000">
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406020628" start="20180602132700 +0000" stop="20180602160200 +0000">
     <title>The Loop</title>
     <rating system="Freeview">
@@ -29327,6 +29365,13 @@
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180610133000 +0000" stop="20180610140000 +0000">
+    <title>Everybody Loves Raymond</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020628" start="20180610140000 +0000" stop="20180610143000 +0000">
     <title>Everybody Loves Raymond</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -32485,6 +32530,12 @@
     <title>VS Arashi</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180610140000 +0000" stop="20180610145500 +0000">
+    <title>Sex Box</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180602135500 +0000" stop="20180602142000 +0000">
@@ -36832,20 +36883,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180602201545 +0000" stop="20180602213045 +0000">
-    <title>Red Bull Cliff Diving World Series 2018</title>
-    <desc>Daunting Hell’s Gate at Possum Kingdom Lake hosts the start of the 2018 cliff diving season.</desc>
-    <sub-title>Finals – Texas</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180602213045 +0000" stop="20180602213216 +0000">
-    <title>Red Bull Cliff Diving World Series 2018</title>
-    <desc>Taking place at seven locations around the world, the aerobatic diving spectacle returns for a 10th season.</desc>
-    <sub-title>Teaser: A Landmark Year</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180602213216 +0000" stop="20180602220112 +0000">
-    <title>On Top Again</title>
-    <desc>A prolific champion is determined to return stronger than ever after suffering a career-threatening injury.</desc>
-    <sub-title>The Comeback of Orlando Duque</sub-title>
+  <programme channel="tv.320203000305" start="20180610140000 +0000" stop="20180610150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.redbull.tv" start="20180602220112 +0000" stop="20180602222816 +0000">
     <title>The Ripple Effect S2E2</title>
