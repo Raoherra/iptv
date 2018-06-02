@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180602163411 +0000" stop="20180602180542 +0000">
-    <title>On Any Sunday: The Next Chapter</title>
-    <desc>This sequel to the classic 1971 documentary On Any Sunday captures the passion for motorcycle riding.</desc>
-    <sub-title>Motorcycles and Those Who Ride</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180602180542 +0000" stop="20180602185707 +0000">
-    <title>Visions of Greatness S1E4</title>
-    <desc>Two determined innovators, who push their limits, risking all, in order to realise their dreams, are profiled.</desc>
-    <sub-title>The Explorers</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180602185707 +0000" stop="20180602192434 +0000">
     <title>UCI Mountain Bike World Cup 2018</title>
     <desc>Get all the cross-country action from the third stop of the MTB World Cup.</desc>
@@ -15857,10 +15847,16 @@
   <programme channel="tv.28" start="20180609193000 +0000" stop="20180609203000 +0000">
     <title>Hour of Power</title>
     <desc>Religious programme. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180609203000 +0000" stop="20180609210000 +0000">
     <title>Beyond Today</title>
     <desc>Religious programme. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180609210000 +0000" stop="20180609213000 +0000">
     <title>Impact For Life</title>
@@ -15869,10 +15865,16 @@
   <programme channel="tv.28" start="20180609213000 +0000" stop="20180609220000 +0000">
     <title>Life TV</title>
     <desc>Religious programme. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180609220000 +0000" stop="20180609223000 +0000">
     <title>Running With Fire</title>
     <desc>Religious programme. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180609223000 +0000" stop="20180610000000 +0000">
     <title>Sport Box</title>
