@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180602035734 +0000" stop="20180602045237 +0000">
-    <title>Waves for Water</title>
-    <desc>A troubled ex-pro surfer stumbles upon a new calling, bringing clean water to parts of the world most in need.</desc>
-    <sub-title>Clean Water is His Life's Purpose</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180602045237 +0000" stop="20180602050124 +0000">
-    <title>Who is JOB S5E3</title>
-    <desc>A big swell hits Jaws, Hawaii’s legendary wave break, so Jamie O'Brien and the crew take advantage.</desc>
-    <sub-title>Giant Jaws on Odd Boards</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180602050124 +0000" stop="20180602063208 +0000">
     <title>On Any Sunday: The Next Chapter</title>
     <desc>This sequel to the classic 1971 documentary On Any Sunday captures the passion for motorcycle riding.</desc>
@@ -4713,6 +4703,9 @@
   <programme channel="tv.10" start="20180607053000 +0000" stop="20180607060000 +0000">
     <title>Home And Away</title>
     <desc>Ziggy proposes to Brody – but is the wedding off before it’s even started? Ebony is getting closer to Colby, but are her plans foiled by Robbo? The Singles Mingle night kicks off at Salt.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180607060000 +0000" stop="20180607063000 +0000">
     <title>The Big Bang Theory</title>
@@ -4930,6 +4923,9 @@
   <programme channel="tv.10" start="20180608023000 +0000" stop="20180608030000 +0000">
     <title>Home And Away</title>
     <desc>Ziggy proposes to Brody – but is the wedding off before it’s even started? Ebony is getting closer to Colby, but are her plans foiled by Robbo? The Singles Mingle night kicks off at Salt.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180608030000 +0000" stop="20180608033000 +0000">
     <title>Shortland Street</title>
@@ -5258,6 +5254,12 @@
   <programme channel="tv.10" start="20180609014500 +0000" stop="20180609024500 +0000">
     <title>The 100</title>
     <desc>S4 E11 Clarke faces the consequences of her fateful choice.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180609024500 +0000" stop="20180609034000 +0000">
     <title>Once Upon A Time</title>
@@ -11921,6 +11923,9 @@
   <programme channel="tv.14" start="20180607063000 +0000" stop="20180607070000 +0000">
     <title>Home And Away</title>
     <desc>Ziggy proposes to Brody – but is the wedding off before it’s even started? Ebony is getting closer to Colby, but are her plans foiled by Robbo? The Singles Mingle night kicks off at Salt.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180607070000 +0000" stop="20180607073000 +0000">
     <title>The Big Bang Theory</title>
@@ -12123,6 +12128,9 @@
   <programme channel="tv.14" start="20180608033000 +0000" stop="20180608040000 +0000">
     <title>Home And Away</title>
     <desc>Ziggy proposes to Brody – but is the wedding off before it’s even started? Ebony is getting closer to Colby, but are her plans foiled by Robbo? The Singles Mingle night kicks off at Salt.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180608040000 +0000" stop="20180608043000 +0000">
     <title>Shortland Street</title>
@@ -12409,6 +12417,9 @@
   <programme channel="tv.14" start="20180609024500 +0000" stop="20180609034500 +0000">
     <title>The 100</title>
     <desc>S4 E11 Clarke faces the consequences of her fateful choice.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180609034500 +0000" stop="20180609044000 +0000">
     <title>Once Upon A Time</title>
