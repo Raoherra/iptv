@@ -9181,15 +9181,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002810281" start="20180604083000 +0000" stop="20180604093000 +0000">
-    <title>Think Tank</title>
+  <programme channel="tv.101002810281" start="20180604083000 +0000" stop="20180604090000 +0000">
+    <title>The Checkout</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002810281" start="20180604083000 +0000" stop="20180604090000 +0000">
-    <title>The Checkout</title>
+  <programme channel="tv.101002810281" start="20180604083000 +0000" stop="20180604093000 +0000">
+    <title>Think Tank</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -14595,18 +14595,18 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20180603135200 +0000" stop="20180603141900 +0000">
-    <title>The Big Bang Theory</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200428" start="20180603135200 +0000" stop="20180603145600 +0000">
     <title>Love Island Australia</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20180603135200 +0000" stop="20180603141900 +0000">
+    <title>The Big Bang Theory</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180603141900 +0000" stop="20180603142000 +0000">
@@ -15696,14 +15696,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180607133000 +0000" stop="20180607143000 +0000">
-    <title>WWE Raw</title>
+    <title>Love Island Australia</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180607133000 +0000" stop="20180607143000 +0000">
-    <title>Love Island Australia</title>
-    <subtitles type="teletext"/>
+    <title>WWE Raw</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -20617,17 +20617,17 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101305050552" start="20180607235900 +0000" stop="20180608005600 +0000">
+    <title>Melbourne International 3 Day Event</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305050552" start="20180607235900 +0000" stop="20180608005700 +0000">
     <title>House Calls to the Rescue</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305050552" start="20180607235900 +0000" stop="20180608005600 +0000">
-    <title>Melbourne International 3 Day Event</title>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20180608005600 +0000" stop="20180608015500 +0000">
@@ -28796,19 +28796,13 @@
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180608043000 +0000" stop="20180608050000 +0000">
-    <title>Will &amp; Grace</title>
+    <title>Frasier</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180608043000 +0000" stop="20180608050000 +0000">
-    <title>Frasier</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406050658" start="20180608050000 +0000" stop="20180608053000 +0000">
-    <title>Frasier</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -28817,6 +28811,12 @@
     <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406050658" start="20180608050000 +0000" stop="20180608053000 +0000">
+    <title>Frasier</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180608053000 +0000" stop="20180608060000 +0000">
@@ -36947,21 +36947,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180603083914 +0000" stop="20180603090633 +0000">
-    <title>Amazon High Tide</title>
-    <desc>Ramón Navarro is a surfer brave enough to cross the Amazon jungle and find a secret wave spot.</desc>
-    <sub-title>In Search of the Waves</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180603090633 +0000" stop="20180603093456 +0000">
-    <title>ABC of... S1E1</title>
-    <desc>A down-and-dirty crash course in the jargon, pros, and events of motocross' toughest discipline, Hard Enduro.</desc>
-    <sub-title>ABC of... Hard Enduro</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180603093456 +0000" stop="20180603100319 +0000">
-    <title>Extreme XL Lagares 2018</title>
-    <desc>Relive the best moments from 2018's Extreme XL Lagares.</desc>
-    <sub-title>Recap: Extreme XL Lagares</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180603100319 +0000" stop="20180603101548 +0000">
     <title>Rob Warner Meets S1E1</title>
