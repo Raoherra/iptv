@@ -15423,18 +15423,18 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20180606140000 +0000" stop="20180606143000 +0000">
-    <title>Mom</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200428" start="20180606140000 +0000" stop="20180606150000 +0000">
     <title>Love Island Australia</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20180606140000 +0000" stop="20180606143000 +0000">
+    <title>Mom</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180606143000 +0000" stop="20180606150000 +0000">
@@ -15696,14 +15696,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180607133000 +0000" stop="20180607143000 +0000">
-    <title>Love Island Australia</title>
-    <subtitles type="teletext"/>
+    <title>WWE Raw</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180607133000 +0000" stop="20180607143000 +0000">
-    <title>WWE Raw</title>
+    <title>Love Island Australia</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -20617,17 +20617,17 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20180607235900 +0000" stop="20180608005600 +0000">
-    <title>Melbourne International 3 Day Event</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050552" start="20180607235900 +0000" stop="20180608005700 +0000">
     <title>House Calls to the Rescue</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050552" start="20180607235900 +0000" stop="20180608005600 +0000">
+    <title>Melbourne International 3 Day Event</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20180608005600 +0000" stop="20180608015500 +0000">
@@ -28796,13 +28796,19 @@
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180608043000 +0000" stop="20180608050000 +0000">
-    <title>Frasier</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180608043000 +0000" stop="20180608050000 +0000">
-    <title>Will &amp; Grace</title>
+    <title>Frasier</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406050658" start="20180608050000 +0000" stop="20180608053000 +0000">
+    <title>Frasier</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -28811,12 +28817,6 @@
     <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406050658" start="20180608050000 +0000" stop="20180608053000 +0000">
-    <title>Frasier</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180608053000 +0000" stop="20180608060000 +0000">
@@ -36947,31 +36947,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180603080525 +0000" stop="20180603081243 +0000">
-    <title>27 @ 27 S1E2</title>
-    <desc>The pain from a shoulder injury returns with a vengeance after David Colturi’s first dive of the season.</desc>
-    <sub-title>A Rusty Start</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180603081243 +0000" stop="20180603081959 +0000">
-    <title>27 @ 27 S1E3</title>
-    <desc>David Colturi decides to compete in the Cliff Diving World Series, balancing travel and competition with some </desc>
-    <sub-title>Packing the Bags</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180603081959 +0000" stop="20180603082712 +0000">
-    <title>27 @ 27 S1E4</title>
-    <desc>Cliff diver David Colturi recalibrates with some rest and relaxation at the halfway point of the season.</desc>
-    <sub-title>Down Time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180603082712 +0000" stop="20180603083321 +0000">
-    <title>27 @ 27 S1E5</title>
-    <desc>While in Bosnia and Herzegovina cliff diver David Colturi comes to terms with a tough decision.</desc>
-    <sub-title>Fighting the Good Fight</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180603083321 +0000" stop="20180603083914 +0000">
-    <title>27 @ 27 S1E6</title>
-    <desc>After ending his season with a podium finish, cliff diver David Colturi heads to Colorado, USA for surgery.</desc>
-    <sub-title>Surgery</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180603083914 +0000" stop="20180603090633 +0000">
     <title>Amazon High Tide</title>
