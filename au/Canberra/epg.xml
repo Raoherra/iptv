@@ -1613,6 +1613,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180611140000 +0000" stop="20180611143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180603134900 +0000" stop="20180603143600 +0000">
     <title>Doc Martin</title>
     <subtitles type="teletext"/>
@@ -13162,6 +13169,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200424" start="20180611140000 +0000" stop="20180611143000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200427" start="20180603130700 +0000" stop="20180603140300 +0000">
     <title>The Closer</title>
     <rating system="Freeview">
@@ -14440,6 +14453,13 @@
   </programme>
   <programme channel="tv.101204200427" start="20180611130000 +0000" stop="20180611140000 +0000">
     <title>Death Row Stories</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200427" start="20180611140000 +0000" stop="20180611150000 +0000">
+    <title>Footy Classified</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -16460,6 +16480,13 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200428" start="20180611140000 +0000" stop="20180611143000 +0000">
+    <title>Mom</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020520" start="20180603133900 +0000" stop="20180603143700 +0000">
     <title>Blindspot</title>
     <subtitles type="teletext"/>
@@ -17594,6 +17621,13 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020520" start="20180611140000 +0000" stop="20180611145600 +0000">
+    <title>Blindspot</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020522" start="20180603133900 +0000" stop="20180603140600 +0000">
     <title>Motorway Patrol</title>
     <subtitles type="teletext"/>
@@ -18515,17 +18549,17 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020522" start="20180607232900 +0000" stop="20180608002600 +0000">
+    <title>Melbourne International 3 Day Event</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020522" start="20180607232900 +0000" stop="20180608002700 +0000">
     <title>House Calls to the Rescue</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020522" start="20180607232900 +0000" stop="20180608002600 +0000">
-    <title>Melbourne International 3 Day Event</title>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180608002600 +0000" stop="20180608012500 +0000">
@@ -24190,6 +24224,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180611140000 +0000" stop="20180611143000 +0000">
+    <title>Raceday Review - Sha Tin</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406020621" start="20180603125900 +0000" stop="20180603140400 +0000">
     <title>Todd Sampson's Body Hack 2.0</title>
     <subtitles type="teletext"/>
@@ -27253,6 +27294,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020625" start="20180611140000 +0000" stop="20180611150000 +0000">
+    <title>The Late Show With Stephen Colbert</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180603134400 +0000" stop="20180603140900 +0000">
@@ -35009,6 +35057,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180611140000 +0000" stop="20180611143000 +0000">
+    <title>Thieves, Inc.</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180603133000 +0000" stop="20180603140000 +0000">
     <title>Cunnamulla Dreaming</title>
     <rating system="Freeview">
@@ -37044,10 +37098,11 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180603205818 +0000" stop="20180603220507 +0000">
-    <title>Ride: United</title>
-    <desc>The biggest names in every discipline celebrate the community and camaraderie of the competitive moto world.</desc>
-    <sub-title>A World of Competitive Moto Riding</sub-title>
+  <programme channel="tv.320203000305" start="20180611140000 +0000" stop="20180611150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.redbull.tv" start="20180603220507 +0000" stop="20180603220806 +0000">
     <title>Red Bull 111 Megawatt 2015</title>
