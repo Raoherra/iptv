@@ -11687,6 +11687,9 @@
   <programme channel="tv.101204500451" start="20180610123000 +0000" stop="20180610135000 +0000">
     <title>Delta Goodrem: Wings of the Wild Tour</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101204500451" start="20180610135000 +0000" stop="20180610145000 +0000">
     <title>The Innocence Network</title>
@@ -15294,18 +15297,18 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500458" start="20180605140000 +0000" stop="20180605143000 +0000">
-    <title>The Big Bang Theory</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204500458" start="20180605140000 +0000" stop="20180605150000 +0000">
     <title>Love Island Australia</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500458" start="20180605140000 +0000" stop="20180605143000 +0000">
+    <title>The Big Bang Theory</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204500458" start="20180605143000 +0000" stop="20180605153000 +0000">
@@ -20743,17 +20746,17 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101305050552" start="20180607235900 +0000" stop="20180608005600 +0000">
+    <title>Melbourne International 3 Day Event</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305050552" start="20180607235900 +0000" stop="20180608005700 +0000">
     <title>House Calls to the Rescue</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305050552" start="20180607235900 +0000" stop="20180608005600 +0000">
-    <title>Melbourne International 3 Day Event</title>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20180608005600 +0000" stop="20180608015500 +0000">
@@ -28922,13 +28925,13 @@
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180608043000 +0000" stop="20180608050000 +0000">
-    <title>Will &amp; Grace</title>
+    <title>Frasier</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180608043000 +0000" stop="20180608050000 +0000">
-    <title>Frasier</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -37073,21 +37076,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180603055654 +0000" stop="20180603070942 +0000">
-    <title>Pretty Sweet</title>
-    <desc>Skateboarding's two hottest teams, Girl and Chocolate, combine forces to deliver a blockbuster skate movie.</desc>
-    <sub-title>A Girl and Chocolate Skateboard Film</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180603070942 +0000" stop="20180603073813 +0000">
-    <title>Fuse</title>
-    <desc>At Fuse, a nightclub in Brussels, Belgium, everyone has the same unwritten purpose: enjoying techno music.</desc>
-    <sub-title>The History of Belgium’s Premier Techno Club</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180603073813 +0000" stop="20180603080525 +0000">
-    <title>Red Bull Flugtag S2E3</title>
-    <desc>Fifty teams fly homemade flying craft around (and in!) Lake Zurich, Switzerland.</desc>
-    <sub-title>Zurich, Switzerland</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180603080525 +0000" stop="20180603081243 +0000">
     <title>27 @ 27 S1E2</title>

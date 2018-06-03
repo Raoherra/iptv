@@ -11618,6 +11618,9 @@
   <programme channel="tv.101204200421" start="20180610120000 +0000" stop="20180610132000 +0000">
     <title>Delta Goodrem: Wings of the Wild Tour</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180610132000 +0000" stop="20180610142000 +0000">
     <title>The Innocence Network</title>
@@ -19636,14 +19639,14 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180605040400 +0000" stop="20180605043100 +0000">
-    <title>Cajun Pawn Stars</title>
+  <programme channel="tv.101305020523" start="20180605040400 +0000" stop="20180605050100 +0000">
+    <title>American Pickers</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180605040400 +0000" stop="20180605050100 +0000">
-    <title>American Pickers</title>
+  <programme channel="tv.101305020523" start="20180605040400 +0000" stop="20180605043100 +0000">
+    <title>Cajun Pawn Stars</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -20061,14 +20064,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180607053400 +0000" stop="20180607060000 +0000">
-    <title>Cajun Pawn Stars</title>
+  <programme channel="tv.101305020523" start="20180607053400 +0000" stop="20180607063100 +0000">
+    <title>American Pickers</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180607053400 +0000" stop="20180607063100 +0000">
-    <title>American Pickers</title>
+  <programme channel="tv.101305020523" start="20180607053400 +0000" stop="20180607060000 +0000">
+    <title>Cajun Pawn Stars</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -28737,19 +28740,13 @@
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180608040000 +0000" stop="20180608043000 +0000">
-    <title>Will &amp; Grace</title>
+    <title>Frasier</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180608040000 +0000" stop="20180608043000 +0000">
-    <title>Frasier</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406020628" start="20180608043000 +0000" stop="20180608050000 +0000">
-    <title>Frasier</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -28758,6 +28755,12 @@
     <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020628" start="20180608043000 +0000" stop="20180608050000 +0000">
+    <title>Frasier</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180608050000 +0000" stop="20180608053000 +0000">
@@ -36888,21 +36891,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180603055654 +0000" stop="20180603070942 +0000">
-    <title>Pretty Sweet</title>
-    <desc>Skateboarding's two hottest teams, Girl and Chocolate, combine forces to deliver a blockbuster skate movie.</desc>
-    <sub-title>A Girl and Chocolate Skateboard Film</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180603070942 +0000" stop="20180603073813 +0000">
-    <title>Fuse</title>
-    <desc>At Fuse, a nightclub in Brussels, Belgium, everyone has the same unwritten purpose: enjoying techno music.</desc>
-    <sub-title>The History of Belgium’s Premier Techno Club</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180603073813 +0000" stop="20180603080525 +0000">
-    <title>Red Bull Flugtag S2E3</title>
-    <desc>Fifty teams fly homemade flying craft around (and in!) Lake Zurich, Switzerland.</desc>
-    <sub-title>Zurich, Switzerland</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180603080525 +0000" stop="20180603081243 +0000">
     <title>27 @ 27 S1E2</title>

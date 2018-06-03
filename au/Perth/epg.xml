@@ -10194,6 +10194,9 @@
   <programme channel="tv.101204600461" start="20180610140000 +0000" stop="20180610152000 +0000">
     <title>Delta Goodrem: Wings of the Wild Tour</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180610152000 +0000" stop="20180610162000 +0000">
     <title>The Innocence Network</title>
@@ -14343,14 +14346,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204600468" start="20180607153000 +0000" stop="20180607163000 +0000">
-    <title>Love Island Australia</title>
-    <subtitles type="teletext"/>
+    <title>WWE Raw</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204600468" start="20180607153000 +0000" stop="20180607163000 +0000">
-    <title>WWE Raw</title>
+    <title>Love Island Australia</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -27413,19 +27416,13 @@
     </rating>
   </programme>
   <programme channel="tv.101406070688" start="20180608060000 +0000" stop="20180608063000 +0000">
-    <title>Will &amp; Grace</title>
+    <title>Frasier</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406070688" start="20180608060000 +0000" stop="20180608063000 +0000">
-    <title>Frasier</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406070688" start="20180608063000 +0000" stop="20180608070000 +0000">
-    <title>Frasier</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -27434,6 +27431,12 @@
     <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406070688" start="20180608063000 +0000" stop="20180608070000 +0000">
+    <title>Frasier</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406070688" start="20180608070000 +0000" stop="20180608073000 +0000">
@@ -28332,15 +28335,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20180604100000 +0000" stop="20180604103000 +0000">
-    <title>The Checkout</title>
+  <programme channel="tv.3201026102E1" start="20180604100000 +0000" stop="20180604110000 +0000">
+    <title>Think Tank</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20180604100000 +0000" stop="20180604110000 +0000">
-    <title>Think Tank</title>
+  <programme channel="tv.3201026102E1" start="20180604100000 +0000" stop="20180604103000 +0000">
+    <title>The Checkout</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -37055,21 +37058,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180603055654 +0000" stop="20180603070942 +0000">
-    <title>Pretty Sweet</title>
-    <desc>Skateboarding's two hottest teams, Girl and Chocolate, combine forces to deliver a blockbuster skate movie.</desc>
-    <sub-title>A Girl and Chocolate Skateboard Film</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180603070942 +0000" stop="20180603073813 +0000">
-    <title>Fuse</title>
-    <desc>At Fuse, a nightclub in Brussels, Belgium, everyone has the same unwritten purpose: enjoying techno music.</desc>
-    <sub-title>The History of Belgium’s Premier Techno Club</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180603073813 +0000" stop="20180603080525 +0000">
-    <title>Red Bull Flugtag S2E3</title>
-    <desc>Fifty teams fly homemade flying craft around (and in!) Lake Zurich, Switzerland.</desc>
-    <sub-title>Zurich, Switzerland</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180603080525 +0000" stop="20180603081243 +0000">
     <title>27 @ 27 S1E2</title>
