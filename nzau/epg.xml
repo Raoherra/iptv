@@ -280,21 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180603025836 +0000" stop="20180603042924 +0000">
-    <title>On Any Sunday: The Next Chapter</title>
-    <desc>This sequel to the classic 1971 documentary On Any Sunday captures the passion for motorcycle riding.</desc>
-    <sub-title>Motorcycles and Those Who Ride</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180603042924 +0000" stop="20180603043240 +0000">
-    <title>On Any Sunday: The Next Chapter: Extra</title>
-    <desc>In anticipation of Father's Day, motocross stars reminisce about their father's influence on their lives.</desc>
-    <sub-title>A Tribute to Dads</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180603043240 +0000" stop="20180603050043 +0000">
-    <title>Tall Bikes Will Save the World</title>
-    <desc>Part art project, part practical transport, part mad scientist hobby, tall bikes just might save the world!</desc>
-    <sub-title>Be a Creator, Not a Spectator</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180603050043 +0000" stop="20180603055654 +0000">
     <title>Locked In</title>
     <desc>Ben Stookesberry and a group of kayakers attempt a first descent of the Beriman River in Papua New Guinea.</desc>
@@ -4815,6 +4800,9 @@
   <programme channel="tv.10" start="20180608220000 +0000" stop="20180608223000 +0000">
     <title>Fresh</title>
     <desc>We’re keeping it Fresh this week with Warriors legend Wairangi Koopu and tennis pro Makere Gibbons! We ReFresh the classic Kiwi comedy: Boy, and the Fantastic Fobz battle a giant hammerhead shark!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180608223000 +0000" stop="20180608225500 +0000">
     <title>Wilde Ride</title>
@@ -11978,6 +11966,9 @@
   <programme channel="tv.14" start="20180608230000 +0000" stop="20180608233000 +0000">
     <title>Fresh</title>
     <desc>We’re keeping it Fresh this week with Warriors legend Wairangi Koopu and tennis pro Makere Gibbons! We ReFresh the classic Kiwi comedy: Boy, and the Fantastic Fobz battle a giant hammerhead shark!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180608233000 +0000" stop="20180608235500 +0000">
     <title>Wilde Ride</title>
@@ -30515,8 +30506,8 @@
     </rating>
   </programme>
   <programme channel="tv.56" start="20180603233000 +0000" stop="20180604000000 +0000">
-    <title>Get Growing</title>
-    <desc>This week, our new team mate Nicola tackles a backyard that's totally out of control; Justin learns about zen gardening, and Lynda gives tips for your weekend in the garden</desc>
+    <title>Garden Pantry</title>
+    <desc>Be self-sustainable from your own backyard. Grow and harvest fruit and veggies; cook, preserve and freeze produce for winter; get back to the basics of healthy eating and grow and process your own f</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -30689,14 +30680,14 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180604135500 +0000" stop="20180604141500 +0000">
+  <programme channel="tv.56" start="20180604135500 +0000" stop="20180604141000 +0000">
     <title>Let's Pray</title>
     <desc/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180604141500 +0000" stop="20180604144000 +0000">
+  <programme channel="tv.56" start="20180604141000 +0000" stop="20180604144000 +0000">
     <title>Forgive To Live</title>
     <desc>We all want to believe that life is fair. But what happens when life turns out to be not so fair after all? How can we best respond to the hurtful things that happen to us?</desc>
     <rating system="Freeview">
@@ -30724,14 +30715,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180604170000 +0000" stop="20180604173000 +0000">
+  <programme channel="tv.56" start="20180604170000 +0000" stop="20180604174000 +0000">
     <title>Animal Encounters - Costa Rica</title>
     <desc>A healthy coral reef can be compared to a bustling city, and provides structured dwellings for numerous organisms, and a food source for thousands of fish and animal species.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180604173000 +0000" stop="20180604183000 +0000">
+  <programme channel="tv.56" start="20180604174000 +0000" stop="20180604183000 +0000">
     <title>Disclosure</title>
     <desc>Imagine a time when many people would be willing to die for the gospel. The Bible actually prophesied about it generations before it happened</desc>
     <rating system="Freeview">
@@ -30745,14 +30736,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180604190000 +0000" stop="20180604193000 +0000">
+  <programme channel="tv.56" start="20180604190000 +0000" stop="20180604193500 +0000">
     <title>Nest Family Video</title>
     <desc>Jesus told many simple stories based on real life in His day. He used these stories to teach us how to make good choices in our lives</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180604193000 +0000" stop="20180604200000 +0000">
+  <programme channel="tv.56" start="20180604193500 +0000" stop="20180604200000 +0000">
     <title>Buddy's Adventures</title>
     <desc/>
     <rating system="Freeview">
@@ -59318,10 +59309,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180607232900 +0000" stop="20180608002600 +0000">
-    <title>Melbourne International 3 Day Event</title>
+  <programme channel="tv.101305020522" start="20180607232900 +0000" stop="20180608002700 +0000">
+    <title>House Calls to the Rescue</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180608002600 +0000" stop="20180608012500 +0000">
@@ -60273,8 +60265,8 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180605040400 +0000" stop="20180605043100 +0000">
-    <title>Cajun Pawn Stars</title>
+  <programme channel="tv.101305020523" start="20180605040400 +0000" stop="20180605050100 +0000">
+    <title>American Pickers</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
