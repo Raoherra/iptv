@@ -15118,18 +15118,18 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300437" start="20180605133000 +0000" stop="20180605143000 +0000">
-    <title>Love Island Australia</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204300437" start="20180605133000 +0000" stop="20180605140000 +0000">
     <title>The Big Bang Theory</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300437" start="20180605133000 +0000" stop="20180605143000 +0000">
+    <title>Love Island Australia</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204300437" start="20180605140000 +0000" stop="20180605150000 +0000">
@@ -15664,14 +15664,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204300437" start="20180607133000 +0000" stop="20180607143000 +0000">
-    <title>Love Island Australia</title>
-    <subtitles type="teletext"/>
+    <title>WWE Raw</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204300437" start="20180607133000 +0000" stop="20180607143000 +0000">
-    <title>WWE Raw</title>
+    <title>Love Island Australia</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -20005,17 +20005,17 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20180605002700 +0000" stop="20180605013100 +0000">
-    <title>Melbourne International 3 Day Event</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305030532" start="20180605002700 +0000" stop="20180605013400 +0000">
     <title>The Great Outdoors</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030532" start="20180605002700 +0000" stop="20180605013100 +0000">
+    <title>Melbourne International 3 Day Event</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20180605013100 +0000" stop="20180605040100 +0000">
@@ -20608,17 +20608,17 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20180607232900 +0000" stop="20180608002600 +0000">
-    <title>Melbourne International 3 Day Event</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305030532" start="20180607232900 +0000" stop="20180608002700 +0000">
     <title>House Calls to the Rescue</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030532" start="20180607232900 +0000" stop="20180608002600 +0000">
+    <title>Melbourne International 3 Day Event</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20180608002600 +0000" stop="20180608012500 +0000">
@@ -28711,15 +28711,15 @@
     </rating>
   </programme>
   <programme channel="tv.101406030638" start="20180608043000 +0000" stop="20180608050000 +0000">
-    <title>Frasier</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406030638" start="20180608043000 +0000" stop="20180608050000 +0000">
     <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406030638" start="20180608043000 +0000" stop="20180608050000 +0000">
+    <title>Frasier</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406030638" start="20180608050000 +0000" stop="20180608053000 +0000">
@@ -37216,11 +37216,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180604095850 +0000" stop="20180604100650 +0000">
-    <title>A Profile of Mark McMorris</title>
-    <desc>This mini-doc gives a rare glimpse inside the life and mind of Mark McMorris, Canada’s slopestyle icon.</desc>
-    <sub-title>Inspiration</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180604100650 +0000" stop="20180604110530 +0000">
     <title>Prime</title>
