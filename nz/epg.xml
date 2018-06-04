@@ -161,21 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180604035641 +0000" stop="20180604040959 +0000">
-    <title>Rob Warner Meets S1E6</title>
-    <desc>Rob Warner gets personal with the undisputed king of cross-country mountain biking, Julien Absalon.</desc>
-    <sub-title>Julien Absalon</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180604040959 +0000" stop="20180604045402 +0000">
-    <title>Breaking the Day  S1E6</title>
-    <desc>Adventure photographer Krystle Wright is about to risk it all in hopes of capturing the image of a lifetime.</desc>
-    <sub-title>Adventure Photographer</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180604045402 +0000" stop="20180604050103 +0000">
-    <title>The Book of John J S2E2</title>
-    <desc>As the snow mounts in Canada, John makes it north of the border to tackle British Columbia’s interior pillows.</desc>
-    <sub-title>Becoming a Pillow Ninja</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180604050103 +0000" stop="20180604055529 +0000">
     <title>Visions of Greatness S1E3</title>
     <desc>At the pinnacle of performance, natural ability only goes so far. Drive separates the good from the great.</desc>
@@ -2390,6 +2375,9 @@
     <title>Coronation Street 2018</title>
     <desc>David finds the strength to face his demons. Ryan vanishes on the morning of Robert and Michelle’s wedding. Gary surprises Sarah with a souvenir from Wales.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180611102500 +0000" stop="20180611105500 +0000">
     <title>1 News Tonight</title>
@@ -2623,6 +2611,9 @@
   <programme channel="tv.10" start="20180604040000 +0000" stop="20180604043000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Skye the Dental Dog, we catch up with Lachlan, Isla, Mackenzie and their enormous newfoundland dog Daisy, and we show you how to make guinea peek tunnels!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180604043000 +0000" stop="20180604050000 +0000">
     <title>Friends</title>
@@ -3807,6 +3798,9 @@
   <programme channel="tv.10" start="20180608010000 +0000" stop="20180608020000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180608020000 +0000" stop="20180608023000 +0000">
     <title>Home Improvement</title>
@@ -3981,6 +3975,9 @@
   <programme channel="tv.10" start="20180608161000 +0000" stop="20180608170000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180608170000 +0000" stop="20180608171000 +0000">
     <title>Regular Show</title>
@@ -9856,6 +9853,9 @@
     <title>Coronation Street 2018</title>
     <desc>David finds the strength to face his demons. Ryan vanishes on the morning of Robert and Michelle’s wedding. Gary surprises Sarah with a souvenir from Wales.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180611112500 +0000" stop="20180611115500 +0000">
     <title>1 News Tonight</title>
@@ -10067,6 +10067,9 @@
   <programme channel="tv.14" start="20180604050000 +0000" stop="20180604053000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Skye the Dental Dog, we catch up with Lachlan, Isla, Mackenzie and their enormous newfoundland dog Daisy, and we show you how to make guinea peek tunnels!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180604053000 +0000" stop="20180604060000 +0000">
     <title>Friends</title>
@@ -11122,6 +11125,9 @@
   <programme channel="tv.14" start="20180608020000 +0000" stop="20180608030000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180608030000 +0000" stop="20180608033000 +0000">
     <title>Home Improvement</title>
@@ -11272,6 +11278,9 @@
   <programme channel="tv.14" start="20180608171000 +0000" stop="20180608180000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180608180000 +0000" stop="20180608181000 +0000">
     <title>Regular Show</title>
