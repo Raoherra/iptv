@@ -280,21 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180605050017 +0000" stop="20180605060724 +0000">
-    <title>Ride: United</title>
-    <desc>The biggest names in every discipline celebrate the community and camaraderie of the competitive moto world.</desc>
-    <sub-title>A World of Competitive Moto Riding</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180605060724 +0000" stop="20180605061023 +0000">
-    <title>Red Bull 111 Megawatt 2015</title>
-    <desc>Taddy Blasuziak and Jonny Walker freeride through  the Belchatów coal mine, scene of the 2015 event in Poland.</desc>
-    <sub-title>Elektrownia Freeride</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180605061023 +0000" stop="20180605065811 +0000">
-    <title>The Smoke That Thunders</title>
-    <desc>Two world-class cliff divers face the most challenging dive of their lives: the world’s largest waterfall.</desc>
-    <sub-title>Staring Down the World’s Largest Waterfall</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180605065811 +0000" stop="20180605075309 +0000">
     <title>Waves for Water</title>
     <desc>A troubled ex-pro surfer stumbles upon a new calling, bringing clean water to parts of the world most in need.</desc>
@@ -5153,7 +5138,7 @@
     <title>The Project</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
-  <programme channel="tv.11" start="20180606073000 +0000" stop="20180606102500 +0000">
+  <programme channel="tv.11" start="20180606073000 +0000" stop="20180606102000 +0000">
     <title>Star Wars: Episode III - Revenge Of The Sith</title>
     <desc>Three years into the Clone Wars, the Jedi rescue Palpatine. As Obi-Wan pursues a new threat, Anakin acts as a double agent between the Jedi Council and Palpatine, embracing Dark Side. (2005)</desc>
     <audio>
@@ -5163,11 +5148,11 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180606102500 +0000" stop="20180606105500 +0000">
+  <programme channel="tv.11" start="20180606102000 +0000" stop="20180606105000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.11" start="20180606105500 +0000" stop="20180606115500 +0000">
+  <programme channel="tv.11" start="20180606105000 +0000" stop="20180606115000 +0000">
     <title>NCIS</title>
     <desc>Season 13 ends with NCIS, the FBI and MI6 engaging in an international manhunt for an escaped British spy who is targeting current and former agents. S13 Ep24</desc>
     <audio>
@@ -5177,7 +5162,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180606115500 +0000" stop="20180606170000 +0000">
+  <programme channel="tv.11" start="20180606115000 +0000" stop="20180606170000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -5287,11 +5272,11 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180607105000 +0000" stop="20180607111500 +0000">
+  <programme channel="tv.11" start="20180607105000 +0000" stop="20180607111000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.11" start="20180607111500 +0000" stop="20180607121000 +0000">
+  <programme channel="tv.11" start="20180607111000 +0000" stop="20180607120500 +0000">
     <title>Motive</title>
     <desc>A criminal aims to destroy Angie's career. S3 Ep13</desc>
     <audio>
@@ -5301,7 +5286,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180607121000 +0000" stop="20180607170000 +0000">
+  <programme channel="tv.11" start="20180607120500 +0000" stop="20180607170000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -6076,6 +6061,9 @@
   <programme channel="tv.12" start="20180605072800 +0000" stop="20180605073000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180605073000 +0000" stop="20180605083000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -6101,6 +6089,9 @@
   <programme channel="tv.12" start="20180605103300 +0000" stop="20180605103500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180605103500 +0000" stop="20180605112500 +0000">
     <title>Killer Couples</title>
@@ -6145,6 +6136,9 @@
   <programme channel="tv.12" start="20180605225800 +0000" stop="20180605230000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180605230000 +0000" stop="20180605235000 +0000">
     <title>Catfish</title>
@@ -6163,6 +6157,9 @@
   <programme channel="tv.12" start="20180606003800 +0000" stop="20180606004000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180606004000 +0000" stop="20180606011000 +0000">
     <title>Below Deck</title>
@@ -6188,6 +6185,9 @@
   <programme channel="tv.12" start="20180606022800 +0000" stop="20180606023000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180606023000 +0000" stop="20180606033500 +0000">
     <title>Botched</title>
@@ -6255,6 +6255,9 @@
   <programme channel="tv.12" start="20180606103300 +0000" stop="20180606103500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180606103500 +0000" stop="20180606112500 +0000">
     <title>Killer Couples</title>
@@ -6306,6 +6309,9 @@
   <programme channel="tv.12" start="20180606234800 +0000" stop="20180606235000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180606235000 +0000" stop="20180607004000 +0000">
     <title>Escaping Polygamy</title>
@@ -6324,6 +6330,9 @@
   <programme channel="tv.12" start="20180607013300 +0000" stop="20180607013500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180607013500 +0000" stop="20180607023000 +0000">
     <title>Vanderpump Rules</title>
@@ -6342,6 +6351,9 @@
   <programme channel="tv.12" start="20180607032800 +0000" stop="20180607033000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180607033000 +0000" stop="20180607043000 +0000">
     <title>Dance Moms</title>
@@ -6381,6 +6393,9 @@
   <programme channel="tv.12" start="20180607072800 +0000" stop="20180607073000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180607073000 +0000" stop="20180607083000 +0000">
     <title>Killer Couples</title>
@@ -12368,25 +12383,25 @@
     <title>The Project</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
-  <programme channel="tv.27" start="20180606083000 +0000" stop="20180606112500 +0000">
+  <programme channel="tv.27" start="20180606083000 +0000" stop="20180606112000 +0000">
     <title>Star Wars: Episode III - Revenge Of The Sith</title>
     <desc>Three years into the Clone Wars, the Jedi rescue Palpatine. As Obi-Wan pursues a new threat, Anakin acts as a double agent between the Jedi Council and Palpatine, embracing Dark Side. (2005)</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180606112500 +0000" stop="20180606115500 +0000">
+  <programme channel="tv.27" start="20180606112000 +0000" stop="20180606115000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.27" start="20180606115500 +0000" stop="20180606125500 +0000">
+  <programme channel="tv.27" start="20180606115000 +0000" stop="20180606125000 +0000">
     <title>NCIS</title>
     <desc>Season 13 ends with NCIS, the FBI and MI6 engaging in an international manhunt for an escaped British spy who is targeting current and former agents. S13 Ep24</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180606125500 +0000" stop="20180606180000 +0000">
+  <programme channel="tv.27" start="20180606125000 +0000" stop="20180606180000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -12493,18 +12508,18 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180607115000 +0000" stop="20180607121500 +0000">
+  <programme channel="tv.27" start="20180607115000 +0000" stop="20180607121000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.27" start="20180607121500 +0000" stop="20180607131000 +0000">
+  <programme channel="tv.27" start="20180607121000 +0000" stop="20180607130500 +0000">
     <title>Motive</title>
     <desc>A criminal aims to destroy Angie's career. S3 Ep13</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180607131000 +0000" stop="20180607180000 +0000">
+  <programme channel="tv.27" start="20180607130500 +0000" stop="20180607180000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -13240,6 +13255,9 @@
   <programme channel="tv.30" start="20180605082800 +0000" stop="20180605083000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180605083000 +0000" stop="20180605093000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -13265,6 +13283,9 @@
   <programme channel="tv.30" start="20180605113300 +0000" stop="20180605113500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180605113500 +0000" stop="20180605122500 +0000">
     <title>Killer Couples</title>
@@ -13309,6 +13330,9 @@
   <programme channel="tv.30" start="20180605235800 +0000" stop="20180606000000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180606000000 +0000" stop="20180606005000 +0000">
     <title>Catfish</title>
@@ -13327,6 +13351,9 @@
   <programme channel="tv.30" start="20180606013800 +0000" stop="20180606014000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180606014000 +0000" stop="20180606021000 +0000">
     <title>Below Deck</title>
@@ -13352,6 +13379,9 @@
   <programme channel="tv.30" start="20180606032800 +0000" stop="20180606033000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180606033000 +0000" stop="20180606043500 +0000">
     <title>Botched</title>
@@ -13419,6 +13449,9 @@
   <programme channel="tv.30" start="20180606113300 +0000" stop="20180606113500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180606113500 +0000" stop="20180606122500 +0000">
     <title>Killer Couples</title>
@@ -13470,6 +13503,9 @@
   <programme channel="tv.30" start="20180607004800 +0000" stop="20180607005000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180607005000 +0000" stop="20180607014000 +0000">
     <title>Escaping Polygamy</title>
@@ -13488,6 +13524,9 @@
   <programme channel="tv.30" start="20180607023300 +0000" stop="20180607023500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180607023500 +0000" stop="20180607033000 +0000">
     <title>Vanderpump Rules</title>
@@ -13506,6 +13545,9 @@
   <programme channel="tv.30" start="20180607042800 +0000" stop="20180607043000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180607043000 +0000" stop="20180607053000 +0000">
     <title>Dance Moms</title>
@@ -13545,6 +13587,9 @@
   <programme channel="tv.30" start="20180607082800 +0000" stop="20180607083000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180607083000 +0000" stop="20180607093000 +0000">
     <title>Killer Couples</title>
@@ -24257,8 +24302,11 @@
     <desc/>
   </programme>
   <programme channel="tv.51" start="20180605040000 +0000" stop="20180605050000 +0000">
-    <title>Daily Feed</title>
-    <desc/>
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.51" start="20180605050000 +0000" stop="20180605053000 +0000">
     <title>The Edge 30 Frontrunners</title>
@@ -24348,8 +24396,11 @@
     <desc/>
   </programme>
   <programme channel="tv.51" start="20180606040000 +0000" stop="20180606050000 +0000">
-    <title>Daily Feed</title>
-    <desc/>
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.51" start="20180606050000 +0000" stop="20180606053000 +0000">
     <title>The Edge 30 Frontrunners</title>
@@ -24439,8 +24490,11 @@
     <desc/>
   </programme>
   <programme channel="tv.51" start="20180607040000 +0000" stop="20180607050000 +0000">
-    <title>Daily Feed</title>
-    <desc/>
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.51" start="20180607050000 +0000" stop="20180607053000 +0000">
     <title>The Edge 30 Frontrunners</title>
@@ -24530,8 +24584,11 @@
     <desc/>
   </programme>
   <programme channel="tv.51" start="20180608040000 +0000" stop="20180608050000 +0000">
-    <title>Daily Feed</title>
-    <desc/>
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.51" start="20180608050000 +0000" stop="20180608053000 +0000">
     <title>The Edge 30 Frontrunners</title>
@@ -59010,11 +59067,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180605002700 +0000" stop="20180605013400 +0000">
-    <title>The Great Outdoors</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020522" start="20180605002700 +0000" stop="20180605013100 +0000">
+    <title>Melbourne International 3 Day Event</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180605013100 +0000" stop="20180605040100 +0000">
@@ -60573,8 +60629,8 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180605040400 +0000" stop="20180605043100 +0000">
-    <title>Cajun Pawn Stars</title>
+  <programme channel="tv.101305020523" start="20180605040400 +0000" stop="20180605050100 +0000">
+    <title>American Pickers</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -69538,7 +69594,7 @@
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180608040000 +0000" stop="20180608043000 +0000">
-    <title>Will &amp; Grace</title>
+    <title>Frasier</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
