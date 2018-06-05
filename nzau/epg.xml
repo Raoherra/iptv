@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180605204355 +0000" stop="20180605211115 +0000">
-    <title>Amazon High Tide</title>
-    <desc>Ramón Navarro is a surfer brave enough to cross the Amazon jungle and find a secret wave spot.</desc>
-    <sub-title>In Search of the Waves</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180605211115 +0000" stop="20180605213920 +0000">
-    <title>ABC of... S1E1</title>
-    <desc>A down-and-dirty crash course in the jargon, pros, and events of motocross' toughest discipline, Hard Enduro.</desc>
-    <sub-title>ABC of... Hard Enduro</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180605213920 +0000" stop="20180605220751 +0000">
     <title>Extreme XL Lagares 2018</title>
     <desc>Relive the best moments from 2018's Extreme XL Lagares.</desc>
@@ -43361,6 +43351,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180613140000 +0000" stop="20180613143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180605131700 +0000" stop="20180605142300 +0000">
     <title>Q&amp;A</title>
     <subtitles type="teletext"/>
@@ -62311,6 +62308,12 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020523" start="20180613140000 +0000" stop="20180613143000 +0000">
+    <title>American Dad!</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020525" start="20180605134000 +0000" stop="20180605140800 +0000">
     <title>Dr. Ken</title>
     <rating system="Freeview">
@@ -76679,6 +76682,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180613140000 +0000" stop="20180613143000 +0000">
+    <title>Thieves, Inc.</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180605133000 +0000" stop="20180605140000 +0000">
     <title>Heart of the Fight</title>
     <rating system="Freeview">
@@ -78764,6 +78773,12 @@
   </programme>
   <programme channel="tv.320203000305" start="20180613133000 +0000" stop="20180613140000 +0000">
     <title>Hardwood</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180613140000 +0000" stop="20180613150000 +0000">
+    <title>Volumz</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
