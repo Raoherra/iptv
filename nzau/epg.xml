@@ -280,21 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180605040151 +0000" stop="20180605042918 +0000">
-    <title>Follow the Steps S1E3</title>
-    <desc>Before the Austrian premiere of Flying Illusion, the newest members of the team tell their stories.</desc>
-    <sub-title>Austrian Opening</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180605042918 +0000" stop="20180605045119 +0000">
-    <title>Way Past Midnight S1E10</title>
-    <desc>The best sushi in New York City isn't from a restaurant, but from a password protected underground gathering. </desc>
-    <sub-title>Sushi Belly Tower</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180605045119 +0000" stop="20180605050017 +0000">
-    <title>Twin Atlantic</title>
-    <desc>The rock band travels to South Africa for the first time to meet fans and rock the iconic Oppikoppi festival.</desc>
-    <sub-title>Live in South Africa</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180605050017 +0000" stop="20180605060724 +0000">
     <title>Ride: United</title>
     <desc>The biggest names in every discipline celebrate the community and camaraderie of the competitive moto world.</desc>
@@ -1551,7 +1536,7 @@
   </programme>
   <programme channel="tv.9" start="20180605210000 +0000" stop="20180605220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Rebel Wilson.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Mark Wahlberg.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -1590,7 +1575,7 @@
   </programme>
   <programme channel="tv.9" start="20180606020000 +0000" stop="20180606030000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Rebel Wilson.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Mark Wahlberg.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -2228,6 +2213,9 @@
     <title>Coronation Street Special: From Here To</title>
     <desc>Ben Price, otherwise known as Nick Tilsley, is our guide on the famous cobbles as he presents an action packed two hour special. Packed with love, tragedy and familiar faces.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180610103000 +0000" stop="20180610113000 +0000">
     <title>Hillary</title>
@@ -2286,7 +2274,10 @@
   </programme>
   <programme channel="tv.9" start="20180610210000 +0000" stop="20180610220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Jon Hamm &amp; Brandi Carlile.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180610220000 +0000" stop="20180611000000 +0000">
     <title>Coronation Street Special: From Here To</title>
@@ -2310,7 +2301,10 @@
   </programme>
   <programme channel="tv.9" start="20180611020000 +0000" stop="20180611030000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Jon Hamm &amp; Brandi Carlile.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180611030000 +0000" stop="20180611040000 +0000">
     <title>Tipping Point</title>
@@ -2385,9 +2379,6 @@
     <title>Person Of Interest</title>
     <desc>S5 E12 Reese and Shaw chase Finch, who could bring an end to Samaritan, himself and the Machine when he infiltrates a maximum-security government facility.</desc>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
   </programme>
   <programme channel="tv.9" start="20180611124500 +0000" stop="20180611131000 +0000">
     <title>Te Karere</title>
@@ -2439,7 +2430,7 @@
   </programme>
   <programme channel="tv.9" start="20180611210000 +0000" stop="20180611220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Mindy Kaling &amp; David Spade.</desc>
   </programme>
   <programme channel="tv.9" start="20180611220000 +0000" stop="20180611230000 +0000">
     <title>Tipping Point</title>
@@ -2472,7 +2463,7 @@
   </programme>
   <programme channel="tv.9" start="20180612020000 +0000" stop="20180612030000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Mindy Kaling &amp; David Spade.</desc>
   </programme>
   <programme channel="tv.9" start="20180612030000 +0000" stop="20180612040000 +0000">
     <title>Tipping Point</title>
@@ -2531,6 +2522,9 @@
     <title>Coronation Street 2018</title>
     <desc>Gary snaps when Phelan pushes him too far. Robert does a runner from his wedding. Shona stuns Alya with the truth about Josh.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180612103000 +0000" stop="20180612110000 +0000">
     <title>1 News Tonight</title>
@@ -2604,7 +2598,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180604173000 +0000" stop="20180604183000 +0000">
+  <programme channel="tv.10" start="20180604173000 +0000" stop="20180604180000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.10" start="20180604180000 +0000" stop="20180604183000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -2752,6 +2750,9 @@
   <programme channel="tv.10" start="20180605040000 +0000" stop="20180605043000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Bertie the lost cat at the SPCA, Ask Me Anything vet Stacey is here to answer all your canine questions, and send us in your pet tricks to win a treat!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180605043000 +0000" stop="20180605050000 +0000">
     <title>Friends</title>
@@ -3071,6 +3072,9 @@
   <programme channel="tv.10" start="20180606040000 +0000" stop="20180606043000 +0000">
     <title>Fanimals</title>
     <desc>Today it's all action in the next race for glory on 'Farmyard Olympics' in Whitianga, you could win big on 'Call of Nature', and meet some very special nayla at Auckland Zoo!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180606043000 +0000" stop="20180606050000 +0000">
     <title>Friends</title>
@@ -3443,6 +3447,9 @@
   <programme channel="tv.10" start="20180607073000 +0000" stop="20180607093500 +0000">
     <title>My Kitchen Rules</title>
     <desc>Season Finale. Manu Feildel and Pete Evans are joined by Colin Fassnidge, Karen Martini, Guy Grossi and Liz Egan as our two best teams compete for the title of 2018 MKR Champions and $250,000.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180607093500 +0000" stop="20180607103000 +0000">
     <title>This Is Us</title>
@@ -3616,6 +3623,9 @@
   <programme channel="tv.10" start="20180607230000 +0000" stop="20180608010000 +0000">
     <title>My Kitchen Rules</title>
     <desc>Season Finale. Manu Feildel and Pete Evans are joined by Colin Fassnidge, Karen Martini, Guy Grossi and Liz Egan as our two best teams compete for the title of 2018 MKR Champions and $250,000.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180608010000 +0000" stop="20180608020000 +0000">
     <title>Judge Rinder</title>
@@ -4137,6 +4147,9 @@
   <programme channel="tv.10" start="20180609190000 +0000" stop="20180609191000 +0000">
     <title>Alvinnn!!! And The Chipmunks</title>
     <desc>A single dad has his hands full raising six rambunctious chipmunks in this animated comedy.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180609191000 +0000" stop="20180609193500 +0000">
     <title>Disney Tangled: The Series</title>
@@ -4160,7 +4173,7 @@
   </programme>
   <programme channel="tv.10" start="20180609200000 +0000" stop="20180609220000 +0000">
     <title>What Now</title>
-    <desc>Wake up with Bianca, Ronnie and Chris for a huge morning of fun! Exciting games, cool prizes, funny moments with the team, and of course lots of GUNGE!</desc>
+    <desc>It's What Now: with more gunge, foam, games and fun than ever!</desc>
   </programme>
   <programme channel="tv.10" start="20180609220000 +0000" stop="20180610000000 +0000">
     <title>Shortland Street</title>
@@ -9046,7 +9059,7 @@
   </programme>
   <programme channel="tv.38" start="20180605220000 +0000" stop="20180605230000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Rebel Wilson.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Mark Wahlberg.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -9085,7 +9098,7 @@
   </programme>
   <programme channel="tv.38" start="20180606030000 +0000" stop="20180606040000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Rebel Wilson.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Mark Wahlberg.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -9723,6 +9736,9 @@
     <title>Coronation Street Special: From Here To</title>
     <desc>Ben Price, otherwise known as Nick Tilsley, is our guide on the famous cobbles as he presents an action packed two hour special. Packed with love, tragedy and familiar faces.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180610113000 +0000" stop="20180610123000 +0000">
     <title>Hillary</title>
@@ -9781,7 +9797,10 @@
   </programme>
   <programme channel="tv.38" start="20180610220000 +0000" stop="20180610230000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Jon Hamm &amp; Brandi Carlile.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180610230000 +0000" stop="20180611010000 +0000">
     <title>Coronation Street Special: From Here To</title>
@@ -9805,7 +9824,10 @@
   </programme>
   <programme channel="tv.38" start="20180611030000 +0000" stop="20180611040000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Jon Hamm &amp; Brandi Carlile.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180611040000 +0000" stop="20180611050000 +0000">
     <title>Tipping Point</title>
@@ -9880,9 +9902,6 @@
     <title>Person Of Interest</title>
     <desc>S5 E12 Reese and Shaw chase Finch, who could bring an end to Samaritan, himself and the Machine when he infiltrates a maximum-security government facility.</desc>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
   </programme>
   <programme channel="tv.38" start="20180611134500 +0000" stop="20180611141000 +0000">
     <title>Te Karere</title>
@@ -9934,7 +9953,7 @@
   </programme>
   <programme channel="tv.38" start="20180611220000 +0000" stop="20180611230000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Mindy Kaling &amp; David Spade.</desc>
   </programme>
   <programme channel="tv.38" start="20180611230000 +0000" stop="20180612000000 +0000">
     <title>Tipping Point</title>
@@ -9967,7 +9986,7 @@
   </programme>
   <programme channel="tv.38" start="20180612030000 +0000" stop="20180612040000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Mindy Kaling &amp; David Spade.</desc>
   </programme>
   <programme channel="tv.38" start="20180612040000 +0000" stop="20180612050000 +0000">
     <title>Tipping Point</title>
@@ -10026,6 +10045,9 @@
     <title>Coronation Street 2018</title>
     <desc>Gary snaps when Phelan pushes him too far. Robert does a runner from his wedding. Shona stuns Alya with the truth about Josh.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180612113000 +0000" stop="20180612120000 +0000">
     <title>1 News Tonight</title>
@@ -10100,7 +10122,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180604183000 +0000" stop="20180604193000 +0000">
+  <programme channel="tv.14" start="20180604183000 +0000" stop="20180604190000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.14" start="20180604190000 +0000" stop="20180604193000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -10239,6 +10265,9 @@
   <programme channel="tv.14" start="20180605050000 +0000" stop="20180605053000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Bertie the lost cat at the SPCA, Ask Me Anything vet Stacey is here to answer all your canine questions, and send us in your pet tricks to win a treat!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180605053000 +0000" stop="20180605060000 +0000">
     <title>Friends</title>
@@ -10522,6 +10551,9 @@
   <programme channel="tv.14" start="20180606050000 +0000" stop="20180606053000 +0000">
     <title>Fanimals</title>
     <desc>Today it's all action in the next race for glory on 'Farmyard Olympics' in Whitianga, you could win big on 'Call of Nature', and meet some very special nayla at Auckland Zoo!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180606053000 +0000" stop="20180606060000 +0000">
     <title>Friends</title>
@@ -10849,6 +10881,9 @@
   <programme channel="tv.14" start="20180607083000 +0000" stop="20180607103500 +0000">
     <title>My Kitchen Rules</title>
     <desc>Season Finale. Manu Feildel and Pete Evans are joined by Colin Fassnidge, Karen Martini, Guy Grossi and Liz Egan as our two best teams compete for the title of 2018 MKR Champions and $250,000.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180607103500 +0000" stop="20180607113000 +0000">
     <title>This Is Us</title>
@@ -11010,6 +11045,9 @@
   <programme channel="tv.14" start="20180608000000 +0000" stop="20180608020000 +0000">
     <title>My Kitchen Rules</title>
     <desc>Season Finale. Manu Feildel and Pete Evans are joined by Colin Fassnidge, Karen Martini, Guy Grossi and Liz Egan as our two best teams compete for the title of 2018 MKR Champions and $250,000.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180608020000 +0000" stop="20180608030000 +0000">
     <title>Judge Rinder</title>
@@ -11456,6 +11494,9 @@
   <programme channel="tv.14" start="20180609200000 +0000" stop="20180609201000 +0000">
     <title>Alvinnn!!! And The Chipmunks</title>
     <desc>A single dad has his hands full raising six rambunctious chipmunks in this animated comedy.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180609201000 +0000" stop="20180609203500 +0000">
     <title>Disney Tangled: The Series</title>
@@ -11473,7 +11514,7 @@
   </programme>
   <programme channel="tv.14" start="20180609210000 +0000" stop="20180609230000 +0000">
     <title>What Now</title>
-    <desc>Wake up with Bianca, Ronnie and Chris for a huge morning of fun! Exciting games, cool prizes, funny moments with the team, and of course lots of GUNGE!</desc>
+    <desc>It's What Now: with more gunge, foam, games and fun than ever!</desc>
   </programme>
   <programme channel="tv.14" start="20180609230000 +0000" stop="20180610010000 +0000">
     <title>Shortland Street</title>
@@ -19238,6 +19279,9 @@
   <programme channel="tv.55" start="20180608114000 +0000" stop="20180608123000 +0000">
     <title>New: Bar Rescue</title>
     <desc>Tonight, the foul-mouthed owner of a Michigan bar with a confusing theme is confronted by Jon.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180608123000 +0000" stop="20180608150500 +0000">
     <title>AFL - Port Adelaide v Richmond</title>
@@ -56191,7 +56235,8 @@
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180607133000 +0000" stop="20180607143000 +0000">
-    <title>WWE Raw</title>
+    <title>Love Island Australia</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -58609,10 +58654,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180605002700 +0000" stop="20180605013100 +0000">
-    <title>Melbourne International 3 Day Event</title>
+  <programme channel="tv.101305020522" start="20180605002700 +0000" stop="20180605013400 +0000">
+    <title>The Great Outdoors</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180605013100 +0000" stop="20180605040100 +0000">
@@ -59205,11 +59251,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180607232900 +0000" stop="20180608002700 +0000">
-    <title>House Calls to the Rescue</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020522" start="20180607232900 +0000" stop="20180608002600 +0000">
+    <title>Melbourne International 3 Day Event</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180608002600 +0000" stop="20180608012500 +0000">
@@ -69137,7 +69182,7 @@
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180608040000 +0000" stop="20180608043000 +0000">
-    <title>Frasier</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
