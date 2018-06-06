@@ -1340,5 +1340,19 @@
             "channels": 2,
             "sample_rate": "44100"
         }
+    },
+    "radio.ih.7894": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7894.png",
+        "name": "Basement 96.1",
+        "description": "Head down, volume up",
+        "genres": [
+            "Dance"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7894.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
     }
 }

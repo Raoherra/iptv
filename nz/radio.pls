@@ -195,4 +195,6 @@ File97=http://iptv.matthuisman.nz/nz/radio.or.18
 Title97=Radio X
 File98=http://iptv.matthuisman.nz/nz/radio.ih.7864.aac
 Title98=Pulzar FM
-NumberOfEntries=98
+File99=http://iptv.matthuisman.nz/nz/radio.ih.7894.aac
+Title99=Basement 96.1
+NumberOfEntries=99

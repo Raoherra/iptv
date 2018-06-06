@@ -293,3 +293,6 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r
 
 #EXTINF:-1 tvg-name="098" tvg-id="radio.ih.7864" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7864.png" radio="true",Pulzar FM
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/radio.ih.7864.aac -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7864 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="099" tvg-id="radio.ih.7894" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7894.png" radio="true",Basement 96.1
+pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/radio.ih.7894.aac -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7894 -f mpegts pipe:1
