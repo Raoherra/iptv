@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180606170218 +0000" stop="20180606171425 +0000">
-    <title>Unclimbed</title>
-    <desc>David Lama travelled to an incredibly remote valley in Nepal with a team attempting to climb the unclimbed.</desc>
-    <sub-title>Annapurna III</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180606171425 +0000" stop="20180606181027 +0000">
     <title>Visions of Greatness S1E6</title>
     <desc>Experience the madness of creativity with Jane's Addiction frontman Perry Farrell and photographer Mick Rock.</desc>
@@ -14966,9 +14961,16 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180609013000 +0000" stop="20180609023000 +0000">
+  <programme channel="tv.28" start="20180609013000 +0000" stop="20180609020500 +0000">
     <title>NRL Try Time</title>
     <desc>Missed the latest NRL action? Lara Pitt showcases the best tries from the NRL Telstra Premiership in a jam-packed hour. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.28" start="20180609020500 +0000" stop="20180609023000 +0000">
+    <title>Hot Bench</title>
+    <desc>'Created by Judge Judy, courtroom drama gets turned on its head when not just one, but three judges exchange debate before rendering a verdict on the Hot Bench.'</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
