@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180606032759 +0000" stop="20180606050052 +0000">
-    <title>Fandom</title>
-    <desc>Christian Slater narrates a look inside the massive phenomenon of fantasy football.</desc>
-    <sub-title>The Fantasy Football Movie</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180606050054 +0000" stop="20180606055335 +0000">
     <title>Visions of Greatness S1E4</title>
     <desc>Two determined innovators, who push their limits, risking all, in order to realise their dreams, are profiled.</desc>
@@ -2281,7 +2276,7 @@
   </programme>
   <programme channel="tv.9" start="20180610073000 +0000" stop="20180610083000 +0000">
     <title>Sunday</title>
-    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe.</desc>
+    <desc>Back. Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe. Tonight, Barnaby Joyce and Vikki Campion go on the record about their illicit affair.</desc>
   </programme>
   <programme channel="tv.9" start="20180610083000 +0000" stop="20180610103000 +0000">
     <title>Coronation Street Special: From Here To</title>
@@ -2357,6 +2352,9 @@
     <title>Coronation Street Special: From Here To</title>
     <desc>Ben Price, otherwise known as Nick Tilsley, is our guide on the famous cobbles as he presents an action packed two hour special. Packed with love, tragedy and familiar faces.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180611000000 +0000" stop="20180611003000 +0000">
     <title>1 News At Midday</title>
@@ -2372,6 +2370,9 @@
   <programme channel="tv.9" start="20180611010000 +0000" stop="20180611020000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Peter prepares to break some news. Bethany moves from the frying pan to the fire. Mary gets an offer.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180611020000 +0000" stop="20180611030000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -2420,6 +2421,9 @@
   <programme channel="tv.9" start="20180611080000 +0000" stop="20180611083000 +0000">
     <title>Highway Cops</title>
     <desc>Back. Boy racers wreck their rotaries in Timaru, a dangerous driver in Central Otago claims he’s a Grand Prix champion, and cop versus bull on the backroads of North Canterbury.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180611083000 +0000" stop="20180611092500 +0000">
     <title>Criminal Minds</title>
@@ -2453,6 +2457,9 @@
     <title>Person Of Interest</title>
     <desc>S5 E12 Reese and Shaw chase Finch, who could bring an end to Samaritan, himself and the Machine when he infiltrates a maximum-security government facility.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180611124500 +0000" stop="20180611131000 +0000">
     <title>Te Karere</title>
@@ -2534,6 +2541,9 @@
   <programme channel="tv.9" start="20180612010000 +0000" stop="20180612020000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Peter’s secret is outed by a spy in the sky. Kevin gets an unexpected bill. Sarah puts Bethany first.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180612020000 +0000" stop="20180612030000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -2606,7 +2616,7 @@
   </programme>
   <programme channel="tv.9" start="20180612110000 +0000" stop="20180612120000 +0000">
     <title>Sunday</title>
-    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe.</desc>
+    <desc>Back. Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe. Tonight, Barnaby Joyce and Vikki Campion go on the record about their illicit affair.</desc>
   </programme>
   <programme channel="tv.9" start="20180612120000 +0000" stop="20180612125000 +0000">
     <title>Major Crimes</title>
@@ -2694,6 +2704,9 @@
   <programme channel="tv.9" start="20180613010000 +0000" stop="20180613020000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Can Aidan resist temptation? Andy is the fly in Phelan’s ointment. And will old habits die hard for Shona?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180613020000 +0000" stop="20180613030000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -3468,6 +3481,9 @@
   <programme channel="tv.10" start="20180607184000 +0000" stop="20180607185000 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animaton sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180607185000 +0000" stop="20180607185500 +0000">
     <title>Masha And The Bear</title>
@@ -3593,6 +3609,9 @@
   <programme channel="tv.10" start="20180608040000 +0000" stop="20180608043000 +0000">
     <title>Fanimals</title>
     <desc>It's Friday and Fanimals is throwing a worm party, we go on a celebrity pet date with Nehe Milner Skudder and his dogs Olive and Wiremu for a run on the beach, and get ready to play 'Fact or Fiction'!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180608043000 +0000" stop="20180608050000 +0000">
     <title>Friends</title>
@@ -4167,12 +4186,6 @@
   <programme channel="tv.10" start="20180610060000 +0000" stop="20180610063000 +0000">
     <title>The Middle</title>
     <desc>S6 E7 Frankie's idea that the family eat Thanksgiving dinner at a local restaurant doesn't go as planned when Sue feels that Mike doesn't like Darrin, and Brick invites his quirky girlfriend, Cindy.</desc>
-    <audio>
-      <stereo>dolby</stereo>
-    </audio>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.10" start="20180610063000 +0000" stop="20180610070000 +0000">
     <title>The Big Bang Theory</title>
@@ -4287,6 +4300,9 @@
   <programme channel="tv.10" start="20180610184000 +0000" stop="20180610185500 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animaton sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180610185500 +0000" stop="20180610190000 +0000">
     <title>Peppa Pig</title>
@@ -4443,6 +4459,9 @@
   <programme channel="tv.10" start="20180611063000 +0000" stop="20180611070000 +0000">
     <title>Neighbours</title>
     <desc>Paul helps Amy make a tough choice. Leo finds himself in a new role. Mishti aims her anger at the wrong person.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180611070000 +0000" stop="20180611073000 +0000">
     <title>Shortland Street</title>
@@ -4470,6 +4489,9 @@
     <title>First Dates Hotel</title>
     <desc>New Series: Suave maitre d' Fred Sirieix invites single people to a romantically charged luxury boutique hotel in the south of France. Will any of the hopefuls hit it off in the French countryside?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180611093000 +0000" stop="20180611102500 +0000">
     <title>Grey's Anatomy</title>
@@ -4566,6 +4588,9 @@
   <programme channel="tv.10" start="20180611170500 +0000" stop="20180611173000 +0000">
     <title>Neighbours</title>
     <desc>Paul helps Amy make a tough choice. Leo finds himself in a new role. Mishti aims her anger at the wrong person.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180611173000 +0000" stop="20180611180000 +0000">
     <title>Infomercials 5:30am Sun- Thu</title>
@@ -4613,6 +4638,9 @@
   <programme channel="tv.10" start="20180611195000 +0000" stop="20180611201500 +0000">
     <title>Zak Storm</title>
     <desc>Zak is a young surfer who gets sucked into the Seven Seas of the Bermuda Triangle, where he becomes a captain of a ship of outcasts. He tackles danger on land with his crew and his magical sword.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180611201500 +0000" stop="20180611203500 +0000">
     <title>Disney Junior Art Attack</title>
@@ -4646,6 +4674,9 @@
   <programme channel="tv.10" start="20180611223000 +0000" stop="20180611230000 +0000">
     <title>Neighbours</title>
     <desc>Paul helps Amy make a tough choice. Leo finds himself in a new role. Mishti aims her anger at the wrong person.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180611230000 +0000" stop="20180612000000 +0000">
     <title>Heartbreak Island</title>
@@ -4713,7 +4744,7 @@
   </programme>
   <programme channel="tv.10" start="20180612040000 +0000" stop="20180612043000 +0000">
     <title>Fanimals</title>
-    <desc>Today we meet Cassidy the dog in SPCA Diaries, Monty is on a mission to save our sea turtles in Aotearoa Superheroes, and do you know how to play Jun-O, our new game?</desc>
+    <desc>Today we meet Cassidy the dog in SPCA Diaries, Maryanne is on a mission to help our weta in Aotearoa Superheroes, and do you know how to play Jun-O, our new game?</desc>
   </programme>
   <programme channel="tv.10" start="20180612043000 +0000" stop="20180612050000 +0000">
     <title>Friends</title>
@@ -4746,6 +4777,9 @@
   <programme channel="tv.10" start="20180612063000 +0000" stop="20180612070000 +0000">
     <title>Neighbours</title>
     <desc>Amy faces unexpected heartbreak. Leo struggles with his new work role. Susan’s concerned by Rita’s pursuit of Karl.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180612070000 +0000" stop="20180612073000 +0000">
     <title>Shortland Street</title>
@@ -4876,6 +4910,9 @@
   <programme channel="tv.10" start="20180612170500 +0000" stop="20180612173000 +0000">
     <title>Neighbours</title>
     <desc>Amy faces unexpected heartbreak. Leo struggles with his new work role. Susan’s concerned by Rita’s pursuit of Karl.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180612173000 +0000" stop="20180612180000 +0000">
     <title>Infomercials 5:30am Sun- Thu</title>
@@ -4962,6 +4999,9 @@
   <programme channel="tv.10" start="20180612223000 +0000" stop="20180612230000 +0000">
     <title>Neighbours</title>
     <desc>Amy faces unexpected heartbreak. Leo struggles with his new work role. Susan’s concerned by Rita’s pursuit of Karl.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180612230000 +0000" stop="20180613000000 +0000">
     <title>Heartbreak Island</title>
@@ -5059,6 +5099,9 @@
   <programme channel="tv.10" start="20180613063000 +0000" stop="20180613070000 +0000">
     <title>Neighbours</title>
     <desc>Bea wrestles with her resentment towards Elly. Aaron and Steph go to extremes for Amy. Karl and Susan grapple with Rita’s truth.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180613070000 +0000" stop="20180613073000 +0000">
     <title>Shortland Street</title>
@@ -9846,7 +9889,7 @@
   </programme>
   <programme channel="tv.38" start="20180610083000 +0000" stop="20180610093000 +0000">
     <title>Sunday</title>
-    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe.</desc>
+    <desc>Back. Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe. Tonight, Barnaby Joyce and Vikki Campion go on the record about their illicit affair.</desc>
   </programme>
   <programme channel="tv.38" start="20180610093000 +0000" stop="20180610113000 +0000">
     <title>Coronation Street Special: From Here To</title>
@@ -9922,6 +9965,9 @@
     <title>Coronation Street Special: From Here To</title>
     <desc>Ben Price, otherwise known as Nick Tilsley, is our guide on the famous cobbles as he presents an action packed two hour special. Packed with love, tragedy and familiar faces.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180611010000 +0000" stop="20180611013000 +0000">
     <title>1 News At Midday</title>
@@ -9937,6 +9983,9 @@
   <programme channel="tv.38" start="20180611020000 +0000" stop="20180611030000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Peter prepares to break some news. Bethany moves from the frying pan to the fire. Mary gets an offer.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180611030000 +0000" stop="20180611040000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -9985,6 +10034,9 @@
   <programme channel="tv.38" start="20180611090000 +0000" stop="20180611093000 +0000">
     <title>Highway Cops</title>
     <desc>Back. Boy racers wreck their rotaries in Timaru, a dangerous driver in Central Otago claims he’s a Grand Prix champion, and cop versus bull on the backroads of North Canterbury.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180611093000 +0000" stop="20180611102500 +0000">
     <title>Criminal Minds</title>
@@ -10018,6 +10070,9 @@
     <title>Person Of Interest</title>
     <desc>S5 E12 Reese and Shaw chase Finch, who could bring an end to Samaritan, himself and the Machine when he infiltrates a maximum-security government facility.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180611134500 +0000" stop="20180611141000 +0000">
     <title>Te Karere</title>
@@ -10099,6 +10154,9 @@
   <programme channel="tv.38" start="20180612020000 +0000" stop="20180612030000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Peter’s secret is outed by a spy in the sky. Kevin gets an unexpected bill. Sarah puts Bethany first.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180612030000 +0000" stop="20180612040000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -10171,7 +10229,7 @@
   </programme>
   <programme channel="tv.38" start="20180612120000 +0000" stop="20180612130000 +0000">
     <title>Sunday</title>
-    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe.</desc>
+    <desc>Back. Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe. Tonight, Barnaby Joyce and Vikki Campion go on the record about their illicit affair.</desc>
   </programme>
   <programme channel="tv.38" start="20180612130000 +0000" stop="20180612135000 +0000">
     <title>Major Crimes</title>
@@ -10259,6 +10317,9 @@
   <programme channel="tv.38" start="20180613020000 +0000" stop="20180613030000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Can Aidan resist temptation? Andy is the fly in Phelan’s ointment. And will old habits die hard for Shona?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180613030000 +0000" stop="20180613040000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -10964,6 +11025,9 @@
   <programme channel="tv.14" start="20180607194000 +0000" stop="20180607195000 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animaton sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180607195000 +0000" stop="20180607195500 +0000">
     <title>Masha And The Bear</title>
@@ -10989,10 +11053,16 @@
   <programme channel="tv.14" start="20180607202500 +0000" stop="20180607205000 +0000">
     <title>The Zhu Zhus</title>
     <desc>Adventurous Frankie and her four extraordinary hamsters navigate life in Anytown, where anything's possible!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180607205000 +0000" stop="20180607211500 +0000">
     <title>Zak Storm</title>
     <desc>Zak is a young surfer who gets sucked into the Seven Seas of the Bermuda Triangle, where he becomes a captain of a ship of outcasts. He tackles danger on land with his crew and his magical sword.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180607211500 +0000" stop="20180607214000 +0000">
     <title>Disney Junior Art Attack</title>
@@ -11080,6 +11150,9 @@
   <programme channel="tv.14" start="20180608050000 +0000" stop="20180608053000 +0000">
     <title>Fanimals</title>
     <desc>It's Friday and Fanimals is throwing a worm party, we go on a celebrity pet date with Nehe Milner Skudder and his dogs Olive and Wiremu for a run on the beach, and get ready to play 'Fact or Fiction'!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180608053000 +0000" stop="20180608060000 +0000">
     <title>Friends</title>
@@ -11561,9 +11634,6 @@
   <programme channel="tv.14" start="20180610070000 +0000" stop="20180610073000 +0000">
     <title>The Middle</title>
     <desc>S6 E7 Frankie's idea that the family eat Thanksgiving dinner at a local restaurant doesn't go as planned when Sue feels that Mike doesn't like Darrin, and Brick invites his quirky girlfriend, Cindy.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.14" start="20180610073000 +0000" stop="20180610080000 +0000">
     <title>The Big Bang Theory</title>
@@ -11660,6 +11730,9 @@
   <programme channel="tv.14" start="20180610194000 +0000" stop="20180610195500 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animaton sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180610195500 +0000" stop="20180610200000 +0000">
     <title>Peppa Pig</title>
@@ -11804,6 +11877,9 @@
   <programme channel="tv.14" start="20180611073000 +0000" stop="20180611080000 +0000">
     <title>Neighbours</title>
     <desc>Paul helps Amy make a tough choice. Leo finds himself in a new role. Mishti aims her anger at the wrong person.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180611080000 +0000" stop="20180611083000 +0000">
     <title>Shortland Street</title>
@@ -11825,6 +11901,9 @@
     <title>First Dates Hotel</title>
     <desc>New Series: Suave maitre d' Fred Sirieix invites single people to a romantically charged luxury boutique hotel in the south of France. Will any of the hopefuls hit it off in the French countryside?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180611103000 +0000" stop="20180611112500 +0000">
     <title>Grey's Anatomy</title>
@@ -11906,6 +11985,9 @@
   <programme channel="tv.14" start="20180611180500 +0000" stop="20180611183000 +0000">
     <title>Neighbours</title>
     <desc>Paul helps Amy make a tough choice. Leo finds himself in a new role. Mishti aims her anger at the wrong person.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180611183000 +0000" stop="20180611190000 +0000">
     <title>Infomercials 5:30am Sun- Thu</title>
@@ -11950,6 +12032,9 @@
   <programme channel="tv.14" start="20180611205000 +0000" stop="20180611211500 +0000">
     <title>Zak Storm</title>
     <desc>Zak is a young surfer who gets sucked into the Seven Seas of the Bermuda Triangle, where he becomes a captain of a ship of outcasts. He tackles danger on land with his crew and his magical sword.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180611211500 +0000" stop="20180611213500 +0000">
     <title>Disney Junior Art Attack</title>
@@ -11980,6 +12065,9 @@
   <programme channel="tv.14" start="20180611233000 +0000" stop="20180612000000 +0000">
     <title>Neighbours</title>
     <desc>Paul helps Amy make a tough choice. Leo finds himself in a new role. Mishti aims her anger at the wrong person.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180612000000 +0000" stop="20180612010000 +0000">
     <title>Heartbreak Island</title>
@@ -12038,7 +12126,7 @@
   </programme>
   <programme channel="tv.14" start="20180612050000 +0000" stop="20180612053000 +0000">
     <title>Fanimals</title>
-    <desc>Today we meet Cassidy the dog in SPCA Diaries, Monty is on a mission to save our sea turtles in Aotearoa Superheroes, and do you know how to play Jun-O, our new game?</desc>
+    <desc>Today we meet Cassidy the dog in SPCA Diaries, Maryanne is on a mission to help our weta in Aotearoa Superheroes, and do you know how to play Jun-O, our new game?</desc>
   </programme>
   <programme channel="tv.14" start="20180612053000 +0000" stop="20180612060000 +0000">
     <title>Friends</title>
@@ -12068,6 +12156,9 @@
   <programme channel="tv.14" start="20180612073000 +0000" stop="20180612080000 +0000">
     <title>Neighbours</title>
     <desc>Amy faces unexpected heartbreak. Leo struggles with his new work role. Susan’s concerned by Rita’s pursuit of Karl.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180612080000 +0000" stop="20180612083000 +0000">
     <title>Shortland Street</title>
@@ -12171,6 +12262,9 @@
   <programme channel="tv.14" start="20180612180500 +0000" stop="20180612183000 +0000">
     <title>Neighbours</title>
     <desc>Amy faces unexpected heartbreak. Leo struggles with his new work role. Susan’s concerned by Rita’s pursuit of Karl.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180612183000 +0000" stop="20180612190000 +0000">
     <title>Infomercials 5:30am Sun- Thu</title>
@@ -12251,6 +12345,9 @@
   <programme channel="tv.14" start="20180612233000 +0000" stop="20180613000000 +0000">
     <title>Neighbours</title>
     <desc>Amy faces unexpected heartbreak. Leo struggles with his new work role. Susan’s concerned by Rita’s pursuit of Karl.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180613000000 +0000" stop="20180613010000 +0000">
     <title>Heartbreak Island</title>
@@ -12336,6 +12433,9 @@
   <programme channel="tv.14" start="20180613073000 +0000" stop="20180613080000 +0000">
     <title>Neighbours</title>
     <desc>Bea wrestles with her resentment towards Elly. Aaron and Steph go to extremes for Amy. Karl and Susan grapple with Rita’s truth.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180613080000 +0000" stop="20180613083000 +0000">
     <title>Shortland Street</title>
@@ -19461,7 +19561,7 @@
     <title>New: Bar Rescue</title>
     <desc>Tonight, the foul-mouthed owner of a Michigan bar with a confusing theme is confronted by Jon.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.55" start="20180608123000 +0000" stop="20180608150500 +0000">
@@ -69596,7 +69696,7 @@
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180608040000 +0000" stop="20180608043000 +0000">
-    <title>Frasier</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
