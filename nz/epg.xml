@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180607034528 +0000" stop="20180607050123 +0000">
-    <title>Raise Up</title>
-    <desc>Born on the same streets as hip-hop, extreme calisthenics has grown from subculture to global phenomenon. </desc>
-    <sub-title>The World Is Our Gym</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180607050123 +0000" stop="20180607052914 +0000">
     <title>ABC of... S1E1</title>
     <desc>A down-and-dirty crash course in the jargon, pros, and events of motocross' toughest discipline, Hard Enduro.</desc>
@@ -1517,6 +1512,9 @@
     <title>Design Junkies</title>
     <desc>Season Finale. Each week ingenious designers create beautiful creations out of trash. Our designers work on their artistic interpretations of Aotearoa that will be auctioned off in the final.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180607083000 +0000" stop="20180607093000 +0000">
     <title>George Clarke's Amazing Spaces</title>
@@ -1757,6 +1755,9 @@
     <title>Design Junkies</title>
     <desc>Season Finale. Each week ingenious designers create beautiful creations out of trash. Our designers work on their artistic interpretations of Aotearoa that will be auctioned off in the final.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180609035500 +0000" stop="20180609042500 +0000">
     <title>Dream Catchers</title>
@@ -2007,28 +2008,8 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180610150500 +0000" stop="20180610153500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180610153500 +0000" stop="20180610160500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180610160500 +0000" stop="20180610163500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180610163500 +0000" stop="20180610170000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180610170000 +0000" stop="20180610173000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180610173000 +0000" stop="20180610180000 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180610150500 +0000" stop="20180610180000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.9" start="20180610180000 +0000" stop="20180610210000 +0000">
@@ -2159,40 +2140,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.9" start="20180611131000 +0000" stop="20180611133500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180611133500 +0000" stop="20180611140500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180611140500 +0000" stop="20180611143500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180611143500 +0000" stop="20180611150500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180611150500 +0000" stop="20180611153500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180611153500 +0000" stop="20180611160500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180611160500 +0000" stop="20180611163500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180611163500 +0000" stop="20180611170500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180611170500 +0000" stop="20180611173500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180611131000 +0000" stop="20180611173500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.9" start="20180611173500 +0000" stop="20180611180000 +0000">
@@ -2206,6 +2155,9 @@
   <programme channel="tv.9" start="20180611210000 +0000" stop="20180611220000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Mindy Kaling &amp; David Spade.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180611220000 +0000" stop="20180611230000 +0000">
     <title>Tipping Point</title>
@@ -2242,6 +2194,9 @@
   <programme channel="tv.9" start="20180612020000 +0000" stop="20180612030000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Mindy Kaling &amp; David Spade.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180612030000 +0000" stop="20180612040000 +0000">
     <title>Tipping Point</title>
@@ -2280,6 +2235,9 @@
     <title>Dog Squad</title>
     <desc>Wellington Delta Team Stu and Dakota shut down a profitless crime. At Rimutaka Prison Ricky and Preston find a car full of drug paraphernalia and Customs dog Rajax bags a big haul on the mail belt.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180612080000 +0000" stop="20180612083000 +0000">
     <title>The Force</title>
@@ -2330,32 +2288,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.9" start="20180612140500 +0000" stop="20180612143500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180612143500 +0000" stop="20180612150500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180612150500 +0000" stop="20180612153500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180612153500 +0000" stop="20180612160500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180612160500 +0000" stop="20180612163500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180612163500 +0000" stop="20180612170500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180612170500 +0000" stop="20180612173500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180612140500 +0000" stop="20180612173500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.9" start="20180612173500 +0000" stop="20180612180000 +0000">
@@ -2455,6 +2389,9 @@
     <title>Coronation Street 2018</title>
     <desc>Chaos reigns following a gunshot at Number 11. Phelan heads to the Bistro and takes a hostage. A desperate Gail reconnects with Rosemary.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180613103500 +0000" stop="20180613110500 +0000">
     <title>1 News Tonight</title>
@@ -2479,40 +2416,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.9" start="20180613131500 +0000" stop="20180613134500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180613134500 +0000" stop="20180613141500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180613141500 +0000" stop="20180613144000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180613144000 +0000" stop="20180613151000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180613151000 +0000" stop="20180613154000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180613154000 +0000" stop="20180613160500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180613160500 +0000" stop="20180613163500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180613163500 +0000" stop="20180613170500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180613170500 +0000" stop="20180613173500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180613131500 +0000" stop="20180613173500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.9" start="20180613173500 +0000" stop="20180613180000 +0000">
@@ -2563,6 +2468,9 @@
   <programme channel="tv.9" start="20180614030000 +0000" stop="20180614040000 +0000">
     <title>Tipping Point</title>
     <desc>Quiz show in which four players take on an extraordinary machine in the hope of winning its 10,000 pound jackpot.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180614040000 +0000" stop="20180614043000 +0000">
     <title>Te Karere</title>
@@ -2682,7 +2590,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180606173000 +0000" stop="20180606183000 +0000">
+  <programme channel="tv.10" start="20180606173000 +0000" stop="20180606180000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.10" start="20180606180000 +0000" stop="20180606183000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -2830,6 +2742,9 @@
   <programme channel="tv.10" start="20180607040000 +0000" stop="20180607043000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Sam and the awesome team at Riding for the Disabled, we show you how to make a hedgehog scones, and see what your teachers really get up to after school!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180607043000 +0000" stop="20180607050000 +0000">
     <title>Friends</title>
@@ -3021,10 +2936,16 @@
   <programme channel="tv.10" start="20180607192500 +0000" stop="20180607195000 +0000">
     <title>The Zhu Zhus</title>
     <desc>Adventurous Frankie and her four extraordinary hamsters navigate life in Anytown, where anything's possible!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180607195000 +0000" stop="20180607201500 +0000">
     <title>Zak Storm</title>
     <desc>Zak is a young surfer who gets sucked into the Seven Seas of the Bermuda Triangle, where he becomes a captain of a ship of outcasts. He tackles danger on land with his crew and his magical sword.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180607201500 +0000" stop="20180607204000 +0000">
     <title>Disney Junior Art Attack</title>
@@ -3200,18 +3121,18 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180608103000 +0000" stop="20180608115500 +0000">
-    <title>Sensing Murder</title>
-    <desc>When Judy Yorke missed her daughter's birthday party in October 1992, her family knew something was terribly wrong and reported her missing. Psychics lead a team of investigators in a hunt for clues.</desc>
+  <programme channel="tv.10" start="20180608103000 +0000" stop="20180608122000 +0000">
+    <title>Heroes And Villains: Caught On Camera</title>
+    <desc>Incredible footage of have-a-go heroes, brazen villains and some of Britain’s dumbest criminals – all of them caught in the act, and caught on camera.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180608115500 +0000" stop="20180608130500 +0000">
-    <title>Sensing Murder</title>
-    <desc>Returning series. Nineteen-year-old Blake Stott died in a mysterious car fire. Uncomfortable with the coroner's findings and desperate for answers, Blake's family hope the psychics can help.</desc>
+  <programme channel="tv.10" start="20180608122000 +0000" stop="20180608130500 +0000">
+    <title>Cougar Town</title>
+    <desc>S2 E16 Jules and Ellie differ on whether it's more difficult to raise a baby in your 40s than in your 20s, and Ellie tricks Jules into watching baby Stan on her own for a day with disastrous results.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180608130500 +0000" stop="20180608133000 +0000">
@@ -3792,7 +3713,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180610173000 +0000" stop="20180610180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180610180000 +0000" stop="20180610183000 +0000">
@@ -3858,16 +3779,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180610210000 +0000" stop="20180610213000 +0000">
-    <title>Infomercial 0900</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180610213000 +0000" stop="20180610220000 +0000">
+  <programme channel="tv.10" start="20180610210000 +0000" stop="20180610223000 +0000">
     <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180610220000 +0000" stop="20180610223000 +0000">
-    <title>Infomercial 1000</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180610223000 +0000" stop="20180610230000 +0000">
@@ -4058,11 +3971,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180611132500 +0000" stop="20180611135500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180611135500 +0000" stop="20180611142500 +0000">
+  <programme channel="tv.10" start="20180611132500 +0000" stop="20180611142500 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -4101,12 +4010,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180611173000 +0000" stop="20180611180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180611180000 +0000" stop="20180611183000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.10" start="20180611173000 +0000" stop="20180611183000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180611183000 +0000" stop="20180611184000 +0000">
@@ -4169,7 +4074,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180611210000 +0000" stop="20180611213000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180611213000 +0000" stop="20180611220000 +0000">
@@ -4177,7 +4082,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180611220000 +0000" stop="20180611223000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180611223000 +0000" stop="20180611230000 +0000">
@@ -4275,6 +4180,9 @@
   <programme channel="tv.10" start="20180612053000 +0000" stop="20180612060000 +0000">
     <title>Home And Away</title>
     <desc>Justin learns about Nina’s ultimatum. Has Tori ruined her chances of rekindling a relationship with Ash? Raffy feels sidelined as Ryder and Ty’s friendship grows.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180612060000 +0000" stop="20180612063000 +0000">
     <title>The Big Bang Theory</title>
@@ -4380,11 +4288,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180612131500 +0000" stop="20180612135000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180612135000 +0000" stop="20180612142000 +0000">
+  <programme channel="tv.10" start="20180612131500 +0000" stop="20180612142000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -4424,7 +4328,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180612173000 +0000" stop="20180612180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180612180000 +0000" stop="20180612183000 +0000">
@@ -4544,6 +4448,9 @@
   <programme channel="tv.10" start="20180613023000 +0000" stop="20180613030000 +0000">
     <title>Home And Away</title>
     <desc>Justin learns about Nina’s ultimatum. Has Tori ruined her chances of rekindling a relationship with Ash? Raffy feels sidelined as Ryder and Ty’s friendship grows.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180613030000 +0000" stop="20180613033000 +0000">
     <title>Shortland Street</title>
@@ -4597,6 +4504,9 @@
   <programme channel="tv.10" start="20180613053000 +0000" stop="20180613060000 +0000">
     <title>Home And Away</title>
     <desc>Willow steals money to pay for rent and hide her gambling addiction. Raffy and Ty finally get some time alone. Colby falls apart under pressure and he and Dean come to blows.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180613060000 +0000" stop="20180613063000 +0000">
     <title>The Big Bang Theory</title>
@@ -4713,11 +4623,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180613132500 +0000" stop="20180613135500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180613135500 +0000" stop="20180613142500 +0000">
+  <programme channel="tv.10" start="20180613132500 +0000" stop="20180613142500 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -4756,12 +4662,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180613173000 +0000" stop="20180613180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180613180000 +0000" stop="20180613183000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.10" start="20180613173000 +0000" stop="20180613183000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180613183000 +0000" stop="20180613184000 +0000">
@@ -4824,7 +4726,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180613210000 +0000" stop="20180613213000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180613213000 +0000" stop="20180613220000 +0000">
@@ -4832,7 +4734,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180613220000 +0000" stop="20180613223000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180613223000 +0000" stop="20180613230000 +0000">
@@ -4877,6 +4779,9 @@
   <programme channel="tv.10" start="20180614023000 +0000" stop="20180614030000 +0000">
     <title>Home And Away</title>
     <desc>Willow steals money to pay for rent and hide her gambling addiction. Raffy and Ty finally get some time alone. Colby falls apart under pressure and he and Dean come to blows.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180614030000 +0000" stop="20180614033000 +0000">
     <title>Shortland Street</title>
@@ -9143,6 +9048,9 @@
     <title>Design Junkies</title>
     <desc>Season Finale. Each week ingenious designers create beautiful creations out of trash. Our designers work on their artistic interpretations of Aotearoa that will be auctioned off in the final.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180607093000 +0000" stop="20180607103000 +0000">
     <title>George Clarke's Amazing Spaces</title>
@@ -9383,6 +9291,9 @@
     <title>Design Junkies</title>
     <desc>Season Finale. Each week ingenious designers create beautiful creations out of trash. Our designers work on their artistic interpretations of Aotearoa that will be auctioned off in the final.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180609045500 +0000" stop="20180609052500 +0000">
     <title>Dream Catchers</title>
@@ -9633,28 +9544,8 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180610160500 +0000" stop="20180610163500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180610163500 +0000" stop="20180610170500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180610170500 +0000" stop="20180610173500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180610173500 +0000" stop="20180610180000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180610180000 +0000" stop="20180610183000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180610183000 +0000" stop="20180610190000 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180610160500 +0000" stop="20180610190000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.38" start="20180610190000 +0000" stop="20180610220000 +0000">
@@ -9785,40 +9676,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.38" start="20180611141000 +0000" stop="20180611143500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180611143500 +0000" stop="20180611150500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180611150500 +0000" stop="20180611153500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180611153500 +0000" stop="20180611160500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180611160500 +0000" stop="20180611163500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180611163500 +0000" stop="20180611170500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180611170500 +0000" stop="20180611173500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180611173500 +0000" stop="20180611180500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180611180500 +0000" stop="20180611183500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180611141000 +0000" stop="20180611183500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.38" start="20180611183500 +0000" stop="20180611190000 +0000">
@@ -9832,6 +9691,9 @@
   <programme channel="tv.38" start="20180611220000 +0000" stop="20180611230000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Mindy Kaling &amp; David Spade.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180611230000 +0000" stop="20180612000000 +0000">
     <title>Tipping Point</title>
@@ -9868,6 +9730,9 @@
   <programme channel="tv.38" start="20180612030000 +0000" stop="20180612040000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Mindy Kaling &amp; David Spade.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180612040000 +0000" stop="20180612050000 +0000">
     <title>Tipping Point</title>
@@ -9906,6 +9771,9 @@
     <title>Dog Squad</title>
     <desc>Wellington Delta Team Stu and Dakota shut down a profitless crime. At Rimutaka Prison Ricky and Preston find a car full of drug paraphernalia and Customs dog Rajax bags a big haul on the mail belt.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180612090000 +0000" stop="20180612093000 +0000">
     <title>The Force</title>
@@ -9956,32 +9824,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.38" start="20180612150500 +0000" stop="20180612153500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180612153500 +0000" stop="20180612160500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180612160500 +0000" stop="20180612163500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180612163500 +0000" stop="20180612170500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180612170500 +0000" stop="20180612173500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180612173500 +0000" stop="20180612180500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180612180500 +0000" stop="20180612183500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180612150500 +0000" stop="20180612183500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.38" start="20180612183500 +0000" stop="20180612190000 +0000">
@@ -10081,6 +9925,9 @@
     <title>Coronation Street 2018</title>
     <desc>Chaos reigns following a gunshot at Number 11. Phelan heads to the Bistro and takes a hostage. A desperate Gail reconnects with Rosemary.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180613113500 +0000" stop="20180613120500 +0000">
     <title>1 News Tonight</title>
@@ -10105,40 +9952,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.38" start="20180613141500 +0000" stop="20180613144500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180613144500 +0000" stop="20180613151500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180613151500 +0000" stop="20180613154000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180613154000 +0000" stop="20180613161000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180613161000 +0000" stop="20180613164000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180613164000 +0000" stop="20180613170500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180613170500 +0000" stop="20180613173500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180613173500 +0000" stop="20180613180500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180613180500 +0000" stop="20180613183500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180613141500 +0000" stop="20180613183500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.38" start="20180613183500 +0000" stop="20180613190000 +0000">
@@ -10305,7 +10120,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180606183000 +0000" stop="20180606193000 +0000">
+  <programme channel="tv.14" start="20180606183000 +0000" stop="20180606190000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.14" start="20180606190000 +0000" stop="20180606193000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -10444,6 +10263,9 @@
   <programme channel="tv.14" start="20180607050000 +0000" stop="20180607053000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Sam and the awesome team at Riding for the Disabled, we show you how to make a hedgehog scones, and see what your teachers really get up to after school!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180607053000 +0000" stop="20180607060000 +0000">
     <title>Friends</title>
@@ -10784,18 +10606,18 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180608113000 +0000" stop="20180608125500 +0000">
-    <title>Sensing Murder</title>
-    <desc>When Judy Yorke missed her daughter's birthday party in October 1992, her family knew something was terribly wrong and reported her missing. Psychics lead a team of investigators in a hunt for clues.</desc>
+  <programme channel="tv.14" start="20180608113000 +0000" stop="20180608132000 +0000">
+    <title>Heroes And Villains: Caught On Camera</title>
+    <desc>Incredible footage of have-a-go heroes, brazen villains and some of Britain’s dumbest criminals – all of them caught in the act, and caught on camera.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180608125500 +0000" stop="20180608140500 +0000">
-    <title>Sensing Murder</title>
-    <desc>Returning series. Nineteen-year-old Blake Stott died in a mysterious car fire. Uncomfortable with the coroner's findings and desperate for answers, Blake's family hope the psychics can help.</desc>
+  <programme channel="tv.14" start="20180608132000 +0000" stop="20180608140500 +0000">
+    <title>Cougar Town</title>
+    <desc>S2 E16 Jules and Ellie differ on whether it's more difficult to raise a baby in your 40s than in your 20s, and Ellie tricks Jules into watching baby Stan on her own for a day with disastrous results.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180608140500 +0000" stop="20180608143000 +0000">
@@ -11277,7 +11099,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180610183000 +0000" stop="20180610190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180610190000 +0000" stop="20180610193000 +0000">
@@ -11340,16 +11162,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180610220000 +0000" stop="20180610223000 +0000">
-    <title>Infomercial 0900</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180610223000 +0000" stop="20180610230000 +0000">
+  <programme channel="tv.14" start="20180610220000 +0000" stop="20180610233000 +0000">
     <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180610230000 +0000" stop="20180610233000 +0000">
-    <title>Infomercial 1000</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180610233000 +0000" stop="20180611000000 +0000">
@@ -11513,11 +11327,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180611142500 +0000" stop="20180611145500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180611145500 +0000" stop="20180611152500 +0000">
+  <programme channel="tv.14" start="20180611142500 +0000" stop="20180611152500 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -11553,12 +11363,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180611183000 +0000" stop="20180611190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180611190000 +0000" stop="20180611193000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.14" start="20180611183000 +0000" stop="20180611193000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180611193000 +0000" stop="20180611194000 +0000">
@@ -11615,7 +11421,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180611220000 +0000" stop="20180611223000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180611223000 +0000" stop="20180611230000 +0000">
@@ -11623,7 +11429,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180611230000 +0000" stop="20180611233000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180611233000 +0000" stop="20180612000000 +0000">
@@ -11709,6 +11515,9 @@
   <programme channel="tv.14" start="20180612063000 +0000" stop="20180612070000 +0000">
     <title>Home And Away</title>
     <desc>Justin learns about Nina’s ultimatum. Has Tori ruined her chances of rekindling a relationship with Ash? Raffy feels sidelined as Ryder and Ty’s friendship grows.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180612070000 +0000" stop="20180612073000 +0000">
     <title>The Big Bang Theory</title>
@@ -11790,11 +11599,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180612141500 +0000" stop="20180612145000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180612145000 +0000" stop="20180612152000 +0000">
+  <programme channel="tv.14" start="20180612141500 +0000" stop="20180612152000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -11831,7 +11636,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180612183000 +0000" stop="20180612190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180612190000 +0000" stop="20180612193000 +0000">
@@ -11942,6 +11747,9 @@
   <programme channel="tv.14" start="20180613033000 +0000" stop="20180613040000 +0000">
     <title>Home And Away</title>
     <desc>Justin learns about Nina’s ultimatum. Has Tori ruined her chances of rekindling a relationship with Ash? Raffy feels sidelined as Ryder and Ty’s friendship grows.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180613040000 +0000" stop="20180613043000 +0000">
     <title>Shortland Street</title>
@@ -11986,6 +11794,9 @@
   <programme channel="tv.14" start="20180613063000 +0000" stop="20180613070000 +0000">
     <title>Home And Away</title>
     <desc>Willow steals money to pay for rent and hide her gambling addiction. Raffy and Ty finally get some time alone. Colby falls apart under pressure and he and Dean come to blows.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180613070000 +0000" stop="20180613073000 +0000">
     <title>The Big Bang Theory</title>
@@ -12075,11 +11886,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180613142500 +0000" stop="20180613145500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180613145500 +0000" stop="20180613152500 +0000">
+  <programme channel="tv.14" start="20180613142500 +0000" stop="20180613152500 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -12115,12 +11922,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180613183000 +0000" stop="20180613190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180613190000 +0000" stop="20180613193000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.14" start="20180613183000 +0000" stop="20180613193000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180613193000 +0000" stop="20180613194000 +0000">
@@ -12177,7 +11980,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180613220000 +0000" stop="20180613223000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180613223000 +0000" stop="20180613230000 +0000">
@@ -12185,7 +11988,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180613230000 +0000" stop="20180613233000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180613233000 +0000" stop="20180614000000 +0000">
@@ -12227,6 +12030,9 @@
   <programme channel="tv.14" start="20180614033000 +0000" stop="20180614040000 +0000">
     <title>Home And Away</title>
     <desc>Willow steals money to pay for rent and hide her gambling addiction. Raffy and Ty finally get some time alone. Colby falls apart under pressure and he and Dean come to blows.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180614040000 +0000" stop="20180614043000 +0000">
     <title>Shortland Street</title>
@@ -19488,7 +19294,7 @@
     <title>Live Pd: Police Patrol</title>
     <desc>This program shows the actions and investigations of police forces across America. Ride along with six diverse police departments for a transparent look at law enforcement on duty.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>AO</value>
     </rating>
   </programme>
   <programme channel="tv.55" start="20180610093000 +0000" stop="20180610100000 +0000">
