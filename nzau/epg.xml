@@ -280,31 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180607055737 +0000" stop="20180607061006 +0000">
-    <title>Rob Meets S1E1</title>
-    <desc>Rob Warner travels to the north of England to meet Danny Hart, the 2016 UCI Mountain Bike World Champion.</desc>
-    <sub-title>Rob Meets Danny Hart</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180607061006 +0000" stop="20180607062350 +0000">
-    <title>Rob Meets S1E2</title>
-    <desc>It's a South African safari as Rob meets three-time UCI Mountain Bike World Champion Greg Minnaar.</desc>
-    <sub-title>Rob Meets Greg Minnaar</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180607062350 +0000" stop="20180607063736 +0000">
-    <title>Rob Meets S1E3</title>
-    <desc>Rob Warner takes it easy with Red Bull Hardline winner Bernard Kerr in Bernie's home in Surrey, England.</desc>
-    <sub-title>Rob Meets Bernard Kerr</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180607063736 +0000" stop="20180607064756 +0000">
-    <title>Rob Meets S1E4</title>
-    <desc>Spending a day in the life of UCI Downhill World Champion Myriam Nicole shows Rob how driven a rider she is.</desc>
-    <sub-title>Rob Meets Myriam Nicole</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180607064756 +0000" stop="20180607065909 +0000">
-    <title>Rob Meets S1E5</title>
-    <desc>Rob Warner meets with Jolanda Neff on her home turf to see how the Swiss phenom trains to win.</desc>
-    <sub-title>Rob Meets Jolanda Neff</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180607065909 +0000" stop="20180607071251 +0000">
     <title>Rob Meets S1E6</title>
     <desc>Rob Warner gets personal with the undisputed king of cross-country mountain biking, Julien Absalon.</desc>
@@ -5119,6 +5094,9 @@
   <programme channel="tv.11" start="20180607073000 +0000" stop="20180607083000 +0000">
     <title>Jono And Ben</title>
     <desc>New Episode. The boys go head to head, with the loser being punished with the ultimate Zumba nightmare. Plus, all of the Dancing With the Stars insights from our new correspondent from Gloriavale!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180607083000 +0000" stop="20180607105000 +0000">
     <title>Mission: Impossible II</title>
@@ -5127,11 +5105,11 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180607105000 +0000" stop="20180607111000 +0000">
+  <programme channel="tv.11" start="20180607105000 +0000" stop="20180607112000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.11" start="20180607111000 +0000" stop="20180607120500 +0000">
+  <programme channel="tv.11" start="20180607112000 +0000" stop="20180607121500 +0000">
     <title>Motive</title>
     <desc>A criminal aims to destroy Angie's career. S3 Ep13</desc>
     <audio>
@@ -5141,7 +5119,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180607120500 +0000" stop="20180607170000 +0000">
+  <programme channel="tv.11" start="20180607121500 +0000" stop="20180607170000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -5257,19 +5235,22 @@
   <programme channel="tv.11" start="20180608094500 +0000" stop="20180608101500 +0000">
     <title>Funny Girls</title>
     <desc>New Episode. The Funny Girls laugh at our mothers, coriander and the girl squad, all while fixing inequality. Someone give them a Nobel Peace Prize already. S3 Ep5</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180608101500 +0000" stop="20180608104500 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.11" start="20180608104500 +0000" stop="20180608111500 +0000">
+  <programme channel="tv.11" start="20180608104500 +0000" stop="20180608111000 +0000">
     <title>Bob's Burgers</title>
     <desc>New Episode. Louise's extensive card collection gets confiscated at school and Bob must give a eulogy for an old acquaintance despite an unfortunate incident that happened years ago. S8 Ep20</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180608111500 +0000" stop="20180608121000 +0000">
+  <programme channel="tv.11" start="20180608111000 +0000" stop="20180608120500 +0000">
     <title>Hawaii Five-O</title>
     <desc>On Halloween, Five-O needs to track down a serial killer inspired by Frankenstein. Jerry asks the team for help when an armed gang raids a blood bank. S6 Ep6</desc>
     <audio>
@@ -5279,7 +5260,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180608121000 +0000" stop="20180608170000 +0000">
+  <programme channel="tv.11" start="20180608120500 +0000" stop="20180608170000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -5373,7 +5354,7 @@
     <title>Newshub Live At 6pm</title>
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
   </programme>
-  <programme channel="tv.11" start="20180609070000 +0000" stop="20180609084000 +0000">
+  <programme channel="tv.11" start="20180609070000 +0000" stop="20180609083500 +0000">
     <title>Doctor Dolittle</title>
     <desc>The wild and woolly adventures of the one and only vet who can talk to the animals. Starring Eddie Murphy, Ossie Davis, and Oliver Platt. (1998)</desc>
     <audio>
@@ -5383,21 +5364,21 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180609084000 +0000" stop="20180609105000 +0000">
+  <programme channel="tv.11" start="20180609083500 +0000" stop="20180609104500 +0000">
     <title>Edward Scissorhands</title>
     <desc>From director Tim Burton comes a fantastic tale shorn out of ordinary suburbia about a man named Edward Scissorhands whose hands were cold, but whose heart was warm. Starring Johnny Depp. (1990)</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180609105000 +0000" stop="20180609123500 +0000">
+  <programme channel="tv.11" start="20180609104500 +0000" stop="20180609123000 +0000">
     <title>Brock</title>
     <desc>Setting the record straight about motor racing driver Peter Brock, this mini-series charts the amazing highs of his brilliant racing career as well as the lows of his personal life. Part 1 of 2.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180609123500 +0000" stop="20180609160000 +0000">
+  <programme channel="tv.11" start="20180609123000 +0000" stop="20180609160000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -5419,21 +5400,33 @@
   <programme channel="tv.11" start="20180609180000 +0000" stop="20180609183000 +0000">
     <title>Life TV</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180609183000 +0000" stop="20180609190000 +0000">
     <title>Brian Houston</title>
-    <desc/>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180609190000 +0000" stop="20180609200000 +0000">
     <title>Charles Stanley</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180609200000 +0000" stop="20180609203000 +0000">
-    <title>Living Church of God</title>
+    <title>Living Church Of God</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180609203000 +0000" stop="20180609210000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc/>
   </programme>
   <programme channel="tv.11" start="20180609210000 +0000" stop="20180609213000 +0000">
@@ -5482,8 +5475,8 @@
     <desc>The IndyCar Series, based on the history, heritage, passion and intense competition of the Indianapolis 500, will entertain race fans and challenge drivers, teams and equipment manufacturers.</desc>
   </programme>
   <programme channel="tv.11" start="20180610030000 +0000" stop="20180610040000 +0000">
-    <title>Outlaw Nitro Funny Cars 7</title>
-    <desc/>
+    <title>Outlaw Nitro Funny Cars Perth</title>
+    <desc>The superstars of Australian Nitro Drag Racing come together to fight it out for quarter mile supremacy.</desc>
   </programme>
   <programme channel="tv.11" start="20180610040000 +0000" stop="20180610050000 +0000">
     <title>MotoGP Rnd 6 Italy</title>
@@ -6050,7 +6043,7 @@
   </programme>
   <programme channel="tv.11" start="20180614073000 +0000" stop="20180614083000 +0000">
     <title>Jono And Ben</title>
-    <desc>Jono and Ben are joined with a wider cast of comedians, including Brynley Stent, Chris Parker, Kura Forrester, Ray O'Leary and Angella Dravid! Brighten your Thursday night with plenty of laughs.</desc>
+    <desc>New Episode. Jono and Ben hit the streets to prank the public in their new sports segment, Guy gets caught in between two rival Countdown Supermarkets, and Laura Daniel is back as Jacinda!</desc>
   </programme>
   <programme channel="tv.11" start="20180614083000 +0000" stop="20180614103500 +0000">
     <title>X-Men</title>
@@ -6341,6 +6334,9 @@
   <programme channel="tv.12" start="20180608072800 +0000" stop="20180608073000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180608073000 +0000" stop="20180608083000 +0000">
     <title>Catfish</title>
@@ -6359,6 +6355,9 @@
   <programme channel="tv.12" start="20180608103300 +0000" stop="20180608103500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180608103500 +0000" stop="20180608113000 +0000">
     <title>Killer Couples</title>
@@ -6403,6 +6402,9 @@
   <programme channel="tv.12" start="20180608225800 +0000" stop="20180608230000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180608230000 +0000" stop="20180608233000 +0000">
     <title>Say Yes To The Dress Atlanta</title>
@@ -6435,6 +6437,9 @@
   <programme channel="tv.12" start="20180609005300 +0000" stop="20180609005500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180609005500 +0000" stop="20180609015000 +0000">
     <title>Back With The Ex</title>
@@ -6453,6 +6458,9 @@
   <programme channel="tv.12" start="20180609024300 +0000" stop="20180609024500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180609024500 +0000" stop="20180609034000 +0000">
     <title>Sell It Like Serhant</title>
@@ -6499,6 +6507,9 @@
   <programme channel="tv.12" start="20180609082800 +0000" stop="20180609083000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180609083000 +0000" stop="20180609093000 +0000">
     <title>My Crazy Ex</title>
@@ -6577,6 +6588,9 @@
   <programme channel="tv.12" start="20180609215300 +0000" stop="20180609215500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180609215500 +0000" stop="20180609224000 +0000">
     <title>Dance Moms</title>
@@ -6602,6 +6616,9 @@
   <programme channel="tv.12" start="20180610000800 +0000" stop="20180610001000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180610001000 +0000" stop="20180610010500 +0000">
     <title>Hollywood Medium With Tyler Henry</title>
@@ -6655,6 +6672,9 @@
   <programme channel="tv.12" start="20180610034800 +0000" stop="20180610035000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180610035000 +0000" stop="20180610044500 +0000">
     <title>Dance Moms</title>
@@ -6708,6 +6728,9 @@
   <programme channel="tv.12" start="20180610103300 +0000" stop="20180610103500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180610103500 +0000" stop="20180610110500 +0000">
     <title>Don't Be Tardy</title>
@@ -6759,6 +6782,9 @@
   <programme channel="tv.12" start="20180610225300 +0000" stop="20180610225500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180610225500 +0000" stop="20180610234500 +0000">
     <title>Catfish</title>
@@ -6777,6 +6803,9 @@
   <programme channel="tv.12" start="20180611003800 +0000" stop="20180611004000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180611004000 +0000" stop="20180611013500 +0000">
     <title>Below Deck</title>
@@ -7277,6 +7306,9 @@
   <programme channel="tv.12" start="20180614083000 +0000" stop="20180614093000 +0000">
     <title>Michael Jackson &amp; Anna Nicole Smith: Bad Medicine: Mysteries &amp; Scandals</title>
     <desc>Michael Jackson was an International icon and Anna Nicole Smith was a reality TV queen. Both shared the tragic bond of being hooked on prescription drugs and fatally overdosing.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180614093000 +0000" stop="20180614103000 +0000">
     <title>Final Appeal</title>
@@ -12352,6 +12384,9 @@
   <programme channel="tv.27" start="20180607083000 +0000" stop="20180607093000 +0000">
     <title>Jono And Ben</title>
     <desc>New Episode. The boys go head to head, with the loser being punished with the ultimate Zumba nightmare. Plus, all of the Dancing With the Stars insights from our new correspondent from Gloriavale!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180607093000 +0000" stop="20180607115000 +0000">
     <title>Mission: Impossible II</title>
@@ -12360,18 +12395,18 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180607115000 +0000" stop="20180607121000 +0000">
+  <programme channel="tv.27" start="20180607115000 +0000" stop="20180607122000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.27" start="20180607121000 +0000" stop="20180607130500 +0000">
+  <programme channel="tv.27" start="20180607122000 +0000" stop="20180607131500 +0000">
     <title>Motive</title>
     <desc>A criminal aims to destroy Angie's career. S3 Ep13</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180607130500 +0000" stop="20180607180000 +0000">
+  <programme channel="tv.27" start="20180607131500 +0000" stop="20180607180000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -12481,26 +12516,29 @@
   <programme channel="tv.27" start="20180608104500 +0000" stop="20180608111500 +0000">
     <title>Funny Girls</title>
     <desc>New Episode. The Funny Girls laugh at our mothers, coriander and the girl squad, all while fixing inequality. Someone give them a Nobel Peace Prize already. S3 Ep5</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180608111500 +0000" stop="20180608114500 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.27" start="20180608114500 +0000" stop="20180608121500 +0000">
+  <programme channel="tv.27" start="20180608114500 +0000" stop="20180608121000 +0000">
     <title>Bob's Burgers</title>
     <desc>New Episode. Louise's extensive card collection gets confiscated at school and Bob must give a eulogy for an old acquaintance despite an unfortunate incident that happened years ago. S8 Ep20</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180608121500 +0000" stop="20180608131000 +0000">
+  <programme channel="tv.27" start="20180608121000 +0000" stop="20180608130500 +0000">
     <title>Hawaii Five-O</title>
     <desc>On Halloween, Five-O needs to track down a serial killer inspired by Frankenstein. Jerry asks the team for help when an armed gang raids a blood bank. S6 Ep6</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180608131000 +0000" stop="20180608180000 +0000">
+  <programme channel="tv.27" start="20180608130500 +0000" stop="20180608180000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -12585,28 +12623,28 @@
     <title>Newshub Live At 6pm</title>
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
   </programme>
-  <programme channel="tv.27" start="20180609080000 +0000" stop="20180609094000 +0000">
+  <programme channel="tv.27" start="20180609080000 +0000" stop="20180609093500 +0000">
     <title>Doctor Dolittle</title>
     <desc>The wild and woolly adventures of the one and only vet who can talk to the animals. Starring Eddie Murphy, Ossie Davis, and Oliver Platt. (1998)</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180609094000 +0000" stop="20180609115000 +0000">
+  <programme channel="tv.27" start="20180609093500 +0000" stop="20180609114500 +0000">
     <title>Edward Scissorhands</title>
     <desc>From director Tim Burton comes a fantastic tale shorn out of ordinary suburbia about a man named Edward Scissorhands whose hands were cold, but whose heart was warm. Starring Johnny Depp. (1990)</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180609115000 +0000" stop="20180609133500 +0000">
+  <programme channel="tv.27" start="20180609114500 +0000" stop="20180609133000 +0000">
     <title>Brock</title>
     <desc>Setting the record straight about motor racing driver Peter Brock, this mini-series charts the amazing highs of his brilliant racing career as well as the lows of his personal life. Part 1 of 2.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180609133500 +0000" stop="20180609170000 +0000">
+  <programme channel="tv.27" start="20180609133000 +0000" stop="20180609170000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -12628,21 +12666,33 @@
   <programme channel="tv.27" start="20180609190000 +0000" stop="20180609193000 +0000">
     <title>Life TV</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180609193000 +0000" stop="20180609200000 +0000">
     <title>Brian Houston</title>
-    <desc/>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180609200000 +0000" stop="20180609210000 +0000">
     <title>Charles Stanley</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180609210000 +0000" stop="20180609213000 +0000">
-    <title>Living Church of God</title>
+    <title>Living Church Of God</title>
     <desc/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180609213000 +0000" stop="20180609220000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc/>
   </programme>
   <programme channel="tv.27" start="20180609220000 +0000" stop="20180609223000 +0000">
@@ -12691,8 +12741,8 @@
     <desc>The IndyCar Series, based on the history, heritage, passion and intense competition of the Indianapolis 500, will entertain race fans and challenge drivers, teams and equipment manufacturers.</desc>
   </programme>
   <programme channel="tv.27" start="20180610040000 +0000" stop="20180610050000 +0000">
-    <title>Outlaw Nitro Funny Cars 7</title>
-    <desc/>
+    <title>Outlaw Nitro Funny Cars Perth</title>
+    <desc>The superstars of Australian Nitro Drag Racing come together to fight it out for quarter mile supremacy.</desc>
   </programme>
   <programme channel="tv.27" start="20180610050000 +0000" stop="20180610060000 +0000">
     <title>MotoGP Rnd 6 Italy</title>
@@ -13220,7 +13270,7 @@
   </programme>
   <programme channel="tv.27" start="20180614083000 +0000" stop="20180614093000 +0000">
     <title>Jono And Ben</title>
-    <desc>Jono and Ben are joined with a wider cast of comedians, including Brynley Stent, Chris Parker, Kura Forrester, Ray O'Leary and Angella Dravid! Brighten your Thursday night with plenty of laughs.</desc>
+    <desc>New Episode. Jono and Ben hit the streets to prank the public in their new sports segment, Guy gets caught in between two rival Countdown Supermarkets, and Laura Daniel is back as Jacinda!</desc>
   </programme>
   <programme channel="tv.27" start="20180614093000 +0000" stop="20180614113500 +0000">
     <title>X-Men</title>
@@ -13505,6 +13555,9 @@
   <programme channel="tv.30" start="20180608082800 +0000" stop="20180608083000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180608083000 +0000" stop="20180608093000 +0000">
     <title>Catfish</title>
@@ -13523,6 +13576,9 @@
   <programme channel="tv.30" start="20180608113300 +0000" stop="20180608113500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180608113500 +0000" stop="20180608123000 +0000">
     <title>Killer Couples</title>
@@ -13567,6 +13623,9 @@
   <programme channel="tv.30" start="20180608235800 +0000" stop="20180609000000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180609000000 +0000" stop="20180609003000 +0000">
     <title>Say Yes To The Dress Atlanta</title>
@@ -13599,6 +13658,9 @@
   <programme channel="tv.30" start="20180609015300 +0000" stop="20180609015500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180609015500 +0000" stop="20180609025000 +0000">
     <title>Back With The Ex</title>
@@ -13617,6 +13679,9 @@
   <programme channel="tv.30" start="20180609034300 +0000" stop="20180609034500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180609034500 +0000" stop="20180609044000 +0000">
     <title>Sell It Like Serhant</title>
@@ -13663,6 +13728,9 @@
   <programme channel="tv.30" start="20180609092800 +0000" stop="20180609093000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180609093000 +0000" stop="20180609103000 +0000">
     <title>My Crazy Ex</title>
@@ -13741,6 +13809,9 @@
   <programme channel="tv.30" start="20180609225300 +0000" stop="20180609225500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180609225500 +0000" stop="20180609234000 +0000">
     <title>Dance Moms</title>
@@ -13766,6 +13837,9 @@
   <programme channel="tv.30" start="20180610010800 +0000" stop="20180610011000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180610011000 +0000" stop="20180610020500 +0000">
     <title>Hollywood Medium With Tyler Henry</title>
@@ -13819,6 +13893,9 @@
   <programme channel="tv.30" start="20180610044800 +0000" stop="20180610045000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180610045000 +0000" stop="20180610054500 +0000">
     <title>Dance Moms</title>
@@ -13872,6 +13949,9 @@
   <programme channel="tv.30" start="20180610113300 +0000" stop="20180610113500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180610113500 +0000" stop="20180610120500 +0000">
     <title>Don't Be Tardy</title>
@@ -13923,6 +14003,9 @@
   <programme channel="tv.30" start="20180610235300 +0000" stop="20180610235500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180610235500 +0000" stop="20180611004500 +0000">
     <title>Catfish</title>
@@ -13941,6 +14024,9 @@
   <programme channel="tv.30" start="20180611013800 +0000" stop="20180611014000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180611014000 +0000" stop="20180611023500 +0000">
     <title>Below Deck</title>
@@ -14441,6 +14527,9 @@
   <programme channel="tv.30" start="20180614093000 +0000" stop="20180614103000 +0000">
     <title>Michael Jackson &amp; Anna Nicole Smith: Bad Medicine: Mysteries &amp; Scandals</title>
     <desc>Michael Jackson was an International icon and Anna Nicole Smith was a reality TV queen. Both shared the tragic bond of being hooked on prescription drugs and fatally overdosing.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180614103000 +0000" stop="20180614113000 +0000">
     <title>Final Appeal</title>
@@ -17061,7 +17150,7 @@
   </programme>
   <programme channel="tv.65" start="20180612083000 +0000" stop="20180612090000 +0000">
     <title>Getaway</title>
-    <desc>Getaway is a travel and lifestyle show featuring incredible and exotic locations with advice, information and tips for aspiring travellers.</desc>
+    <desc>Getaway is a travel and lifestyle show featuring incredible and exotic locations with advice, information and tips for aspiring travellers. Package deals are not available to NZ viewers.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -17153,7 +17242,7 @@
   </programme>
   <programme channel="tv.65" start="20180612233000 +0000" stop="20180613000000 +0000">
     <title>Getaway</title>
-    <desc>Getaway is a travel and lifestyle show featuring incredible and exotic locations with advice, information and tips for aspiring travellers.</desc>
+    <desc>Getaway is a travel and lifestyle show featuring incredible and exotic locations with advice, information and tips for aspiring travellers. Package deals are not available to NZ viewers.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -17216,7 +17305,7 @@
   </programme>
   <programme channel="tv.65" start="20180613040000 +0000" stop="20180613043000 +0000">
     <title>Getaway</title>
-    <desc>Getaway is a travel and lifestyle show featuring incredible and exotic locations with advice, information and tips for aspiring travellers.</desc>
+    <desc>Getaway is a travel and lifestyle show featuring incredible and exotic locations with advice, information and tips for aspiring travellers. Package deals are not available to NZ viewers.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -24539,8 +24628,8 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180608210000 +0000" stop="20180608220000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <title>Jono And Ben</title>
+    <desc>New Episode. The boys go head to head, with the loser being punished with the ultimate Zumba nightmare. Plus, all of the Dancing With the Stars insights from our new correspondent from Gloriavale!</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -24686,7 +24775,7 @@
   </programme>
   <programme channel="tv.51" start="20180610210000 +0000" stop="20180610220000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Scandalous</desc>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Rap Cameos</desc>
   </programme>
   <programme channel="tv.51" start="20180610220000 +0000" stop="20180611000000 +0000">
     <title>All The Hits</title>
@@ -69377,7 +69466,7 @@
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180608040000 +0000" stop="20180608043000 +0000">
-    <title>Frasier</title>
+    <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
