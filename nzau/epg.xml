@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180608155223 +0000" stop="20180608161246 +0000">
-    <title>Next in Line</title>
-    <desc>Swedish hip-hop star Elliphant brings a young artist to New York City for a shot at her first big break.</desc>
-    <sub-title>Shaping Sweden's Hip-Hop Talent</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180608161246 +0000" stop="20180608164201 +0000">
-    <title>Going Straight Sideways S1E5</title>
-    <desc>After the training, prep, and practice, Mike Chen and co-driver Richard Milliner race in the Wales Rally GB.</desc>
-    <sub-title>The Wales Rally GB</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180608164201 +0000" stop="20180608173726 +0000">
     <title>Visions of Greatness S1E7</title>
     <desc>Artists like Wyclef Jean and Paul van Dyk may have grown up isolated, but now seek to bring people together.</desc>
@@ -14823,6 +14813,9 @@
   <programme channel="tv.28" start="20180609210000 +0000" stop="20180609213000 +0000">
     <title>Impact For Life</title>
     <desc>Religious programme. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180609213000 +0000" stop="20180609220000 +0000">
     <title>Life TV</title>
@@ -14855,6 +14848,9 @@
   <programme channel="tv.28" start="20180610010000 +0000" stop="20180610020000 +0000">
     <title>Haati Grassroots Rugby</title>
     <desc>Join Haati Grassroots Rugby for a showcase of club rugby matches and homegrown stories from some of the 600 rugby clubs throughout New Zealand. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180610020000 +0000" stop="20180610023000 +0000">
     <title>Mad About You</title>
@@ -15049,6 +15045,9 @@
   <programme channel="tv.28" start="20180611013500 +0000" stop="20180611020500 +0000">
     <title>Married With Children</title>
     <desc>'Stricken with a toothache, Al reluctantly visits a dentist. Guest Starring Traci Lords. PGR'</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180611020500 +0000" stop="20180611030000 +0000">
     <title>The Late Show</title>
@@ -15257,6 +15256,9 @@
   <programme channel="tv.28" start="20180612013500 +0000" stop="20180612020500 +0000">
     <title>Married With Children</title>
     <desc>Peggy is worried that Al is picking up more than a spare on his bowling night. PGR</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180612020500 +0000" stop="20180612030000 +0000">
     <title>The Late Show</title>
