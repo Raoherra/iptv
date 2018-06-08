@@ -280,21 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180608040412 +0000" stop="20180608045622 +0000">
-    <title>The Art of Street Fighting</title>
-    <desc>The world's top Street Fighter V players prepare for the fight of their lives at Red Bull Kumite.</desc>
-    <sub-title>One Game. One Champion. An Endless Fight.</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180608045622 +0000" stop="20180608045927 +0000">
-    <title>Jason Paul and Dimitris Kyrsanidis </title>
-    <desc>Two pro freerunners explore a shipping container-filled obstacle course through Turkey's Port of Haydarpaşa.</desc>
-    <sub-title>Dreamland</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180608045927 +0000" stop="20180608050133 +0000">
-    <title>Jason Paul &amp; Pasha Petkuns</title>
-    <desc>Jason Paul and Pasha Petkuns play mind tricks as they defy gravity with their freerunning illusions.</desc>
-    <sub-title>Freerunning Illusions</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180608050133 +0000" stop="20180608055600 +0000">
     <title>Visions of Greatness S1E5</title>
     <desc>The chasing for a dream is fraught with failure, but those who achieve greatness approach failure differently.</desc>
@@ -1662,7 +1647,7 @@
   </programme>
   <programme channel="tv.9" start="20180611073000 +0000" stop="20180611080000 +0000">
     <title>Fair Go</title>
-    <desc>Back. Join Pippa Wetzell, Hadyn Jones and the Fair Go team as they stand up for the underdogs and consumer rights!</desc>
+    <desc>Tonight, smartphones are rapidly replacing family photo albums. But what happens when you or a loved one dies? Plus, we assist a night worker who’s being driven mad by her neighbour’s noisy dog.</desc>
   </programme>
   <programme channel="tv.9" start="20180611080000 +0000" stop="20180611083000 +0000">
     <title>Highway Cops</title>
@@ -1874,6 +1859,9 @@
   <programme channel="tv.9" start="20180612210000 +0000" stop="20180612220000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Jim Parson &amp; Sean 'diddy' Combs.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180612220000 +0000" stop="20180612230000 +0000">
     <title>Tipping Point</title>
@@ -1910,6 +1898,9 @@
   <programme channel="tv.9" start="20180613020000 +0000" stop="20180613030000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Jim Parson &amp; Sean 'diddy' Combs.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180613030000 +0000" stop="20180613040000 +0000">
     <title>Tipping Point</title>
@@ -1932,6 +1923,9 @@
   <programme channel="tv.9" start="20180613045500 +0000" stop="20180613060000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180613060000 +0000" stop="20180613070000 +0000">
     <title>1 News At 6pm</title>
@@ -2050,10 +2044,16 @@
   <programme channel="tv.9" start="20180614043000 +0000" stop="20180614045500 +0000">
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180614045500 +0000" stop="20180614060000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180614060000 +0000" stop="20180614070000 +0000">
     <title>1 News At 6pm</title>
@@ -2074,6 +2074,9 @@
     <title>Coronation Street 2018</title>
     <desc>Antoine tries to wriggle out of Rosie’s trap. Roy muscles in on Gail’s private session with Rosemary. Steve begs Robert to keep his secret.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180614102000 +0000" stop="20180614105000 +0000">
     <title>1 News Tonight</title>
@@ -2114,6 +2117,9 @@
   <programme channel="tv.9" start="20180614210000 +0000" stop="20180614220000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Anne Hathaway &amp; Cate Blanchett.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180614220000 +0000" stop="20180614230000 +0000">
     <title>Tipping Point</title>
@@ -2147,6 +2153,9 @@
   <programme channel="tv.9" start="20180615020000 +0000" stop="20180615030000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Anne Hathaway &amp; Cate Blanchett.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180615030000 +0000" stop="20180615040000 +0000">
     <title>Tipping Point</title>
@@ -2725,7 +2734,7 @@
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180609024500 +0000" stop="20180609034000 +0000">
@@ -2993,6 +3002,12 @@
   <programme channel="tv.10" start="20180610060000 +0000" stop="20180610063000 +0000">
     <title>The Middle</title>
     <desc>S6 E7 Frankie's idea that the family eat Thanksgiving dinner at a local restaurant doesn't go as planned when Sue feels that Mike doesn't like Darrin, and Brick invites his quirky girlfriend, Cindy.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180610063000 +0000" stop="20180610070000 +0000">
     <title>The Big Bang Theory</title>
@@ -3005,6 +3020,9 @@
     <title>Survivor New Zealand</title>
     <desc>Tonight, the teams must merge and the new tribe has people fighting for safety. Will it be an easy vote out for the next team member or will previous tribe members form a new alliance.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180610083000 +0000" stop="20180610103500 +0000">
     <title>The Nice Guys</title>
@@ -3184,6 +3202,9 @@
   <programme channel="tv.10" start="20180611010000 +0000" stop="20180611020000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180611020000 +0000" stop="20180611030000 +0000">
     <title>Home Improvement</title>
@@ -3372,6 +3393,9 @@
   <programme channel="tv.10" start="20180611160500 +0000" stop="20180611165500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180611165500 +0000" stop="20180611170500 +0000">
     <title>Regular Show</title>
@@ -3401,6 +3425,9 @@
   <programme channel="tv.10" start="20180611184000 +0000" stop="20180611185500 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animation sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180611185500 +0000" stop="20180611190000 +0000">
     <title>Peppa Pig</title>
@@ -4313,6 +4340,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180614152000 +0000" stop="20180614161000 +0000">
     <title>Jeremy Kyle</title>
@@ -4538,6 +4568,9 @@
   <programme channel="tv.10" start="20180615093000 +0000" stop="20180615103000 +0000">
     <title>Heartbreak Island Uncut</title>
     <desc>Revisit the week on Heartbreak Island, catch all the biggest moments, plus never before seen footage that reveals a whole lot more of the couples and what they get up to when the lights go out.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
   </programme>
   <programme channel="tv.10" start="20180615103000 +0000" stop="20180615115000 +0000">
@@ -9142,7 +9175,7 @@
   </programme>
   <programme channel="tv.38" start="20180611083000 +0000" stop="20180611090000 +0000">
     <title>Fair Go</title>
-    <desc>Back. Join Pippa Wetzell, Hadyn Jones and the Fair Go team as they stand up for the underdogs and consumer rights!</desc>
+    <desc>Tonight, smartphones are rapidly replacing family photo albums. But what happens when you or a loved one dies? Plus, we assist a night worker who’s being driven mad by her neighbour’s noisy dog.</desc>
   </programme>
   <programme channel="tv.38" start="20180611090000 +0000" stop="20180611093000 +0000">
     <title>Highway Cops</title>
@@ -9354,6 +9387,9 @@
   <programme channel="tv.38" start="20180612220000 +0000" stop="20180612230000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Jim Parson &amp; Sean 'diddy' Combs.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180612230000 +0000" stop="20180613000000 +0000">
     <title>Tipping Point</title>
@@ -9390,6 +9426,9 @@
   <programme channel="tv.38" start="20180613030000 +0000" stop="20180613040000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Jim Parson &amp; Sean 'diddy' Combs.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180613040000 +0000" stop="20180613050000 +0000">
     <title>Tipping Point</title>
@@ -9412,6 +9451,9 @@
   <programme channel="tv.38" start="20180613055500 +0000" stop="20180613070000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180613070000 +0000" stop="20180613080000 +0000">
     <title>1 News At 6pm</title>
@@ -9530,10 +9572,16 @@
   <programme channel="tv.38" start="20180614053000 +0000" stop="20180614055500 +0000">
     <title>Funny You Should Ask</title>
     <desc>The game show where every question has a funny answer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180614055500 +0000" stop="20180614070000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180614070000 +0000" stop="20180614080000 +0000">
     <title>1 News At 6pm</title>
@@ -9554,6 +9602,9 @@
     <title>Coronation Street 2018</title>
     <desc>Antoine tries to wriggle out of Rosie’s trap. Roy muscles in on Gail’s private session with Rosemary. Steve begs Robert to keep his secret.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180614112000 +0000" stop="20180614115000 +0000">
     <title>1 News Tonight</title>
@@ -9594,6 +9645,9 @@
   <programme channel="tv.38" start="20180614220000 +0000" stop="20180614230000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Anne Hathaway &amp; Cate Blanchett.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180614230000 +0000" stop="20180615000000 +0000">
     <title>Tipping Point</title>
@@ -9627,6 +9681,9 @@
   <programme channel="tv.38" start="20180615030000 +0000" stop="20180615040000 +0000">
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. Today Ellen is joined by Anne Hathaway &amp; Cate Blanchett.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180615040000 +0000" stop="20180615050000 +0000">
     <title>Tipping Point</title>
@@ -9672,6 +9729,9 @@
     <title>Coronation Street 2018</title>
     <desc>Craig’s news delights Rosie. Sharon gives Kirk an expensive gift to show her gratitude. Tyrone steps in to prevent a quarrel.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180615111000 +0000" stop="20180615114000 +0000">
     <title>1 News Tonight</title>
@@ -10158,7 +10218,7 @@
     <title>The 100</title>
     <desc>S4 E11 Clarke faces the consequences of her fateful choice.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180609034500 +0000" stop="20180609044000 +0000">
@@ -10372,6 +10432,9 @@
   <programme channel="tv.14" start="20180610070000 +0000" stop="20180610073000 +0000">
     <title>The Middle</title>
     <desc>S6 E7 Frankie's idea that the family eat Thanksgiving dinner at a local restaurant doesn't go as planned when Sue feels that Mike doesn't like Darrin, and Brick invites his quirky girlfriend, Cindy.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180610073000 +0000" stop="20180610080000 +0000">
     <title>The Big Bang Theory</title>
@@ -10384,6 +10447,9 @@
     <title>Survivor New Zealand</title>
     <desc>Tonight, the teams must merge and the new tribe has people fighting for safety. Will it be an easy vote out for the next team member or will previous tribe members form a new alliance.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180610093000 +0000" stop="20180610113500 +0000">
     <title>The Nice Guys</title>
@@ -10542,6 +10608,9 @@
   <programme channel="tv.14" start="20180611020000 +0000" stop="20180611030000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180611030000 +0000" stop="20180611040000 +0000">
     <title>Home Improvement</title>
@@ -10575,6 +10644,9 @@
   <programme channel="tv.14" start="20180611050000 +0000" stop="20180611053000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Regie the explosives detector dog, Liam and his two ponies Raven and Dolly go Nuts About Animals, and you could be winning on Animal Lookalikes!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180611053000 +0000" stop="20180611060000 +0000">
     <title>Friends</title>
@@ -10700,6 +10772,9 @@
   <programme channel="tv.14" start="20180611170500 +0000" stop="20180611175500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180611175500 +0000" stop="20180611180500 +0000">
     <title>Regular Show</title>
@@ -10729,6 +10804,9 @@
   <programme channel="tv.14" start="20180611194000 +0000" stop="20180611195500 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animation sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180611195500 +0000" stop="20180611200000 +0000">
     <title>Peppa Pig</title>
@@ -10897,9 +10975,6 @@
     <title>Heartbreak Island</title>
     <desc>Tonight, the singles get to know each other better during party time at Cloud 9 bar, but who’s happy with their match and who’s ready to make a swap? Passion Play gives them the chance to recouple.</desc>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
   <programme channel="tv.14" start="20180612093000 +0000" stop="20180612103000 +0000">
     <title>The Resident</title>
@@ -11518,6 +11593,9 @@
   <programme channel="tv.14" start="20180614153000 +0000" stop="20180614162000 +0000">
     <title>Stitchers</title>
     <desc>New Series: Highly intelligent and emotionally distant, Kirsten Clark has an aptitude for technology but never expected that she’d be hacking into the minds of the recently deceased to fight crime.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180614162000 +0000" stop="20180614171000 +0000">
     <title>Jeremy Kyle</title>
@@ -18835,6 +18913,9 @@
   <programme channel="tv.55" start="20180610131000 +0000" stop="20180610134000 +0000">
     <title>Doco: Race for the Planet</title>
     <desc>A Formula E car races over a 100m against a cheetah, the world’s fastest animal to promote the need to preserve wildlife.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180610134000 +0000" stop="20180610143000 +0000">
     <title>DUKE Back in the Future</title>
@@ -18867,6 +18948,9 @@
   <programme channel="tv.55" start="20180610233500 +0000" stop="20180611000500 +0000">
     <title>Doco: Race for the Planet</title>
     <desc>A Formula E car races over a 100m against a cheetah, the world’s fastest animal to promote the need to preserve wildlife.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180611000500 +0000" stop="20180611010000 +0000">
     <title>Formula E Highlights</title>
@@ -18934,10 +19018,16 @@
   <programme channel="tv.55" start="20180611083000 +0000" stop="20180611090000 +0000">
     <title>South Park</title>
     <desc>S21 E1 Protestors armed with tiki torches and confederate flags take to the streets of South Park; Randy comes to grips with what it means to be white in today's society.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180611090000 +0000" stop="20180611093000 +0000">
     <title>South Park</title>
     <desc>S12 E1 Cartman finds himself fighting for his life after a tonsillectomy goes wrong. When Kyle becomes infected with Cartman's ailment so the two search for a cure.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180611093000 +0000" stop="20180611113500 +0000">
     <title>Movie: Arbitrage</title>
@@ -19335,12 +19425,15 @@
     <title>New: Live Pd Police Patrol</title>
     <desc>Double Episode. A Drugs and gun bust in Oklahoma; overdose in Indiana; children trapped in a car in Texas.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.55" start="20180615080000 +0000" stop="20180615083000 +0000">
     <title>New: Live Pd Police Patrol</title>
     <desc>A car crash and foot pursuit in Indiana; shooting in South Carolina.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180615083000 +0000" stop="20180615102500 +0000">
     <title>Movie: Cradle 2 The Grave</title>
@@ -53552,10 +53645,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20180612093000 +0000" stop="20180612103000 +0000">
-    <title>Million Dollar Matchmaker</title>
+  <programme channel="tv.101204200424" start="20180612093000 +0000" stop="20180612100000 +0000">
+    <title>Say Yes to the Dress Atlanta</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180612100000 +0000" stop="20180612103000 +0000">
