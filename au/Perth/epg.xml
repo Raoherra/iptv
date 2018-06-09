@@ -1735,6 +1735,37 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180617140000 +0000" stop="20180617141500 +0000">
+    <title>ABC Late News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180617141500 +0000" stop="20180617150000 +0000">
+    <title>National Wrap</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180617150000 +0000" stop="20180617151500 +0000">
+    <title>DW News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180617151500 +0000" stop="20180617153200 +0000">
+    <title>ABC Late News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180617153200 +0000" stop="20180617163000 +0000">
+    <title>Insiders</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180609153700 +0000" stop="20180609162300 +0000">
     <title>Live at the Apollo</title>
     <subtitles type="teletext"/>
@@ -5866,6 +5897,34 @@
   </programme>
   <programme channel="tv.101002210222" start="20180617134900 +0000" stop="20180617142000 +0000">
     <title>W1A</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180617142000 +0000" stop="20180617145200 +0000">
+    <title>Plebs</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180617145200 +0000" stop="20180617152300 +0000">
+    <title>Zapped</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180617152300 +0000" stop="20180617155300 +0000">
+    <title>The Thick of It</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180617155300 +0000" stop="20180617161700 +0000">
+    <title>The Keith Lemon Sketch Show</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -11138,14 +11197,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204600464" start="20180614123000 +0000" stop="20180614133000 +0000">
-    <title>Botched</title>
+    <title>Dr Miami</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204600464" start="20180614123000 +0000" stop="20180614133000 +0000">
-    <title>Dr Miami</title>
+    <title>Botched</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -11739,6 +11798,12 @@
     <title>House Hunters International</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600464" start="20180617160000 +0000" stop="20180617170000 +0000">
+    <title>Fixer Upper</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204600467" start="20180609133500 +0000" stop="20180609161100 +0000">
@@ -14940,6 +15005,12 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101204600468" start="20180617160000 +0000" stop="20180617160500 +0000">
+    <title>[adult swim]</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020528" start="20180609154500 +0000" stop="20180609163000 +0000">
     <title>Raceday Review - Flemington</title>
     <subtitles type="teletext"/>
@@ -16853,6 +16924,41 @@
   </programme>
   <programme channel="tv.101305020528" start="20180617133000 +0000" stop="20180617140000 +0000">
     <title>Raceday Review - Naracoorte</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180617140000 +0000" stop="20180617143000 +0000">
+    <title>Raceday Review - Sha Tin</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180617143000 +0000" stop="20180617150000 +0000">
+    <title>Raceday Review - Bendigo</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180617150000 +0000" stop="20180617153000 +0000">
+    <title>Raceday Review - Naracoorte</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180617153000 +0000" stop="20180617160000 +0000">
+    <title>Raceday Review - Sha Tin</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180617160000 +0000" stop="20180617163000 +0000">
+    <title>Raceday Review - Bendigo</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -24385,6 +24491,13 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101406070681" start="20180617160000 +0000" stop="20180617170000 +0000">
+    <title>48 Hours</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406070685" start="20180609150000 +0000" stop="20180609173000 +0000">
     <title>Football: Socceroos v Hungary</title>
     <subtitles type="teletext"/>
@@ -25922,6 +26035,12 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406070685" start="20180617160000 +0000" stop="20180617163000 +0000">
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406070688" start="20180609152600 +0000" stop="20180609180200 +0000">
@@ -28146,6 +28265,13 @@
     </rating>
   </programme>
   <programme channel="tv.101406070688" start="20180617153000 +0000" stop="20180617160000 +0000">
+    <title>Everybody Loves Raymond</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406070688" start="20180617160000 +0000" stop="20180617163000 +0000">
     <title>Everybody Loves Raymond</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -30916,6 +31042,12 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000301" start="20180617140000 +0000" stop="20180617173000 +0000">
+    <title>FIFA WC 2018: Germany v Mexico</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000302" start="20180609154500 +0000" stop="20180609161500 +0000">
     <title>The Movie Show</title>
     <rating system="Freeview">
@@ -32728,6 +32860,24 @@
     <title>VS Arashi</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180617142000 +0000" stop="20180617151000 +0000">
+    <title>Sex Box</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180617151000 +0000" stop="20180617154000 +0000">
+    <title>Shot by Kern</title>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180617154000 +0000" stop="20180617163000 +0000">
+    <title>How To Make Food with Matty Matheson</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180609153000 +0000" stop="20180609162500 +0000">
@@ -35071,6 +35221,42 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180617142000 +0000" stop="20180617144500 +0000">
+    <title>Celebrity Food Fight</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180617144500 +0000" stop="20180617145500 +0000">
+    <title>Food Safari Earth Bitesize</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180617145500 +0000" stop="20180617150000 +0000">
+    <title>Small Business Secrets Bitesize</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180617150000 +0000" stop="20180617153000 +0000">
+    <title>Big Bad BBQ Brawl</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180617153000 +0000" stop="20180617160000 +0000">
+    <title>Big Bad BBQ Brawl</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180617160000 +0000" stop="20180617163000 +0000">
+    <title>5 Ingredient Fix</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180609150500 +0000" stop="20180609160500 +0000">
     <title>Volumz</title>
     <rating system="Freeview">
@@ -37099,20 +37285,23 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180609211246 +0000" stop="20180609213352 +0000">
-    <title>Reel Rock S3E3</title>
-    <desc>The Dodo's Delight is off to explore the untapped climbs of the Arctic, but it's not all smooth sailing ahead.</desc>
-    <sub-title>Dodo's Delight: Part II</sub-title>
+  <programme channel="tv.320203000305" start="20180617141000 +0000" stop="20180617150500 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180609213352 +0000" stop="20180609214403 +0000">
-    <title>On Track  S4E2</title>
-    <desc>The Enduro World Series arrives in Australia. Curtis Keene and the team do their best to prepare for race day.</desc>
-    <sub-title>Continental Drift</sub-title>
+  <programme channel="tv.320203000305" start="20180617150500 +0000" stop="20180617160000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180609214403 +0000" stop="20180609215725 +0000">
-    <title>On Track  S4E3</title>
-    <desc>Pro racers are fully committed to competition, but injury and equipment failure can derail anyone's dreams.</desc>
-    <sub-title>Skin in the Game</sub-title>
+  <programme channel="tv.320203000305" start="20180617160000 +0000" stop="20180617170000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.redbull.tv" start="20180609215725 +0000" stop="20180609220706 +0000">
     <title>On Track  S4E4</title>
