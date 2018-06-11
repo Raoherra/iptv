@@ -1655,6 +1655,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180619140000 +0000" stop="20180619143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180611132700 +0000" stop="20180611142000 +0000">
     <title>PGA Tour Golf Highlights</title>
     <subtitles type="teletext"/>
@@ -11588,6 +11595,12 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200421" start="20180619140000 +0000" stop="20180619145500 +0000">
+    <title>20/20</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200424" start="20180611133300 +0000" stop="20180611140300 +0000">
     <title>House Hunters International</title>
     <rating system="Freeview">
@@ -13163,6 +13176,12 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180619133000 +0000" stop="20180619140000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200424" start="20180619140000 +0000" stop="20180619143000 +0000">
     <title>House Hunters International</title>
     <rating system="Freeview">
       <value>G</value>
@@ -24310,6 +24329,13 @@
   </programme>
   <programme channel="tv.101305020528" start="20180619130000 +0000" stop="20180619140000 +0000">
     <title>After The Last</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180619140000 +0000" stop="20180619143000 +0000">
+    <title>Raceday Review - Moe</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -37216,15 +37242,11 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180611205400 +0000" stop="20180611212100 +0000">
-    <title>Red Bull Art of Motion 2015</title>
-    <desc>Stunning Santorini, Greece becomes the canvas for the 5th edition of Red Bull Art of Motion.</desc>
-    <sub-title>Freerunning in Santorini</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180611212100 +0000" stop="20180611213633 +0000">
-    <title>No Contest S1E4</title>
-    <desc>Hear the latest from the world's best surfers as many of them gather in Saquarema, Brazil. </desc>
-    <sub-title>Brazil's Waves</sub-title>
+  <programme channel="tv.320203000305" start="20180619140000 +0000" stop="20180619150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.redbull.tv" start="20180611213633 +0000" stop="20180611224503 +0000">
     <title>The Wave I Ride</title>
