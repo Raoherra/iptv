@@ -161,31 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180611033243 +0000" stop="20180611041710 +0000">
-    <title>Breaking the Day  S1E7</title>
-    <desc>To see if he's ready for a professional cycling career, a bike messenger attempts California's toughest hill.</desc>
-    <sub-title>Bike Messenger</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180611041710 +0000" stop="20180611042643 +0000">
-    <title>Fast Life with Loïc Bruni S1E1</title>
-    <desc>As the UCI DH MTB World Cup season approaches, the time for talk is over. Riding fast is all that matters now.</desc>
-    <sub-title>Time Waits for No One</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180611042643 +0000" stop="20180611043938 +0000">
-    <title>Fast Life with Loïc Bruni S1E2</title>
-    <desc>In downhill mountain bike racing, the only certainty is that nothing is certain until the last rider's run.</desc>
-    <sub-title>Plot Twist</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180611043938 +0000" stop="20180611044936 +0000">
-    <title>Fast Life with Loïc Bruni S1E3</title>
-    <desc>Coming into the race in Fort William, Scotland, it's time to look at what makes (and breaks) winning streaks.</desc>
-    <sub-title>Let's Go over the Bars</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180611044936 +0000" stop="20180611050144 +0000">
-    <title>Fast Life with Loïc Bruni S1E4</title>
-    <desc>The story of race weekend in Leogang, Austria, is one filled with twists, turns, and always a surprise ending.</desc>
-    <sub-title>A Race in Four Acts</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180611050144 +0000" stop="20180611051125 +0000">
     <title>On Track  S4E1</title>
     <desc>The quest for the 2017 Enduro World Series title kicks off in Rotorua, New Zealand, under brutal conditions.</desc>
@@ -1486,6 +1461,9 @@
   <programme channel="tv.9" start="20180614010000 +0000" stop="20180614020000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Jenny’s plan to topple Aidan backfires. Simon is left to cover for Peter. Can Cathy persuade Roy to reconsider his move?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180614020000 +0000" stop="20180614030000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -1814,6 +1792,9 @@
   <programme channel="tv.9" start="20180616104500 +0000" stop="20180616111000 +0000">
     <title>Britain's Got Talent</title>
     <desc>Tune in for the results of the latest round of semi-finals!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180616111000 +0000" stop="20180616123000 +0000">
     <title>Pirates Of The Airwaves</title>
@@ -2096,7 +2077,7 @@
     <title>Highway Cops</title>
     <desc>A cattle truck flip plunges livestock into a river and traps a steer beneath the wreckage, friends escape out the window when their car door won’t open, and a pony on the loose in Twizel.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.9" start="20180618083000 +0000" stop="20180618093000 +0000">
@@ -2716,6 +2697,9 @@
       <stereo>dolby</stereo>
     </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180612083000 +0000" stop="20180612093000 +0000">
     <title>The Resident</title>
@@ -2937,6 +2921,9 @@
   <programme channel="tv.10" start="20180613010000 +0000" stop="20180613020000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180613020000 +0000" stop="20180613023000 +0000">
     <title>Home Improvement</title>
@@ -2983,6 +2970,9 @@
   <programme channel="tv.10" start="20180613040000 +0000" stop="20180613043000 +0000">
     <title>Fanimals</title>
     <desc>It's all action today in Farmyard Olympics, we meet the Buerkeman family to train their cat on Mission Impawssible, and we could be calling you to play and win with Call of Nature!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180613043000 +0000" stop="20180613050000 +0000">
     <title>Friends</title>
@@ -3147,6 +3137,9 @@
   <programme channel="tv.10" start="20180613160500 +0000" stop="20180613165500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180613165500 +0000" stop="20180613170500 +0000">
     <title>Regular Show</title>
@@ -3335,6 +3328,9 @@
   <programme channel="tv.10" start="20180614053000 +0000" stop="20180614060000 +0000">
     <title>Home And Away</title>
     <desc>Maggie receives a little help from her friends. Justin finally gets a lead on the kidnappers. Colby hits rock bottom.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180614060000 +0000" stop="20180614063000 +0000">
     <title>The Big Bang Theory</title>
@@ -3578,6 +3574,9 @@
   <programme channel="tv.10" start="20180615023000 +0000" stop="20180615030000 +0000">
     <title>Home And Away</title>
     <desc>Maggie receives a little help from her friends. Justin finally gets a lead on the kidnappers. Colby hits rock bottom.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180615030000 +0000" stop="20180615033000 +0000">
     <title>Shortland Street</title>
@@ -3791,6 +3790,9 @@
   <programme channel="tv.10" start="20180615184500 +0000" stop="20180615185500 +0000">
     <title>Best Of Chuggington Collection</title>
     <desc>Choo choo! Catch a ride with Wilson, Koko and Brewster, the newest members of Chuggington crew. Along the track you'll visit the countryside, have fun, and learn new things!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180615185500 +0000" stop="20180615190500 +0000">
     <title>Jamie's Got Tentacles</title>
@@ -3805,10 +3807,16 @@
   <programme channel="tv.10" start="20180615190500 +0000" stop="20180615192500 +0000">
     <title>Penn Zero: Part-Time Hero</title>
     <desc>Penn Zero is not your average kid; every day he's zapped into another dimension with his friends to save the world.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180615192500 +0000" stop="20180615195000 +0000">
     <title>Transformers Robots In Disguise</title>
     <desc>When a new army of Decepticons appear, Bumblebee must lead a new team of Autobots to Earth against their eternal foes.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180615195000 +0000" stop="20180615201500 +0000">
     <title>The Legendaries</title>
@@ -3816,6 +3824,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180615201500 +0000" stop="20180615203500 +0000">
     <title>Pokemon Sun And Moon</title>
@@ -3827,6 +3838,9 @@
   <programme channel="tv.10" start="20180615203500 +0000" stop="20180615210000 +0000">
     <title>We Bare Bears</title>
     <desc>Animated comedy series following three bear siblings, Grizzly, Panda and Ice Bear; as they awkwardly attempt to understand humans. It's obvious that being a bear in the modern world is tough.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180615210000 +0000" stop="20180615211000 +0000">
     <title>Regular Show</title>
@@ -3838,6 +3852,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180615213500 +0000" stop="20180615220000 +0000">
     <title>Disney Bizaardvark</title>
@@ -3845,10 +3862,16 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180615220000 +0000" stop="20180615223000 +0000">
     <title>Fresh</title>
     <desc>Catch the highlights and action from the 2018 Hip Hop Dance Nationals! Plus Alex Aiono shows us some of his world and we’ve got a new funny game show called: How Fresh Are You?! Hosted by Uncle Sam.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180615223000 +0000" stop="20180615224000 +0000">
     <title>Regular Show</title>
@@ -3871,6 +3894,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180615233500 +0000" stop="20180616004000 +0000">
     <title>Take Me Out</title>
@@ -3907,6 +3933,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180616043000 +0000" stop="20180616052000 +0000">
     <title>America's Funniest Home Videos</title>
@@ -3914,6 +3943,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180616052000 +0000" stop="20180616070000 +0000">
     <title>Bolt</title>
@@ -3955,6 +3987,9 @@
   <programme channel="tv.10" start="20180616125000 +0000" stop="20180616155000 +0000">
     <title>Strip Date</title>
     <desc>Model and personal trainer David from Essex meets Sheffield media student Louise, who can't bear men who take longer than her to get ready.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180616155000 +0000" stop="20180616163500 +0000">
     <title>Once Upon A Time</title>
@@ -4403,6 +4438,9 @@
   <programme channel="tv.10" start="20180618053000 +0000" stop="20180618060000 +0000">
     <title>Home And Away</title>
     <desc>Colby returns to Mangrove River in a dangerous attempt to track down Hazel Easton. Raffy and Ty’s relationship hits another snag. Maggie and Ben encourage Ziggy to take charge of her wedding planning.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180618060000 +0000" stop="20180618063000 +0000">
     <title>The Big Bang Theory</title>
@@ -8960,6 +8998,9 @@
   <programme channel="tv.38" start="20180614020000 +0000" stop="20180614030000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Jenny’s plan to topple Aidan backfires. Simon is left to cover for Peter. Can Cathy persuade Roy to reconsider his move?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180614030000 +0000" stop="20180614040000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -9288,6 +9329,9 @@
   <programme channel="tv.38" start="20180616114500 +0000" stop="20180616121000 +0000">
     <title>Britain's Got Talent</title>
     <desc>Tune in for the results of the latest round of semi-finals!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180616121000 +0000" stop="20180616133000 +0000">
     <title>Pirates Of The Airwaves</title>
@@ -9570,7 +9614,7 @@
     <title>Highway Cops</title>
     <desc>A cattle truck flip plunges livestock into a river and traps a steer beneath the wreckage, friends escape out the window when their car door won’t open, and a pony on the loose in Twizel.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.38" start="20180618093000 +0000" stop="20180618103000 +0000">
@@ -10120,6 +10164,9 @@
     <title>Heartbreak Island</title>
     <desc>Tonight, the singles get to know each other better during party time at Cloud 9 bar, but who’s happy with their match and who’s ready to make a swap? Passion Play gives them the chance to recouple.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180612093000 +0000" stop="20180612103000 +0000">
     <title>The Resident</title>
@@ -10311,6 +10358,9 @@
   <programme channel="tv.14" start="20180613020000 +0000" stop="20180613030000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180613030000 +0000" stop="20180613033000 +0000">
     <title>Home Improvement</title>
@@ -10351,6 +10401,9 @@
   <programme channel="tv.14" start="20180613050000 +0000" stop="20180613053000 +0000">
     <title>Fanimals</title>
     <desc>It's all action today in Farmyard Olympics, we meet the Buerkeman family to train their cat on Mission Impawssible, and we could be calling you to play and win with Call of Nature!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180613053000 +0000" stop="20180613060000 +0000">
     <title>Friends</title>
@@ -10482,6 +10535,9 @@
   <programme channel="tv.14" start="20180613170500 +0000" stop="20180613175500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180613175500 +0000" stop="20180613180500 +0000">
     <title>Regular Show</title>
@@ -10652,6 +10708,9 @@
   <programme channel="tv.14" start="20180614063000 +0000" stop="20180614070000 +0000">
     <title>Home And Away</title>
     <desc>Maggie receives a little help from her friends. Justin finally gets a lead on the kidnappers. Colby hits rock bottom.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180614070000 +0000" stop="20180614073000 +0000">
     <title>The Big Bang Theory</title>
@@ -10877,6 +10936,9 @@
   <programme channel="tv.14" start="20180615033000 +0000" stop="20180615040000 +0000">
     <title>Home And Away</title>
     <desc>Maggie receives a little help from her friends. Justin finally gets a lead on the kidnappers. Colby hits rock bottom.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180615040000 +0000" stop="20180615043000 +0000">
     <title>Shortland Street</title>
@@ -11060,6 +11122,9 @@
   <programme channel="tv.14" start="20180615194500 +0000" stop="20180615195500 +0000">
     <title>Best Of Chuggington Collection</title>
     <desc>Choo choo! Catch a ride with Wilson, Koko and Brewster, the newest members of Chuggington crew. Along the track you'll visit the countryside, have fun, and learn new things!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180615195500 +0000" stop="20180615200500 +0000">
     <title>Jamie's Got Tentacles</title>
@@ -11071,14 +11136,23 @@
   <programme channel="tv.14" start="20180615200500 +0000" stop="20180615202500 +0000">
     <title>Penn Zero: Part-Time Hero</title>
     <desc>Penn Zero is not your average kid; every day he's zapped into another dimension with his friends to save the world.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180615202500 +0000" stop="20180615205000 +0000">
     <title>Transformers Robots In Disguise</title>
     <desc>When a new army of Decepticons appear, Bumblebee must lead a new team of Autobots to Earth against their eternal foes.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180615205000 +0000" stop="20180615211500 +0000">
     <title>The Legendaries</title>
     <desc>After the people of Alysia have all been reverted back to childhood, five heroes known as The Legendaries, reunite in an attempt to undo the spell and restore their adulthood.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180615211500 +0000" stop="20180615213500 +0000">
     <title>Pokemon Sun And Moon</title>
@@ -11090,6 +11164,9 @@
   <programme channel="tv.14" start="20180615213500 +0000" stop="20180615220000 +0000">
     <title>We Bare Bears</title>
     <desc>Animated comedy series following three bear siblings, Grizzly, Panda and Ice Bear; as they awkwardly attempt to understand humans. It's obvious that being a bear in the modern world is tough.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180615220000 +0000" stop="20180615221000 +0000">
     <title>Regular Show</title>
@@ -11098,14 +11175,23 @@
   <programme channel="tv.14" start="20180615221000 +0000" stop="20180615223500 +0000">
     <title>Disney Walk The Prank</title>
     <desc>A team of practical jokesters create hilarious over-the-top pranks for an online hidden camera show.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180615223500 +0000" stop="20180615230000 +0000">
     <title>Disney Bizaardvark</title>
     <desc>Paige and Frankie are quirky 13-year-old best friends who write funny songs and create music videos for their online channel, Bizaardvark.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180615230000 +0000" stop="20180615233000 +0000">
     <title>Fresh</title>
     <desc>Catch the highlights and action from the 2018 Hip Hop Dance Nationals! Plus Alex Aiono shows us some of his world and we’ve got a new funny game show called: How Fresh Are You?! Hosted by Uncle Sam.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180615233000 +0000" stop="20180615234000 +0000">
     <title>Regular Show</title>
@@ -11125,6 +11211,9 @@
   <programme channel="tv.14" start="20180616001000 +0000" stop="20180616003500 +0000">
     <title>Melissa &amp; Joey</title>
     <desc>S5 E19 Mel pretends to love her birthday gift from Joe. But that turns out to be a fake gift to throw her off. Instead, he had a one-of-a-kind wedding ring made for her that she hates even more.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180616003500 +0000" stop="20180616014000 +0000">
     <title>Take Me Out</title>
@@ -11152,10 +11241,16 @@
   <programme channel="tv.14" start="20180616050000 +0000" stop="20180616053000 +0000">
     <title>Powerless</title>
     <desc>S1 E3 When Van's incompetence costs the team a client, Emily hopes to make a deal with the people of Atlantis and Van's father sets him on a path of redemption.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180616053000 +0000" stop="20180616062000 +0000">
     <title>America's Funniest Home Videos</title>
     <desc>From practical jokes to home improvement plans gone awry, and animal mishaps, this hilarious show pulls out all the stops to present everyday people caught on tape in their most embarrassing moments.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180616062000 +0000" stop="20180616080000 +0000">
     <title>Bolt</title>
@@ -11191,6 +11286,9 @@
   <programme channel="tv.14" start="20180616135000 +0000" stop="20180616165000 +0000">
     <title>Strip Date</title>
     <desc>Model and personal trainer David from Essex meets Sheffield media student Louise, who can't bear men who take longer than her to get ready.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180616165000 +0000" stop="20180616173500 +0000">
     <title>Once Upon A Time</title>
@@ -11570,6 +11668,9 @@
   <programme channel="tv.14" start="20180618063000 +0000" stop="20180618070000 +0000">
     <title>Home And Away</title>
     <desc>Colby returns to Mangrove River in a dangerous attempt to track down Hazel Easton. Raffy and Ty’s relationship hits another snag. Maggie and Ben encourage Ziggy to take charge of her wedding planning.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180618070000 +0000" stop="20180618073000 +0000">
     <title>The Big Bang Theory</title>
@@ -18545,7 +18646,7 @@
   </programme>
   <programme channel="tv.55" start="20180612115000 +0000" stop="20180612135000 +0000">
     <title>Live: RWC U20s 5th - 8th Semi</title>
-    <desc>Live coverage of the first 5th place semi final as the 6th seed plays the 7th seed from the Stade d’Honneur du Parc des sports et de L’Amitie in Narbonne, France.</desc>
+    <desc>Live coverage of the first 5th place semi final as Wales play Argentina from the Stade d’Honneur du Parc des sports et de L’Amitie in Narbonne, France.</desc>
   </programme>
   <programme channel="tv.55" start="20180612135000 +0000" stop="20180612142000 +0000">
     <title>DUKE Back in the Future</title>
@@ -18553,7 +18654,7 @@
   </programme>
   <programme channel="tv.55" start="20180612142000 +0000" stop="20180612162000 +0000">
     <title>Live: RWC U20s 5th - 8th Semi</title>
-    <desc>Live coverage of the second 5th place semi-final as the 5th seed plays the 8th seed from the Stade d’Honneur du Parc des sports et de L’Amitie in Narbonne, France.</desc>
+    <desc>Live coverage of the second 5th place semi final as Italy play Australia from the Stade d’Honneur du Parc des sports et de L’Amitie in Narbonne, France..</desc>
   </programme>
   <programme channel="tv.55" start="20180612162000 +0000" stop="20180612165000 +0000">
     <title>DUKE Back in the Future</title>
@@ -18561,15 +18662,15 @@
   </programme>
   <programme channel="tv.55" start="20180612165000 +0000" stop="20180612180000 +0000">
     <title>Live: RWC Under 20s Semi 1</title>
-    <desc>Live coverage of the first major semi-final as the 2nd seed plays the 3rd seed from the Stade d’Honneur du Parc des sports et de L’Amitie in Narbonne, France.</desc>
+    <desc>Live coverage of the first major semi final as England play South Africa from the Stade d’Honneur du Parc des sports et de L’Amitie in Narbonne, France.</desc>
   </programme>
   <programme channel="tv.55" start="20180612180000 +0000" stop="20180612185000 +0000">
     <title>Live: RWC Under 20s Semi 1</title>
-    <desc>Live coverage of the first major semi-final as the 2nd seed plays the 3rd seed from the Stade d’Honneur du Parc des sports et de L’Amitie in Narbonne, France.</desc>
+    <desc>Live coverage of the first major semi final as England play South Africa from the Stade d’Honneur du Parc des sports et de L’Amitie in Narbonne, France.</desc>
   </programme>
   <programme channel="tv.55" start="20180612185000 +0000" stop="20180612205000 +0000">
     <title>Live: RWC Under 20s Semi 2</title>
-    <desc>Live coverage of the second major semi-final as the 1st seed plays the 4th seed from the Stade Aime-Giral in Perpignan, France.</desc>
+    <desc>Live coverage of the second major semi final as New Zealand play France from the Stade Aime-Giral in Perpignan, France.</desc>
   </programme>
   <programme channel="tv.55" start="20180612205000 +0000" stop="20180612221500 +0000">
     <title>On DUKE today...</title>
@@ -18581,15 +18682,15 @@
   </programme>
   <programme channel="tv.55" start="20180613004500 +0000" stop="20180613024500 +0000">
     <title>NBA Finals</title>
-    <desc>Coverage of Game #5 in the NBA Finals as the Golden State Warriors host the Cleveland Cavaliers from Oracle Arena in Oakland, California.</desc>
+    <desc>Replay of Game #4 in the NBA Finals as the Cleveland Cavaliers host the Golden State Warriors from Quicken Loans Arena in Cleveland, Ohio.</desc>
   </programme>
   <programme channel="tv.55" start="20180613024500 +0000" stop="20180613044000 +0000">
     <title>RWC Under 20s - Semi 1</title>
-    <desc>Replay of the first major semi-final as the 2nd seed plays the 3rd seed from the Stade d’Honneur du Parc des sports et de L’Amitie in Narbonne, France.</desc>
+    <desc>Replay of this morning’s first major semi final as England play South Africa from the Stade d’Honneur du Parc des sports et de L’Amitie in Narbonne, France.</desc>
   </programme>
   <programme channel="tv.55" start="20180613044000 +0000" stop="20180613063000 +0000">
     <title>RWC Under 20s - Semi 2</title>
-    <desc>Replay of the second major semi-final as the 1st seed plays the 4th seed from the Stade Aime-Giral in Perpignan, France.</desc>
+    <desc>Replay of this morning’s second major semi final as New Zealand play France from the Stade Aime-Giral in Perpignan, France.</desc>
   </programme>
   <programme channel="tv.55" start="20180613063000 +0000" stop="20180613073000 +0000">
     <title>American Pickers</title>
@@ -18674,7 +18775,7 @@
   </programme>
   <programme channel="tv.55" start="20180614014500 +0000" stop="20180614034000 +0000">
     <title>RWC Under 20s 5th -8th Semi</title>
-    <desc>Replay of the first 5th place semi-final as the 6th seed plays the 7th seed from the Stade d’Honneur du Parc des sports et de L’Amitie in Narbonne, France.</desc>
+    <desc>Replay of the first 5th place semi final as Wales play Argentina from the Stade d’Honneur du Parc des sports et de L’Amitie in Narbonne, France.</desc>
   </programme>
   <programme channel="tv.55" start="20180614034000 +0000" stop="20180614043500 +0000">
     <title>Mythbusters</title>
@@ -18784,7 +18885,7 @@
   </programme>
   <programme channel="tv.55" start="20180615014500 +0000" stop="20180615033500 +0000">
     <title>RWC Under 20s 5th -8th Semi</title>
-    <desc>Replay of the second 5th place semi-final as the 5th seed plays the 8th seed from the Stade d’Honneur du Parc des sports et de L’Amitie in Narbonne, France.</desc>
+    <desc>Replay of the second 5th place semi final as Italy play Australia from the Stade d’Honneur du Parc des sports et de L’Amitie in Narbonne, France.</desc>
   </programme>
   <programme channel="tv.55" start="20180615033500 +0000" stop="20180615043500 +0000">
     <title>Mythbusters</title>
@@ -18878,11 +18979,11 @@
   </programme>
   <programme channel="tv.55" start="20180615233000 +0000" stop="20180616013000 +0000">
     <title>RWC Under 20s - Semi 1</title>
-    <desc>Replay of the first major semi-final as the 2nd seed plays the 3rd seed from the Stade d’Honneur du Parc des sports et de L’Amitie in Narbonne, France.</desc>
+    <desc>Replay of this morning’s first major semi final as England play South Africa from the Stade d’Honneur du Parc des sports et de L’Amitie in Narbonne, France.</desc>
   </programme>
   <programme channel="tv.55" start="20180616013000 +0000" stop="20180616033000 +0000">
     <title>RWC Under 20s - Semi 2</title>
-    <desc>Replay of the second major semi-final as the 1st seed plays the 4th seed from the Stade Aime-Giral in Perpignan, France.</desc>
+    <desc>Replay of this morning’s second major semi final as New Zealand play France from the Stade Aime-Giral in Perpignan, France.</desc>
   </programme>
   <programme channel="tv.55" start="20180616033000 +0000" stop="20180616063000 +0000">
     <title>Live: AFL - Carlton v Fremantle</title>
@@ -18891,6 +18992,9 @@
   <programme channel="tv.55" start="20180616063000 +0000" stop="20180616073000 +0000">
     <title>Ice Road Truckers</title>
     <desc>Jack Jess must survive the arctic wilderness and cross a frozen river alone to reach the isolated town of Bettles. After ditching her truck, Lisa Kelly is back in action, but the road is dangerous.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180616073000 +0000" stop="20180616080000 +0000">
     <title>New: Duck Dynasty</title>
@@ -18902,6 +19006,9 @@
   <programme channel="tv.55" start="20180616080000 +0000" stop="20180616090000 +0000">
     <title>New: Swamp People</title>
     <desc>The season's running down and swampers scramble to save a precious day on the water as the worst storm since Hurricane Isaac hammers the gulf coast. One team of swampers fights the bad weather.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180616090000 +0000" stop="20180616093000 +0000">
     <title>Wild Kai Legends</title>
@@ -19082,7 +19189,7 @@
   </programme>
   <programme channel="tv.55" start="20180618043000 +0000" stop="20180618063000 +0000">
     <title>RWC Under 20s - Final</title>
-    <desc>Replay of this morning’s Under 20s Rugby World Cup Final from the Stade de la Mediterranee in Béziers, France.</desc>
+    <desc>Replay of the Under 20s Rugby World Cup Final from the Stade de la Mediterranee in Béziers, France. Teams to be confirmed.</desc>
   </programme>
   <programme channel="tv.55" start="20180618063000 +0000" stop="20180618073000 +0000">
     <title>American Pickers</title>
@@ -19152,7 +19259,7 @@
   </programme>
   <programme channel="tv.55" start="20180618115000 +0000" stop="20180618135000 +0000">
     <title>RWC Under 20s - Final</title>
-    <desc>Replay of this morning’s Under 20s Rugby World Cup Final from the Stade de la Mediterranee in Béziers, France.</desc>
+    <desc>Replay of the Under 20s Rugby World Cup Final from the Stade de la Mediterranee in Béziers, France. Teams to be confirmed.</desc>
   </programme>
   <programme channel="tv.20" start="20180610110000 +0000" stop="20180610233000 +0000">
     <title>Te Reo</title>
