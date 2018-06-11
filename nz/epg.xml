@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180611184427 +0000" stop="20180611192628 +0000">
-    <title>1947</title>
-    <desc>The LRG skate team arrive with their second feature length film packed with technical skateboarding.</desc>
-    <sub-title>The LRG Skate Movie</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180611192628 +0000" stop="20180611195529 +0000">
-    <title>Follow the Steps S1E4</title>
-    <desc>After the premiere of the new show in Austria, the Flying Steps hit the high seas to perform on a cruise ship.</desc>
-    <sub-title>The Crew on a Cruise </sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180611195529 +0000" stop="20180611204052 +0000">
     <title>King of the Peak</title>
     <desc>Two drivers attempt to break the record time at the Pikes Peak International Hill Climb in Colorado, USA.</desc>
@@ -14688,6 +14678,9 @@
   <programme channel="tv.28" start="20180613013500 +0000" stop="20180613020500 +0000">
     <title>Married With Children</title>
     <desc>'The Bundys take in an exchange student, which ruins Kelly's life. Guest Staring Milla Jovovich. PGR'</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180613020500 +0000" stop="20180613030000 +0000">
     <title>The Late Show</title>
@@ -15375,6 +15368,9 @@
   <programme channel="tv.28" start="20180616203000 +0000" stop="20180616210000 +0000">
     <title>Beyond Today</title>
     <desc>Religious programme. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180616210000 +0000" stop="20180616213000 +0000">
     <title>Impact For Life</title>
