@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180612202534 +0000" stop="20180612210733 +0000">
-    <title>The MAD Life</title>
-    <desc>Follow the global adventures of New Zealand drift racing superstar 'Mad' Mike Whiddett.</desc>
-    <sub-title>Full Throttle</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180612210733 +0000" stop="20180612212346 +0000">
-    <title>Mike Meets S1E1</title>
-    <desc>Mike Chen meets World Rally Championship driver Elfyn Evans to find out what it took to get to the top.</desc>
-    <sub-title>Mike Meets Elfyn Evans</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180612212346 +0000" stop="20180612220813 +0000">
     <title>Breaking the Day  S1E7</title>
     <desc>To see if he's ready for a professional cycling career, a bike messenger attempts California's toughest hill.</desc>
@@ -42923,6 +42913,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180620140000 +0000" stop="20180620143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180612131700 +0000" stop="20180612142400 +0000">
     <title>Q&amp;A</title>
     <subtitles type="teletext"/>
@@ -57615,6 +57612,13 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200428" start="20180620140000 +0000" stop="20180620143000 +0000">
+    <title>Mom</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020520" start="20180612135300 +0000" stop="20180612144600 +0000">
     <title>Grimm</title>
     <subtitles type="teletext"/>
@@ -65464,6 +65468,13 @@
   </programme>
   <programme channel="tv.101305020528" start="20180620130000 +0000" stop="20180620140000 +0000">
     <title>After The Last</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180620140000 +0000" stop="20180620143000 +0000">
+    <title>Raceday Review - Seymour</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>

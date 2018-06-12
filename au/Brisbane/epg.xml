@@ -205,15 +205,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180612191500 +0000" stop="20180612200000 +0000">
-    <title>Matter of Fact With Stan Grant</title>
+  <programme channel="tv.101002210220" start="20180612191500 +0000" stop="20180612193000 +0000">
+    <title>The Business</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180612191500 +0000" stop="20180612193000 +0000">
-    <title>The Business</title>
+  <programme channel="tv.101002210220" start="20180612191500 +0000" stop="20180612200000 +0000">
+    <title>Matter of Fact With Stan Grant</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -1663,6 +1663,13 @@
   </programme>
   <programme channel="tv.101002210220" start="20180620130000 +0000" stop="20180620140000 +0000">
     <title>ABC News Tonight</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180620140000 +0000" stop="20180620143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -16359,6 +16366,13 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.10120400040B" start="20180620140000 +0000" stop="20180620143000 +0000">
+    <title>Mom</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020528" start="20180612133000 +0000" stop="20180612140000 +0000">
     <title>Raceday Review - Racing.com Park</title>
     <subtitles type="teletext"/>
@@ -18286,6 +18300,13 @@
   </programme>
   <programme channel="tv.101305020528" start="20180620130000 +0000" stop="20180620140000 +0000">
     <title>After The Last</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180620140000 +0000" stop="20180620143000 +0000">
+    <title>Raceday Review - Seymour</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -20256,16 +20277,16 @@
     </rating>
   </programme>
   <programme channel="tv.101305040542" start="20180616135100 +0000" stop="20180616142100 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040542" start="20180616135100 +0000" stop="20180616142100 +0000">
     <title>Sydney Weekender</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305040542" start="20180616135100 +0000" stop="20180616142100 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305040542" start="20180616142100 +0000" stop="20180616145900 +0000">
@@ -37079,16 +37100,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180612202534 +0000" stop="20180612210733 +0000">
-    <title>The MAD Life</title>
-    <desc>Follow the global adventures of New Zealand drift racing superstar 'Mad' Mike Whiddett.</desc>
-    <sub-title>Full Throttle</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180612210733 +0000" stop="20180612212346 +0000">
-    <title>Mike Meets S1E1</title>
-    <desc>Mike Chen meets World Rally Championship driver Elfyn Evans to find out what it took to get to the top.</desc>
-    <sub-title>Mike Meets Elfyn Evans</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180612212346 +0000" stop="20180612220813 +0000">
     <title>Breaking the Day  S1E7</title>
