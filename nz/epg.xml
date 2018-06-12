@@ -161,21 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180612055633 +0000" stop="20180612060721 +0000">
-    <title>The Book of John J S2E5</title>
-    <desc>John and Eric Jackson head north to Alaska, United States for some shredding action on the slopes.</desc>
-    <sub-title>When Life Gives You Lemons</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180612060721 +0000" stop="20180612064309 +0000">
-    <title>Where We Come From</title>
-    <desc>A team of international skateboarders travel the world exploring, learning, and tearing it up.</desc>
-    <sub-title>The Pain, Passion, and Friendship in Skating</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180612064309 +0000" stop="20180612065235 +0000">
-    <title>Who is JOB S5E4</title>
-    <desc>Jamie O'Brien trains Poopies on big-wave board transfers in Waimea, Hawaii, and Poopies breaks out some toys.</desc>
-    <sub-title>Poopies’ Time to Shine</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180612065235 +0000" stop="20180612080507 +0000">
     <title>Chasing Niagara</title>
     <desc>Follow pro kayaker Rafa Ortiz’s journey in pursuit of his dream to paddle over North America’s Niagara Falls.</desc>
@@ -273,7 +258,7 @@
   </programme>
   <programme channel="tv.redbull.tv" start="20180612145610 +0000" stop="20180612150058 +0000">
     <title>Out of Frame S3E1</title>
-    <desc>The story of a skater who went blind but kept on skating. </desc>
+    <desc>Going blind didn’t stop Dan Mancina from pursuing his skateboarding passion.</desc>
     <sub-title>Dan Mancina</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180612150058 +0000" stop="20180612154259 +0000">
@@ -648,7 +633,7 @@
   </programme>
   <programme channel="tv.redbull.tv" start="20180613230951 +0000" stop="20180613231439 +0000">
     <title>Out of Frame S3E1</title>
-    <desc>The story of a skater who went blind but kept on skating. </desc>
+    <desc>Going blind didn’t stop Dan Mancina from pursuing his skateboarding passion.</desc>
     <sub-title>Dan Mancina</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180613231439 +0000" stop="20180613235639 +0000">
@@ -958,7 +943,7 @@
   </programme>
   <programme channel="tv.redbull.tv" start="20180615064608 +0000" stop="20180615065056 +0000">
     <title>Out of Frame S3E1</title>
-    <desc>The story of a skater who went blind but kept on skating. </desc>
+    <desc>Going blind didn’t stop Dan Mancina from pursuing his skateboarding passion.</desc>
     <sub-title>Dan Mancina</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180615065057 +0000" stop="20180615073258 +0000">
@@ -5060,14 +5045,14 @@
     <title>The Project</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
-  <programme channel="tv.11" start="20180613073000 +0000" stop="20180613085500 +0000">
+  <programme channel="tv.11" start="20180613073000 +0000" stop="20180613090000 +0000">
     <title>Buying Blind</title>
     <desc>Premiere. Catch the premiere of brand new property series Buying Blind, fast-tracked straight from Australia and hosted by Shaynna Blaze (The Block). S1 Ep1</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180613085500 +0000" stop="20180613095500 +0000">
+  <programme channel="tv.11" start="20180613090000 +0000" stop="20180613095500 +0000">
     <title>All New NCIS: Los Angeles</title>
     <desc>New Episode. Sam goes undercover as a day trader after an investment banker who has ties to Russia is murdered, and one of Callen's aliases is the victim of credit card theft. S9 Ep5</desc>
     <audio>
@@ -5336,7 +5321,7 @@
   </programme>
   <programme channel="tv.11" start="20180615090000 +0000" stop="20180615094500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Alice Snedden, Josh Thomson, Urzila Carlson and Rhys Mathewson.</desc>
   </programme>
   <programme channel="tv.11" start="20180615094500 +0000" stop="20180615101500 +0000">
     <title>Funny Girls</title>
@@ -5550,8 +5535,8 @@
     <desc>This round of the Brian Green Property Group NZ Rally championship is exclusively held in the Canterbury Forests.</desc>
   </programme>
   <programme channel="tv.11" start="20180617030000 +0000" stop="20180617040000 +0000">
-    <title>IndyCar Rnd 8: Detroit Race 2</title>
-    <desc>The IndyCar Series, based on the history, heritage, passion and intense competition of the Indianapolis 500, will entertain race fans and challenge drivers, teams and equipment manufacturers.</desc>
+    <title>IndyCar Rnd 9: Texas</title>
+    <desc>CRC Motorsport features Scott Dixon's first win of the season at the Texas Motorway Speedway in Round 9 of the IndyCar Championship.</desc>
   </programme>
   <programme channel="tv.11" start="20180617040000 +0000" stop="20180617050000 +0000">
     <title>WRC Rnd 7 Rally Italy</title>
@@ -5850,6 +5835,9 @@
   <programme channel="tv.11" start="20180619093000 +0000" stop="20180619102500 +0000">
     <title>All New SVU: Special Victims Unit</title>
     <desc>New Episode. Rollins races to rescue a girl being held captive by her father. S19 Ep20</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180619102500 +0000" stop="20180619105500 +0000">
     <title>Newshub Late</title>
@@ -6935,6 +6923,9 @@
   <programme channel="tv.12" start="20180618093000 +0000" stop="20180618103000 +0000">
     <title>60 Days In</title>
     <desc>Phase one of Sheriff Jamey Noel's unprecedented program has concluded, and now he is initiating phase two of the program, by sending eight new participants into the Clark County Jail.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180618103000 +0000" stop="20180618112500 +0000">
     <title>Killer Couples</title>
@@ -7060,6 +7051,9 @@
   <programme channel="tv.12" start="20180619083000 +0000" stop="20180619093000 +0000">
     <title>Botched</title>
     <desc>Paul and Terry help former music video vixen Tawny Kitaen get off the boob train, treat a heart-shaped nose that gives love a bad name, and meet a Brazilian doll that wants a bigger butt.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180619093000 +0000" stop="20180619103300 +0000">
     <title>The Real Housewives Of New York City</title>
@@ -12381,14 +12375,14 @@
     <title>The Project</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
-  <programme channel="tv.27" start="20180613083000 +0000" stop="20180613095500 +0000">
+  <programme channel="tv.27" start="20180613083000 +0000" stop="20180613100000 +0000">
     <title>Buying Blind</title>
     <desc>Premiere. Catch the premiere of brand new property series Buying Blind, fast-tracked straight from Australia and hosted by Shaynna Blaze (The Block). S1 Ep1</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180613095500 +0000" stop="20180613105500 +0000">
+  <programme channel="tv.27" start="20180613100000 +0000" stop="20180613105500 +0000">
     <title>All New NCIS: Los Angeles</title>
     <desc>New Episode. Sam goes undercover as a day trader after an investment banker who has ties to Russia is murdered, and one of Callen's aliases is the victim of credit card theft. S9 Ep5</desc>
     <rating system="Freeview">
@@ -12636,7 +12630,7 @@
   </programme>
   <programme channel="tv.27" start="20180615100000 +0000" stop="20180615104500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Alice Snedden, Josh Thomson, Urzila Carlson and Rhys Mathewson.</desc>
   </programme>
   <programme channel="tv.27" start="20180615104500 +0000" stop="20180615111500 +0000">
     <title>Funny Girls</title>
@@ -12838,8 +12832,8 @@
     <desc>This round of the Brian Green Property Group NZ Rally championship is exclusively held in the Canterbury Forests.</desc>
   </programme>
   <programme channel="tv.27" start="20180617040000 +0000" stop="20180617050000 +0000">
-    <title>IndyCar Rnd 8: Detroit Race 2</title>
-    <desc>The IndyCar Series, based on the history, heritage, passion and intense competition of the Indianapolis 500, will entertain race fans and challenge drivers, teams and equipment manufacturers.</desc>
+    <title>IndyCar Rnd 9: Texas</title>
+    <desc>CRC Motorsport features Scott Dixon's first win of the season at the Texas Motorway Speedway in Round 9 of the IndyCar Championship.</desc>
   </programme>
   <programme channel="tv.27" start="20180617050000 +0000" stop="20180617060000 +0000">
     <title>WRC Rnd 7 Rally Italy</title>
@@ -13129,6 +13123,9 @@
   <programme channel="tv.27" start="20180619103000 +0000" stop="20180619112500 +0000">
     <title>All New SVU: Special Victims Unit</title>
     <desc>New Episode. Rollins races to rescue a girl being held captive by her father. S19 Ep20</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180619112500 +0000" stop="20180619115500 +0000">
     <title>Newshub Late</title>
@@ -14214,6 +14211,9 @@
   <programme channel="tv.30" start="20180618103000 +0000" stop="20180618113000 +0000">
     <title>60 Days In</title>
     <desc>Phase one of Sheriff Jamey Noel's unprecedented program has concluded, and now he is initiating phase two of the program, by sending eight new participants into the Clark County Jail.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180618113000 +0000" stop="20180618122500 +0000">
     <title>Killer Couples</title>
@@ -14339,6 +14339,9 @@
   <programme channel="tv.30" start="20180619093000 +0000" stop="20180619103000 +0000">
     <title>Botched</title>
     <desc>Paul and Terry help former music video vixen Tawny Kitaen get off the boob train, treat a heart-shaped nose that gives love a bad name, and meet a Brazilian doll that wants a bigger butt.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180619103000 +0000" stop="20180619113300 +0000">
     <title>The Real Housewives Of New York City</title>
@@ -24261,7 +24264,7 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180612073000 +0000" stop="20180612080000 +0000">
-    <title>Blondes Vs Red Heads</title>
+    <title>This vs That</title>
     <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - BlondesVs Red Heads</desc>
   </programme>
   <programme channel="tv.51" start="20180612080000 +0000" stop="20180612090000 +0000">
@@ -24305,7 +24308,7 @@
   </programme>
   <programme channel="tv.51" start="20180612210000 +0000" stop="20180612220000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Beach Party</desc>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Boy Bands</desc>
   </programme>
   <programme channel="tv.51" start="20180612220000 +0000" stop="20180613000000 +0000">
     <title>All The Hits</title>
