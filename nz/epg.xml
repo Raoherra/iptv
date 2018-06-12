@@ -161,31 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180612182740 +0000" stop="20180612191907 +0000">
-    <title>Strange Rumblings in Shangri La</title>
-    <desc>Hop aboard a surf journey from the sultry coastline of Mozambique to the frigid shores of Iceland and beyond.</desc>
-    <sub-title>A Worldwide Surf Expedition</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180612191907 +0000" stop="20180612192914 +0000">
-    <title>Cultivation S2E1</title>
-    <desc>Leffen takes the first steps toward restarting his esports career after visa issues derailed his 2015 season.</desc>
-    <sub-title>Restart</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180612192914 +0000" stop="20180612193934 +0000">
-    <title>Cultivation S2E2</title>
-    <desc>Leffen reflects on his rocky past as he prepares for an upcoming trip to Canada.</desc>
-    <sub-title>Reflect</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180612193934 +0000" stop="20180612195230 +0000">
-    <title>Cultivation S2E3</title>
-    <desc>Leffen makes his return to North America after months away from the continent’s competitive scene.</desc>
-    <sub-title>Return</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180612195230 +0000" stop="20180612200104 +0000">
-    <title>Cultivation S2E4</title>
-    <desc>At the later rounds of the EGLX tournament, Leffen finds himself face-to-face with the worst possible matchup.</desc>
-    <sub-title>Relapse</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180612200104 +0000" stop="20180612201056 +0000">
     <title>Cultivation S2E5</title>
     <desc>With a major tournament on the horizon, can Leffen recover from a disappointing EGLX showing in Canada?</desc>
@@ -14552,6 +14527,9 @@
   <programme channel="tv.28" start="20180614013500 +0000" stop="20180614020500 +0000">
     <title>Married With Children</title>
     <desc>'After a Playboy model visits Al's store, he discovers Peg has sold his magazine collection. PGR'</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180614020500 +0000" stop="20180614030000 +0000">
     <title>The Late Show</title>
@@ -14870,6 +14848,9 @@
   <programme channel="tv.28" start="20180615113000 +0000" stop="20180615132000 +0000">
     <title>NRL Premiership</title>
     <desc>The North Queensland Cowboys play host to the New Zealand Warriors at 1300SMILES Stadium in Townsville as the action of the NRL Premiership continues. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180615132000 +0000" stop="20180615135000 +0000">
     <title>The Crowd Goes Wild</title>
@@ -14991,6 +14972,9 @@
   <programme channel="tv.28" start="20180616083000 +0000" stop="20180616110000 +0000">
     <title>All Blacks vs France</title>
     <desc>'The second Test Match of the 2018 Steinlager Series kicks off at Wellington's Westpac Stadium, as the All Blacks play host to France. G'</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180616110000 +0000" stop="20180616121000 +0000">
     <title>Game Of Thrones</title>
