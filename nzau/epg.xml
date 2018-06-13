@@ -280,26 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180613002216 +0000" stop="20180613010732 +0000">
-    <title>King of the Peak</title>
-    <desc>Two drivers attempt to break the record time at the Pikes Peak International Hill Climb in Colorado, USA.</desc>
-    <sub-title>Driving the Historic Pikes Peak Course</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180613010732 +0000" stop="20180613011347 +0000">
-    <title>Bryce Menzies: The Next Stage S1E3</title>
-    <desc>After lengthy preparation the rally begins, and Bryce and the team get their first taste of Dakar.</desc>
-    <sub-title>The Rally Begins</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180613011347 +0000" stop="20180613012007 +0000">
-    <title>Bryce Menzies: The Next Stage S1E4</title>
-    <desc>A sparkling start to Bryce Menzies' first ever Dakar is one thing, but Day 2 was a disaster.</desc>
-    <sub-title>An Unfortunate Ending</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180613012007 +0000" stop="20180613014209 +0000">
-    <title>Reel Rock S1E1</title>
-    <desc>A legendary sport climber and the young phenom hot on his heels team up to send the world's hardest route.</desc>
-    <sub-title>La Dura Dura</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180613014209 +0000" stop="20180613022507 +0000">
     <title>Karl Meltzer: Made to Be Broken</title>
     <desc>Ultrarunner Karl Meltzer embarks on his third and final attempt to cross the Appalachian Trail in record time.</desc>
@@ -51742,6 +51722,7 @@
   </programme>
   <programme channel="tv.101204200421" start="20180613020100 +0000" stop="20180613025800 +0000">
     <title>Ellen</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -54639,6 +54620,7 @@
   </programme>
   <programme channel="tv.101204200427" start="20180613220400 +0000" stop="20180613230100 +0000">
     <title>Ellen</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -58144,14 +58126,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180616123000 +0000" stop="20180616142900 +0000">
+  <programme channel="tv.101305020520" start="20180616123000 +0000" stop="20180616143000 +0000">
     <title>300: Rise of an Empire</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180616142900 +0000" stop="20180616163000 +0000">
+  <programme channel="tv.101305020520" start="20180616143000 +0000" stop="20180616163000 +0000">
     <title>Breaking the Surface: The Greg Louganis Story</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -58223,10 +58205,10 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180617033000 +0000" stop="20180617044500 +0000">
+  <programme channel="tv.101305020520" start="20180617033000 +0000" stop="20180617044900 +0000">
     <title>To Be Advised</title>
   </programme>
-  <programme channel="tv.101305020520" start="20180617044500 +0000" stop="20180617060000 +0000">
+  <programme channel="tv.101305020520" start="20180617044900 +0000" stop="20180617060000 +0000">
     <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305020520" start="20180617060000 +0000" stop="20180617070000 +0000">
@@ -59516,7 +59498,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180616135100 +0000" stop="20180616142100 +0000">
+  <programme channel="tv.101305020522" start="20180616135100 +0000" stop="20180616145100 +0000">
     <title>Anthony Bourdain: No Reservations</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -59528,27 +59510,27 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180616145900 +0000" stop="20180616175900 +0000">
+  <programme channel="tv.101305020522" start="20180616145100 +0000" stop="20180616175100 +0000">
     <title>Psychic TV</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180616175900 +0000" stop="20180616183000 +0000">
+  <programme channel="tv.101305020522" start="20180616175100 +0000" stop="20180616183000 +0000">
     <title>SA Weekender</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180616183000 +0000" stop="20180616192200 +0000">
+  <programme channel="tv.101305020522" start="20180616183000 +0000" stop="20180616191500 +0000">
     <title>Travel Oz</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180616192200 +0000" stop="20180616200000 +0000">
+  <programme channel="tv.101305020522" start="20180616191500 +0000" stop="20180616200000 +0000">
     <title>Travel Oz</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -59602,23 +59584,28 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180617005900 +0000" stop="20180617012700 +0000">
-    <title>Australia's Best Backyards</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020522" start="20180617012700 +0000" stop="20180617022900 +0000">
+  <programme channel="tv.101305020522" start="20180617005900 +0000" stop="20180617020000 +0000">
     <title>NBC Today</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020522" start="20180617020000 +0000" stop="20180617025700 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020522" start="20180617022900 +0000" stop="20180617025800 +0000">
     <title>The Real Seachange</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020522" start="20180617025700 +0000" stop="20180617035300 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -59636,10 +59623,22 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020522" start="20180617035300 +0000" stop="20180617045000 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020522" start="20180617044200 +0000" stop="20180617054100 +0000">
     <title>Escape to the Country</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020522" start="20180617045000 +0000" stop="20180617060000 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180617054100 +0000" stop="20180617065900 +0000">
@@ -59648,14 +59647,20 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180617065900 +0000" stop="20180617080000 +0000">
+  <programme channel="tv.101305020522" start="20180617060000 +0000" stop="20180617065800 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020522" start="20180617065800 +0000" stop="20180617075900 +0000">
     <title>Mighty Trains</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180617080000 +0000" stop="20180617090100 +0000">
+  <programme channel="tv.101305020522" start="20180617075900 +0000" stop="20180617090100 +0000">
     <title>Mighty Ships</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -61275,27 +61280,27 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180617084500 +0000" stop="20180617103000 +0000">
+  <programme channel="tv.101305020523" start="20180617084500 +0000" stop="20180617103200 +0000">
     <title>The Waterboy</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180617103000 +0000" stop="20180617130100 +0000">
+  <programme channel="tv.101305020523" start="20180617103200 +0000" stop="20180617130400 +0000">
     <title>Captain America: The First Avenger</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180617130100 +0000" stop="20180617133000 +0000">
+  <programme channel="tv.101305020523" start="20180617130400 +0000" stop="20180617133300 +0000">
     <title>Family Guy</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180617133000 +0000" stop="20180617135800 +0000">
+  <programme channel="tv.101305020523" start="20180617133300 +0000" stop="20180617151100 +0000">
     <title>Family Guy</title>
     <rating system="Freeview">
       <value>M</value>
