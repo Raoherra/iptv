@@ -13,7 +13,7 @@
         "audio": {
             "codec": "aac",
             "channels": 2,
-            "sample_rate": "48000"
+            "sample_rate": 48000
         }
     },
     "tv.10": {
@@ -30,7 +30,7 @@
         "audio": {
             "codec": "aac",
             "channels": 2,
-            "sample_rate": "48000"
+            "sample_rate": 48000
         }
     },
     "tv.11": {
@@ -160,13 +160,13 @@
         "url": "http://iptv.matthuisman.nz/nz/tv.7.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
             "codec": "h264",
-            "width": 960,
-            "height": 540
+            "width": 1024,
+            "height": 576
         },
         "audio": {
             "codec": "aac",
             "channels": 2,
-            "sample_rate": "44100"
+            "sample_rate": 44100
         }
     },
     "tv.39": {
@@ -234,7 +234,7 @@
         "audio": {
             "codec": "aac",
             "channels": 2,
-            "sample_rate": "48000"
+            "sample_rate": 48000
         }
     },
     "tv.60": {
