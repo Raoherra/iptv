@@ -74,14 +74,14 @@
         "description": "Launched Sunday 15 April, ThreeLife is a lifestyle focused channel from the MediaWorks family which takes you to a “lighter place”. Each night on the channel is themed, from food to DIY, the line-up will feature shows such as Restaurant Revolution and the US version of the smash hit format Married At First Sight.Check out the channel promo here to find out more, or just tune into channel 11.",
         "url": "http://iptv.matthuisman.nz/nz/tv.65.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "codec": "h264",
-            "width": 854,
-            "height": 480
+            "width": 0,
+            "height": 0,
+            "codec": ""
         },
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "sample_rate": 0,
+            "channels": 0,
+            "codec": ""
         }
     },
     "tv.55": {
@@ -108,14 +108,14 @@
         "description": "Al Jazeera English is international 24hour news and current affairs that takes viewers inside the stories surrounding global news",
         "url": "http://iptv.matthuisman.nz/nz/tv.46.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "codec": "h264",
-            "width": 1280,
-            "height": 720
+            "width": 1920,
+            "height": 1080,
+            "codec": "h264"
         },
         "audio": {
-            "codec": "aac",
+            "sample_rate": 44100,
             "channels": 2,
-            "sample_rate": "44100"
+            "codec": "aac"
         }
     },
     "tv.51": {
@@ -125,14 +125,14 @@
         "description": "The Edge TV plays the hottest music videos in the world right now",
         "url": "http://iptv.matthuisman.nz/nz/tv.51.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "codec": "h264",
-            "width": 852,
-            "height": 480
+            "width": 0,
+            "height": 0,
+            "codec": ""
         },
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "sample_rate": 0,
+            "channels": 0,
+            "codec": ""
         }
     },
     "tv.45": {
@@ -142,14 +142,14 @@
         "description": "It's your department store, right in the comfort of your own home",
         "url": "http://iptv.matthuisman.nz/nz/tv.45.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "codec": "h264",
             "width": 640,
-            "height": 360
+            "height": 360,
+            "codec": "h264"
         },
         "audio": {
-            "codec": "aac",
+            "sample_rate": 32000,
             "channels": 2,
-            "sample_rate": "32000"
+            "codec": "aac"
         }
     },
     "tv.7": {
@@ -176,14 +176,14 @@
         "description": "Firstlight presents content from selected Christian ministries around the world",
         "url": "rtmp://streamer1.streamhost.org/salive/GMIFLNL",
         "video": {
-            "codec": "h264",
             "width": 708,
-            "height": 400
+            "height": 400,
+            "codec": "h264"
         },
         "audio": {
-            "codec": "aac",
+            "sample_rate": 44100,
             "channels": 2,
-            "sample_rate": "44100"
+            "codec": "aac"
         }
     },
     "tv.21": {
@@ -244,28 +244,28 @@
         "description": "Promoting local tourism attractions, local content including amazing international and sporting events held in the Wairarapa Valley region",
         "url": "http://iptv.matthuisman.nz/nz/tv.60.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "codec": "h264",
             "width": 960,
-            "height": 540
+            "height": 540,
+            "codec": "h264"
         },
         "audio": {
-            "codec": "aac",
+            "sample_rate": 44100,
             "channels": 2,
-            "sample_rate": "44100"
+            "codec": "aac"
         }
     },
     "tv.redbull.tv": {
         "name": "Redbull TV",
         "url": "http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "codec": "h264",
-            "width": 1280,
-            "height": 720
+            "width": 1920,
+            "height": 1080,
+            "codec": "h264"
         },
         "audio": {
-            "codec": "aac",
+            "sample_rate": 48000,
             "channels": 2,
-            "sample_rate": "48000"
+            "codec": "aac"
         },
         "description": "Red Bull TV: beyond the ordinary live events and videos featuring inspirational stories covering sports, music and lifestyle entertainment. Anytime, anywhere.",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"

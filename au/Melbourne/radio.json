@@ -65,8 +65,13 @@
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7178.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "sample_rate": 44100,
+            "channels": 2
+        },
+        "video": {
+            "height": 0,
+            "codec": "",
+            "width": 0
         }
     },
     "radio.ih.7172": {
@@ -80,8 +85,13 @@
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7172.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "sample_rate": 44100,
+            "channels": 2
+        },
+        "video": {
+            "height": 0,
+            "codec": "",
+            "width": 0
         }
     },
     "radio.ih.7103": {
@@ -96,9 +106,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7103.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "codec": "",
+            "sample_rate": 0,
+            "channels": 0
+        },
+        "video": {
+            "height": 0,
+            "codec": "",
+            "width": 0
         }
     },
     "radio.ih.6710": {
@@ -140,8 +155,13 @@
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7180.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "sample_rate": 44100,
+            "channels": 2
+        },
+        "video": {
+            "height": 0,
+            "codec": "",
+            "width": 0
         }
     },
     "radio.ih.7182": {
@@ -168,8 +188,13 @@
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7177.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "sample_rate": 44100,
+            "channels": 2
+        },
+        "video": {
+            "height": 0,
+            "codec": "",
+            "width": 0
         }
     },
     "radio.ih.7123": {
@@ -388,8 +413,13 @@
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7181.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "sample_rate": 44100,
+            "channels": 2
+        },
+        "video": {
+            "height": 0,
+            "codec": "",
+            "width": 0
         }
     },
     "radio.ih.6181": {
@@ -404,9 +434,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6181.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "codec": "",
+            "sample_rate": 0,
+            "channels": 0
+        },
+        "video": {
+            "height": 0,
+            "codec": "",
+            "width": 0
         }
     },
     "radio.ih.7260": {
@@ -458,8 +493,13 @@
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6157|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "sample_rate": 44100,
+            "channels": 2
+        },
+        "video": {
+            "height": 0,
+            "codec": "",
+            "width": 0
         }
     },
     "radio.ih.6970": {
@@ -722,8 +762,13 @@
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.triple.m.melbourne.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "sample_rate": 44100,
+            "channels": 2
+        },
+        "video": {
+            "height": 0,
+            "codec": "",
+            "width": 0
         },
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.triple.m.melbourne.png"
     },
