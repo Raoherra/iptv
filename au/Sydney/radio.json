@@ -70,9 +70,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7103.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7123": {
