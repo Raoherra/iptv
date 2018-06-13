@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180613054509 +0000" stop="20180613065332 +0000">
-    <title>The Wave I Ride</title>
-    <desc>Paige Alms is leading the charge in women's big wave surfing, and she's doing it for all the right reasons.</desc>
-    <sub-title>The Story of Big Wave Surfer Paige Alms</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180613065332 +0000" stop="20180613074829 +0000">
     <title>Mark Grist Battles the World – Philippines</title>
     <desc>Poet Mark Grist enters a war of words as he travels to the Philippines to take on legendary MC Loonie.</desc>
@@ -6020,6 +6015,9 @@
   <programme channel="tv.12" start="20180615073300 +0000" stop="20180615073500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180615073500 +0000" stop="20180615083000 +0000">
     <title>Catfish</title>
@@ -6038,6 +6036,9 @@
   <programme channel="tv.12" start="20180615104300 +0000" stop="20180615104500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180615104500 +0000" stop="20180615114000 +0000">
     <title>Killer Couples</title>
@@ -6082,6 +6083,9 @@
   <programme channel="tv.12" start="20180615225800 +0000" stop="20180615230000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180615230000 +0000" stop="20180615232500 +0000">
     <title>Say Yes To The Dress Atlanta</title>
@@ -6114,6 +6118,9 @@
   <programme channel="tv.12" start="20180616004800 +0000" stop="20180616005000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180616005000 +0000" stop="20180616015000 +0000">
     <title>Back With The Ex</title>
@@ -6132,6 +6139,9 @@
   <programme channel="tv.12" start="20180616024300 +0000" stop="20180616024500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180616024500 +0000" stop="20180616034500 +0000">
     <title>Sell It Like Serhant</title>
@@ -6175,6 +6185,9 @@
   <programme channel="tv.12" start="20180616082800 +0000" stop="20180616083000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180616083000 +0000" stop="20180616093000 +0000">
     <title>My Crazy Ex</title>
@@ -6185,7 +6198,7 @@
   </programme>
   <programme channel="tv.12" start="20180616093000 +0000" stop="20180616103000 +0000">
     <title>Southern Charm</title>
-    <desc></desc>
+    <desc>Austen prepares to debut his beer to his family and friends and Craig makes progress on his pillows for Patricia. Cameran tries to adjust to her new life with baby Palmer.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -6253,6 +6266,9 @@
   <programme channel="tv.12" start="20180616215300 +0000" stop="20180616215500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180616215500 +0000" stop="20180616224000 +0000">
     <title>Dance Moms</title>
@@ -6278,6 +6294,9 @@
   <programme channel="tv.12" start="20180617000800 +0000" stop="20180617001000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180617001000 +0000" stop="20180617010500 +0000">
     <title>Michael Jackson &amp; Anna Nicole Smith: Bad Medicine: Mysteries &amp; Scandals</title>
@@ -6331,6 +6350,9 @@
   <programme channel="tv.12" start="20180617034800 +0000" stop="20180617035000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180617035000 +0000" stop="20180617044500 +0000">
     <title>Dance Moms</title>
@@ -6381,6 +6403,9 @@
   <programme channel="tv.12" start="20180617103800 +0000" stop="20180617104000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180617104000 +0000" stop="20180617110500 +0000">
     <title>Don't Be Tardy</title>
@@ -6432,6 +6457,9 @@
   <programme channel="tv.12" start="20180617225300 +0000" stop="20180617225500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180617225500 +0000" stop="20180617234500 +0000">
     <title>Catfish</title>
@@ -6450,6 +6478,9 @@
   <programme channel="tv.12" start="20180618003800 +0000" stop="20180618004000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180618004000 +0000" stop="20180618013500 +0000">
     <title>Below Deck</title>
@@ -13324,6 +13355,9 @@
   <programme channel="tv.30" start="20180615083300 +0000" stop="20180615083500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180615083500 +0000" stop="20180615093000 +0000">
     <title>Catfish</title>
@@ -13342,6 +13376,9 @@
   <programme channel="tv.30" start="20180615114300 +0000" stop="20180615114500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180615114500 +0000" stop="20180615124000 +0000">
     <title>Killer Couples</title>
@@ -13386,6 +13423,9 @@
   <programme channel="tv.30" start="20180615235800 +0000" stop="20180616000000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180616000000 +0000" stop="20180616002500 +0000">
     <title>Say Yes To The Dress Atlanta</title>
@@ -13418,6 +13458,9 @@
   <programme channel="tv.30" start="20180616014800 +0000" stop="20180616015000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180616015000 +0000" stop="20180616025000 +0000">
     <title>Back With The Ex</title>
@@ -13436,6 +13479,9 @@
   <programme channel="tv.30" start="20180616034300 +0000" stop="20180616034500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180616034500 +0000" stop="20180616044500 +0000">
     <title>Sell It Like Serhant</title>
@@ -13479,6 +13525,9 @@
   <programme channel="tv.30" start="20180616092800 +0000" stop="20180616093000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180616093000 +0000" stop="20180616103000 +0000">
     <title>My Crazy Ex</title>
@@ -13489,7 +13538,7 @@
   </programme>
   <programme channel="tv.30" start="20180616103000 +0000" stop="20180616113000 +0000">
     <title>Southern Charm</title>
-    <desc></desc>
+    <desc>Austen prepares to debut his beer to his family and friends and Craig makes progress on his pillows for Patricia. Cameran tries to adjust to her new life with baby Palmer.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -13557,6 +13606,9 @@
   <programme channel="tv.30" start="20180616225300 +0000" stop="20180616225500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180616225500 +0000" stop="20180616234000 +0000">
     <title>Dance Moms</title>
@@ -13582,6 +13634,9 @@
   <programme channel="tv.30" start="20180617010800 +0000" stop="20180617011000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180617011000 +0000" stop="20180617020500 +0000">
     <title>Michael Jackson &amp; Anna Nicole Smith: Bad Medicine: Mysteries &amp; Scandals</title>
@@ -13635,6 +13690,9 @@
   <programme channel="tv.30" start="20180617044800 +0000" stop="20180617045000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180617045000 +0000" stop="20180617054500 +0000">
     <title>Dance Moms</title>
@@ -13685,6 +13743,9 @@
   <programme channel="tv.30" start="20180617113800 +0000" stop="20180617114000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180617114000 +0000" stop="20180617120500 +0000">
     <title>Don't Be Tardy</title>
@@ -13736,6 +13797,9 @@
   <programme channel="tv.30" start="20180617235300 +0000" stop="20180617235500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180617235500 +0000" stop="20180618004500 +0000">
     <title>Catfish</title>
@@ -13754,6 +13818,9 @@
   <programme channel="tv.30" start="20180618013800 +0000" stop="20180618014000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180618014000 +0000" stop="20180618023500 +0000">
     <title>Below Deck</title>
@@ -24023,12 +24090,12 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180614073000 +0000" stop="20180614080000 +0000">
-    <title>Calvin Harris vs David Guetta</title>
+    <title>This vs That</title>
     <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Calvin Harris vs David Guetta</desc>
   </programme>
   <programme channel="tv.51" start="20180614080000 +0000" stop="20180614090000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Beach Party</desc>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Red Heads</desc>
   </programme>
   <programme channel="tv.51" start="20180614090000 +0000" stop="20180614103000 +0000">
     <title>All The Hits</title>
@@ -24114,7 +24181,7 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180615073000 +0000" stop="20180615080000 +0000">
-    <title>Calvin Harris vs Avicii</title>
+    <title>This vs That</title>
     <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Calvin Harris vs Avicii</desc>
   </programme>
   <programme channel="tv.51" start="20180615080000 +0000" stop="20180615090000 +0000">
