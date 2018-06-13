@@ -91,14 +91,14 @@
         "description": "Get game, laugh it up, watch real life, get hooked on a top drama or go big with a movie",
         "url": "http://iptv.matthuisman.nz/nz/tv.55.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "codec": "h264",
-            "width": 1280,
-            "height": 720
+            "width": 0,
+            "codec": "",
+            "height": 0
         },
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
+            "sample_rate": 0,
+            "codec": "",
+            "channels": 0
         }
     },
     "tv.46": {
