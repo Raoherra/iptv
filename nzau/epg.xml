@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180614034559 +0000" stop="20180614050028 +0000">
-    <title>Walk It Home</title>
-    <desc>The story of The Wanton Bishops, a blues band from Beirut that travels to play the cities where blues began.</desc>
-    <sub-title>A Music Discovery Road Trip</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180614050028 +0000" stop="20180614054455 +0000">
     <title>Breaking the Day  S1E7</title>
     <desc>To see if he's ready for a professional cycling career, a bike messenger attempts California's toughest hill.</desc>
@@ -1764,7 +1759,7 @@
   </programme>
   <programme channel="tv.9" start="20180617073000 +0000" stop="20180617083000 +0000">
     <title>Sunday</title>
-    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe.</desc>
+    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe. Tonight, gay conversion therapy has been banned in parts of the world but it's still legal here.</desc>
   </programme>
   <programme channel="tv.9" start="20180617083000 +0000" stop="20180617103000 +0000">
     <title>Maigret</title>
@@ -1801,28 +1796,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180617150500 +0000" stop="20180617153500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180617153500 +0000" stop="20180617160500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180617160500 +0000" stop="20180617163500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180617163500 +0000" stop="20180617170000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180617170000 +0000" stop="20180617173000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180617173000 +0000" stop="20180617180000 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180617150500 +0000" stop="20180617180000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.9" start="20180617180000 +0000" stop="20180617210000 +0000">
@@ -1910,7 +1885,7 @@
   </programme>
   <programme channel="tv.9" start="20180618073000 +0000" stop="20180618080000 +0000">
     <title>Fair Go</title>
-    <desc>Join Pippa Wetzell, Hadyn Jones and the Fair Go team as they stand up for the underdogs and consumer rights!</desc>
+    <desc>Tonight, we trust heaters will keep us warm and cosy over the winter months, but what happens when it all goes horribly wrong? Also, a luxury weekend in Auckland turns into the holiday from hell.</desc>
   </programme>
   <programme channel="tv.9" start="20180618080000 +0000" stop="20180618083000 +0000">
     <title>Highway Cops</title>
@@ -1959,40 +1934,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.9" start="20180618131500 +0000" stop="20180618134500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180618134500 +0000" stop="20180618141000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180618141000 +0000" stop="20180618144000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180618144000 +0000" stop="20180618151000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180618151000 +0000" stop="20180618153500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180618153500 +0000" stop="20180618160500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180618160500 +0000" stop="20180618163500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180618163500 +0000" stop="20180618170500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180618170500 +0000" stop="20180618173500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180618131500 +0000" stop="20180618173500 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.9" start="20180618173500 +0000" stop="20180618180000 +0000">
@@ -2038,6 +1981,9 @@
   <programme channel="tv.9" start="20180619010000 +0000" stop="20180619020000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Steve and Michelle make an upsetting discovery when they request Ruairi's birth certificate. Bethany accepts an offer from Nathan. Pat refuses to release his hold on Andy.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180619020000 +0000" stop="20180619030000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -2104,7 +2050,10 @@
   </programme>
   <programme channel="tv.9" start="20180619093000 +0000" stop="20180619103000 +0000">
     <title>Under The Influence</title>
-    <desc>New Series: River Phoenix and Heath Ledger were popular and talented young actors who earned early acclaim. But off-screen and behind closed doors their lives were hidden in secret.</desc>
+    <desc>New Series: Lindsay Lohan and Britney Spears were new stars for the new millennium. But they both suffered a total career collapse. We look at the influences which led them on a downward spiral.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180619103000 +0000" stop="20180619110000 +0000">
     <title>1 News Tonight</title>
@@ -2112,7 +2061,7 @@
   </programme>
   <programme channel="tv.9" start="20180619110000 +0000" stop="20180619120000 +0000">
     <title>Sunday</title>
-    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe.</desc>
+    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe. Tonight, gay conversion therapy has been banned in parts of the world but it's still legal here.</desc>
   </programme>
   <programme channel="tv.9" start="20180619120000 +0000" stop="20180619125000 +0000">
     <title>Major Crimes</title>
@@ -2132,32 +2081,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.9" start="20180619140500 +0000" stop="20180619143500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180619143500 +0000" stop="20180619150500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180619150500 +0000" stop="20180619153500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180619153500 +0000" stop="20180619160500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180619160500 +0000" stop="20180619163500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180619163500 +0000" stop="20180619170500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180619170500 +0000" stop="20180619173500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180619140500 +0000" stop="20180619173500 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.9" start="20180619173500 +0000" stop="20180619180000 +0000">
@@ -2290,40 +2215,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.9" start="20180620131500 +0000" stop="20180620134500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180620134500 +0000" stop="20180620141500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180620141500 +0000" stop="20180620144000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180620144000 +0000" stop="20180620151000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180620151000 +0000" stop="20180620154000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180620154000 +0000" stop="20180620160500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180620160500 +0000" stop="20180620163500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180620163500 +0000" stop="20180620170500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180620170500 +0000" stop="20180620173500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180620131500 +0000" stop="20180620173500 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.9" start="20180620173500 +0000" stop="20180620180000 +0000">
@@ -2520,7 +2413,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180613173000 +0000" stop="20180613183000 +0000">
+  <programme channel="tv.10" start="20180613173000 +0000" stop="20180613180000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.10" start="20180613180000 +0000" stop="20180613183000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -3344,7 +3241,7 @@
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180616043000 +0000" stop="20180616052000 +0000">
@@ -3686,7 +3583,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180617173000 +0000" stop="20180617180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180617180000 +0000" stop="20180617183000 +0000">
@@ -3752,16 +3649,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180617210000 +0000" stop="20180617213000 +0000">
-    <title>Infomercial 0900</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180617213000 +0000" stop="20180617220000 +0000">
+  <programme channel="tv.10" start="20180617210000 +0000" stop="20180617223000 +0000">
     <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180617220000 +0000" stop="20180617223000 +0000">
-    <title>Infomercial 1000</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180617223000 +0000" stop="20180617230000 +0000">
@@ -3955,11 +3844,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180618132500 +0000" stop="20180618135500 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180618135500 +0000" stop="20180618142500 +0000">
+  <programme channel="tv.10" start="20180618132500 +0000" stop="20180618142500 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -4001,12 +3886,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180618173000 +0000" stop="20180618180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180618180000 +0000" stop="20180618183000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.10" start="20180618173000 +0000" stop="20180618183000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180618183000 +0000" stop="20180618184000 +0000">
@@ -4069,7 +3950,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180618210000 +0000" stop="20180618213000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180618213000 +0000" stop="20180618220000 +0000">
@@ -4077,7 +3958,7 @@
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180618220000 +0000" stop="20180618223000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180618223000 +0000" stop="20180618230000 +0000">
@@ -4293,11 +4174,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180619133000 +0000" stop="20180619140500 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180619140500 +0000" stop="20180619143500 +0000">
+  <programme channel="tv.10" start="20180619133000 +0000" stop="20180619143500 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -4333,7 +4210,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180619173000 +0000" stop="20180619180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180619180000 +0000" stop="20180619183000 +0000">
@@ -4627,11 +4504,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180620132500 +0000" stop="20180620140000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180620140000 +0000" stop="20180620142500 +0000">
+  <programme channel="tv.10" start="20180620132500 +0000" stop="20180620142500 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -4670,12 +4543,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180620173000 +0000" stop="20180620180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180620180000 +0000" stop="20180620183000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.10" start="20180620173000 +0000" stop="20180620183000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180620183000 +0000" stop="20180620184000 +0000">
@@ -4738,7 +4607,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180620210000 +0000" stop="20180620213000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180620213000 +0000" stop="20180620220000 +0000">
@@ -4746,7 +4615,7 @@
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180620220000 +0000" stop="20180620223000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180620223000 +0000" stop="20180620230000 +0000">
@@ -4770,6 +4639,9 @@
   <programme channel="tv.10" start="20180621000000 +0000" stop="20180621010000 +0000">
     <title>Jeremy Kyle</title>
     <desc>Today on Jeremy Kyle: You're a bad dad! I won't let you meet your granddaughter this Christmas!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180621010000 +0000" stop="20180621020000 +0000">
     <title>Judge Rinder</title>
@@ -4887,6 +4759,9 @@
   <programme channel="tv.10" start="20180621083000 +0000" stop="20180621093500 +0000">
     <title>The Undateables</title>
     <desc>S7 E2 Rhys and Joshua are autistic and find social situations difficult, never sure whether girls fancy them. Meanwhile Kaia, who is deaf, hopes to win over a man with her culinary skills.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180621093500 +0000" stop="20180621103000 +0000">
     <title>Lethal Weapon</title>
@@ -9528,7 +9403,7 @@
   </programme>
   <programme channel="tv.38" start="20180617083000 +0000" stop="20180617093000 +0000">
     <title>Sunday</title>
-    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe.</desc>
+    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe. Tonight, gay conversion therapy has been banned in parts of the world but it's still legal here.</desc>
   </programme>
   <programme channel="tv.38" start="20180617093000 +0000" stop="20180617113000 +0000">
     <title>Maigret</title>
@@ -9565,28 +9440,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180617160500 +0000" stop="20180617163500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180617163500 +0000" stop="20180617170500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180617170500 +0000" stop="20180617173500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180617173500 +0000" stop="20180617180000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180617180000 +0000" stop="20180617183000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180617183000 +0000" stop="20180617190000 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180617160500 +0000" stop="20180617190000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.38" start="20180617190000 +0000" stop="20180617220000 +0000">
@@ -9674,7 +9529,7 @@
   </programme>
   <programme channel="tv.38" start="20180618083000 +0000" stop="20180618090000 +0000">
     <title>Fair Go</title>
-    <desc>Join Pippa Wetzell, Hadyn Jones and the Fair Go team as they stand up for the underdogs and consumer rights!</desc>
+    <desc>Tonight, we trust heaters will keep us warm and cosy over the winter months, but what happens when it all goes horribly wrong? Also, a luxury weekend in Auckland turns into the holiday from hell.</desc>
   </programme>
   <programme channel="tv.38" start="20180618090000 +0000" stop="20180618093000 +0000">
     <title>Highway Cops</title>
@@ -9723,40 +9578,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.38" start="20180618141500 +0000" stop="20180618144500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180618144500 +0000" stop="20180618151000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180618151000 +0000" stop="20180618154000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180618154000 +0000" stop="20180618161000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180618161000 +0000" stop="20180618163500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180618163500 +0000" stop="20180618170500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180618170500 +0000" stop="20180618173500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180618173500 +0000" stop="20180618180500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180618180500 +0000" stop="20180618183500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180618141500 +0000" stop="20180618183500 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.38" start="20180618183500 +0000" stop="20180618190000 +0000">
@@ -9802,6 +9625,9 @@
   <programme channel="tv.38" start="20180619020000 +0000" stop="20180619030000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Steve and Michelle make an upsetting discovery when they request Ruairi's birth certificate. Bethany accepts an offer from Nathan. Pat refuses to release his hold on Andy.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180619030000 +0000" stop="20180619040000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -9868,7 +9694,10 @@
   </programme>
   <programme channel="tv.38" start="20180619103000 +0000" stop="20180619113000 +0000">
     <title>Under The Influence</title>
-    <desc>New Series: River Phoenix and Heath Ledger were popular and talented young actors who earned early acclaim. But off-screen and behind closed doors their lives were hidden in secret.</desc>
+    <desc>New Series: Lindsay Lohan and Britney Spears were new stars for the new millennium. But they both suffered a total career collapse. We look at the influences which led them on a downward spiral.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180619113000 +0000" stop="20180619120000 +0000">
     <title>1 News Tonight</title>
@@ -9876,7 +9705,7 @@
   </programme>
   <programme channel="tv.38" start="20180619120000 +0000" stop="20180619130000 +0000">
     <title>Sunday</title>
-    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe.</desc>
+    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe. Tonight, gay conversion therapy has been banned in parts of the world but it's still legal here.</desc>
   </programme>
   <programme channel="tv.38" start="20180619130000 +0000" stop="20180619135000 +0000">
     <title>Major Crimes</title>
@@ -9896,32 +9725,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.38" start="20180619150500 +0000" stop="20180619153500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180619153500 +0000" stop="20180619160500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180619160500 +0000" stop="20180619163500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180619163500 +0000" stop="20180619170500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180619170500 +0000" stop="20180619173500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180619173500 +0000" stop="20180619180500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180619180500 +0000" stop="20180619183500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180619150500 +0000" stop="20180619183500 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.38" start="20180619183500 +0000" stop="20180619190000 +0000">
@@ -10054,40 +9859,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.38" start="20180620141500 +0000" stop="20180620144500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180620144500 +0000" stop="20180620151500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180620151500 +0000" stop="20180620154000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180620154000 +0000" stop="20180620161000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180620161000 +0000" stop="20180620164000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180620164000 +0000" stop="20180620170500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180620170500 +0000" stop="20180620173500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180620173500 +0000" stop="20180620180500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180620180500 +0000" stop="20180620183500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180620141500 +0000" stop="20180620183500 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.38" start="20180620183500 +0000" stop="20180620190000 +0000">
@@ -10278,7 +10051,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180613183000 +0000" stop="20180613193000 +0000">
+  <programme channel="tv.14" start="20180613183000 +0000" stop="20180613190000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.14" start="20180613190000 +0000" stop="20180613193000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -11012,7 +10789,7 @@
     <title>Powerless</title>
     <desc>S1 E3 When Van's incompetence costs the team a client, Emily hopes to make a deal with the people of Atlantis and Van's father sets him on a path of redemption.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180616053000 +0000" stop="20180616062000 +0000">
@@ -11291,7 +11068,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180617183000 +0000" stop="20180617190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180617190000 +0000" stop="20180617193000 +0000">
@@ -11351,16 +11128,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180617220000 +0000" stop="20180617223000 +0000">
-    <title>Infomercial 0900</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180617223000 +0000" stop="20180617230000 +0000">
+  <programme channel="tv.14" start="20180617220000 +0000" stop="20180617233000 +0000">
     <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180617230000 +0000" stop="20180617233000 +0000">
-    <title>Infomercial 1000</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180617233000 +0000" stop="20180618000000 +0000">
@@ -11527,11 +11296,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180618142500 +0000" stop="20180618145500 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180618145500 +0000" stop="20180618152500 +0000">
+  <programme channel="tv.14" start="20180618142500 +0000" stop="20180618152500 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -11570,12 +11335,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180618183000 +0000" stop="20180618190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180618190000 +0000" stop="20180618193000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.14" start="20180618183000 +0000" stop="20180618193000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180618193000 +0000" stop="20180618194000 +0000">
@@ -11632,7 +11393,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180618220000 +0000" stop="20180618223000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180618223000 +0000" stop="20180618230000 +0000">
@@ -11640,7 +11401,7 @@
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180618230000 +0000" stop="20180618233000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180618233000 +0000" stop="20180619000000 +0000">
@@ -11820,11 +11581,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180619143000 +0000" stop="20180619150500 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180619150500 +0000" stop="20180619153500 +0000">
+  <programme channel="tv.14" start="20180619143000 +0000" stop="20180619153500 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -11857,7 +11614,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180619183000 +0000" stop="20180619190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180619190000 +0000" stop="20180619193000 +0000">
@@ -12106,11 +11863,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180620142500 +0000" stop="20180620150000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180620150000 +0000" stop="20180620152500 +0000">
+  <programme channel="tv.14" start="20180620142500 +0000" stop="20180620152500 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -12149,12 +11902,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180620183000 +0000" stop="20180620190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180620190000 +0000" stop="20180620193000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.14" start="20180620183000 +0000" stop="20180620193000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180620193000 +0000" stop="20180620194000 +0000">
@@ -12211,7 +11960,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180620220000 +0000" stop="20180620223000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180620223000 +0000" stop="20180620230000 +0000">
@@ -12219,7 +11968,7 @@
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180620230000 +0000" stop="20180620233000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180620233000 +0000" stop="20180621000000 +0000">
@@ -12240,6 +11989,9 @@
   <programme channel="tv.14" start="20180621010000 +0000" stop="20180621020000 +0000">
     <title>Jeremy Kyle</title>
     <desc>Today on Jeremy Kyle: You're a bad dad! I won't let you meet your granddaughter this Christmas!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180621020000 +0000" stop="20180621030000 +0000">
     <title>Judge Rinder</title>
@@ -12345,6 +12097,9 @@
   <programme channel="tv.14" start="20180621093000 +0000" stop="20180621103500 +0000">
     <title>The Undateables</title>
     <desc>S7 E2 Rhys and Joshua are autistic and find social situations difficult, never sure whether girls fancy them. Meanwhile Kaia, who is deaf, hopes to win over a man with her culinary skills.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180621103500 +0000" stop="20180621113000 +0000">
     <title>Lethal Weapon</title>
@@ -19241,7 +18996,7 @@
     <title>New: Live Pd Police Patrol</title>
     <desc>A car crash and foot pursuit in Indiana; shooting in South Carolina.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.55" start="20180615083000 +0000" stop="20180615102500 +0000">
@@ -19346,7 +19101,7 @@
     <desc>S15 E18 Peter gets lost in the mall while Brian pretends to be a millionaire to impress a woman.</desc>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.55" start="20180616105000 +0000" stop="20180616111500 +0000">
@@ -19433,6 +19188,9 @@
     <title>Heartbreak Island Uncut</title>
     <desc/>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180617093000 +0000" stop="20180617100000 +0000">
     <title>Wild Kai Legends</title>
