@@ -11,8 +11,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.101305060565": {
@@ -27,8 +27,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.101305060563": {
@@ -43,8 +43,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.101204600467": {
@@ -58,8 +58,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         },
         "url": "http://iptv.matthuisman.nz/au/Perth/tv.101204600467.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -74,8 +74,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         },
         "url": "http://iptv.matthuisman.nz/au/Perth/tv.101204600468.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -90,8 +90,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         },
         "url": "http://iptv.matthuisman.nz/au/Perth/tv.101204600464.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -107,8 +107,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.101002210222": {
@@ -123,8 +123,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.101002210224": {
@@ -139,8 +139,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.101002210220": {
@@ -155,8 +155,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.101204600461": {
@@ -170,8 +170,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         },
         "url": "http://iptv.matthuisman.nz/au/Perth/tv.101204600461.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -179,17 +179,7 @@
         "channel": "101406070688",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406070688.png",
         "name": "ELEVEN",
-        "url": "http://iptv.matthuisman.nz/au/Perth/tv.101406070688.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "video": {
-            "height": 576,
-            "codec": "h264",
-            "width": 1024
-        },
-        "audio": {
-            "codec": "aac",
-            "sample_rate": 44100,
-            "channels": 2
-        }
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.101406070688.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "tv.320203000304": {
         "channel": "320203000304",
@@ -203,8 +193,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.fox.sports.news": {
@@ -218,8 +208,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 44100,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 44100
         }
     },
     "tv.320203000305": {
@@ -234,25 +224,15 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.101406070681": {
         "channel": "101406070681",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406070681.png",
         "name": "ONE",
-        "url": "http://iptv.matthuisman.nz/au/Perth/tv.101406070681.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "video": {
-            "height": 576,
-            "codec": "h264",
-            "width": 1024
-        },
-        "audio": {
-            "codec": "aac",
-            "sample_rate": 44100,
-            "channels": 2
-        }
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.101406070681.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "tv.101305020528": {
         "channel": "101305020528",
@@ -266,8 +246,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.redbull.tv": {
@@ -281,8 +261,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         },
         "description": "Red Bull TV: beyond the ordinary live events and videos featuring inspirational stories covering sports, music and lifestyle entertainment. Anytime, anywhere."
     },
@@ -298,8 +278,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.320203000302": {
@@ -314,8 +294,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.101305060560": {
@@ -330,168 +310,14 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
-        }
-    },
-    "tv.7misc1": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/7misc.png",
-        "name": "Seven MISC #1",
-        "description": "Seven MISC #1",
-        "url": "http://iptv.matthuisman.nz/au/Perth/tv.7misc1.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "video": {
-            "height": 0,
-            "codec": "",
-            "width": 0
-        },
-        "audio": {
-            "codec": "",
-            "sample_rate": 0,
-            "channels": 0
-        }
-    },
-    "tv.7misc2": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/7misc.png",
-        "name": "Seven MISC #2",
-        "description": "Seven MISC #2",
-        "url": "http://iptv.matthuisman.nz/au/Perth/tv.7misc2.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "video": {
-            "height": 0,
-            "codec": "",
-            "width": 0
-        },
-        "audio": {
-            "codec": "",
-            "sample_rate": 0,
-            "channels": 0
-        }
-    },
-    "tv.7misc3": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/7misc.png",
-        "name": "Seven MISC #3",
-        "description": "Seven MISC #3",
-        "url": "http://iptv.matthuisman.nz/au/Perth/tv.7misc3.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "video": {
-            "height": 0,
-            "codec": "",
-            "width": 0
-        },
-        "audio": {
-            "codec": "",
-            "sample_rate": 0,
-            "channels": 0
-        }
-    },
-    "tv.7misc4": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/7misc.png",
-        "name": "Seven MISC #4",
-        "description": "Seven MISC #4",
-        "url": "http://iptv.matthuisman.nz/au/Perth/tv.7misc4.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "video": {
-            "height": 0,
-            "codec": "",
-            "width": 0
-        },
-        "audio": {
-            "codec": "",
-            "sample_rate": 0,
-            "channels": 0
-        }
-    },
-    "tv.7misc5": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/7misc.png",
-        "name": "Seven MISC #5",
-        "description": "Seven MISC #5",
-        "url": "http://iptv.matthuisman.nz/au/Perth/tv.7misc5.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "video": {
-            "height": 0,
-            "codec": "",
-            "width": 0
-        },
-        "audio": {
-            "codec": "",
-            "sample_rate": 0,
-            "channels": 0
-        }
-    },
-    "tv.7misc6": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/7misc.png",
-        "name": "Seven MISC #6",
-        "description": "Seven MISC #6",
-        "url": "http://iptv.matthuisman.nz/au/Perth/tv.7misc6.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "video": {
-            "height": 0,
-            "codec": "",
-            "width": 0
-        },
-        "audio": {
-            "codec": "",
-            "sample_rate": 0,
-            "channels": 0
-        }
-    },
-    "tv.7misc7": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/7misc.png",
-        "name": "Seven MISC #7",
-        "description": "Seven MISC #7",
-        "url": "http://iptv.matthuisman.nz/au/Perth/tv.7misc7.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "video": {
-            "height": 0,
-            "codec": "",
-            "width": 0
-        },
-        "audio": {
-            "codec": "",
-            "sample_rate": 0,
-            "channels": 0
-        }
-    },
-    "tv.7misc8": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/7misc.png",
-        "name": "Seven MISC #8",
-        "description": "Seven MISC #8",
-        "url": "http://iptv.matthuisman.nz/au/Perth/tv.7misc8.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "video": {
-            "height": 0,
-            "codec": "",
-            "width": 0
-        },
-        "audio": {
-            "codec": "",
-            "sample_rate": 0,
-            "channels": 0
-        }
-    },
-    "tv.sbnint": {
-        "logo": "http://sonlifetv.com/images/sbngloballogo.jpg",
-        "name": "SonLife International",
-        "description": "Spreading the message of the cross around the world",
-        "url": "http://iptv.matthuisman.nz/au/Perth/tv.sbnint.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "video": {
-            "height": 0,
-            "codec": "",
-            "width": 0
-        },
-        "audio": {
-            "codec": "",
-            "sample_rate": 0,
-            "channels": 0
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.101406070685": {
         "channel": "101406070685",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406070685.png",
         "name": "TEN",
-        "url": "http://iptv.matthuisman.nz/au/Perth/tv.101406070685.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "video": {
-            "height": 576,
-            "codec": "h264",
-            "width": 1024
-        },
-        "audio": {
-            "codec": "aac",
-            "sample_rate": 44100,
-            "channels": 2
-        }
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.101406070685.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     }
 }

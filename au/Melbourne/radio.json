@@ -104,13 +104,8 @@
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7178.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "codec": "aac",
-            "sample_rate": 44100,
-            "channels": 2
-        },
-        "video": {
-            "height": 0,
-            "codec": "",
-            "width": 0
+            "channels": 2,
+            "sample_rate": 44100
         }
     },
     "radio.ih.7172": {
@@ -124,13 +119,8 @@
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7172.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "codec": "aac",
-            "sample_rate": 44100,
-            "channels": 2
-        },
-        "video": {
-            "height": 0,
-            "codec": "",
-            "width": 0
+            "channels": 2,
+            "sample_rate": 44100
         }
     },
     "radio.ih.7103": {
@@ -143,17 +133,7 @@
             "Top 40 & Pop",
             "80s & 90s Hits"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7103.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "audio": {
-            "codec": "",
-            "sample_rate": 0,
-            "channels": 0
-        },
-        "video": {
-            "height": 0,
-            "codec": "",
-            "width": 0
-        }
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7103.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.6710": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6710.png",
@@ -204,13 +184,8 @@
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7180.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "codec": "aac",
-            "sample_rate": 44100,
-            "channels": 2
-        },
-        "video": {
-            "height": 0,
-            "codec": "",
-            "width": 0
+            "channels": 2,
+            "sample_rate": 44100
         }
     },
     "radio.ih.7182": {
@@ -242,13 +217,8 @@
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7177.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "codec": "aac",
-            "sample_rate": 44100,
-            "channels": 2
-        },
-        "video": {
-            "height": 0,
-            "codec": "",
-            "width": 0
+            "channels": 2,
+            "sample_rate": 44100
         }
     },
     "radio.ih.7123": {
@@ -559,13 +529,8 @@
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7181.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "codec": "aac",
-            "sample_rate": 44100,
-            "channels": 2
-        },
-        "video": {
-            "height": 0,
-            "codec": "",
-            "width": 0
+            "channels": 2,
+            "sample_rate": 44100
         }
     },
     "radio.ih.6181": {
@@ -578,17 +543,7 @@
             "Mix & Variety",
             "80s & 90s Hits"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6181.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "audio": {
-            "codec": "",
-            "sample_rate": 0,
-            "channels": 0
-        },
-        "video": {
-            "height": 0,
-            "codec": "",
-            "width": 0
-        }
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6181.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7260": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7260.png",
@@ -649,13 +604,8 @@
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6157|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "codec": "aac",
-            "sample_rate": 44100,
-            "channels": 2
-        },
-        "video": {
-            "height": 0,
-            "codec": "",
-            "width": 0
+            "channels": 2,
+            "sample_rate": 44100
         }
     },
     "radio.ih.6970": {
@@ -914,25 +864,6 @@
             "codec": ""
         }
     },
-    "radio.ih.7187": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7187.png",
-        "name": "TRFM",
-        "description": "Nothing but hits across Gippsland",
-        "genres": [
-            "Mix & Variety"
-        ],
-        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7187.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
-        "video": {
-            "height": 0,
-            "codec": "",
-            "width": 0
-        },
-        "audio": {
-            "codec": "",
-            "sample_rate": 0,
-            "channels": 0
-        }
-    },
     "radio.ih.6794": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6794.png",
         "name": "The 80s iHeartRadio",
@@ -1035,13 +966,8 @@
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.triple.m.melbourne.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "codec": "aac",
-            "sample_rate": 44100,
-            "channels": 2
-        },
-        "video": {
-            "height": 0,
-            "codec": "",
-            "width": 0
+            "channels": 2,
+            "sample_rate": 44100
         },
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.triple.m.melbourne.png"
     },
