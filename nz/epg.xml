@@ -161,31 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180614055528 +0000" stop="20180614060808 +0000">
-    <title>Fast Life with Loïc Bruni S1E2</title>
-    <desc>In downhill mountain bike racing, the only certainty is that nothing is certain until the last rider's run.</desc>
-    <sub-title>Plot Twist</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180614060808 +0000" stop="20180614061806 +0000">
-    <title>Fast Life with Loïc Bruni S1E3</title>
-    <desc>Coming into the race in Fort William, Scotland, it's time to look at what makes (and breaks) winning streaks.</desc>
-    <sub-title>Let's Go over the Bars</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180614061806 +0000" stop="20180614063014 +0000">
-    <title>Fast Life with Loïc Bruni S1E4</title>
-    <desc>The story of race weekend in Leogang, Austria, is one filled with twists, turns, and always a surprise ending.</desc>
-    <sub-title>A Race in Four Acts</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180614063014 +0000" stop="20180614064045 +0000">
-    <title>Fast Life with Loïc Bruni S1E5</title>
-    <desc>How hard is it to break the curse of a 'one-hit wonder'? Riders battle in Andorra in an attempt to double up.</desc>
-    <sub-title>The One-Hit Wonder Curse</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180614064045 +0000" stop="20180614064916 +0000">
-    <title>The Book of John J S2E6</title>
-    <desc>John Jackson and Jake Blauvelt check out Chile and Argentina.</desc>
-    <sub-title>Super Bueno</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180614064916 +0000" stop="20180614070920 +0000">
     <title>Follow Your Nose</title>
     <desc>Snowboarders Gigi Rüf and Elias Elhardt go in search of unshredded powder in the backcountry.</desc>
@@ -4777,6 +4752,9 @@
   <programme channel="tv.11" start="20180614073000 +0000" stop="20180614083000 +0000">
     <title>Jono And Ben</title>
     <desc>New Episode. Jono and Ben hit the streets to prank the public in their new sports segment, Guy gets caught in between two rival Countdown Supermarkets, and Laura Daniel is back as Jacinda!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180614083000 +0000" stop="20180614103500 +0000">
     <title>X-Men</title>
@@ -4993,10 +4971,16 @@
   <programme channel="tv.11" start="20180616040000 +0000" stop="20180616043000 +0000">
     <title>The Great NZ Dance Masala</title>
     <desc>Premiere. Double Episode. Excitement grows as the first round of auditions starts on this brand new Indian-inspired dance competition. S1 Ep1</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180616043000 +0000" stop="20180616050000 +0000">
     <title>The Great NZ Dance Masala</title>
     <desc>Double Episode. It's the final round of auditions on The Great NZ Dance Masala. Who will impress the judges enough to make it through to the next round and who will be sent home? S1 Ep2</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180616050000 +0000" stop="20180616060000 +0000">
     <title>All Star Family Feud: North vs. South</title>
@@ -5058,22 +5042,37 @@
   <programme channel="tv.11" start="20180616180000 +0000" stop="20180616183000 +0000">
     <title>Life TV</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180616183000 +0000" stop="20180616190000 +0000">
     <title>Brian Houston</title>
-    <desc></desc>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180616190000 +0000" stop="20180616200000 +0000">
     <title>Charles Stanley</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180616200000 +0000" stop="20180616203000 +0000">
-    <title>Living Church of God</title>
+    <title>Living Church Of God</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180616203000 +0000" stop="20180616210000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180616210000 +0000" stop="20180616213000 +0000">
     <title>R &amp; R</title>
@@ -5117,8 +5116,8 @@
     <desc>CRC Motorsport presents the FIA Formula E Championship, the world's first fully electric racing series and a ground-breaking innovation in sport and entertainment. Energy, environment, entertainment!</desc>
   </programme>
   <programme channel="tv.11" start="20180617020000 +0000" stop="20180617030000 +0000">
-    <title>NZ Rally Championship Canterbury</title>
-    <desc>This round of the Brian Green Property Group NZ Rally championship is exclusively held in the Canterbury Forests.</desc>
+    <title>NZ Rally Championship Canterbury Rnd 3</title>
+    <desc>Round 3 of the Brian Green Property Group NZ Rally championship is exclusively held in the Canterbury Forests.</desc>
   </programme>
   <programme channel="tv.11" start="20180617030000 +0000" stop="20180617040000 +0000">
     <title>IndyCar Rnd 9: Texas</title>
@@ -5544,6 +5543,9 @@
   <programme channel="tv.11" start="20180620073000 +0000" stop="20180620090000 +0000">
     <title>Buying Blind</title>
     <desc>New Episode. With a small budget and even smaller search area, our experts are faced with a seemingly impossible mission to buy Lis and Ali their first family home. S1 Ep2</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180620090000 +0000" stop="20180620095500 +0000">
     <title>All New NCIS: Los Angeles</title>
@@ -6127,6 +6129,9 @@
   <programme channel="tv.12" start="20180616063000 +0000" stop="20180616073000 +0000">
     <title>The Getaway</title>
     <desc>Rashida Jones rediscovers London - eating and drinking her way through her favorite city.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180616073000 +0000" stop="20180616082800 +0000">
     <title>Below Deck</title>
@@ -6331,6 +6336,9 @@
   <programme channel="tv.12" start="20180617063500 +0000" stop="20180617073000 +0000">
     <title>Catfish</title>
     <desc>Max and co-host iO Tillett Wright help Mecca connect with the boy she's loved for years. But when iO discovers that Mecca's beau may be using her pictures to catfish others, Mecca needs answers.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180617073000 +0000" stop="20180617083000 +0000">
     <title>Making A Model With Yolanda Hadid</title>
@@ -6870,6 +6878,9 @@
   <programme channel="tv.12" start="20180621023000 +0000" stop="20180621032800 +0000">
     <title>Love After Lockup</title>
     <desc>Andrea's frustration peaks, when her children resist meeting her ex-con fiance Lamar. After trying on wedding dresses, Mary is ready to rush Dom down the aisle.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180621032800 +0000" stop="20180621033000 +0000">
     <title>The Dish</title>
@@ -6924,6 +6935,9 @@
   <programme channel="tv.12" start="20180621083000 +0000" stop="20180621093000 +0000">
     <title>Mysteries &amp; Scandals</title>
     <desc>A Hollywood studio executive and devoted family man vanishes into thin air one night. As investigators dig into the case, they uncover dark secrets, and the details of man living a double life.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180621093000 +0000" stop="20180621103000 +0000">
     <title>SVU</title>
@@ -12096,6 +12110,9 @@
   <programme channel="tv.27" start="20180614083000 +0000" stop="20180614093000 +0000">
     <title>Jono And Ben</title>
     <desc>New Episode. Jono and Ben hit the streets to prank the public in their new sports segment, Guy gets caught in between two rival Countdown Supermarkets, and Laura Daniel is back as Jacinda!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180614093000 +0000" stop="20180614113500 +0000">
     <title>X-Men</title>
@@ -12300,10 +12317,16 @@
   <programme channel="tv.27" start="20180616050000 +0000" stop="20180616053000 +0000">
     <title>The Great NZ Dance Masala</title>
     <desc>Premiere. Double Episode. Excitement grows as the first round of auditions starts on this brand new Indian-inspired dance competition. S1 Ep1</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180616053000 +0000" stop="20180616060000 +0000">
     <title>The Great NZ Dance Masala</title>
     <desc>Double Episode. It's the final round of auditions on The Great NZ Dance Masala. Who will impress the judges enough to make it through to the next round and who will be sent home? S1 Ep2</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180616060000 +0000" stop="20180616070000 +0000">
     <title>All Star Family Feud: North vs. South</title>
@@ -12359,22 +12382,37 @@
   <programme channel="tv.27" start="20180616190000 +0000" stop="20180616193000 +0000">
     <title>Life TV</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180616193000 +0000" stop="20180616200000 +0000">
     <title>Brian Houston</title>
-    <desc></desc>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180616200000 +0000" stop="20180616210000 +0000">
     <title>Charles Stanley</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180616210000 +0000" stop="20180616213000 +0000">
-    <title>Living Church of God</title>
+    <title>Living Church Of God</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180616213000 +0000" stop="20180616220000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180616220000 +0000" stop="20180616223000 +0000">
     <title>R &amp; R</title>
@@ -12418,8 +12456,8 @@
     <desc>CRC Motorsport presents the FIA Formula E Championship, the world's first fully electric racing series and a ground-breaking innovation in sport and entertainment. Energy, environment, entertainment!</desc>
   </programme>
   <programme channel="tv.27" start="20180617030000 +0000" stop="20180617040000 +0000">
-    <title>NZ Rally Championship Canterbury</title>
-    <desc>This round of the Brian Green Property Group NZ Rally championship is exclusively held in the Canterbury Forests.</desc>
+    <title>NZ Rally Championship Canterbury Rnd 3</title>
+    <desc>Round 3 of the Brian Green Property Group NZ Rally championship is exclusively held in the Canterbury Forests.</desc>
   </programme>
   <programme channel="tv.27" start="20180617040000 +0000" stop="20180617050000 +0000">
     <title>IndyCar Rnd 9: Texas</title>
@@ -12827,6 +12865,9 @@
   <programme channel="tv.27" start="20180620083000 +0000" stop="20180620100000 +0000">
     <title>Buying Blind</title>
     <desc>New Episode. With a small budget and even smaller search area, our experts are faced with a seemingly impossible mission to buy Lis and Ali their first family home. S1 Ep2</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180620100000 +0000" stop="20180620105500 +0000">
     <title>All New NCIS: Los Angeles</title>
@@ -13395,6 +13436,9 @@
   <programme channel="tv.30" start="20180616073000 +0000" stop="20180616083000 +0000">
     <title>The Getaway</title>
     <desc>Rashida Jones rediscovers London - eating and drinking her way through her favorite city.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180616083000 +0000" stop="20180616092800 +0000">
     <title>Below Deck</title>
@@ -13599,6 +13643,9 @@
   <programme channel="tv.30" start="20180617073500 +0000" stop="20180617083000 +0000">
     <title>Catfish</title>
     <desc>Max and co-host iO Tillett Wright help Mecca connect with the boy she's loved for years. But when iO discovers that Mecca's beau may be using her pictures to catfish others, Mecca needs answers.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180617083000 +0000" stop="20180617093000 +0000">
     <title>Making A Model With Yolanda Hadid</title>
@@ -14138,6 +14185,9 @@
   <programme channel="tv.30" start="20180621033000 +0000" stop="20180621042800 +0000">
     <title>Love After Lockup</title>
     <desc>Andrea's frustration peaks, when her children resist meeting her ex-con fiance Lamar. After trying on wedding dresses, Mary is ready to rush Dom down the aisle.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180621042800 +0000" stop="20180621043000 +0000">
     <title>The Dish</title>
@@ -14192,6 +14242,9 @@
   <programme channel="tv.30" start="20180621093000 +0000" stop="20180621103000 +0000">
     <title>Mysteries &amp; Scandals</title>
     <desc>A Hollywood studio executive and devoted family man vanishes into thin air one night. As investigators dig into the case, they uncover dark secrets, and the details of man living a double life.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180621103000 +0000" stop="20180621113000 +0000">
     <title>SVU</title>
@@ -17104,6 +17157,9 @@
   <programme channel="tv.65" start="20180621083000 +0000" stop="20180621093000 +0000">
     <title>Downtown Shabby</title>
     <desc>Premiere. Ashley and Tim rushed to buy a new home, and are now faced with the realities of remodelling a 130-year-old house. They need Frank and Sherry's help before their baby arrives! S1 Ep1</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.65" start="20180621093000 +0000" stop="20180621103000 +0000">
     <title>Flipping Vegas</title>
@@ -24170,6 +24226,9 @@
   <programme channel="tv.51" start="20180615210000 +0000" stop="20180615220000 +0000">
     <title>Jono And Ben</title>
     <desc>New Episode. Jono and Ben hit the streets to prank the public in their new sports segment, Guy gets caught in between two rival Countdown Supermarkets, and Laura Daniel is back as Jacinda!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.51" start="20180615220000 +0000" stop="20180616010000 +0000">
     <title>The Edge Fresh 40</title>
