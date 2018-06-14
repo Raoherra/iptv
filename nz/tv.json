@@ -14,7 +14,8 @@
             "codec": "aac",
             "channels": 2,
             "sample_rate": 48000
-        }
+        },
+        "type": "hls"
     },
     "tv.10": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.10.png",
@@ -31,7 +32,8 @@
             "codec": "aac",
             "channels": 2,
             "sample_rate": 48000
-        }
+        },
+        "type": "hls"
     },
     "tv.11": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.11.png",
@@ -48,7 +50,8 @@
             "codec": "aac",
             "channels": 2,
             "sample_rate": "44100"
-        }
+        },
+        "type": "hls"
     },
     "tv.12": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.12.png",
@@ -65,7 +68,8 @@
             "codec": "aac",
             "channels": 2,
             "sample_rate": "44100"
-        }
+        },
+        "type": "hls"
     },
     "tv.65": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.65.png",
@@ -99,7 +103,8 @@
             "codec": "",
             "sample_rate": 0,
             "channels": 0
-        }
+        },
+        "type": "hls"
     },
     "tv.46": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.46.png",
@@ -116,7 +121,8 @@
             "sample_rate": 44100,
             "channels": 2,
             "codec": "aac"
-        }
+        },
+        "type": "hls"
     },
     "tv.51": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.51.png",
@@ -133,7 +139,8 @@
             "sample_rate": 0,
             "channels": 0,
             "codec": ""
-        }
+        },
+        "type": "hls"
     },
     "tv.45": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.45.png",
@@ -268,6 +275,7 @@
             "codec": "aac"
         },
         "description": "Red Bull TV: beyond the ordinary live events and videos featuring inspirational stories covering sports, music and lifestyle entertainment. Anytime, anywhere.",
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png",
+        "type": "hls"
     }
 }
