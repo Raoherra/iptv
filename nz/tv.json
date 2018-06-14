@@ -14,8 +14,7 @@
             "codec": "aac",
             "sample_rate": 48000,
             "channels": 2
-        },
-        "type": "hls"
+        }
     },
     "tv.10": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.10.png",
@@ -32,8 +31,7 @@
             "sample_rate": 0,
             "channels": 0,
             "codec": ""
-        },
-        "type": "hls"
+        }
     },
     "tv.11": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.11.png",
@@ -50,8 +48,7 @@
             "sample_rate": 0,
             "channels": 0,
             "codec": ""
-        },
-        "type": "hls"
+        }
     },
     "tv.12": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.12.png",
@@ -68,8 +65,7 @@
             "sample_rate": 0,
             "codec": "",
             "channels": 0
-        },
-        "type": "hls"
+        }
     },
     "tv.65": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.65.png",
@@ -86,8 +82,7 @@
             "codec": "aac",
             "sample_rate": 44100,
             "channels": 2
-        },
-        "type": "hls"
+        }
     },
     "tv.55": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.55.png",
@@ -104,8 +99,7 @@
             "sample_rate": 0,
             "channels": 0,
             "codec": ""
-        },
-        "type": "hls"
+        }
     },
     "tv.46": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.46.png",
@@ -122,8 +116,7 @@
             "codec": "aac",
             "sample_rate": 44100,
             "channels": 2
-        },
-        "type": "hls"
+        }
     },
     "tv.51": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.51.png",
@@ -140,8 +133,7 @@
             "codec": "aac",
             "sample_rate": 44100,
             "channels": 2
-        },
-        "type": "hls"
+        }
     },
     "tv.45": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.45.png",
@@ -276,7 +268,6 @@
             "channels": 2
         },
         "description": "Red Bull TV: beyond the ordinary live events and videos featuring inspirational stories covering sports, music and lifestyle entertainment. Anytime, anywhere.",
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png",
-        "type": "hls"
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"
     }
 }
