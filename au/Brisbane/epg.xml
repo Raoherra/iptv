@@ -1650,6 +1650,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180622140000 +0000" stop="20180622143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180614134100 +0000" stop="20180614140400 +0000">
     <title>30 Rock</title>
     <rating system="Freeview">
@@ -13077,6 +13084,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204000407" start="20180622140000 +0000" stop="20180622143000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.10120400040A" start="20180614134500 +0000" stop="20180614144300 +0000">
     <title>Rizzoli &amp; Isles</title>
     <subtitles type="teletext"/>
@@ -16265,6 +16278,12 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.10120400040B" start="20180622140000 +0000" stop="20180622150000 +0000">
+    <title>Total Divas</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020528" start="20180614130000 +0000" stop="20180614140000 +0000">
     <title>Get On!</title>
     <subtitles type="teletext"/>
@@ -18297,6 +18316,13 @@
   </programme>
   <programme channel="tv.101305020528" start="20180622133000 +0000" stop="20180622140000 +0000">
     <title>The Trial Show</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180622140000 +0000" stop="20180622143000 +0000">
+    <title>Raceday Review - Geelong</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -21252,13 +21278,13 @@
     </rating>
   </programme>
   <programme channel="tv.101305040543" start="20180615043000 +0000" stop="20180615050400 +0000">
-    <title>2018 Australian Rally Championship</title>
+    <title>Australian Off Road Championships</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305040543" start="20180615043000 +0000" stop="20180615050400 +0000">
-    <title>Australian Off Road Championships</title>
+    <title>2018 Australian Rally Championship</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -32908,16 +32934,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180616013000 +0000" stop="20180616022500 +0000">
-    <title>Bizarre Foods With Andrew Zimmern</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000304" start="20180616013000 +0000" stop="20180616020000 +0000">
     <title>Giada Entertains</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180616013000 +0000" stop="20180616022500 +0000">
+    <title>Bizarre Foods With Andrew Zimmern</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180616020000 +0000" stop="20180616025500 +0000">
@@ -32998,14 +33024,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180616060000 +0000" stop="20180616063000 +0000">
-    <title>Big Bad BBQ Brawl</title>
+  <programme channel="tv.320203000304" start="20180616060000 +0000" stop="20180616065500 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180616060000 +0000" stop="20180616065500 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
+  <programme channel="tv.320203000304" start="20180616060000 +0000" stop="20180616063000 +0000">
+    <title>Big Bad BBQ Brawl</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -33082,16 +33108,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180616113000 +0000" stop="20180616122500 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000304" start="20180616113000 +0000" stop="20180616120000 +0000">
     <title>Secret Eats with Adam Richman</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180616113000 +0000" stop="20180616122500 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180616120000 +0000" stop="20180616122500 +0000">
@@ -37091,15 +37117,11 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180614201337 +0000" stop="20180614210713 +0000">
-    <title>Archaic Festivals S1E2</title>
-    <desc>This 500-year-old tradition sees the Spanish towns of Guadix and Baza go to mock-battle over a holy statue.</desc>
-    <sub-title>Cascamorras</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180614210713 +0000" stop="20180614212915 +0000">
-    <title>Reel Rock S1E1</title>
-    <desc>A legendary sport climber and the young phenom hot on his heels team up to send the world's hardest route.</desc>
-    <sub-title>La Dura Dura</sub-title>
+  <programme channel="tv.320203000305" start="20180622140000 +0000" stop="20180622150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.redbull.tv" start="20180614212915 +0000" stop="20180614221250 +0000">
     <title>Karl Meltzer: Made to Be Broken</title>

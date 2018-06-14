@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180614201337 +0000" stop="20180614210713 +0000">
-    <title>Archaic Festivals S1E2</title>
-    <desc>This 500-year-old tradition sees the Spanish towns of Guadix and Baza go to mock-battle over a holy statue.</desc>
-    <sub-title>Cascamorras</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180614210713 +0000" stop="20180614212915 +0000">
-    <title>Reel Rock S1E1</title>
-    <desc>A legendary sport climber and the young phenom hot on his heels team up to send the world's hardest route.</desc>
-    <sub-title>La Dura Dura</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180614212915 +0000" stop="20180614221250 +0000">
     <title>Karl Meltzer: Made to Be Broken</title>
     <desc>Ultrarunner Karl Meltzer embarks on his third and final attempt to cross the Appalachian Trail in record time.</desc>
@@ -43466,6 +43456,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180622140000 +0000" stop="20180622143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180614135900 +0000" stop="20180614144600 +0000">
     <title>Doc Martin</title>
     <subtitles type="teletext"/>
@@ -54893,6 +54890,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200424" start="20180622140000 +0000" stop="20180622143000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200427" start="20180614134500 +0000" stop="20180614144300 +0000">
     <title>Rizzoli &amp; Isles</title>
     <subtitles type="teletext"/>
@@ -58079,6 +58082,12 @@
     <title>WWE Smackdown</title>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20180622140000 +0000" stop="20180622150000 +0000">
+    <title>Total Divas</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180614133000 +0000" stop="20180614143900 +0000">
@@ -65973,6 +65982,13 @@
   </programme>
   <programme channel="tv.101305020528" start="20180622133000 +0000" stop="20180622140000 +0000">
     <title>The Trial Show</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180622140000 +0000" stop="20180622143000 +0000">
+    <title>Raceday Review - Geelong</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -74895,8 +74911,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180616133000 +0000" stop="20180616142500 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
+  <programme channel="tv.320203000304" start="20180616133000 +0000" stop="20180616135500 +0000">
+    <title>Celebrity Food Fight</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -75081,10 +75097,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180617030000 +0000" stop="20180617035500 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
+  <programme channel="tv.320203000304" start="20180617030000 +0000" stop="20180617033000 +0000">
+    <title>Surfing the Menu: The Next Generation</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180617033000 +0000" stop="20180617042500 +0000">
@@ -75117,10 +75133,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180617050000 +0000" stop="20180617053000 +0000">
-    <title>Big Bad BBQ Brawl</title>
+  <programme channel="tv.320203000304" start="20180617050000 +0000" stop="20180617055500 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180617053000 +0000" stop="20180617060000 +0000">
@@ -75136,9 +75152,9 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180617060000 +0000" stop="20180617065500 +0000">
-    <title>Underground Bbq Challenge</title>
+    <title>Anthony Bourdain: No Reservations</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180617065500 +0000" stop="20180617070000 +0000">
@@ -75219,10 +75235,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180617123000 +0000" stop="20180617130000 +0000">
-    <title>Man Fire Food</title>
+  <programme channel="tv.320203000304" start="20180617123000 +0000" stop="20180617132500 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180617130000 +0000" stop="20180617132500 +0000">
@@ -78804,6 +78820,12 @@
   </programme>
   <programme channel="tv.320203000305" start="20180622133000 +0000" stop="20180622140000 +0000">
     <title>Men Don't Cry</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180622140000 +0000" stop="20180622150000 +0000">
+    <title>Volumz</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
