@@ -1317,7 +1317,7 @@
         "genres": [
             "Top 40 & Pop"
         ],
-        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7799.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7799|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "sample_rate": 44100,
             "channels": 2,
@@ -1843,6 +1843,25 @@
             "codec": "aac",
             "channels": 2,
             "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7345": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7345.png",
+        "name": "WINTER FESTIVAL RADIO",
+        "description": "Queenstown Winter Festival Radio",
+        "genres": [
+            "Mix & Variety"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7345|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
+        },
+        "audio": {
+            "channels": 2,
+            "sample_rate": 44100,
+            "codec": "aac"
         }
     }
 }

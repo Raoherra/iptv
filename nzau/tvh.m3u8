@@ -253,7 +253,7 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/radio.ih.6939 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6939 -f mpegts pipe:1
 
 #EXTINF:-1 tvg-name="069" tvg-id="radio.ih.7799" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7799.png" radio="true",Hokonui
-pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/radio.ih.7799.aac -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7799 -f mpegts pipe:1
+pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/radio.ih.7799 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7799 -f mpegts pipe:1
 
 #EXTINF:-1 tvg-name="070" tvg-id="radio.ih.6867" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6867.png" radio="true",Radio New Zealand Concert
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/radio.ih.6867 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6867 -f mpegts pipe:1
@@ -344,6 +344,9 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r
 
 #EXTINF:-1 tvg-name="099" tvg-id="radio.ih.7894" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7894.png" radio="true",Basement 96.1
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/radio.ih.7894.aac -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7894 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="100" tvg-id="radio.ih.7345" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7345.png" radio="true",WINTER FESTIVAL RADIO
+pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/radio.ih.7345 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7345 -f mpegts pipe:1
 
 #EXTINF:-1 tvg-name="001" tvg-id="tv.101305020522" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020522.png",7TWO
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Sydney/tv.101305020522.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305020522 -f mpegts pipe:1
