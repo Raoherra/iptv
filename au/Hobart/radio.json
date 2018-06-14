@@ -31,9 +31,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7123.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7118": {
@@ -46,9 +51,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7118.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7125": {
@@ -61,9 +71,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7125.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7112": {
@@ -78,9 +93,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7112.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7124": {
@@ -93,9 +113,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7124.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7110": {
@@ -109,9 +134,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7110.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 1,
-            "sample_rate": "48000"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7143": {
@@ -124,9 +154,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7143.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 1,
-            "sample_rate": "48000"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7131": {
@@ -140,9 +175,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7131.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 1,
-            "sample_rate": "48000"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7421": {
@@ -156,9 +196,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7421|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
             "channels": 2,
-            "sample_rate": "44100"
+            "sample_rate": 44100,
+            "codec": "aac"
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.6995": {
@@ -170,9 +215,36 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6995.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
+        }
+    },
+    "radio.ih.7308": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7308.png",
+        "name": "Bondi Radio",
+        "description": "Escape to a Tropical Life on Bondi Beach",
+        "genres": [
+            "R&B",
+            "Reggae & Island",
+            "Top 40 & Pop",
+            "Alternative"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7308.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "audio": {
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.6178": {
@@ -185,9 +257,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6178.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.curtin.radio": {
@@ -196,9 +273,14 @@
         "name": "Curtin Radio",
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.curtin.radio|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "mp3",
             "channels": 1,
-            "sample_rate": "44100"
+            "sample_rate": 44100,
+            "codec": "mp3"
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.double.j": {
@@ -207,9 +289,14 @@
         "description": "It's the best music from your past, present and future.",
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.double.j|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
             "channels": 2,
-            "sample_rate": "48000"
+            "sample_rate": 48000,
+            "codec": "aac"
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7260": {
@@ -222,9 +309,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7260.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7547": {
@@ -241,9 +333,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7547|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
             "channels": 2,
-            "sample_rate": "32000"
+            "sample_rate": 32000,
+            "codec": "aac"
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7890": {
@@ -256,9 +353,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7890|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
             "channels": 2,
-            "sample_rate": "44100"
+            "sample_rate": 44100,
+            "codec": "aac"
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.6970": {
@@ -270,9 +372,37 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6970.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
+        }
+    },
+    "radio.ih.6530": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6530.png",
+        "name": "Noise11",
+        "description": "Artists making the headlines this week. ",
+        "genres": [
+            "80s & 90s Hits",
+            "Alternative",
+            "Classic Rock",
+            "Top 40 & Pop",
+            "Rock"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6530.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
+        },
+        "audio": {
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
         }
     },
     "radio.ih.7111": {
@@ -286,9 +416,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7111.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 1,
-            "sample_rate": "48000"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7415": {
@@ -303,9 +438,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7415|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
             "channels": 2,
-            "sample_rate": "44100"
+            "sample_rate": 44100,
+            "codec": "aac"
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7030": {
@@ -320,9 +460,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7030.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7029": {
@@ -336,9 +481,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7029.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7028": {
@@ -352,9 +502,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7028.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7031": {
@@ -368,9 +523,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7031.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7025": {
@@ -385,9 +545,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7025.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 1,
-            "sample_rate": "44100"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7026": {
@@ -402,9 +567,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7026.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7293": {
@@ -420,9 +590,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7293.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.6794": {
@@ -441,9 +616,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6794.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.6793": {
@@ -462,9 +642,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6793.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.6180": {
@@ -479,9 +664,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6180.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7419": {
@@ -496,9 +686,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7419|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
             "channels": 2,
-            "sample_rate": "44100"
+            "sample_rate": 44100,
+            "codec": "aac"
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7050": {
@@ -517,9 +712,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7050|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
             "channels": 2,
-            "sample_rate": "44100"
+            "sample_rate": 44100,
+            "codec": "aac"
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7222": {
@@ -532,9 +732,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7222.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.6902": {
@@ -549,9 +754,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6902.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.6941": {
@@ -565,9 +775,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6941.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.6996": {
@@ -580,9 +795,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6996.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7075": {
@@ -603,9 +823,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7075|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
             "channels": 2,
-            "sample_rate": "44100"
+            "sample_rate": 44100,
+            "codec": "aac"
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7115": {
@@ -625,9 +850,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7115.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     },
     "radio.ih.7116": {
@@ -639,9 +869,14 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7116.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
+            "channels": 0,
+            "sample_rate": 0,
+            "codec": ""
+        },
+        "video": {
+            "height": 0,
+            "width": 0,
+            "codec": ""
         }
     }
 }

@@ -60,14 +60,14 @@
         "description": "Bravo is Life. Lived Large! New Zealand's newest TV channel delivering high-quality original unscripted programming",
         "url": "http://iptv.matthuisman.nz/nz/tv.12.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "codec": "h264",
-            "width": 852,
-            "height": 480
+            "height": 0,
+            "codec": "",
+            "width": 0
         },
         "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "sample_rate": 0,
+            "codec": "",
+            "channels": 0
         },
         "type": "hls"
     },
@@ -201,14 +201,14 @@
         "description": "A channel dedicated to local Chinese people",
         "url": "http://iptv.matthuisman.nz/nz/tv.21.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 280,
             "codec": "h264",
-            "width": 504,
-            "height": 280
+            "width": 504
         },
         "audio": {
+            "sample_rate": 44100,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "channels": 2
         }
     },
     "tv.18": {
@@ -218,14 +218,14 @@
         "description": "Broadcasts the full unedited proceedings of Parliament",
         "url": "http://iptv.matthuisman.nz/nz/tv.18.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 576,
             "codec": "h264",
-            "width": 1024,
-            "height": 576
+            "width": 1024
         },
         "audio": {
+            "sample_rate": 44100,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
+            "channels": 2
         }
     },
     "tv.8": {
