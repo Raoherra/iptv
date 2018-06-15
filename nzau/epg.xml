@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180615205803 +0000" stop="20180615213535 +0000">
-    <title>Follow the Wind</title>
-    <desc>Using wind power to travel, Jerrie van de Kop sets out to explore the regions of Zanzibar and Tanzania.</desc>
-    <sub-title>A Journey to Raise Awareness</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180615213535 +0000" stop="20180615223248 +0000">
     <title>Moto 8: The Movie</title>
     <desc>The motocross bar is raised again as the greatest riders in the game explore the world’s most epic locations.</desc>
@@ -42889,6 +42884,12 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180623140000 +0000" stop="20180623141500 +0000">
+    <title>ABC Late News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180615133600 +0000" stop="20180615140700 +0000">
     <title>The Weekly With Charlie Pickering</title>
     <subtitles type="teletext"/>
@@ -52671,6 +52672,13 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200421" start="20180623140000 +0000" stop="20180623160000 +0000">
+    <title>Just Cause</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200424" start="20180615130000 +0000" stop="20180615140000 +0000">
     <title>Lakefront Bargain Hunt Renovation</title>
     <rating system="Freeview">
@@ -54228,6 +54236,12 @@
     <title>House Hunters International</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200424" start="20180623140000 +0000" stop="20180623150000 +0000">
+    <title>Hotel Impossible</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20180615131500 +0000" stop="20180615141100 +0000">
@@ -57375,6 +57389,12 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200428" start="20180623140000 +0000" stop="20180623140500 +0000">
+    <title>[adult swim]</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020520" start="20180615130000 +0000" stop="20180615140000 +0000">
     <title>Splitting Up Together</title>
     <subtitles type="teletext"/>
@@ -58528,6 +58548,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020520" start="20180623140000 +0000" stop="20180623160000 +0000">
+    <title>Reaper</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180615135000 +0000" stop="20180615150000 +0000">
@@ -66529,6 +66556,13 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101406020621" start="20180623140000 +0000" stop="20180623150000 +0000">
+    <title>NCIS</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406020625" start="20180615133800 +0000" stop="20180615143800 +0000">
     <title>The Project</title>
     <subtitles type="teletext"/>
@@ -73238,6 +73272,12 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000302" start="20180623140000 +0000" stop="20180623143000 +0000">
+    <title>The Movie Show</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000304" start="20180615135500 +0000" stop="20180615140000 +0000">
     <title>Destination Flavour</title>
     <rating system="Freeview">
@@ -73418,10 +73458,10 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180616040000 +0000" stop="20180616043000 +0000">
-    <title>Reza: Spice Prince of India</title>
+  <programme channel="tv.320203000304" start="20180616040000 +0000" stop="20180616045500 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180616043000 +0000" stop="20180616050000 +0000">
@@ -73532,10 +73572,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180616113000 +0000" stop="20180616122500 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
+  <programme channel="tv.320203000304" start="20180616113000 +0000" stop="20180616120000 +0000">
+    <title>Secret Eats with Adam Richman</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180616120000 +0000" stop="20180616122500 +0000">
@@ -73568,8 +73608,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180616133000 +0000" stop="20180616142500 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
+  <programme channel="tv.320203000304" start="20180616133000 +0000" stop="20180616135500 +0000">
+    <title>Celebrity Food Fight</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -77777,6 +77817,12 @@
   </programme>
   <programme channel="tv.320203000305" start="20180623133000 +0000" stop="20180623140000 +0000">
     <title>Destiny in Alice</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180623140000 +0000" stop="20180623150000 +0000">
+    <title>Volumz</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
