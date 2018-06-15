@@ -280,21 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180615052411 +0000" stop="20180615061937 +0000">
-    <title>Red Bull Air Race 2018</title>
-    <desc>Red Bull Air Race's return to Chiba, Japan, was packed with action.</desc>
-    <sub-title>Recap: Chiba</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180615061937 +0000" stop="20180615064650 +0000">
-    <title>Sharing the Sky</title>
-    <desc>Multi-discipline pilot Andy Hediger was born to fly, but a near-fatal crash almost clips his wings forever.</desc>
-    <sub-title>Andy Hediger's Fight for Flight </sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180615064650 +0000" stop="20180615065138 +0000">
-    <title>Out of Frame S3E1</title>
-    <desc>Going blind didn’t stop Dan Mancina from pursuing his skateboarding passion.</desc>
-    <sub-title>Dan Mancina</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180615065138 +0000" stop="20180615073438 +0000">
     <title>1947</title>
     <desc>The LRG skate team arrive with their second feature length film packed with technical skateboarding.</desc>
@@ -5616,20 +5601,26 @@
     <title>The Project</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
-  <programme channel="tv.11" start="20180615080000 +0000" stop="20180615090000 +0000">
+  <programme channel="tv.11" start="20180615080000 +0000" stop="20180615090500 +0000">
     <title>All New The Graham Norton Show</title>
     <desc>New Episode. Graham is joined by Usain Bolt, Channing Tatum, Jennifer Saunders, Beattie Edmondson, Rob Brydon and Florence and the Machine. S23 Ep10</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180615090000 +0000" stop="20180615094500 +0000">
+  <programme channel="tv.11" start="20180615090500 +0000" stop="20180615094500 +0000">
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Alice Snedden, Josh Thomson, Urzila Carlson and Rhys Mathewson.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180615094500 +0000" stop="20180615101500 +0000">
     <title>Funny Girls</title>
     <desc>Final. New Episode. It's the final episode of Funny Girls' third season and we're going out with a bang! Veganism, gay men, unisex bathrooms - we've got more issues then an hormonal teenager. S3 Ep6</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180615101500 +0000" stop="20180615104500 +0000">
     <title>Newshub Late</title>
@@ -5744,7 +5735,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180616085500 +0000" stop="20180616111000 +0000">
-    <title>William Shakespeare's Romeo + Juliet</title>
+    <title>Romeo + Juliet</title>
     <desc>Mixing Shakespeare's classic prose with contemporary imagery, this is a brilliant interpretation of the timeless tale of star-crossed lovers. Starring Leonardo DiCaprio and Claire Danes. (1996)</desc>
     <audio>
       <stereo>dolby</stereo>
@@ -6017,26 +6008,26 @@
     <title>All New Lost &amp; Found</title>
     <desc>New Episode. Rawiri was given up for adoption at birth and is looking for his mother, and a stay at home mum is looking for her Dutch father who was never part of her life.</desc>
   </programme>
-  <programme channel="tv.11" start="20180618093000 +0000" stop="20180618103500 +0000">
+  <programme channel="tv.11" start="20180618093000 +0000" stop="20180618103000 +0000">
     <title>Serial Killer With Piers Morgan</title>
     <desc>Final. New Episode. Piers comes face to face with Lorenzo Gilyard - the Kansas City Strangler. S1 Ep2</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180618103500 +0000" stop="20180618110500 +0000">
+  <programme channel="tv.11" start="20180618103000 +0000" stop="20180618110000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.11" start="20180618110500 +0000" stop="20180618113500 +0000">
+  <programme channel="tv.11" start="20180618110000 +0000" stop="20180618113000 +0000">
     <title>The Hui</title>
     <desc>Mihingarangi Forbes presents a compelling mix of current affairs investigations, human interest and arts and culture stories.</desc>
   </programme>
-  <programme channel="tv.11" start="20180618113500 +0000" stop="20180618124000 +0000">
+  <programme channel="tv.11" start="20180618113000 +0000" stop="20180618123500 +0000">
     <title>Newshub Nation</title>
     <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
   </programme>
-  <programme channel="tv.11" start="20180618124000 +0000" stop="20180618170000 +0000">
+  <programme channel="tv.11" start="20180618123500 +0000" stop="20180618170000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -7658,6 +7649,9 @@
   <programme channel="tv.12" start="20180621093000 +0000" stop="20180621103000 +0000">
     <title>SVU</title>
     <desc>In the 15th-season opener, Benson is held captive and the squad take extreme measures to find her and her abductor, but they worry they might be out of time. S15 Ep1</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180621103000 +0000" stop="20180621112500 +0000">
     <title>Killer Couples</title>
@@ -12876,20 +12870,26 @@
     <title>The Project</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
-  <programme channel="tv.27" start="20180615090000 +0000" stop="20180615100000 +0000">
+  <programme channel="tv.27" start="20180615090000 +0000" stop="20180615100500 +0000">
     <title>All New The Graham Norton Show</title>
     <desc>New Episode. Graham is joined by Usain Bolt, Channing Tatum, Jennifer Saunders, Beattie Edmondson, Rob Brydon and Florence and the Machine. S23 Ep10</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180615100000 +0000" stop="20180615104500 +0000">
+  <programme channel="tv.27" start="20180615100500 +0000" stop="20180615104500 +0000">
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Alice Snedden, Josh Thomson, Urzila Carlson and Rhys Mathewson.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180615104500 +0000" stop="20180615111500 +0000">
     <title>Funny Girls</title>
     <desc>Final. New Episode. It's the final episode of Funny Girls' third season and we're going out with a bang! Veganism, gay men, unisex bathrooms - we've got more issues then an hormonal teenager. S3 Ep6</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180615111500 +0000" stop="20180615114500 +0000">
     <title>Newshub Late</title>
@@ -12995,7 +12995,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180616095500 +0000" stop="20180616121000 +0000">
-    <title>William Shakespeare's Romeo + Juliet</title>
+    <title>Romeo + Juliet</title>
     <desc>Mixing Shakespeare's classic prose with contemporary imagery, this is a brilliant interpretation of the timeless tale of star-crossed lovers. Starring Leonardo DiCaprio and Claire Danes. (1996)</desc>
     <rating system="Freeview">
       <value>PGR</value>
@@ -13259,26 +13259,26 @@
     <title>All New Lost &amp; Found</title>
     <desc>New Episode. Rawiri was given up for adoption at birth and is looking for his mother, and a stay at home mum is looking for her Dutch father who was never part of her life.</desc>
   </programme>
-  <programme channel="tv.27" start="20180618103000 +0000" stop="20180618113500 +0000">
+  <programme channel="tv.27" start="20180618103000 +0000" stop="20180618113000 +0000">
     <title>Serial Killer With Piers Morgan</title>
     <desc>Final. New Episode. Piers comes face to face with Lorenzo Gilyard - the Kansas City Strangler. S1 Ep2</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180618113500 +0000" stop="20180618120500 +0000">
+  <programme channel="tv.27" start="20180618113000 +0000" stop="20180618120000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.27" start="20180618120500 +0000" stop="20180618123500 +0000">
+  <programme channel="tv.27" start="20180618120000 +0000" stop="20180618123000 +0000">
     <title>The Hui</title>
     <desc>Mihingarangi Forbes presents a compelling mix of current affairs investigations, human interest and arts and culture stories.</desc>
   </programme>
-  <programme channel="tv.27" start="20180618123500 +0000" stop="20180618134000 +0000">
+  <programme channel="tv.27" start="20180618123000 +0000" stop="20180618133500 +0000">
     <title>Newshub Nation</title>
     <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
   </programme>
-  <programme channel="tv.27" start="20180618134000 +0000" stop="20180618180000 +0000">
+  <programme channel="tv.27" start="20180618133500 +0000" stop="20180618180000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -14864,6 +14864,9 @@
   <programme channel="tv.30" start="20180621103000 +0000" stop="20180621113000 +0000">
     <title>SVU</title>
     <desc>In the 15th-season opener, Benson is held captive and the squad take extreme measures to find her and her abductor, but they worry they might be out of time. S15 Ep1</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180621113000 +0000" stop="20180621122500 +0000">
     <title>Killer Couples</title>
@@ -74619,7 +74622,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180616030000 +0000" stop="20180616035500 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
+    <title>Bakers Vs. Fakers</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -74630,10 +74633,10 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180616040000 +0000" stop="20180616045500 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
+  <programme channel="tv.320203000304" start="20180616040000 +0000" stop="20180616043000 +0000">
+    <title>Reza: Spice Prince of India</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180616043000 +0000" stop="20180616050000 +0000">
@@ -74666,8 +74669,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180616060000 +0000" stop="20180616063000 +0000">
-    <title>Big Bad BBQ Brawl</title>
+  <programme channel="tv.320203000304" start="20180616060000 +0000" stop="20180616065500 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -74948,10 +74951,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180617020000 +0000" stop="20180617025500 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
+  <programme channel="tv.320203000304" start="20180617020000 +0000" stop="20180617023000 +0000">
+    <title>Bizarre Foods: Delicious Destinations</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180617023000 +0000" stop="20180617030000 +0000">
@@ -74966,10 +74969,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180617030000 +0000" stop="20180617035500 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
+  <programme channel="tv.320203000304" start="20180617030000 +0000" stop="20180617033000 +0000">
+    <title>Surfing the Menu: The Next Generation</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180617033000 +0000" stop="20180617042500 +0000">
@@ -75002,10 +75005,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180617050000 +0000" stop="20180617053000 +0000">
-    <title>Big Bad BBQ Brawl</title>
+  <programme channel="tv.320203000304" start="20180617050000 +0000" stop="20180617055500 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180617053000 +0000" stop="20180617060000 +0000">
@@ -75122,10 +75125,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180617133000 +0000" stop="20180617142500 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
+  <programme channel="tv.320203000304" start="20180617133000 +0000" stop="20180617135500 +0000">
+    <title>Celebrity Food Fight</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180617135500 +0000" stop="20180617142000 +0000">
