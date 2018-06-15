@@ -5,14 +5,14 @@
         "name": "7TWO",
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030532.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "width": 896,
+            "height": 504,
             "codec": "h264",
-            "height": 504
+            "width": 896
         },
         "audio": {
-            "channels": 2,
             "codec": "aac",
-            "sample_rate": 48000
+            "sample_rate": 48000,
+            "channels": 2
         }
     },
     "tv.101305030535": {
@@ -21,14 +21,14 @@
         "name": "7flix",
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030535.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "width": 640,
+            "height": 360,
             "codec": "h264",
-            "height": 360
+            "width": 640
         },
         "audio": {
-            "channels": 2,
             "codec": "aac",
-            "sample_rate": 48000
+            "sample_rate": 48000,
+            "channels": 2
         }
     },
     "tv.101305030533": {
@@ -37,14 +37,14 @@
         "name": "7mate",
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030533.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "width": 896,
+            "height": 504,
             "codec": "h264",
-            "height": 504
+            "width": 896
         },
         "audio": {
-            "channels": 2,
             "codec": "aac",
-            "sample_rate": 48000
+            "sample_rate": 48000,
+            "channels": 2
         }
     },
     "tv.101204300436": {
@@ -101,14 +101,14 @@
         "name": "ABC",
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002310231.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "width": 640,
+            "height": 360,
             "codec": "h264",
-            "height": 360
+            "width": 640
         },
         "audio": {
-            "channels": 2,
             "codec": "aac",
-            "sample_rate": 48000
+            "sample_rate": 48000,
+            "channels": 2
         }
     },
     "tv.101002210222": {
@@ -133,14 +133,14 @@
         "name": "ABC ME",
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "width": 640,
+            "height": 360,
             "codec": "h264",
-            "height": 360
+            "width": 640
         },
         "audio": {
-            "channels": 2,
             "codec": "aac",
-            "sample_rate": 48000
+            "sample_rate": 48000,
+            "channels": 2
         }
     },
     "tv.101002210220": {
@@ -179,7 +179,12 @@
         "channel": "101406030638",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406030638.png",
         "name": "ELEVEN",
-        "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101406030638.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101406030638.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 44100,
+            "channels": 2
+        }
     },
     "tv.320203000304": {
         "channel": "320203000304",
@@ -187,14 +192,14 @@
         "name": "Food Network",
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "width": 1024,
+            "height": 576,
             "codec": "h264",
-            "height": 576
+            "width": 1024
         },
         "audio": {
-            "channels": 2,
             "codec": "aac",
-            "sample_rate": 48000
+            "sample_rate": 48000,
+            "channels": 2
         }
     },
     "tv.fox.sports.news": {
@@ -208,8 +213,8 @@
         },
         "audio": {
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 44100
+            "sample_rate": 44100,
+            "channels": 2
         }
     },
     "tv.320203000305": {
@@ -218,21 +223,31 @@
         "name": "NITV",
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "width": 1024,
+            "height": 576,
             "codec": "h264",
-            "height": 576
+            "width": 1024
         },
         "audio": {
-            "channels": 2,
             "codec": "aac",
-            "sample_rate": 48000
+            "sample_rate": 48000,
+            "channels": 2
         }
     },
     "tv.101406030631": {
         "channel": "101406030631",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406030631.png",
         "name": "ONE",
-        "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101406030631.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101406030631.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "height": 576,
+            "codec": "h264",
+            "width": 1024
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 44100,
+            "channels": 2
+        }
     },
     "tv.101305020528": {
         "channel": "101305020528",
@@ -240,14 +255,14 @@
         "name": "RACING.COM",
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305020528.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "width": 640,
+            "height": 360,
             "codec": "h264",
-            "height": 360
+            "width": 640
         },
         "audio": {
-            "channels": 2,
             "codec": "aac",
-            "sample_rate": 48000
+            "sample_rate": 48000,
+            "channels": 2
         }
     },
     "tv.redbull.tv": {
@@ -261,8 +276,8 @@
         },
         "audio": {
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 48000
+            "sample_rate": 48000,
+            "channels": 2
         },
         "description": "Red Bull TV: beyond the ordinary live events and videos featuring inspirational stories covering sports, music and lifestyle entertainment. Anytime, anywhere."
     },
@@ -272,14 +287,14 @@
         "name": "SBS",
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "width": 1024,
+            "height": 576,
             "codec": "h264",
-            "height": 576
+            "width": 1024
         },
         "audio": {
-            "channels": 2,
             "codec": "aac",
-            "sample_rate": 48000
+            "sample_rate": 48000,
+            "channels": 2
         }
     },
     "tv.320203000302": {
@@ -288,14 +303,14 @@
         "name": "SBS VICELAND",
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.320203000302.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "width": 1024,
+            "height": 576,
             "codec": "h264",
-            "height": 576
+            "width": 1024
         },
         "audio": {
-            "channels": 2,
             "codec": "aac",
-            "sample_rate": 48000
+            "sample_rate": 48000,
+            "channels": 2
         }
     },
     "tv.101305030530": {
@@ -304,20 +319,25 @@
         "name": "Seven",
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030530.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "width": 896,
+            "height": 504,
             "codec": "h264",
-            "height": 504
+            "width": 896
         },
         "audio": {
-            "channels": 2,
             "codec": "aac",
-            "sample_rate": 48000
+            "sample_rate": 48000,
+            "channels": 2
         }
     },
     "tv.101406030635": {
         "channel": "101406030635",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406030635.png",
         "name": "TEN",
-        "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101406030635.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101406030635.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 44100,
+            "channels": 2
+        }
     }
 }
