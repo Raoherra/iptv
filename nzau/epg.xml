@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180615031350 +0000" stop="20180615043423 +0000">
-    <title>The Signal Hill Speed Run</title>
-    <desc>The contest that established downhill skateboarding was a festival of speed, partying, and danger.</desc>
-    <sub-title>The World’s First Skateboard Race</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180615043423 +0000" stop="20180615050103 +0000">
-    <title>The Ripple Effect S2E4</title>
-    <desc>Robert Williams elevated Lowbrow to new heights by pioneering a magazine that championed the rebels of art.</desc>
-    <sub-title>Juxtapoz</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180615050103 +0000" stop="20180615052411 +0000">
     <title>Brother</title>
     <desc>Kolohe Andino and friends shred the best waves of their lives. This is real surfing. This is Brother.</desc>
@@ -2315,6 +2305,9 @@
   <programme channel="tv.9" start="20180616203500 +0000" stop="20180616210000 +0000">
     <title>Waka Man</title>
     <desc>Join Waka Man, Alby Waititi, on a voyage of discovery as he paddles the waterways of Aotearoa, revealing what waka culture meant to us in the past and what it means for our future.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180616210000 +0000" stop="20180616220000 +0000">
     <title>Q+A</title>
@@ -2795,9 +2788,6 @@
   <programme channel="tv.9" start="20180620045500 +0000" stop="20180620060000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.9" start="20180620060000 +0000" stop="20180620070000 +0000">
     <title>1 News At 6pm</title>
@@ -4044,6 +4034,9 @@
   <programme channel="tv.10" start="20180617184000 +0000" stop="20180617185500 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animation sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180617185500 +0000" stop="20180617190000 +0000">
     <title>Peppa Pig</title>
@@ -4163,6 +4156,9 @@
   <programme channel="tv.10" start="20180618040000 +0000" stop="20180618043000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Natalia who is teaching sign language to her Jack Russell Star, your pawe-some photo could win a prize on Animal Lookalikes, and we show you how to make animal origami!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180618043000 +0000" stop="20180618050000 +0000">
     <title>Friends</title>
@@ -9881,6 +9877,9 @@
   <programme channel="tv.38" start="20180616213500 +0000" stop="20180616220000 +0000">
     <title>Waka Man</title>
     <desc>Join Waka Man, Alby Waititi, on a voyage of discovery as he paddles the waterways of Aotearoa, revealing what waka culture meant to us in the past and what it means for our future.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180616220000 +0000" stop="20180616230000 +0000">
     <title>Q+A</title>
@@ -10361,9 +10360,6 @@
   <programme channel="tv.38" start="20180620055500 +0000" stop="20180620070000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.38" start="20180620070000 +0000" stop="20180620080000 +0000">
     <title>1 News At 6pm</title>
@@ -11478,6 +11474,9 @@
   <programme channel="tv.14" start="20180617194000 +0000" stop="20180617195500 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animation sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180617195500 +0000" stop="20180617200000 +0000">
     <title>Peppa Pig</title>
@@ -11585,6 +11584,9 @@
   <programme channel="tv.14" start="20180618050000 +0000" stop="20180618053000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Natalia who is teaching sign language to her Jack Russell Star, your pawe-some photo could win a prize on Animal Lookalikes, and we show you how to make animal origami!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180618053000 +0000" stop="20180618060000 +0000">
     <title>Friends</title>
@@ -15134,6 +15136,9 @@
   <programme channel="tv.28" start="20180615020500 +0000" stop="20180615031000 +0000">
     <title>2018 FIFA World Cup Russia</title>
     <desc>'Catch the highlights from the first day of the 2018 FIFA World Cup Russia, from the excitement of the opening ceremony to the hottest action from the opening game between Russia and Saudi Arabia. G'</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180615031000 +0000" stop="20180615033500 +0000">
     <title>Wheel Of Fortune</title>
@@ -19738,7 +19743,7 @@
   </programme>
   <programme channel="tv.55" start="20180617115000 +0000" stop="20180617135000 +0000">
     <title>Live: RWC U20s 5th-6th Playoff</title>
-    <desc>Live coverage of the 5th and 6th play off from the Stade de la Mediterranee in Béziers, France.</desc>
+    <desc>Under 20s RWC Live coverage of the 5th and 6th play off from the Stade de la Mediterranee in Béziers, France between Argentina and Australia.</desc>
   </programme>
   <programme channel="tv.55" start="20180617135000 +0000" stop="20180617142000 +0000">
     <title>DUKE Back in the Future</title>
@@ -19746,7 +19751,7 @@
   </programme>
   <programme channel="tv.55" start="20180617142000 +0000" stop="20180617162000 +0000">
     <title>Live: RWC U20s 3rd - 4th Playoff</title>
-    <desc>Live coverage of the 3rd and 4th play off from the Stade de la Mediterranee in Béziers, France.</desc>
+    <desc>Under 20s RWC Live coverage of the 3rd and 4th play off between South Africa and New Zealand from the Stade de la Mediterranee in Béziers, France.</desc>
   </programme>
   <programme channel="tv.55" start="20180617162000 +0000" stop="20180617170000 +0000">
     <title>DUKE Back in the Future</title>
@@ -19754,11 +19759,11 @@
   </programme>
   <programme channel="tv.55" start="20180617170000 +0000" stop="20180617180000 +0000">
     <title>Live: RWC Under 20s Final</title>
-    <desc>Live coverage of the final of this years Under 20s Rugby World Cup from the Stade de la Mediterranee in Béziers, France.</desc>
+    <desc>Under 20s RWC Live coverage of the final of this years Under 20s Rugby World Cup between England and hosts France from the Stade de la Mediterranee in Béziers, France. Teams to be confirmed.</desc>
   </programme>
   <programme channel="tv.55" start="20180617180000 +0000" stop="20180617190000 +0000">
     <title>Live: RWC Under 20s</title>
-    <desc>Live coverage of the final of this years Under 20s Rugby World Cup from the Stade de la Mediterranee in Béziers, France.</desc>
+    <desc>Under 20s RWC Live coverage of the final of this years Under 20s Rugby World Cup between England and hosts France from the Stade de la Mediterranee in Béziers, France. Teams to be confirmed.</desc>
   </programme>
   <programme channel="tv.55" start="20180617190000 +0000" stop="20180617220500 +0000">
     <title>On DUKE today...</title>
@@ -19770,15 +19775,15 @@
   </programme>
   <programme channel="tv.55" start="20180618003500 +0000" stop="20180618023000 +0000">
     <title>RWC U20s 5th - 6th Playoff</title>
-    <desc>Replay of last night’s 5th and 6th play off from the Stade de la Mediterranee in Béziers, France.</desc>
+    <desc>Under 20s RWC Replay of last night’s 5th and 6th play off between Argentina and Australia from the Stade de la Mediterranee in Béziers, France. Teams to be confirmed.</desc>
   </programme>
   <programme channel="tv.55" start="20180618023000 +0000" stop="20180618043000 +0000">
     <title>RWC U20s 3rd - 4th Playoff</title>
-    <desc>Replay of this morning’s 3rd and 4th play off from the Stade de la Mediterranee in Béziers, France.</desc>
+    <desc>Under 20s RWC Replay of this morning’s 3rd and 4th play off between South Africa and New Zealand from the Stade de la Mediterranee in Béziers, France. Teams to be confirmed.</desc>
   </programme>
   <programme channel="tv.55" start="20180618043000 +0000" stop="20180618063000 +0000">
     <title>RWC Under 20s - Final</title>
-    <desc>Replay of the Under 20s Rugby World Cup Final from the Stade de la Mediterranee in Béziers, France. Teams to be confirmed.</desc>
+    <desc>Under 20s RWC Replay of this morning’s Under 20s Rugby World Cup Final between England and France from the Stade de la Mediterranee in Béziers, France. Teams to be confirmed.</desc>
   </programme>
   <programme channel="tv.55" start="20180618063000 +0000" stop="20180618073000 +0000">
     <title>American Pickers</title>
@@ -19854,7 +19859,7 @@
   </programme>
   <programme channel="tv.55" start="20180618115000 +0000" stop="20180618135000 +0000">
     <title>RWC Under 20s - Final</title>
-    <desc>Replay of the Under 20s Rugby World Cup Final from the Stade de la Mediterranee in Béziers, France. Teams to be confirmed.</desc>
+    <desc>Under 20s RWC Replay of this morning’s Under 20s Rugby World Cup Final between England and France from the Stade de la Mediterranee in Béziers, France. Teams to be confirmed.</desc>
   </programme>
   <programme channel="tv.55" start="20180618135000 +0000" stop="20180618180000 +0000">
     <title>DUKE Back in the Future</title>
@@ -20234,6 +20239,9 @@
   <programme channel="tv.55" start="20180622111000 +0000" stop="20180622120000 +0000">
     <title>New: Bar Rescue</title>
     <desc>Tonight, a former psychologist needs help running a Detroit jazz club when her interfering family undermines her leadership.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.20" start="20180614110000 +0000" stop="20180614233000 +0000">
     <title>Te Reo</title>
@@ -60955,7 +60963,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180615043000 +0000" stop="20180615050400 +0000">
-    <title>Australian Off Road Championships</title>
+    <title>2018 Australian Rally Championship</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -74749,10 +74757,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180616123000 +0000" stop="20180616130000 +0000">
-    <title>Man Fire Food</title>
+  <programme channel="tv.320203000304" start="20180616123000 +0000" stop="20180616132500 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180616130000 +0000" stop="20180616132500 +0000">
@@ -74767,8 +74775,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180616133000 +0000" stop="20180616142500 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
+  <programme channel="tv.320203000304" start="20180616133000 +0000" stop="20180616135500 +0000">
+    <title>Celebrity Food Fight</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -74935,10 +74943,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180617020000 +0000" stop="20180617025500 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
+  <programme channel="tv.320203000304" start="20180617020000 +0000" stop="20180617023000 +0000">
+    <title>Bizarre Foods: Delicious Destinations</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180617023000 +0000" stop="20180617030000 +0000">
@@ -74953,10 +74961,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180617030000 +0000" stop="20180617035500 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
+  <programme channel="tv.320203000304" start="20180617030000 +0000" stop="20180617033000 +0000">
+    <title>Surfing the Menu: The Next Generation</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180617033000 +0000" stop="20180617042500 +0000">
@@ -74989,10 +74997,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180617050000 +0000" stop="20180617053000 +0000">
-    <title>Big Bad BBQ Brawl</title>
+  <programme channel="tv.320203000304" start="20180617050000 +0000" stop="20180617055500 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180617053000 +0000" stop="20180617060000 +0000">
@@ -75109,10 +75117,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180617133000 +0000" stop="20180617135500 +0000">
-    <title>Celebrity Food Fight</title>
+  <programme channel="tv.320203000304" start="20180617133000 +0000" stop="20180617142500 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180617135500 +0000" stop="20180617142000 +0000">
