@@ -161,26 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180615012209 +0000" stop="20180615021004 +0000">
-    <title>The Smoke That Thunders</title>
-    <desc>Two world-class cliff divers face the most challenging dive of their lives: the world’s largest waterfall.</desc>
-    <sub-title>Staring Down the World’s Largest Waterfall</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180615021004 +0000" stop="20180615021212 +0000">
-    <title>Red Bull Cliff Diving World Series 2018</title>
-    <desc>See the biggest dives and feel the excitement as the new season begins. </desc>
-    <sub-title>Best of Texas</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180615021212 +0000" stop="20180615021633 +0000">
-    <title>Two Roads S1E2</title>
-    <desc>For Kristian, diving is a joy. He describes the mental strength required to bounce back from failure.</desc>
-    <sub-title>Kristian Ipsen</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180615021633 +0000" stop="20180615024424 +0000">
-    <title>ABC of... S1E1</title>
-    <desc>A down-and-dirty crash course in the jargon, pros, and events of motocross' toughest discipline, Hard Enduro.</desc>
-    <sub-title>ABC of... Hard Enduro</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180615024424 +0000" stop="20180615031350 +0000">
     <title>ABC of... S1E7</title>
     <desc>Get a crash course in mountain biking, with lessons in the terminology, history, and heroes of the sport.</desc>
@@ -15494,6 +15474,9 @@
   <programme channel="tv.28" start="20180618020500 +0000" stop="20180618031000 +0000">
     <title>2018 FIFA World Cup Russia</title>
     <desc>Catch the highlights from day four of the 2018 FIFA World Cup Russia. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180618031000 +0000" stop="20180618033500 +0000">
     <title>Wheel Of Fortune</title>
@@ -15571,7 +15554,7 @@
   </programme>
   <programme channel="tv.28" start="20180618114000 +0000" stop="20180618124000 +0000">
     <title>The Late Show</title>
-    <desc>'Join Stephen Colbert and his eclectic mix of guests for a satirical and comedic take on what's new and relevant in the worlds of politics, entertainment, business, music, technology and more. PGR'</desc>
+    <desc>'Join Stephen Colbert for a satirical and comedic take on what's new and relevant, with special guest Thandie Newton. PGR'</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -15667,6 +15650,9 @@
   <programme channel="tv.28" start="20180619020500 +0000" stop="20180619031000 +0000">
     <title>2018 FIFA World Cup Russia</title>
     <desc>Catch the highlights from day five of the 2018 FIFA World Cup Russia. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180619031000 +0000" stop="20180619033500 +0000">
     <title>Wheel Of Fortune</title>
@@ -15744,7 +15730,7 @@
   </programme>
   <programme channel="tv.28" start="20180619103000 +0000" stop="20180619113000 +0000">
     <title>The Late Show</title>
-    <desc>'Join Stephen Colbert and his eclectic mix of guests for a satirical and comedic take on what's new and relevant in the worlds of politics, entertainment, business, music, technology and more. PGR'</desc>
+    <desc>'Join Stephen Colbert for a satirical and comedic take on what's new and relevant, with Benicio Del Toro, Alison Brie and Robin Thede. PGR'</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -15837,6 +15823,9 @@
   <programme channel="tv.28" start="20180620020500 +0000" stop="20180620031000 +0000">
     <title>2018 FIFA World Cup Russia</title>
     <desc>Catch the highlights from day six of the 2018 FIFA World Cup Russia. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180620031000 +0000" stop="20180620033500 +0000">
     <title>Wheel Of Fortune</title>
@@ -15914,7 +15903,7 @@
   </programme>
   <programme channel="tv.28" start="20180620103000 +0000" stop="20180620113000 +0000">
     <title>The Late Show</title>
-    <desc>'Join Stephen Colbert and his eclectic mix of guests for a satirical and comedic take on what's new and relevant in the worlds of politics, entertainment, business, music, technology and more. PGR'</desc>
+    <desc>'Join Stephen Colbert for a satirical and comedic take on what's new and relevant, with Josh Brolin, Ruth Negga and a musical performance by WALK THE MOON. PGR'</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -16052,6 +16041,9 @@
   <programme channel="tv.28" start="20180621020500 +0000" stop="20180621031000 +0000">
     <title>2018 FIFA World Cup Russia</title>
     <desc>Catch the highlights from day seven of the 2018 FIFA World Cup Russia. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180621031000 +0000" stop="20180621033500 +0000">
     <title>Wheel Of Fortune</title>
@@ -16129,7 +16121,7 @@
   </programme>
   <programme channel="tv.28" start="20180621103000 +0000" stop="20180621113000 +0000">
     <title>The Late Show</title>
-    <desc>'Join Stephen Colbert and his eclectic mix of guests for a satirical and comedic take on what's new and relevant in the worlds of politics, entertainment, business, music, technology and more. PGR'</desc>
+    <desc>'Join Stephen Colbert for a satirical and comedic take on what's new and relevant, with Trevor Noah, Liza Koshy and a musical performance by Two Feet. PGR'</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -16225,6 +16217,9 @@
   <programme channel="tv.28" start="20180622020500 +0000" stop="20180622031000 +0000">
     <title>2018 FIFA World Cup Russia</title>
     <desc>Catch the highlights from day eight of the 2018 FIFA World Cup Russia. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180622031000 +0000" stop="20180622033500 +0000">
     <title>Wheel Of Fortune</title>
@@ -16309,7 +16304,7 @@
   </programme>
   <programme channel="tv.28" start="20180622103000 +0000" stop="20180622113000 +0000">
     <title>The Late Show</title>
-    <desc>'Join Stephen Colbert and his eclectic mix of guests for a satirical and comedic take on what's new and relevant in the worlds of politics, entertainment, business, music, technology and more. PGR'</desc>
+    <desc>'Join Stephen Colbert for a satirical and comedic take on what's new, with Seth Rogen, Mike Colter and a musical performance by Death Cab for Cutie. PGR'</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
