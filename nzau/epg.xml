@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180615153151 +0000" stop="20180615162542 +0000">
-    <title>Archaic Festivals S1E2</title>
-    <desc>This 500-year-old tradition sees the Spanish towns of Guadix and Baza go to mock-battle over a holy statue.</desc>
-    <sub-title>Cascamorras</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180615162542 +0000" stop="20180615171737 +0000">
     <title>Sébastien Loeb: Off Roads</title>
     <desc>Sébastien Loeb and co-driver Daniel Elena made WRC history. In 2016 they took on a new challenge: Dakar.</desc>
@@ -14829,6 +14824,9 @@
   <programme channel="tv.28" start="20180616002500 +0000" stop="20180616013000 +0000">
     <title>2018 FIFA World Cup Russia</title>
     <desc>Catch the highlights from day two of the 2018 FIFA World Cup Russia. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180616013000 +0000" stop="20180616023000 +0000">
     <title>NRL Try Time</title>
@@ -14946,6 +14944,9 @@
   <programme channel="tv.28" start="20180616210000 +0000" stop="20180616213000 +0000">
     <title>Impact For Life</title>
     <desc>Religious programme. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180616213000 +0000" stop="20180616220000 +0000">
     <title>Life TV</title>
@@ -14968,10 +14969,16 @@
   <programme channel="tv.28" start="20180617000000 +0000" stop="20180617010500 +0000">
     <title>2018 FIFA World Cup Russia</title>
     <desc>Catch the highlights from day three of the 2018 FIFA World Cup Russia. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180617010500 +0000" stop="20180617020000 +0000">
     <title>Haati Grassroots Rugby</title>
     <desc>Join Haati Grassroots Rugby for a showcase of club rugby matches and homegrown stories from some of the 600 rugby clubs throughout New Zealand. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180617020000 +0000" stop="20180617023000 +0000">
     <title>Mad About You</title>
@@ -73487,8 +73494,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180616060000 +0000" stop="20180616063000 +0000">
-    <title>Big Bad BBQ Brawl</title>
+  <programme channel="tv.320203000304" start="20180616060000 +0000" stop="20180616065500 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
