@@ -53,7 +53,12 @@
             "Top 40 & Pop",
             "80s & 90s Hits"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7103|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+        "url": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7103|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 44100,
+            "channels": 2
+        }
     },
     "radio.ih.7123": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7123.png",
