@@ -5,9 +5,9 @@
         "name": "7TWO",
         "url": "http://iptv.matthuisman.nz/au/Perth/tv.101305060562.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "height": 504,
             "codec": "h264",
-            "width": 896
+            "width": 896,
+            "height": 504
         },
         "audio": {
             "codec": "aac",
@@ -21,9 +21,9 @@
         "name": "7flix",
         "url": "http://iptv.matthuisman.nz/au/Perth/tv.101305060565.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "height": 360,
             "codec": "h264",
-            "width": 640
+            "width": 640,
+            "height": 360
         },
         "audio": {
             "codec": "aac",
@@ -37,9 +37,9 @@
         "name": "7mate",
         "url": "http://iptv.matthuisman.nz/au/Perth/tv.101305060563.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "height": 504,
             "codec": "h264",
-            "width": 896
+            "width": 896,
+            "height": 504
         },
         "audio": {
             "codec": "aac",
@@ -52,9 +52,9 @@
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204600467.png",
         "name": "9Gem",
         "video": {
-            "height": 720,
             "codec": "h264",
-            "width": 1280
+            "width": 1280,
+            "height": 720
         },
         "audio": {
             "codec": "aac",
@@ -68,9 +68,9 @@
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204600468.png",
         "name": "9Go!",
         "video": {
-            "height": 720,
             "codec": "h264",
-            "width": 1280
+            "width": 1280,
+            "height": 720
         },
         "audio": {
             "codec": "aac",
@@ -84,9 +84,9 @@
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204600464.png",
         "name": "9Life",
         "video": {
-            "height": 720,
             "codec": "h264",
-            "width": 1280
+            "width": 1280,
+            "height": 720
         },
         "audio": {
             "codec": "aac",
@@ -101,13 +101,13 @@
         "name": "ABC",
         "url": "http://iptv.matthuisman.nz/au/Perth/tv.3201026102E1.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "height": 360,
             "codec": "h264",
-            "width": 640
+            "width": 640,
+            "height": 360
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
+            "sample_rate": 44100,
             "channels": 2
         }
     },
@@ -117,13 +117,13 @@
         "name": "ABC COMEDY/ABC KIDS NSW",
         "url": "http://iptv.matthuisman.nz/au/Perth/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "height": 360,
             "codec": "h264",
-            "width": 640
+            "width": 640,
+            "height": 360
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
+            "sample_rate": 44100,
             "channels": 2
         }
     },
@@ -133,13 +133,13 @@
         "name": "ABC ME",
         "url": "http://iptv.matthuisman.nz/au/Perth/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "height": 360,
             "codec": "h264",
-            "width": 640
+            "width": 640,
+            "height": 360
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
+            "sample_rate": 44100,
             "channels": 2
         }
     },
@@ -149,13 +149,13 @@
         "name": "ABC NEWS",
         "url": "http://iptv.matthuisman.nz/au/Perth/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "height": 360,
             "codec": "h264",
-            "width": 640
+            "width": 640,
+            "height": 360
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
+            "sample_rate": 44100,
             "channels": 2
         }
     },
@@ -164,9 +164,9 @@
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204600461.png",
         "name": "Channel 9",
         "video": {
-            "height": 720,
             "codec": "h264",
-            "width": 1280
+            "width": 1280,
+            "height": 720
         },
         "audio": {
             "codec": "aac",
@@ -181,9 +181,9 @@
         "name": "ELEVEN",
         "url": "http://iptv.matthuisman.nz/au/Perth/tv.101406070688.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "height": 576,
             "codec": "h264",
-            "width": 1024
+            "width": 1024,
+            "height": 576
         },
         "audio": {
             "codec": "aac",
@@ -197,9 +197,9 @@
         "name": "Food Network",
         "url": "http://iptv.matthuisman.nz/au/Perth/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "height": 576,
             "codec": "h264",
-            "width": 1024
+            "width": 1024,
+            "height": 576
         },
         "audio": {
             "codec": "aac",
@@ -212,9 +212,9 @@
         "name": "Fox Sports News",
         "url": "http://iptv.matthuisman.nz/au/Perth/tv.fox.sports.news.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "height": 1080,
             "codec": "h264",
-            "width": 1920
+            "width": 1920,
+            "height": 1080
         },
         "audio": {
             "codec": "aac",
@@ -228,9 +228,9 @@
         "name": "NITV",
         "url": "http://iptv.matthuisman.nz/au/Perth/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "height": 576,
             "codec": "h264",
-            "width": 1024
+            "width": 1024,
+            "height": 576
         },
         "audio": {
             "codec": "aac",
@@ -244,9 +244,9 @@
         "name": "ONE",
         "url": "http://iptv.matthuisman.nz/au/Perth/tv.101406070681.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "height": 576,
             "codec": "h264",
-            "width": 1024
+            "width": 1024,
+            "height": 576
         },
         "audio": {
             "codec": "aac",
@@ -260,9 +260,9 @@
         "name": "RACING.COM",
         "url": "http://iptv.matthuisman.nz/au/Perth/tv.101305020528.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "height": 360,
             "codec": "h264",
-            "width": 640
+            "width": 640,
+            "height": 360
         },
         "audio": {
             "codec": "aac",
@@ -275,9 +275,9 @@
         "name": "Redbull TV",
         "url": "http://iptv.matthuisman.nz/au/Perth/tv.redbull.tv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "height": 1080,
             "codec": "h264",
-            "width": 1920
+            "width": 1280,
+            "height": 720
         },
         "audio": {
             "codec": "aac",
@@ -292,9 +292,9 @@
         "name": "SBS",
         "url": "http://iptv.matthuisman.nz/au/Perth/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "height": 576,
             "codec": "h264",
-            "width": 1024
+            "width": 1024,
+            "height": 576
         },
         "audio": {
             "codec": "aac",
@@ -308,9 +308,9 @@
         "name": "SBS VICELAND",
         "url": "http://iptv.matthuisman.nz/au/Perth/tv.320203000302.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "height": 576,
             "codec": "h264",
-            "width": 1024
+            "width": 1024,
+            "height": 576
         },
         "audio": {
             "codec": "aac",
@@ -324,9 +324,9 @@
         "name": "Seven",
         "url": "http://iptv.matthuisman.nz/au/Perth/tv.101305060560.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "height": 504,
             "codec": "h264",
-            "width": 896
+            "width": 896,
+            "height": 504
         },
         "audio": {
             "codec": "aac",
@@ -343,6 +343,11 @@
             "codec": "aac",
             "sample_rate": 44100,
             "channels": 2
+        },
+        "video": {
+            "codec": "h264",
+            "width": 1024,
+            "height": 576
         }
     }
 }
