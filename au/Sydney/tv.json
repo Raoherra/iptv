@@ -11,8 +11,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.101305020525": {
@@ -27,8 +27,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.101305020523": {
@@ -43,8 +43,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.101204200427": {
@@ -58,8 +58,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101204200427.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -74,8 +74,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101204200428.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -90,8 +90,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101204200424.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -123,8 +123,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 44100
         }
     },
     "tv.101002210224": {
@@ -139,8 +139,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 44100
         }
     },
     "tv.101002210220": {
@@ -170,8 +170,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101204200421.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -182,8 +182,13 @@
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101406020628.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "codec": "aac",
-            "sample_rate": 44100,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 44100
+        },
+        "video": {
+            "height": 576,
+            "codec": "h264",
+            "width": 1024
         }
     },
     "tv.320203000304": {
@@ -198,8 +203,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.fox.sports.news": {
@@ -213,8 +218,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 44100,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 44100
         }
     },
     "tv.320203000305": {
@@ -229,8 +234,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.101406020621": {
@@ -245,8 +250,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 44100,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 44100
         }
     },
     "tv.101305020528": {
@@ -261,8 +266,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.redbull.tv": {
@@ -293,8 +298,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.320203000302": {
@@ -309,8 +314,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.101305020520": {
@@ -325,8 +330,8 @@
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.101406020625": {
@@ -336,8 +341,13 @@
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101406020625.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "codec": "aac",
-            "sample_rate": 44100,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 44100
+        },
+        "video": {
+            "height": 576,
+            "codec": "h264",
+            "width": 1024
         }
     }
 }

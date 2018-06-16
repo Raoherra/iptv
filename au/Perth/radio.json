@@ -297,8 +297,8 @@
         "url": "http://iptv.matthuisman.nz/au/Perth/radio.curtin.radio|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "codec": "mp3",
-            "sample_rate": 44100,
-            "channels": 1
+            "channels": 1,
+            "sample_rate": 44100
         }
     },
     "radio.double.j": {
