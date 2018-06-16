@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180616032924 +0000" stop="20180616050108 +0000">
-    <title>Don't Crack Under Pressure</title>
-    <desc>A team of extreme athletes embarks on a quest to perform perilous feats in challenging conditions.</desc>
-    <sub-title>Make It or Break It</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180616050108 +0000" stop="20180616055703 +0000">
     <title>VMax: No Straight Line</title>
     <desc>Max Stöckl's quest to be the fastest man on a mountain bike takes him from Austria to the mountains of Chile.</desc>
@@ -4874,6 +4869,9 @@
   <programme channel="tv.10" start="20180622010000 +0000" stop="20180622020000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180622020000 +0000" stop="20180622023000 +0000">
     <title>Home Improvement</title>
@@ -5054,6 +5052,9 @@
   <programme channel="tv.10" start="20180622160500 +0000" stop="20180622165500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180622165500 +0000" stop="20180622171000 +0000">
     <title>Regular Show</title>
@@ -5242,6 +5243,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180623050500 +0000" stop="20180623070000 +0000">
     <title>Cars</title>
@@ -12096,6 +12100,9 @@
   <programme channel="tv.14" start="20180622020000 +0000" stop="20180622030000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180622030000 +0000" stop="20180622033000 +0000">
     <title>Home Improvement</title>
@@ -12252,6 +12259,9 @@
   <programme channel="tv.14" start="20180622170500 +0000" stop="20180622175500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180622175500 +0000" stop="20180622181000 +0000">
     <title>Regular Show</title>
@@ -12413,6 +12423,9 @@
   <programme channel="tv.14" start="20180623051000 +0000" stop="20180623060500 +0000">
     <title>America's Funniest Home Videos</title>
     <desc>From practical jokes to home improvement plans gone awry, and animal mishaps, this hilarious show pulls out all the stops to present everyday people caught on tape in their most embarrassing moments.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180623060500 +0000" stop="20180623080000 +0000">
     <title>Cars</title>
@@ -73387,7 +73400,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180616030000 +0000" stop="20180616035500 +0000">
-    <title>Bakers Vs. Fakers</title>
+    <title>Anthony Bourdain: No Reservations</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -73398,10 +73411,10 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180616040000 +0000" stop="20180616045500 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
+  <programme channel="tv.320203000304" start="20180616040000 +0000" stop="20180616043000 +0000">
+    <title>Reza: Spice Prince of India</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180616043000 +0000" stop="20180616050000 +0000">
@@ -73434,8 +73447,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180616060000 +0000" stop="20180616065500 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
+  <programme channel="tv.320203000304" start="20180616060000 +0000" stop="20180616063000 +0000">
+    <title>Big Bad BBQ Brawl</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -73512,10 +73525,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180616113000 +0000" stop="20180616120000 +0000">
-    <title>Secret Eats with Adam Richman</title>
+  <programme channel="tv.320203000304" start="20180616113000 +0000" stop="20180616122500 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180616120000 +0000" stop="20180616122500 +0000">
@@ -73548,8 +73561,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180616133000 +0000" stop="20180616135500 +0000">
-    <title>Celebrity Food Fight</title>
+  <programme channel="tv.320203000304" start="20180616133000 +0000" stop="20180616142500 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -73716,10 +73729,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180617020000 +0000" stop="20180617023000 +0000">
-    <title>Bizarre Foods: Delicious Destinations</title>
+  <programme channel="tv.320203000304" start="20180617020000 +0000" stop="20180617025500 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180617023000 +0000" stop="20180617030000 +0000">
@@ -73734,10 +73747,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180617030000 +0000" stop="20180617035500 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
+  <programme channel="tv.320203000304" start="20180617030000 +0000" stop="20180617033000 +0000">
+    <title>Surfing the Menu: The Next Generation</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180617033000 +0000" stop="20180617042500 +0000">
@@ -73789,9 +73802,9 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180617060000 +0000" stop="20180617065500 +0000">
-    <title>Underground Bbq Challenge</title>
+    <title>Anthony Bourdain: No Reservations</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180617065500 +0000" stop="20180617070000 +0000">
@@ -73890,10 +73903,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180617133000 +0000" stop="20180617142500 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
+  <programme channel="tv.320203000304" start="20180617133000 +0000" stop="20180617135500 +0000">
+    <title>Celebrity Food Fight</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180617135500 +0000" stop="20180617142000 +0000">

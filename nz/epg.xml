@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180616032924 +0000" stop="20180616050108 +0000">
-    <title>Don't Crack Under Pressure</title>
-    <desc>A team of extreme athletes embarks on a quest to perform perilous feats in challenging conditions.</desc>
-    <sub-title>Make It or Break It</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180616050108 +0000" stop="20180616055703 +0000">
     <title>VMax: No Straight Line</title>
     <desc>Max Stöckl's quest to be the fastest man on a mountain bike takes him from Austria to the mountains of Chile.</desc>
@@ -4755,6 +4750,9 @@
   <programme channel="tv.10" start="20180622010000 +0000" stop="20180622020000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180622020000 +0000" stop="20180622023000 +0000">
     <title>Home Improvement</title>
@@ -4935,6 +4933,9 @@
   <programme channel="tv.10" start="20180622160500 +0000" stop="20180622165500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180622165500 +0000" stop="20180622171000 +0000">
     <title>Regular Show</title>
@@ -5123,6 +5124,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180623050500 +0000" stop="20180623070000 +0000">
     <title>Cars</title>
@@ -11977,6 +11981,9 @@
   <programme channel="tv.14" start="20180622020000 +0000" stop="20180622030000 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180622030000 +0000" stop="20180622033000 +0000">
     <title>Home Improvement</title>
@@ -12133,6 +12140,9 @@
   <programme channel="tv.14" start="20180622170500 +0000" stop="20180622175500 +0000">
     <title>Judge Rinder</title>
     <desc>Studio courtroom show in which criminal barrister Robert Rinder rules on real life cases.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180622175500 +0000" stop="20180622181000 +0000">
     <title>Regular Show</title>
@@ -12294,6 +12304,9 @@
   <programme channel="tv.14" start="20180623051000 +0000" stop="20180623060500 +0000">
     <title>America's Funniest Home Videos</title>
     <desc>From practical jokes to home improvement plans gone awry, and animal mishaps, this hilarious show pulls out all the stops to present everyday people caught on tape in their most embarrassing moments.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180623060500 +0000" stop="20180623080000 +0000">
     <title>Cars</title>
