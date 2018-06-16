@@ -656,8 +656,8 @@
         "description": "Sydney's #1 radio station for Rock and AFL",
         "url": "http://iptv.matthuisman.nz/au/Sydney/radio.triple.m.sydney.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac"
         },
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.triple.m.sydney.png"
