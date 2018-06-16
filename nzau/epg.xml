@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180616205334 +0000" stop="20180616212129 +0000">
-    <title>ABC of... S1E7</title>
-    <desc>Get a crash course in mountain biking, with lessons in the terminology, history, and heroes of the sport.</desc>
-    <sub-title>ABC of... Mountain Biking</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180616212129 +0000" stop="20180616224259 +0000">
     <title>The Signal Hill Speed Run</title>
     <desc>The contest that established downhill skateboarding was a festival of speed, partying, and danger.</desc>
@@ -42501,6 +42496,12 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180624140000 +0000" stop="20180624141500 +0000">
+    <title>ABC Late News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180616135800 +0000" stop="20180616144400 +0000">
     <title>Wentworth</title>
     <subtitles type="teletext"/>
@@ -52260,6 +52261,13 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200421" start="20180624140000 +0000" stop="20180624150000 +0000">
+    <title>Major Crimes</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200424" start="20180616135800 +0000" stop="20180616150200 +0000">
     <title>Hotel Impossible</title>
     <rating system="Freeview">
@@ -53800,6 +53808,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200424" start="20180624140000 +0000" stop="20180624150000 +0000">
+    <title>Fixer Upper</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200427" start="20180616135100 +0000" stop="20180616144800 +0000">
     <title>Cold Case</title>
     <subtitles type="teletext"/>
@@ -55042,6 +55056,12 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200427" start="20180624140000 +0000" stop="20180624180000 +0000">
+    <title>One Day Series - England v Australia</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180616113300 +0000" stop="20180616140400 +0000">
@@ -56967,6 +56987,12 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20180624140000 +0000" stop="20180624140500 +0000">
+    <title>[adult swim]</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180616123300 +0000" stop="20180616143500 +0000">
@@ -67727,6 +67753,12 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101406020625" start="20180624140000 +0000" stop="20180624143000 +0000">
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406020628" start="20180616123000 +0000" stop="20180616150000 +0000">
     <title>The Loop</title>
     <rating system="Freeview">
@@ -69934,6 +69966,13 @@
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180624133500 +0000" stop="20180624140000 +0000">
+    <title>Everybody Loves Raymond</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020628" start="20180624140000 +0000" stop="20180624143000 +0000">
     <title>Everybody Loves Raymond</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -73008,10 +73047,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180617020000 +0000" stop="20180617023000 +0000">
-    <title>Bizarre Foods: Delicious Destinations</title>
+  <programme channel="tv.320203000304" start="20180617020000 +0000" stop="20180617025500 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180617023000 +0000" stop="20180617030000 +0000">
@@ -73062,10 +73101,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180617050000 +0000" stop="20180617055500 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
+  <programme channel="tv.320203000304" start="20180617050000 +0000" stop="20180617053000 +0000">
+    <title>Big Bad BBQ Brawl</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180617053000 +0000" stop="20180617060000 +0000">
@@ -73182,10 +73221,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180617133000 +0000" stop="20180617135500 +0000">
-    <title>Celebrity Food Fight</title>
+  <programme channel="tv.320203000304" start="20180617133000 +0000" stop="20180617142500 +0000">
+    <title>Anthony Bourdain: No Reservations</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180617135500 +0000" stop="20180617142000 +0000">
@@ -77327,6 +77366,12 @@
     <title>Utopia</title>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180624140000 +0000" stop="20180624150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   </tv>
