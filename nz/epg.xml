@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180617034219 +0000" stop="20180617043158 +0000">
-    <title>La Liste</title>
-    <desc>Over the course two seasons, young phenom Jérémie Heitz tries to ski 15 of the Alps' steepest peaks.</desc>
-    <sub-title>Redefining Steep Skiing</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180617043158 +0000" stop="20180617050054 +0000">
-    <title>Your Street My Stage S1E1</title>
-    <desc>Before they hit the big venues around town, much of Los Angeles’ talent can be found on its city streets.</desc>
-    <sub-title>Los Angeles</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180617050054 +0000" stop="20180617055823 +0000">
     <title>Moto 8: The Movie</title>
     <desc>The motocross bar is raised again as the greatest riders in the game explore the world’s most epic locations.</desc>
@@ -4575,6 +4565,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180623041000 +0000" stop="20180623050500 +0000">
     <title>America's Funniest Home Videos</title>
@@ -11765,6 +11758,9 @@
   <programme channel="tv.14" start="20180623044500 +0000" stop="20180623051000 +0000">
     <title>Powerless</title>
     <desc>S1 E4 When Emily sets her sights on the dating world she unknowingly falls for one of the Riddler's henchmen; Teddy and Ron find a Batman artefact and discover Van's superhero fantasy.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180623051000 +0000" stop="20180623060500 +0000">
     <title>America's Funniest Home Videos</title>
