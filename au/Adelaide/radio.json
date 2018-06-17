@@ -423,9 +423,9 @@
         ],
         "url": "http://iptv.matthuisman.nz/au/Adelaide/radio.ih.6998|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
-            "channels": 2,
+            "sample_rate": 44100,
             "codec": "aac",
-            "sample_rate": 44100
+            "channels": 2
         }
     },
     "radio.ih.7025": {
