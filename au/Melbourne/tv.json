@@ -150,12 +150,12 @@
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
             "width": 640,
-            "codec": "h264",
-            "height": 360
+            "height": 360,
+            "codec": "h264"
         },
         "audio": {
-            "sample_rate": 44100,
             "channels": 2,
+            "sample_rate": 44100,
             "codec": "aac"
         }
     },
