@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180617213504 +0000" stop="20180617220600 +0000">
-    <title>Mountain Biking to the Top</title>
-    <desc>Facing altitude challenges and health risks, a team of mountain bikers explore Tanzania's Mount Kilimanjaro.</desc>
-    <sub-title>Kilimanjaro: Mountain of Greatness</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180617220600 +0000" stop="20180617233744 +0000">
     <title>Don't Crack Under Pressure</title>
     <desc>A team of extreme athletes embarks on a quest to perform perilous feats in challenging conditions.</desc>
@@ -51572,10 +51567,11 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180621103000 +0000" stop="20180621113000 +0000">
-    <title>World's Wildest Flights</title>
+  <programme channel="tv.101204200421" start="20180621103000 +0000" stop="20180621123000 +0000">
+    <title>The Footy Show</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180621123000 +0000" stop="20180621130000 +0000">
