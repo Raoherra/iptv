@@ -10910,17 +10910,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180621103000 +0000" stop="20180621113000 +0000">
-    <title>World's Wildest Flights</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200421" start="20180621103000 +0000" stop="20180621123000 +0000">
     <title>The Footy Show</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200421" start="20180621103000 +0000" stop="20180621113000 +0000">
+    <title>World's Wildest Flights</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180621123000 +0000" stop="20180621130000 +0000">
@@ -11525,6 +11525,7 @@
   </programme>
   <programme channel="tv.101204200421" start="20180625104500 +0000" stop="20180625111500 +0000">
     <title>The Big Bang Theory</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -12633,6 +12634,7 @@
   </programme>
   <programme channel="tv.101204200424" start="20180623010000 +0000" stop="20180623013000 +0000">
     <title>Postcards</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -12810,6 +12812,7 @@
   </programme>
   <programme channel="tv.101204200424" start="20180623233000 +0000" stop="20180624000000 +0000">
     <title>Postcards</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -13931,17 +13934,17 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200427" start="20180622093000 +0000" stop="20180622103000 +0000">
+    <title>Outback</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200427" start="20180622093000 +0000" stop="20180622103500 +0000">
     <title>Walking the Himalayas</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200427" start="20180622093000 +0000" stop="20180622103000 +0000">
-    <title>Outback</title>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20180622103000 +0000" stop="20180622130500 +0000">
@@ -13951,18 +13954,25 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20180622130500 +0000" stop="20180622141000 +0000">
+  <programme channel="tv.101204200427" start="20180622130500 +0000" stop="20180622140500 +0000">
     <title>Chicago Justice</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20180622141000 +0000" stop="20180622151000 +0000">
+  <programme channel="tv.101204200427" start="20180622140500 +0000" stop="20180622150500 +0000">
     <title>A.D. Kingdom And Empire</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200427" start="20180622150500 +0000" stop="20180622151000 +0000">
+    <title>9honey Presents</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20180622151000 +0000" stop="20180622170000 +0000">
@@ -13978,11 +13988,18 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20180622180000 +0000" stop="20180622190000 +0000">
+  <programme channel="tv.101204200427" start="20180622170000 +0000" stop="20180622180000 +0000">
     <title>Chicago Justice</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200427" start="20180622180000 +0000" stop="20180622190000 +0000">
+    <title>A.D. Kingdom And Empire</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20180622190000 +0000" stop="20180622200000 +0000">
@@ -15752,12 +15769,14 @@
   </programme>
   <programme channel="tv.101204200428" start="20180623013000 +0000" stop="20180623020000 +0000">
     <title>Nate is Late</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>C</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180623020000 +0000" stop="20180623023000 +0000">
     <title>Nate is Late</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>C</value>
     </rating>
@@ -16177,7 +16196,6 @@
   </programme>
   <programme channel="tv.101204200428" start="20180624220000 +0000" stop="20180624223000 +0000">
     <title>Creature Mania</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>C</value>
     </rating>
@@ -16215,7 +16233,6 @@
   </programme>
   <programme channel="tv.101204200428" start="20180625010000 +0000" stop="20180625020000 +0000">
     <title>Car SOS</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -22168,14 +22185,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180617150000 +0000" stop="20180617153000 +0000">
-    <title>Raceday Review - Sha Tin</title>
+    <title>Raceday Review - Naracoorte</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180617150000 +0000" stop="20180617153000 +0000">
-    <title>Raceday Review - Naracoorte</title>
+    <title>Raceday Review - Sha Tin</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -22224,14 +22241,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180617180000 +0000" stop="20180617183000 +0000">
-    <title>Raceday Review - Naracoorte</title>
+    <title>Raceday Review - Sha Tin</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180617180000 +0000" stop="20180617183000 +0000">
-    <title>Raceday Review - Sha Tin</title>
+    <title>Raceday Review - Naracoorte</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -36859,11 +36876,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180618064851 +0000" stop="20180618071613 +0000">
-    <title>The Rise of Us</title>
-    <desc>Take a look at how four South African trailblazers are creating a better world for others.</desc>
-    <sub-title>Recognise the Fire in You</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180618071613 +0000" stop="20180618081011 +0000">
     <title>Archaic Festivals S1E2</title>
