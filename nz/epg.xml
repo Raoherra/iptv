@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180618050117 +0000" stop="20180618062147 +0000">
-    <title>The Signal Hill Speed Run</title>
-    <desc>The contest that established downhill skateboarding was a festival of speed, partying, and danger.</desc>
-    <sub-title>The World’s First Skateboard Race</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180618062147 +0000" stop="20180618064851 +0000">
-    <title>The Ripple Effect S2E4</title>
-    <desc>Robert Williams elevated Lowbrow to new heights by pioneering a magazine that championed the rebels of art.</desc>
-    <sub-title>Juxtapoz</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180618064851 +0000" stop="20180618071613 +0000">
     <title>The Rise of Us</title>
     <desc>Take a look at how four South African trailblazers are creating a better world for others.</desc>
@@ -4834,6 +4824,9 @@
   <programme channel="tv.11" start="20180618083000 +0000" stop="20180618093000 +0000">
     <title>All New Lost &amp; Found</title>
     <desc>New Episode. Rawiri was given up for adoption at birth and is looking for his mother, and a stay at home mum is looking for her Dutch father who was never part of her life.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180618093000 +0000" stop="20180618103000 +0000">
     <title>Serial Killer With Piers Morgan</title>
@@ -4958,14 +4951,14 @@
     <title>The Project</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
-  <programme channel="tv.11" start="20180619073000 +0000" stop="20180619083500 +0000">
+  <programme channel="tv.11" start="20180619073000 +0000" stop="20180619083000 +0000">
     <title>All New Grand Designs UK</title>
     <desc>New Episode. Joe and Lina want to build a home on a 38 square metre plot. The clever six-story, split level design makes the most of the available space, but there is no shortage of obstacles. S15 Ep8</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180619083500 +0000" stop="20180619093000 +0000">
+  <programme channel="tv.11" start="20180619083000 +0000" stop="20180619093000 +0000">
     <title>All New NCIS</title>
     <desc>New Episode. A person of interest in a bribery and fraud case is found murdered after a runner is led to his body by a strange voice. S15 Ep8</desc>
     <audio>
@@ -4975,18 +4968,18 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180619093000 +0000" stop="20180619102500 +0000">
+  <programme channel="tv.11" start="20180619093000 +0000" stop="20180619102000 +0000">
     <title>All New SVU: Special Victims Unit</title>
     <desc>New Episode. Rollins races to rescue a girl being held captive by her father. S19 Ep20</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180619102500 +0000" stop="20180619105500 +0000">
+  <programme channel="tv.11" start="20180619102000 +0000" stop="20180619105000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.11" start="20180619105500 +0000" stop="20180619115000 +0000">
+  <programme channel="tv.11" start="20180619105000 +0000" stop="20180619115000 +0000">
     <title>Chicago P.D.</title>
     <desc>New Episode. Voight believes the man who tried to kill him is someone he and Olinsky once put away. S3 Ep4</desc>
     <audio>
@@ -5365,7 +5358,7 @@
   </programme>
   <programme channel="tv.11" start="20180622090000 +0000" stop="20180622094500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Steve Wrigley, Cori Gonzalez-Macuer, Hayley Sproull and Pax Assadi.</desc>
   </programme>
   <programme channel="tv.11" start="20180622094500 +0000" stop="20180622101500 +0000">
     <title>The Spinoff TV</title>
@@ -6573,6 +6566,9 @@
   <programme channel="tv.12" start="20180623063000 +0000" stop="20180623073000 +0000">
     <title>The Getaway</title>
     <desc>Director Paul Feig takes on Boston, eating and drinking his way through the city sporting a bespoke three-piece suit.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180623073000 +0000" stop="20180623082800 +0000">
     <title>Below Deck</title>
@@ -12049,6 +12045,9 @@
   <programme channel="tv.27" start="20180618093000 +0000" stop="20180618103000 +0000">
     <title>All New Lost &amp; Found</title>
     <desc>New Episode. Rawiri was given up for adoption at birth and is looking for his mother, and a stay at home mum is looking for her Dutch father who was never part of her life.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180618103000 +0000" stop="20180618113000 +0000">
     <title>Serial Killer With Piers Morgan</title>
@@ -12173,32 +12172,32 @@
     <title>The Project</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
-  <programme channel="tv.27" start="20180619083000 +0000" stop="20180619093500 +0000">
+  <programme channel="tv.27" start="20180619083000 +0000" stop="20180619093000 +0000">
     <title>All New Grand Designs UK</title>
     <desc>New Episode. Joe and Lina want to build a home on a 38 square metre plot. The clever six-story, split level design makes the most of the available space, but there is no shortage of obstacles. S15 Ep8</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180619093500 +0000" stop="20180619103000 +0000">
+  <programme channel="tv.27" start="20180619093000 +0000" stop="20180619103000 +0000">
     <title>All New NCIS</title>
     <desc>New Episode. A person of interest in a bribery and fraud case is found murdered after a runner is led to his body by a strange voice. S15 Ep8</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180619103000 +0000" stop="20180619112500 +0000">
+  <programme channel="tv.27" start="20180619103000 +0000" stop="20180619112000 +0000">
     <title>All New SVU: Special Victims Unit</title>
     <desc>New Episode. Rollins races to rescue a girl being held captive by her father. S19 Ep20</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180619112500 +0000" stop="20180619115500 +0000">
+  <programme channel="tv.27" start="20180619112000 +0000" stop="20180619115000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.27" start="20180619115500 +0000" stop="20180619125000 +0000">
+  <programme channel="tv.27" start="20180619115000 +0000" stop="20180619125000 +0000">
     <title>Chicago P.D.</title>
     <desc>New Episode. Voight believes the man who tried to kill him is someone he and Olinsky once put away. S3 Ep4</desc>
     <rating system="Freeview">
@@ -12553,7 +12552,7 @@
   </programme>
   <programme channel="tv.27" start="20180622100000 +0000" stop="20180622104500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Steve Wrigley, Cori Gonzalez-Macuer, Hayley Sproull and Pax Assadi.</desc>
   </programme>
   <programme channel="tv.27" start="20180622104500 +0000" stop="20180622111500 +0000">
     <title>The Spinoff TV</title>
@@ -13749,6 +13748,9 @@
   <programme channel="tv.30" start="20180623073000 +0000" stop="20180623083000 +0000">
     <title>The Getaway</title>
     <desc>Director Paul Feig takes on Boston, eating and drinking his way through the city sporting a bespoke three-piece suit.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180623083000 +0000" stop="20180623092800 +0000">
     <title>Below Deck</title>
@@ -23676,7 +23678,7 @@
   </programme>
   <programme channel="tv.51" start="20180618210000 +0000" stop="20180618220000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Edge Presents</desc>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Kanye West</desc>
   </programme>
   <programme channel="tv.51" start="20180618220000 +0000" stop="20180619000000 +0000">
     <title>All The Hits</title>

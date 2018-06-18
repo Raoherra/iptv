@@ -106,9 +106,9 @@
             "codec": "h264"
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         }
     },
     "tv.101002210222": {
