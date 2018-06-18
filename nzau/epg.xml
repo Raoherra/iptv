@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180618034910 +0000" stop="20180618043255 +0000">
-    <title>Breaking the Day  S1E8</title>
-    <desc>Street artist Alex Yanes has sold his work in Miami's high-end galleries, but this project is about a legacy. </desc>
-    <sub-title>Street Artist</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180618043255 +0000" stop="20180618050117 +0000">
-    <title>Searching for Sound S1E2</title>
-    <desc>A pair of musicians travel thousands of miles searching for the sounds of their musical ancestors.</desc>
-    <sub-title>Islandman and VeYasin</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180618050117 +0000" stop="20180618062147 +0000">
     <title>The Signal Hill Speed Run</title>
     <desc>The contest that established downhill skateboarding was a festival of speed, partying, and danger.</desc>
@@ -1636,6 +1626,9 @@
   <programme channel="tv.9" start="20180620010000 +0000" stop="20180620020000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Andy despairs when Pat dishes out his most wicked assignment yet. Michelle resents Steve for trying to get back to normality. Sinead is flattered by Daniel's praise.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180620020000 +0000" stop="20180620030000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -1665,6 +1658,9 @@
   <programme channel="tv.9" start="20180620045500 +0000" stop="20180620060000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180620060000 +0000" stop="20180620070000 +0000">
     <title>1 News At 6pm</title>
@@ -1799,9 +1795,6 @@
   <programme channel="tv.9" start="20180621045500 +0000" stop="20180621060000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.9" start="20180621060000 +0000" stop="20180621070000 +0000">
     <title>1 News At 6pm</title>
@@ -2104,6 +2097,9 @@
   <programme channel="tv.9" start="20180623083000 +0000" stop="20180623093000 +0000">
     <title>The Hotel Inspector Returns</title>
     <desc>New Series: Alex Polizzi returns to previous locations to see how they have been doing since her last visit. Tonight, she revisits Looe to see The Fieldhead.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180623093000 +0000" stop="20180623104000 +0000">
     <title>Apple Tree Yard</title>
@@ -2821,6 +2817,9 @@
   <programme channel="tv.10" start="20180618184000 +0000" stop="20180618185500 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animation sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180618185500 +0000" stop="20180618190000 +0000">
     <title>Peppa Pig</title>
@@ -2966,6 +2965,9 @@
   <programme channel="tv.10" start="20180619040000 +0000" stop="20180619043000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Rita the deaf dog at the SPCA, Ask Me Anything vet Stacey is here to answer all your canine questions, and send us in your pet tricks to win a treat!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180619043000 +0000" stop="20180619050000 +0000">
     <title>Friends</title>
@@ -3986,6 +3988,9 @@
   <programme channel="tv.10" start="20180622093000 +0000" stop="20180622102500 +0000">
     <title>Heartbreak Island Uncut</title>
     <desc>Revisit the week on Heartbreak Island, catch all the biggest moments, plus never before seen footage that reveals a whole lot more of the couples and what they get up to when the lights go out.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
   </programme>
   <programme channel="tv.10" start="20180622102500 +0000" stop="20180622112500 +0000">
@@ -4222,6 +4227,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180623034500 +0000" stop="20180623041000 +0000">
     <title>Powerless</title>
@@ -4230,7 +4238,7 @@
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180623041000 +0000" stop="20180623050500 +0000">
@@ -4501,6 +4509,9 @@
     <title>Survivor New Zealand</title>
     <desc>Tonight on Survivor NZ, names keep getting thrown around as to who is next on the chopping board and today’s reward challenge is arguably the best reward we have seen yet.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180624083000 +0000" stop="20180624102000 +0000">
     <title>Masterminds</title>
@@ -9142,6 +9153,9 @@
   <programme channel="tv.38" start="20180620020000 +0000" stop="20180620030000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Andy despairs when Pat dishes out his most wicked assignment yet. Michelle resents Steve for trying to get back to normality. Sinead is flattered by Daniel's praise.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180620030000 +0000" stop="20180620040000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -9171,6 +9185,9 @@
   <programme channel="tv.38" start="20180620055500 +0000" stop="20180620070000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180620070000 +0000" stop="20180620080000 +0000">
     <title>1 News At 6pm</title>
@@ -9305,9 +9322,6 @@
   <programme channel="tv.38" start="20180621055500 +0000" stop="20180621070000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.38" start="20180621070000 +0000" stop="20180621080000 +0000">
     <title>1 News At 6pm</title>
@@ -9610,6 +9624,9 @@
   <programme channel="tv.38" start="20180623093000 +0000" stop="20180623103000 +0000">
     <title>The Hotel Inspector Returns</title>
     <desc>New Series: Alex Polizzi returns to previous locations to see how they have been doing since her last visit. Tonight, she revisits Looe to see The Fieldhead.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180623103000 +0000" stop="20180623114000 +0000">
     <title>Apple Tree Yard</title>
@@ -10286,6 +10303,9 @@
   <programme channel="tv.14" start="20180618194000 +0000" stop="20180618195500 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animation sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180618195500 +0000" stop="20180618200000 +0000">
     <title>Peppa Pig</title>
@@ -10416,6 +10436,9 @@
   <programme channel="tv.14" start="20180619050000 +0000" stop="20180619053000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Rita the deaf dog at the SPCA, Ask Me Anything vet Stacey is here to answer all your canine questions, and send us in your pet tricks to win a treat!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180619053000 +0000" stop="20180619060000 +0000">
     <title>Friends</title>
@@ -11519,12 +11542,15 @@
   <programme channel="tv.14" start="20180623034500 +0000" stop="20180623044500 +0000">
     <title>Once Upon A Time</title>
     <desc>S7 E15 When the Candy Killer attacks, Ivy has to risk what remains of her family. Meanwhile, Drizella faces an unthinkable challenge in her attempt to join the Witch’s Coven.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180623044500 +0000" stop="20180623051000 +0000">
     <title>Powerless</title>
     <desc>S1 E4 When Emily sets her sights on the dating world she unknowingly falls for one of the Riddler's henchmen; Teddy and Ron find a Batman artefact and discover Van's superhero fantasy.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180623051000 +0000" stop="20180623060500 +0000">
@@ -11747,6 +11773,9 @@
     <title>Survivor New Zealand</title>
     <desc>Tonight on Survivor NZ, names keep getting thrown around as to who is next on the chopping board and today’s reward challenge is arguably the best reward we have seen yet.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180624093000 +0000" stop="20180624112000 +0000">
     <title>Masterminds</title>
@@ -18866,14 +18895,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20180621053500 +0000" stop="20180621063000 +0000">
+  <programme channel="tv.55" start="20180621053500 +0000" stop="20180621064000 +0000">
     <title>Megafactories</title>
     <desc>EA Sports: Enter Electronic Arts in Burnaby factory and find out how and under what conditions the football video game FIFA 12 has been developed.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20180621063000 +0000" stop="20180621073000 +0000">
+  <programme channel="tv.55" start="20180621064000 +0000" stop="20180621073000 +0000">
     <title>American Pickers</title>
     <desc>A man moves his collection to a motel in North Carolina; Frank gambles on a pricey samurai artefact; an old Harley-Davidson dealership, Gerald's one-man town.</desc>
     <rating system="Freeview">
@@ -18898,32 +18927,32 @@
     <title>New: Brainstorm</title>
     <desc>Matt Heath joins the wittiest, creative minds in NZ to try and solve our first world problems. Tonight the most unlikely team of problem solvers in NZ attempt to solve life’s biggest issues.</desc>
   </programme>
-  <programme channel="tv.55" start="20180621100000 +0000" stop="20180621103000 +0000">
+  <programme channel="tv.55" start="20180621100000 +0000" stop="20180621102500 +0000">
     <title>New: Brooklyn Nine Nine</title>
     <desc>S5 E20 When news of an active shooter in Brooklyn Heights reaches the precinct, they learn Rosa is near the scene and is heading to help. Upon hearing this, the squad desperately fear for her safety.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20180621103000 +0000" stop="20180621112000 +0000">
+  <programme channel="tv.55" start="20180621102500 +0000" stop="20180621111500 +0000">
     <title>Live At The Apollo</title>
     <desc>Michael McIntyre hosts two special guests; the dead-pan Rich Hall and acclaimed Welsh funny man Rhod Gilbert, at the Hammersmith Apollo, London.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20180621112000 +0000" stop="20180621121500 +0000">
+  <programme channel="tv.55" start="20180621111500 +0000" stop="20180621120500 +0000">
     <title>Live At The Apollo</title>
     <desc>Stephen K. Amos introduces sets from Jon Richardson and Micky Flanagan.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20180621121500 +0000" stop="20180621145000 +0000">
+  <programme channel="tv.55" start="20180621120500 +0000" stop="20180621144000 +0000">
     <title>AFL - West Coast v Essendon</title>
     <desc>Delayed coverage of tonight’s match as the West Coast Eagles host Essendon from Optus Stadium in Perth.</desc>
   </programme>
-  <programme channel="tv.55" start="20180621145000 +0000" stop="20180621180000 +0000">
+  <programme channel="tv.55" start="20180621144000 +0000" stop="20180621180000 +0000">
     <title>DUKE Back in the Future</title>
     <desc>We'll catch you later on DUKE.</desc>
   </programme>
@@ -18931,47 +18960,47 @@
     <title>On DUKE today...</title>
     <desc>Here's what's on DUKE today.</desc>
   </programme>
-  <programme channel="tv.55" start="20180622000000 +0000" stop="20180622004500 +0000">
+  <programme channel="tv.55" start="20180622000000 +0000" stop="20180622005500 +0000">
     <title>On DUKE today...</title>
     <desc>Here's what's on DUKE today.</desc>
   </programme>
-  <programme channel="tv.55" start="20180622004500 +0000" stop="20180622011500 +0000">
+  <programme channel="tv.55" start="20180622005500 +0000" stop="20180622013000 +0000">
     <title>AFL Highlights</title>
     <desc>Highlights from the latest round of the 2018 AFL Season.</desc>
   </programme>
-  <programme channel="tv.55" start="20180622011500 +0000" stop="20180622034500 +0000">
+  <programme channel="tv.55" start="20180622013000 +0000" stop="20180622035500 +0000">
     <title>AFL - West Coast v Essendon</title>
     <desc>Replay of last night’s match as the West Coast Eagles host Essendon from Optus Stadium in Perth.</desc>
   </programme>
-  <programme channel="tv.55" start="20180622034500 +0000" stop="20180622044000 +0000">
+  <programme channel="tv.55" start="20180622035500 +0000" stop="20180622045000 +0000">
     <title>Mythbusters</title>
     <desc>Can a motorcycle pull a tablecloth out from under a setting for a banquet? Do humans really only use 10% of their brain?</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20180622044000 +0000" stop="20180622051000 +0000">
+  <programme channel="tv.55" start="20180622045000 +0000" stop="20180622052000 +0000">
     <title>Fresh Prince Of Bel Air</title>
     <desc>To graduate, Will must pass a music appreciation class, with several precocious young children as his classmates.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20180622051000 +0000" stop="20180622053500 +0000">
+  <programme channel="tv.55" start="20180622052000 +0000" stop="20180622054000 +0000">
     <title>My Wife &amp; Kids</title>
     <desc>Jay feels depressed, prompting Claire to talk her into getting a makeover to boost her self-esteem; and Junior gets himself locked in a girl's locker after attempting to steal her bra.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20180622053500 +0000" stop="20180622063500 +0000">
+  <programme channel="tv.55" start="20180622054000 +0000" stop="20180622064000 +0000">
     <title>Megafactories</title>
     <desc>The Harley-Davidson V-Rod can go from 0 to 96km/hour in 3.52 seconds. Visit the Harley-Davidson factory in Kansas City to see the makings of one of the company's most revolutionary bikes to date.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20180622063500 +0000" stop="20180622073000 +0000">
+  <programme channel="tv.55" start="20180622064000 +0000" stop="20180622073000 +0000">
     <title>American Pickers</title>
     <desc>Mike and Frank pick in a house that is stacked to the ceiling with rare toys. Mike adds to his King Kong collection while Frank drops a bundle on a rare train set.</desc>
     <rating system="Freeview">
@@ -18992,32 +19021,32 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20180622083000 +0000" stop="20180622102000 +0000">
+  <programme channel="tv.55" start="20180622083000 +0000" stop="20180622101500 +0000">
     <title>Movie: Escape from New York</title>
     <desc>When the U.S. president crashes into Manhattan, now a giant maximum security prison, a convicted bank robber is sent in to rescue him. Starring: Kurt Russell, Lee Van Cleef, and Ernest Borgnine.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20180622102000 +0000" stop="20180622111000 +0000">
+  <programme channel="tv.55" start="20180622101500 +0000" stop="20180622110500 +0000">
     <title>Running Wild With Bear Grylls</title>
     <desc>World-renowned survivalist Bear Grylls takes Tom Arnold (Sons of Anarchy) through the unpredictable coastal mountains of Oregon, taking on steep terrain, river crossings and oceanside cliffs.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20180622111000 +0000" stop="20180622120000 +0000">
+  <programme channel="tv.55" start="20180622110500 +0000" stop="20180622115500 +0000">
     <title>New: Bar Rescue</title>
     <desc>Tonight, a former psychologist needs help running a Detroit jazz club when her interfering family undermines her leadership.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20180622120000 +0000" stop="20180622143500 +0000">
+  <programme channel="tv.55" start="20180622115500 +0000" stop="20180622143000 +0000">
     <title>AFL - Port Adelaide v Melb</title>
     <desc>Delayed coverage of tonight’s match as Port Adelaide host North Melbourne from the Adelaide Oval in Adelaide.</desc>
   </programme>
-  <programme channel="tv.55" start="20180622143500 +0000" stop="20180622180000 +0000">
+  <programme channel="tv.55" start="20180622143000 +0000" stop="20180622180000 +0000">
     <title>DUKE Back in the Future</title>
     <desc>We'll catch you later on DUKE.</desc>
   </programme>
@@ -19031,7 +19060,7 @@
   </programme>
   <programme channel="tv.55" start="20180623000000 +0000" stop="20180623010000 +0000">
     <title>WRC Mid Season Review</title>
-    <desc>A look back at the current WRC season so far before the final six rallies of the year - featuring Kiwi driver Hayden Paddon.</desc>
+    <desc>A look back at the current WRC season so far before the final six rallies of the year – featuring Kiwi driver Hayden Paddon.</desc>
   </programme>
   <programme channel="tv.55" start="20180623010000 +0000" stop="20180623012500 +0000">
     <title>Formula E Street Racers</title>
@@ -19041,11 +19070,11 @@
     <title>RWC Under 20s - Final</title>
     <desc>Under 20s RWC Replay of this morning’s Under 20s Rugby World Cup Final between England and France from the Stade de la Mediterranee in Béziers, France. Teams to be confirmed.</desc>
   </programme>
-  <programme channel="tv.55" start="20180623033000 +0000" stop="20180623063500 +0000">
+  <programme channel="tv.55" start="20180623033000 +0000" stop="20180623064000 +0000">
     <title>Live: AFL -Hawthorn v GC</title>
     <desc>Live coverage of Hawthorn hosting the Gold Coast Suns from the University of Tasmania Stadium in Launceston, Tasmania.</desc>
   </programme>
-  <programme channel="tv.55" start="20180623063500 +0000" stop="20180623073000 +0000">
+  <programme channel="tv.55" start="20180623064000 +0000" stop="20180623073000 +0000">
     <title>Ice Road Truckers</title>
     <desc>Dalton rookie Ray Veilleux drives into a trucker's worst nightmare when he's distracted for a split-second. With the king of the haul road battle getting fierce, his days as co-leader could be over.</desc>
     <rating system="Freeview">
@@ -19066,25 +19095,25 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20180623090000 +0000" stop="20180623104500 +0000">
+  <programme channel="tv.55" start="20180623090000 +0000" stop="20180623104000 +0000">
     <title>Movie: Carrie</title>
     <desc>After merciless taunting from classmates and abuse at the hand of her religious fanatic mother, Carrie's anger - and her telekinetic powers - are unleashed. Starring Julianne Moore.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20180623104500 +0000" stop="20180623114000 +0000">
+  <programme channel="tv.55" start="20180623104000 +0000" stop="20180623113500 +0000">
     <title>Ice Road Truckers</title>
     <desc>With only two weeks left of the winter season, the race is on to deliver the remaining loads before the ice roads melt away.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20180623114000 +0000" stop="20180623141500 +0000">
+  <programme channel="tv.55" start="20180623113500 +0000" stop="20180623141000 +0000">
     <title>AFL - Brisbane v GWS</title>
     <desc>Delayed coverage of tonight’s match as the Brisbane Lions host the GWS Giants from the Gabba in Brisbane.</desc>
   </programme>
-  <programme channel="tv.55" start="20180623141500 +0000" stop="20180623180000 +0000">
+  <programme channel="tv.55" start="20180623141000 +0000" stop="20180623180000 +0000">
     <title>DUKE Back in the Future</title>
     <desc>We'll catch you later on DUKE.</desc>
   </programme>
@@ -19106,7 +19135,7 @@
   </programme>
   <programme channel="tv.55" start="20180624023500 +0000" stop="20180624033500 +0000">
     <title>WRC Mid Season Review</title>
-    <desc>A look back at the current WRC season so far before the final six rallies of the year - featuring Kiwi driver Hayden Paddon.</desc>
+    <desc>A look back at the current WRC season so far before the final six rallies of the year – featuring Kiwi driver Hayden Paddon.</desc>
   </programme>
   <programme channel="tv.55" start="20180624033500 +0000" stop="20180624060500 +0000">
     <title>AFL - Western v Nth Melbourne</title>
@@ -51524,10 +51553,11 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180621103000 +0000" stop="20180621113000 +0000">
-    <title>World's Wildest Flights</title>
+  <programme channel="tv.101204200421" start="20180621103000 +0000" stop="20180621123000 +0000">
+    <title>The Footy Show</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180621123000 +0000" stop="20180621130000 +0000">
