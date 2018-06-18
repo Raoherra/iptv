@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180618135109 +0000" stop="20180618150358 +0000">
-    <title>Pretty Sweet</title>
-    <desc>Skateboarding's two hottest teams, Girl and Chocolate, combine forces to deliver a blockbuster skate movie.</desc>
-    <sub-title>A Girl and Chocolate Skateboard Film</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180618150358 +0000" stop="20180618154742 +0000">
     <title>Breaking the Day  S1E8</title>
     <desc>Street artist Alex Yanes has sold his work in Miami's high-end galleries, but this project is about a legacy. </desc>
@@ -51752,10 +51747,11 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180621103000 +0000" stop="20180621113000 +0000">
-    <title>World's Wildest Flights</title>
+  <programme channel="tv.101204200421" start="20180621103000 +0000" stop="20180621123000 +0000">
+    <title>The Footy Show</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180621123000 +0000" stop="20180621130000 +0000">
