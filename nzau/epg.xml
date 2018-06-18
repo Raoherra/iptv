@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180618150358 +0000" stop="20180618154742 +0000">
-    <title>Breaking the Day  S1E8</title>
-    <desc>Street artist Alex Yanes has sold his work in Miami's high-end galleries, but this project is about a legacy. </desc>
-    <sub-title>Street Artist</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180618154742 +0000" stop="20180618161613 +0000">
     <title>Searching for Sound S1E2</title>
     <desc>A pair of musicians travel thousands of miles searching for the sounds of their musical ancestors.</desc>
@@ -20329,7 +20324,7 @@
   </programme>
   <programme channel="tv.46" start="20180618193000 +0000" stop="20180618200000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>Can Native Americans change US politics?</desc>
   </programme>
   <programme channel="tv.46" start="20180618200000 +0000" stop="20180618210000 +0000">
     <title>The War in October</title>
@@ -20381,7 +20376,7 @@
   </programme>
   <programme channel="tv.46" start="20180619043000 +0000" stop="20180619050000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>Can Native Americans change US politics?</desc>
   </programme>
   <programme channel="tv.46" start="20180619050000 +0000" stop="20180619053000 +0000">
     <title>News Live</title>
@@ -20409,7 +20404,7 @@
   </programme>
   <programme channel="tv.46" start="20180619083000 +0000" stop="20180619090000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>Can Native Americans change US politics?</desc>
   </programme>
   <programme channel="tv.46" start="20180619090000 +0000" stop="20180619093000 +0000">
     <title>News Live</title>
@@ -20445,7 +20440,7 @@
   </programme>
   <programme channel="tv.46" start="20180619143000 +0000" stop="20180619150000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>Can Native Americans change US politics?</desc>
   </programme>
   <programme channel="tv.46" start="20180619150000 +0000" stop="20180619160000 +0000">
     <title>newsgrid</title>
@@ -20973,7 +20968,7 @@
   </programme>
   <programme channel="tv.46" start="20180623043000 +0000" stop="20180623050000 +0000">
     <title>Talk to Al Jazeera</title>
-    <desc>A conversation about ideas, people, events and facts shaping our times. With guests from around the world.</desc>
+    <desc>The world's foremost primatologist shares her experience studying chimps.</desc>
   </programme>
   <programme channel="tv.46" start="20180623050000 +0000" stop="20180623053000 +0000">
     <title>News Live</title>
@@ -21149,7 +21144,7 @@
   </programme>
   <programme channel="tv.46" start="20180624083000 +0000" stop="20180624090000 +0000">
     <title>Talk to Al Jazeera</title>
-    <desc>A conversation about ideas, people, events and facts shaping our times. With guests from around the world.</desc>
+    <desc>The world's foremost primatologist shares her experience studying chimps.</desc>
   </programme>
   <programme channel="tv.46" start="20180624090000 +0000" stop="20180624093000 +0000">
     <title>News Live</title>
@@ -21217,7 +21212,7 @@
   </programme>
   <programme channel="tv.46" start="20180624193000 +0000" stop="20180624200000 +0000">
     <title>Talk to Al Jazeera</title>
-    <desc>A conversation about ideas, people, events and facts shaping our times. With guests from around the world.</desc>
+    <desc>The world's foremost primatologist shares her experience studying chimps.</desc>
   </programme>
   <programme channel="tv.46" start="20180624200000 +0000" stop="20180624210000 +0000">
     <title>The System</title>
@@ -21333,7 +21328,7 @@
   </programme>
   <programme channel="tv.46" start="20180625143000 +0000" stop="20180625150000 +0000">
     <title>Talk to Al Jazeera</title>
-    <desc>A conversation about ideas, people, events and facts shaping our times. With guests from around the world.</desc>
+    <desc>The world's foremost primatologist shares her experience studying chimps.</desc>
   </programme>
   <programme channel="tv.46" start="20180625150000 +0000" stop="20180625160000 +0000">
     <title>newsgrid</title>
@@ -38062,8 +38057,11 @@
     <desc>Top Acts Live George Dalaras</desc>
   </programme>
   <programme channel="tv.41" start="20180623010000 +0000" stop="20180623020000 +0000">
-    <title>Documentary</title>
-    <desc>TBA</desc>
+    <title>Council Matters</title>
+    <desc>Coverage of the Dunedin City Council's Council Meetings.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.41" start="20180623020000 +0000" stop="20180623023000 +0000">
     <title>National Geographic - LIVE</title>
@@ -51747,11 +51745,10 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180621103000 +0000" stop="20180621123000 +0000">
-    <title>The Footy Show</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101204200421" start="20180621103000 +0000" stop="20180621113000 +0000">
+    <title>World's Wildest Flights</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180621123000 +0000" stop="20180621130000 +0000">
