@@ -280,21 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180618201341 +0000" stop="20180618210800 +0000">
-    <title>Claim Freedom</title>
-    <desc>Four adventurers push themselves physically, mentally, and spiritually to conquer what once seemed impossible.</desc>
-    <sub-title>Exploring the Far Reaches of Imagination</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180618210800 +0000" stop="20180618211405 +0000">
-    <title>Cody Webb and Taylor Robert</title>
-    <desc>Two MX riders tear up California's Donner Ski Ranch in a stunning display of backcountry trials riding.</desc>
-    <sub-title>Donner Partying</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180618211405 +0000" stop="20180618220131 +0000">
-    <title>Ready to Race</title>
-    <desc>Austria’s most successful motorbike racing team makes the jump into MotoGP, the pinnacle of motorcycle racing.</desc>
-    <sub-title>KTM Goes MotoGP</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180618220131 +0000" stop="20180618221050 +0000">
     <title>Life Behind Bars S1E1</title>
     <desc>In the woods of British Columbia, Canada, Brandon and his friends live in a freeride mountain biking paradise.</desc>
@@ -17473,7 +17458,7 @@
     </rating>
   </programme>
   <programme channel="tv.37" start="20180621043000 +0000" stop="20180621053000 +0000">
-    <title>Best In Shop</title>
+    <title>Top of the Shop</title>
     <desc>From home brewing to smoking meat, the world is in the midst of an artisan food revolution and Best in Shop aims to discover the finest new food products around.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -17494,8 +17479,8 @@
     </rating>
   </programme>
   <programme channel="tv.37" start="20180621073000 +0000" stop="20180621083000 +0000">
-    <title>Greener Living</title>
-    <desc/>
+    <title>Chris Tarrant: Extreme Railway Journeys</title>
+    <desc>Chris travels by train to the heart of Patagonia. This country once boasted one of the largest and finest railways in the world. Chris finds out just how far this great railway network has fallen.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -17529,7 +17514,7 @@
     </rating>
   </programme>
   <programme channel="tv.37" start="20180621113000 +0000" stop="20180621123000 +0000">
-    <title>Best In Shop</title>
+    <title>Top of the Shop</title>
     <desc>From home brewing to smoking meat, the world is in the midst of an artisan food revolution and Best in Shop aims to discover the finest new food products around.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -17564,8 +17549,8 @@
     </rating>
   </programme>
   <programme channel="tv.37" start="20180621160000 +0000" stop="20180621170000 +0000">
-    <title>Greener Living</title>
-    <desc/>
+    <title>Chris Tarrant: Extreme Railway Journeys</title>
+    <desc>Chris travels by train to the heart of Patagonia. This country once boasted one of the largest and finest railways in the world. Chris finds out just how far this great railway network has fallen.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -17613,7 +17598,7 @@
     </rating>
   </programme>
   <programme channel="tv.37" start="20180621213000 +0000" stop="20180621223000 +0000">
-    <title>Best In Shop</title>
+    <title>Top of the Shop</title>
     <desc>From home brewing to smoking meat, the world is in the midst of an artisan food revolution and Best in Shop aims to discover the finest new food products around.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -17627,8 +17612,8 @@
     </rating>
   </programme>
   <programme channel="tv.37" start="20180621233000 +0000" stop="20180622003000 +0000">
-    <title>Greener Living</title>
-    <desc/>
+    <title>Chris Tarrant: Extreme Railway Journeys</title>
+    <desc>Chris travels by train to the heart of Patagonia. This country once boasted one of the largest and finest railways in the world. Chris finds out just how far this great railway network has fallen.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -42549,6 +42534,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180626140000 +0000" stop="20180626143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180618132800 +0000" stop="20180618144900 +0000">
     <title>Finding Vivian Maier</title>
     <subtitles type="teletext"/>
@@ -51650,10 +51642,11 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180621103000 +0000" stop="20180621113000 +0000">
-    <title>World's Wildest Flights</title>
+  <programme channel="tv.101204200421" start="20180621103000 +0000" stop="20180621123000 +0000">
+    <title>The Footy Show</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180621123000 +0000" stop="20180621130000 +0000">
@@ -52436,6 +52429,12 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200421" start="20180626140000 +0000" stop="20180626145500 +0000">
+    <title>20/20</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180618133100 +0000" stop="20180618140100 +0000">
@@ -53971,6 +53970,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200424" start="20180626140000 +0000" stop="20180626143000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200427" start="20180618135000 +0000" stop="20180618145600 +0000">
     <title>Footy Classified</title>
     <subtitles type="teletext"/>
@@ -54602,10 +54607,11 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20180622093000 +0000" stop="20180622103000 +0000">
-    <title>Outback</title>
+  <programme channel="tv.101204200427" start="20180622093000 +0000" stop="20180622103500 +0000">
+    <title>Walking the Himalayas</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>G</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20180622103000 +0000" stop="20180622130500 +0000">
@@ -57186,6 +57192,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20180626140000 +0000" stop="20180626143000 +0000">
+    <title>Mom</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180618130900 +0000" stop="20180618140800 +0000">
@@ -64813,6 +64826,13 @@
   </programme>
   <programme channel="tv.101305020528" start="20180626133000 +0000" stop="20180626140000 +0000">
     <title>Raceday Review - Geelong</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180626140000 +0000" stop="20180626143000 +0000">
+    <title>Ten of the Best - Handicappers</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -77667,6 +77687,12 @@
   </programme>
   <programme channel="tv.320203000305" start="20180626133000 +0000" stop="20180626140000 +0000">
     <title>Queen of the Desert</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180626140000 +0000" stop="20180626150000 +0000">
+    <title>Volumz</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
