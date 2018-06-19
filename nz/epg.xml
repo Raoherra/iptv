@@ -161,21 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180619040229 +0000" stop="20180619040542 +0000">
-    <title>Travel Story S1E4</title>
-    <desc>Ryan visits India for the first time and has some fun learning a new skill — Bollywood dancing.</desc>
-    <sub-title>Freerunning in India</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180619040542 +0000" stop="20180619043407 +0000">
-    <title>Follow the Steps S1 E5</title>
-    <desc>The Steps fly to San Francisco, California, United States, to launch a tour and hopefully land a gig in Vegas.</desc>
-    <sub-title>Coming to America</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180619043407 +0000" stop="20180619050046 +0000">
-    <title>Searching for Sound S1E3</title>
-    <desc>Baauer, creator of the Harlem Shake, journeys to the United Arab Emirates and Japan in search of new sounds.</desc>
-    <sub-title>Baauer</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180619050051 +0000" stop="20180619051014 +0000">
     <title>Nasser Al Attiyah: Road to Dakar S1E3</title>
     <desc>Follow Nasser Al Attiyah's journey through Dakar Rally 2018.</desc>
@@ -1826,6 +1811,9 @@
   <programme channel="tv.9" start="20180621045500 +0000" stop="20180621060000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180621060000 +0000" stop="20180621070000 +0000">
     <title>1 News At 6pm</title>
@@ -1928,6 +1916,9 @@
   <programme channel="tv.9" start="20180622010000 +0000" stop="20180622020000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Phelan confronts Andy over the laptop and Liz comforts a still grieving Michelle. Will Tim find a hobby he and Sally can enjoy?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180622020000 +0000" stop="20180622030000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -1957,6 +1948,9 @@
   <programme channel="tv.9" start="20180622045500 +0000" stop="20180622060000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180622060000 +0000" stop="20180622070000 +0000">
     <title>1 News At 6pm</title>
@@ -2225,6 +2219,9 @@
     <title>Attitude</title>
     <desc>Five-year-old Oskar was born with achondroplasia, the most common form of dwarfism. We delve into the wonderfully curious world of this Little Dude and his parents.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180623233000 +0000" stop="20180623235500 +0000">
     <title>Fair Go</title>
@@ -2307,6 +2304,9 @@
     <title>Attitude</title>
     <desc>Five-year-old Oskar was born with achondroplasia, the most common form of dwarfism. We delve into the wonderfully curious world of this Little Dude and his parents.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180624130500 +0000" stop="20180624150500 +0000">
     <title>Coronation Street Catch-Up</title>
@@ -2689,7 +2689,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180618173000 +0000" stop="20180618183000 +0000">
+  <programme channel="tv.10" start="20180618173000 +0000" stop="20180618180000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.10" start="20180618180000 +0000" stop="20180618183000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -3036,6 +3040,9 @@
   <programme channel="tv.10" start="20180619184000 +0000" stop="20180619185500 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animation sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180619185500 +0000" stop="20180619190000 +0000">
     <title>Peppa Pig</title>
@@ -3174,6 +3181,9 @@
   <programme channel="tv.10" start="20180620040000 +0000" stop="20180620043000 +0000">
     <title>Fanimals</title>
     <desc>Today it's all action in the next race for glory on 'Farmyard Olympics', you could win big on 'Call of Nature', and discover the secret to stop your cat scratching your couch on Mission Impawssible!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180620043000 +0000" stop="20180620050000 +0000">
     <title>Friends</title>
@@ -3689,6 +3699,9 @@
   <programme channel="tv.10" start="20180621192500 +0000" stop="20180621195000 +0000">
     <title>The Zhu Zhus</title>
     <desc>Adventurous Frankie and her four extraordinary hamsters navigate life in Anytown, where anything's possible!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180621195000 +0000" stop="20180621201500 +0000">
     <title>Zak Storm</title>
@@ -3878,6 +3891,9 @@
       <stereo>dolby</stereo>
     </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180622102500 +0000" stop="20180622112500 +0000">
     <title>One Night With My Ex</title>
@@ -4350,9 +4366,6 @@
   <programme channel="tv.10" start="20180624043500 +0000" stop="20180624050500 +0000">
     <title>Home And Away</title>
     <desc>Can Ash promise Tori the future she so desperately desires? Willow falls further into debt as her gambling spirals out of control. Who will be Brody’s best man?</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.10" start="20180624050500 +0000" stop="20180624053500 +0000">
     <title>The Simpsons</title>
@@ -4671,6 +4684,9 @@
   <programme channel="tv.10" start="20180625073000 +0000" stop="20180625083000 +0000">
     <title>Heartbreak Island</title>
     <desc>Just when the couples thought they knew what the game had in store, four brand new faces arrive ready to stir things up. Loyalties are tested when a double elimination leaves everyone blind-sided.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
   </programme>
   <programme channel="tv.10" start="20180625083000 +0000" stop="20180625093000 +0000">
@@ -4875,6 +4891,9 @@
   <programme channel="tv.10" start="20180625230500 +0000" stop="20180625235500 +0000">
     <title>Heartbreak Island</title>
     <desc>Just when the couples thought they knew what the game had in store, four brand new faces arrive ready to stir things up. Loyalties are tested when a double elimination leaves everyone blind-sided.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
   </programme>
   <programme channel="tv.10" start="20180625235500 +0000" stop="20180626010000 +0000">
@@ -9400,6 +9419,9 @@
   <programme channel="tv.38" start="20180621055500 +0000" stop="20180621070000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180621070000 +0000" stop="20180621080000 +0000">
     <title>1 News At 6pm</title>
@@ -9502,6 +9524,9 @@
   <programme channel="tv.38" start="20180622020000 +0000" stop="20180622030000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Phelan confronts Andy over the laptop and Liz comforts a still grieving Michelle. Will Tim find a hobby he and Sally can enjoy?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180622030000 +0000" stop="20180622040000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -9531,6 +9556,9 @@
   <programme channel="tv.38" start="20180622055500 +0000" stop="20180622070000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180622070000 +0000" stop="20180622080000 +0000">
     <title>1 News At 6pm</title>
@@ -9799,6 +9827,9 @@
     <title>Attitude</title>
     <desc>Five-year-old Oskar was born with achondroplasia, the most common form of dwarfism. We delve into the wonderfully curious world of this Little Dude and his parents.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180624003000 +0000" stop="20180624005500 +0000">
     <title>Fair Go</title>
@@ -9881,6 +9912,9 @@
     <title>Attitude</title>
     <desc>Five-year-old Oskar was born with achondroplasia, the most common form of dwarfism. We delve into the wonderfully curious world of this Little Dude and his parents.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180624140500 +0000" stop="20180624160500 +0000">
     <title>Coronation Street Catch-Up</title>
@@ -10257,7 +10291,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180618183000 +0000" stop="20180618193000 +0000">
+  <programme channel="tv.14" start="20180618183000 +0000" stop="20180618190000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.14" start="20180618190000 +0000" stop="20180618193000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -10559,6 +10597,9 @@
   <programme channel="tv.14" start="20180619194000 +0000" stop="20180619195500 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animation sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180619195500 +0000" stop="20180619200000 +0000">
     <title>Peppa Pig</title>
@@ -10682,6 +10723,9 @@
   <programme channel="tv.14" start="20180620050000 +0000" stop="20180620053000 +0000">
     <title>Fanimals</title>
     <desc>Today it's all action in the next race for glory on 'Farmyard Olympics', you could win big on 'Call of Nature', and discover the secret to stop your cat scratching your couch on Mission Impawssible!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180620053000 +0000" stop="20180620060000 +0000">
     <title>Friends</title>
@@ -11137,6 +11181,9 @@
   <programme channel="tv.14" start="20180621202500 +0000" stop="20180621205000 +0000">
     <title>The Zhu Zhus</title>
     <desc>Adventurous Frankie and her four extraordinary hamsters navigate life in Anytown, where anything's possible!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180621205000 +0000" stop="20180621211500 +0000">
     <title>Zak Storm</title>
@@ -11302,6 +11349,9 @@
     <title>Heartbreak Island Uncut</title>
     <desc>Revisit the week on Heartbreak Island, catch all the biggest moments, plus never before seen footage that reveals a whole lot more of the couples and what they get up to when the lights go out.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180622112500 +0000" stop="20180622122500 +0000">
     <title>One Night With My Ex</title>
@@ -11705,9 +11755,6 @@
   <programme channel="tv.14" start="20180624053500 +0000" stop="20180624060500 +0000">
     <title>Home And Away</title>
     <desc>Can Ash promise Tori the future she so desperately desires? Willow falls further into debt as her gambling spirals out of control. Who will be Brody’s best man?</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.14" start="20180624060500 +0000" stop="20180624063500 +0000">
     <title>The Simpsons</title>
@@ -19047,6 +19094,9 @@
   <programme channel="tv.55" start="20180620090000 +0000" stop="20180620093000 +0000">
     <title>New: Misadventures</title>
     <desc>The crazy adventures of two good-hearted but clueless friends in search of eccentric locals in the South Island of New Zealand. Tonight, They meet an eccentric musician in the Kahurangi National Park.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180620093000 +0000" stop="20180620104000 +0000">
     <title>Reggie Yates: Extreme UK</title>
@@ -19152,6 +19202,9 @@
   <programme channel="tv.55" start="20180621093000 +0000" stop="20180621100000 +0000">
     <title>New: Brainstorm</title>
     <desc>Matt Heath joins the wittiest, creative minds in NZ to try and solve our first world problems. Tonight the most unlikely team of problem solvers in NZ attempt to solve life’s biggest issues.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180621100000 +0000" stop="20180621102500 +0000">
     <title>New: Brooklyn Nine Nine</title>
@@ -19392,6 +19445,9 @@
     <title>Heartbreak Island Uncut</title>
     <desc></desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180624092500 +0000" stop="20180624095000 +0000">
     <title>Wild Kai Legends</title>
