@@ -10759,17 +10759,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180621103000 +0000" stop="20180621113000 +0000">
-    <title>World's Wildest Flights</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200421" start="20180621103000 +0000" stop="20180621123000 +0000">
     <title>The Footy Show</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200421" start="20180621103000 +0000" stop="20180621113000 +0000">
+    <title>World's Wildest Flights</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180621123000 +0000" stop="20180621130000 +0000">
@@ -37078,7 +37078,8 @@
   </programme>
   <programme channel="tv.redbull.tv" start="20180620073500 +0000" stop="20180620075930 +0000">
     <title>Searching for Sound S1E1</title>
-    <sub-title>Episode - Sandunes: Searching for Sound</sub-title>
+    <desc>Sandunes is an Indian producer who's making the chaotic sounds of Mumbai into a cohesive form of music.</desc>
+    <sub-title>Sandunes</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180620075930 +0000" stop="20180620082124 +0000">
     <title>Reel Rock S1E4</title>
