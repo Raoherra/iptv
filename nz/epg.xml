@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180619145924 +0000" stop="20180619152748 +0000">
-    <title>Follow the Steps S1 E5</title>
-    <desc>The Steps fly to San Francisco, California, United States, to launch a tour and hopefully land a gig in Vegas.</desc>
-    <sub-title>Coming to America</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180619152748 +0000" stop="20180619155458 +0000">
-    <title>Searching for Sound S1E3</title>
-    <desc>Baauer, creator of the Harlem Shake, journeys to the United Arab Emirates and Japan in search of new sounds.</desc>
-    <sub-title>Baauer</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180619155458 +0000" stop="20180619161728 +0000">
     <title>Reel Rock S1E3</title>
     <desc>Andy Lewis is the mad genius who transforms slacklining into a full-blown art form and adventure sport.</desc>
@@ -20609,7 +20599,7 @@
   </programme>
   <programme channel="tv.46" start="20180619193000 +0000" stop="20180619200000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>The Stream looks at relations between Ethiopia and Eritrea and consider whether the countries can resolve a long-running frozen conflict.</desc>
   </programme>
   <programme channel="tv.46" start="20180619200000 +0000" stop="20180619210000 +0000">
     <title>Al Jazeera World</title>
@@ -20661,7 +20651,7 @@
   </programme>
   <programme channel="tv.46" start="20180620043000 +0000" stop="20180620050000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>The Stream looks at relations between Ethiopia and Eritrea and consider whether the countries can resolve a long-running frozen conflict.</desc>
   </programme>
   <programme channel="tv.46" start="20180620050000 +0000" stop="20180620053000 +0000">
     <title>News Live</title>
@@ -20689,7 +20679,7 @@
   </programme>
   <programme channel="tv.46" start="20180620083000 +0000" stop="20180620090000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>The Stream looks at relations between Ethiopia and Eritrea and consider whether the countries can resolve a long-running frozen conflict.</desc>
   </programme>
   <programme channel="tv.46" start="20180620090000 +0000" stop="20180620093000 +0000">
     <title>News Live</title>
@@ -20725,7 +20715,7 @@
   </programme>
   <programme channel="tv.46" start="20180620143000 +0000" stop="20180620150000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>The Stream looks at relations between Ethiopia and Eritrea and consider whether the countries can resolve a long-running frozen conflict.</desc>
   </programme>
   <programme channel="tv.46" start="20180620150000 +0000" stop="20180620160000 +0000">
     <title>newsgrid</title>
@@ -38110,10 +38100,10 @@
     </rating>
   </programme>
   <programme channel="tv.41" start="20180622200000 +0000" stop="20180622203000 +0000">
-    <title>The Moe Show</title>
-    <desc>Moe is a friendly, furry monster who lives in their treehouse on top of Mt Moehau in the Coromandel. The Moe Show follows Moe as he explores New Zealand meeting new friends and making new discoveries</desc>
+    <title>Rural Delivery</title>
+    <desc>Motor Trade Finance proudly brings you the places and faces behind New Zealand's agricultural sector. Made with funding from New Zealand On Air.</desc>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.41" start="20180622203000 +0000" stop="20180622210000 +0000">
@@ -38140,8 +38130,8 @@
     <desc>Top Acts Live George Dalaras</desc>
   </programme>
   <programme channel="tv.41" start="20180623010000 +0000" stop="20180623020000 +0000">
-    <title>Council Matters</title>
-    <desc>Coverage of the Dunedin City Council's Council Meetings.</desc>
+    <title>Warbirds Over Wanaka</title>
+    <desc>Spectacular aircraft and stunning scenery of the 2008 Warbirds over Wanaka airshow.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -38270,13 +38260,23 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.41" start="20180624010000 +0000" stop="20180624023000 +0000">
+  <programme channel="tv.41" start="20180624010000 +0000" stop="20180624020000 +0000">
+    <title>Southern Attractions</title>
+    <desc>Show highlighting local tourism activities.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.41" start="20180624020000 +0000" stop="20180624033000 +0000">
     <title>Oakley's Off the Bar</title>
     <desc>local junior football.</desc>
   </programme>
-  <programme channel="tv.41" start="20180624023000 +0000" stop="20180624040000 +0000">
-    <title>Southern Attractions</title>
-    <desc>Show highlighting local tourism activities.</desc>
+  <programme channel="tv.41" start="20180624033000 +0000" stop="20180624040000 +0000">
+    <title>Burping Bovidae</title>
+    <desc>Science Communication Film-making Graduate Documentary.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.41" start="20180624040000 +0000" stop="20180624043000 +0000">
     <title>Otago Museum Diaries</title>
