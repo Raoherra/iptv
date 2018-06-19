@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180618234713 +0000" stop="20180619001216 +0000">
-    <title>Searching for Sound S1E1</title>
-    <desc/>
-    <sub-title>Episode - Sandunes: Searching for Sound</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180619001216 +0000" stop="20180619010356 +0000">
-    <title>Sébastien Loeb: Off Roads</title>
-    <desc>Sébastien Loeb and co-driver Daniel Elena made WRC history. In 2016 they took on a new challenge: Dakar.</desc>
-    <sub-title>The WRC's Best Take on the Dakar</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180619010356 +0000" stop="20180619010943 +0000">
     <title>Nasser Al Attiyah: Road to Dakar S1E1</title>
     <desc>Nasser Al-Attiyah is working hard to find the right strategy with his new car for Rallye du Maroc 2018.</desc>
@@ -52282,10 +52272,11 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180621103000 +0000" stop="20180621113000 +0000">
-    <title>World's Wildest Flights</title>
+  <programme channel="tv.101204200421" start="20180621103000 +0000" stop="20180621123000 +0000">
+    <title>The Footy Show</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180621123000 +0000" stop="20180621130000 +0000">
@@ -55288,7 +55279,7 @@
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20180622170000 +0000" stop="20180622180000 +0000">
-    <title>Chicago Justice</title>
+    <title>Walking the Himalayas</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
