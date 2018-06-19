@@ -1659,6 +1659,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180627140000 +0000" stop="20180627143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180619131600 +0000" stop="20180619142500 +0000">
     <title>Q&amp;A</title>
     <subtitles type="teletext"/>
@@ -17160,18 +17167,18 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180625115500 +0000" stop="20180625130000 +0000">
-    <title>Ramsay's Kitchen Nightmares</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020520" start="20180625115500 +0000" stop="20180625122500 +0000">
     <title>Modern Family</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020520" start="20180625115500 +0000" stop="20180625130000 +0000">
+    <title>Ramsay's Kitchen Nightmares</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180625122500 +0000" stop="20180625125500 +0000">
@@ -36677,11 +36684,6 @@
     <rating system="Freeview">
       <value>G</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180619205554 +0000" stop="20180619213603 +0000">
-    <title>The Learning Curve</title>
-    <desc>Drew Bezanson tries to make the transition from freestyle BMX to the world of slopestyle mountain biking.</desc>
-    <sub-title>Drew Bezanson: From BMX to MTB</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180619213603 +0000" stop="20180619224829 +0000">
     <title>Pretty Sweet</title>
