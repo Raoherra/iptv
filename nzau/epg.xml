@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180620205403 +0000" stop="20180620215639 +0000">
-    <title>Holy Stokes!</title>
-    <desc>Join the Volcom team for a worldwide skate-fest as they shred their way around every corner of the globe. </desc>
-    <sub-title>A Real Life Happening</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180620215639 +0000" stop="20180620220941 +0000">
     <title>Who is JOB S4E10</title>
     <desc>From Supsquatch to Sand Skis to Fire Barrels, Jamie looks back at all the classic moments from this season.</desc>
@@ -43470,6 +43465,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180628140000 +0000" stop="20180628143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180620135700 +0000" stop="20180620141400 +0000">
     <title>Media Watch</title>
     <subtitles type="teletext"/>
@@ -53393,6 +53395,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200421" start="20180628140000 +0000" stop="20180628150000 +0000">
+    <title>House Husbands</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180620122800 +0000" stop="20180620141900 +0000">
@@ -65737,6 +65746,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180628140000 +0000" stop="20180628143000 +0000">
+    <title>Raceday Review - Racing.com Park</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406020621" start="20180620133600 +0000" stop="20180620143000 +0000">
     <title>48 Hours</title>
     <subtitles type="teletext"/>
@@ -71114,10 +71130,11 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20180620143000 +0000" stop="20180620153000 +0000">
-    <title>Chance</title>
+  <programme channel="tv.320203000301" start="20180620143000 +0000" stop="20180620170000 +0000">
+    <title>FIFA WC 2018: URU v KSA</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180620170000 +0000" stop="20180620173000 +0000">
