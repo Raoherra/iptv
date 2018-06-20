@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180620055837 +0000" stop="20180620060807 +0000">
-    <title>Life Behind Bars S1E2</title>
-    <desc>Brandon Semenuk and Logan Peat drive down the coast in a Ford Mustang Mach 1 for an MTB session in California.</desc>
-    <sub-title>California Coasting</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180620060807 +0000" stop="20180620061700 +0000">
-    <title>Life Behind Bars S1E3</title>
-    <desc>In California, Brandon Semenuk and Logan Peat test out an indoor skate training course – including a foam pit.</desc>
-    <sub-title>Foam Pits and Fishing</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180620061700 +0000" stop="20180620070541 +0000">
     <title>La Liste</title>
     <desc>Over the course two seasons, young phenom Jérémie Heitz tries to ski 15 of the Alps' steepest peaks.</desc>
@@ -7468,6 +7458,9 @@
   <programme channel="tv.12" start="20180625093000 +0000" stop="20180625103000 +0000">
     <title>60 Days In</title>
     <desc>Phase two of Sheriff Jamey Noel's unprecedented program begins with four new participants entering the Clark County Jail to continue the covert operation designed to root out corruption and contraband</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180625103000 +0000" stop="20180625112500 +0000">
     <title>Killer Couples</title>
@@ -14732,6 +14725,9 @@
   <programme channel="tv.30" start="20180625103000 +0000" stop="20180625113000 +0000">
     <title>60 Days In</title>
     <desc>Phase two of Sheriff Jamey Noel's unprecedented program begins with four new participants entering the Clark County Jail to continue the covert operation designed to root out corruption and contraband</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180625113000 +0000" stop="20180625122500 +0000">
     <title>Killer Couples</title>
@@ -24778,7 +24774,7 @@
   </programme>
   <programme channel="tv.51" start="20180620210000 +0000" stop="20180620220000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Top Downloads</desc>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Boy &amp; Girl</desc>
   </programme>
   <programme channel="tv.51" start="20180620220000 +0000" stop="20180621000000 +0000">
     <title>All The Hits</title>
@@ -24830,7 +24826,7 @@
   </programme>
   <programme channel="tv.51" start="20180621080000 +0000" stop="20180621090000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Good Charlotte</desc>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Boy &amp; Girl</desc>
   </programme>
   <programme channel="tv.51" start="20180621090000 +0000" stop="20180621103000 +0000">
     <title>All The Hits</title>
