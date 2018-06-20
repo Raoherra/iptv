@@ -5,14 +5,14 @@
         "name": "7TWO",
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030532.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "width": 896,
+            "height": 504,
             "codec": "h264",
-            "height": 504
+            "width": 896
         },
         "audio": {
-            "sample_rate": 48000,
             "codec": "aac",
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.101305030535": {
@@ -21,14 +21,14 @@
         "name": "7flix",
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030535.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "width": 640,
+            "height": 360,
             "codec": "h264",
-            "height": 360
+            "width": 640
         },
         "audio": {
-            "sample_rate": 48000,
             "codec": "aac",
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.101305030533": {
@@ -37,14 +37,14 @@
         "name": "7mate",
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030533.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "width": 896,
+            "height": 504,
             "codec": "h264",
-            "height": 504
+            "width": 896
         },
         "audio": {
-            "sample_rate": 48000,
             "codec": "aac",
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.101204300436": {
@@ -101,14 +101,14 @@
         "name": "ABC",
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002310231.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "width": 640,
+            "height": 360,
             "codec": "h264",
-            "height": 360
+            "width": 640
         },
         "audio": {
-            "sample_rate": 44100,
             "codec": "aac",
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 44100
         }
     },
     "tv.101002210222": {
@@ -133,14 +133,14 @@
         "name": "ABC ME",
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "width": 640,
+            "height": 360,
             "codec": "h264",
-            "height": 360
+            "width": 640
         },
         "audio": {
-            "sample_rate": 44100,
             "codec": "aac",
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 44100
         }
     },
     "tv.101002210220": {
@@ -260,14 +260,14 @@
         "name": "RACING.COM",
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305020528.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "width": 640,
+            "height": 360,
             "codec": "h264",
-            "height": 360
+            "width": 640
         },
         "audio": {
-            "sample_rate": 48000,
             "codec": "aac",
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.redbull.tv": {
@@ -324,14 +324,14 @@
         "name": "Seven",
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030530.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "width": 896,
+            "height": 504,
             "codec": "h264",
-            "height": 504
+            "width": 896
         },
         "audio": {
-            "sample_rate": 48000,
             "codec": "aac",
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 48000
         }
     },
     "tv.101406030635": {
