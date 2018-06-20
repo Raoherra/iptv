@@ -11225,7 +11225,6 @@
   </programme>
   <programme channel="tv.101204500451" start="20180625023000 +0000" stop="20180625033000 +0000">
     <title>Ellen</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -11396,7 +11395,6 @@
   </programme>
   <programme channel="tv.101204500451" start="20180626023000 +0000" stop="20180626033000 +0000">
     <title>Ellen</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -11540,7 +11538,6 @@
   </programme>
   <programme channel="tv.101204500451" start="20180627023000 +0000" stop="20180627033000 +0000">
     <title>Ellen</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -11555,6 +11552,9 @@
   <programme channel="tv.101204500451" start="20180627040000 +0000" stop="20180627053000 +0000">
     <title>Buying Blind</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101204500451" start="20180627053000 +0000" stop="20180627063000 +0000">
     <title>Nine News Now</title>
@@ -14055,7 +14055,7 @@
     </rating>
   </programme>
   <programme channel="tv.101204500457" start="20180625133000 +0000" stop="20180625143000 +0000">
-    <title>Born to Kill? Class of Evil</title>
+    <title>Life Inside Lockdown</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -14126,7 +14126,6 @@
   </programme>
   <programme channel="tv.101204500457" start="20180625223000 +0000" stop="20180625233000 +0000">
     <title>Ellen</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -14297,7 +14296,6 @@
   </programme>
   <programme channel="tv.101204500457" start="20180626223000 +0000" stop="20180626233000 +0000">
     <title>Ellen</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -18939,18 +18937,18 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050550" start="20180625122500 +0000" stop="20180625125500 +0000">
-    <title>Modern Family</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050550" start="20180625122500 +0000" stop="20180625133000 +0000">
     <title>Ramsay's Kitchen Nightmares</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050550" start="20180625122500 +0000" stop="20180625125500 +0000">
+    <title>Modern Family</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050550" start="20180625125500 +0000" stop="20180625132500 +0000">
@@ -35006,13 +35004,13 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180620180500 +0000" stop="20180620190500 +0000">
+  <programme channel="tv.320203000305" start="20180620180500 +0000" stop="20180620190000 +0000">
     <title>Volumz</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180620190500 +0000" stop="20180620200000 +0000">
+  <programme channel="tv.320203000305" start="20180620190000 +0000" stop="20180620200000 +0000">
     <title>Volumz</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -35102,19 +35100,19 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180621013000 +0000" stop="20180621033000 +0000">
+  <programme channel="tv.320203000305" start="20180621013000 +0000" stop="20180621034500 +0000">
     <title>NEAFL</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180621033000 +0000" stop="20180621040000 +0000">
+  <programme channel="tv.320203000305" start="20180621034500 +0000" stop="20180621041500 +0000">
     <title>Nyoongar Footy Magic</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180621040000 +0000" stop="20180621043000 +0000">
+  <programme channel="tv.320203000305" start="20180621041500 +0000" stop="20180621044500 +0000">
     <title>Uluit: Champions Of The North</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -35876,31 +35874,25 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180624034500 +0000" stop="20180624053500 +0000">
+  <programme channel="tv.320203000305" start="20180624034500 +0000" stop="20180624060000 +0000">
     <title>NEAFL</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180624053500 +0000" stop="20180624060500 +0000">
-    <title>Ella 7's</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000305" start="20180624060500 +0000" stop="20180624063500 +0000">
+  <programme channel="tv.320203000305" start="20180624060000 +0000" stop="20180624063000 +0000">
     <title>Dakar Rally</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180624063500 +0000" stop="20180624070500 +0000">
+  <programme channel="tv.320203000305" start="20180624063000 +0000" stop="20180624070000 +0000">
     <title>Maori TV's Native Affairs</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180624070500 +0000" stop="20180624073000 +0000">
+  <programme channel="tv.320203000305" start="20180624070000 +0000" stop="20180624073000 +0000">
     <title>Te Kaea</title>
     <rating system="Freeview">
       <value>NC</value>
@@ -36793,16 +36785,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180620050119 +0000" stop="20180620054918 +0000">
-    <title>Ready to Race</title>
-    <desc>Austria’s most successful motorbike racing team makes the jump into MotoGP, the pinnacle of motorcycle racing.</desc>
-    <sub-title>KTM Goes MotoGP</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180620054918 +0000" stop="20180620055837 +0000">
-    <title>Life Behind Bars S1E1</title>
-    <desc>In the woods of British Columbia, Canada, Brandon and his friends live in a freeride mountain biking paradise.</desc>
-    <sub-title>Ultimate MTB House</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180620055837 +0000" stop="20180620060807 +0000">
     <title>Life Behind Bars S1E2</title>
