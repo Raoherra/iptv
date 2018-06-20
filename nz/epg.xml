@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180620000045 +0000" stop="20180620005511 +0000">
-    <title>Claim Freedom</title>
-    <desc>Four adventurers push themselves physically, mentally, and spiritually to conquer what once seemed impossible.</desc>
-    <sub-title>Exploring the Far Reaches of Imagination</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180620005511 +0000" stop="20180620010115 +0000">
-    <title>Cody Webb and Taylor Robert</title>
-    <desc>Two MX riders tear up California's Donner Ski Ranch in a stunning display of backcountry trials riding.</desc>
-    <sub-title>Donner Partying</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180620010115 +0000" stop="20180620012344 +0000">
     <title>Reel Rock S1E3</title>
     <desc>Andy Lewis is the mad genius who transforms slacklining into a full-blown art form and adventure sport.</desc>
@@ -2851,6 +2841,9 @@
   <programme channel="tv.10" start="20180620184000 +0000" stop="20180620185500 +0000">
     <title>Takaro Tribe</title>
     <desc>This New Zealand-made animation sees the TĀKARO TRIBE on a learning adventure in Te Wao Arapū (the magical Alphabet Forest), along with Pāpā Rākau (Tree father) and Kōkā (Pond Mother).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180620185500 +0000" stop="20180620190000 +0000">
     <title>Peppa Pig</title>
@@ -3287,6 +3280,9 @@
   <programme channel="tv.10" start="20180622040000 +0000" stop="20180622043000 +0000">
     <title>Fanimals</title>
     <desc>It's Friday and Fanimals is throwing a guinea pig party, we go on a celebrity pet date with Olympic weightlifter Bailey Rogers and her dog Rollo at the gym, and get ready to play 'Fact or Fiction'!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180622043000 +0000" stop="20180622050000 +0000">
     <title>Friends</title>
@@ -3380,10 +3376,16 @@
   <programme channel="tv.10" start="20180622112500 +0000" stop="20180622120500 +0000">
     <title>Balls OD Steel</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180622120500 +0000" stop="20180622124000 +0000">
     <title>Balls Of Steel</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180622124000 +0000" stop="20180622130000 +0000">
     <title>Two And A Half Men</title>
@@ -3975,7 +3977,7 @@
   </programme>
   <programme channel="tv.10" start="20180624184000 +0000" stop="20180624185000 +0000">
     <title>Darwin &amp; Newts</title>
-    <desc>New Series. Darwin and Newts are two brothers who love adventures, and figuring out how stuff works! Join them as they explore and discover new things with the help of science and some Kiwi ingenuity.</desc>
+    <desc>Darwin and Newts are a brother and sister duo who love adventures and figuring out how stuff works! Join them as they explore and discover new things with the help of science and some Kiwi ingenuity.</desc>
     <audio>
       <stereo>dolby</stereo>
     </audio>
@@ -4163,6 +4165,9 @@
       <stereo>dolby</stereo>
     </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180625083000 +0000" stop="20180625093000 +0000">
     <title>First Dates Hotel</title>
@@ -4288,7 +4293,7 @@
   </programme>
   <programme channel="tv.10" start="20180625184000 +0000" stop="20180625185000 +0000">
     <title>Darwin &amp; Newts</title>
-    <desc>Darwin and Newts are two brothers who love adventures, and figuring out how stuff works! Join them as they explore and discover new things, with the help of science and some Kiwi ingenuity.</desc>
+    <desc>Darwin and Newts are a brother and sister duo who love adventures and figuring out how stuff works! Join them as they explore and discover new things with the help of science and some Kiwi ingenuity.</desc>
     <audio>
       <stereo>dolby</stereo>
     </audio>
@@ -4370,6 +4375,9 @@
       <stereo>dolby</stereo>
     </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180625235500 +0000" stop="20180626010000 +0000">
     <title>Jeremy Kyle</title>
