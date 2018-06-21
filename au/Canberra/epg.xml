@@ -11785,6 +11785,7 @@
   </programme>
   <programme channel="tv.101204200424" start="20180621133000 +0000" stop="20180621142900 +0000">
     <title>Dr Miami</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -13680,7 +13681,13 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20180623230000 +0000" stop="20180624000000 +0000">
+  <programme channel="tv.101204200427" start="20180623230000 +0000" stop="20180623233000 +0000">
+    <title>TV Shop - Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200427" start="20180623233000 +0000" stop="20180624000000 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
@@ -13803,7 +13810,13 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20180624233000 +0000" stop="20180625003000 +0000">
+  <programme channel="tv.101204200427" start="20180624233000 +0000" stop="20180625000000 +0000">
+    <title>Danoz</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200427" start="20180625000000 +0000" stop="20180625003000 +0000">
     <title>Danoz</title>
     <rating system="Freeview">
       <value>G</value>
@@ -16932,35 +16945,44 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180624133700 +0000" stop="20180624142800 +0000">
+  <programme channel="tv.101305020520" start="20180624133700 +0000" stop="20180624143300 +0000">
     <title>Blindspot</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180624142800 +0000" stop="20180624152600 +0000">
+  <programme channel="tv.101305020520" start="20180624143300 +0000" stop="20180624153100 +0000">
     <title>Bates Motel</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180624152600 +0000" stop="20180624160000 +0000">
+  <programme channel="tv.101305020520" start="20180624153100 +0000" stop="20180624160000 +0000">
     <title>Grandfathered</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180624160000 +0000" stop="20180624163000 +0000">
-    <title>To Be Advised</title>
+  <programme channel="tv.101305020520" start="20180624160000 +0000" stop="20180624162900 +0000">
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180624163000 +0000" stop="20180624170000 +0000">
-    <title>To Be Advised</title>
+  <programme channel="tv.101305020520" start="20180624162900 +0000" stop="20180624165900 +0000">
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180624170000 +0000" stop="20180624173000 +0000">
-    <title>To Be Advised</title>
+  <programme channel="tv.101305020520" start="20180624165900 +0000" stop="20180624172900 +0000">
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180624173000 +0000" stop="20180624180500 +0000">
+  <programme channel="tv.101305020520" start="20180624172900 +0000" stop="20180624180500 +0000">
     <title>Harry's Practice</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -17044,32 +17066,25 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180625090000 +0000" stop="20180625093000 +0000">
+  <programme channel="tv.101305020520" start="20180625090000 +0000" stop="20180625093100 +0000">
     <title>Home and Away</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180625093000 +0000" stop="20180625104500 +0000">
+  <programme channel="tv.101305020520" start="20180625093100 +0000" stop="20180625104600 +0000">
     <title>House Rules</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180625104500 +0000" stop="20180625115500 +0000">
+  <programme channel="tv.101305020520" start="20180625104600 +0000" stop="20180625115600 +0000">
     <title>First Dates</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020520" start="20180625115500 +0000" stop="20180625130000 +0000">
-    <title>Ramsay's Kitchen Nightmares</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180625115500 +0000" stop="20180625122500 +0000">
@@ -17077,6 +17092,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020520" start="20180625115600 +0000" stop="20180625130100 +0000">
+    <title>Ramsay's Kitchen Nightmares</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180625122500 +0000" stop="20180625125500 +0000">
@@ -17093,7 +17115,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180625130000 +0000" stop="20180625135400 +0000">
+  <programme channel="tv.101305020520" start="20180625130100 +0000" stop="20180625145100 +0000">
     <title>Air Crash Investigations</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -18350,7 +18372,10 @@
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180624200000 +0000" stop="20180624203000 +0000">
-    <title>To Be Advised</title>
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180624203000 +0000" stop="20180624205900 +0000">
     <title>Harry's Practice</title>
@@ -19785,7 +19810,10 @@
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180624200000 +0000" stop="20180624203000 +0000">
-    <title>To Be Advised</title>
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180624203000 +0000" stop="20180624205800 +0000">
     <title>AFN Fishing Show</title>
@@ -21414,81 +21442,81 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20180625035900 +0000" stop="20180625050600 +0000">
+  <programme channel="tv.101305020525" start="20180625035900 +0000" stop="20180625050400 +0000">
     <title>The Blacklist</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20180625050600 +0000" stop="20180625053400 +0000">
+  <programme channel="tv.101305020525" start="20180625050400 +0000" stop="20180625053200 +0000">
     <title>Men at Work</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20180625053400 +0000" stop="20180625060600 +0000">
+  <programme channel="tv.101305020525" start="20180625053200 +0000" stop="20180625060400 +0000">
     <title>Diff'rent Strokes</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20180625060600 +0000" stop="20180625063800 +0000">
+  <programme channel="tv.101305020525" start="20180625060400 +0000" stop="20180625063600 +0000">
     <title>Bewitched</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20180625063800 +0000" stop="20180625070900 +0000">
+  <programme channel="tv.101305020525" start="20180625063600 +0000" stop="20180625070800 +0000">
     <title>I Dream of Jeannie</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20180625070900 +0000" stop="20180625073800 +0000">
+  <programme channel="tv.101305020525" start="20180625070800 +0000" stop="20180625073600 +0000">
     <title>Just Shoot Me</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20180625073800 +0000" stop="20180625080700 +0000">
+  <programme channel="tv.101305020525" start="20180625073600 +0000" stop="20180625080500 +0000">
     <title>Dr. Ken</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20180625080700 +0000" stop="20180625083700 +0000">
+  <programme channel="tv.101305020525" start="20180625080500 +0000" stop="20180625083500 +0000">
     <title>Married... with Children</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20180625083700 +0000" stop="20180625090700 +0000">
+  <programme channel="tv.101305020525" start="20180625083500 +0000" stop="20180625090500 +0000">
     <title>Seinfeld</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20180625090700 +0000" stop="20180625093700 +0000">
+  <programme channel="tv.101305020525" start="20180625090500 +0000" stop="20180625093500 +0000">
     <title>Seinfeld</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20180625093700 +0000" stop="20180625100600 +0000">
+  <programme channel="tv.101305020525" start="20180625093500 +0000" stop="20180625100400 +0000">
     <title>Seinfeld</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20180625100600 +0000" stop="20180625103800 +0000">
+  <programme channel="tv.101305020525" start="20180625100400 +0000" stop="20180625103800 +0000">
     <title>Seinfeld</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -26701,7 +26729,7 @@
     <title>MasterChef Australia</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20180626104000 +0000" stop="20180626114000 +0000">
@@ -26828,7 +26856,7 @@
     <title>MasterChef Australia</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20180627040000 +0000" stop="20180627043000 +0000">
@@ -27898,7 +27926,11 @@
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180623103000 +0000" stop="20180623113000 +0000">
-    <title>To Be Advised</title>
+    <title>Have You Been Paying Attention?</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180623113000 +0000" stop="20180623123000 +0000">
     <title>Car Crash Global: Caught on Camera</title>
@@ -29318,17 +29350,17 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20180620143000 +0000" stop="20180620153000 +0000">
-    <title>Chance</title>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000301" start="20180620143000 +0000" stop="20180620170000 +0000">
     <title>FIFA WC 2018: URU v KSA</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000301" start="20180620143000 +0000" stop="20180620153000 +0000">
+    <title>Chance</title>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180620170000 +0000" stop="20180620173000 +0000">
@@ -36669,31 +36701,6 @@
     <rating system="Freeview">
       <value>NC</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180621005434 +0000" stop="20180621011628 +0000">
-    <title>Reel Rock S1E4</title>
-    <desc>Ueli Steck is one of the world's fastest climbers. Setting The Eiger's speed record would make him a legend.</desc>
-    <sub-title>The Swiss Machine </sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180621011628 +0000" stop="20180621013711 +0000">
-    <title>Follow Your Nose</title>
-    <desc>Snowboarders Gigi Rüf and Elias Elhardt go in search of unshredded powder in the backcountry.</desc>
-    <sub-title>Two Powder Hounds on the Hunt for Epic Snow</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180621013711 +0000" stop="20180621014714 +0000">
-    <title>MX Nation S3E2</title>
-    <desc>Dean Wilson tries to return to contention after a string of major injuries nearly cost him his career.</desc>
-    <sub-title>The Road Back</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180621014714 +0000" stop="20180621015416 +0000">
-    <title>Life Behind Bars S2E1</title>
-    <desc>With a new year ahead of them, Brandon Semenuk and friends build a series of monster jumps in their backyard.</desc>
-    <sub-title>Return of the Intern</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180621015416 +0000" stop="20180621015958 +0000">
-    <title>Life Behind Bars S2E2</title>
-    <desc>Waiting for their jumps to harden, Brandon Semenuk and friends hold a backyard mini-Olympics.</desc>
-    <sub-title>Yard Games</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180621015958 +0000" stop="20180621023918 +0000">
     <title>Follow Me</title>
