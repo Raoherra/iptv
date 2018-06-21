@@ -101,14 +101,14 @@
         "name": "ABC",
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101002210221.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "codec": "h264",
             "width": 640,
-            "height": 360
+            "height": 360,
+            "codec": "h264"
         },
         "audio": {
-            "codec": "aac",
+            "sample_rate": 44100,
             "channels": 2,
-            "sample_rate": 44100
+            "codec": "aac"
         }
     },
     "tv.101002210222": {
