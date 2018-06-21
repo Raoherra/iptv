@@ -275,14 +275,14 @@
         "name": "Redbull TV",
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.redbull.tv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
-            "width": 1280,
+            "height": 720,
             "codec": "h264",
-            "height": 720
+            "width": 1280
         },
         "audio": {
-            "channels": 2,
             "codec": "aac",
-            "sample_rate": 48000
+            "sample_rate": 48000,
+            "channels": 2
         },
         "description": "Red Bull TV: beyond the ordinary live events and videos featuring inspirational stories covering sports, music and lifestyle entertainment. Anytime, anywhere."
     },
