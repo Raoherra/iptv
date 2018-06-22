@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180622214234 +0000" stop="20180622220659 +0000">
-    <title>True North S1E1</title>
-    <desc>Meet basketball pioneers who've grown the game and get to know a group of young hopefuls chasing their dreams.</desc>
-    <sub-title>Inside the Rise of Toronto Basketball </sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180622220629 +0000" stop="20180622221527 +0000">
-    <title>The Shokunin</title>
-    <desc>Shigetoshi Egashira created the legendary baseball glove brand Kubota Slugger with his exclusive technique.</desc>
-    <sub-title>Devoted to the Craft</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180622221527 +0000" stop="20180622231315 +0000">
     <title>Distance Between Dreams</title>
     <desc>During a historically big winter, iconic surfer Ian Walsh is out to redefine the ceiling on big wave surfing.</desc>
@@ -3217,6 +3207,9 @@
   <programme channel="tv.10" start="20180626073000 +0000" stop="20180626083000 +0000">
     <title>Heartbreak Island</title>
     <desc>Chinese whispers, lies and gossip turn a trip to an idyllic location into a fight fest. But will it change alliances as couples head into their final Passion Play?</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
   </programme>
   <programme channel="tv.10" start="20180626083000 +0000" stop="20180626092500 +0000">
@@ -3421,6 +3414,9 @@
   <programme channel="tv.10" start="20180626230000 +0000" stop="20180627000000 +0000">
     <title>Heartbreak Island</title>
     <desc>Chinese whispers, lies and gossip turn a trip to an idyllic location into a fight fest. But will it change alliances as couples head into their final Passion Play?</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
   </programme>
   <programme channel="tv.10" start="20180627000000 +0000" stop="20180627010000 +0000">
@@ -4192,6 +4188,9 @@
   <programme channel="tv.10" start="20180629093000 +0000" stop="20180629102500 +0000">
     <title>Heartbreak Island Uncut</title>
     <desc>Revisit the week on Heartbreak Island, catch all the biggest moments, plus never before seen footage that reveals a whole lot more of the couples and what they get up to when the lights go out.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
   </programme>
   <programme channel="tv.10" start="20180629102500 +0000" stop="20180629112000 +0000">
