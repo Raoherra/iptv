@@ -161,31 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180622155845 +0000" stop="20180622161947 +0000">
-    <title>Escape. Create.</title>
-    <desc>Dan Atherton designs intense BMX trails for himself, his brother Gee, and his sister Rachel.</desc>
-    <sub-title>Building the Hardest Downhill Trail</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180622161948 +0000" stop="20180622163251 +0000">
-    <title>Life Behind Bars S2E5</title>
-    <desc>Battling harsh winds, Brandon Semenuk competes at the first-ever X Games MTB slopestyle event in Munich.</desc>
-    <sub-title>Rough Riding at X Games</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180622163251 +0000" stop="20180622164217 +0000">
-    <title>Life Behind Bars S2E6</title>
-    <desc>Brandon Semenuk and Cam Zink take in a motorhome trip to Utah, USA for some dialled-in freeride MTB sessions.</desc>
-    <sub-title>Road Trip to Gnarlytown</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180622164217 +0000" stop="20180622165213 +0000">
-    <title>MX Nation S3E4</title>
-    <desc>In competing for the 450 Class overall title, mental readiness can play a huge role in the podium rankings.</desc>
-    <sub-title>Mind Games</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180622165213 +0000" stop="20180622165819 +0000">
-    <title>Dougie Lampkin in the Arctic</title>
-    <desc>English trials master Dougie Lampkin brings his craft to the enchanting Arctic landscape of northern Finland.</desc>
-    <sub-title>Tundra Trial</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180622165907 +0000" stop="20180622175454 +0000">
     <title>Explorers: Documentaries S3E5</title>
     <desc>Will Gadd and Gavin McClurg attempt to smash a long distance flight record by paragliding over the Rockies. </desc>
@@ -13867,6 +13842,9 @@
   <programme channel="tv.28" start="20180623083000 +0000" stop="20180623110000 +0000">
     <title>All Blacks vs France</title>
     <desc>'The boys in black face off against France at Forsyth Barr Stadium. The French hold a 100% win record against the All Blacks in Dunedin, can this streak be broken? G'</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180623110000 +0000" stop="20180623121000 +0000">
     <title>Game Of Thrones</title>
@@ -13956,6 +13934,9 @@
   <programme channel="tv.28" start="20180624010500 +0000" stop="20180624020000 +0000">
     <title>Haati Grassroots Rugby</title>
     <desc>Join Haati Grassroots Rugby for a showcase of club rugby matches and homegrown stories from some of the 600 rugby clubs throughout New Zealand. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180624020000 +0000" stop="20180624023000 +0000">
     <title>Mad About You</title>
@@ -23960,36 +23941,36 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180622123000 +0000" stop="20180622133000 +0000">
+    <title>Beauty Awards!</title>
+    <desc>Tune in for TVSN's very own Beauty Awards! Stock up on much loved beauty products with 12 hours of your favourite brands with special guests, premiere products &amp; amazing offers.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.45" start="20180622133000 +0000" stop="20180622143000 +0000">
+    <title>ECONOHEAT Efficient Heating</title>
+    <desc>This wall-mounted heater is safe for children and pets, with 90% of its heat emitted from the back! Effective, energy-efficient and compact, it's an attractive and affordable way to heat your home.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.45" start="20180622143000 +0000" stop="20180622153000 +0000">
     <title>Ciencia8 Skincare</title>
     <desc>All of your favourite skincare 8's come together as the Ciencia 8 family, with sleek new packaging, an exciting new collective branding and the same trusted, advanced formulas.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.45" start="20180622133000 +0000" stop="20180622143000 +0000">
-    <title>Charles Winston Diamonesque</title>
-    <desc>Fourth generation jeweller Charles Winston, whose highly-regarded collections are known and loved across the globe, joins us for an exciting look at his luxurious new collection for Diamoneque.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.45" start="20180622143000 +0000" stop="20180622153000 +0000">
-    <title>HP Explore And Create</title>
-    <desc>Enjoy more shopping, more entertainment and more brands today on TVSN! Up next is iconic global brand HP with more ways for you to explore and create using the latest in their technological designs.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.45" start="20180622153000 +0000" stop="20180622163000 +0000">
-    <title>TomTom Real Time Navigation</title>
-    <desc>Never miss a turn off again! Tune in now as we show you how TomTom Real Time Navigation you can get from A to B without the hassle of difficult-to-use navigation systems.</desc>
+    <title>Splendido Gold with Federico</title>
+    <desc>Classic enough to be worn every day but luxurious enough for special occasions, the new Splendido Collection is simply irresistible!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180622163000 +0000" stop="20180622173000 +0000">
-    <title>Splendido Gold with Federico</title>
-    <desc>Classic enough to be worn every day but luxurious enough for special occasions, the new Splendido Collection is simply irresistible!</desc>
+    <title>Kalari Crush Exotic Nutrients</title>
+    <desc>Enjoy the benefits of Australia's unique wild plant foods, rich in natural vitamins, antioxidants and unique phytonutrients, all found in this nutrient dense super beverage.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -24009,8 +23990,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180622193000 +0000" stop="20180622203000 +0000">
-    <title>Charles Winston Diamonesque</title>
-    <desc>Fourth generation jeweller Charles Winston, whose highly-regarded collections are known and loved across the globe, joins us for an exciting look at his luxurious new collection for Diamoneque.</desc>
+    <title>Splendido Gold with Federico</title>
+    <desc>Classic enough to be worn every day but luxurious enough for special occasions, the new Splendido Collection is simply irresistible!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -24023,8 +24004,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180622213000 +0000" stop="20180622223000 +0000">
-    <title>Bueno Footwear</title>
-    <desc>Bueno Footwear combines a delicate balance of style and comfort, achieved by the use of genuine hand-worked leathers cobined with soft, supple linnings and insoles.</desc>
+    <title>Charles Winston Diamonesque</title>
+    <desc>Fourth generation jeweller Charles Winston, whose highly-regarded collections are known and loved across the globe, joins us for an exciting look at his luxurious new collection for Diamoneque.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
