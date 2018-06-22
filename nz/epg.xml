@@ -161,46 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180622060429 +0000" stop="20180622061722 +0000">
-    <title>Who is JOB S4E10</title>
-    <desc>From Supsquatch to Sand Skis to Fire Barrels, Jamie looks back at all the classic moments from this season.</desc>
-    <sub-title>Victory Lap</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180622061722 +0000" stop="20180622062831 +0000">
-    <title>Who is JOB S4E9</title>
-    <desc>The gang's Mexico excursion continues, and they're riding the swells with anything and everything they have.</desc>
-    <sub-title>SUPsquatch Barrels</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180622062831 +0000" stop="20180622064044 +0000">
-    <title>Who is JOB S4E8</title>
-    <desc>When an epic swell hits Mexico, JOB, Poopies, and Shane Dorian rendezvous and get rowdy.</desc>
-    <sub-title>Two Dudes One Barrel</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180622064044 +0000" stop="20180622065328 +0000">
-    <title>Who is JOB S4E7</title>
-    <desc>Jamie has the hottest session of his life: surfing a massive slab in Teahupo’ while he’s lit on fire.</desc>
-    <sub-title>Man on Fire</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180622065328 +0000" stop="20180622065530 +0000">
-    <title>Travel Story S1E1</title>
-    <desc>Ryan goes on a freerun through Rome, meeting its people and exploring its architecture along the way.</desc>
-    <sub-title>Freerunning in Rome</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180622065530 +0000" stop="20180622065826 +0000">
-    <title>Travel Story S1E2</title>
-    <desc>Ryan heads to one of the liveliest cities in the world and parties with the locals of Rio de Janeiro.</desc>
-    <sub-title>Freerunning in Brazil</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180622065826 +0000" stop="20180622070134 +0000">
-    <title>Travel Story S1E3</title>
-    <desc>Ryan travels to the mystical ruins of Machu Picchu for an epic once-in-a-lifetime parkour adventure.</desc>
-    <sub-title>Freerunning in Peru</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180622070104 +0000" stop="20180622070416 +0000">
-    <title>Travel Story S1E4</title>
-    <desc>Ryan visits India for the first time and has some fun learning a new skill — Bollywood dancing.</desc>
-    <sub-title>Freerunning in India</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180622070416 +0000" stop="20180622073219 +0000">
     <title>Follow the Steps S1E5</title>
     <desc>The Steps fly to San Francisco, California, United States, to launch a tour and hopefully land a gig in Vegas.</desc>
@@ -4855,10 +4815,16 @@
   <programme channel="tv.11" start="20180622090000 +0000" stop="20180622094500 +0000">
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Steve Wrigley, Cori Gonzalez-Macuer, Hayley Sproull and Pax Assadi.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180622094500 +0000" stop="20180622101500 +0000">
     <title>The Spinoff TV</title>
     <desc>Premiere. New Episode. Tonight features political satirist Tom Sainsbury, a look at the history of representation in NZ film and an exclusive look into Christchurch's first gay rugby team. S1 Ep1</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180622101500 +0000" stop="20180622104500 +0000">
     <title>Newshub Late</title>
@@ -4867,9 +4833,6 @@
   <programme channel="tv.11" start="20180622104500 +0000" stop="20180622111500 +0000">
     <title>American Dad</title>
     <desc>After Roger reveals that if Hayley and Jeff were to have kids they would be half-alien since Jeff's brain is the only human part of him, Roger agrees to act as a surrogate. S13 Ep6</desc>
-    <audio>
-      <stereo>dolby</stereo>
-    </audio>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -4908,21 +4871,21 @@
     <title>Newshub Nation</title>
     <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
   </programme>
-  <programme channel="tv.11" start="20180622223000 +0000" stop="20180622233500 +0000">
+  <programme channel="tv.11" start="20180622223000 +0000" stop="20180622233000 +0000">
     <title>Zumbo's Just Desserts</title>
     <desc>The contestants must take existing desserts and fuse them together to create a brand new creation. S1 Ep2</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180622233500 +0000" stop="20180623000500 +0000">
+  <programme channel="tv.11" start="20180622233000 +0000" stop="20180623000000 +0000">
     <title>Come Dine With Me NZ</title>
     <desc>Eighteen-year-old aspiring actress Jemima kicks off the week with some slightly confused global delicacies and a decidedly hands on approach to entertaining. S1 Ep11</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180623000500 +0000" stop="20180623010500 +0000">
+  <programme channel="tv.11" start="20180623000000 +0000" stop="20180623010500 +0000">
     <title>Dancing With The Stars</title>
     <desc>New Episode. It's a wintery night in the ballroom on Dancing with the Stars as they dance to impress the judges and the voting audience.</desc>
   </programme>
@@ -5008,18 +4971,30 @@
   <programme channel="tv.11" start="20180623180000 +0000" stop="20180623183000 +0000">
     <title>Life TV</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180623183000 +0000" stop="20180623190000 +0000">
     <title>Brian Houston</title>
     <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180623190000 +0000" stop="20180623200000 +0000">
     <title>Charles Stanley</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180623200000 +0000" stop="20180623203000 +0000">
     <title>Living Church Of God</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180623203000 +0000" stop="20180623210000 +0000">
     <title>Turning Point With David Jeremiah</title>
@@ -5236,7 +5211,7 @@
   </programme>
   <programme channel="tv.11" start="20180625083000 +0000" stop="20180625093000 +0000">
     <title>All New Lost &amp; Found</title>
-    <desc>This local documentary series sets about reuniting families, uncovering cultural identity and discovering lost family heritage.</desc>
+    <desc>New Episode. Alison wants to find her birth mother, but a message left on a missing person website turns her life upside down. And Shannon met his dad once when he was eight. Where is he now?</desc>
   </programme>
   <programme channel="tv.11" start="20180625093000 +0000" stop="20180625103000 +0000">
     <title>Killer Women With Piers Morgan</title>
@@ -5249,11 +5224,11 @@
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.11" start="20180625110000 +0000" stop="20180625113500 +0000">
+  <programme channel="tv.11" start="20180625110000 +0000" stop="20180625113000 +0000">
     <title>The Hui</title>
     <desc>Mihingarangi Forbes presents a compelling mix of current affairs investigations, human interest and arts and culture stories.</desc>
   </programme>
-  <programme channel="tv.11" start="20180625113500 +0000" stop="20180625123500 +0000">
+  <programme channel="tv.11" start="20180625113000 +0000" stop="20180625123500 +0000">
     <title>Newshub Nation</title>
     <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
   </programme>
@@ -5912,6 +5887,9 @@
   <programme channel="tv.12" start="20180622073300 +0000" stop="20180622073500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180622073500 +0000" stop="20180622083000 +0000">
     <title>Catfish</title>
@@ -5930,6 +5908,9 @@
   <programme channel="tv.12" start="20180622102800 +0000" stop="20180622103000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180622103000 +0000" stop="20180622112500 +0000">
     <title>Killer Couples</title>
@@ -5974,6 +5955,9 @@
   <programme channel="tv.12" start="20180622225800 +0000" stop="20180622230000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180622230000 +0000" stop="20180622232500 +0000">
     <title>Say Yes To The Dress Atlanta</title>
@@ -6006,6 +5990,9 @@
   <programme channel="tv.12" start="20180623005300 +0000" stop="20180623005500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180623005500 +0000" stop="20180623020000 +0000">
     <title>Back With The Ex</title>
@@ -6024,6 +6011,9 @@
   <programme channel="tv.12" start="20180623025300 +0000" stop="20180623025500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180623025500 +0000" stop="20180623035000 +0000">
     <title>Sell It Like Serhant</title>
@@ -6070,6 +6060,9 @@
   <programme channel="tv.12" start="20180623082800 +0000" stop="20180623083000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180623083000 +0000" stop="20180623093000 +0000">
     <title>My Crazy Ex</title>
@@ -6148,6 +6141,9 @@
   <programme channel="tv.12" start="20180623215300 +0000" stop="20180623215500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180623215500 +0000" stop="20180623224000 +0000">
     <title>Dance Moms</title>
@@ -6173,6 +6169,9 @@
   <programme channel="tv.12" start="20180624000800 +0000" stop="20180624001000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180624001000 +0000" stop="20180624010500 +0000">
     <title>Mysteries &amp; Scandals</title>
@@ -6219,6 +6218,9 @@
   <programme channel="tv.12" start="20180624034800 +0000" stop="20180624035000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180624035000 +0000" stop="20180624044500 +0000">
     <title>Dance Moms</title>
@@ -6272,6 +6274,9 @@
   <programme channel="tv.12" start="20180624102800 +0000" stop="20180624103000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180624103000 +0000" stop="20180624105500 +0000">
     <title>Don't Be Tardy</title>
@@ -6316,6 +6321,9 @@
   <programme channel="tv.12" start="20180624225300 +0000" stop="20180624225500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180624225500 +0000" stop="20180624234500 +0000">
     <title>Catfish</title>
@@ -6334,6 +6342,9 @@
   <programme channel="tv.12" start="20180625003800 +0000" stop="20180625004000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180625004000 +0000" stop="20180625015500 +0000">
     <title>Below Deck</title>
@@ -11999,10 +12010,16 @@
   <programme channel="tv.27" start="20180622100000 +0000" stop="20180622104500 +0000">
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Steve Wrigley, Cori Gonzalez-Macuer, Hayley Sproull and Pax Assadi.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180622104500 +0000" stop="20180622111500 +0000">
     <title>The Spinoff TV</title>
     <desc>Premiere. New Episode. Tonight features political satirist Tom Sainsbury, a look at the history of representation in NZ film and an exclusive look into Christchurch's first gay rugby team. S1 Ep1</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180622111500 +0000" stop="20180622114500 +0000">
     <title>Newshub Late</title>
@@ -12046,21 +12063,21 @@
     <title>Newshub Nation</title>
     <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
   </programme>
-  <programme channel="tv.27" start="20180622233000 +0000" stop="20180623003500 +0000">
+  <programme channel="tv.27" start="20180622233000 +0000" stop="20180623003000 +0000">
     <title>Zumbo's Just Desserts</title>
     <desc>The contestants must take existing desserts and fuse them together to create a brand new creation. S1 Ep2</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180623003500 +0000" stop="20180623010500 +0000">
+  <programme channel="tv.27" start="20180623003000 +0000" stop="20180623010000 +0000">
     <title>Come Dine With Me NZ</title>
     <desc>Eighteen-year-old aspiring actress Jemima kicks off the week with some slightly confused global delicacies and a decidedly hands on approach to entertaining. S1 Ep11</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180623010500 +0000" stop="20180623020500 +0000">
+  <programme channel="tv.27" start="20180623010000 +0000" stop="20180623020500 +0000">
     <title>Dancing With The Stars</title>
     <desc>New Episode. It's a wintery night in the ballroom on Dancing with the Stars as they dance to impress the judges and the voting audience.</desc>
   </programme>
@@ -12143,18 +12160,30 @@
   <programme channel="tv.27" start="20180623190000 +0000" stop="20180623193000 +0000">
     <title>Life TV</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180623193000 +0000" stop="20180623200000 +0000">
     <title>Brian Houston</title>
     <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180623200000 +0000" stop="20180623210000 +0000">
     <title>Charles Stanley</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180623210000 +0000" stop="20180623213000 +0000">
     <title>Living Church Of God</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180623213000 +0000" stop="20180623220000 +0000">
     <title>Turning Point With David Jeremiah</title>
@@ -12362,7 +12391,7 @@
   </programme>
   <programme channel="tv.27" start="20180625093000 +0000" stop="20180625103000 +0000">
     <title>All New Lost &amp; Found</title>
-    <desc>This local documentary series sets about reuniting families, uncovering cultural identity and discovering lost family heritage.</desc>
+    <desc>New Episode. Alison wants to find her birth mother, but a message left on a missing person website turns her life upside down. And Shannon met his dad once when he was eight. Where is he now?</desc>
   </programme>
   <programme channel="tv.27" start="20180625103000 +0000" stop="20180625113000 +0000">
     <title>Killer Women With Piers Morgan</title>
@@ -12375,11 +12404,11 @@
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.27" start="20180625120000 +0000" stop="20180625123500 +0000">
+  <programme channel="tv.27" start="20180625120000 +0000" stop="20180625123000 +0000">
     <title>The Hui</title>
     <desc>Mihingarangi Forbes presents a compelling mix of current affairs investigations, human interest and arts and culture stories.</desc>
   </programme>
-  <programme channel="tv.27" start="20180625123500 +0000" stop="20180625133500 +0000">
+  <programme channel="tv.27" start="20180625123000 +0000" stop="20180625133500 +0000">
     <title>Newshub Nation</title>
     <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
   </programme>
@@ -12990,6 +13019,9 @@
   <programme channel="tv.30" start="20180622083300 +0000" stop="20180622083500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180622083500 +0000" stop="20180622093000 +0000">
     <title>Catfish</title>
@@ -13008,6 +13040,9 @@
   <programme channel="tv.30" start="20180622112800 +0000" stop="20180622113000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180622113000 +0000" stop="20180622122500 +0000">
     <title>Killer Couples</title>
@@ -13052,6 +13087,9 @@
   <programme channel="tv.30" start="20180622235800 +0000" stop="20180623000000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180623000000 +0000" stop="20180623002500 +0000">
     <title>Say Yes To The Dress Atlanta</title>
@@ -13084,6 +13122,9 @@
   <programme channel="tv.30" start="20180623015300 +0000" stop="20180623015500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180623015500 +0000" stop="20180623030000 +0000">
     <title>Back With The Ex</title>
@@ -13102,6 +13143,9 @@
   <programme channel="tv.30" start="20180623035300 +0000" stop="20180623035500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180623035500 +0000" stop="20180623045000 +0000">
     <title>Sell It Like Serhant</title>
@@ -13148,6 +13192,9 @@
   <programme channel="tv.30" start="20180623092800 +0000" stop="20180623093000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180623093000 +0000" stop="20180623103000 +0000">
     <title>My Crazy Ex</title>
@@ -13226,6 +13273,9 @@
   <programme channel="tv.30" start="20180623225300 +0000" stop="20180623225500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180623225500 +0000" stop="20180623234000 +0000">
     <title>Dance Moms</title>
@@ -13251,6 +13301,9 @@
   <programme channel="tv.30" start="20180624010800 +0000" stop="20180624011000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180624011000 +0000" stop="20180624020500 +0000">
     <title>Mysteries &amp; Scandals</title>
@@ -13297,6 +13350,9 @@
   <programme channel="tv.30" start="20180624044800 +0000" stop="20180624045000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180624045000 +0000" stop="20180624054500 +0000">
     <title>Dance Moms</title>
@@ -13350,6 +13406,9 @@
   <programme channel="tv.30" start="20180624112800 +0000" stop="20180624113000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180624113000 +0000" stop="20180624115500 +0000">
     <title>Don't Be Tardy</title>
@@ -13394,6 +13453,9 @@
   <programme channel="tv.30" start="20180624235300 +0000" stop="20180624235500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180624235500 +0000" stop="20180625004500 +0000">
     <title>Catfish</title>
@@ -13412,6 +13474,9 @@
   <programme channel="tv.30" start="20180625013800 +0000" stop="20180625014000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180625014000 +0000" stop="20180625025500 +0000">
     <title>Below Deck</title>
