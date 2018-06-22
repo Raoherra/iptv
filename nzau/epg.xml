@@ -280,26 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180622034741 +0000" stop="20180622044044 +0000">
-    <title>Archaic Festivals S1E1</title>
-    <desc>Each year the people of Ashbourne, England, do battle in one of the world’s oldest and most dangerous games.</desc>
-    <sub-title>Royal Shrovetide Football</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180622044044 +0000" stop="20180622045359 +0000">
-    <title>Searching for Sound S1E6</title>
-    <desc>Russia's promising musician explores the Tatarstan region of his homeland for lost songs and new inspiration.</desc>
-    <sub-title>Mitya</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180622045359 +0000" stop="20180622045755 +0000">
-    <title>Heaven's Basement</title>
-    <desc>Check out the official video for the first single from the British rock trio's debut album Filthy Empire.</desc>
-    <sub-title>Fire, Fire: Music Video</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180622045755 +0000" stop="20180622050051 +0000">
-    <title>Travel Story S1E2</title>
-    <desc>Ryan heads to one of the liveliest cities in the world and parties with the locals of Rio de Janeiro.</desc>
-    <sub-title>Freerunning in Brazil</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180622050100 +0000" stop="20180622060350 +0000">
     <title>Holy Stokes!</title>
     <desc>Join the Volcom team for a worldwide skate-fest as they shred their way around every corner of the globe. </desc>
@@ -1990,6 +1970,9 @@
   <programme channel="tv.9" start="20180626010000 +0000" stop="20180626020000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Beth unwittingly upsets Steve when discussing pregnancy. Things look dull on Tracy's birthday after a series of disappointing engagements. Adam is put on the spot.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180626020000 +0000" stop="20180626030000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -2065,6 +2048,9 @@
   <programme channel="tv.9" start="20180626100000 +0000" stop="20180626110000 +0000">
     <title>Under The Influence</title>
     <desc>River Phoenix and Heath Ledger were popular and talented young actors who earned early acclaim. But off-screen and behind closed doors their lives were hidden in secret.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180626110000 +0000" stop="20180626120000 +0000">
     <title>Sunday</title>
@@ -2128,6 +2114,9 @@
   <programme channel="tv.9" start="20180627010000 +0000" stop="20180627020000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Toyah's faced with a baby dilemma. Kevin and Tyrone are at loggerheads. Kate's in for a surprise.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180627020000 +0000" stop="20180627030000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -2188,6 +2177,9 @@
     <title>Coronation Street 2018</title>
     <desc>Alya wonders if she's bitten off more than she can chew. Craig gets his police assessment results. A shocking truth becomes known.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180627104000 +0000" stop="20180627111000 +0000">
     <title>1 News Tonight</title>
@@ -2259,13 +2251,13 @@
   <programme channel="tv.9" start="20180628010000 +0000" stop="20180628013000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Can Toyah give up her dreams for Peter? Kevin gets an unexpected offer of help. Ambitious Jenny has a business idea.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180628013000 +0000" stop="20180628020000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Curiosity kills the cat for Leanne. Jenny intends to keep abreast of the industry. Kevin needs a little help from his friends.</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
   <programme channel="tv.9" start="20180628020000 +0000" stop="20180628030000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -3281,7 +3273,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180624083000 +0000" stop="20180624102000 +0000">
+  <programme channel="tv.10" start="20180624083000 +0000" stop="20180624101500 +0000">
     <title>Masterminds</title>
     <desc>A guard at an armoured car company in the Southern U.S. organizes one of the biggest bank heists in American history. Based on the October 1997 Loomis Fargo robbery.</desc>
     <audio>
@@ -3292,7 +3284,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180624102000 +0000" stop="20180624111000 +0000">
+  <programme channel="tv.10" start="20180624101500 +0000" stop="20180624110500 +0000">
     <title>Time After Time</title>
     <desc>Series Final: S1 E12 Dr. John Stevenson sets his sights on H.G. and moves forward in a plan for the ultimate revenge. When H.G. learns of his plan, however, he takes matters into his own hands.</desc>
     <audio>
@@ -3302,7 +3294,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180624111000 +0000" stop="20180624123000 +0000">
+  <programme channel="tv.10" start="20180624110500 +0000" stop="20180624132500 +0000">
     <title>The Exorcist</title>
     <desc>When a young girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her life. Starring Ellen Burstyn, Max von Sydow and Linda Blair.</desc>
     <subtitles type="teletext"/>
@@ -3310,7 +3302,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180624123000 +0000" stop="20180624132000 +0000">
+  <programme channel="tv.10" start="20180624132500 +0000" stop="20180624141500 +0000">
     <title>Emerald City</title>
     <desc>Season Finale: Dorothy, Glinda and the Wizard face off on the battlefield, while Tip and West storm Emerald City.</desc>
     <audio>
@@ -3320,11 +3312,11 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180624132000 +0000" stop="20180624135500 +0000">
+  <programme channel="tv.10" start="20180624141500 +0000" stop="20180624144500 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
-  <programme channel="tv.10" start="20180624135500 +0000" stop="20180624161500 +0000">
+  <programme channel="tv.10" start="20180624144500 +0000" stop="20180624161500 +0000">
     <title>What Really Happens In Bali</title>
     <desc>Three Perth students have met up with tour guide Nathan, who is taking them to a part of Bali that is guaranteed to shock them. But there's one catch: he's not going to tell them where they're going.</desc>
     <rating system="Freeview">
@@ -3495,6 +3487,9 @@
   <programme channel="tv.10" start="20180625040000 +0000" stop="20180625043000 +0000">
     <title>Fanimals</title>
     <desc>It's cute, fluffy animal day here at Fanimals as we meet rabbits in the Fanimals backyard, Jolan introduces us to her ducks she raised from eggs, plus you could win on Animal Lookalikes!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180625043000 +0000" stop="20180625050000 +0000">
     <title>Friends</title>
@@ -3516,6 +3511,9 @@
   <programme channel="tv.10" start="20180625053000 +0000" stop="20180625060000 +0000">
     <title>Home And Away</title>
     <desc>Jasmine and Willow clash over her gambling. Despite suffering chemo side effects Maggie finds a way to do wedding planning. Mason and Hunter get inspiration for Brody’s buck’s night.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180625060000 +0000" stop="20180625063000 +0000">
     <title>The Big Bang Theory</title>
@@ -3759,7 +3757,7 @@
     <title>Jeremy Kyle</title>
     <desc>Jeremy Kyle Vault: Cheating</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180626010000 +0000" stop="20180626015500 +0000">
@@ -3779,6 +3777,9 @@
   <programme channel="tv.10" start="20180626022500 +0000" stop="20180626030000 +0000">
     <title>Home And Away</title>
     <desc>Jasmine and Willow clash over her gambling. Despite suffering chemo side effects Maggie finds a way to do wedding planning. Mason and Hunter get inspiration for Brody’s buck’s night.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180626030000 +0000" stop="20180626033000 +0000">
     <title>Shortland Street</title>
@@ -3832,6 +3833,9 @@
   <programme channel="tv.10" start="20180626053000 +0000" stop="20180626060000 +0000">
     <title>Home And Away</title>
     <desc>Willow is fired from the gym after stealing. Hunter and Mason are forced to abandon their elaborate bucks plan for Brody. Maggie discovers that the cancer has spread and decides to stop treatment.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180626060000 +0000" stop="20180626063000 +0000">
     <title>The Big Bang Theory</title>
@@ -3953,7 +3957,7 @@
     <title>Jeremy Kyle</title>
     <desc>Jeremy Kyle Vault: Cheating</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180626161500 +0000" stop="20180626170500 +0000">
@@ -4091,6 +4095,9 @@
   <programme channel="tv.10" start="20180627023000 +0000" stop="20180627030000 +0000">
     <title>Home And Away</title>
     <desc>Willow is fired from the gym after stealing. Hunter and Mason are forced to abandon their elaborate bucks plan for Brody. Maggie discovers that the cancer has spread and decides to stop treatment.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180627030000 +0000" stop="20180627033000 +0000">
     <title>Shortland Street</title>
@@ -4394,7 +4401,7 @@
     <title>Jeremy Kyle</title>
     <desc>I'll prove my cousin burgled my house! Lie detector results.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180628010000 +0000" stop="20180628015500 +0000">
@@ -7965,7 +7972,7 @@
   </programme>
   <programme channel="tv.13" start="20180626050000 +0000" stop="20180626053000 +0000">
     <title>Tagata Pasifika</title>
-    <desc>Keep up with what is happening in Pacific Island related news with Tagata Pasifika.</desc>
+    <desc>Pacific news; battling bowel cancer; Pasifika teacher discrimination; Auckland Councillor Josephine Bartley, and inspiring personal trainer Aiga Pouoa.</desc>
   </programme>
   <programme channel="tv.13" start="20180626053000 +0000" stop="20180626060000 +0000">
     <title>Te Kāea</title>
@@ -9422,6 +9429,9 @@
   <programme channel="tv.38" start="20180626020000 +0000" stop="20180626030000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Beth unwittingly upsets Steve when discussing pregnancy. Things look dull on Tracy's birthday after a series of disappointing engagements. Adam is put on the spot.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180626030000 +0000" stop="20180626040000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -9497,6 +9507,9 @@
   <programme channel="tv.38" start="20180626110000 +0000" stop="20180626120000 +0000">
     <title>Under The Influence</title>
     <desc>River Phoenix and Heath Ledger were popular and talented young actors who earned early acclaim. But off-screen and behind closed doors their lives were hidden in secret.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180626120000 +0000" stop="20180626130000 +0000">
     <title>Sunday</title>
@@ -9560,6 +9573,9 @@
   <programme channel="tv.38" start="20180627020000 +0000" stop="20180627030000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Toyah's faced with a baby dilemma. Kevin and Tyrone are at loggerheads. Kate's in for a surprise.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180627030000 +0000" stop="20180627040000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -9620,6 +9636,9 @@
     <title>Coronation Street 2018</title>
     <desc>Alya wonders if she's bitten off more than she can chew. Craig gets his police assessment results. A shocking truth becomes known.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180627114000 +0000" stop="20180627121000 +0000">
     <title>1 News Tonight</title>
@@ -9691,13 +9710,13 @@
   <programme channel="tv.38" start="20180628020000 +0000" stop="20180628023000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Can Toyah give up her dreams for Peter? Kevin gets an unexpected offer of help. Ambitious Jenny has a business idea.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180628023000 +0000" stop="20180628030000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Curiosity kills the cat for Leanne. Jenny intends to keep abreast of the industry. Kevin needs a little help from his friends.</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
   <programme channel="tv.38" start="20180628030000 +0000" stop="20180628040000 +0000">
     <title>The Ellen DeGeneres Show</title>
@@ -10609,7 +10628,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180624093000 +0000" stop="20180624112000 +0000">
+  <programme channel="tv.14" start="20180624093000 +0000" stop="20180624111500 +0000">
     <title>Masterminds</title>
     <desc>A guard at an armoured car company in the Southern U.S. organizes one of the biggest bank heists in American history. Based on the October 1997 Loomis Fargo robbery.</desc>
     <subtitles type="teletext"/>
@@ -10617,14 +10636,14 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180624112000 +0000" stop="20180624121000 +0000">
+  <programme channel="tv.14" start="20180624111500 +0000" stop="20180624120500 +0000">
     <title>Time After Time</title>
     <desc>Series Final: S1 E12 Dr. John Stevenson sets his sights on H.G. and moves forward in a plan for the ultimate revenge. When H.G. learns of his plan, however, he takes matters into his own hands.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180624121000 +0000" stop="20180624133000 +0000">
+  <programme channel="tv.14" start="20180624120500 +0000" stop="20180624142500 +0000">
     <title>The Exorcist</title>
     <desc>When a young girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her life. Starring Ellen Burstyn, Max von Sydow and Linda Blair.</desc>
     <subtitles type="teletext"/>
@@ -10632,18 +10651,18 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180624133000 +0000" stop="20180624142000 +0000">
+  <programme channel="tv.14" start="20180624142500 +0000" stop="20180624151500 +0000">
     <title>Emerald City</title>
     <desc>Season Finale: Dorothy, Glinda and the Wizard face off on the battlefield, while Tip and West storm Emerald City.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180624142000 +0000" stop="20180624145500 +0000">
+  <programme channel="tv.14" start="20180624151500 +0000" stop="20180624154500 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
-  <programme channel="tv.14" start="20180624145500 +0000" stop="20180624171500 +0000">
+  <programme channel="tv.14" start="20180624154500 +0000" stop="20180624171500 +0000">
     <title>What Really Happens In Bali</title>
     <desc>Three Perth students have met up with tour guide Nathan, who is taking them to a part of Bali that is guaranteed to shock them. But there's one catch: he's not going to tell them where they're going.</desc>
     <rating system="Freeview">
@@ -10796,6 +10815,9 @@
   <programme channel="tv.14" start="20180625050000 +0000" stop="20180625053000 +0000">
     <title>Fanimals</title>
     <desc>It's cute, fluffy animal day here at Fanimals as we meet rabbits in the Fanimals backyard, Jolan introduces us to her ducks she raised from eggs, plus you could win on Animal Lookalikes!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180625053000 +0000" stop="20180625060000 +0000">
     <title>Friends</title>
@@ -10814,6 +10836,9 @@
   <programme channel="tv.14" start="20180625063000 +0000" stop="20180625070000 +0000">
     <title>Home And Away</title>
     <desc>Jasmine and Willow clash over her gambling. Despite suffering chemo side effects Maggie finds a way to do wedding planning. Mason and Hunter get inspiration for Brody’s buck’s night.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180625070000 +0000" stop="20180625073000 +0000">
     <title>The Big Bang Theory</title>
@@ -11027,7 +11052,7 @@
     <title>Jeremy Kyle</title>
     <desc>Jeremy Kyle Vault: Cheating</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180626020000 +0000" stop="20180626025500 +0000">
@@ -11047,6 +11072,9 @@
   <programme channel="tv.14" start="20180626032500 +0000" stop="20180626040000 +0000">
     <title>Home And Away</title>
     <desc>Jasmine and Willow clash over her gambling. Despite suffering chemo side effects Maggie finds a way to do wedding planning. Mason and Hunter get inspiration for Brody’s buck’s night.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180626040000 +0000" stop="20180626043000 +0000">
     <title>Shortland Street</title>
@@ -11091,6 +11119,9 @@
   <programme channel="tv.14" start="20180626063000 +0000" stop="20180626070000 +0000">
     <title>Home And Away</title>
     <desc>Willow is fired from the gym after stealing. Hunter and Mason are forced to abandon their elaborate bucks plan for Brody. Maggie discovers that the cancer has spread and decides to stop treatment.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180626070000 +0000" stop="20180626073000 +0000">
     <title>The Big Bang Theory</title>
@@ -11191,7 +11222,7 @@
     <title>Jeremy Kyle</title>
     <desc>Jeremy Kyle Vault: Cheating</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180626171500 +0000" stop="20180626180500 +0000">
@@ -11320,6 +11351,9 @@
   <programme channel="tv.14" start="20180627033000 +0000" stop="20180627040000 +0000">
     <title>Home And Away</title>
     <desc>Willow is fired from the gym after stealing. Hunter and Mason are forced to abandon their elaborate bucks plan for Brody. Maggie discovers that the cancer has spread and decides to stop treatment.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180627040000 +0000" stop="20180627043000 +0000">
     <title>Shortland Street</title>
@@ -11575,7 +11609,7 @@
     <title>Jeremy Kyle</title>
     <desc>I'll prove my cousin burgled my house! Lie detector results.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180628020000 +0000" stop="20180628025500 +0000">
@@ -19126,6 +19160,9 @@
   <programme channel="tv.55" start="20180628025500 +0000" stop="20180628035000 +0000">
     <title>Wimbledon 2017 Film</title>
     <desc>Review of the last year’s Grand Slam Championships staged on the grass courts of Wimbledon in London.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180628035000 +0000" stop="20180628045000 +0000">
     <title>Mythbusters</title>
@@ -72224,8 +72261,8 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180625123000 +0000" stop="20180625130000 +0000">
-    <title>Housos</title>
+  <programme channel="tv.320203000302" start="20180625123000 +0000" stop="20180625141500 +0000">
+    <title>Ong Bak 2: The Beginning</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
