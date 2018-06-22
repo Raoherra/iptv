@@ -9983,7 +9983,6 @@
   </programme>
   <programme channel="tv.101204600461" start="20180629060000 +0000" stop="20180629080000 +0000">
     <title>Britain's Got Talent</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -14764,6 +14763,7 @@
   </programme>
   <programme channel="tv.101204600468" start="20180629040000 +0000" stop="20180629043000 +0000">
     <title>Storage Hunters UK</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -14858,8 +14858,22 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180621173000 +0000" stop="20180621180000 +0000">
+    <title>Raceday Review - Echuca</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020528" start="20180621173000 +0000" stop="20180621183000 +0000">
     <title>After The Last</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180621180000 +0000" stop="20180621183000 +0000">
+    <title>Raceday Review - Warrnambool</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -14886,8 +14900,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180621200000 +0000" stop="20180621210000 +0000">
+  <programme channel="tv.101305020528" start="20180621200000 +0000" stop="20180621203000 +0000">
     <title>Raceday Review - Echuca</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180621203000 +0000" stop="20180621210000 +0000">
+    <title>Tuesdays With Terry</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -14900,22 +14921,22 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180621210000 +0000" stop="20180621213000 +0000">
+  <programme channel="tv.101305020528" start="20180621210000 +0000" stop="20180621211500 +0000">
+    <title>The Trial Show</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180621211500 +0000" stop="20180621214500 +0000">
     <title>Raceday Review - Echuca</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180621213000 +0000" stop="20180621220000 +0000">
-    <title>Tuesdays With Terry</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180621220000 +0000" stop="20180621221500 +0000">
-    <title>The Trial Show</title>
+  <programme channel="tv.101305020528" start="20180621214500 +0000" stop="20180621221500 +0000">
+    <title>Raceday Review - Warrnambool</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -14923,6 +14944,27 @@
   </programme>
   <programme channel="tv.101305020528" start="20180621221500 +0000" stop="20180621231500 +0000">
     <title>After The Last</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180621221500 +0000" stop="20180621223000 +0000">
+    <title>The Trial Show</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180621223000 +0000" stop="20180621224500 +0000">
+    <title>Trackwork</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180621224500 +0000" stop="20180621231500 +0000">
+    <title>Raceday Review - Warrnambool</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -23160,7 +23202,7 @@
   <programme channel="tv.101406070681" start="20180624073000 +0000" stop="20180624080000 +0000">
     <title>Fishing Australia</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406070681" start="20180624080000 +0000" stop="20180624090000 +0000">
@@ -29541,16 +29583,16 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20180621143000 +0000" stop="20180621170000 +0000">
-    <title>FIFA WC 2018: France v Peru</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000301" start="20180621143000 +0000" stop="20180621170500 +0000">
     <title>Guilty of Romance</title>
     <rating system="Freeview">
       <value>AV</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000301" start="20180621143000 +0000" stop="20180621170000 +0000">
+    <title>FIFA WC 2018: France v Peru</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180621170000 +0000" stop="20180621173000 +0000">
@@ -30154,15 +30196,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180626163000 +0000" stop="20180626170000 +0000">
-    <title>Travel Man</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000301" start="20180626163000 +0000" stop="20180626170000 +0000">
     <title>FIFA 2018 World Cup: Road to Russia</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000301" start="20180626163000 +0000" stop="20180626170000 +0000">
+    <title>Travel Man</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180626170000 +0000" stop="20180626203000 +0000">
@@ -36665,16 +36707,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180622070416 +0000" stop="20180622073219 +0000">
-    <title>Follow the Steps S1E5</title>
-    <desc>The Steps fly to San Francisco, California, United States, to launch a tour and hopefully land a gig in Vegas.</desc>
-    <sub-title>Coming to America</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180622073219 +0000" stop="20180622075949 +0000">
-    <title>Searching for Sound S1E3</title>
-    <desc>Baauer, creator of the Harlem Shake, journeys to the United Arab Emirates and Japan in search of new sounds.</desc>
-    <sub-title>Baauer</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180622080023 +0000" stop="20180622082125 +0000">
     <title>Escape. Create.</title>
