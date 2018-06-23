@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180623033140 +0000" stop="20180623045705 +0000">
-    <title>Shake the Dust</title>
-    <desc>Communities around the world have found something that brings them together: breakdancing.</desc>
-    <sub-title>Global Communities Linked by Breakdancing</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180623050100 +0000" stop="20180623060830 +0000">
     <title>Parks Bonifay Documentary</title>
     <desc>Watch the journey behind the extraordinary life of wakeboarding king Parks Bonifay.</desc>
@@ -1158,7 +1153,7 @@
   </programme>
   <programme channel="tv.9" start="20180624083000 +0000" stop="20180624103000 +0000">
     <title>Grenfell</title>
-    <desc></desc>
+    <desc>This documentary from Bafta-winning director Ben Anthony brings together multiple stories from the Grenfell Tower fire tragedy - the most devastating tower block fire in British history.</desc>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>AO</value>
@@ -3116,6 +3111,9 @@
       <stereo>dolby</stereo>
     </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180626083000 +0000" stop="20180626092500 +0000">
     <title>The Resident</title>
@@ -3323,6 +3321,9 @@
       <stereo>dolby</stereo>
     </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180627000000 +0000" stop="20180627010000 +0000">
     <title>Jeremy Kyle</title>
@@ -8557,7 +8558,7 @@
   </programme>
   <programme channel="tv.38" start="20180624093000 +0000" stop="20180624113000 +0000">
     <title>Grenfell</title>
-    <desc></desc>
+    <desc>This documentary from Bafta-winning director Ben Anthony brings together multiple stories from the Grenfell Tower fire tragedy - the most devastating tower block fire in British history.</desc>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>AO</value>
@@ -10362,6 +10363,9 @@
     <title>Heartbreak Island</title>
     <desc>Chinese whispers, lies and gossip turn a trip to an idyllic location into a fight fest. But will it change alliances as couples head into their final Passion Play?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180626093000 +0000" stop="20180626102500 +0000">
     <title>The Resident</title>
@@ -10539,6 +10543,9 @@
     <title>Heartbreak Island</title>
     <desc>Chinese whispers, lies and gossip turn a trip to an idyllic location into a fight fest. But will it change alliances as couples head into their final Passion Play?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180627010000 +0000" stop="20180627020000 +0000">
     <title>Jeremy Kyle</title>
