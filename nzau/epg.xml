@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180624205314 +0000" stop="20180624214859 +0000">
-    <title>Explorers: Documentaries S3E5</title>
-    <desc>Will Gadd and Gavin McClurg attempt to smash a long distance flight record by paragliding over the Rockies. </desc>
-    <sub-title>The Rocky Mountains Traverse</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180624214831 +0000" stop="20180624215527 +0000">
-    <title>Two Roads S1E8</title>
-    <desc>Trenten Merrill, para sprinter, talks about how his hopeful attitude to life helped him overcome hardship.</desc>
-    <sub-title>Trenten Merrill</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180624215527 +0000" stop="20180624222331 +0000">
     <title>Crossing Corsica</title>
     <desc>Ultrarunner François d’Haene attempts to break the record for running the 180km GR20 trail.</desc>
@@ -40564,6 +40554,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180702140000 +0000" stop="20180702143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180624135200 +0000" stop="20180624152300 +0000">
     <title>Inspector George Gently</title>
     <subtitles type="teletext"/>
@@ -52008,6 +52005,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200424" start="20180702140000 +0000" stop="20180702143000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200427" start="20180624133000 +0000" stop="20180624140000 +0000">
     <title>Customs</title>
     <subtitles type="teletext"/>
@@ -53298,6 +53301,13 @@
   </programme>
   <programme channel="tv.101204200427" start="20180702130000 +0000" stop="20180702140000 +0000">
     <title>Life Inside Lockdown</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200427" start="20180702140000 +0000" stop="20180702150000 +0000">
+    <title>Footy Classified</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -55238,6 +55248,12 @@
   <programme channel="tv.101204200428" start="20180702113000 +0000" stop="20180702140000 +0000">
     <title>Ted 2</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20180702140000 +0000" stop="20180702143000 +0000">
+    <title>Balls of Steel Australia</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -63159,6 +63175,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180702140000 +0000" stop="20180702143000 +0000">
+    <title>Raceday Review - Seymour</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406020621" start="20180624133000 +0000" stop="20180624142900 +0000">
     <title>48 Hours</title>
     <subtitles type="teletext"/>
@@ -66386,6 +66409,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020625" start="20180702140000 +0000" stop="20180702150000 +0000">
+    <title>The Late Show With Stephen Colbert</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180624133800 +0000" stop="20180624140300 +0000">
@@ -69862,8 +69892,8 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180625123000 +0000" stop="20180625141500 +0000">
-    <title>Ong Bak 2: The Beginning</title>
+  <programme channel="tv.320203000302" start="20180625123000 +0000" stop="20180625130000 +0000">
+    <title>Housos</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -75796,6 +75826,12 @@
   </programme>
   <programme channel="tv.320203000305" start="20180702133500 +0000" stop="20180702140000 +0000">
     <title>Whadjuk to Wadjemup</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180702140000 +0000" stop="20180702150000 +0000">
+    <title>Volumz</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>

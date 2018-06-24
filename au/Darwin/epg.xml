@@ -1629,6 +1629,20 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180702140000 +0000" stop="20180702143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180702143000 +0000" stop="20180702150000 +0000">
+    <title>7.30</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180624140900 +0000" stop="20180624143900 +0000">
     <title>Absolutely Fabulous</title>
     <subtitles type="teletext"/>
@@ -5834,6 +5848,12 @@
   <programme channel="tv.101002210222" start="20180702134700 +0000" stop="20180702140800 +0000">
     <title>Archer</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180702140800 +0000" stop="20180702143100 +0000">
+    <title>30 Rock</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -11539,6 +11559,13 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200421" start="20180702143000 +0000" stop="20180702150000 +0000">
+    <title>Extra</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200424" start="20180624140000 +0000" stop="20180624150200 +0000">
     <title>Fixer Upper</title>
     <rating system="Freeview">
@@ -13060,6 +13087,18 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200424" start="20180702140000 +0000" stop="20180702143000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200424" start="20180702143000 +0000" stop="20180702150000 +0000">
+    <title>House Hunters</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200427" start="20180624140000 +0000" stop="20180624180000 +0000">
     <title>One Day Series - England v Australia</title>
     <rating system="Freeview">
@@ -14343,6 +14382,13 @@
   </programme>
   <programme channel="tv.101204200427" start="20180702130000 +0000" stop="20180702140000 +0000">
     <title>Life Inside Lockdown</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200427" start="20180702140000 +0000" stop="20180702150000 +0000">
+    <title>Footy Classified</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -16260,6 +16306,19 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20180702140000 +0000" stop="20180702143000 +0000">
+    <title>Balls of Steel Australia</title>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20180702143000 +0000" stop="20180702150000 +0000">
+    <title>Friends</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180624140000 +0000" stop="20180624143000 +0000">
@@ -18363,6 +18422,20 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180702133000 +0000" stop="20180702140000 +0000">
+    <title>Raceday Review - Sha Tin</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180702140000 +0000" stop="20180702143000 +0000">
+    <title>Raceday Review - Seymour</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180702143000 +0000" stop="20180702150000 +0000">
     <title>Raceday Review - Sha Tin</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -27453,6 +27526,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101406050655" start="20180702143000 +0000" stop="20180702153000 +0000">
+    <title>The Late Show With Stephen Colbert</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406050658" start="20180624140800 +0000" stop="20180624143300 +0000">
     <title>Everybody Loves Raymond</title>
     <subtitles type="teletext"/>
@@ -30927,14 +31007,14 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180625123000 +0000" stop="20180625141500 +0000">
-    <title>Ong Bak 2: The Beginning</title>
+  <programme channel="tv.320203000302" start="20180625123000 +0000" stop="20180625130000 +0000">
+    <title>Housos</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180625123000 +0000" stop="20180625130000 +0000">
-    <title>Housos</title>
+  <programme channel="tv.320203000302" start="20180625123000 +0000" stop="20180625141500 +0000">
+    <title>Ong Bak 2: The Beginning</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -32426,6 +32506,12 @@
     <title>Mindhunters</title>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180702142500 +0000" stop="20180702145000 +0000">
+    <title>The Untitled Action Bronson Show</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180624142000 +0000" stop="20180624144500 +0000">
@@ -34798,6 +34884,18 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180702142500 +0000" stop="20180702143000 +0000">
+    <title>Destination Flavour Singapore Bitesize</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180702143000 +0000" stop="20180702152500 +0000">
+    <title>Best Baker in America</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180624140000 +0000" stop="20180624150000 +0000">
     <title>Volumz</title>
     <rating system="Freeview">
@@ -36859,15 +36957,11 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180624205314 +0000" stop="20180624214859 +0000">
-    <title>Explorers: Documentaries S3E5</title>
-    <desc>Will Gadd and Gavin McClurg attempt to smash a long distance flight record by paragliding over the Rockies. </desc>
-    <sub-title>The Rocky Mountains Traverse</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180624214831 +0000" stop="20180624215527 +0000">
-    <title>Two Roads S1E8</title>
-    <desc>Trenten Merrill, para sprinter, talks about how his hopeful attitude to life helped him overcome hardship.</desc>
-    <sub-title>Trenten Merrill</sub-title>
+  <programme channel="tv.320203000305" start="20180702140000 +0000" stop="20180702150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.redbull.tv" start="20180624215527 +0000" stop="20180624222331 +0000">
     <title>Crossing Corsica</title>
