@@ -15,9 +15,9 @@
             "sample_rate": 48000
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     },
     "tv.101305030535": {
@@ -36,9 +36,9 @@
             "sample_rate": 48000
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     },
     "tv.101305030533": {
@@ -57,9 +57,9 @@
             "sample_rate": 48000
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     },
     "tv.101204300436": {
@@ -78,9 +78,9 @@
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300436.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     },
     "tv.101204300437": {
@@ -99,9 +99,9 @@
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300437.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     },
     "tv.101204300433": {
@@ -120,9 +120,9 @@
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300433.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     },
     "tv.101002310231": {
@@ -141,9 +141,9 @@
             "sample_rate": 44100
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     },
     "tv.101002210222": {
@@ -153,18 +153,18 @@
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
             "codec": "h264",
-            "height": 360,
-            "width": 640
+            "width": 640,
+            "height": 360
         },
         "audio": {
             "codec": "aac",
-            "sample_rate": 44100,
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 44100
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     },
     "tv.101002210224": {
@@ -183,9 +183,9 @@
             "sample_rate": 44100
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     },
     "tv.101002210220": {
@@ -204,9 +204,9 @@
             "codec": "aac"
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     },
     "tv.101204300430": {
@@ -225,9 +225,9 @@
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300430.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     },
     "tv.101406030638": {
@@ -246,9 +246,9 @@
             "height": 576
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     },
     "tv.320203000304": {
@@ -267,9 +267,9 @@
             "channels": 2
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     },
     "tv.fox.sports.news": {
@@ -287,9 +287,9 @@
             "channels": 2
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     },
     "tv.320203000305": {
@@ -308,9 +308,9 @@
             "channels": 2
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     },
     "tv.101406030631": {
@@ -329,9 +329,9 @@
             "channels": 2
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     },
     "tv.101305020528": {
@@ -350,9 +350,9 @@
             "sample_rate": 48000
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     },
     "tv.redbull.tv": {
@@ -371,9 +371,9 @@
         },
         "description": "Red Bull TV: beyond the ordinary live events and videos featuring inspirational stories covering sports, music and lifestyle entertainment. Anytime, anywhere.",
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     },
     "tv.320203000301": {
@@ -392,9 +392,9 @@
             "channels": 2
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     },
     "tv.320203000302": {
@@ -413,9 +413,9 @@
             "channels": 2
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     },
     "tv.101305030530": {
@@ -434,9 +434,9 @@
             "sample_rate": 48000
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     },
     "tv.101406030635": {
@@ -455,9 +455,9 @@
             "height": 576
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         }
     }
 }
