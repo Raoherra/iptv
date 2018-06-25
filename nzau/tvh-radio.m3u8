@@ -151,7 +151,7 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/radio.ih.7780.aac -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7780 -f mpegts pipe:1
 
 #EXTINF:-1 tvg-name="051" tvg-id="radio.ih.6676" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6676.png" radio="true",Radio Tarana
-pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/radio.ih.6676.aac -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6676 -f mpegts pipe:1
+pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/radio.ih.6676 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6676 -f mpegts pipe:1
 
 #EXTINF:-1 tvg-name="052" tvg-id="radio.ih.7213" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7213.png" radio="true",The Hits 90s Bus
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/radio.ih.7213 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7213 -f mpegts pipe:1

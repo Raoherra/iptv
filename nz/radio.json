@@ -1114,7 +1114,7 @@
     },
     "radio.ih.6676": {
         "active": true,
-        "modified": "1524018555817",
+        "modified": "1529964612439",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6676.png",
         "name": "Radio Tarana",
         "description": "New Zealand's Premier Hindi Radio",
@@ -1126,9 +1126,9 @@
             "channels": 2,
             "sample_rate": 44100
         },
-        "mjh_master": "http://iptv.matthuisman.nz/nz/radio.ih.6676/m.aac",
-        "mjh_sub": "http://iptv.matthuisman.nz/nz/radio.ih.6676.aac",
-        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6676.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "mjh_master": "http://iptv.matthuisman.nz/nz/radio.ih.6676/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/nz/radio.ih.6676",
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6676|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "headers": {
             "X-Forwarded-For": "202.89.4.222",
             "Referer": "%20",
