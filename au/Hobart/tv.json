@@ -5,18 +5,18 @@
         "name": "7TWO",
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.101305030532.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 504,
             "codec": "h264",
-            "width": 896,
-            "height": 504
+            "width": 896
         },
         "audio": {
+            "sample_rate": 48000,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 48000
+            "channels": 2
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     },
@@ -26,18 +26,18 @@
         "name": "7flix",
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.101305030535.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 360,
             "codec": "h264",
-            "width": 640,
-            "height": 360
+            "width": 640
         },
         "audio": {
+            "sample_rate": 48000,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 48000
+            "channels": 2
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     },
@@ -47,18 +47,18 @@
         "name": "7mate",
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.101305030533.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 504,
             "codec": "h264",
-            "width": 896,
-            "height": 504
+            "width": 896
         },
         "audio": {
+            "sample_rate": 48000,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 48000
+            "channels": 2
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     },
@@ -67,19 +67,19 @@
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204300436.png",
         "name": "9Gem",
         "video": {
+            "height": 720,
             "codec": "h264",
-            "width": 1280,
-            "height": 720
+            "width": 1280
         },
         "audio": {
+            "sample_rate": 48000,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 48000
+            "channels": 2
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.101204300436.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     },
@@ -88,19 +88,19 @@
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204300437.png",
         "name": "9Go!",
         "video": {
+            "height": 720,
             "codec": "h264",
-            "width": 1280,
-            "height": 720
+            "width": 1280
         },
         "audio": {
+            "sample_rate": 48000,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 48000
+            "channels": 2
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.101204300437.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     },
@@ -109,19 +109,19 @@
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204300433.png",
         "name": "9Life",
         "video": {
+            "height": 720,
             "codec": "h264",
-            "width": 1280,
-            "height": 720
+            "width": 1280
         },
         "audio": {
+            "sample_rate": 48000,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 48000
+            "channels": 2
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.101204300433.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     },
@@ -131,18 +131,18 @@
         "name": "ABC",
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.101002710271.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 360,
             "codec": "h264",
-            "width": 640,
-            "height": 360
+            "width": 640
         },
         "audio": {
+            "sample_rate": 44100,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 44100
+            "channels": 2
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     },
@@ -152,18 +152,18 @@
         "name": "ABC COMEDY/ABC KIDS NSW",
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 360,
             "codec": "h264",
-            "width": 640,
-            "height": 360
+            "width": 640
         },
         "audio": {
+            "sample_rate": 44100,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 44100
+            "channels": 2
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     },
@@ -173,18 +173,18 @@
         "name": "ABC ME",
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 360,
             "codec": "h264",
-            "width": 640,
-            "height": 360
+            "width": 640
         },
         "audio": {
+            "sample_rate": 44100,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 44100
+            "channels": 2
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     },
@@ -194,18 +194,18 @@
         "name": "ABC NEWS",
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 360,
             "codec": "h264",
-            "width": 640,
-            "height": 360
+            "width": 640
         },
         "audio": {
+            "sample_rate": 44100,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 44100
+            "channels": 2
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     },
@@ -214,19 +214,19 @@
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204300430.png",
         "name": "Channel 9",
         "video": {
+            "height": 720,
             "codec": "h264",
-            "width": 1280,
-            "height": 720
+            "width": 1280
         },
         "audio": {
+            "sample_rate": 48000,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 48000
+            "channels": 2
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.101204300430.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     },
@@ -236,18 +236,18 @@
         "name": "ELEVEN",
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.101406030638.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
+            "sample_rate": 44100,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 44100
+            "channels": 2
         },
         "video": {
+            "height": 576,
             "codec": "h264",
-            "width": 1024,
-            "height": 576
+            "width": 1024
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     },
@@ -257,18 +257,18 @@
         "name": "Food Network",
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 576,
             "codec": "h264",
-            "width": 1024,
-            "height": 576
+            "width": 1024
         },
         "audio": {
+            "sample_rate": 48000,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 48000
+            "channels": 2
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     },
@@ -277,18 +277,18 @@
         "name": "Fox Sports News",
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.fox.sports.news.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 1080,
             "codec": "h264",
-            "width": 1920,
-            "height": 1080
+            "width": 1920
         },
         "audio": {
+            "sample_rate": 44100,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 44100
+            "channels": 2
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     },
@@ -298,18 +298,18 @@
         "name": "NITV",
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 576,
             "codec": "h264",
-            "width": 1024,
-            "height": 576
+            "width": 1024
         },
         "audio": {
+            "sample_rate": 48000,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 48000
+            "channels": 2
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     },
@@ -319,18 +319,18 @@
         "name": "ONE",
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.101406030631.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 576,
             "codec": "h264",
-            "width": 1024,
-            "height": 576
+            "width": 1024
         },
         "audio": {
+            "sample_rate": 44100,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 44100
+            "channels": 2
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     },
@@ -340,18 +340,18 @@
         "name": "RACING.COM",
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.101305020528.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 360,
             "codec": "h264",
-            "width": 640,
-            "height": 360
+            "width": 640
         },
         "audio": {
+            "sample_rate": 48000,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 48000
+            "channels": 2
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     },
@@ -360,19 +360,19 @@
         "name": "Redbull TV",
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.redbull.tv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 720,
             "codec": "h264",
-            "width": 1280,
-            "height": 720
+            "width": 1280
         },
         "audio": {
+            "sample_rate": 48000,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 48000
+            "channels": 2
         },
         "description": "Red Bull TV: beyond the ordinary live events and videos featuring inspirational stories covering sports, music and lifestyle entertainment. Anytime, anywhere.",
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     },
@@ -382,18 +382,18 @@
         "name": "SBS",
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 576,
             "codec": "h264",
-            "width": 1024,
-            "height": 576
+            "width": 1024
         },
         "audio": {
+            "sample_rate": 48000,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 48000
+            "channels": 2
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     },
@@ -403,18 +403,18 @@
         "name": "SBS VICELAND",
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.320203000302.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 576,
             "codec": "h264",
-            "width": 1024,
-            "height": 576
+            "width": 1024
         },
         "audio": {
+            "sample_rate": 48000,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 48000
+            "channels": 2
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     },
@@ -424,18 +424,18 @@
         "name": "Seven",
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.101305030530.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 504,
             "codec": "h264",
-            "width": 896,
-            "height": 504
+            "width": 896
         },
         "audio": {
+            "sample_rate": 48000,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 48000
+            "channels": 2
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     },
@@ -445,18 +445,18 @@
         "name": "TEN",
         "url": "http://iptv.matthuisman.nz/au/Hobart/tv.101406030635.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
+            "sample_rate": 44100,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 44100
+            "channels": 2
         },
         "video": {
+            "height": 576,
             "codec": "h264",
-            "width": 1024,
-            "height": 576
+            "width": 1024
         },
         "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "Referer": "%20"
         }
     }
