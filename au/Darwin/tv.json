@@ -5,9 +5,9 @@
         "name": "7TWO",
         "url": "http://iptv.matthuisman.nz/au/Darwin/tv.101305050552.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 504,
             "codec": "h264",
-            "width": 896,
-            "height": 504
+            "width": 896
         },
         "audio": {
             "channels": 2,
@@ -15,8 +15,8 @@
             "sample_rate": 48000
         },
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     },
@@ -26,9 +26,9 @@
         "name": "7flix",
         "url": "http://iptv.matthuisman.nz/au/Darwin/tv.101305050555.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 360,
             "codec": "h264",
-            "width": 640,
-            "height": 360
+            "width": 640
         },
         "audio": {
             "channels": 2,
@@ -36,8 +36,8 @@
             "sample_rate": 48000
         },
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     },
@@ -47,9 +47,9 @@
         "name": "7mate",
         "url": "http://iptv.matthuisman.nz/au/Darwin/tv.101305050553.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 504,
             "codec": "h264",
-            "width": 896,
-            "height": 504
+            "width": 896
         },
         "audio": {
             "channels": 2,
@@ -57,8 +57,8 @@
             "sample_rate": 48000
         },
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     },
@@ -67,9 +67,9 @@
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200427.png",
         "name": "9Gem",
         "video": {
+            "height": 720,
             "codec": "h264",
-            "width": 1280,
-            "height": 720
+            "width": 1280
         },
         "audio": {
             "channels": 2,
@@ -78,8 +78,8 @@
         },
         "url": "http://iptv.matthuisman.nz/au/Darwin/tv.101204200427.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     },
@@ -88,9 +88,9 @@
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200428.png",
         "name": "9Go!",
         "video": {
+            "height": 720,
             "codec": "h264",
-            "width": 1280,
-            "height": 720
+            "width": 1280
         },
         "audio": {
             "channels": 2,
@@ -99,8 +99,8 @@
         },
         "url": "http://iptv.matthuisman.nz/au/Darwin/tv.101204200428.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     },
@@ -109,9 +109,9 @@
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200424.png",
         "name": "9Life",
         "video": {
+            "height": 720,
             "codec": "h264",
-            "width": 1280,
-            "height": 720
+            "width": 1280
         },
         "audio": {
             "channels": 2,
@@ -120,8 +120,8 @@
         },
         "url": "http://iptv.matthuisman.nz/au/Darwin/tv.101204200424.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     },
@@ -131,9 +131,9 @@
         "name": "ABC",
         "url": "http://iptv.matthuisman.nz/au/Darwin/tv.101002810281.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 360,
             "codec": "h264",
-            "width": 640,
-            "height": 360
+            "width": 640
         },
         "audio": {
             "channels": 2,
@@ -141,8 +141,8 @@
             "sample_rate": 44100
         },
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     },
@@ -152,9 +152,9 @@
         "name": "ABC COMEDY/ABC KIDS NSW",
         "url": "http://iptv.matthuisman.nz/au/Darwin/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 360,
             "codec": "h264",
-            "width": 640,
-            "height": 360
+            "width": 640
         },
         "audio": {
             "channels": 2,
@@ -162,8 +162,8 @@
             "sample_rate": 44100
         },
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     },
@@ -173,9 +173,9 @@
         "name": "ABC ME",
         "url": "http://iptv.matthuisman.nz/au/Darwin/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 360,
             "codec": "h264",
-            "width": 640,
-            "height": 360
+            "width": 640
         },
         "audio": {
             "channels": 2,
@@ -183,8 +183,8 @@
             "sample_rate": 44100
         },
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     },
@@ -194,9 +194,9 @@
         "name": "ABC NEWS",
         "url": "http://iptv.matthuisman.nz/au/Darwin/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 360,
             "codec": "h264",
-            "width": 640,
-            "height": 360
+            "width": 640
         },
         "audio": {
             "channels": 2,
@@ -204,8 +204,8 @@
             "sample_rate": 44100
         },
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     },
@@ -214,9 +214,9 @@
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200421.png",
         "name": "Channel 9",
         "video": {
+            "height": 720,
             "codec": "h264",
-            "width": 1280,
-            "height": 720
+            "width": 1280
         },
         "audio": {
             "channels": 2,
@@ -225,8 +225,8 @@
         },
         "url": "http://iptv.matthuisman.nz/au/Darwin/tv.101204200421.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     },
@@ -236,9 +236,9 @@
         "name": "ELEVEN",
         "url": "http://iptv.matthuisman.nz/au/Darwin/tv.101406050658.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 576,
             "codec": "h264",
-            "width": 1024,
-            "height": 576
+            "width": 1024
         },
         "audio": {
             "channels": 2,
@@ -246,8 +246,8 @@
             "sample_rate": 44100
         },
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     },
@@ -257,9 +257,9 @@
         "name": "Food Network",
         "url": "http://iptv.matthuisman.nz/au/Darwin/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 576,
             "codec": "h264",
-            "width": 1024,
-            "height": 576
+            "width": 1024
         },
         "audio": {
             "channels": 2,
@@ -267,8 +267,8 @@
             "sample_rate": 48000
         },
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     },
@@ -277,9 +277,9 @@
         "name": "Fox Sports News",
         "url": "http://iptv.matthuisman.nz/au/Darwin/tv.fox.sports.news.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 1080,
             "codec": "h264",
-            "width": 1920,
-            "height": 1080
+            "width": 1920
         },
         "audio": {
             "channels": 2,
@@ -287,8 +287,8 @@
             "sample_rate": 44100
         },
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     },
@@ -298,9 +298,9 @@
         "name": "NITV",
         "url": "http://iptv.matthuisman.nz/au/Darwin/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 576,
             "codec": "h264",
-            "width": 1024,
-            "height": 576
+            "width": 1024
         },
         "audio": {
             "channels": 2,
@@ -308,8 +308,8 @@
             "sample_rate": 48000
         },
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     },
@@ -319,9 +319,9 @@
         "name": "ONE",
         "url": "http://iptv.matthuisman.nz/au/Darwin/tv.101406050651.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 576,
             "codec": "h264",
-            "width": 1024,
-            "height": 576
+            "width": 1024
         },
         "audio": {
             "channels": 2,
@@ -329,8 +329,8 @@
             "sample_rate": 44100
         },
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     },
@@ -340,9 +340,9 @@
         "name": "RACING.COM",
         "url": "http://iptv.matthuisman.nz/au/Darwin/tv.101305020528.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 360,
             "codec": "h264",
-            "width": 640,
-            "height": 360
+            "width": 640
         },
         "audio": {
             "channels": 2,
@@ -350,8 +350,8 @@
             "sample_rate": 48000
         },
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     },
@@ -360,9 +360,9 @@
         "name": "Redbull TV",
         "url": "http://iptv.matthuisman.nz/au/Darwin/tv.redbull.tv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 720,
             "codec": "h264",
-            "width": 1280,
-            "height": 720
+            "width": 1280
         },
         "audio": {
             "channels": 2,
@@ -371,8 +371,8 @@
         },
         "description": "Red Bull TV: beyond the ordinary live events and videos featuring inspirational stories covering sports, music and lifestyle entertainment. Anytime, anywhere.",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     },
@@ -382,9 +382,9 @@
         "name": "SBS",
         "url": "http://iptv.matthuisman.nz/au/Darwin/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 576,
             "codec": "h264",
-            "width": 1024,
-            "height": 576
+            "width": 1024
         },
         "audio": {
             "channels": 2,
@@ -392,8 +392,8 @@
             "sample_rate": 48000
         },
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     },
@@ -403,9 +403,9 @@
         "name": "SBS VICELAND",
         "url": "http://iptv.matthuisman.nz/au/Darwin/tv.320203000302.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 576,
             "codec": "h264",
-            "width": 1024,
-            "height": 576
+            "width": 1024
         },
         "audio": {
             "channels": 2,
@@ -413,8 +413,8 @@
             "sample_rate": 48000
         },
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     },
@@ -424,9 +424,9 @@
         "name": "Seven",
         "url": "http://iptv.matthuisman.nz/au/Darwin/tv.101305050550.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "video": {
+            "height": 504,
             "codec": "h264",
-            "width": 896,
-            "height": 504
+            "width": 896
         },
         "audio": {
             "channels": 2,
@@ -434,8 +434,8 @@
             "sample_rate": 48000
         },
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     },
@@ -450,13 +450,13 @@
             "sample_rate": 44100
         },
         "video": {
+            "height": 576,
             "codec": "h264",
-            "width": 1024,
-            "height": 576
+            "width": 1024
         },
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
             "X-Forwarded-For": "52.62.247.239"
         }
     }
