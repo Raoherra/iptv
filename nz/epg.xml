@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180625054523 +0000" stop="20180625062933 +0000">
-    <title>Wreck or Get Rekt</title>
-    <desc>A couple of video game rivals get ready to face off in a head-to-head match.</desc>
-    <sub-title>A Battle Between Video Game Rivals </sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180625062933 +0000" stop="20180625065745 +0000">
-    <title>The Ripple Effect S2E5</title>
-    <desc>Inventor Bob Moog took the worlds of science and music and synthesized a seismic shift in the sonic landscape.</desc>
-    <sub-title>Moog</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180625065745 +0000" stop="20180625075117 +0000">
     <title>Archaic Festivals S1E1</title>
     <desc>Each year the people of Ashbourne, England, do battle in one of the world’s oldest and most dangerous games.</desc>
@@ -5471,6 +5461,9 @@
   <programme channel="tv.11" start="20180625083000 +0000" stop="20180625093000 +0000">
     <title>All New Lost &amp; Found</title>
     <desc>New Episode. Alison wants to find her birth mother, but a message left on a missing person website turns her life upside down. And Shannon met his dad once when he was eight. Where is he now?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180625093000 +0000" stop="20180625103000 +0000">
     <title>Killer Women With Piers Morgan</title>
@@ -5758,7 +5751,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180627095500 +0000" stop="20180627105000 +0000">
+  <programme channel="tv.11" start="20180627095500 +0000" stop="20180627104500 +0000">
     <title>All New Hawaii Five-O</title>
     <desc>New Episode. After a woman connected with the drug trade is found murdered, the team learns that one of their own has a deep connection to the victim's daughter. S6 Ep23</desc>
     <audio>
@@ -5768,11 +5761,11 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180627105000 +0000" stop="20180627112000 +0000">
+  <programme channel="tv.11" start="20180627104500 +0000" stop="20180627111500 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.11" start="20180627112000 +0000" stop="20180627122000 +0000">
+  <programme channel="tv.11" start="20180627111500 +0000" stop="20180627121000 +0000">
     <title>SVU</title>
     <desc>A fallen child star accuses Amaro of sexual abuse, further jeopardising his career. S16 Ep3</desc>
     <audio>
@@ -5782,7 +5775,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180627122000 +0000" stop="20180627170000 +0000">
+  <programme channel="tv.11" start="20180627121000 +0000" stop="20180627170000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -6017,7 +6010,7 @@
   </programme>
   <programme channel="tv.11" start="20180629090000 +0000" stop="20180629094500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Eli Mathewson, Josh Thomson, Mel Bracewell and Bryce Casey.</desc>
   </programme>
   <programme channel="tv.11" start="20180629094500 +0000" stop="20180629101500 +0000">
     <title>The Spinoff TV</title>
@@ -6138,6 +6131,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180630093500 +0000" stop="20180630102500 +0000">
     <title>NCIS</title>
@@ -6657,14 +6653,23 @@
   <programme channel="tv.12" start="20180626083000 +0000" stop="20180626090000 +0000">
     <title>Botched: Most Outrageous Before &amp; Afters</title>
     <desc>A countdown of the top 10 most outrageous Before &amp; Afters.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180626090000 +0000" stop="20180626093000 +0000">
     <title>Botched: Most Outrageous Celebrity Patients</title>
     <desc>A countdown of the top 10 most outrageous celebrities.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180626093000 +0000" stop="20180626103300 +0000">
     <title>The Real Housewives Of New York City</title>
     <desc>Two weeks after Luann's surprising arrest, she is still the talk of the town. While she's in rehab in Palm Beach, the ladies try to piece together what happened.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180626103300 +0000" stop="20180626103500 +0000">
     <title>The Dish</title>
@@ -6735,6 +6740,9 @@
   <programme channel="tv.12" start="20180627013000 +0000" stop="20180627022800 +0000">
     <title>The Real Housewives Of New York City</title>
     <desc>Two weeks after Luann's surprising arrest, she is still the talk of the town. While she's in rehab in Palm Beach, the ladies try to piece together what happened.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180627022800 +0000" stop="20180627023000 +0000">
     <title>The Dish</title>
@@ -6743,10 +6751,16 @@
   <programme channel="tv.12" start="20180627023000 +0000" stop="20180627030000 +0000">
     <title>Botched: Most Outrageous Before &amp; Afters</title>
     <desc>A countdown of the top 10 most outrageous Before &amp; Afters.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180627030000 +0000" stop="20180627033000 +0000">
     <title>Botched: Most Outrageous Celebrity Patients</title>
     <desc>A countdown of the top 10 most outrageous celebrities.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180627033000 +0000" stop="20180627043000 +0000">
     <title>Dance Moms</title>
@@ -6804,6 +6818,9 @@
   <programme channel="tv.12" start="20180627112500 +0000" stop="20180627121500 +0000">
     <title>Killision Course</title>
     <desc>Faye has survived a life of trouble and begins anew. After she befriends a mysterious woman a path to murder ignites, leaving us guessing until the very end, who is the predator and who is the prey.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180627121500 +0000" stop="20180627170000 +0000">
     <title>Infomercial</title>
@@ -6863,6 +6880,9 @@
   <programme channel="tv.12" start="20180628023000 +0000" stop="20180628032800 +0000">
     <title>Love After Lockup</title>
     <desc>In their race to the altar, Johnna shocks Garrett. When faced with a huge sacrifice, Andrea suffers a major meltdown on her wedding day.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180628032800 +0000" stop="20180628033000 +0000">
     <title>The Dish</title>
@@ -6885,10 +6905,16 @@
   <programme channel="tv.12" start="20180628053000 +0000" stop="20180628060000 +0000">
     <title>How To Look Good Naked: UK</title>
     <desc>46-year-old Susan Sharpe from Yorkshire. At size 16, she's the average size for a British woman - but she feels that her curves are out of control.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180628060000 +0000" stop="20180628063000 +0000">
     <title>How To Look Good Naked: UK</title>
     <desc>Gok Wan is on another tricky mission to bring some loving to a body-loather and his challenge is to get 29-year-old mother of two Claire Green to look and feel good with her clothes on - and off.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180628063000 +0000" stop="20180628072800 +0000">
     <title>Catfish</title>
@@ -6911,6 +6937,9 @@
   <programme channel="tv.12" start="20180628083000 +0000" stop="20180628093000 +0000">
     <title>Mysteries &amp; Scandals</title>
     <desc>Richard Ramirez was a satanic killer terrorizing an entire state. Aileen Wuornos, a highway hooker with a gun. Doug Clark and Carol Bundy prowled the Sunset Strip for sex and victims.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180628093000 +0000" stop="20180628103000 +0000">
     <title>Law &amp; Order: SVU</title>
@@ -6922,6 +6951,9 @@
   <programme channel="tv.12" start="20180628103000 +0000" stop="20180628112500 +0000">
     <title>Killision Course</title>
     <desc>A woman from a troubled past falls for a man who offers her the stability she needs. After they start a home together their new neighbors drive a wedge between them.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180628112500 +0000" stop="20180628121500 +0000">
     <title>The Disappearance Of Natalee Holloway</title>
@@ -6973,6 +7005,9 @@
   <programme channel="tv.12" start="20180629013500 +0000" stop="20180629023000 +0000">
     <title>Mysteries &amp; Scandals</title>
     <desc>Richard Ramirez was a satanic killer terrorizing an entire state. Aileen Wuornos, a highway hooker with a gun. Doug Clark and Carol Bundy prowled the Sunset Strip for sex and victims.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180629023000 +0000" stop="20180629033000 +0000">
     <title>60 Days In</title>
@@ -6998,10 +7033,16 @@
   <programme channel="tv.12" start="20180629053000 +0000" stop="20180629060000 +0000">
     <title>How To Look Good Naked: UK</title>
     <desc>Fashion stylist Gok Wan is on another tricky mission to bring some loving to a body-loather and his challenge is to make Roberta Fox-Braddock look good naked.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180629060000 +0000" stop="20180629063500 +0000">
     <title>How To Look Good Naked: UK</title>
     <desc>25-year-old Rubie Poonia hates her size 18 body and thinks it's too big to be beautiful. Fashion stylist Gok Wan is on a mission to show her that she really can look good with her clothes on and off.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180629063500 +0000" stop="20180629073300 +0000">
     <title>Catfish</title>
@@ -7159,6 +7200,9 @@
   <programme channel="tv.12" start="20180630103000 +0000" stop="20180630113000 +0000">
     <title>Mysteries &amp; Scandals</title>
     <desc>Richard Ramirez was a satanic killer terrorizing an entire state. Aileen Wuornos, a highway hooker with a gun. Doug Clark and Carol Bundy prowled the Sunset Strip for sex and victims.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180630113000 +0000" stop="20180630122000 +0000">
     <title>Dance Moms</title>
@@ -7195,18 +7239,30 @@
   <programme channel="tv.12" start="20180630194000 +0000" stop="20180630200500 +0000">
     <title>How To Look Good Naked: UK</title>
     <desc>46-year-old Susan Sharpe from Yorkshire. At size 16, she's the average size for a British woman - but she feels that her curves are out of control.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180630200500 +0000" stop="20180630203000 +0000">
     <title>How To Look Good Naked: UK</title>
     <desc>Gok Wan is on another tricky mission to bring some loving to a body-loather and his challenge is to get 29-year-old mother of two Claire Green to look and feel good with her clothes on - and off.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180630203000 +0000" stop="20180630205500 +0000">
     <title>How To Look Good Naked: UK</title>
     <desc>Fashion stylist Gok Wan is on another tricky mission to bring some loving to a body-loather and his challenge is to make Roberta Fox-Braddock look good naked.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180630205500 +0000" stop="20180630212000 +0000">
     <title>How To Look Good Naked: UK</title>
     <desc>25-year-old Rubie Poonia hates her size 18 body and thinks it's too big to be beautiful. Fashion stylist Gok Wan is on a mission to show her that she really can look good with her clothes on and off.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180630212000 +0000" stop="20180630220800 +0000">
     <title>Dance Moms</title>
@@ -7244,6 +7300,9 @@
   <programme channel="tv.12" start="20180701003000 +0000" stop="20180701013000 +0000">
     <title>Mysteries &amp; Scandals</title>
     <desc>Richard Ramirez was a satanic killer terrorizing an entire state. Aileen Wuornos, a highway hooker with a gun. Doug Clark and Carol Bundy prowled the Sunset Strip for sex and victims.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180701013000 +0000" stop="20180701023000 +0000">
     <title>Child Genius UK</title>
@@ -7392,14 +7451,23 @@
   <programme channel="tv.12" start="20180702043000 +0000" stop="20180702053000 +0000">
     <title>Child Genius UK</title>
     <desc>We meet the next group of gifted children competing for the title of Child Genius</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180702053000 +0000" stop="20180702060000 +0000">
     <title>How To Look Good Naked: UK</title>
     <desc>27-year-old London girl Zoe Cobden is a fine figure of a woman, but like most females she just can't see it.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180702060000 +0000" stop="20180702063000 +0000">
     <title>How To Look Good Naked: UK</title>
     <desc>Emma urgently needs help. It's Gok's mission to give Emma Wright the style and confidence to work her body - showing her how to look good with her clothes on - and off.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180702063000 +0000" stop="20180702073000 +0000">
     <title>Catfish</title>
@@ -7436,6 +7504,9 @@
   <programme channel="tv.12" start="20180702103000 +0000" stop="20180702112500 +0000">
     <title>Killision Course</title>
     <desc>A young teacher moves into the Gates House to escape a volatile relationship, she quickly finds herself caught between an ex-con and his jealous girlfriend.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180702112500 +0000" stop="20180702121500 +0000">
     <title>The Disappearance Of Natalee Holloway</title>
@@ -12505,6 +12576,9 @@
   <programme channel="tv.27" start="20180625093000 +0000" stop="20180625103000 +0000">
     <title>All New Lost &amp; Found</title>
     <desc>New Episode. Alison wants to find her birth mother, but a message left on a missing person website turns her life upside down. And Shannon met his dad once when he was eight. Where is he now?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180625103000 +0000" stop="20180625113000 +0000">
     <title>Killer Women With Piers Morgan</title>
@@ -12771,25 +12845,25 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180627105500 +0000" stop="20180627115000 +0000">
+  <programme channel="tv.27" start="20180627105500 +0000" stop="20180627114500 +0000">
     <title>All New Hawaii Five-O</title>
     <desc>New Episode. After a woman connected with the drug trade is found murdered, the team learns that one of their own has a deep connection to the victim's daughter. S6 Ep23</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180627115000 +0000" stop="20180627122000 +0000">
+  <programme channel="tv.27" start="20180627114500 +0000" stop="20180627121500 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.27" start="20180627122000 +0000" stop="20180627132000 +0000">
+  <programme channel="tv.27" start="20180627121500 +0000" stop="20180627131000 +0000">
     <title>SVU</title>
     <desc>A fallen child star accuses Amaro of sexual abuse, further jeopardising his career. S16 Ep3</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180627132000 +0000" stop="20180627180000 +0000">
+  <programme channel="tv.27" start="20180627131000 +0000" stop="20180627180000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -13009,7 +13083,7 @@
   </programme>
   <programme channel="tv.27" start="20180629100000 +0000" stop="20180629104500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Eli Mathewson, Josh Thomson, Mel Bracewell and Bryce Casey.</desc>
   </programme>
   <programme channel="tv.27" start="20180629104500 +0000" stop="20180629111500 +0000">
     <title>The Spinoff TV</title>
@@ -13115,6 +13189,9 @@
   <programme channel="tv.27" start="20180630094000 +0000" stop="20180630103500 +0000">
     <title>All New Chicago Med</title>
     <desc>Premiere. New Episode. The doctors of Chicago Med try to bring justice to the perpetrator in the shooting of Dr. Charles. Plus, Robin is discharged from the rehabilitation centre. S3 Ep1</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180630103500 +0000" stop="20180630112500 +0000">
     <title>NCIS</title>
@@ -13621,14 +13698,23 @@
   <programme channel="tv.30" start="20180626093000 +0000" stop="20180626100000 +0000">
     <title>Botched: Most Outrageous Before &amp; Afters</title>
     <desc>A countdown of the top 10 most outrageous Before &amp; Afters.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180626100000 +0000" stop="20180626103000 +0000">
     <title>Botched: Most Outrageous Celebrity Patients</title>
     <desc>A countdown of the top 10 most outrageous celebrities.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180626103000 +0000" stop="20180626113300 +0000">
     <title>The Real Housewives Of New York City</title>
     <desc>Two weeks after Luann's surprising arrest, she is still the talk of the town. While she's in rehab in Palm Beach, the ladies try to piece together what happened.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180626113300 +0000" stop="20180626113500 +0000">
     <title>The Dish</title>
@@ -13699,6 +13785,9 @@
   <programme channel="tv.30" start="20180627023000 +0000" stop="20180627032800 +0000">
     <title>The Real Housewives Of New York City</title>
     <desc>Two weeks after Luann's surprising arrest, she is still the talk of the town. While she's in rehab in Palm Beach, the ladies try to piece together what happened.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180627032800 +0000" stop="20180627033000 +0000">
     <title>The Dish</title>
@@ -13707,10 +13796,16 @@
   <programme channel="tv.30" start="20180627033000 +0000" stop="20180627040000 +0000">
     <title>Botched: Most Outrageous Before &amp; Afters</title>
     <desc>A countdown of the top 10 most outrageous Before &amp; Afters.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180627040000 +0000" stop="20180627043000 +0000">
     <title>Botched: Most Outrageous Celebrity Patients</title>
     <desc>A countdown of the top 10 most outrageous celebrities.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180627043000 +0000" stop="20180627053000 +0000">
     <title>Dance Moms</title>
@@ -13768,6 +13863,9 @@
   <programme channel="tv.30" start="20180627122500 +0000" stop="20180627131500 +0000">
     <title>Killision Course</title>
     <desc>Faye has survived a life of trouble and begins anew. After she befriends a mysterious woman a path to murder ignites, leaving us guessing until the very end, who is the predator and who is the prey.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180627131500 +0000" stop="20180627180000 +0000">
     <title>Infomercial</title>
@@ -13827,6 +13925,9 @@
   <programme channel="tv.30" start="20180628033000 +0000" stop="20180628042800 +0000">
     <title>Love After Lockup</title>
     <desc>In their race to the altar, Johnna shocks Garrett. When faced with a huge sacrifice, Andrea suffers a major meltdown on her wedding day.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180628042800 +0000" stop="20180628043000 +0000">
     <title>The Dish</title>
@@ -13849,10 +13950,16 @@
   <programme channel="tv.30" start="20180628063000 +0000" stop="20180628070000 +0000">
     <title>How To Look Good Naked: UK</title>
     <desc>46-year-old Susan Sharpe from Yorkshire. At size 16, she's the average size for a British woman - but she feels that her curves are out of control.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180628070000 +0000" stop="20180628073000 +0000">
     <title>How To Look Good Naked: UK</title>
     <desc>Gok Wan is on another tricky mission to bring some loving to a body-loather and his challenge is to get 29-year-old mother of two Claire Green to look and feel good with her clothes on - and off.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180628073000 +0000" stop="20180628082800 +0000">
     <title>Catfish</title>
@@ -13875,6 +13982,9 @@
   <programme channel="tv.30" start="20180628093000 +0000" stop="20180628103000 +0000">
     <title>Mysteries &amp; Scandals</title>
     <desc>Richard Ramirez was a satanic killer terrorizing an entire state. Aileen Wuornos, a highway hooker with a gun. Doug Clark and Carol Bundy prowled the Sunset Strip for sex and victims.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180628103000 +0000" stop="20180628113000 +0000">
     <title>Law &amp; Order: SVU</title>
@@ -13886,6 +13996,9 @@
   <programme channel="tv.30" start="20180628113000 +0000" stop="20180628122500 +0000">
     <title>Killision Course</title>
     <desc>A woman from a troubled past falls for a man who offers her the stability she needs. After they start a home together their new neighbors drive a wedge between them.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180628122500 +0000" stop="20180628131500 +0000">
     <title>The Disappearance Of Natalee Holloway</title>
@@ -13937,6 +14050,9 @@
   <programme channel="tv.30" start="20180629023500 +0000" stop="20180629033000 +0000">
     <title>Mysteries &amp; Scandals</title>
     <desc>Richard Ramirez was a satanic killer terrorizing an entire state. Aileen Wuornos, a highway hooker with a gun. Doug Clark and Carol Bundy prowled the Sunset Strip for sex and victims.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180629033000 +0000" stop="20180629043000 +0000">
     <title>60 Days In</title>
@@ -13962,10 +14078,16 @@
   <programme channel="tv.30" start="20180629063000 +0000" stop="20180629070000 +0000">
     <title>How To Look Good Naked: UK</title>
     <desc>Fashion stylist Gok Wan is on another tricky mission to bring some loving to a body-loather and his challenge is to make Roberta Fox-Braddock look good naked.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180629070000 +0000" stop="20180629073500 +0000">
     <title>How To Look Good Naked: UK</title>
     <desc>25-year-old Rubie Poonia hates her size 18 body and thinks it's too big to be beautiful. Fashion stylist Gok Wan is on a mission to show her that she really can look good with her clothes on and off.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180629073500 +0000" stop="20180629083300 +0000">
     <title>Catfish</title>
@@ -14123,6 +14245,9 @@
   <programme channel="tv.30" start="20180630113000 +0000" stop="20180630123000 +0000">
     <title>Mysteries &amp; Scandals</title>
     <desc>Richard Ramirez was a satanic killer terrorizing an entire state. Aileen Wuornos, a highway hooker with a gun. Doug Clark and Carol Bundy prowled the Sunset Strip for sex and victims.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180630123000 +0000" stop="20180630132000 +0000">
     <title>Dance Moms</title>
@@ -14159,18 +14284,30 @@
   <programme channel="tv.30" start="20180630204000 +0000" stop="20180630210500 +0000">
     <title>How To Look Good Naked: UK</title>
     <desc>46-year-old Susan Sharpe from Yorkshire. At size 16, she's the average size for a British woman - but she feels that her curves are out of control.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180630210500 +0000" stop="20180630213000 +0000">
     <title>How To Look Good Naked: UK</title>
     <desc>Gok Wan is on another tricky mission to bring some loving to a body-loather and his challenge is to get 29-year-old mother of two Claire Green to look and feel good with her clothes on - and off.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180630213000 +0000" stop="20180630215500 +0000">
     <title>How To Look Good Naked: UK</title>
     <desc>Fashion stylist Gok Wan is on another tricky mission to bring some loving to a body-loather and his challenge is to make Roberta Fox-Braddock look good naked.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180630215500 +0000" stop="20180630222000 +0000">
     <title>How To Look Good Naked: UK</title>
     <desc>25-year-old Rubie Poonia hates her size 18 body and thinks it's too big to be beautiful. Fashion stylist Gok Wan is on a mission to show her that she really can look good with her clothes on and off.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180630222000 +0000" stop="20180630230800 +0000">
     <title>Dance Moms</title>
@@ -14208,6 +14345,9 @@
   <programme channel="tv.30" start="20180701013000 +0000" stop="20180701023000 +0000">
     <title>Mysteries &amp; Scandals</title>
     <desc>Richard Ramirez was a satanic killer terrorizing an entire state. Aileen Wuornos, a highway hooker with a gun. Doug Clark and Carol Bundy prowled the Sunset Strip for sex and victims.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180701023000 +0000" stop="20180701033000 +0000">
     <title>Child Genius UK</title>
@@ -14356,14 +14496,23 @@
   <programme channel="tv.30" start="20180702053000 +0000" stop="20180702063000 +0000">
     <title>Child Genius UK</title>
     <desc>We meet the next group of gifted children competing for the title of Child Genius</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180702063000 +0000" stop="20180702070000 +0000">
     <title>How To Look Good Naked: UK</title>
     <desc>27-year-old London girl Zoe Cobden is a fine figure of a woman, but like most females she just can't see it.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180702070000 +0000" stop="20180702073000 +0000">
     <title>How To Look Good Naked: UK</title>
     <desc>Emma urgently needs help. It's Gok's mission to give Emma Wright the style and confidence to work her body - showing her how to look good with her clothes on - and off.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180702073000 +0000" stop="20180702083000 +0000">
     <title>Catfish</title>
@@ -14400,6 +14549,9 @@
   <programme channel="tv.30" start="20180702113000 +0000" stop="20180702122500 +0000">
     <title>Killision Course</title>
     <desc>A young teacher moves into the Gates House to escape a volatile relationship, she quickly finds herself caught between an ex-con and his jealous girlfriend.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180624113000 +0000" stop="20180624123000 +0000">
     <title>Wayward Pines</title>
@@ -16798,6 +16950,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.65" start="20180629103000 +0000" stop="20180629110000 +0000">
     <title>Good Chef Bad Chef</title>
@@ -16834,6 +16989,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.65" start="20180630013000 +0000" stop="20180630020000 +0000">
     <title>Good Chef Bad Chef</title>
@@ -24111,7 +24269,7 @@
   </programme>
   <programme channel="tv.51" start="20180625210000 +0000" stop="20180625220000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Youtube Royalty</desc>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Brits</desc>
   </programme>
   <programme channel="tv.51" start="20180625220000 +0000" stop="20180626000000 +0000">
     <title>All The Hits</title>
@@ -24161,8 +24319,8 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180626073000 +0000" stop="20180626080000 +0000">
-    <title>This vs That 126</title>
-    <desc></desc>
+    <title>This vs That</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Lorde Vs Taylor Swift</desc>
   </programme>
   <programme channel="tv.51" start="20180626080000 +0000" stop="20180626090000 +0000">
     <title>Top 10</title>
@@ -24255,12 +24413,12 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180627073000 +0000" stop="20180627080000 +0000">
-    <title>This vs That 127</title>
+    <title>This vs That</title>
     <desc></desc>
   </programme>
   <programme channel="tv.51" start="20180627080000 +0000" stop="20180627090000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Youtube Royalty</desc>
+    <desc></desc>
   </programme>
   <programme channel="tv.51" start="20180627090000 +0000" stop="20180627103000 +0000">
     <title>All The Hits</title>
@@ -24643,14 +24801,7 @@
     <title>Hot Tune Time Machine</title>
     <desc>It's our throwback hour! We play the biggest clips from a different year each day. So step into our Hot Tune Time Machine, weekdays at midday. You'll never know what year you'll end up in.</desc>
   </programme>
-  <programme channel="tv.51" start="20180702010000 +0000" stop="20180702030000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180702030000 +0000" stop="20180702040000 +0000">
+  <programme channel="tv.51" start="20180702010000 +0000" stop="20180702040000 +0000">
     <title>All The Hits</title>
     <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
     <rating system="Freeview">
