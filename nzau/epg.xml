@@ -280,21 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180625032832 +0000" stop="20180625042604 +0000">
-    <title>Propeller</title>
-    <desc>The first team video from the legendary company brings together generations of next-level skateboarding.</desc>
-    <sub-title>A Vans Skateboard Movie</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180625042604 +0000" stop="20180625044120 +0000">
-    <title>Last Resort: Aspotogan</title>
-    <desc>Ryan Decenzo and a group of skateboarders shred the skeletal remains of a multimillion-dollar resort.</desc>
-    <sub-title>The Ultimate Five-Star Skate Retreat</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180625044120 +0000" stop="20180625050101 +0000">
-    <title>Follow Your Nose</title>
-    <desc>Snowboarders Gigi Rüf and Elias Elhardt go in search of unshredded powder in the backcountry.</desc>
-    <sub-title>Two Powder Hounds on the Hunt for Epic Snow</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180625050101 +0000" stop="20180625050635 +0000">
     <title>Myanmar: The Golden Skate Odyssey S1E2</title>
     <desc>On their way north to Naypyidaw, Korahn Gayle and the skateboard crew finds an ollie gap they can’t pass up.</desc>
@@ -2478,9 +2463,6 @@
   <programme channel="tv.9" start="20180628045500 +0000" stop="20180628060000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.9" start="20180628060000 +0000" stop="20180628070000 +0000">
     <title>1 News At 6pm</title>
@@ -2508,6 +2490,9 @@
     <title>Coronation Street 2018</title>
     <desc>Bethany encourages Kayla to text a certain someone. Maria's given food for thought. Johnny makes waves.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180628104000 +0000" stop="20180628111000 +0000">
     <title>1 News Tonight</title>
@@ -2631,6 +2616,9 @@
     <title>Coronation Street 2018</title>
     <desc>Audrey has horrifying news for Maria. Carla advises Johnny in his fight for Susie. Kayla, Bethany and Craig become closer.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180629105000 +0000" stop="20180629112000 +0000">
     <title>1 News Tonight</title>
@@ -3628,6 +3616,9 @@
   <programme channel="tv.10" start="20180626040000 +0000" stop="20180626043000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Cameo the puppy on SPCA Diaries, our Ask Me Anything Vet Stacey is here to answer all your questions, and we see if we can spot whales and dolphins with Ella in Aotearoa Superheroes!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180626043000 +0000" stop="20180626050000 +0000">
     <title>Friends</title>
@@ -3958,6 +3949,9 @@
   <programme channel="tv.10" start="20180627040000 +0000" stop="20180627043000 +0000">
     <title>Fanimals</title>
     <desc>It's Mission Impawssible as Dr Kate helps introduce a new kitten to a house with cats, you could be playing on Call of Nature, and get the scoreboards out it's Faaaaaarmyard Olympics!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180627043000 +0000" stop="20180627050000 +0000">
     <title>Friends</title>
@@ -3979,6 +3973,9 @@
   <programme channel="tv.10" start="20180627053000 +0000" stop="20180627060000 +0000">
     <title>Home And Away</title>
     <desc>Willow’s gambling hits rock bottom when she steals Ziggy’s Wedding money. Ziggy and Ben try to convince a stubborn Maggie to start Cancer treatment. Colby gets a breakthrough as Ebony's plot thickens.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180627060000 +0000" stop="20180627063000 +0000">
     <title>The Big Bang Theory</title>
@@ -4249,6 +4246,9 @@
   <programme channel="tv.10" start="20180628022500 +0000" stop="20180628025500 +0000">
     <title>Home And Away</title>
     <desc>Willow’s gambling hits rock bottom when she steals Ziggy’s Wedding money. Ziggy and Ben try to convince a stubborn Maggie to start Cancer treatment. Colby gets a breakthrough as Ebony's plot thickens.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180628025500 +0000" stop="20180628033000 +0000">
     <title>Shortland Street</title>
@@ -9814,9 +9814,6 @@
   <programme channel="tv.38" start="20180628055500 +0000" stop="20180628070000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.38" start="20180628070000 +0000" stop="20180628080000 +0000">
     <title>1 News At 6pm</title>
@@ -9844,6 +9841,9 @@
     <title>Coronation Street 2018</title>
     <desc>Bethany encourages Kayla to text a certain someone. Maria's given food for thought. Johnny makes waves.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180628114000 +0000" stop="20180628121000 +0000">
     <title>1 News Tonight</title>
@@ -9967,6 +9967,9 @@
     <title>Coronation Street 2018</title>
     <desc>Audrey has horrifying news for Maria. Carla advises Johnny in his fight for Susie. Kayla, Bethany and Craig become closer.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180629115000 +0000" stop="20180629122000 +0000">
     <title>1 News Tonight</title>
@@ -10254,6 +10257,9 @@
   <programme channel="tv.38" start="20180701055500 +0000" stop="20180701070000 +0000">
     <title>The Celebrity Chase</title>
     <desc>Quiz show hosted by Bradley Walsh. Mike Bushell, Annabel Croft, Rhea Bailey and Rylan Clark-Neal join forces in the hope that they have the knowledge to beat one of the world's finest quiz brains.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180701070000 +0000" stop="20180701080000 +0000">
     <title>1 News At 6pm</title>
@@ -10302,6 +10308,9 @@
   <programme channel="tv.38" start="20180701140000 +0000" stop="20180701145000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Toyah reaches breaking point. Kevin's got a shocking proposal for Anna. Johnny gives Jenny a reality check.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180701145000 +0000" stop="20180701160500 +0000">
     <title>Coronation Street Catch-Up</title>
@@ -10911,6 +10920,9 @@
   <programme channel="tv.14" start="20180626050000 +0000" stop="20180626053000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Cameo the puppy on SPCA Diaries, our Ask Me Anything Vet Stacey is here to answer all your questions, and we see if we can spot whales and dolphins with Ella in Aotearoa Superheroes!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180626053000 +0000" stop="20180626060000 +0000">
     <title>Friends</title>
@@ -11196,6 +11208,9 @@
   <programme channel="tv.14" start="20180627050000 +0000" stop="20180627053000 +0000">
     <title>Fanimals</title>
     <desc>It's Mission Impawssible as Dr Kate helps introduce a new kitten to a house with cats, you could be playing on Call of Nature, and get the scoreboards out it's Faaaaaarmyard Olympics!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180627053000 +0000" stop="20180627060000 +0000">
     <title>Friends</title>
@@ -11214,6 +11229,9 @@
   <programme channel="tv.14" start="20180627063000 +0000" stop="20180627070000 +0000">
     <title>Home And Away</title>
     <desc>Willow’s gambling hits rock bottom when she steals Ziggy’s Wedding money. Ziggy and Ben try to convince a stubborn Maggie to start Cancer treatment. Colby gets a breakthrough as Ebony's plot thickens.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180627070000 +0000" stop="20180627073000 +0000">
     <title>The Big Bang Theory</title>
@@ -11445,6 +11463,9 @@
   <programme channel="tv.14" start="20180628032500 +0000" stop="20180628035500 +0000">
     <title>Home And Away</title>
     <desc>Willow’s gambling hits rock bottom when she steals Ziggy’s Wedding money. Ziggy and Ben try to convince a stubborn Maggie to start Cancer treatment. Colby gets a breakthrough as Ebony's plot thickens.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180628035500 +0000" stop="20180628043000 +0000">
     <title>Shortland Street</title>
@@ -19701,14 +19722,14 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20180702100000 +0000" stop="20180702102500 +0000">
+  <programme channel="tv.55" start="20180702100000 +0000" stop="20180702103000 +0000">
     <title>American Dad</title>
     <desc>S4 E6 When Hayley’s boyfriend breaks up with her she goes on a rampage, only to later calm down when she falls in love with Stan’s CIA body-double, Bill.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20180702102500 +0000" stop="20180702162500 +0000">
+  <programme channel="tv.55" start="20180702103000 +0000" stop="20180702163000 +0000">
     <title>Live: Wimbledon Day 1</title>
     <desc>Live coverage from the opening day of the 2018 Championships starts from the grass courts of Wimbledon in London.</desc>
   </programme>
@@ -34383,7 +34404,7 @@
     </rating>
   </programme>
   <programme channel="tv.18" start="20180628043000 +0000" stop="20180628060000 +0000">
-    <title>Budget 2018</title>
+    <title>Debates</title>
     <desc>Live coverage of legislative debates. Details subject to change.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -71652,8 +71673,8 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180625123000 +0000" stop="20180625130000 +0000">
-    <title>Housos</title>
+  <programme channel="tv.320203000302" start="20180625123000 +0000" stop="20180625141500 +0000">
+    <title>Ong Bak 2: The Beginning</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
