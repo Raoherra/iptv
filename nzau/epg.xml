@@ -280,21 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180626205319 +0000" stop="20180626210701 +0000">
-    <title>Life Behind Bars S3E1</title>
-    <desc>Brandon Semenuk escapes winter in Canada with the help of Brendan Fairclough and Nico Vink in California, USA.</desc>
-    <sub-title>California Sessions</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180626210701 +0000" stop="20180626212143 +0000">
-    <title>Wake Crane</title>
-    <desc>Three top riders shred a custom 360-degree wakeboard park while being towed by an industrial crane.</desc>
-    <sub-title>Freestyle Wakeboarding Goes Full Circle</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180626212143 +0000" stop="20180626212442 +0000">
-    <title>Brian Grubb Wakeskates in Turkey</title>
-    <desc>Wakeskater Brian Grubb sessions at the pristine Cleopatra's Pool at the ruins of Hierapolis in Turkey.</desc>
-    <sub-title>On the Roots of Cleopatra</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180626212442 +0000" stop="20180626224814 +0000">
     <title>Chapter One</title>
     <desc>The best kiteboard riders in the world come together to show off the sport’s breathtaking beauty.</desc>
@@ -42042,6 +42027,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180704140000 +0000" stop="20180704143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180626131700 +0000" stop="20180626142600 +0000">
     <title>Q&amp;A</title>
     <subtitles type="teletext"/>
@@ -56793,6 +56785,12 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200428" start="20180704140000 +0000" stop="20180704143000 +0000">
+    <title>Balls of Steel Australia</title>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020520" start="20180626130700 +0000" stop="20180626140100 +0000">
     <title>Autopsy</title>
     <subtitles type="teletext"/>
@@ -60903,6 +60901,13 @@
   </programme>
   <programme channel="tv.101305020523" start="20180704132800 +0000" stop="20180704140000 +0000">
     <title>American Dad!</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020523" start="20180704140000 +0000" stop="20180704150000 +0000">
+    <title>The Front Bar</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -69856,9 +69861,9 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180626163000 +0000" stop="20180626170000 +0000">
-    <title>FIFA 2018 World Cup: Road to Russia</title>
+    <title>Travel Man</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180626170000 +0000" stop="20180626203000 +0000">
@@ -73908,7 +73913,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630133000 +0000" stop="20180630135500 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -73920,7 +73925,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -74364,9 +74369,9 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702020000 +0000" stop="20180702023000 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702023000 +0000" stop="20180702032500 +0000">
@@ -77171,6 +77176,12 @@
   </programme>
   <programme channel="tv.320203000305" start="20180704135000 +0000" stop="20180704140000 +0000">
     <title>Aesop's Way</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180704140000 +0000" stop="20180704150000 +0000">
+    <title>Volumz</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
