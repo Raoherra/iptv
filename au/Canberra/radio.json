@@ -1,5 +1,7 @@
 {
     "radio.ih.7123": {
+        "active": true,
+        "modified": "1529415148719",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7123.png",
         "name": "ABC Classic 2",
         "description": "Simply Classical",
@@ -7,19 +9,23 @@
             "Classical",
             "Public Radio"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7123|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 48000
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7123/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7123",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7123|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7118": {
+        "active": true,
+        "modified": "1529411851052",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7118.png",
         "name": "ABC Classic FM",
         "description": "The World's Most Beautiful Music",
@@ -27,19 +33,23 @@
             "Classical",
             "Public Radio"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7118|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 48000
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7118/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7118",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7118|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7125": {
+        "active": true,
+        "modified": "1529415157615",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7125.png",
         "name": "ABC Country",
         "description": "Australia's Home of Country Music",
@@ -47,19 +57,23 @@
             "Country",
             "Public Radio"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7125|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 48000
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7125/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7125",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7125|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7112": {
+        "active": true,
+        "modified": "1529415209450",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7112.png",
         "name": "ABC Grandstand",
         "description": "100% Pure Sport",
@@ -67,19 +81,23 @@
             "Public Radio",
             "Sports"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7112|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 48000
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7112/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7112",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7112|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7124": {
+        "active": true,
+        "modified": "1529411851123",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7124.png",
         "name": "ABC Jazz",
         "description": "Just Jazz",
@@ -87,19 +105,23 @@
             "Jazz",
             "Public Radio"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7124|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 48000
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7124/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7124",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7124|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7110": {
+        "active": true,
+        "modified": "1529415175702",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7110.png",
         "name": "ABC News Radio",
         "description": "Australia's Only Continuous News Station",
@@ -107,19 +129,23 @@
             "Traffic, Weather & News",
             "News & Talk"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7110|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 1,
             "codec": "aac",
             "sample_rate": 48000
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7110/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7110",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7110|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7128": {
+        "active": true,
+        "modified": "1529415156117",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7128.png",
         "name": "ABC Radio Canberra",
         "description": "It's Where You Live",
@@ -127,19 +153,23 @@
             "Public Radio",
             "News & Talk"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7128|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 1,
             "codec": "aac",
             "sample_rate": 48000
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7128/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7128",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7128|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7421": {
+        "active": true,
+        "modified": "1529415072730",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7421.png",
         "name": "AndrewHaug.com Metal Radio",
         "description": "Australia’s Metal Radio Station! \\m/",
@@ -147,19 +177,23 @@
             "Punk",
             "Metal"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7421|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7421/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7421",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7421|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.6995": {
+        "active": true,
+        "modified": "1529415051086",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6995.png",
         "name": "Asia Pop 40",
         "description": "Asia’s Home Grown Chart Show w/ Dom Lau",
@@ -167,19 +201,23 @@
             "Multicultural",
             "Top 40 & Pop"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6995|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6995/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6995",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6995|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.6178": {
+        "active": true,
+        "modified": "1529411851737",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6178.png",
         "name": "CW Remix",
         "description": "Chemist Warehouse Remix",
@@ -187,51 +225,61 @@
             "Mix & Variety",
             "80s & 90s Hits"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6178|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6178/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6178",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6178|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.curtin.radio": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.curtin.radio.png",
         "description": "Curtin FM 100.1 is a broadcast radio station from Perth, Western Australia, Australia, providing 50’s, 60’s, 70’s & 80's Rock and Pop music.",
+        "stream_type": "DEFAULT",
         "name": "Curtin Radio",
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.curtin.radio|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "sample_rate": 44100,
             "codec": "mp3",
             "channels": 1
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.curtin.radio/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.curtin.radio",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.curtin.radio|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.double.j": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.double.j.png",
         "description": "It's the best music from your past, present and future.",
         "name": "Double J",
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.double.j|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "stream_type": "DEFAULT",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 48000
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.double.j/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.double.j",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.double.j|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7260": {
+        "active": true,
+        "modified": "1529296911354",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7260.png",
         "name": "Guzman Y Gomez",
         "description": "Guac ‘n’ Roll",
@@ -239,19 +287,23 @@
             "Spanish",
             "Mexico"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7260.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7260/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7260.aac",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7260.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.6243": {
+        "active": true,
+        "modified": "1529414966257",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6243.png",
         "name": "Hit104.7",
         "description": "Canberra's #1 Hit Music Station",
@@ -259,19 +311,23 @@
             "80s & 90s Hits",
             "Top 40 & Pop"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6243|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6243/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6243",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6243|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7547": {
+        "active": true,
+        "modified": "1529415066715",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7547.png",
         "name": "JOY",
         "description": "OUT. LOUD. PROUD",
@@ -279,38 +335,46 @@
             "Dance",
             "Pride"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7547|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 32000
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7547/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7547",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7547|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.6970": {
+        "active": true,
+        "modified": "1529411851786",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6970.png",
         "name": "Little Rockers Red Nose Disco",
         "description": "Donate Now For Red Nose Day!",
         "genres": [
             "Kids & Family"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6970|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6970/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6970",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6970|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.6244": {
+        "active": true,
+        "modified": "1529411628252",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6244.png",
         "name": "Mix 106.3",
         "description": "Canberra's Greatest Hits",
@@ -318,19 +382,23 @@
             "Mix & Variety",
             "80s & 90s Hits"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6244|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6244/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6244",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6244|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7111": {
+        "active": true,
+        "modified": "1529415172923",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7111.png",
         "name": "RN",
         "description": "The Ideas Network",
@@ -338,19 +406,23 @@
             "Public Radio",
             "News & Talk"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7111|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 1,
             "codec": "aac",
             "sample_rate": 48000
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7111/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7111",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7111|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7415": {
+        "active": true,
+        "modified": "1529415076212",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7415.png",
         "name": "Radio Dead",
         "description": "Playing the Best of Artists Who are Dead",
@@ -358,19 +430,23 @@
             "Oldies",
             "Classic Rock"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7415|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7415/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7415",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7415|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7030": {
+        "active": true,
+        "modified": "1529415141360",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7030.png",
         "name": "SBS Arabic24",
         "description": "Australian News in Arabic",
@@ -378,19 +454,23 @@
             "Multicultural",
             "News & Talk"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7030|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7030/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7030",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7030|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7029": {
+        "active": true,
+        "modified": "1529415139417",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7029.png",
         "name": "SBS Chill",
         "description": "Chill to Relaxing Sounds of World Music",
@@ -398,19 +478,23 @@
             "Multicultural",
             "World"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7029|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7029/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7029",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7029|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7028": {
+        "active": true,
+        "modified": "1529415137006",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7028.png",
         "name": "SBS PopAsia",
         "description": "The hottest K-Pop, J-Pop, C-Pop!",
@@ -418,19 +502,23 @@
             "Multicultural",
             "World"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7028|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7028/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7028",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7028|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7031": {
+        "active": true,
+        "modified": "1529415143651",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7031.png",
         "name": "SBS PopDesi",
         "description": "Non-Stop Desi Pop. Bhangra to Bollywood!",
@@ -438,19 +526,23 @@
             "Multicultural",
             "World"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7031|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7031/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7031",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7031|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.6998": {
+        "active": true,
+        "modified": "1529415058430",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6998.png",
         "name": "SBS Radio 1",
         "description": "News and Information in Your Language",
@@ -458,19 +550,23 @@
             "Multicultural",
             "News & Talk"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6998|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "codec": "aac",
             "sample_rate": 44100,
             "channels": 2
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6998/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6998",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6998|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7025": {
+        "active": true,
+        "modified": "1529415132554",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7025.png",
         "name": "SBS Radio 2",
         "description": "News and Information in Your Language",
@@ -478,19 +574,23 @@
             "Multicultural",
             "News & Talk"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7025|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7025/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7025",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7025|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7026": {
+        "active": true,
+        "modified": "1529415134465",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7026.png",
         "name": "SBS Radio 3",
         "description": "News and information in your language",
@@ -498,19 +598,23 @@
             "Multicultural",
             "News & Talk"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7026|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7026/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7026",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7026|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7285": {
+        "active": true,
+        "modified": "1519688064720",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7285.png",
         "name": "St Kilda Festival",
         "description": "Hear All The Artists On The 2018 Lineup!",
@@ -519,19 +623,23 @@
             "Reggae & Island",
             "Alternative"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7285|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 48000
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7285/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7285",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7285|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7293": {
+        "active": true,
+        "modified": "1529419735310",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7293.png",
         "name": "Sydney Gay Lesbian Mardi Gras",
         "description": "Uniting to Create Equality",
@@ -539,19 +647,23 @@
             "Dance",
             "Pride"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7293|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7293/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7293",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7293|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.6794": {
+        "active": true,
+        "modified": "1529415039842",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6794.png",
         "name": "The 80s iHeartRadio",
         "description": "Australia’s Ultimate 80s Station",
@@ -559,19 +671,23 @@
             "Mix & Variety",
             "80s & 90s Hits"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6794|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6794/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6794",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6794|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.6793": {
+        "active": true,
+        "modified": "1529414994015",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6793.png",
         "name": "The 90s iHeartRadio",
         "description": "Australia’s Ultimate 90s Station",
@@ -579,19 +695,23 @@
             "Mix & Variety",
             "80s & 90s Hits"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6793|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6793/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6793",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6793|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.6180": {
+        "active": true,
+        "modified": "1529414948760",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6180.png",
         "name": "The Edge Digital",
         "description": "Beats That Move You",
@@ -599,19 +719,23 @@
             "Top 40 & Pop",
             "Hip Hop and R&B"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6180|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6180/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6180",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6180|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7419": {
+        "active": true,
+        "modified": "1529415074490",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7419.png",
         "name": "The Faction Radio",
         "description": "The Faction – Heavy Music Streaming 24/7",
@@ -619,19 +743,23 @@
             "Punk",
             "Metal"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7419|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7419/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7419",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7419|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7050": {
+        "active": true,
+        "modified": "1529415145965",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7050.png",
         "name": "iHeartAustralia",
         "description": "The Aussie Hits You Love",
@@ -639,19 +767,23 @@
             "Rock",
             "80s & 90s Hits"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7050|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7050/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7050",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7050|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7222": {
+        "active": true,
+        "modified": "1529411847459",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7222.png",
         "name": "iHeartCountry Australia",
         "description": "The Hottest Country Hits",
@@ -659,19 +791,23 @@
             "Country",
             "Blues"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7222|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7222/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7222",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7222|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.6902": {
+        "active": true,
+        "modified": "1529415044567",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6902.png",
         "name": "iHeartRadio Countdown AUS",
         "description": "The Weeks Hottest Tracks on iHeartRadio",
@@ -679,19 +815,23 @@
             "Popular Artists",
             "Top 40 & Pop"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6902|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6902/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6902",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6902|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.6941": {
+        "active": true,
+        "modified": "1529630963478",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6941.png",
         "name": "iHeartRadio Dance",
         "description": "Devoted To All Things Dance",
@@ -699,19 +839,23 @@
             "Top 40 & Pop",
             "Dance"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6941|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6941/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6941",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6941|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.6996": {
+        "active": true,
+        "modified": "1529415056893",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6996.png",
         "name": "iHeartRadio Old Skool",
         "description": "From Back in the Day",
@@ -719,19 +863,23 @@
             "Hip Hop and R&B",
             "R&B"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6996|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6996/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6996",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.6996|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7075": {
+        "active": true,
+        "modified": "1529415180812",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7075.png",
         "name": "iHeartYou",
         "description": "Valentine's Dedications with Dr. Love",
@@ -739,19 +887,23 @@
             "R&B",
             "Mix & Variety"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7075|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 44100
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7075/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7075",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7075|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7115": {
+        "active": true,
+        "modified": "1529415167607",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7115.png",
         "name": "triplej",
         "description": "We Love Music",
@@ -759,19 +911,23 @@
             "Public Radio",
             "Alternative"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7115|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 48000
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7115/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7115",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7115|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7116": {
+        "active": true,
+        "modified": "1529415170752",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7116.png",
         "name": "triplej Unearthed",
         "description": "100% Independent Australian Music",
@@ -779,16 +935,18 @@
             "Popular Artists",
             "Alternative"
         ],
-        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7116|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
         "audio": {
             "channels": 2,
             "codec": "aac",
             "sample_rate": 48000
         },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7116/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7116",
         "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
             "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
-        }
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Canberra/radio.ih.7116|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     }
 }
