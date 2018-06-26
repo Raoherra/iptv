@@ -7,21 +7,21 @@
         "network": "SEVEN",
         "stream_type": "scraped",
         "video": {
+            "width": 896,
             "codec": "h264",
-            "height": 504,
-            "width": 896
+            "height": 504
         },
         "audio": {
-            "codec": "aac",
+            "sample_rate": 48000,
             "channels": 2,
-            "sample_rate": 48000
+            "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030532/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030532.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030532.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -33,21 +33,21 @@
         "network": "SEVEN",
         "stream_type": "scraped",
         "video": {
+            "width": 640,
             "codec": "h264",
-            "height": 360,
-            "width": 640
+            "height": 360
         },
         "audio": {
-            "codec": "aac",
+            "sample_rate": 48000,
             "channels": 2,
-            "sample_rate": 48000
+            "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030535/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030535.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030535.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -59,21 +59,21 @@
         "network": "SEVEN",
         "stream_type": "scraped",
         "video": {
+            "width": 896,
             "codec": "h264",
-            "height": 504,
-            "width": 896
+            "height": 504
         },
         "audio": {
-            "codec": "aac",
+            "sample_rate": 48000,
             "channels": 2,
-            "sample_rate": 48000
+            "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030533/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030533.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030533.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -97,9 +97,9 @@
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300436/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300436.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300436.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -123,9 +123,9 @@
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300437/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300437.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300437.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -149,9 +149,9 @@
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300433/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300433.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300433.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -163,21 +163,21 @@
         "network": "ABC",
         "stream_type": "Token",
         "video": {
+            "width": 640,
             "codec": "h264",
-            "height": 360,
-            "width": 640
+            "height": 360
         },
         "audio": {
-            "codec": "aac",
+            "sample_rate": 44100,
             "channels": 2,
-            "sample_rate": 44100
+            "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002310231/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002310231.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002310231.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -201,9 +201,9 @@
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002210222/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002210222.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -215,21 +215,21 @@
         "network": "ABC",
         "stream_type": "Token",
         "video": {
+            "width": 640,
             "codec": "h264",
-            "height": 360,
-            "width": 640
+            "height": 360
         },
         "audio": {
-            "codec": "aac",
+            "sample_rate": 44100,
             "channels": 2,
-            "sample_rate": 44100
+            "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002210224/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002210224.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -253,9 +253,9 @@
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002210220/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002210220.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -279,9 +279,9 @@
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300430/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300430.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300430.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -305,9 +305,9 @@
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101406030638/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101406030638.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101406030638.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -331,9 +331,9 @@
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.320203000304/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.320203000304.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -354,9 +354,9 @@
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.fox.sports.news/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.fox.sports.news.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.fox.sports.news.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -380,9 +380,9 @@
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.320203000305/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.320203000305.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -406,9 +406,9 @@
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101406030631/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101406030631.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101406030631.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -420,21 +420,21 @@
         "network": "SEVEN",
         "stream_type": "scraped",
         "video": {
+            "width": 640,
             "codec": "h264",
-            "height": 360,
-            "width": 640
+            "height": 360
         },
         "audio": {
-            "codec": "aac",
+            "sample_rate": 48000,
             "channels": 2,
-            "sample_rate": 48000
+            "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305020528/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305020528.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305020528.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -456,9 +456,9 @@
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.redbull.tv/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.redbull.tv.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.redbull.tv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -482,9 +482,9 @@
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.320203000301/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.320203000301.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -508,9 +508,9 @@
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.320203000302/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.320203000302.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.320203000302.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -522,21 +522,21 @@
         "network": "SEVEN",
         "stream_type": "scraped",
         "video": {
+            "width": 896,
             "codec": "h264",
-            "height": 504,
-            "width": 896
+            "height": 504
         },
         "audio": {
-            "codec": "aac",
+            "sample_rate": 48000,
             "channels": 2,
-            "sample_rate": 48000
+            "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030530/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030530.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030530.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -560,9 +560,9 @@
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101406030635/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101406030635.m3u8",
         "headers": {
-            "Referer": "%20",
             "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101406030635.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     }
