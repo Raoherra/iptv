@@ -10,16 +10,16 @@
             "Public Radio"
         ],
         "audio": {
-            "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7123/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7123",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7123|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -34,16 +34,16 @@
             "Public Radio"
         ],
         "audio": {
-            "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7118/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7118",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7118|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -58,16 +58,16 @@
             "Public Radio"
         ],
         "audio": {
-            "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7125/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7125",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7125|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -82,16 +82,16 @@
             "Sports"
         ],
         "audio": {
-            "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7112/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7112",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7112|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -106,16 +106,16 @@
             "Public Radio"
         ],
         "audio": {
-            "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7124/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7124",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7124|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -130,16 +130,16 @@
             "News & Talk"
         ],
         "audio": {
-            "sample_rate": 48000,
+            "channels": 1,
             "codec": "aac",
-            "channels": 1
+            "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7110/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7110",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7110|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -154,16 +154,16 @@
             "Public Radio"
         ],
         "audio": {
-            "sample_rate": 48000,
+            "channels": 1,
             "codec": "aac",
-            "channels": 1
+            "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7143/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7143",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7143|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -178,16 +178,16 @@
             "News & Talk"
         ],
         "audio": {
-            "sample_rate": 48000,
+            "channels": 1,
             "codec": "aac",
-            "channels": 1
+            "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7131/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7131",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7131|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -202,16 +202,16 @@
             "Metal"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7421/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7421",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7421|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -226,16 +226,16 @@
             "Top 40 & Pop"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6995/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6995",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6995|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -250,16 +250,16 @@
             "80s & 90s Hits"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6178/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6178",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6178|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -269,16 +269,16 @@
         "stream_type": "DEFAULT",
         "name": "Curtin Radio",
         "audio": {
-            "sample_rate": 44100,
+            "channels": 1,
             "codec": "mp3",
-            "channels": 1
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.curtin.radio/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.curtin.radio",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.curtin.radio|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -288,16 +288,16 @@
         "stream_type": "DEFAULT",
         "description": "It's the best music from your past, present and future.",
         "audio": {
-            "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.double.j/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.double.j",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.double.j|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -312,16 +312,16 @@
             "Mexico"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7260/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7260.aac",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7260.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -336,16 +336,16 @@
             "Pride"
         ],
         "audio": {
-            "sample_rate": 32000,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 32000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7547/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7547",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7547|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -360,16 +360,16 @@
             "Top 40 & Pop"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7890/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7890",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7890|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -383,16 +383,16 @@
             "Kids & Family"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6970/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6970",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6970|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -407,16 +407,16 @@
             "News & Talk"
         ],
         "audio": {
-            "sample_rate": 48000,
+            "channels": 1,
             "codec": "aac",
-            "channels": 1
+            "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7111/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7111",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7111|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -431,16 +431,16 @@
             "Classic Rock"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7415/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7415",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7415|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -455,16 +455,16 @@
             "News & Talk"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7030/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7030",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7030|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -479,16 +479,16 @@
             "World"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7029/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7029",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7029|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -503,16 +503,16 @@
             "World"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7028/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7028",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7028|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -527,16 +527,16 @@
             "World"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7031/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7031",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7031|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -558,9 +558,9 @@
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6998/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6998",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6998|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -575,16 +575,16 @@
             "News & Talk"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7025/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7025",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7025|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -599,16 +599,16 @@
             "News & Talk"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7026/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7026",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7026|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -623,16 +623,16 @@
             "Pride"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7293/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7293",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7293|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -647,16 +647,16 @@
             "80s & 90s Hits"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6794/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6794",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6794|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -671,16 +671,16 @@
             "80s & 90s Hits"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6793/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6793",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6793|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -695,16 +695,16 @@
             "Hip Hop and R&B"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6180/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6180",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6180|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -719,16 +719,16 @@
             "Metal"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7419/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7419",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7419|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -743,16 +743,16 @@
             "80s & 90s Hits"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7050/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7050",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7050|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -767,16 +767,16 @@
             "Blues"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7222/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7222",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7222|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -791,16 +791,16 @@
             "Top 40 & Pop"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6902/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6902",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6902|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -815,16 +815,16 @@
             "Dance"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6941/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6941",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6941|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -839,16 +839,16 @@
             "R&B"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6996/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6996",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6996|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -863,16 +863,16 @@
             "Mix & Variety"
         ],
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7075/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7075",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7075|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -887,16 +887,16 @@
             "Alternative"
         ],
         "audio": {
-            "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7115/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7115",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7115|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -911,16 +911,16 @@
             "Alternative"
         ],
         "audio": {
-            "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7116/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7116",
         "headers": {
+            "X-Forwarded-For": "52.62.247.239",
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7116|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     }
