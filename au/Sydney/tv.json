@@ -443,14 +443,14 @@
         "name": "Redbull TV",
         "stream_type": "DEFAULT",
         "video": {
-            "codec": "h264",
             "width": 1280,
-            "height": 720
+            "height": 720,
+            "codec": "h264"
         },
         "audio": {
-            "codec": "aac",
+            "channels": 2,
             "sample_rate": 48000,
-            "channels": 2
+            "codec": "aac"
         },
         "description": "Red Bull TV: beyond the ordinary live events and videos featuring inspirational stories covering sports, music and lifestyle entertainment. Anytime, anywhere.",
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/tv.redbull.tv/m.m3u8",
