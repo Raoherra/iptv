@@ -164,12 +164,12 @@
         "stream_type": "Token",
         "video": {
             "width": 640,
-            "height": 360,
-            "codec": "h264"
+            "codec": "h264",
+            "height": 360
         },
         "audio": {
-            "sample_rate": 44100,
             "channels": 2,
+            "sample_rate": 44100,
             "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/tv.101002210221/m.m3u8",
