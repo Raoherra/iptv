@@ -1625,6 +1625,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180705140000 +0000" stop="20180705143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180627135900 +0000" stop="20180627142100 +0000">
     <title>Archer</title>
     <subtitles type="teletext"/>
@@ -13214,6 +13221,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204300433" start="20180705140000 +0000" stop="20180705143000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204300436" start="20180627135100 +0000" stop="20180627145100 +0000">
     <title>Trauma Investigators</title>
     <rating system="Freeview">
@@ -16464,6 +16477,12 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204300437" start="20180705140000 +0000" stop="20180705150000 +0000">
+    <title>WWE Raw</title>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020528" start="20180627110000 +0000" stop="20180627150000 +0000">
     <title>Racenight Live: Happy Valley</title>
     <subtitles type="teletext"/>
@@ -18496,6 +18515,13 @@
   </programme>
   <programme channel="tv.101305020528" start="20180705130000 +0000" stop="20180705140000 +0000">
     <title>Get On!</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180705140000 +0000" stop="20180705141500 +0000">
+    <title>Trackwork</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -32473,6 +32499,12 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000302" start="20180705140000 +0000" stop="20180705142500 +0000">
+    <title>VICE News Tonight</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000304" start="20180627133000 +0000" stop="20180627142500 +0000">
     <title>Chopped</title>
     <rating system="Freeview">
@@ -33386,13 +33418,19 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -33401,12 +33439,6 @@
     <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
-    <title>Surfing the Menu</title>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630151500 +0000" stop="20180630152500 +0000">
@@ -33494,13 +33526,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -33554,15 +33586,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
-    <title>Surfing the Menu</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
     <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
+    <title>Surfing the Menu</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701013000 +0000" stop="20180701022500 +0000">
@@ -36952,21 +36984,6 @@
     <rating system="Freeview">
       <value>NC</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180627205330 +0000" stop="20180627214056 +0000">
-    <title>Ready to Race</title>
-    <desc>Austria’s most successful motorbike racing team makes the jump into MotoGP, the pinnacle of motorcycle racing.</desc>
-    <sub-title>KTM Goes MotoGP</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180627214056 +0000" stop="20180627215212 +0000">
-    <title>Who is JOB S4E6</title>
-    <desc>Jaime and Poopies tandem surf, drop drainage ditches, and battle a blob in Waimea.</desc>
-    <sub-title>Tandem Barrels &amp; Babes</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180627215212 +0000" stop="20180627220107 +0000">
-    <title>Who is JOB S4E5</title>
-    <desc>Floodgates open on the Waimea River, so JOB makes his own waves and Poopies launches his snow ski career.</desc>
-    <sub-title>Dam Fun Times</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180627220107 +0000" stop="20180627220946 +0000">
     <title>Who is JOB S4E4</title>
