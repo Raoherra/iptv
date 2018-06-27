@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180627060427 +0000" stop="20180627061037 +0000">
-    <title>Dedicate S1E3</title>
-    <desc>With the spirit of a skateboarder and the look of a rock star, Chris Plys wants to be the new face of curling.</desc>
-    <sub-title>Throwing Rocks</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180627061037 +0000" stop="20180627061807 +0000">
-    <title>Dedicate S1E4</title>
-    <desc>Will Ryan Sandes's extreme training help him win the Western States 100-Mile Endurance Run in record time?</desc>
-    <sub-title>100 Miles Out West</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180627061807 +0000" stop="20180627070808 +0000">
     <title>Visions of Greatness S1E1</title>
     <desc>Being an outsider can lead to success, as shown by surfer Laird Hamilton and musician Mark Mothersbaugh.</desc>
@@ -2279,6 +2269,16 @@
     <title>Two Roads S1E2</title>
     <desc>For Kristian, diving is a joy. He describes the mental strength required to bounce back from failure.</desc>
     <sub-title>Kristian Ipsen</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180704221925 +0000" stop="20180704224154 +0000">
+    <title>Brother</title>
+    <desc>Kolohe Andino and friends shred the best waves of their lives. This is real surfing. This is Brother.</desc>
+    <sub-title>Around the Globe with Kolohe Andino</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180704224154 +0000" stop="20180704233730 +0000">
+    <title>Red Bull Air Race 2018</title>
+    <desc>Catch up on everything that happened at the third stop of Red Bull Air Race 2018 in Chiba, Japan.</desc>
+    <sub-title>Recap: Chiba</sub-title>
   </programme>
   <programme channel="tv.9" start="20180626110000 +0000" stop="20180626120000 +0000">
     <title>Sunday</title>
@@ -6100,7 +6100,7 @@
   </programme>
   <programme channel="tv.11" start="20180628073000 +0000" stop="20180628083000 +0000">
     <title>Jono And Ben</title>
-    <desc>Jono and Ben are joined with a wider cast of comedians, including Brynley Stent, Chris Parker, Kura Forrester, Ray O'Leary and Angella Dravid! Brighten your Thursday night with plenty of laughs.</desc>
+    <desc>New Episode. The boys tackle James Bond and the housing market, Melania Trump drops in, and Guy meets with Dakta Green.</desc>
   </programme>
   <programme channel="tv.11" start="20180628083000 +0000" stop="20180628103000 +0000">
     <title>X-Men Origins: Wolverine</title>
@@ -6244,7 +6244,7 @@
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.11" start="20180629104500 +0000" stop="20180629111500 +0000">
+  <programme channel="tv.11" start="20180629104500 +0000" stop="20180629111000 +0000">
     <title>American Dad</title>
     <desc>Screening the same week as the US, American Dad continues its latest season. S13 Ep15</desc>
     <audio>
@@ -6254,7 +6254,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180629111500 +0000" stop="20180629121000 +0000">
+  <programme channel="tv.11" start="20180629111000 +0000" stop="20180629121000 +0000">
     <title>Hawaii Five-O</title>
     <desc>Five-O are back to school after a college professor is murdered, with Danny posing as his replacement and Eric as a student. S6 Ep9</desc>
     <audio>
@@ -6337,19 +6337,25 @@
   <programme channel="tv.11" start="20180630050000 +0000" stop="20180630060000 +0000">
     <title>All Star Family Feud: Mai vs. The Rock</title>
     <desc>It's a special episode of All Star Family Feud as radio stations collide. Mai, home of RnB and hip hop, feud against The Rock. Who will come out victorious for charity?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180630060000 +0000" stop="20180630070000 +0000">
     <title>Newshub Live At 6pm</title>
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
   </programme>
-  <programme channel="tv.11" start="20180630070000 +0000" stop="20180630084000 +0000">
+  <programme channel="tv.11" start="20180630070000 +0000" stop="20180630083500 +0000">
     <title>The Secret Life Of Pets</title>
     <desc>After ending up in the outside world, two squabbling pet dogs find common ground against a gang of angry animals preparing an attack on humans. (2016)</desc>
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
-  <programme channel="tv.11" start="20180630084000 +0000" stop="20180630093500 +0000">
+  <programme channel="tv.11" start="20180630083500 +0000" stop="20180630093000 +0000">
     <title>All New Chicago Med</title>
     <desc>Premiere. New Episode. The doctors of Chicago Med try to bring justice to the perpetrator in the shooting of Dr. Charles. Plus, Robin is discharged from the rehabilitation centre. S3 Ep1</desc>
     <audio>
@@ -6359,14 +6365,14 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180630093500 +0000" stop="20180630102500 +0000">
+  <programme channel="tv.11" start="20180630093000 +0000" stop="20180630102000 +0000">
     <title>NCIS</title>
     <desc>After being buried alive, a woman comes out of the grave with amnesia and the only thing she remembers is that there is a bomb aboard a Navy ship. S1 Ep10</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180630102500 +0000" stop="20180630125500 +0000">
+  <programme channel="tv.11" start="20180630102000 +0000" stop="20180630124500 +0000">
     <title>Thelma &amp; Louise</title>
     <desc>Best friends Thelma, a meek housewife, and Louise, an independent waitress, embark on a short fishing trip. However, things turn dangerous when they end up on the run from the law. (1991)</desc>
     <audio>
@@ -6376,7 +6382,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180630125500 +0000" stop="20180630160000 +0000">
+  <programme channel="tv.11" start="20180630124500 +0000" stop="20180630160000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -6769,6 +6775,9 @@
   <programme channel="tv.11" start="20180703093000 +0000" stop="20180703102500 +0000">
     <title>All New SVU: Special Victims Unit</title>
     <desc>New Episode. An Alzheimer's patient claims she was raped, but her illness casts doubt on the case. Fin's sergeant orders come in. S19 Ep22</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180703102500 +0000" stop="20180703105500 +0000">
     <title>Newshub Late</title>
@@ -6953,6 +6962,9 @@
   <programme channel="tv.12" start="20180626225800 +0000" stop="20180626230000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180626230000 +0000" stop="20180626234500 +0000">
     <title>Catfish</title>
@@ -6971,6 +6983,9 @@
   <programme channel="tv.12" start="20180627003800 +0000" stop="20180627004000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180627004000 +0000" stop="20180627013000 +0000">
     <title>Below Deck Mediterranean</title>
@@ -6989,6 +7004,9 @@
   <programme channel="tv.12" start="20180627022800 +0000" stop="20180627023000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180627023000 +0000" stop="20180627030000 +0000">
     <title>Botched: Most Outrageous Before &amp; Afters</title>
@@ -7049,6 +7067,9 @@
   <programme channel="tv.12" start="20180627103300 +0000" stop="20180627103500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180627103500 +0000" stop="20180627112500 +0000">
     <title>Stripped USA</title>
@@ -7093,6 +7114,9 @@
   <programme channel="tv.12" start="20180627234300 +0000" stop="20180627234500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180627234500 +0000" stop="20180628004000 +0000">
     <title>Escaping Polygamy</title>
@@ -7111,6 +7135,9 @@
   <programme channel="tv.12" start="20180628013300 +0000" stop="20180628013500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180628013500 +0000" stop="20180628023000 +0000">
     <title>Stripped USA</title>
@@ -7129,6 +7156,9 @@
   <programme channel="tv.12" start="20180628032800 +0000" stop="20180628033000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180628033000 +0000" stop="20180628043000 +0000">
     <title>Dance Moms</title>
@@ -7168,6 +7198,9 @@
   <programme channel="tv.12" start="20180628072800 +0000" stop="20180628073000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180628073000 +0000" stop="20180628083000 +0000">
     <title>Killer Couples</title>
@@ -7253,7 +7286,7 @@
   </programme>
   <programme channel="tv.12" start="20180629023000 +0000" stop="20180629033000 +0000">
     <title>60 Days In</title>
-    <desc>Phase two of Sheriff Jamey Noel's unprecedented program begins with four new participants entering the Clark County Jail to continue the covert operation designed to root out corruption and contraband</desc>
+    <desc/>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -7296,6 +7329,9 @@
   <programme channel="tv.12" start="20180629073300 +0000" stop="20180629073500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180629073500 +0000" stop="20180629083000 +0000">
     <title>Catfish</title>
@@ -7314,6 +7350,9 @@
   <programme channel="tv.12" start="20180629102800 +0000" stop="20180629103000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180629103000 +0000" stop="20180629112500 +0000">
     <title>Killision Course</title>
@@ -7351,6 +7390,9 @@
   <programme channel="tv.12" start="20180629222800 +0000" stop="20180629223000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180629223000 +0000" stop="20180629233000 +0000">
     <title>Child Genius UK</title>
@@ -7369,6 +7411,9 @@
   <programme channel="tv.12" start="20180630002800 +0000" stop="20180630003000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180630003000 +0000" stop="20180630013000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -7387,6 +7432,9 @@
   <programme channel="tv.12" start="20180630022800 +0000" stop="20180630023000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180630023000 +0000" stop="20180630033000 +0000">
     <title>Sell It Like Serhant</title>
@@ -7423,10 +7471,16 @@
   <programme channel="tv.12" start="20180630073000 +0000" stop="20180630082800 +0000">
     <title>Below Deck</title>
     <desc>Captain Lee, Kate, Eddie, and Amy are joined by five new crewmembers as they prepare the luxury yacht, Eros, for a new charter season in Abaco, Bahamas. S3 Ep1</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180630082800 +0000" stop="20180630083000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180630083000 +0000" stop="20180630093000 +0000">
     <title>My Crazy Ex</title>
@@ -7437,7 +7491,7 @@
   </programme>
   <programme channel="tv.12" start="20180630093000 +0000" stop="20180630103000 +0000">
     <title>Southern Charm</title>
-    <desc/>
+    <desc>Thomas continues to pressure Ashley to get a job in Charleston, leaving them in relationship limbo. Meanwhile, Chelsea and Austen come to terms with the state of their friendship.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -7519,6 +7573,9 @@
   <programme channel="tv.12" start="20180630220800 +0000" stop="20180630221000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180630221000 +0000" stop="20180630225500 +0000">
     <title>Dance Moms</title>
@@ -7541,6 +7598,9 @@
   <programme channel="tv.12" start="20180701002800 +0000" stop="20180701003000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180701003000 +0000" stop="20180701013000 +0000">
     <title>Serial Killers Of The 80's</title>
@@ -7566,6 +7626,9 @@
   <programme channel="tv.12" start="20180701032800 +0000" stop="20180701033000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180701033000 +0000" stop="20180701043000 +0000">
     <title>Dance Moms</title>
@@ -7609,6 +7672,9 @@
   <programme channel="tv.12" start="20180701105300 +0000" stop="20180701105500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180701105500 +0000" stop="20180701112000 +0000">
     <title>Don't Be Tardy</title>
@@ -7653,6 +7719,9 @@
   <programme channel="tv.12" start="20180701222800 +0000" stop="20180701223000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180701223000 +0000" stop="20180701233000 +0000">
     <title>Catfish</title>
@@ -7671,6 +7740,9 @@
   <programme channel="tv.12" start="20180702002800 +0000" stop="20180702003000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180702003000 +0000" stop="20180702013000 +0000">
     <title>Below Deck Mediterranean</title>
@@ -7744,7 +7816,10 @@
   </programme>
   <programme channel="tv.12" start="20180702093000 +0000" stop="20180702103000 +0000">
     <title>60 Days In</title>
-    <desc>As three new participants enter the program, the others fight for acceptance in their pods; and one participant is forced into a confrontation that quickly turns physical.</desc>
+    <desc/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180702103000 +0000" stop="20180702112500 +0000">
     <title>Killision Course</title>
@@ -7852,6 +7927,9 @@
   <programme channel="tv.12" start="20180703072800 +0000" stop="20180703073000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180703073000 +0000" stop="20180703083000 +0000">
     <title>Tabatha Takes Over</title>
@@ -7871,10 +7949,13 @@
   <programme channel="tv.12" start="20180703103300 +0000" stop="20180703103500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180703103500 +0000" stop="20180703113000 +0000">
     <title>Snapped</title>
-    <desc/>
+    <desc>Teen bride Ashley Humphrey gave her new husband exactly what he wanted as a wedding gift, she shot and killed a former love interest who had charged him with assault.</desc>
   </programme>
   <programme channel="tv.12" start="20180703113000 +0000" stop="20180703122000 +0000">
     <title>The Disappearance Of Natalee Holloway</title>
@@ -7905,6 +7986,9 @@
   <programme channel="tv.12" start="20180703222800 +0000" stop="20180703223000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180703223000 +0000" stop="20180703233000 +0000">
     <title>Catfish</title>
@@ -7923,6 +8007,9 @@
   <programme channel="tv.12" start="20180704002800 +0000" stop="20180704003000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180704003000 +0000" stop="20180704013000 +0000">
     <title>Below Deck Mediterranean</title>
@@ -7932,12 +8019,15 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20180704013000 +0000" stop="20180704022800 +0000">
-    <title>The Real Housewives Of New York City</title>
-    <desc>Tinsley tries on wedding dresses with her mother, Dale. While Luann is ending her stint in rehab, the women tough it out during a prison style workout.</desc>
+    <title>How To Look Good Naked: UK 2 1</title>
+    <desc>Gok meets 29 year-old midwife Liz Marlowe, a working mum-of-two whose curvy size 16 figure is sending her self-esteem plummeting to rock-bottom.</desc>
   </programme>
   <programme channel="tv.12" start="20180704022800 +0000" stop="20180704023000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180704023000 +0000" stop="20180704033000 +0000">
     <title>Body Fixers</title>
@@ -7958,11 +8048,14 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20180704053000 +0000" stop="20180704063000 +0000">
-    <title>How To Look Good Naked: UK 2 1</title>
-    <desc>Gok meets 29 year-old midwife Liz Marlowe, a working mum-of-two whose curvy size 16 figure is sending her self-esteem plummeting to rock-bottom.</desc>
+    <title>Masters Of Flip</title>
+    <desc>Kortney and Dave get some strange looks from neighborhood onlookers who are unsettled with them painting a natural brick house a questionable color. S1 Ep1</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180704063000 +0000" stop="20180704073000 +0000">
-    <title>Catfish 3 12</title>
+    <title>Catfish</title>
     <desc/>
     <rating system="Freeview">
       <value>G</value>
@@ -7985,6 +8078,9 @@
   <programme channel="tv.12" start="20180704102800 +0000" stop="20180704103000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180704103000 +0000" stop="20180704112500 +0000">
     <title>Stripped USA</title>
@@ -13175,7 +13271,7 @@
   </programme>
   <programme channel="tv.27" start="20180628083000 +0000" stop="20180628093000 +0000">
     <title>Jono And Ben</title>
-    <desc>Jono and Ben are joined with a wider cast of comedians, including Brynley Stent, Chris Parker, Kura Forrester, Ray O'Leary and Angella Dravid! Brighten your Thursday night with plenty of laughs.</desc>
+    <desc>New Episode. The boys tackle James Bond and the housing market, Melania Trump drops in, and Guy meets with Dakta Green.</desc>
   </programme>
   <programme channel="tv.27" start="20180628093000 +0000" stop="20180628113000 +0000">
     <title>X-Men Origins: Wolverine</title>
@@ -13310,14 +13406,14 @@
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.27" start="20180629114500 +0000" stop="20180629121500 +0000">
+  <programme channel="tv.27" start="20180629114500 +0000" stop="20180629121000 +0000">
     <title>American Dad</title>
     <desc>Screening the same week as the US, American Dad continues its latest season. S13 Ep15</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180629121500 +0000" stop="20180629131000 +0000">
+  <programme channel="tv.27" start="20180629121000 +0000" stop="20180629131000 +0000">
     <title>Hawaii Five-O</title>
     <desc>Five-O are back to school after a college professor is murdered, with Danny posing as his replacement and Eric as a student. S6 Ep9</desc>
     <rating system="Freeview">
@@ -13394,37 +13490,43 @@
   <programme channel="tv.27" start="20180630060000 +0000" stop="20180630070000 +0000">
     <title>All Star Family Feud: Mai vs. The Rock</title>
     <desc>It's a special episode of All Star Family Feud as radio stations collide. Mai, home of RnB and hip hop, feud against The Rock. Who will come out victorious for charity?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180630070000 +0000" stop="20180630080000 +0000">
     <title>Newshub Live At 6pm</title>
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
   </programme>
-  <programme channel="tv.27" start="20180630080000 +0000" stop="20180630094000 +0000">
+  <programme channel="tv.27" start="20180630080000 +0000" stop="20180630093500 +0000">
     <title>The Secret Life Of Pets</title>
     <desc>After ending up in the outside world, two squabbling pet dogs find common ground against a gang of angry animals preparing an attack on humans. (2016)</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
-  <programme channel="tv.27" start="20180630094000 +0000" stop="20180630103500 +0000">
+  <programme channel="tv.27" start="20180630093500 +0000" stop="20180630103000 +0000">
     <title>All New Chicago Med</title>
     <desc>Premiere. New Episode. The doctors of Chicago Med try to bring justice to the perpetrator in the shooting of Dr. Charles. Plus, Robin is discharged from the rehabilitation centre. S3 Ep1</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180630103500 +0000" stop="20180630112500 +0000">
+  <programme channel="tv.27" start="20180630103000 +0000" stop="20180630112000 +0000">
     <title>NCIS</title>
     <desc>After being buried alive, a woman comes out of the grave with amnesia and the only thing she remembers is that there is a bomb aboard a Navy ship. S1 Ep10</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180630112500 +0000" stop="20180630135500 +0000">
+  <programme channel="tv.27" start="20180630112000 +0000" stop="20180630134500 +0000">
     <title>Thelma &amp; Louise</title>
     <desc>Best friends Thelma, a meek housewife, and Louise, an independent waitress, embark on a short fishing trip. However, things turn dangerous when they end up on the run from the law. (1991)</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180630135500 +0000" stop="20180630170000 +0000">
+  <programme channel="tv.27" start="20180630134500 +0000" stop="20180630170000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -13802,6 +13904,9 @@
   <programme channel="tv.27" start="20180703103000 +0000" stop="20180703112500 +0000">
     <title>All New SVU: Special Victims Unit</title>
     <desc>New Episode. An Alzheimer's patient claims she was raped, but her illness casts doubt on the case. Fin's sergeant orders come in. S19 Ep22</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180703112500 +0000" stop="20180703115500 +0000">
     <title>Newshub Late</title>
@@ -13968,6 +14073,9 @@
   <programme channel="tv.30" start="20180626235800 +0000" stop="20180627000000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180627000000 +0000" stop="20180627004500 +0000">
     <title>Catfish</title>
@@ -13986,6 +14094,9 @@
   <programme channel="tv.30" start="20180627013800 +0000" stop="20180627014000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180627014000 +0000" stop="20180627023000 +0000">
     <title>Below Deck Mediterranean</title>
@@ -14004,6 +14115,9 @@
   <programme channel="tv.30" start="20180627032800 +0000" stop="20180627033000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180627033000 +0000" stop="20180627040000 +0000">
     <title>Botched: Most Outrageous Before &amp; Afters</title>
@@ -14064,6 +14178,9 @@
   <programme channel="tv.30" start="20180627113300 +0000" stop="20180627113500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180627113500 +0000" stop="20180627122500 +0000">
     <title>Stripped USA</title>
@@ -14108,6 +14225,9 @@
   <programme channel="tv.30" start="20180628004300 +0000" stop="20180628004500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180628004500 +0000" stop="20180628014000 +0000">
     <title>Escaping Polygamy</title>
@@ -14126,6 +14246,9 @@
   <programme channel="tv.30" start="20180628023300 +0000" stop="20180628023500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180628023500 +0000" stop="20180628033000 +0000">
     <title>Stripped USA</title>
@@ -14144,6 +14267,9 @@
   <programme channel="tv.30" start="20180628042800 +0000" stop="20180628043000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180628043000 +0000" stop="20180628053000 +0000">
     <title>Dance Moms</title>
@@ -14183,6 +14309,9 @@
   <programme channel="tv.30" start="20180628082800 +0000" stop="20180628083000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180628083000 +0000" stop="20180628093000 +0000">
     <title>Killer Couples</title>
@@ -14268,7 +14397,7 @@
   </programme>
   <programme channel="tv.30" start="20180629033000 +0000" stop="20180629043000 +0000">
     <title>60 Days In</title>
-    <desc>Phase two of Sheriff Jamey Noel's unprecedented program begins with four new participants entering the Clark County Jail to continue the covert operation designed to root out corruption and contraband</desc>
+    <desc/>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -14311,6 +14440,9 @@
   <programme channel="tv.30" start="20180629083300 +0000" stop="20180629083500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180629083500 +0000" stop="20180629093000 +0000">
     <title>Catfish</title>
@@ -14329,6 +14461,9 @@
   <programme channel="tv.30" start="20180629112800 +0000" stop="20180629113000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180629113000 +0000" stop="20180629122500 +0000">
     <title>Killision Course</title>
@@ -14366,6 +14501,9 @@
   <programme channel="tv.30" start="20180629232800 +0000" stop="20180629233000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180629233000 +0000" stop="20180630003000 +0000">
     <title>Child Genius UK</title>
@@ -14384,6 +14522,9 @@
   <programme channel="tv.30" start="20180630012800 +0000" stop="20180630013000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180630013000 +0000" stop="20180630023000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -14402,6 +14543,9 @@
   <programme channel="tv.30" start="20180630032800 +0000" stop="20180630033000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180630033000 +0000" stop="20180630043000 +0000">
     <title>Sell It Like Serhant</title>
@@ -14438,10 +14582,16 @@
   <programme channel="tv.30" start="20180630083000 +0000" stop="20180630092800 +0000">
     <title>Below Deck</title>
     <desc>Captain Lee, Kate, Eddie, and Amy are joined by five new crewmembers as they prepare the luxury yacht, Eros, for a new charter season in Abaco, Bahamas. S3 Ep1</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180630092800 +0000" stop="20180630093000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180630093000 +0000" stop="20180630103000 +0000">
     <title>My Crazy Ex</title>
@@ -14452,7 +14602,7 @@
   </programme>
   <programme channel="tv.30" start="20180630103000 +0000" stop="20180630113000 +0000">
     <title>Southern Charm</title>
-    <desc/>
+    <desc>Thomas continues to pressure Ashley to get a job in Charleston, leaving them in relationship limbo. Meanwhile, Chelsea and Austen come to terms with the state of their friendship.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -14534,6 +14684,9 @@
   <programme channel="tv.30" start="20180630230800 +0000" stop="20180630231000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180630231000 +0000" stop="20180630235500 +0000">
     <title>Dance Moms</title>
@@ -14556,6 +14709,9 @@
   <programme channel="tv.30" start="20180701012800 +0000" stop="20180701013000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180701013000 +0000" stop="20180701023000 +0000">
     <title>Serial Killers Of The 80's</title>
@@ -14581,6 +14737,9 @@
   <programme channel="tv.30" start="20180701042800 +0000" stop="20180701043000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180701043000 +0000" stop="20180701053000 +0000">
     <title>Dance Moms</title>
@@ -14624,6 +14783,9 @@
   <programme channel="tv.30" start="20180701115300 +0000" stop="20180701115500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180701115500 +0000" stop="20180701122000 +0000">
     <title>Don't Be Tardy</title>
@@ -14668,6 +14830,9 @@
   <programme channel="tv.30" start="20180701232800 +0000" stop="20180701233000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180701233000 +0000" stop="20180702003000 +0000">
     <title>Catfish</title>
@@ -14686,6 +14851,9 @@
   <programme channel="tv.30" start="20180702012800 +0000" stop="20180702013000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180702013000 +0000" stop="20180702023000 +0000">
     <title>Below Deck Mediterranean</title>
@@ -14759,7 +14927,10 @@
   </programme>
   <programme channel="tv.30" start="20180702103000 +0000" stop="20180702113000 +0000">
     <title>60 Days In</title>
-    <desc>As three new participants enter the program, the others fight for acceptance in their pods; and one participant is forced into a confrontation that quickly turns physical.</desc>
+    <desc/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180702113000 +0000" stop="20180702122500 +0000">
     <title>Killision Course</title>
@@ -14867,6 +15038,9 @@
   <programme channel="tv.30" start="20180703082800 +0000" stop="20180703083000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180703083000 +0000" stop="20180703093000 +0000">
     <title>Tabatha Takes Over</title>
@@ -14886,10 +15060,13 @@
   <programme channel="tv.30" start="20180703113300 +0000" stop="20180703113500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180703113500 +0000" stop="20180703123000 +0000">
     <title>Snapped</title>
-    <desc/>
+    <desc>Teen bride Ashley Humphrey gave her new husband exactly what he wanted as a wedding gift, she shot and killed a former love interest who had charged him with assault.</desc>
   </programme>
   <programme channel="tv.30" start="20180703123000 +0000" stop="20180703132000 +0000">
     <title>The Disappearance Of Natalee Holloway</title>
@@ -14920,6 +15097,9 @@
   <programme channel="tv.30" start="20180703232800 +0000" stop="20180703233000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180703233000 +0000" stop="20180704003000 +0000">
     <title>Catfish</title>
@@ -14938,6 +15118,9 @@
   <programme channel="tv.30" start="20180704012800 +0000" stop="20180704013000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180704013000 +0000" stop="20180704023000 +0000">
     <title>Below Deck Mediterranean</title>
@@ -14947,12 +15130,15 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20180704023000 +0000" stop="20180704032800 +0000">
-    <title>The Real Housewives Of New York City</title>
-    <desc>Tinsley tries on wedding dresses with her mother, Dale. While Luann is ending her stint in rehab, the women tough it out during a prison style workout.</desc>
+    <title>How To Look Good Naked: UK 2 1</title>
+    <desc>Gok meets 29 year-old midwife Liz Marlowe, a working mum-of-two whose curvy size 16 figure is sending her self-esteem plummeting to rock-bottom.</desc>
   </programme>
   <programme channel="tv.30" start="20180704032800 +0000" stop="20180704033000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180704033000 +0000" stop="20180704043000 +0000">
     <title>Body Fixers</title>
@@ -14973,11 +15159,14 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20180704063000 +0000" stop="20180704073000 +0000">
-    <title>How To Look Good Naked: UK 2 1</title>
-    <desc>Gok meets 29 year-old midwife Liz Marlowe, a working mum-of-two whose curvy size 16 figure is sending her self-esteem plummeting to rock-bottom.</desc>
+    <title>Masters Of Flip</title>
+    <desc>Kortney and Dave get some strange looks from neighborhood onlookers who are unsettled with them painting a natural brick house a questionable color. S1 Ep1</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180704073000 +0000" stop="20180704083000 +0000">
-    <title>Catfish 3 12</title>
+    <title>Catfish</title>
     <desc/>
     <rating system="Freeview">
       <value>G</value>
@@ -15000,6 +15189,9 @@
   <programme channel="tv.30" start="20180704112800 +0000" stop="20180704113000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180704113000 +0000" stop="20180704122500 +0000">
     <title>Stripped USA</title>
@@ -17475,6 +17667,9 @@
   <programme channel="tv.65" start="20180702073000 +0000" stop="20180702083000 +0000">
     <title>Restaurant Revolution</title>
     <desc>The teams gather in Adelaide for the second team lunch, knowing they have to decide whether or not to leave a tip. Everyone speculates about who is being strategic when it comes to tipping. S1 Ep12</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.65" start="20180702083000 +0000" stop="20180702090000 +0000">
     <title>Anjum's Spice Stories</title>
@@ -17557,6 +17752,9 @@
   <programme channel="tv.65" start="20180702223000 +0000" stop="20180702233000 +0000">
     <title>Restaurant Revolution</title>
     <desc>The teams gather in Adelaide for the second team lunch, knowing they have to decide whether or not to leave a tip. Everyone speculates about who is being strategic when it comes to tipping. S1 Ep12</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.65" start="20180702233000 +0000" stop="20180703000000 +0000">
     <title>Anjum's Spice Stories</title>
@@ -17610,6 +17808,9 @@
   <programme channel="tv.65" start="20180703030000 +0000" stop="20180703040000 +0000">
     <title>Restaurant Revolution</title>
     <desc>The teams gather in Adelaide for the second team lunch, knowing they have to decide whether or not to leave a tip. Everyone speculates about who is being strategic when it comes to tipping. S1 Ep12</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.65" start="20180703040000 +0000" stop="20180703043000 +0000">
     <title>Anjum's Spice Stories</title>
@@ -24949,7 +25150,7 @@
   </programme>
   <programme channel="tv.51" start="20180629210000 +0000" stop="20180629220000 +0000">
     <title>Jono And Ben</title>
-    <desc>Jono and Ben are joined with a wider cast of comedians, including Brynley Stent, Chris Parker, Kura Forrester, Ray O'Leary and Angella Dravid! Brighten your Thursday night with plenty of laughs.</desc>
+    <desc>New Episode. The boys tackle James Bond and the housing market, Melania Trump drops in, and Guy meets with Dakta Green.</desc>
   </programme>
   <programme channel="tv.51" start="20180629220000 +0000" stop="20180630010000 +0000">
     <title>The Edge Fresh 40</title>
@@ -70074,9 +70275,9 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180626163000 +0000" stop="20180626170000 +0000">
-    <title>FIFA 2018 World Cup: Road to Russia</title>
+    <title>Travel Man</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180626170000 +0000" stop="20180626203000 +0000">
@@ -74132,27 +74333,27 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630133000 +0000" stop="20180630135500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630135500 +0000" stop="20180630142000 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630151500 +0000" stop="20180630152500 +0000">
@@ -74240,7 +74441,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -74438,15 +74639,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701133000 +0000" stop="20180701135500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701135500 +0000" stop="20180701142000 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701142000 +0000" stop="20180701144500 +0000">
@@ -74582,15 +74783,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702020000 +0000" stop="20180702023000 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702023000 +0000" stop="20180702032500 +0000">
