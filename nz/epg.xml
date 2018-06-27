@@ -161,21 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180627031344 +0000" stop="20180627044322 +0000">
-    <title>Our Vinyl Weighs a Ton</title>
-    <desc>A basement label that winds up shifting musical culture, Stones Throw Records' story is heavy on passion.</desc>
-    <sub-title>This Is Stones Throw Records</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180627044322 +0000" stop="20180627044728 +0000">
-    <title>New Beat Fund</title>
-    <desc>This optical illusion-filled video was shot exclusively with GoPro cameras, and is from their album ($) CoiNz.</desc>
-    <sub-title>Get Up: Music Video</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180627044728 +0000" stop="20180627050113 +0000">
-    <title>Highlights: LA Street Art</title>
-    <desc>The first-ever gallery-curated street art show sparks a debate between artists and authorities.</desc>
-    <sub-title>Creativity or Crime?</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180627050113 +0000" stop="20180627051139 +0000">
     <title>MX Nation S3E5</title>
     <desc>Blake Baggett has enjoyed a great 2017 season, but in pro motocross there's always another challenge ahead.</desc>
@@ -2161,6 +2146,21 @@
     <desc>The motocross bar is raised again as the greatest riders in the game explore the world’s most epic locations.</desc>
     <sub-title>Exploring the Best in Motocross</sub-title>
   </programme>
+  <programme channel="tv.redbull.tv" start="20180704191954 +0000" stop="20180704193344 +0000">
+    <title>McCaul Meets S2E1</title>
+    <desc>Cam McCaul ventures to France to meet slopestyle MTB's 'King of Consistency', Belgium's very own Thomas Genon.</desc>
+    <sub-title>McCaul Meets Thomas Genon</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180704193344 +0000" stop="20180704194518 +0000">
+    <title>McCaul Meets S1E3</title>
+    <desc>Cam McCaul drops in on MTB rider Brett Rheeder at his Canadian home to shoot the breeze and chop some trees.</desc>
+    <sub-title>McCaul Meets Brett Rheeder</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180704194518 +0000" stop="20180704201141 +0000">
+    <title>Red Bull Flugtag S2E5</title>
+    <desc>In this historic city, which teams will have the engineering prowess to conquer a strong headwind?</desc>
+    <sub-title>Boston, Massachusetts, United States</sub-title>
+  </programme>
   <programme channel="tv.9" start="20180626110000 +0000" stop="20180626120000 +0000">
     <title>Sunday</title>
     <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe. Tonight, meet the modern-day Dr Frankenstein about to carry out his most radical surgery ever.</desc>
@@ -2863,7 +2863,7 @@
   </programme>
   <programme channel="tv.9" start="20180701073000 +0000" stop="20180701083000 +0000">
     <title>Sunday</title>
-    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe.</desc>
+    <desc>Tonight, Calyn Hoad suffered massive brain damage saving his little brother at age seven. We meet up with him almost four years on. Plus, we sit down for an exclusive interview with Cher.</desc>
   </programme>
   <programme channel="tv.9" start="20180701083000 +0000" stop="20180701102500 +0000">
     <title>In A Flash</title>
@@ -3037,6 +3037,9 @@
     <title>Lucifer</title>
     <desc>S3 E11 In a flashback episode, Amenadiel comes to retrieve his fallen brother, but is shocked when he is mugged. Amenadiel asks Lucifer for help, who accepts, but only in exchange for a favour.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180702102500 +0000" stop="20180702105500 +0000">
     <title>1 News Tonight</title>
@@ -3085,6 +3088,9 @@
   <programme channel="tv.9" start="20180703010000 +0000" stop="20180703020000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Is Daniel playing with fire? Rosie digs herself in deeper. Bethany ditches school for a new project.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180703020000 +0000" stop="20180703030000 +0000">
     <title>Wimbledon Highlights</title>
@@ -3883,6 +3889,9 @@
   <programme channel="tv.10" start="20180628080000 +0000" stop="20180628083000 +0000">
     <title>All New Motorway Patrol</title>
     <desc>Tonight, a young couple are lucky to be alive after a tangle with a truck, police catch two committed marijuana enthusiasts and a woman blatantly breaks the law in front of the cops.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180628083000 +0000" stop="20180628093000 +0000">
     <title>The Undateables</title>
@@ -4567,6 +4576,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180630182500 +0000" stop="20180630183500 +0000">
     <title>Thomas &amp; Friends</title>
@@ -4710,6 +4722,9 @@
     <title>Survivor New Zealand</title>
     <desc>Tonight on Survivor NZ, trust is an issue within the tribe and everyone is out to win immunity.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180701083000 +0000" stop="20180701103500 +0000">
     <title>Clash Of The Titans</title>
@@ -4809,6 +4824,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180701185000 +0000" stop="20180701185500 +0000">
     <title>Masha And The Bear</title>
@@ -10279,7 +10297,7 @@
   </programme>
   <programme channel="tv.38" start="20180701083000 +0000" stop="20180701093000 +0000">
     <title>Sunday</title>
-    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe.</desc>
+    <desc>Tonight, Calyn Hoad suffered massive brain damage saving his little brother from a four-wheel-drive. We meet up with him almost four years on. Plus, we sit down for an exclusive interview with Cher.</desc>
   </programme>
   <programme channel="tv.38" start="20180701093000 +0000" stop="20180701112500 +0000">
     <title>In A Flash</title>
@@ -10453,6 +10471,9 @@
     <title>Lucifer</title>
     <desc>S3 E11 In a flashback episode, Amenadiel comes to retrieve his fallen brother, but is shocked when he is mugged. Amenadiel asks Lucifer for help, who accepts, but only in exchange for a favour.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180702112500 +0000" stop="20180702115500 +0000">
     <title>1 News Tonight</title>
@@ -10501,6 +10522,9 @@
   <programme channel="tv.38" start="20180703020000 +0000" stop="20180703030000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Is Daniel playing with fire? Rosie digs herself in deeper. Bethany ditches school for a new project.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180703030000 +0000" stop="20180703040000 +0000">
     <title>Wimbledon Highlights</title>
@@ -11228,6 +11252,9 @@
   <programme channel="tv.14" start="20180628090000 +0000" stop="20180628093000 +0000">
     <title>All New Motorway Patrol</title>
     <desc>Tonight, a young couple are lucky to be alive after a tangle with a truck, police catch two committed marijuana enthusiasts and a woman blatantly breaks the law in front of the cops.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180628093000 +0000" stop="20180628103000 +0000">
     <title>The Undateables</title>
@@ -11819,6 +11846,9 @@
   <programme channel="tv.14" start="20180630190000 +0000" stop="20180630192500 +0000">
     <title>Disney Junior: Miles From Tomorrowland</title>
     <desc>Young Miles and his family live and work in outerspace where they venture on high-stakes, action-packed missions that are out of this world!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180630192500 +0000" stop="20180630193500 +0000">
     <title>Thomas &amp; Friends</title>
@@ -11935,6 +11965,9 @@
     <title>Survivor New Zealand</title>
     <desc>Tonight on Survivor NZ, trust is an issue within the tribe and everyone is out to win immunity.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180701093000 +0000" stop="20180701113500 +0000">
     <title>Clash Of The Titans</title>
@@ -12016,6 +12049,9 @@
   <programme channel="tv.14" start="20180701194000 +0000" stop="20180701195000 +0000">
     <title>Darwin &amp; Newts</title>
     <desc>Darwin and Newts are a brother and sister duo who love adventures and figuring out how stuff works! Join them as they explore and discover new things with the help of science and some Kiwi ingenuity.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180701195000 +0000" stop="20180701195500 +0000">
     <title>Masha And The Bear</title>
@@ -20029,11 +20065,11 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20180704090000 +0000" stop="20180704093000 +0000">
+  <programme channel="tv.55" start="20180704090000 +0000" stop="20180704093500 +0000">
     <title>New: Misadventures</title>
     <desc>The crazy adventures of two good-hearted but clueless friends in search of eccentric locals in the South Island of New Zealand. Tonight, Josh and Mearle visit the wild West Coast via the Buller Gorge.</desc>
   </programme>
-  <programme channel="tv.55" start="20180704093000 +0000" stop="20180704103000 +0000">
+  <programme channel="tv.55" start="20180704093500 +0000" stop="20180704103000 +0000">
     <title>Reggie Yates: Extreme UK</title>
     <desc>Reggie Yates gets up close and personal with different communities. Tonight, Reggie meets the young British men who think feminism has gone too far and some of the women who have been attacked online.</desc>
     <rating system="Freeview">
