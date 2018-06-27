@@ -2,7 +2,7 @@
 File1=http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6711
 Title1=4BC Brisbane
 File2=http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6175
-Title2=4KQ
+Title2=4KQ693
 File3=http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7129
 Title3=91.7 ABC Gold Coast
 File4=http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6176

@@ -69,7 +69,7 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\
 #EXTINF:-1 tvg-name="001" tvg-id="radio.ih.6712" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6712.png" radio="true",6PR Perth
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Perth/radio.ih.6712 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6712 -f mpegts pipe:1
 
-#EXTINF:-1 tvg-name="002" tvg-id="radio.ih.6708" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6708.png" radio="true",96FM Perth
+#EXTINF:-1 tvg-name="002" tvg-id="radio.ih.6708" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6708.png" radio="true",96FM
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Perth/radio.ih.6708 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6708 -f mpegts pipe:1
 
 #EXTINF:-1 tvg-name="003" tvg-id="radio.ih.7123" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7123.png" radio="true",ABC Classic 2

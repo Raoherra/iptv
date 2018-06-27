@@ -317,9 +317,9 @@
         "stream_type": "DEFAULT",
         "name": "Curtin Radio",
         "audio": {
-            "channels": 1,
+            "sample_rate": 44100,
             "codec": "mp3",
-            "sample_rate": 44100
+            "channels": 1
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.curtin.radio/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.curtin.radio",
@@ -399,10 +399,10 @@
     },
     "radio.ih.6185": {
         "active": true,
-        "modified": "1529414955640",
+        "modified": "1530113493650",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6185.png",
         "name": "KIIS 1065",
-        "description": "So Sydney. So Listen Now",
+        "description": "Kyle & Jackie O In The Morning",
         "genres": [
             "Popular Artists",
             "Top 40 & Pop"

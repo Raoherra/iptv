@@ -25,10 +25,10 @@
     },
     "radio.ih.6175": {
         "active": true,
-        "modified": "1529414939242",
+        "modified": "1530113499579",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6175.png",
-        "name": "4KQ",
-        "description": "Brisbane's Good Times Great Classic Hits",
+        "name": "4KQ693",
+        "description": "Good Times & Great Classic Hits",
         "genres": [
             "Classic Rock",
             "Oldies"
@@ -437,9 +437,9 @@
         "stream_type": "DEFAULT",
         "name": "Curtin Radio",
         "audio": {
-            "channels": 1,
+            "sample_rate": 44100,
             "codec": "mp3",
-            "sample_rate": 44100
+            "channels": 1
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/radio.curtin.radio/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Brisbane/radio.curtin.radio",

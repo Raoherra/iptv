@@ -265,10 +265,10 @@
     },
     "radio.ih.6177": {
         "active": true,
-        "modified": "1529414943504",
+        "modified": "1530113497706",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6177.png",
         "name": "Cruise 1323",
-        "description": "Adelaide's More Music Less Talk",
+        "description": "Classic Hits",
         "genres": [
             "Classic Rock",
             "Oldies"
@@ -293,9 +293,9 @@
         "stream_type": "DEFAULT",
         "name": "Curtin Radio",
         "audio": {
-            "channels": 1,
+            "sample_rate": 44100,
             "codec": "mp3",
-            "sample_rate": 44100
+            "channels": 1
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/radio.curtin.radio/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/radio.curtin.radio",

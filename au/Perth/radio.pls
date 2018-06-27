@@ -2,7 +2,7 @@
 File1=http://iptv.matthuisman.nz/au/Perth/radio.ih.6712
 Title1=6PR Perth
 File2=http://iptv.matthuisman.nz/au/Perth/radio.ih.6708
-Title2=96FM Perth
+Title2=96FM
 File3=http://iptv.matthuisman.nz/au/Perth/radio.ih.7123
 Title3=ABC Classic 2
 File4=http://iptv.matthuisman.nz/au/Perth/radio.ih.7118

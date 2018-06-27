@@ -557,9 +557,9 @@
         "stream_type": "DEFAULT",
         "name": "Curtin Radio",
         "audio": {
-            "channels": 1,
+            "sample_rate": 44100,
             "codec": "mp3",
-            "sample_rate": 44100
+            "channels": 1
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.curtin.radio/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.curtin.radio",
@@ -589,6 +589,30 @@
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.double.j|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
+    "radio.ih.6181": {
+        "active": true,
+        "modified": "1530113495948",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6181.png",
+        "name": "GOLD104.3",
+        "description": "Pure Gold. Better Music And More Of It",
+        "genres": [
+            "Classic Rock",
+            "80s & 90s Hits"
+        ],
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 44100,
+            "channels": 2
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6181/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6181",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239",
+            "Referer": "%20"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6181|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
     "radio.ih.7181": {
         "active": true,
         "modified": "1529415145510",
@@ -612,30 +636,6 @@
             "Referer": "%20"
         },
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7181.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
-    },
-    "radio.ih.6181": {
-        "active": true,
-        "modified": "1529414950634",
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6181.png",
-        "name": "Gold 104.3 Melbourne",
-        "description": "Better Music and More Of It",
-        "genres": [
-            "Classic Rock",
-            "80s & 90s Hits"
-        ],
-        "audio": {
-            "codec": "aac",
-            "sample_rate": 44100,
-            "channels": 2
-        },
-        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6181/m.pls",
-        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6181",
-        "headers": {
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239",
-            "Referer": "%20"
-        },
-        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6181|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
     "radio.ih.7260": {
         "active": true,
@@ -687,10 +687,10 @@
     },
     "radio.ih.6157": {
         "active": true,
-        "modified": "1529414937059",
+        "modified": "1530113501844",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6157.png",
         "name": "KIIS 101.1",
-        "description": "Melbourne Now. Listen Now",
+        "description": "Jase & PJ In The Morning",
         "genres": [
             "Popular Artists",
             "Top 40 & Pop"
