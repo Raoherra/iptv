@@ -161,31 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180627010151 +0000" stop="20180627012344 +0000">
-    <title>Reel Rock S1E5</title>
-    <desc>A pair of unlikely British climbers invade America to take on the toughest offwidth climbs in the country.</desc>
-    <sub-title>Wide Boyz</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180627012344 +0000" stop="20180627012834 +0000">
-    <title>Climbing Redwoods</title>
-    <desc>Climbing ace Chris Sharma embarks on an unprecedented free climb in the woods of northern California.</desc>
-    <sub-title>Giant Ascent</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180627012834 +0000" stop="20180627013801 +0000">
-    <title>Life Behind Bars S3E2</title>
-    <desc>Cam McCaul joins Brandon Semenuk in search of new terrain to build lines on for Brandon’s upcoming film.</desc>
-    <sub-title>Mega Ramp in Utah</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180627013801 +0000" stop="20180627015307 +0000">
-    <title>Life Behind Bars S3E3</title>
-    <desc>For his freeriding film, Brandon Semenuk heads to Fiji with Brendan Fairclough to shred a custom-built trail.</desc>
-    <sub-title>Downhill Sessions in Fiji</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180627015307 +0000" stop="20180627020317 +0000">
-    <title>Life Behind Bars S3E4</title>
-    <desc>Brandon Semenuk and the crew film the final sessions for Rad Company in a top-secret zone in Utah, USA.</desc>
-    <sub-title>The Grey Zone</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180627020317 +0000" stop="20180627031344 +0000">
     <title>The Bits of Baco</title>
     <desc>A misfit band of brothers and friends stir up the ‘90s BMX scene with first-of-their-kind riding videos.</desc>
@@ -2160,6 +2135,31 @@
     <title>Cultivation S2E3</title>
     <desc>Leffen makes his return to North America after months away from the continent’s competitive scene.</desc>
     <sub-title>Return</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180704164919 +0000" stop="20180704165753 +0000">
+    <title>Cultivation S2E4</title>
+    <desc>At the later rounds of the EGLX tournament, Leffen finds himself face-to-face with the worst possible matchup.</desc>
+    <sub-title>Relapse</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180704165753 +0000" stop="20180704170745 +0000">
+    <title>Cultivation S2E5</title>
+    <desc>With a major tournament on the horizon, can Leffen recover from a disappointing EGLX showing in Canada?</desc>
+    <sub-title>Rebound</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180704170745 +0000" stop="20180704172224 +0000">
+    <title>Cultivation S2E6</title>
+    <desc>Leffen finds himself in Winners Semis at GOML 2016 against one of the best players in Melee history: Armada.</desc>
+    <sub-title>Reclaim</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180704172224 +0000" stop="20180704174444 +0000">
+    <title>Reel Rock S1E2</title>
+    <desc>A rivalry for the speed record up The Nose of El Capitan, California, USA pushes climbers to their limits.</desc>
+    <sub-title>Race for The Nose</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180704174444 +0000" stop="20180704182215 +0000">
+    <title>Follow the Wind</title>
+    <desc>Using wind power to travel, Jerrie van de Kop sets out to explore the regions of Zanzibar and Tanzania.</desc>
+    <sub-title>A Journey to Raise Awareness</sub-title>
   </programme>
   <programme channel="tv.9" start="20180626110000 +0000" stop="20180626120000 +0000">
     <title>Sunday</title>
@@ -14950,9 +14950,9 @@
   </programme>
   <programme channel="tv.28" start="20180627020500 +0000" stop="20180627031000 +0000">
     <title>2018 FIFA World Cup Russia</title>
-    <desc>Catch the highlights from day 13 of the 2018 FIFA World Cup Russia. G</desc>
+    <desc>Catch the highlights from day 13 of the 2018 FIFA World Cup Russia. PGR</desc>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.28" start="20180627031000 +0000" stop="20180627033500 +0000">
@@ -25940,7 +25940,7 @@
   </programme>
   <programme channel="tv.45" start="20180701003000 +0000" stop="20180701013000 +0000">
     <title>NEW Wrinkles Schminkles</title>
-    <desc>Treat yourself to some retail therapy without even leaving the house! With 24/7 service, quality assured products and a 30 day money back guarantee, there is no shopping experience quite like TVSN!</desc>
+    <desc>Wrinkles Schminkles is a complementary range of innovative, non-invasive wrinkle products targeting those parts of your body that do act their age.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25995,8 +25995,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180701083000 +0000" stop="20180701093000 +0000">
-    <title>Twist N Shape Exercise Machine</title>
-    <desc>The Health department features health supplements to balance your inner self, aromatherapy to soothe or invigorate and fitness equipment to make you look and feel fantastic.</desc>
+    <title>Twist &amp; Shape Exercise Machine</title>
+    <desc>Twist &amp; flex your way to a toned physique with the Twist &amp; Shape Exercise Machine. A clever piece of home exercise equipment, allowing you to tone a variety of muscles at once.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -26024,7 +26024,7 @@
   </programme>
   <programme channel="tv.45" start="20180701123000 +0000" stop="20180701133000 +0000">
     <title>NEW Wrinkles Schminkles</title>
-    <desc>Treat yourself to some retail therapy without even leaving the house! With 24/7 service, quality assured products and a 30 day money back guarantee, there is no shopping experience quite like TVSN!</desc>
+    <desc>Wrinkles Schminkles is a complementary range of innovative, non-invasive wrinkle products targeting those parts of your body that do act their age.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -26080,7 +26080,7 @@
   </programme>
   <programme channel="tv.45" start="20180701203000 +0000" stop="20180701213000 +0000">
     <title>Twist &amp; Shape Exercise Machine</title>
-    <desc>The Health department features health supplements to balance your inner self, aromatherapy to soothe or invigorate and fitness equipment to make you look and feel fantastic.</desc>
+    <desc>Twist &amp; flex your way to a toned physique with the Twist &amp; Shape Exercise Machine. A clever piece of home exercise equipment, allowing you to tone a variety of muscles at once.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -26101,7 +26101,7 @@
   </programme>
   <programme channel="tv.45" start="20180701233000 +0000" stop="20180702003000 +0000">
     <title>NEW Wrinkles Schminkles</title>
-    <desc>Treat yourself to some retail therapy without even leaving the house! With 24/7 service, quality assured products and a 30 day money back guarantee, there is no shopping experience quite like TVSN!</desc>
+    <desc>Wrinkles Schminkles is a complementary range of innovative, non-invasive wrinkle products targeting those parts of your body that do act their age.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -26122,7 +26122,7 @@
   </programme>
   <programme channel="tv.45" start="20180702023000 +0000" stop="20180702033000 +0000">
     <title>Twist &amp; Shape Exercise Machine</title>
-    <desc>The Health department features health supplements to balance your inner self, aromatherapy to soothe or invigorate and fitness equipment to make you look and feel fantastic.</desc>
+    <desc>Twist &amp; flex your way to a toned physique with the Twist &amp; Shape Exercise Machine. A clever piece of home exercise equipment, allowing you to tone a variety of muscles at once.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -26143,7 +26143,7 @@
   </programme>
   <programme channel="tv.45" start="20180702053000 +0000" stop="20180702063000 +0000">
     <title>NEW Wrinkles Schminkles</title>
-    <desc>Treat yourself to some retail therapy without even leaving the house! With 24/7 service, quality assured products and a 30 day money back guarantee, there is no shopping experience quite like TVSN!</desc>
+    <desc>Wrinkles Schminkles is a complementary range of innovative, non-invasive wrinkle products targeting those parts of your body that do act their age.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -26185,14 +26185,14 @@
   </programme>
   <programme channel="tv.45" start="20180702113000 +0000" stop="20180702123000 +0000">
     <title>NEW Wrinkles Schminkles</title>
-    <desc>Treat yourself to some retail therapy without even leaving the house! With 24/7 service, quality assured products and a 30 day money back guarantee, there is no shopping experience quite like TVSN!</desc>
+    <desc>Wrinkles Schminkles is a complementary range of innovative, non-invasive wrinkle products targeting those parts of your body that do act their age.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180702123000 +0000" stop="20180702133000 +0000">
     <title>Twist &amp; Shape Exercise Machine</title>
-    <desc>The Health department features health supplements to balance your inner self, aromatherapy to soothe or invigorate and fitness equipment to make you look and feel fantastic.</desc>
+    <desc>Twist &amp; flex your way to a toned physique with the Twist &amp; Shape Exercise Machine. A clever piece of home exercise equipment, allowing you to tone a variety of muscles at once.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -26255,7 +26255,7 @@
   </programme>
   <programme channel="tv.45" start="20180702213000 +0000" stop="20180702223000 +0000">
     <title>NEW Wrinkles Schminkles</title>
-    <desc>Treat yourself to some retail therapy without even leaving the house! With 24/7 service, quality assured products and a 30 day money back guarantee, there is no shopping experience quite like TVSN!</desc>
+    <desc>Wrinkles Schminkles is a complementary range of innovative, non-invasive wrinkle products targeting those parts of your body that do act their age.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -26311,7 +26311,7 @@
   </programme>
   <programme channel="tv.45" start="20180703053000 +0000" stop="20180703063000 +0000">
     <title>Twist &amp; Shape Exercise Machine</title>
-    <desc>The Health department features health supplements to balance your inner self, aromatherapy to soothe or invigorate and fitness equipment to make you look and feel fantastic.</desc>
+    <desc>Twist &amp; flex your way to a toned physique with the Twist &amp; Shape Exercise Machine. A clever piece of home exercise equipment, allowing you to tone a variety of muscles at once.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -26325,7 +26325,7 @@
   </programme>
   <programme channel="tv.45" start="20180703073000 +0000" stop="20180703083000 +0000">
     <title>NEW Wrinkles Schminkles</title>
-    <desc>Treat yourself to some retail therapy without even leaving the house! With 24/7 service, quality assured products and a 30 day money back guarantee, there is no shopping experience quite like TVSN!</desc>
+    <desc>Wrinkles Schminkles is a complementary range of innovative, non-invasive wrinkle products targeting those parts of your body that do act their age.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -26402,7 +26402,7 @@
   </programme>
   <programme channel="tv.45" start="20180703183000 +0000" stop="20180703193000 +0000">
     <title>Twist &amp; Shape Exercise Machine</title>
-    <desc>The Health department features health supplements to balance your inner self, aromatherapy to soothe or invigorate and fitness equipment to make you look and feel fantastic.</desc>
+    <desc>Twist &amp; flex your way to a toned physique with the Twist &amp; Shape Exercise Machine. A clever piece of home exercise equipment, allowing you to tone a variety of muscles at once.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -26416,7 +26416,7 @@
   </programme>
   <programme channel="tv.45" start="20180703203000 +0000" stop="20180703213000 +0000">
     <title>NEW Wrinkles Schminkles</title>
-    <desc>Treat yourself to some retail therapy without even leaving the house! With 24/7 service, quality assured products and a 30 day money back guarantee, there is no shopping experience quite like TVSN!</desc>
+    <desc>Wrinkles Schminkles is a complementary range of innovative, non-invasive wrinkle products targeting those parts of your body that do act their age.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -26485,8 +26485,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180704063000 +0000" stop="20180704073000 +0000">
-    <title>Bissell - We Mean Clean!</title>
-    <desc>There's clean?and there's BISSELL clean! Watch their range of cleaning tools go above and beyond (and beneath!) to clean a variety of floor surfaces, with deeply penetrating brushes and vacuums.</desc>
+    <title>iRobot Robotic Vacuum</title>
+    <desc>Step into the future with iRobot! Be swept off your feet with innovative and effective cleaning from your iRobot robot vacuum.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
