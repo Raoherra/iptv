@@ -16555,14 +16555,14 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.101204300437" start="20180705113000 +0000" stop="20180705130000 +0000">
+    <title>Love Island</title>
+  </programme>
   <programme channel="tv.101204300437" start="20180705113000 +0000" stop="20180705123000 +0000">
     <title>Love Island</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
-  </programme>
-  <programme channel="tv.101204300437" start="20180705113000 +0000" stop="20180705130000 +0000">
-    <title>Love Island</title>
   </programme>
   <programme channel="tv.101204300437" start="20180705123000 +0000" stop="20180705133000 +0000">
     <title>Love Island</title>
@@ -33611,13 +33611,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630133000 +0000" stop="20180630135500 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630133000 +0000" stop="20180630135500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -33635,13 +33635,19 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -33650,12 +33656,6 @@
     <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
-    <title>Surfing the Menu</title>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630151500 +0000" stop="20180630152500 +0000">
@@ -33743,13 +33743,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -33803,15 +33803,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
-    <title>Surfing the Menu</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
     <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
+    <title>Surfing the Menu</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701013000 +0000" stop="20180701022500 +0000">
@@ -37202,11 +37202,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180628051506 +0000" stop="20180628063907 +0000">
-    <title>Chapter One</title>
-    <desc>The best kiteboard riders in the world come together to show off the sport’s breathtaking beauty.</desc>
-    <sub-title>The Kiteboarding Legacy Begins</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180628063907 +0000" stop="20180628073543 +0000">
     <title>Propeller</title>
     <desc>The first team video from the legendary company brings together generations of next-level skateboarding.</desc>
@@ -37442,10 +37437,6 @@
     <desc>The dream of a gig in Las Vegas gets closer to reality for the Steps, while Bboy Willy's dreams come true.</desc>
     <sub-title>Dreams to Reality</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180629080959 +0000" stop="20180629081559 +0000">
-    <title>MX Nation S4E1</title>
-    <sub-title>Episode 1</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180629081559 +0000" stop="20180629090809 +0000">
     <title>Sébastien Loeb: Off Roads</title>
     <desc>Sébastien Loeb and co-driver Daniel Elena made WRC history. In 2016 they took on a new challenge: Dakar.</desc>
@@ -37505,10 +37496,6 @@
     <title>Archaic Festivals S1E3</title>
     <desc>An ancient celebration that brings renewed spiritual protection to Shinto temples is also a way of life.</desc>
     <sub-title>Onbashira</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180629162257 +0000" stop="20180629162857 +0000">
-    <title>MX Nation S4E1</title>
-    <sub-title>Episode 1</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180629162857 +0000" stop="20180629172107 +0000">
     <title>Sébastien Loeb: Off Roads</title>
@@ -37584,10 +37571,6 @@
     <title>Life Behind Bars S3E4</title>
     <desc>Brandon Semenuk and the crew film the final sessions for Rad Company in a top-secret zone in Utah, USA.</desc>
     <sub-title>The Grey Zone</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180630005538 +0000" stop="20180630010138 +0000">
-    <title>MX Nation S4E1</title>
-    <sub-title>Episode 1</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180630010138 +0000" stop="20180630015348 +0000">
     <title>Sébastien Loeb: Off Roads</title>
@@ -37669,14 +37652,15 @@
     <desc>Is it possible to be born great? Pianist Lang Lang and skier Mikaela Shiffrin were both child prodigies.</desc>
     <sub-title>The Prodigies</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180630113120 +0000" stop="20180630120119 +0000">
+  <programme channel="tv.redbull.tv" start="20180630113120 +0000" stop="20180630120049 +0000">
     <title>Your Street My Stage S1E3</title>
     <desc>Many street performers make the pilgrimage to New York with nothing but dreams and the shirts on their backs.</desc>
     <sub-title>New York</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180630120119 +0000" stop="20180630120719 +0000">
-    <title>MX Nation S4E1</title>
-    <sub-title>Episode 1</sub-title>
+  <programme channel="tv.redbull.tv" start="20180630120119 +0000" stop="20180630120723 +0000">
+    <title>Cody Webb and Taylor Robert</title>
+    <desc>Two MX riders tear up California's Donner Ski Ranch in a stunning display of backcountry trials riding.</desc>
+    <sub-title>Donner Partying</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180630120719 +0000" stop="20180630125959 +0000">
     <title>Sébastien Loeb: Off Roads</title>
@@ -37983,9 +37967,10 @@
     <desc>DJ Tommie Sunshine visits with Dirty South, 12th Planet and The Gaslamp Killer in Los Angeles.</desc>
     <sub-title>Los Angeles: The New Tinseltown</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180701195024 +0000" stop="20180701195624 +0000">
-    <title>MX Nation S4E1</title>
-    <sub-title>Episode 1</sub-title>
+  <programme channel="tv.redbull.tv" start="20180701195024 +0000" stop="20180701195628 +0000">
+    <title>Cody Webb and Taylor Robert</title>
+    <desc>Two MX riders tear up California's Donner Ski Ranch in a stunning display of backcountry trials riding.</desc>
+    <sub-title>Donner Partying</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180701195624 +0000" stop="20180701204841 +0000">
     <title>Sébastien Loeb: Off Roads</title>
