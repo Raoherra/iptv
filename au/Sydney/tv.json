@@ -443,13 +443,13 @@
         "name": "Redbull TV",
         "stream_type": "DEFAULT",
         "video": {
-            "width": 1280,
             "height": 720,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 1280
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac"
         },
         "description": "Red Bull TV: beyond the ordinary live events and videos featuring inspirational stories covering sports, music and lifestyle entertainment. Anytime, anywhere.",

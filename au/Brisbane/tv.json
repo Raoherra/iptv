@@ -7,13 +7,13 @@
         "network": "SEVEN",
         "stream_type": "scraped",
         "video": {
-            "width": 896,
             "height": 504,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 896
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/tv.101305040542/m.m3u8",
@@ -33,13 +33,13 @@
         "network": "SEVEN",
         "stream_type": "scraped",
         "video": {
-            "width": 640,
             "height": 360,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 640
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/tv.101305040545/m.m3u8",
@@ -59,13 +59,13 @@
         "network": "SEVEN",
         "stream_type": "scraped",
         "video": {
-            "width": 896,
             "height": 504,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 896
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/tv.101305040543/m.m3u8",
@@ -85,13 +85,13 @@
         "network": "NINE",
         "stream_type": "Scraped",
         "video": {
-            "width": 1280,
             "height": 720,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 1280
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/tv.10120400040A/m.m3u8",
@@ -111,13 +111,13 @@
         "network": "NINE",
         "stream_type": "Scraped",
         "video": {
-            "width": 1280,
             "height": 720,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 1280
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/tv.10120400040B/m.m3u8",
@@ -137,13 +137,13 @@
         "network": "NINE",
         "stream_type": "Scraped",
         "video": {
-            "width": 1280,
             "height": 720,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 1280
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/tv.101204000407/m.m3u8",
@@ -163,13 +163,13 @@
         "network": "ABC",
         "stream_type": "Token",
         "video": {
-            "width": 640,
             "height": 360,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 640
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/tv.101002410241/m.m3u8",
@@ -189,13 +189,13 @@
         "network": "ABC",
         "stream_type": "Token",
         "video": {
-            "width": 640,
             "height": 360,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 640
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/tv.101002210222/m.m3u8",
@@ -215,13 +215,13 @@
         "network": "ABC",
         "stream_type": "Token",
         "video": {
-            "width": 640,
             "height": 360,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 640
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/tv.101002210224/m.m3u8",
@@ -241,13 +241,13 @@
         "network": "ABC",
         "stream_type": "Token",
         "video": {
-            "width": 640,
             "height": 360,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 640
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/tv.101002210220/m.m3u8",
@@ -267,13 +267,13 @@
         "network": "NINE",
         "stream_type": "Scraped",
         "video": {
-            "width": 1280,
             "height": 720,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 1280
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/tv.101204000401/m.m3u8",
@@ -293,13 +293,13 @@
         "network": "TEN",
         "stream_type": "DEFAULT",
         "video": {
-            "width": 1024,
             "height": 576,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 1024
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/tv.101406040648/m.m3u8",
@@ -319,13 +319,13 @@
         "network": "SBS",
         "stream_type": "DEFAULT",
         "video": {
-            "width": 1024,
             "height": 576,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 1024
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/tv.320203000304/m.m3u8",
@@ -342,13 +342,13 @@
         "name": "Fox Sports News",
         "stream_type": "DEFAULT",
         "video": {
-            "width": 1920,
             "height": 1080,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 1920
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/tv.fox.sports.news/m.m3u8",
@@ -368,13 +368,13 @@
         "network": "SBS",
         "stream_type": "DEFAULT",
         "video": {
-            "width": 1024,
             "height": 576,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 1024
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/tv.320203000305/m.m3u8",
@@ -394,13 +394,13 @@
         "network": "TEN",
         "stream_type": "DEFAULT",
         "video": {
-            "width": 1024,
             "height": 576,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 1024
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/tv.101406040641/m.m3u8",
@@ -420,13 +420,13 @@
         "network": "SEVEN",
         "stream_type": "scraped",
         "video": {
-            "width": 640,
             "height": 360,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 640
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/tv.101305020528/m.m3u8",
@@ -443,13 +443,13 @@
         "name": "Redbull TV",
         "stream_type": "DEFAULT",
         "video": {
-            "width": 1280,
             "height": 720,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 1280
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac"
         },
         "description": "Red Bull TV: beyond the ordinary live events and videos featuring inspirational stories covering sports, music and lifestyle entertainment. Anytime, anywhere.",
@@ -470,13 +470,13 @@
         "network": "SBS",
         "stream_type": "DEFAULT",
         "video": {
-            "width": 1024,
             "height": 576,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 1024
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/tv.320203000301/m.m3u8",
@@ -496,13 +496,13 @@
         "network": "SBS",
         "stream_type": "DEFAULT",
         "video": {
-            "width": 1024,
             "height": 576,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 1024
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/tv.320203000302/m.m3u8",
@@ -522,13 +522,13 @@
         "network": "SEVEN",
         "stream_type": "scraped",
         "video": {
-            "width": 896,
             "height": 504,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 896
         },
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
+            "channels": 2,
             "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/tv.101305040540/m.m3u8",
@@ -548,14 +548,14 @@
         "network": "TEN",
         "stream_type": "DEFAULT",
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac"
         },
         "video": {
-            "width": 1024,
             "height": 576,
-            "codec": "h264"
+            "codec": "h264",
+            "width": 1024
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/tv.101406040645/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Brisbane/tv.101406040645.m3u8",
