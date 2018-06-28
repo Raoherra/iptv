@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180628205945 +0000" stop="20180628210955 +0000">
-    <title>Life Behind Bars S3E4</title>
-    <desc>Brandon Semenuk and the crew film the final sessions for Rad Company in a top-secret zone in Utah, USA.</desc>
-    <sub-title>The Grey Zone</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180628210955 +0000" stop="20180628222053 +0000">
     <title>The Bits of Baco</title>
     <desc>A misfit band of brothers and friends stir up the ‘90s BMX scene with first-of-their-kind riding videos.</desc>
@@ -40783,6 +40778,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180706140000 +0000" stop="20180706143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180628135900 +0000" stop="20180628144600 +0000">
     <title>Doc Martin</title>
     <subtitles type="teletext"/>
@@ -52261,6 +52263,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200424" start="20180706140000 +0000" stop="20180706143000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200427" start="20180628133900 +0000" stop="20180628143400 +0000">
     <title>Rizzoli &amp; Isles</title>
     <subtitles type="teletext"/>
@@ -55527,6 +55535,12 @@
   <programme channel="tv.101204200428" start="20180706113000 +0000" stop="20180706140000 +0000">
     <title>Superbad</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20180706140000 +0000" stop="20180706150000 +0000">
+    <title>WWE Smackdown</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -63174,6 +63188,13 @@
   </programme>
   <programme channel="tv.101305020528" start="20180706134500 +0000" stop="20180706140000 +0000">
     <title>The Trial Show</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180706140000 +0000" stop="20180706143000 +0000">
+    <title>Raceday Review - Cranbourne</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -72070,13 +72091,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630135500 +0000" stop="20180630142000 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -72172,7 +72193,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -75880,6 +75901,12 @@
   </programme>
   <programme channel="tv.320203000305" start="20180706133000 +0000" stop="20180706140000 +0000">
     <title>Full Circle</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180706140000 +0000" stop="20180706150000 +0000">
+    <title>Volumz</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
