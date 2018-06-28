@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180628033222 +0000" stop="20180628043201 +0000">
-    <title>Prime</title>
-    <desc>Filmed in stunning locations around the world, elite wakeboarders take their sport to the next level.</desc>
-    <sub-title>Wakeboarding Progression</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180628043201 +0000" stop="20180628050053 +0000">
-    <title>As the Crow Flies</title>
-    <desc>Join Gigi Rüf and fellow snowboarders on their hunt to find the best snow and terrain for snowboarding in.</desc>
-    <sub-title>On the Hunt for the Best Snow</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180628050053 +0000" stop="20180628051506 +0000">
     <title>Wake Crane</title>
     <desc>Three top riders shred a custom 360-degree wakeboard park while being towed by an industrial crane.</desc>
@@ -1533,6 +1523,9 @@
   <programme channel="tv.9" start="20180630203500 +0000" stop="20180630210000 +0000">
     <title>Waka Man</title>
     <desc>Join Waka Man, Alby Waititi, on a voyage of discovery as he paddles the waterways of Aotearoa, revealing what waka culture meant to us in the past and what it means for our future.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180630210000 +0000" stop="20180630220000 +0000">
     <title>Q+A</title>
@@ -1615,7 +1608,7 @@
   </programme>
   <programme channel="tv.9" start="20180701073000 +0000" stop="20180701083000 +0000">
     <title>Sunday</title>
-    <desc>Tonight, Calyn Hoad suffered massive brain damage saving his little brother at age seven. We meet up with him almost four years on. Plus, we sit down for an exclusive interview with Cher.</desc>
+    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe. Tonight, an exclusive interview with Cher – the singer, movie star, fashion icon and activist.</desc>
   </programme>
   <programme channel="tv.9" start="20180701083000 +0000" stop="20180701102500 +0000">
     <title>In A Flash</title>
@@ -1659,28 +1652,8 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180701150500 +0000" stop="20180701153500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180701153500 +0000" stop="20180701160500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180701160500 +0000" stop="20180701163500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180701163500 +0000" stop="20180701170000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180701170000 +0000" stop="20180701173000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180701173000 +0000" stop="20180701180000 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180701150500 +0000" stop="20180701180000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.9" start="20180701180000 +0000" stop="20180701210000 +0000">
@@ -1958,6 +1931,9 @@
   <programme channel="tv.9" start="20180704010000 +0000" stop="20180704020000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Adam muscles in as Rosie asks for help. Can Daniel keep his cool? Kate comes up with an idea to help Rana.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180704020000 +0000" stop="20180704030000 +0000">
     <title>Wimbledon Highlights</title>
@@ -2007,6 +1983,9 @@
     <title>Code Black</title>
     <desc>New Season: S3 E1 A shootout tests the bravery of the doctors of Angels Memorial as they race to save a girl caught in the crossfire. Also, Willis shifts his focus to work primarily on an ambulance.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180704093000 +0000" stop="20180704103000 +0000">
     <title>Coronation Street 2018</title>
@@ -2116,6 +2095,9 @@
     <title>Coronation Street 2018</title>
     <desc>Ryan suspects Kayla's hiding something. Craig’s bitterly disappointed. Toya attempts to fix her and Peter's relationship.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180705104500 +0000" stop="20180705111500 +0000">
     <title>1 News Tonight</title>
@@ -2191,7 +2173,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180627173000 +0000" stop="20180627183000 +0000">
+  <programme channel="tv.10" start="20180627173000 +0000" stop="20180627180000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.10" start="20180627180000 +0000" stop="20180627183000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -2560,6 +2546,9 @@
   <programme channel="tv.10" start="20180628194500 +0000" stop="20180628201500 +0000">
     <title>Zak Storm</title>
     <desc>Zak is a young surfer who gets sucked into the Seven Seas of the Bermuda Triangle, where he becomes a captain of a ship of outcasts. He tackles danger on land with his crew and his magical sword.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180628201500 +0000" stop="20180628203500 +0000">
     <title>Disney Junior Art Attack</title>
@@ -2673,6 +2662,9 @@
   <programme channel="tv.10" start="20180629040000 +0000" stop="20180629043000 +0000">
     <title>Fanimals</title>
     <desc>Today we go on a Celebrity Pet Date with Matilda Rice, Jaye brings her duck Toothpick into the Fanimals backyard for a party, and we could be calling you to play and win on Fact or Fiction!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180629043000 +0000" stop="20180629050000 +0000">
     <title>Friends</title>
@@ -3327,7 +3319,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180701173000 +0000" stop="20180701180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180701180000 +0000" stop="20180701183000 +0000">
@@ -3397,16 +3389,8 @@
       <stereo>dolby</stereo>
     </audio>
   </programme>
-  <programme channel="tv.10" start="20180701210000 +0000" stop="20180701213000 +0000">
-    <title>Infomercial 0900</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180701213000 +0000" stop="20180701220000 +0000">
+  <programme channel="tv.10" start="20180701210000 +0000" stop="20180701223000 +0000">
     <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180701220000 +0000" stop="20180701223000 +0000">
-    <title>Infomercial 1000</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180701223000 +0000" stop="20180701230500 +0000">
@@ -3520,13 +3504,7 @@
   <programme channel="tv.10" start="20180702070000 +0000" stop="20180702073000 +0000">
     <title>Shortland Street</title>
     <desc>Curtis chases shadows. Vinnie wants to whisk Nicole away. Damo cooks up a blinder.</desc>
-    <audio>
-      <stereo>dolby</stereo>
-    </audio>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
   <programme channel="tv.10" start="20180702073000 +0000" stop="20180702083000 +0000">
     <title>Heartbreak Island</title>
@@ -3560,9 +3538,6 @@
   <programme channel="tv.10" start="20180702103000 +0000" stop="20180702105500 +0000">
     <title>Two And A Half Men</title>
     <desc>Charlie can't keep pace with the healthy routine that Mia has introduced into their relationship, so he sneaks cigars and beers in the garage and enlists Rose to deliver burgers to him on the sly.</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
   <programme channel="tv.10" start="20180702105500 +0000" stop="20180702112000 +0000">
     <title>Mom</title>
@@ -3595,19 +3570,9 @@
   <programme channel="tv.10" start="20180702130000 +0000" stop="20180702132500 +0000">
     <title>Shortland Street</title>
     <desc>Curtis chases shadows. Vinnie wants to whisk Nicole away. Damo cooks up a blinder.</desc>
-    <audio>
-      <stereo>dolby</stereo>
-    </audio>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
-  <programme channel="tv.10" start="20180702132500 +0000" stop="20180702135500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180702135500 +0000" stop="20180702142500 +0000">
+  <programme channel="tv.10" start="20180702132500 +0000" stop="20180702142500 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -3649,12 +3614,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180702173000 +0000" stop="20180702180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180702180000 +0000" stop="20180702183000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.10" start="20180702173000 +0000" stop="20180702183000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180702183000 +0000" stop="20180702184000 +0000">
@@ -3733,7 +3694,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180702210000 +0000" stop="20180702213000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180702213000 +0000" stop="20180702220000 +0000">
@@ -3741,7 +3702,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180702220000 +0000" stop="20180702223000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180702223000 +0000" stop="20180702230000 +0000">
@@ -3958,11 +3919,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180703133500 +0000" stop="20180703141000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180703141000 +0000" stop="20180703144000 +0000">
+  <programme channel="tv.10" start="20180703133500 +0000" stop="20180703144000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -3998,7 +3955,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180703173000 +0000" stop="20180703180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180703180000 +0000" stop="20180703183000 +0000">
@@ -4047,6 +4004,9 @@
   <programme channel="tv.10" start="20180703195000 +0000" stop="20180703201500 +0000">
     <title>Zak Storm</title>
     <desc>Zak is a young surfer who gets sucked into the Seven Seas of the Bermuda Triangle, where he becomes a captain of a ship of outcasts. He tackles danger on land with his crew and his magical sword.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180703201500 +0000" stop="20180703203500 +0000">
     <title>Disney Junior: Puppy Pals</title>
@@ -4064,6 +4024,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180703210000 +0000" stop="20180703213000 +0000">
     <title>Life TV With Paul De Jong</title>
@@ -4282,11 +4245,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180704134000 +0000" stop="20180704141500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180704141500 +0000" stop="20180704144500 +0000">
+  <programme channel="tv.10" start="20180704134000 +0000" stop="20180704144500 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -4321,12 +4280,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180704173000 +0000" stop="20180704180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180704180000 +0000" stop="20180704183000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.10" start="20180704173000 +0000" stop="20180704183000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180704183000 +0000" stop="20180704184000 +0000">
@@ -4390,7 +4345,7 @@
     </audio>
   </programme>
   <programme channel="tv.10" start="20180704210000 +0000" stop="20180704213000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180704213000 +0000" stop="20180704220000 +0000">
@@ -4398,7 +4353,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180704220000 +0000" stop="20180704223000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180704223000 +0000" stop="20180704230000 +0000">
@@ -9030,6 +8985,9 @@
   <programme channel="tv.38" start="20180630213500 +0000" stop="20180630220000 +0000">
     <title>Waka Man</title>
     <desc>Join Waka Man, Alby Waititi, on a voyage of discovery as he paddles the waterways of Aotearoa, revealing what waka culture meant to us in the past and what it means for our future.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180630220000 +0000" stop="20180630230000 +0000">
     <title>Q+A</title>
@@ -9112,7 +9070,7 @@
   </programme>
   <programme channel="tv.38" start="20180701083000 +0000" stop="20180701093000 +0000">
     <title>Sunday</title>
-    <desc>Tonight, Calyn Hoad suffered massive brain damage saving his little brother from a four-wheel-drive. We meet up with him almost four years on. Plus, we sit down for an exclusive interview with Cher.</desc>
+    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe. Tonight, an exclusive interview with Cher – the singer, movie star, fashion icon and activist.</desc>
   </programme>
   <programme channel="tv.38" start="20180701093000 +0000" stop="20180701112500 +0000">
     <title>In A Flash</title>
@@ -9156,28 +9114,8 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180701160500 +0000" stop="20180701163500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180701163500 +0000" stop="20180701170500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180701170500 +0000" stop="20180701173500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180701173500 +0000" stop="20180701180000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180701180000 +0000" stop="20180701183000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180701183000 +0000" stop="20180701190000 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180701160500 +0000" stop="20180701190000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.38" start="20180701190000 +0000" stop="20180701220000 +0000">
@@ -9455,6 +9393,9 @@
   <programme channel="tv.38" start="20180704020000 +0000" stop="20180704030000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Adam muscles in as Rosie asks for help. Can Daniel keep his cool? Kate comes up with an idea to help Rana.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180704030000 +0000" stop="20180704040000 +0000">
     <title>Wimbledon Highlights</title>
@@ -9504,6 +9445,9 @@
     <title>Code Black</title>
     <desc>New Season: S3 E1 A shootout tests the bravery of the doctors of Angels Memorial as they race to save a girl caught in the crossfire. Also, Willis shifts his focus to work primarily on an ambulance.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180704103000 +0000" stop="20180704113000 +0000">
     <title>Coronation Street 2018</title>
@@ -9613,6 +9557,9 @@
     <title>Coronation Street 2018</title>
     <desc>Ryan suspects Kayla's hiding something. Craig’s bitterly disappointed. Toya attempts to fix her and Peter's relationship.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180705114500 +0000" stop="20180705121500 +0000">
     <title>1 News Tonight</title>
@@ -9686,7 +9633,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180627183000 +0000" stop="20180627193000 +0000">
+  <programme channel="tv.14" start="20180627183000 +0000" stop="20180627190000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.14" start="20180627190000 +0000" stop="20180627193000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -10016,6 +9967,9 @@
   <programme channel="tv.14" start="20180628204500 +0000" stop="20180628211500 +0000">
     <title>Zak Storm</title>
     <desc>Zak is a young surfer who gets sucked into the Seven Seas of the Bermuda Triangle, where he becomes a captain of a ship of outcasts. He tackles danger on land with his crew and his magical sword.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180628211500 +0000" stop="20180628213500 +0000">
     <title>Disney Junior Art Attack</title>
@@ -10117,6 +10071,9 @@
   <programme channel="tv.14" start="20180629050000 +0000" stop="20180629053000 +0000">
     <title>Fanimals</title>
     <desc>Today we go on a Celebrity Pet Date with Matilda Rice, Jaye brings her duck Toothpick into the Fanimals backyard for a party, and we could be calling you to play and win on Fact or Fiction!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180629053000 +0000" stop="20180629060000 +0000">
     <title>Friends</title>
@@ -10663,7 +10620,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180701183000 +0000" stop="20180701190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180701190000 +0000" stop="20180701193000 +0000">
@@ -10724,16 +10681,8 @@
     <title>Disney Junior: Goldie &amp; Bear</title>
     <desc>When Beanstalk Jack can’t play drums in Goldie and Bear’s band, Big Bad Wolf steps in. Then, Goldie uses Rosita’s Do Over spell to make everything perfect for her Gramma May’s visit.</desc>
   </programme>
-  <programme channel="tv.14" start="20180701220000 +0000" stop="20180701223000 +0000">
-    <title>Infomercial 0900</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180701223000 +0000" stop="20180701230000 +0000">
+  <programme channel="tv.14" start="20180701220000 +0000" stop="20180701233000 +0000">
     <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180701230000 +0000" stop="20180701233000 +0000">
-    <title>Infomercial 1000</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180701233000 +0000" stop="20180702000500 +0000">
@@ -10836,9 +10785,6 @@
     <title>Shortland Street</title>
     <desc>Curtis chases shadows. Vinnie wants to whisk Nicole away. Damo cooks up a blinder.</desc>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
   <programme channel="tv.14" start="20180702083000 +0000" stop="20180702093000 +0000">
     <title>Heartbreak Island</title>
@@ -10896,15 +10842,8 @@
     <title>Shortland Street</title>
     <desc>Curtis chases shadows. Vinnie wants to whisk Nicole away. Damo cooks up a blinder.</desc>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
-  <programme channel="tv.14" start="20180702142500 +0000" stop="20180702145500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180702145500 +0000" stop="20180702152500 +0000">
+  <programme channel="tv.14" start="20180702142500 +0000" stop="20180702152500 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -10943,12 +10882,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180702183000 +0000" stop="20180702190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180702190000 +0000" stop="20180702193000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.14" start="20180702183000 +0000" stop="20180702193000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180702193000 +0000" stop="20180702194000 +0000">
@@ -11015,7 +10950,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180702220000 +0000" stop="20180702223000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180702223000 +0000" stop="20180702230000 +0000">
@@ -11023,7 +10958,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180702230000 +0000" stop="20180702233000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180702233000 +0000" stop="20180703000000 +0000">
@@ -11204,11 +11139,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180703143500 +0000" stop="20180703151000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180703151000 +0000" stop="20180703154000 +0000">
+  <programme channel="tv.14" start="20180703143500 +0000" stop="20180703154000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -11241,7 +11172,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180703183000 +0000" stop="20180703190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180703190000 +0000" stop="20180703193000 +0000">
@@ -11284,6 +11215,9 @@
   <programme channel="tv.14" start="20180703205000 +0000" stop="20180703211500 +0000">
     <title>Zak Storm</title>
     <desc>Zak is a young surfer who gets sucked into the Seven Seas of the Bermuda Triangle, where he becomes a captain of a ship of outcasts. He tackles danger on land with his crew and his magical sword.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180703211500 +0000" stop="20180703213500 +0000">
     <title>Disney Junior: Puppy Pals</title>
@@ -11295,6 +11229,9 @@
   <programme channel="tv.14" start="20180703213500 +0000" stop="20180703220000 +0000">
     <title>Disney Junior: Goldie &amp; Bear</title>
     <desc>After a crystal ball predicts an injury in Bear’s future, Goldie vows to keep him safe. Goldie and Bear agree to harvest Giant’s tomatoes but it turns out to be a giant-sized task!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180703220000 +0000" stop="20180703223000 +0000">
     <title>Life TV With Paul De Jong</title>
@@ -11480,11 +11417,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180704144000 +0000" stop="20180704151500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180704151500 +0000" stop="20180704154500 +0000">
+  <programme channel="tv.14" start="20180704144000 +0000" stop="20180704154500 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -11516,12 +11449,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180704183000 +0000" stop="20180704190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180704190000 +0000" stop="20180704193000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.14" start="20180704183000 +0000" stop="20180704193000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180704193000 +0000" stop="20180704194000 +0000">
@@ -11573,7 +11502,7 @@
     <desc>After Mama Bear’s ring disappears, the kids get help from their tiny friends to find it. After Big Bad is accused of a crime he didn’t commit, Goldie and Bear search for the truth.</desc>
   </programme>
   <programme channel="tv.14" start="20180704220000 +0000" stop="20180704223000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180704223000 +0000" stop="20180704230000 +0000">
@@ -11581,7 +11510,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180704230000 +0000" stop="20180704233000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180704233000 +0000" stop="20180705000000 +0000">
@@ -18694,15 +18623,19 @@
     <title>DUKE Back in the Future</title>
     <desc>We'll catch you later on DUKE.</desc>
   </programme>
-  <programme channel="tv.55" start="20180630180000 +0000" stop="20180630203000 +0000">
+  <programme channel="tv.55" start="20180630180000 +0000" stop="20180630181500 +0000">
+    <title>On DUKE today...</title>
+    <desc>Here's what's on DUKE today.</desc>
+  </programme>
+  <programme channel="tv.55" start="20180630181500 +0000" stop="20180630204500 +0000">
     <title>AFL - Carlton v Port Adelaide</title>
     <desc>Replay of yesterday’s match as Carlton host Port Adelaide from the MCG in Melbourne.</desc>
   </programme>
-  <programme channel="tv.55" start="20180630203000 +0000" stop="20180630223500 +0000">
+  <programme channel="tv.55" start="20180630204500 +0000" stop="20180630224500 +0000">
     <title>Live: MLS - Seattle v Portland</title>
     <desc>Live coverage of the Seattle Sounders hosting the Portland Timbers from CenturyLink Field in Seattle, Washington.</desc>
   </programme>
-  <programme channel="tv.55" start="20180630223500 +0000" stop="20180701010500 +0000">
+  <programme channel="tv.55" start="20180630224500 +0000" stop="20180701010500 +0000">
     <title>AFL - Adelaide v West Coast</title>
     <desc>Delayed coverage of last night’s match as the Adelaide Crows host the West Coast Eagles from the Adelaide Oval in Adelaide.</desc>
   </programme>
