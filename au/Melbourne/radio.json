@@ -905,9 +905,9 @@
             "News & Talk"
         ],
         "audio": {
+            "sample_rate": 44100,
             "codec": "aac",
-            "channels": 2,
-            "sample_rate": 44100
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6998/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6998",
