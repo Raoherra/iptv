@@ -14802,14 +14802,14 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600468" start="20180705133000 +0000" stop="20180705150000 +0000">
-    <title>Love Island</title>
-  </programme>
   <programme channel="tv.101204600468" start="20180705133000 +0000" stop="20180705143000 +0000">
     <title>Love Island</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
+  </programme>
+  <programme channel="tv.101204600468" start="20180705133000 +0000" stop="20180705150000 +0000">
+    <title>Love Island</title>
   </programme>
   <programme channel="tv.101204600468" start="20180705143000 +0000" stop="20180705153000 +0000">
     <title>Love Island</title>
@@ -17573,18 +17573,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060560" start="20180701143300 +0000" stop="20180701153100 +0000">
-    <title>Crimes That Shook the World</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305060560" start="20180701143300 +0000" stop="20180701163000 +0000">
     <title>Criminal Confessions</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305060560" start="20180701143300 +0000" stop="20180701153100 +0000">
+    <title>Crimes That Shook the World</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101305060560" start="20180701153100 +0000" stop="20180701162900 +0000">
@@ -33188,15 +33188,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
-    <title>Ginormous Food</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
     <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
+    <title>Ginormous Food</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630151500 +0000" stop="20180630152500 +0000">
@@ -33320,15 +33320,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701000000 +0000" stop="20180701003000 +0000">
-    <title>Ginormous Food</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180701000000 +0000" stop="20180701003000 +0000">
     <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180701000000 +0000" stop="20180701003000 +0000">
+    <title>Ginormous Food</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701003000 +0000" stop="20180701010000 +0000">
@@ -37073,11 +37073,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180629015321 +0000" stop="20180629030010 +0000">
-    <title>Ride: United</title>
-    <desc>The biggest names in every discipline celebrate the community and camaraderie of the competitive moto world.</desc>
-    <sub-title>A World of Competitive Moto Riding</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180629030010 +0000" stop="20180629033930 +0000">
     <title>Follow Me</title>
