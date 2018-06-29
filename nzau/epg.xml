@@ -280,21 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180629162857 +0000" stop="20180629172107 +0000">
-    <title>Sébastien Loeb: Off Roads</title>
-    <desc>Sébastien Loeb and co-driver Daniel Elena made WRC history. In 2016 they took on a new challenge: Dakar.</desc>
-    <sub-title>The WRC's Best Take on the Dakar</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180629172107 +0000" stop="20180629180830 +0000">
-    <title>The Smoke That Thunders</title>
-    <desc>Two world-class cliff divers face the most challenging dive of their lives: the world’s largest waterfall.</desc>
-    <sub-title>Staring Down the World’s Largest Waterfall</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180629180830 +0000" stop="20180629182300 +0000">
-    <title>Iron to the Core</title>
-    <desc>Long-distance triathlete Sebastian Kienle gives an inside look at what it takes to be an IRONMAN athlete.</desc>
-    <sub-title>The Sebastian Kienle Story</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180629182300 +0000" stop="20180629191438 +0000">
     <title>The Art of Street Fighting</title>
     <desc>The world's top Street Fighter V players prepare for the fight of their lives at Red Bull Kumite.</desc>
@@ -14612,6 +14597,9 @@
   <programme channel="tv.28" start="20180630223000 +0000" stop="20180701000000 +0000">
     <title>Sport Box</title>
     <desc>Missed all the water cooler chat this week? Join Prime as we highlight the past week's local and international sports for passionate Kiwi fans. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180701000000 +0000" stop="20180701010500 +0000">
     <title>2018 FIFA World Cup Russia</title>
@@ -50382,11 +50370,10 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180703133000 +0000" stop="20180703143000 +0000">
-    <title>The Closer</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101204200421" start="20180703133000 +0000" stop="20180703142000 +0000">
+    <title>20/20</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180703143000 +0000" stop="20180703150000 +0000">
@@ -50420,8 +50407,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180703173000 +0000" stop="20180703180000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204200421" start="20180703173000 +0000" stop="20180703190000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -50894,16 +50881,17 @@
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180706193000 +0000" stop="20180706200000 +0000">
-    <title>Good Morning America</title>
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180706200000 +0000" stop="20180706210000 +0000">
-    <title>Ellen</title>
+    <title>Good Morning America</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180706210000 +0000" stop="20180707000000 +0000">
@@ -56011,11 +55999,11 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180701123300 +0000" stop="20180701143000 +0000">
-    <title>Criminal Confessions</title>
+  <programme channel="tv.101305020520" start="20180701123300 +0000" stop="20180701133400 +0000">
+    <title>Crimes That Shook the World</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>M</value>
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180701133400 +0000" stop="20180701143500 +0000">
@@ -59585,7 +59573,10 @@
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180706205800 +0000" stop="20180706220000 +0000">
-    <title>To Be Advised</title>
+    <title>Night Thunder</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180706220000 +0000" stop="20180706223000 +0000">
     <title>Home Shopping</title>
@@ -71893,7 +71884,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630133000 +0000" stop="20180630135500 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -71905,7 +71896,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -72001,7 +71992,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -72037,7 +72028,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701003000 +0000" stop="20180701010000 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -72349,9 +72340,9 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702020000 +0000" stop="20180702023000 +0000">
