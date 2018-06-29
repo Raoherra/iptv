@@ -509,8 +509,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180630100000 +0000" stop="20180630101200 +0000">
+  <programme channel="tv.101002210220" start="20180630100000 +0000" stop="20180630100100 +0000">
     <title>ABC News Weekend</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180630100100 +0000" stop="20180630110000 +0000">
+    <title>Four Corners</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -895,13 +902,13 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180701181500 +0000" stop="20180701190000 +0000">
+  <programme channel="tv.101002210220" start="20180701181500 +0000" stop="20180701190100 +0000">
     <title>National Wrap</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180701190000 +0000" stop="20180701200000 +0000">
+  <programme channel="tv.101002210220" start="20180701190100 +0000" stop="20180701200000 +0000">
     <title>Landline</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -2968,14 +2975,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180706020000 +0000" stop="20180706030000 +0000">
+  <programme channel="tv.101002210221" start="20180706020000 +0000" stop="20180706025900 +0000">
     <title>ABC News at Noon</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180706030000 +0000" stop="20180706032900 +0000">
+  <programme channel="tv.101002210221" start="20180706025900 +0000" stop="20180706032900 +0000">
     <title>One Plus One</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -3038,49 +3045,49 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180706090000 +0000" stop="20180706093200 +0000">
+  <programme channel="tv.101002210221" start="20180706090000 +0000" stop="20180706093100 +0000">
     <title>ABC News</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180706093200 +0000" stop="20180706103200 +0000">
+  <programme channel="tv.101002210221" start="20180706093100 +0000" stop="20180706103100 +0000">
     <title>Gardening Australia</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180706103200 +0000" stop="20180706120300 +0000">
+  <programme channel="tv.101002210221" start="20180706103100 +0000" stop="20180706120200 +0000">
     <title>Endeavour</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180706120300 +0000" stop="20180706125400 +0000">
+  <programme channel="tv.101002210221" start="20180706120200 +0000" stop="20180706125300 +0000">
     <title>The Tunnel: Vengeance</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180706125400 +0000" stop="20180706132400 +0000">
+  <programme channel="tv.101002210221" start="20180706125300 +0000" stop="20180706132300 +0000">
     <title>ABC Late News</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180706132400 +0000" stop="20180706134100 +0000">
+  <programme channel="tv.101002210221" start="20180706132300 +0000" stop="20180706134000 +0000">
     <title>The Business</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180706134100 +0000" stop="20180706141000 +0000">
+  <programme channel="tv.101002210221" start="20180706134000 +0000" stop="20180706141000 +0000">
     <title>The Weekly With Charlie Pickering</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -7568,14 +7575,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180628231000 +0000" stop="20180628233500 +0000">
+  <programme channel="tv.101002210224" start="20180628231000 +0000" stop="20180628233600 +0000">
     <title>History Hunters</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180628233500 +0000" stop="20180629000000 +0000">
+  <programme channel="tv.101002210224" start="20180628233600 +0000" stop="20180629000000 +0000">
     <title>Move It Mobstyle</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -8521,6 +8528,7 @@
   </programme>
   <programme channel="tv.101002210224" start="20180701120400 +0000" stop="20180701160500 +0000">
     <title>rage</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -8964,13 +8972,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180702120800 +0000" stop="20180702130900 +0000">
+  <programme channel="tv.101002210224" start="20180702120800 +0000" stop="20180702130800 +0000">
     <title>rage</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180702130900 +0000" stop="20180702190000 +0000">
+  <programme channel="tv.101002210224" start="20180702130800 +0000" stop="20180702190000 +0000">
     <title>Station Close</title>
     <rating system="Freeview">
       <value>NC</value>
@@ -9313,6 +9322,7 @@
   </programme>
   <programme channel="tv.101002210224" start="20180703120000 +0000" stop="20180703130100 +0000">
     <title>rage</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -9709,6 +9719,7 @@
   </programme>
   <programme channel="tv.101002210224" start="20180704115900 +0000" stop="20180704130000 +0000">
     <title>rage</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -10063,13 +10074,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180705120300 +0000" stop="20180705130200 +0000">
-    <title>rage</title>
+  <programme channel="tv.101002210224" start="20180705120300 +0000" stop="20180705131000 +0000">
+    <title>rage: Guest Programmer</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180705130200 +0000" stop="20180705190000 +0000">
+  <programme channel="tv.101002210224" start="20180705131000 +0000" stop="20180705190000 +0000">
     <title>Station Close</title>
     <rating system="Freeview">
       <value>NC</value>
@@ -11190,15 +11202,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180703173000 +0000" stop="20180703180000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204200421" start="20180703173000 +0000" stop="20180703190000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180703173000 +0000" stop="20180703190000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204200421" start="20180703173000 +0000" stop="20180703180000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11521,6 +11533,19 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200421" start="20180705173000 +0000" stop="20180705180000 +0000">
+    <title>A Current Affair</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200421" start="20180705180000 +0000" stop="20180705190000 +0000">
+    <title>Ellen</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180705190000 +0000" stop="20180705193000 +0000">
@@ -16876,18 +16901,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180701123300 +0000" stop="20180701133100 +0000">
-    <title>Crimes That Shook the World</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020520" start="20180701123300 +0000" stop="20180701143000 +0000">
     <title>Criminal Confessions</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020520" start="20180701123300 +0000" stop="20180701133100 +0000">
+    <title>Crimes That Shook the World</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180701133100 +0000" stop="20180701142900 +0000">
@@ -33156,13 +33181,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -33216,15 +33241,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
-    <title>Ginormous Food</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
     <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
+    <title>Ginormous Food</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701013000 +0000" stop="20180701022500 +0000">
@@ -33534,19 +33559,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
-    <title>Ginormous Food</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180702020000 +0000" stop="20180702023000 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -33555,6 +33574,12 @@
     <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180702020000 +0000" stop="20180702023000 +0000">
+    <title>Ginormous Food</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702023000 +0000" stop="20180702032500 +0000">
@@ -36915,16 +36940,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180629081559 +0000" stop="20180629090809 +0000">
-    <title>Sébastien Loeb: Off Roads</title>
-    <desc>Sébastien Loeb and co-driver Daniel Elena made WRC history. In 2016 they took on a new challenge: Dakar.</desc>
-    <sub-title>The WRC's Best Take on the Dakar</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180629090809 +0000" stop="20180629095531 +0000">
-    <title>The Smoke That Thunders</title>
-    <desc>Two world-class cliff divers face the most challenging dive of their lives: the world’s largest waterfall.</desc>
-    <sub-title>Staring Down the World’s Largest Waterfall</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180629095531 +0000" stop="20180629101002 +0000">
     <title>Iron to the Core</title>
