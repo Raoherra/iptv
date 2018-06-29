@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180629033930 +0000" stop="20180629040744 +0000">
-    <title>The Ripple Effect S2E6</title>
-    <desc>Nolan Bushnell changes global entertainment with his invention of an electronic, monochrome square ball.</desc>
-    <sub-title>Atari</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180629040744 +0000" stop="20180629050111 +0000">
-    <title>Archaic Festivals S1E3</title>
-    <desc>An ancient celebration that brings renewed spiritual protection to Shinto temples is also a way of life.</desc>
-    <sub-title>Onbashira</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180629050111 +0000" stop="20180629054837 +0000">
     <title>Ready to Race</title>
     <desc>Austria’s most successful motorbike racing team makes the jump into MotoGP, the pinnacle of motorcycle racing.</desc>
@@ -2350,7 +2340,7 @@
   </programme>
   <programme channel="tv.9" start="20180702073000 +0000" stop="20180702080000 +0000">
     <title>Fair Go</title>
-    <desc>Join Pippa Wetzell, Hadyn Jones and the Fair Go team as they stand up for the underdogs and consumer rights!</desc>
+    <desc>Tonight, has PC gone mad? The `Bubble Wrap Brigade’ are smothering kids in safety with the backyard treehouse set to get the chop! Plus, D-I-Y beauty and the hidden hazards.</desc>
   </programme>
   <programme channel="tv.9" start="20180702080000 +0000" stop="20180702083000 +0000">
     <title>Highway Cops</title>
@@ -2651,6 +2641,9 @@
   <programme channel="tv.9" start="20180705010000 +0000" stop="20180705020000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Adam tries to recruit Todd. Bethany realises how much she needs Nathan. Ken’s high hopes for Daniel are dashed.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180705020000 +0000" stop="20180705030000 +0000">
     <title>Wimbledon Highlights</title>
@@ -2699,6 +2692,9 @@
   <programme channel="tv.9" start="20180705084000 +0000" stop="20180705094500 +0000">
     <title>George Clarke's Amazing Spaces</title>
     <desc>In Cornwall, George meets world-class surfer Peg Leg who wants to do a very unique extension to his VW campervan. In Pembrokeshire, an extra-terrestrial glamping pod with an Olympic connection.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180705094500 +0000" stop="20180705104500 +0000">
     <title>Coronation Street 2018</title>
@@ -2755,6 +2751,9 @@
   <programme channel="tv.9" start="20180706010000 +0000" stop="20180706020000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Bethany plays with fire. Nick and Peter are united in fear. It’s back to reality for Steve and Michelle.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180706020000 +0000" stop="20180706030000 +0000">
     <title>Wimbledon Highlights</title>
@@ -3726,6 +3725,9 @@
   <programme channel="tv.10" start="20180701183000 +0000" stop="20180701184000 +0000">
     <title>The Wot Wots</title>
     <desc>Two friendly aliens traveling in a steam-powered spaceship explore the Earth's many unique environments and the animals inhabiting them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180701184000 +0000" stop="20180701185000 +0000">
     <title>Darwin &amp; Newts</title>
@@ -3757,6 +3759,9 @@
   <programme channel="tv.10" start="20180701190000 +0000" stop="20180701192500 +0000">
     <title>Ranger Rob</title>
     <desc>Adventurous Ranger Rob's favourite thing to do is go outside to play, explore and discover. That's easy for him to do at Big Sky Park, the coolest outdoor adventure park around.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180701192500 +0000" stop="20180701195000 +0000">
     <title>Matt Hatter Chronicles</title>
@@ -3785,6 +3790,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180701210000 +0000" stop="20180701223000 +0000">
     <title>Infomercial</title>
@@ -3859,6 +3867,9 @@
   <programme channel="tv.10" start="20180702040000 +0000" stop="20180702043000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Maria and Pink the pig, your pawe-some photo could win a prize on Animal Lookalikes, and we show you how to make animal finger puppets!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180702043000 +0000" stop="20180702050000 +0000">
     <title>Friends</title>
@@ -3901,7 +3912,13 @@
   <programme channel="tv.10" start="20180702070000 +0000" stop="20180702073000 +0000">
     <title>Shortland Street</title>
     <desc>Curtis chases shadows. Vinnie wants to whisk Nicole away. Damo cooks up a blinder.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180702073000 +0000" stop="20180702083000 +0000">
     <title>Heartbreak Island</title>
@@ -3935,6 +3952,9 @@
   <programme channel="tv.10" start="20180702103000 +0000" stop="20180702105500 +0000">
     <title>Two And A Half Men</title>
     <desc>Charlie can't keep pace with the healthy routine that Mia has introduced into their relationship, so he sneaks cigars and beers in the garage and enlists Rose to deliver burgers to him on the sly.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180702105500 +0000" stop="20180702112000 +0000">
     <title>Mom</title>
@@ -3967,7 +3987,13 @@
   <programme channel="tv.10" start="20180702130000 +0000" stop="20180702132500 +0000">
     <title>Shortland Street</title>
     <desc>Curtis chases shadows. Vinnie wants to whisk Nicole away. Damo cooks up a blinder.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180702132500 +0000" stop="20180702142500 +0000">
     <title>Infomercial</title>
@@ -4186,6 +4212,9 @@
   <programme channel="tv.10" start="20180703040000 +0000" stop="20180703043000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Cameo the puppy at the SPCA, our Ask Me Anything vet Stacey is here to answer all your canine questions, and send us in your pet tricks to win a treat!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180703043000 +0000" stop="20180703050000 +0000">
     <title>Friends</title>
@@ -4239,6 +4268,9 @@
   <programme channel="tv.10" start="20180703073000 +0000" stop="20180703083000 +0000">
     <title>Heartbreak Island</title>
     <desc>The final four couples experience an extreme taste of romance in a world class location. Will it bring them closer together and can alliances turn into love?</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
   </programme>
   <programme channel="tv.10" start="20180703083000 +0000" stop="20180703092500 +0000">
@@ -4362,6 +4394,9 @@
   <programme channel="tv.10" start="20180703183000 +0000" stop="20180703184000 +0000">
     <title>The Wot Wots</title>
     <desc>Two friendly aliens traveling in a steam-powered spaceship explore the Earth's many unique environments and the animals inhabiting them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180703184000 +0000" stop="20180703185000 +0000">
     <title>Darwin &amp; Newts</title>
@@ -4369,6 +4404,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180703185000 +0000" stop="20180703185500 +0000">
     <title>Masha And The Bear</title>
@@ -4390,6 +4428,9 @@
   <programme channel="tv.10" start="20180703190000 +0000" stop="20180703192500 +0000">
     <title>Ranger Rob</title>
     <desc>Ranger Rob lives and works at Big Sky Park, the coolest adventure park around! Rob likes to explore and play with his best friends Dakota and Stomper.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180703192500 +0000" stop="20180703195000 +0000">
     <title>Matt Hatter Chronicles</title>
@@ -4447,6 +4488,9 @@
   <programme channel="tv.10" start="20180703230500 +0000" stop="20180704000000 +0000">
     <title>Heartbreak Island</title>
     <desc>The final four couples experience an extreme taste of romance in a world class location. Will it bring them closer together and can alliances turn into love?</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
   </programme>
   <programme channel="tv.10" start="20180704000000 +0000" stop="20180704010500 +0000">
@@ -4684,6 +4728,9 @@
   <programme channel="tv.10" start="20180704183000 +0000" stop="20180704184000 +0000">
     <title>The Wot Wots</title>
     <desc>Two friendly aliens traveling in a steam-powered spaceship explore the Earth's many unique environments and the animals inhabiting them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180704184000 +0000" stop="20180704185000 +0000">
     <title>Darwin &amp; Newts</title>
@@ -4723,6 +4770,9 @@
   <programme channel="tv.10" start="20180704195000 +0000" stop="20180704201500 +0000">
     <title>Zak Storm</title>
     <desc>Zak is a young surfer who gets sucked into the Seven Seas of the Bermuda Triangle, where he becomes a captain of a ship of outcasts. He tackles danger on land with his crew and his magical sword.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180704201500 +0000" stop="20180704203500 +0000">
     <title>Disney Junior: Puppy Pals</title>
@@ -9761,7 +9811,7 @@
   </programme>
   <programme channel="tv.38" start="20180702083000 +0000" stop="20180702090000 +0000">
     <title>Fair Go</title>
-    <desc>Join Pippa Wetzell, Hadyn Jones and the Fair Go team as they stand up for the underdogs and consumer rights!</desc>
+    <desc>Tonight, has PC gone mad? The `Bubble Wrap Brigade’ are smothering kids in safety with the backyard treehouse set to get the chop! Plus, D-I-Y beauty and the hidden hazards.</desc>
   </programme>
   <programme channel="tv.38" start="20180702090000 +0000" stop="20180702093000 +0000">
     <title>Highway Cops</title>
@@ -10062,6 +10112,9 @@
   <programme channel="tv.38" start="20180705020000 +0000" stop="20180705030000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Adam tries to recruit Todd. Bethany realises how much she needs Nathan. Ken’s high hopes for Daniel are dashed.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180705030000 +0000" stop="20180705040000 +0000">
     <title>Wimbledon Highlights</title>
@@ -10110,6 +10163,9 @@
   <programme channel="tv.38" start="20180705094000 +0000" stop="20180705104500 +0000">
     <title>George Clarke's Amazing Spaces</title>
     <desc>In Cornwall, George meets world-class surfer Peg Leg who wants to do a very unique extension to his VW campervan. In Pembrokeshire, an extra-terrestrial glamping pod with an Olympic connection.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180705104500 +0000" stop="20180705114500 +0000">
     <title>Coronation Street 2018</title>
@@ -10166,6 +10222,9 @@
   <programme channel="tv.38" start="20180706020000 +0000" stop="20180706030000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Bethany plays with fire. Nick and Peter are united in fear. It’s back to reality for Steve and Michelle.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180706030000 +0000" stop="20180706040000 +0000">
     <title>Wimbledon Highlights</title>
@@ -11005,6 +11064,9 @@
   <programme channel="tv.14" start="20180701193000 +0000" stop="20180701194000 +0000">
     <title>The Wot Wots</title>
     <desc>Two friendly aliens traveling in a steam-powered spaceship explore the Earth's many unique environments and the animals inhabiting them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180701194000 +0000" stop="20180701195000 +0000">
     <title>Darwin &amp; Newts</title>
@@ -11030,6 +11092,9 @@
   <programme channel="tv.14" start="20180701200000 +0000" stop="20180701202500 +0000">
     <title>Ranger Rob</title>
     <desc>Adventurous Ranger Rob's favourite thing to do is go outside to play, explore and discover. That's easy for him to do at Big Sky Park, the coolest outdoor adventure park around.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180701202500 +0000" stop="20180701205000 +0000">
     <title>Matt Hatter Chronicles</title>
@@ -11055,6 +11120,9 @@
   <programme channel="tv.14" start="20180701213500 +0000" stop="20180701220000 +0000">
     <title>Disney Junior: Goldie &amp; Bear</title>
     <desc>When Beanstalk Jack can’t play drums in Goldie and Bear’s band, Big Bad Wolf steps in. Then, Goldie uses Rosita’s Do Over spell to make everything perfect for her Gramma May’s visit.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180701220000 +0000" stop="20180701233000 +0000">
     <title>Infomercial</title>
@@ -11120,6 +11188,9 @@
   <programme channel="tv.14" start="20180702050000 +0000" stop="20180702053000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Maria and Pink the pig, your pawe-some photo could win a prize on Animal Lookalikes, and we show you how to make animal finger puppets!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180702053000 +0000" stop="20180702060000 +0000">
     <title>Friends</title>
@@ -11160,6 +11231,9 @@
     <title>Shortland Street</title>
     <desc>Curtis chases shadows. Vinnie wants to whisk Nicole away. Damo cooks up a blinder.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180702083000 +0000" stop="20180702093000 +0000">
     <title>Heartbreak Island</title>
@@ -11217,6 +11291,9 @@
     <title>Shortland Street</title>
     <desc>Curtis chases shadows. Vinnie wants to whisk Nicole away. Damo cooks up a blinder.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180702142500 +0000" stop="20180702152500 +0000">
     <title>Infomercial</title>
@@ -11411,6 +11488,9 @@
   <programme channel="tv.14" start="20180703050000 +0000" stop="20180703053000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Cameo the puppy at the SPCA, our Ask Me Anything vet Stacey is here to answer all your canine questions, and send us in your pet tricks to win a treat!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180703053000 +0000" stop="20180703060000 +0000">
     <title>Friends</title>
@@ -11557,10 +11637,16 @@
   <programme channel="tv.14" start="20180703193000 +0000" stop="20180703194000 +0000">
     <title>The Wot Wots</title>
     <desc>Two friendly aliens traveling in a steam-powered spaceship explore the Earth's many unique environments and the animals inhabiting them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180703194000 +0000" stop="20180703195000 +0000">
     <title>Darwin &amp; Newts</title>
     <desc>Darwin and Newts are a brother and sister duo who love adventures and figuring out how stuff works! Join them as they explore and discover new things with the help of science and some Kiwi ingenuity.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180703195000 +0000" stop="20180703195500 +0000">
     <title>Masha And The Bear</title>
@@ -11579,6 +11665,9 @@
   <programme channel="tv.14" start="20180703200000 +0000" stop="20180703202500 +0000">
     <title>Ranger Rob</title>
     <desc>Ranger Rob lives and works at Big Sky Park, the coolest adventure park around! Rob likes to explore and play with his best friends Dakota and Stomper.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180703202500 +0000" stop="20180703205000 +0000">
     <title>Matt Hatter Chronicles</title>
@@ -11831,6 +11920,9 @@
   <programme channel="tv.14" start="20180704193000 +0000" stop="20180704194000 +0000">
     <title>The Wot Wots</title>
     <desc>Two friendly aliens traveling in a steam-powered spaceship explore the Earth's many unique environments and the animals inhabiting them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180704194000 +0000" stop="20180704195000 +0000">
     <title>Darwin &amp; Newts</title>
@@ -11864,6 +11956,9 @@
   <programme channel="tv.14" start="20180704205000 +0000" stop="20180704211500 +0000">
     <title>Zak Storm</title>
     <desc>Zak is a young surfer who gets sucked into the Seven Seas of the Bermuda Triangle, where he becomes a captain of a ship of outcasts. He tackles danger on land with his crew and his magical sword.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180704211500 +0000" stop="20180704213500 +0000">
     <title>Disney Junior: Puppy Pals</title>
@@ -56735,11 +56830,11 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180701123300 +0000" stop="20180701143000 +0000">
-    <title>Criminal Confessions</title>
+  <programme channel="tv.101305020520" start="20180701123300 +0000" stop="20180701133100 +0000">
+    <title>Crimes That Shook the World</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>M</value>
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180701133100 +0000" stop="20180701142900 +0000">
@@ -72868,7 +72963,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630133000 +0000" stop="20180630135500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -72880,15 +72975,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630151500 +0000" stop="20180630152500 +0000">
@@ -72976,7 +73071,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -73018,9 +73113,9 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701013000 +0000" stop="20180701022500 +0000">
@@ -73330,9 +73425,9 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702020000 +0000" stop="20180702023000 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702023000 +0000" stop="20180702032500 +0000">
