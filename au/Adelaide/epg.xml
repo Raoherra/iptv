@@ -11111,17 +11111,17 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204500451" start="20180703140000 +0000" stop="20180703145000 +0000">
+    <title>20/20</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204500451" start="20180703140000 +0000" stop="20180703150000 +0000">
     <title>The Closer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204500451" start="20180703140000 +0000" stop="20180703145000 +0000">
-    <title>20/20</title>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204500451" start="20180703150000 +0000" stop="20180703153000 +0000">
@@ -11677,14 +11677,21 @@
     </rating>
   </programme>
   <programme channel="tv.101204500451" start="20180706200000 +0000" stop="20180706203000 +0000">
-    <title>Good Morning America</title>
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204500451" start="20180706200000 +0000" stop="20180706203000 +0000">
-    <title>A Current Affair</title>
+    <title>Good Morning America</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500451" start="20180706203000 +0000" stop="20180706213000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11694,13 +11701,6 @@
     <title>Ellen</title>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204500451" start="20180706203000 +0000" stop="20180706213000 +0000">
-    <title>Good Morning America</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204500451" start="20180706213000 +0000" stop="20180707003000 +0000">
@@ -32775,25 +32775,25 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630135500 +0000" stop="20180630142000 +0000">
+    <title>Ginormous Food</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180630135500 +0000" stop="20180630142000 +0000">
     <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180630135500 +0000" stop="20180630142000 +0000">
-    <title>Ginormous Food</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
-    <title>Ginormous Food</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
     <title>Surfing the Menu</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -32943,13 +32943,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701003000 +0000" stop="20180701010000 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701003000 +0000" stop="20180701010000 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -33116,16 +33116,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180701133000 +0000" stop="20180701135500 +0000">
-    <title>Ginormous Food</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000304" start="20180701133000 +0000" stop="20180701140000 +0000">
     <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180701133000 +0000" stop="20180701135500 +0000">
+    <title>Ginormous Food</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701135500 +0000" stop="20180701142000 +0000">
@@ -36931,11 +36931,6 @@
     <rating system="Freeview">
       <value>G</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180629162857 +0000" stop="20180629172107 +0000">
-    <title>Sébastien Loeb: Off Roads</title>
-    <desc>Sébastien Loeb and co-driver Daniel Elena made WRC history. In 2016 they took on a new challenge: Dakar.</desc>
-    <sub-title>The WRC's Best Take on the Dakar</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180629172107 +0000" stop="20180629180830 +0000">
     <title>The Smoke That Thunders</title>
