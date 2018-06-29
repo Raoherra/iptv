@@ -11119,15 +11119,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204000401" start="20180703173000 +0000" stop="20180703180000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204000401" start="20180703173000 +0000" stop="20180703190000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204000401" start="20180703173000 +0000" stop="20180703190000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204000401" start="20180703173000 +0000" stop="20180703180000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11614,21 +11614,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204000401" start="20180706193000 +0000" stop="20180706200000 +0000">
-    <title>A Current Affair</title>
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204000401" start="20180706193000 +0000" stop="20180706200000 +0000">
-    <title>Good Morning America</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204000401" start="20180706200000 +0000" stop="20180706210000 +0000">
-    <title>Good Morning America</title>
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11638,6 +11631,13 @@
     <title>Ellen</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204000401" start="20180706200000 +0000" stop="20180706210000 +0000">
+    <title>Good Morning America</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204000401" start="20180706210000 +0000" stop="20180707000000 +0000">
@@ -22485,13 +22485,13 @@
     </rating>
   </programme>
   <programme channel="tv.101305040543" start="20180706205800 +0000" stop="20180706220000 +0000">
+    <title>To Be Advised</title>
+  </programme>
+  <programme channel="tv.101305040543" start="20180706205800 +0000" stop="20180706220000 +0000">
     <title>Night Thunder</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
-  </programme>
-  <programme channel="tv.101305040543" start="20180706205800 +0000" stop="20180706220000 +0000">
-    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305040543" start="20180706220000 +0000" stop="20180706223000 +0000">
     <title>Home Shopping</title>
@@ -32732,19 +32732,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630133000 +0000" stop="20180630135500 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630133000 +0000" stop="20180630135500 +0000">
-    <title>Surfing the Menu</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180630135500 +0000" stop="20180630142000 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -32753,6 +32747,12 @@
     <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180630135500 +0000" stop="20180630142000 +0000">
+    <title>Surfing the Menu</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
@@ -32900,15 +32900,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701000000 +0000" stop="20180701003000 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701000000 +0000" stop="20180701003000 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701003000 +0000" stop="20180701010000 +0000">
@@ -32924,15 +32924,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
-    <title>Ginormous Food</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
     <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
+    <title>Ginormous Food</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701013000 +0000" stop="20180701022500 +0000">
@@ -33242,15 +33242,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
-    <title>Ginormous Food</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
     <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
+    <title>Ginormous Food</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702020000 +0000" stop="20180702023000 +0000">
@@ -36906,11 +36906,6 @@
     <rating system="Freeview">
       <value>G</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180629152930 +0000" stop="20180629162257 +0000">
-    <title>Archaic Festivals S1E3</title>
-    <desc>An ancient celebration that brings renewed spiritual protection to Shinto temples is also a way of life.</desc>
-    <sub-title>Onbashira</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180629162857 +0000" stop="20180629172107 +0000">
     <title>Sébastien Loeb: Off Roads</title>
