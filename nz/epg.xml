@@ -161,26 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180629055853 +0000" stop="20180629060748 +0000">
-    <title>Who is JOB S4E5</title>
-    <desc>Floodgates open on the Waimea River, so JOB makes his own waves and Poopies launches his snow ski career.</desc>
-    <sub-title>Dam Fun Times</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180629060748 +0000" stop="20180629061627 +0000">
-    <title>Who is JOB S4E4</title>
-    <desc>JOB gets Poopies on waterskis &amp; rollerblades, surfs Shark’s Cove, and brings snowboarding to the North Shore!.</desc>
-    <sub-title>Hawaii Snowboarding</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180629061627 +0000" stop="20180629062820 +0000">
-    <title>Who is JOB S4E3</title>
-    <desc>Poopies pioneers two sports: Shopping Cart Jumping and Big Wave Raft Surfing. But will they catch on?</desc>
-    <sub-title>Wave Rafting &amp; Cart Jumps</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180629062820 +0000" stop="20180629063802 +0000">
-    <title>Who is JOB S4E2</title>
-    <desc>JOB hosts the first annual Catch Surf Catch Cracks Keiki Contest, featuring some of the best big wave surfers.</desc>
-    <sub-title>The Catch Cracks Contest</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180629063802 +0000" stop="20180629074046 +0000">
     <title>Holy Stokes!</title>
     <desc>Join the Volcom team for a worldwide skate-fest as they shred their way around every corner of the globe. </desc>
@@ -5302,10 +5282,16 @@
   <programme channel="tv.11" start="20180629090000 +0000" stop="20180629094500 +0000">
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Eli Mathewson, Josh Thomson, Mel Bracewell and Bryce Casey.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180629094500 +0000" stop="20180629101500 +0000">
     <title>The Spinoff TV</title>
     <desc>New Episode. Hayden Donnell asks why Google isn't coughing up their share of tax and James Mustapic is back with another instalment of Repressed Memories. S1 Ep2</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180629101500 +0000" stop="20180629104500 +0000">
     <title>Newshub Late</title>
@@ -5588,7 +5574,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180701110000 +0000" stop="20180701120000 +0000">
+  <programme channel="tv.11" start="20180701110000 +0000" stop="20180701115500 +0000">
     <title>Chicago Med</title>
     <desc>Will fights to save his former teacher, who faces a life-threatening disease. S2 Ep18</desc>
     <audio>
@@ -5598,7 +5584,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180701120000 +0000" stop="20180701125000 +0000">
+  <programme channel="tv.11" start="20180701115500 +0000" stop="20180701125000 +0000">
     <title>Entertainment Tonight Weekend</title>
     <desc>A wrap up of the biggest entertainment stories of the last week.</desc>
     <rating system="Freeview">
@@ -5726,11 +5712,11 @@
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.11" start="20180702110000 +0000" stop="20180702113500 +0000">
+  <programme channel="tv.11" start="20180702110000 +0000" stop="20180702113000 +0000">
     <title>The Hui</title>
     <desc>Mihingarangi Forbes presents a compelling mix of current affairs investigations, human interest and arts and culture stories.</desc>
   </programme>
-  <programme channel="tv.11" start="20180702113500 +0000" stop="20180702123500 +0000">
+  <programme channel="tv.11" start="20180702113000 +0000" stop="20180702123500 +0000">
     <title>Newshub Nation</title>
     <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
   </programme>
@@ -5857,6 +5843,9 @@
   <programme channel="tv.11" start="20180703093000 +0000" stop="20180703102500 +0000">
     <title>All New SVU: Special Victims Unit</title>
     <desc>New Episode. An Alzheimer's patient claims she was raped, but her illness casts doubt on the case. Fin's sergeant orders come in. S19 Ep22</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -6720,6 +6709,9 @@
   <programme channel="tv.12" start="20180701073000 +0000" stop="20180701083000 +0000">
     <title>Catfish</title>
     <desc>Nev and Max receive emails from opposite sides of the same online romance, each concerned that the other may be a catfish!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180701083000 +0000" stop="20180701105300 +0000">
     <title>Fatal Attraction</title>
@@ -7000,10 +6992,16 @@
   <programme channel="tv.12" start="20180703083000 +0000" stop="20180703093000 +0000">
     <title>Body Fixers</title>
     <desc>Beatrice gets help after a home relaxing treatment melted her hair. Henry's infected lips need an urgent cosmetic procedure after his fillers went wrong. Pale gym bunny Rob wants a full-body bronzing.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180703093000 +0000" stop="20180703103300 +0000">
     <title>The Real Housewives Of New York City</title>
     <desc>Tinsley tries on wedding dresses with her mother, Dale. While Luann is ending her stint in rehab, the women tough it out during a prison style workout.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180703103300 +0000" stop="20180703103500 +0000">
     <title>The Dish</title>
@@ -7015,6 +7013,9 @@
   <programme channel="tv.12" start="20180703103500 +0000" stop="20180703113000 +0000">
     <title>Snapped</title>
     <desc>Teen bride Ashley Humphrey gave her new husband exactly what he wanted as a wedding gift, she shot and killed a former love interest who had charged him with assault.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180703113000 +0000" stop="20180703122000 +0000">
     <title>The Disappearance Of Natalee Holloway</title>
@@ -7094,6 +7095,9 @@
   <programme channel="tv.12" start="20180704023000 +0000" stop="20180704033000 +0000">
     <title>Body Fixers</title>
     <desc>Beatrice gets help after a home relaxing treatment melted her hair. Henry's infected lips need an urgent cosmetic procedure after his fillers went wrong. Pale gym bunny Rob wants a full-body bronzing.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180704033000 +0000" stop="20180704043000 +0000">
     <title>Dance Moms</title>
@@ -7389,6 +7393,9 @@
   <programme channel="tv.12" start="20180706073000 +0000" stop="20180706083000 +0000">
     <title>Catfish</title>
     <desc>Nev and Max receive emails from opposite sides of the same online romance, each concerned that the other may be a catfish!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180706083000 +0000" stop="20180706104300 +0000">
     <title>Into The Blue</title>
@@ -13743,6 +13750,9 @@
   <programme channel="tv.30" start="20180701083000 +0000" stop="20180701093000 +0000">
     <title>Catfish</title>
     <desc>Nev and Max receive emails from opposite sides of the same online romance, each concerned that the other may be a catfish!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180701093000 +0000" stop="20180701115300 +0000">
     <title>Fatal Attraction</title>
@@ -14023,10 +14033,16 @@
   <programme channel="tv.30" start="20180703093000 +0000" stop="20180703103000 +0000">
     <title>Body Fixers</title>
     <desc>Beatrice gets help after a home relaxing treatment melted her hair. Henry's infected lips need an urgent cosmetic procedure after his fillers went wrong. Pale gym bunny Rob wants a full-body bronzing.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180703103000 +0000" stop="20180703113300 +0000">
     <title>The Real Housewives Of New York City</title>
     <desc>Tinsley tries on wedding dresses with her mother, Dale. While Luann is ending her stint in rehab, the women tough it out during a prison style workout.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180703113300 +0000" stop="20180703113500 +0000">
     <title>The Dish</title>
@@ -14038,6 +14054,9 @@
   <programme channel="tv.30" start="20180703113500 +0000" stop="20180703123000 +0000">
     <title>Snapped</title>
     <desc>Teen bride Ashley Humphrey gave her new husband exactly what he wanted as a wedding gift, she shot and killed a former love interest who had charged him with assault.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180703123000 +0000" stop="20180703132000 +0000">
     <title>The Disappearance Of Natalee Holloway</title>
@@ -14117,6 +14136,9 @@
   <programme channel="tv.30" start="20180704033000 +0000" stop="20180704043000 +0000">
     <title>Body Fixers</title>
     <desc>Beatrice gets help after a home relaxing treatment melted her hair. Henry's infected lips need an urgent cosmetic procedure after his fillers went wrong. Pale gym bunny Rob wants a full-body bronzing.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180704043000 +0000" stop="20180704053000 +0000">
     <title>Dance Moms</title>
@@ -14412,6 +14434,9 @@
   <programme channel="tv.30" start="20180706083000 +0000" stop="20180706093000 +0000">
     <title>Catfish</title>
     <desc>Nev and Max receive emails from opposite sides of the same online romance, each concerned that the other may be a catfish!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180706093000 +0000" stop="20180706114300 +0000">
     <title>Into The Blue</title>
@@ -24190,8 +24215,8 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180701210000 +0000" stop="20180701220000 +0000">
-    <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today, get your best air guitar ready to Rock!</desc>
+    <title>Chill</title>
+    <desc>Top 10 songs with a daily changing theme. Todays theme.. Chill</desc>
   </programme>
   <programme channel="tv.51" start="20180701220000 +0000" stop="20180702000000 +0000">
     <title>All The Hits</title>
