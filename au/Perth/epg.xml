@@ -9555,17 +9555,17 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20180703152000 +0000" stop="20180703161000 +0000">
-    <title>20/20</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204600461" start="20180703152000 +0000" stop="20180703162000 +0000">
     <title>The Closer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600461" start="20180703152000 +0000" stop="20180703161000 +0000">
+    <title>20/20</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180703162000 +0000" stop="20180703165000 +0000">
@@ -10128,21 +10128,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180706213000 +0000" stop="20180706220000 +0000">
-    <title>A Current Affair</title>
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180706213000 +0000" stop="20180706220000 +0000">
-    <title>Good Morning America</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600461" start="20180706220000 +0000" stop="20180706230000 +0000">
-    <title>Good Morning America</title>
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -10152,6 +10145,13 @@
     <title>Ellen</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600461" start="20180706220000 +0000" stop="20180706230000 +0000">
+    <title>Good Morning America</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180706230000 +0000" stop="20180707020000 +0000">
@@ -14520,14 +14520,14 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600468" start="20180705133000 +0000" stop="20180705150000 +0000">
-    <title>Love Island</title>
-  </programme>
   <programme channel="tv.101204600468" start="20180705133000 +0000" stop="20180705143000 +0000">
     <title>Love Island</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
+  </programme>
+  <programme channel="tv.101204600468" start="20180705133000 +0000" stop="20180705150000 +0000">
+    <title>Love Island</title>
   </programme>
   <programme channel="tv.101204600468" start="20180705143000 +0000" stop="20180705153000 +0000">
     <title>Love Island</title>
@@ -21013,22 +21013,22 @@
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180706220000 +0000" stop="20180706225800 +0000">
-    <title>To Be Advised</title>
+    <title>Night Thunder</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180706220000 +0000" stop="20180706225800 +0000">
-    <title>Night Thunder</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305060563" start="20180706225800 +0000" stop="20180707000000 +0000">
-    <title>Night Thunder</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
+    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305060563" start="20180706225800 +0000" stop="20180707000000 +0000">
     <title>To Be Advised</title>
+  </programme>
+  <programme channel="tv.101305060563" start="20180706225800 +0000" stop="20180707000000 +0000">
+    <title>Night Thunder</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180707000000 +0000" stop="20180707003000 +0000">
     <title>Home Shopping</title>
@@ -32425,13 +32425,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -32473,13 +32473,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701003000 +0000" stop="20180701010000 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701003000 +0000" stop="20180701010000 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -36737,11 +36737,6 @@
     <rating system="Freeview">
       <value>G</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180630152050 +0000" stop="20180630162819 +0000">
-    <title>Ride: United</title>
-    <desc>The biggest names in every discipline celebrate the community and camaraderie of the competitive moto world.</desc>
-    <sub-title>A World of Competitive Moto Riding</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180630162819 +0000" stop="20180630174106 +0000">
     <title>Northern Disco Lights</title>

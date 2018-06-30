@@ -189,14 +189,14 @@
         "network": "ABC",
         "stream_type": "Token",
         "video": {
-            "height": 360,
+            "codec": "h264",
             "width": 640,
-            "codec": "h264"
+            "height": 360
         },
         "audio": {
+            "codec": "aac",
             "sample_rate": 44100,
-            "channels": 2,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002210222/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002210222.m3u8",
