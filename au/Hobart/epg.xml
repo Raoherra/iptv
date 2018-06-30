@@ -10928,15 +10928,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180702173000 +0000" stop="20180702190000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204300430" start="20180702173000 +0000" stop="20180702180000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180702173000 +0000" stop="20180702180000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204300430" start="20180702173000 +0000" stop="20180702190000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11038,17 +11038,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180703133000 +0000" stop="20180703142000 +0000">
-    <title>20/20</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204300430" start="20180703133000 +0000" stop="20180703143000 +0000">
     <title>The Closer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300430" start="20180703133000 +0000" stop="20180703142000 +0000">
+    <title>20/20</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204300430" start="20180703143000 +0000" stop="20180703150000 +0000">
@@ -11082,15 +11082,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180703173000 +0000" stop="20180703180000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204300430" start="20180703173000 +0000" stop="20180703190000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180703173000 +0000" stop="20180703190000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204300430" start="20180703173000 +0000" stop="20180703180000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11618,16 +11618,16 @@
     </rating>
   </programme>
   <programme channel="tv.101204300430" start="20180706200000 +0000" stop="20180706210000 +0000">
-    <title>Ellen</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300430" start="20180706200000 +0000" stop="20180706210000 +0000">
     <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300430" start="20180706200000 +0000" stop="20180706210000 +0000">
+    <title>Ellen</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204300430" start="20180706210000 +0000" stop="20180707000000 +0000">
@@ -18882,18 +18882,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180701123300 +0000" stop="20180701143000 +0000">
-    <title>Criminal Confessions</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305030530" start="20180701123300 +0000" stop="20180701133400 +0000">
     <title>Crimes That Shook the World</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030530" start="20180701123300 +0000" stop="20180701143000 +0000">
+    <title>Criminal Confessions</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305030530" start="20180701133400 +0000" stop="20180701143500 +0000">
@@ -32327,19 +32327,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630135500 +0000" stop="20180630142000 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630135500 +0000" stop="20180630142000 +0000">
-    <title>Surfing the Menu</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -32350,16 +32344,22 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
-    <title>Ginormous Food</title>
+  <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
     <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
+    <title>Ginormous Food</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630151500 +0000" stop="20180630152500 +0000">
@@ -32447,13 +32447,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -32507,15 +32507,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
-    <title>Surfing the Menu</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
     <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
+    <title>Surfing the Menu</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701013000 +0000" stop="20180701022500 +0000">
@@ -32668,16 +32668,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180701133000 +0000" stop="20180701135500 +0000">
-    <title>Ginormous Food</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000304" start="20180701133000 +0000" stop="20180701140000 +0000">
     <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180701133000 +0000" stop="20180701135500 +0000">
+    <title>Ginormous Food</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701135500 +0000" stop="20180701142000 +0000">
@@ -32825,15 +32825,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
-    <title>Surfing the Menu</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
     <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
+    <title>Surfing the Menu</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702020000 +0000" stop="20180702023000 +0000">
@@ -36771,31 +36771,6 @@
     <rating system="Freeview">
       <value>G</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180630174106 +0000" stop="20180630182018 +0000">
-    <title>Volcom True To This</title>
-    <desc>Volcom blends the cosmic creativity of surf, skate, and snowboarding in this stoke-filled masterpiece.</desc>
-    <sub-title>They're Not New To This</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180630182018 +0000" stop="20180630183034 +0000">
-    <title>Who is JOB S4E6</title>
-    <desc>Jaime and Poopies tandem surf, drop drainage ditches, and battle a blob in Waimea.</desc>
-    <sub-title>Tandem Barrels &amp; Babes</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180630183034 +0000" stop="20180630184029 +0000">
-    <title>Who is JOB S4E5</title>
-    <desc>Floodgates open on the Waimea River, so JOB makes his own waves and Poopies launches his snow ski career.</desc>
-    <sub-title>Dam Fun Times</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180630184029 +0000" stop="20180630184909 +0000">
-    <title>Who is JOB S4E4</title>
-    <desc>JOB gets Poopies on waterskis &amp; rollerblades, surfs Shark’s Cove, and brings snowboarding to the North Shore!.</desc>
-    <sub-title>Hawaii Snowboarding</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180630184909 +0000" stop="20180630190101 +0000">
-    <title>Who is JOB S4E3</title>
-    <desc>Poopies pioneers two sports: Shopping Cart Jumping and Big Wave Raft Surfing. But will they catch on?</desc>
-    <sub-title>Wave Rafting &amp; Cart Jumps</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180630190101 +0000" stop="20180630191044 +0000">
     <title>Who is JOB S4E2</title>
