@@ -9580,15 +9580,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20180702193000 +0000" stop="20180702210000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204600461" start="20180702193000 +0000" stop="20180702200000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20180702193000 +0000" stop="20180702200000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204600461" start="20180702193000 +0000" stop="20180702210000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -9919,15 +9919,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20180704193000 +0000" stop="20180704200000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204600461" start="20180704193000 +0000" stop="20180704210000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20180704193000 +0000" stop="20180704210000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204600461" start="20180704193000 +0000" stop="20180704200000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -10263,14 +10263,21 @@
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180706213000 +0000" stop="20180706220000 +0000">
-    <title>Good Morning America</title>
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180706213000 +0000" stop="20180706220000 +0000">
-    <title>A Current Affair</title>
+    <title>Good Morning America</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600461" start="20180706220000 +0000" stop="20180706230000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -10280,13 +10287,6 @@
     <title>Ellen</title>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600461" start="20180706220000 +0000" stop="20180706230000 +0000">
-    <title>Good Morning America</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180706230000 +0000" stop="20180707020000 +0000">
@@ -14682,14 +14682,14 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.101204600468" start="20180705133000 +0000" stop="20180705150000 +0000">
+    <title>Love Island</title>
+  </programme>
   <programme channel="tv.101204600468" start="20180705133000 +0000" stop="20180705143000 +0000">
     <title>Love Island</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
-  </programme>
-  <programme channel="tv.101204600468" start="20180705133000 +0000" stop="20180705150000 +0000">
-    <title>Love Island</title>
   </programme>
   <programme channel="tv.101204600468" start="20180705143000 +0000" stop="20180705153000 +0000">
     <title>Love Island</title>
@@ -21168,22 +21168,22 @@
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180706220000 +0000" stop="20180706225800 +0000">
-    <title>Night Thunder</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
+    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305060563" start="20180706220000 +0000" stop="20180706225800 +0000">
-    <title>To Be Advised</title>
-  </programme>
-  <programme channel="tv.101305060563" start="20180706225800 +0000" stop="20180707000000 +0000">
-    <title>To Be Advised</title>
+    <title>Night Thunder</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180706225800 +0000" stop="20180707000000 +0000">
     <title>Night Thunder</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
+  </programme>
+  <programme channel="tv.101305060563" start="20180706225800 +0000" stop="20180707000000 +0000">
+    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305060563" start="20180707000000 +0000" stop="20180707003000 +0000">
     <title>Home Shopping</title>
@@ -32867,15 +32867,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
-    <title>Surfing the Menu</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
     <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
+    <title>Surfing the Menu</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630151500 +0000" stop="20180630152500 +0000">
@@ -33023,15 +33023,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
-    <title>Surfing the Menu</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
     <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
+    <title>Surfing the Menu</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701013000 +0000" stop="20180701022500 +0000">
@@ -37041,16 +37041,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180630075941 +0000" stop="20180630082711 +0000">
-    <title>A History of... S1E1</title>
-    <desc>In 18th century Hawaii, a king and his warriors dived off a cliff – it was the origins of modern cliff diving.</desc>
-    <sub-title>The Sacred Leap</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180630082711 +0000" stop="20180630085535 +0000">
-    <title>On Top Again</title>
-    <desc>A prolific champion is determined to return stronger than ever after suffering a career-threatening injury.</desc>
-    <sub-title>The Comeback of Orlando Duque</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180630085535 +0000" stop="20180630094424 +0000">
     <title>Builder</title>
