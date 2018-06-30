@@ -10985,17 +10985,17 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200421" start="20180703133000 +0000" stop="20180703142000 +0000">
+    <title>20/20</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200421" start="20180703133000 +0000" stop="20180703143000 +0000">
     <title>The Closer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200421" start="20180703133000 +0000" stop="20180703142000 +0000">
-    <title>20/20</title>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180703143000 +0000" stop="20180703150000 +0000">
@@ -11193,15 +11193,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180704173000 +0000" stop="20180704180000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204200421" start="20180704173000 +0000" stop="20180704190000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180704173000 +0000" stop="20180704190000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204200421" start="20180704173000 +0000" stop="20180704180000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11524,21 +11524,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180706193000 +0000" stop="20180706200000 +0000">
-    <title>A Current Affair</title>
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180706193000 +0000" stop="20180706200000 +0000">
-    <title>Good Morning America</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200421" start="20180706200000 +0000" stop="20180706210000 +0000">
-    <title>Good Morning America</title>
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11548,6 +11541,13 @@
     <title>Ellen</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200421" start="20180706200000 +0000" stop="20180706210000 +0000">
+    <title>Good Morning America</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180706210000 +0000" stop="20180707000000 +0000">
@@ -15835,14 +15835,14 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20180705113000 +0000" stop="20180705130000 +0000">
-    <title>Love Island</title>
-  </programme>
   <programme channel="tv.101204200428" start="20180705113000 +0000" stop="20180705123000 +0000">
     <title>Love Island</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20180705113000 +0000" stop="20180705130000 +0000">
+    <title>Love Island</title>
   </programme>
   <programme channel="tv.101204200428" start="20180705123000 +0000" stop="20180705133000 +0000">
     <title>Love Island</title>
@@ -22314,13 +22314,13 @@
     </rating>
   </programme>
   <programme channel="tv.101305050553" start="20180706212800 +0000" stop="20180706223000 +0000">
+    <title>To Be Advised</title>
+  </programme>
+  <programme channel="tv.101305050553" start="20180706212800 +0000" stop="20180706223000 +0000">
     <title>Night Thunder</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
-  </programme>
-  <programme channel="tv.101305050553" start="20180706212800 +0000" stop="20180706223000 +0000">
-    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305050553" start="20180706223000 +0000" stop="20180706230000 +0000">
     <title>Home Shopping</title>
@@ -32673,15 +32673,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
-    <title>Surfing the Menu</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
     <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
+    <title>Surfing the Menu</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702020000 +0000" stop="20180702023000 +0000">
@@ -36613,16 +36613,6 @@
     <rating system="Freeview">
       <value>G</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180630121550 +0000" stop="20180630130730 +0000">
-    <title>Sébastien Loeb: Off Roads</title>
-    <desc>Sébastien Loeb and co-driver Daniel Elena made WRC history. In 2016 they took on a new challenge: Dakar.</desc>
-    <sub-title>The WRC's Best Take on the Dakar</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180630130730 +0000" stop="20180630135451 +0000">
-    <title>The Smoke That Thunders</title>
-    <desc>Two world-class cliff divers face the most challenging dive of their lives: the world’s largest waterfall.</desc>
-    <sub-title>Staring Down the World’s Largest Waterfall</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180630135451 +0000" stop="20180630140951 +0000">
     <title>Iron to the Core</title>
