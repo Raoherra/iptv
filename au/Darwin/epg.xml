@@ -11088,17 +11088,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180703133000 +0000" stop="20180703142000 +0000">
-    <title>20/20</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200421" start="20180703133000 +0000" stop="20180703143000 +0000">
     <title>The Closer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200421" start="20180703133000 +0000" stop="20180703142000 +0000">
+    <title>20/20</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180703143000 +0000" stop="20180703150000 +0000">
@@ -11132,15 +11132,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180703173000 +0000" stop="20180703180000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204200421" start="20180703173000 +0000" stop="20180703190000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180703173000 +0000" stop="20180703190000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204200421" start="20180703173000 +0000" stop="20180703180000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11627,14 +11627,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180706193000 +0000" stop="20180706200000 +0000">
-    <title>A Current Affair</title>
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180706193000 +0000" stop="20180706200000 +0000">
-    <title>Good Morning America</title>
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -22492,22 +22492,22 @@
     </rating>
   </programme>
   <programme channel="tv.101305050553" start="20180706203000 +0000" stop="20180706212800 +0000">
-    <title>To Be Advised</title>
+    <title>Night Thunder</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
   </programme>
   <programme channel="tv.101305050553" start="20180706203000 +0000" stop="20180706212800 +0000">
-    <title>Night Thunder</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305050553" start="20180706212800 +0000" stop="20180706223000 +0000">
-    <title>Night Thunder</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
+    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305050553" start="20180706212800 +0000" stop="20180706223000 +0000">
     <title>To Be Advised</title>
+  </programme>
+  <programme channel="tv.101305050553" start="20180706212800 +0000" stop="20180706223000 +0000">
+    <title>Night Thunder</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
   </programme>
   <programme channel="tv.101305050553" start="20180706223000 +0000" stop="20180706230000 +0000">
     <title>Home Shopping</title>
@@ -32729,13 +32729,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630133000 +0000" stop="20180630135500 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630133000 +0000" stop="20180630135500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -32765,15 +32765,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
-    <title>Ginormous Food</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
     <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
+    <title>Ginormous Food</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630151500 +0000" stop="20180630152500 +0000">
@@ -36909,21 +36909,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180630085535 +0000" stop="20180630094424 +0000">
-    <title>Builder</title>
-    <desc>Explore the craft of trail building through the eyes of some of MTB's best riders and most respected builders.</desc>
-    <sub-title>The Art and Science of Trail Building</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180630094424 +0000" stop="20180630095233 +0000">
-    <title>Martin Söderström Ride to Recovery Part I</title>
-    <desc>The story of Martin Söderström's career-threatening injury and his fight to get back on top of his game.</desc>
-    <sub-title>The Fall </sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180630095233 +0000" stop="20180630095851 +0000">
-    <title>Martin Söderström Ride to Recovery Part II</title>
-    <desc>Martin Söderström has gotten himself physically ready to compete again, but that's only half the battle.</desc>
-    <sub-title>The Rise</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180630095851 +0000" stop="20180630100749 +0000">
     <title>Life Behind Bars S3E7</title>
