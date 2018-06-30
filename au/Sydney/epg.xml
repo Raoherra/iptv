@@ -11011,17 +11011,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180703133000 +0000" stop="20180703142000 +0000">
-    <title>20/20</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200421" start="20180703133000 +0000" stop="20180703143000 +0000">
     <title>The Closer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200421" start="20180703133000 +0000" stop="20180703142000 +0000">
+    <title>20/20</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180703143000 +0000" stop="20180703150000 +0000">
@@ -11055,15 +11055,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180703173000 +0000" stop="20180703190000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204200421" start="20180703173000 +0000" stop="20180703180000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180703173000 +0000" stop="20180703180000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204200421" start="20180703173000 +0000" stop="20180703190000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11550,21 +11550,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180706193000 +0000" stop="20180706200000 +0000">
-    <title>A Current Affair</title>
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180706193000 +0000" stop="20180706200000 +0000">
-    <title>Good Morning America</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200421" start="20180706200000 +0000" stop="20180706210000 +0000">
-    <title>Good Morning America</title>
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11574,6 +11567,13 @@
     <title>Ellen</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200421" start="20180706200000 +0000" stop="20180706210000 +0000">
+    <title>Good Morning America</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180706210000 +0000" stop="20180707000000 +0000">
@@ -20265,13 +20265,13 @@
     <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305020523" start="20180706205800 +0000" stop="20180706220000 +0000">
-    <title>To Be Advised</title>
-  </programme>
-  <programme channel="tv.101305020523" start="20180706205800 +0000" stop="20180706220000 +0000">
     <title>Night Thunder</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
+  </programme>
+  <programme channel="tv.101305020523" start="20180706205800 +0000" stop="20180706220000 +0000">
+    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305020523" start="20180706220000 +0000" stop="20180706223000 +0000">
     <title>Home Shopping</title>
@@ -32350,15 +32350,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701000000 +0000" stop="20180701003000 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701000000 +0000" stop="20180701003000 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701003000 +0000" stop="20180701010000 +0000">
@@ -32368,6 +32368,12 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701003000 +0000" stop="20180701010000 +0000">
+    <title>Surfing the Menu</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
     <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
@@ -32377,12 +32383,6 @@
     <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
-    <title>Surfing the Menu</title>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701013000 +0000" stop="20180701022500 +0000">
@@ -32692,15 +32692,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
-    <title>Surfing the Menu</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
     <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
+    <title>Surfing the Menu</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702020000 +0000" stop="20180702023000 +0000">
@@ -36638,16 +36638,6 @@
     <rating system="Freeview">
       <value>G</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180630114016 +0000" stop="20180630120945 +0000">
-    <title>Your Street My Stage S1E3</title>
-    <desc>Many street performers make the pilgrimage to New York with nothing but dreams and the shirts on their backs.</desc>
-    <sub-title>New York</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180630120945 +0000" stop="20180630121550 +0000">
-    <title>Cody Webb and Taylor Robert</title>
-    <desc>Two MX riders tear up California's Donner Ski Ranch in a stunning display of backcountry trials riding.</desc>
-    <sub-title>Donner Partying</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180630121550 +0000" stop="20180630130730 +0000">
     <title>Sébastien Loeb: Off Roads</title>
