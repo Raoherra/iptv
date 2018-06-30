@@ -11694,16 +11694,16 @@
     </rating>
   </programme>
   <programme channel="tv.101204300430" start="20180706200000 +0000" stop="20180706210000 +0000">
-    <title>Ellen</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300430" start="20180706200000 +0000" stop="20180706210000 +0000">
     <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300430" start="20180706200000 +0000" stop="20180706210000 +0000">
+    <title>Ellen</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204300430" start="20180706210000 +0000" stop="20180707000000 +0000">
@@ -18922,18 +18922,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180701123300 +0000" stop="20180701143000 +0000">
-    <title>Criminal Confessions</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305030530" start="20180701123300 +0000" stop="20180701133400 +0000">
     <title>Crimes That Shook the World</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030530" start="20180701123300 +0000" stop="20180701143000 +0000">
+    <title>Criminal Confessions</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305030530" start="20180701133400 +0000" stop="20180701143500 +0000">
@@ -22513,22 +22513,22 @@
     </rating>
   </programme>
   <programme channel="tv.101305030533" start="20180706200000 +0000" stop="20180706205800 +0000">
-    <title>To Be Advised</title>
+    <title>Night Thunder</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
   </programme>
   <programme channel="tv.101305030533" start="20180706200000 +0000" stop="20180706205800 +0000">
-    <title>Night Thunder</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305030533" start="20180706205800 +0000" stop="20180706220000 +0000">
-    <title>Night Thunder</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
+    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305030533" start="20180706205800 +0000" stop="20180706220000 +0000">
     <title>To Be Advised</title>
+  </programme>
+  <programme channel="tv.101305030533" start="20180706205800 +0000" stop="20180706220000 +0000">
+    <title>Night Thunder</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
   </programme>
   <programme channel="tv.101305030533" start="20180706220000 +0000" stop="20180706223000 +0000">
     <title>Home Shopping</title>
@@ -32810,13 +32810,19 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -32825,12 +32831,6 @@
     <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
-    <title>Surfing the Menu</title>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630151500 +0000" stop="20180630152500 +0000">
@@ -32918,13 +32918,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -32954,30 +32954,24 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701000000 +0000" stop="20180701003000 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701000000 +0000" stop="20180701003000 +0000">
-    <title>Ginormous Food</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180701003000 +0000" stop="20180701010000 +0000">
-    <title>Ginormous Food</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180701003000 +0000" stop="20180701010000 +0000">
     <title>Surfing the Menu</title>
     <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180701003000 +0000" stop="20180701010000 +0000">
+    <title>Ginormous Food</title>
+    <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
+  <programme channel="tv.320203000304" start="20180701003000 +0000" stop="20180701010000 +0000">
     <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
@@ -32987,6 +32981,12 @@
     <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
+    <title>Surfing the Menu</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701013000 +0000" stop="20180701022500 +0000">
@@ -36966,11 +36966,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180629225854 +0000" stop="20180629235803 +0000">
-    <title>Prime</title>
-    <desc>Filmed in stunning locations around the world, elite wakeboarders take their sport to the next level.</desc>
-    <sub-title>Wakeboarding Progression</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180629235803 +0000" stop="20180630001956 +0000">
     <title>Reel Rock S1E5</title>
