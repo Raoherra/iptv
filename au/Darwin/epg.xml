@@ -1622,6 +1622,20 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180709140000 +0000" stop="20180709143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180709143000 +0000" stop="20180709150000 +0000">
+    <title>7.30</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180701142300 +0000" stop="20180701144700 +0000">
     <title>This Country</title>
     <subtitles type="teletext"/>
@@ -6110,6 +6124,19 @@
   <programme channel="tv.101002210222" start="20180709133000 +0000" stop="20180709140100 +0000">
     <title>The League of Gentlemen</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180709140100 +0000" stop="20180709142300 +0000">
+    <title>Archer</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180709142300 +0000" stop="20180709144500 +0000">
+    <title>The Office</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -11082,15 +11109,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180704173000 +0000" stop="20180704190000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204200421" start="20180704173000 +0000" stop="20180704180000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180704173000 +0000" stop="20180704180000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204200421" start="20180704173000 +0000" stop="20180704190000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11428,16 +11455,16 @@
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180706200000 +0000" stop="20180706210000 +0000">
-    <title>Ellen</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200421" start="20180706200000 +0000" stop="20180706210000 +0000">
     <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200421" start="20180706200000 +0000" stop="20180706210000 +0000">
+    <title>Ellen</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180706210000 +0000" stop="20180707000000 +0000">
@@ -11811,6 +11838,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200421" start="20180709142500 +0000" stop="20180709152500 +0000">
+    <title>Rizzoli &amp; Isles</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180701140000 +0000" stop="20180701150000 +0000">
@@ -13318,6 +13352,18 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200424" start="20180709140000 +0000" stop="20180709143000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200424" start="20180709143000 +0000" stop="20180709150000 +0000">
+    <title>House Hunters</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200427" start="20180701140700 +0000" stop="20180701150500 +0000">
     <title>Trauma Investigators</title>
     <rating system="Freeview">
@@ -14631,6 +14677,13 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200427" start="20180709140000 +0000" stop="20180709150000 +0000">
+    <title>Footy Classified</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200428" start="20180701142700 +0000" stop="20180701143800 +0000">
     <title>Mike Tyson Mysteries</title>
     <rating system="Freeview">
@@ -15687,14 +15740,14 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200428" start="20180705113000 +0000" stop="20180705130000 +0000">
+    <title>Love Island</title>
+  </programme>
   <programme channel="tv.101204200428" start="20180705113000 +0000" stop="20180705123000 +0000">
     <title>Love Island</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
-  </programme>
-  <programme channel="tv.101204200428" start="20180705113000 +0000" stop="20180705130000 +0000">
-    <title>Love Island</title>
   </programme>
   <programme channel="tv.101204200428" start="20180705123000 +0000" stop="20180705133000 +0000">
     <title>Love Island</title>
@@ -16622,6 +16675,19 @@
   </programme>
   <programme channel="tv.101204200428" start="20180709134000 +0000" stop="20180709140500 +0000">
     <title>The Big Bang Theory</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20180709140500 +0000" stop="20180709143000 +0000">
+    <title>Balls of Steel Australia</title>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20180709143000 +0000" stop="20180709150000 +0000">
+    <title>Friends</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -18770,6 +18836,20 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180709133000 +0000" stop="20180709140000 +0000">
+    <title>Raceday Review - Sha Tin</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180709140000 +0000" stop="20180709143000 +0000">
+    <title>Raceday Review - Mildura</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180709143000 +0000" stop="20180709150000 +0000">
     <title>Raceday Review - Sha Tin</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -21370,6 +21450,12 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101305050552" start="20180709143000 +0000" stop="20180709152800 +0000">
+    <title>Escape to the Country</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305050553" start="20180701140200 +0000" stop="20180701143000 +0000">
     <title>Family Guy</title>
     <rating system="Freeview">
@@ -22318,13 +22404,13 @@
     </rating>
   </programme>
   <programme channel="tv.101305050553" start="20180706203000 +0000" stop="20180706212800 +0000">
-    <title>To Be Advised</title>
-  </programme>
-  <programme channel="tv.101305050553" start="20180706203000 +0000" stop="20180706212800 +0000">
     <title>Night Thunder</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
+  </programme>
+  <programme channel="tv.101305050553" start="20180706203000 +0000" stop="20180706212800 +0000">
+    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305050553" start="20180706212800 +0000" stop="20180706223000 +0000">
     <title>To Be Advised</title>
@@ -27390,6 +27476,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406050655" start="20180709143000 +0000" stop="20180709153000 +0000">
+    <title>The Late Show With Stephen Colbert</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180701141100 +0000" stop="20180701143900 +0000">
@@ -32480,6 +32573,18 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000302" start="20180709140000 +0000" stop="20180709142500 +0000">
+    <title>The Untitled Action Bronson Show</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180709142500 +0000" stop="20180709145000 +0000">
+    <title>The Untitled Action Bronson Show</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000304" start="20180701140000 +0000" stop="20180701143000 +0000">
     <title>Surfing the Menu</title>
     <rating system="Freeview">
@@ -34814,6 +34919,18 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180709142500 +0000" stop="20180709143000 +0000">
+    <title>Peter Kuruvita's Mexican Fiesta Bitesize</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180709143000 +0000" stop="20180709150000 +0000">
+    <title>Food: Fact or Fiction?</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180701140000 +0000" stop="20180701150000 +0000">
     <title>Volumz</title>
     <rating system="Freeview">
@@ -36914,15 +37031,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180701204817 +0000" stop="20180701213540 +0000">
-    <title>The Smoke That Thunders</title>
-    <desc>Two world-class cliff divers face the most challenging dive of their lives: the world’s largest waterfall.</desc>
-    <sub-title>Staring Down the World’s Largest Waterfall</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180701213540 +0000" stop="20180701215020 +0000">
-    <title>Iron to the Core</title>
-    <desc>Long-distance triathlete Sebastian Kienle gives an inside look at what it takes to be an IRONMAN athlete.</desc>
-    <sub-title>The Sebastian Kienle Story</sub-title>
+  <programme channel="tv.320203000305" start="20180709140000 +0000" stop="20180709150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.redbull.tv" start="20180701215020 +0000" stop="20180701224229 +0000">
     <title>The Art of Street Fighting</title>
