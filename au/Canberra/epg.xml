@@ -11570,16 +11570,16 @@
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180706200000 +0000" stop="20180706210000 +0000">
+    <title>Ellen</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200421" start="20180706200000 +0000" stop="20180706210000 +0000">
     <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200421" start="20180706200000 +0000" stop="20180706210000 +0000">
-    <title>Ellen</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180706210000 +0000" stop="20180707000000 +0000">
@@ -15904,14 +15904,14 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200428" start="20180705113000 +0000" stop="20180705130000 +0000">
+    <title>Love Island</title>
+  </programme>
   <programme channel="tv.101204200428" start="20180705113000 +0000" stop="20180705123000 +0000">
     <title>Love Island</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
-  </programme>
-  <programme channel="tv.101204200428" start="20180705113000 +0000" stop="20180705130000 +0000">
-    <title>Love Island</title>
   </programme>
   <programme channel="tv.101204200428" start="20180705123000 +0000" stop="20180705133000 +0000">
     <title>Love Island</title>
@@ -20295,13 +20295,13 @@
     <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305020523" start="20180706205800 +0000" stop="20180706220000 +0000">
+    <title>To Be Advised</title>
+  </programme>
+  <programme channel="tv.101305020523" start="20180706205800 +0000" stop="20180706220000 +0000">
     <title>Night Thunder</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
-  </programme>
-  <programme channel="tv.101305020523" start="20180706205800 +0000" stop="20180706220000 +0000">
-    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305020523" start="20180706220000 +0000" stop="20180706223000 +0000">
     <title>Home Shopping</title>
@@ -32256,13 +32256,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -32364,13 +32364,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -32424,15 +32424,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
-    <title>Ginormous Food</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
     <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
+    <title>Ginormous Food</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701013000 +0000" stop="20180701022500 +0000">
@@ -32742,19 +32742,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
-    <title>Ginormous Food</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180702020000 +0000" stop="20180702023000 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -32763,6 +32757,12 @@
     <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180702020000 +0000" stop="20180702023000 +0000">
+    <title>Ginormous Food</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702023000 +0000" stop="20180702032500 +0000">
@@ -36694,21 +36694,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180701063225 +0000" stop="20180701073154 +0000">
-    <title>Prime</title>
-    <desc>Filmed in stunning locations around the world, elite wakeboarders take their sport to the next level.</desc>
-    <sub-title>Wakeboarding Progression</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180701073154 +0000" stop="20180701080046 +0000">
-    <title>As the Crow Flies</title>
-    <desc>Join Gigi Rüf and fellow snowboarders on their hunt to find the best snow and terrain for snowboarding in.</desc>
-    <sub-title>On the Hunt for the Best Snow</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180701080046 +0000" stop="20180701080504 +0000">
-    <title>Planet Moto S1E3</title>
-    <desc>Venturing into the realm where riders are racing at more than 300kph, this is look into Superbike racing.</desc>
-    <sub-title>The Superbike Rider</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180701080504 +0000" stop="20180701080718 +0000">
     <title>MotoGP World Championship</title>
