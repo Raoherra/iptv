@@ -9353,17 +9353,17 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101204600461" start="20180703152000 +0000" stop="20180703161000 +0000">
+    <title>20/20</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204600461" start="20180703152000 +0000" stop="20180703162000 +0000">
     <title>The Closer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600461" start="20180703152000 +0000" stop="20180703161000 +0000">
-    <title>20/20</title>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180703162000 +0000" stop="20180703165000 +0000">
@@ -9583,15 +9583,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20180704193000 +0000" stop="20180704210000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204600461" start="20180704193000 +0000" stop="20180704200000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20180704193000 +0000" stop="20180704200000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204600461" start="20180704193000 +0000" stop="20180704210000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -9928,14 +9928,21 @@
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180706213000 +0000" stop="20180706220000 +0000">
-    <title>Good Morning America</title>
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180706213000 +0000" stop="20180706220000 +0000">
-    <title>A Current Affair</title>
+    <title>Good Morning America</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600461" start="20180706220000 +0000" stop="20180706230000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -9945,13 +9952,6 @@
     <title>Ellen</title>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600461" start="20180706220000 +0000" stop="20180706230000 +0000">
-    <title>Good Morning America</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180706230000 +0000" stop="20180707020000 +0000">
@@ -20932,22 +20932,22 @@
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180706220000 +0000" stop="20180706225800 +0000">
-    <title>Night Thunder</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
+    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305060563" start="20180706220000 +0000" stop="20180706225800 +0000">
-    <title>To Be Advised</title>
-  </programme>
-  <programme channel="tv.101305060563" start="20180706225800 +0000" stop="20180707000000 +0000">
-    <title>To Be Advised</title>
+    <title>Night Thunder</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180706225800 +0000" stop="20180707000000 +0000">
     <title>Night Thunder</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
+  </programme>
+  <programme channel="tv.101305060563" start="20180706225800 +0000" stop="20180707000000 +0000">
+    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305060563" start="20180707000000 +0000" stop="20180707003000 +0000">
     <title>Home Shopping</title>
@@ -36998,21 +36998,6 @@
     <rating system="Freeview">
       <value>G</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180701123124 +0000" stop="20180701131016 +0000">
-    <title>Volcom True To This</title>
-    <desc>Volcom blends the cosmic creativity of surf, skate, and snowboarding in this stoke-filled masterpiece.</desc>
-    <sub-title>They're Not New To This</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180701131016 +0000" stop="20180701131704 +0000">
-    <title>Martin Söderström Ride to Recovery Part II</title>
-    <desc>Martin Söderström has gotten himself physically ready to compete again, but that's only half the battle.</desc>
-    <sub-title>The Rise</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180701131704 +0000" stop="20180701132108 +0000">
-    <title>MotoGP and MXGP Take on F1</title>
-    <desc>Marc Márquez enjoys a joyride in a Formula One car at Red Bull Ring in Spielberg, Austria. </desc>
-    <sub-title>Marc Márquez Test-Drives F1</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180701132108 +0000" stop="20180701142108 +0000">
     <title>Red Bull MotoGP Rookies Cup 2018</title>
