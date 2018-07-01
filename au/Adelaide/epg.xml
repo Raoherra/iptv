@@ -11045,17 +11045,17 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204500451" start="20180703140000 +0000" stop="20180703145000 +0000">
+    <title>20/20</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204500451" start="20180703140000 +0000" stop="20180703150000 +0000">
     <title>The Closer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204500451" start="20180703140000 +0000" stop="20180703145000 +0000">
-    <title>20/20</title>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204500451" start="20180703150000 +0000" stop="20180703153000 +0000">
@@ -11267,15 +11267,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500451" start="20180704180000 +0000" stop="20180704193000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204500451" start="20180704180000 +0000" stop="20180704183000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500451" start="20180704180000 +0000" stop="20180704183000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204500451" start="20180704180000 +0000" stop="20180704193000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -32576,15 +32576,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701000000 +0000" stop="20180701003000 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701000000 +0000" stop="20180701003000 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701003000 +0000" stop="20180701010000 +0000">
@@ -32595,6 +32595,12 @@
   </programme>
   <programme channel="tv.320203000304" start="20180701003000 +0000" stop="20180701010000 +0000">
     <title>Ginormous Food</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -32603,12 +32609,6 @@
     <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
-    <title>Surfing the Menu</title>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701013000 +0000" stop="20180701022500 +0000">
@@ -32761,16 +32761,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180701133000 +0000" stop="20180701140000 +0000">
-    <title>Surfing the Menu</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000304" start="20180701133000 +0000" stop="20180701135500 +0000">
     <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180701133000 +0000" stop="20180701140000 +0000">
+    <title>Surfing the Menu</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701135500 +0000" stop="20180701142000 +0000">
@@ -32918,15 +32918,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
-    <title>Surfing the Menu</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
     <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
+    <title>Surfing the Menu</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702020000 +0000" stop="20180702023000 +0000">
@@ -36870,21 +36870,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180630233159 +0000" stop="20180701002527 +0000">
-    <title>Archaic Festivals S1E3</title>
-    <desc>An ancient celebration that brings renewed spiritual protection to Shinto temples is also a way of life.</desc>
-    <sub-title>Onbashira</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180701002527 +0000" stop="20180701004755 +0000">
-    <title>Reel Rock S1E6</title>
-    <desc>A former child climbing star finds new purpose in his life by coaching a nine-year-old bouldering prodigy.</desc>
-    <sub-title>Obe and Ashima</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180701004755 +0000" stop="20180701010447 +0000">
-    <title>Out of Frame S2E1</title>
-    <desc>Seventeen-year-old Maja Kuczyńska is already more comfortable in the air than many career skydivers.</desc>
-    <sub-title>Maja Kuczyńska </sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180701010447 +0000" stop="20180701013217 +0000">
     <title>A History of... S1E1</title>
