@@ -11017,17 +11017,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204000401" start="20180703133000 +0000" stop="20180703142000 +0000">
-    <title>20/20</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204000401" start="20180703133000 +0000" stop="20180703143000 +0000">
     <title>The Closer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204000401" start="20180703133000 +0000" stop="20180703142000 +0000">
+    <title>20/20</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204000401" start="20180703143000 +0000" stop="20180703150000 +0000">
@@ -11061,15 +11061,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204000401" start="20180703173000 +0000" stop="20180703190000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204000401" start="20180703173000 +0000" stop="20180703180000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204000401" start="20180703173000 +0000" stop="20180703180000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204000401" start="20180703173000 +0000" stop="20180703190000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -15904,14 +15904,14 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.10120400040B" start="20180705113000 +0000" stop="20180705130000 +0000">
+    <title>Love Island</title>
+  </programme>
   <programme channel="tv.10120400040B" start="20180705113000 +0000" stop="20180705123000 +0000">
     <title>Love Island</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
-  </programme>
-  <programme channel="tv.10120400040B" start="20180705113000 +0000" stop="20180705130000 +0000">
-    <title>Love Island</title>
   </programme>
   <programme channel="tv.10120400040B" start="20180705123000 +0000" stop="20180705133000 +0000">
     <title>Love Island</title>
@@ -18815,18 +18815,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040540" start="20180701123300 +0000" stop="20180701143000 +0000">
-    <title>Criminal Confessions</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305040540" start="20180701123300 +0000" stop="20180701133400 +0000">
     <title>Crimes That Shook the World</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040540" start="20180701123300 +0000" stop="20180701143000 +0000">
+    <title>Criminal Confessions</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305040540" start="20180701133400 +0000" stop="20180701143500 +0000">
@@ -32327,15 +32327,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
-    <title>Surfing the Menu</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
     <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
+    <title>Surfing the Menu</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630151500 +0000" stop="20180630152500 +0000">
@@ -32423,13 +32423,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -32801,19 +32801,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
-    <title>Ginormous Food</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180702020000 +0000" stop="20180702023000 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -32822,6 +32816,12 @@
     <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180702020000 +0000" stop="20180702023000 +0000">
+    <title>Ginormous Food</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702023000 +0000" stop="20180702032500 +0000">
@@ -36753,16 +36753,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180701080504 +0000" stop="20180701080718 +0000">
-    <title>MotoGP World Championship</title>
-    <desc>Find out what goes into getting the bikes ready for the upcoming racing season.</desc>
-    <sub-title>Pre-Season Testing</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180701080718 +0000" stop="20180701085543 +0000">
-    <title>Ready to Race</title>
-    <desc>Austria’s most successful motorbike racing team makes the jump into MotoGP, the pinnacle of motorcycle racing.</desc>
-    <sub-title>KTM Goes MotoGP</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180701085543 +0000" stop="20180701100743 +0000">
     <title>Chasing Niagara</title>
