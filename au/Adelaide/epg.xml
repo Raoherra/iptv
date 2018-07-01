@@ -10924,15 +10924,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500451" start="20180703180000 +0000" stop="20180703193000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204500451" start="20180703180000 +0000" stop="20180703183000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500451" start="20180703180000 +0000" stop="20180703183000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204500451" start="20180703180000 +0000" stop="20180703193000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11448,14 +11448,21 @@
     </rating>
   </programme>
   <programme channel="tv.101204500451" start="20180706200000 +0000" stop="20180706203000 +0000">
-    <title>Good Morning America</title>
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204500451" start="20180706200000 +0000" stop="20180706203000 +0000">
-    <title>A Current Affair</title>
+    <title>Good Morning America</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500451" start="20180706203000 +0000" stop="20180706213000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11465,13 +11472,6 @@
     <title>Ellen</title>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204500451" start="20180706203000 +0000" stop="20180706213000 +0000">
-    <title>Good Morning America</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204500451" start="20180706213000 +0000" stop="20180707003000 +0000">
@@ -15819,14 +15819,14 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500458" start="20180705120000 +0000" stop="20180705133000 +0000">
-    <title>Love Island</title>
-  </programme>
   <programme channel="tv.101204500458" start="20180705120000 +0000" stop="20180705130000 +0000">
     <title>Love Island</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
+  </programme>
+  <programme channel="tv.101204500458" start="20180705120000 +0000" stop="20180705133000 +0000">
+    <title>Love Island</title>
   </programme>
   <programme channel="tv.101204500458" start="20180705130000 +0000" stop="20180705140000 +0000">
     <title>Love Island</title>
@@ -22450,22 +22450,22 @@
     </rating>
   </programme>
   <programme channel="tv.101305050553" start="20180706203000 +0000" stop="20180706212800 +0000">
-    <title>To Be Advised</title>
+    <title>Night Thunder</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
   </programme>
   <programme channel="tv.101305050553" start="20180706203000 +0000" stop="20180706212800 +0000">
-    <title>Night Thunder</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305050553" start="20180706212800 +0000" stop="20180706223000 +0000">
-    <title>Night Thunder</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
+    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305050553" start="20180706212800 +0000" stop="20180706223000 +0000">
     <title>To Be Advised</title>
+  </programme>
+  <programme channel="tv.101305050553" start="20180706212800 +0000" stop="20180706223000 +0000">
+    <title>Night Thunder</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
   </programme>
   <programme channel="tv.101305050553" start="20180706223000 +0000" stop="20180706230000 +0000">
     <title>Home Shopping</title>
@@ -37045,26 +37045,6 @@
     <rating system="Freeview">
       <value>G</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180701175632 +0000" stop="20180701192134 +0000">
-    <title>Shake the Dust</title>
-    <desc>Communities around the world have found something that brings them together: breakdancing.</desc>
-    <sub-title>Global Communities Linked by Breakdancing</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180701192134 +0000" stop="20180701192350 +0000">
-    <title>The 4 Seasons</title>
-    <desc>Music brings nature to life in an unusual combination of dance styles to depict the beauty of summer.</desc>
-    <sub-title>Summer</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180701192350 +0000" stop="20180701195003 +0000">
-    <title>After the Raves S1E1</title>
-    <desc>DJ Tommie Sunshine visits with Dirty South, 12th Planet and The Gaslamp Killer in Los Angeles.</desc>
-    <sub-title>Los Angeles: The New Tinseltown</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180701195003 +0000" stop="20180701195607 +0000">
-    <title>Cody Webb and Taylor Robert</title>
-    <desc>Two MX riders tear up California's Donner Ski Ranch in a stunning display of backcountry trials riding.</desc>
-    <sub-title>Donner Partying</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180701195607 +0000" stop="20180701204817 +0000">
     <title>Sébastien Loeb: Off Roads</title>
