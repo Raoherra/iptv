@@ -168,9 +168,9 @@
             "codec": "h264"
         },
         "audio": {
-            "sample_rate": 44100,
+            "channels": 2,
             "codec": "aac",
-            "channels": 2
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/tv.101002210221/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.101002210221.m3u8",
