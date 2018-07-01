@@ -9353,17 +9353,17 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20180703152000 +0000" stop="20180703161000 +0000">
-    <title>20/20</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204600461" start="20180703152000 +0000" stop="20180703162000 +0000">
     <title>The Closer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600461" start="20180703152000 +0000" stop="20180703161000 +0000">
+    <title>20/20</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180703162000 +0000" stop="20180703165000 +0000">
@@ -9928,14 +9928,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180706213000 +0000" stop="20180706220000 +0000">
-    <title>Good Morning America</title>
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180706213000 +0000" stop="20180706220000 +0000">
-    <title>A Current Affair</title>
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -14280,14 +14280,14 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.101204600468" start="20180705133000 +0000" stop="20180705150000 +0000">
+    <title>Love Island</title>
+  </programme>
   <programme channel="tv.101204600468" start="20180705133000 +0000" stop="20180705143000 +0000">
     <title>Love Island</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
-  </programme>
-  <programme channel="tv.101204600468" start="20180705133000 +0000" stop="20180705150000 +0000">
-    <title>Love Island</title>
   </programme>
   <programme channel="tv.101204600468" start="20180705143000 +0000" stop="20180705153000 +0000">
     <title>Love Island</title>
@@ -20941,13 +20941,13 @@
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180706225800 +0000" stop="20180707000000 +0000">
-    <title>To Be Advised</title>
-  </programme>
-  <programme channel="tv.101305060563" start="20180706225800 +0000" stop="20180707000000 +0000">
     <title>Night Thunder</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
+  </programme>
+  <programme channel="tv.101305060563" start="20180706225800 +0000" stop="20180707000000 +0000">
+    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305060563" start="20180707000000 +0000" stop="20180707003000 +0000">
     <title>Home Shopping</title>
@@ -36998,16 +36998,6 @@
     <rating system="Freeview">
       <value>G</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180701142920 +0000" stop="20180701151724 +0000">
-    <title>Ready to Race</title>
-    <desc>Austria’s most successful motorbike racing team makes the jump into MotoGP, the pinnacle of motorcycle racing.</desc>
-    <sub-title>KTM Goes MotoGP</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180701151724 +0000" stop="20180701152533 +0000">
-    <title>Martin Söderström Ride to Recovery Part I</title>
-    <desc>The story of Martin Söderström's career-threatening injury and his fight to get back on top of his game.</desc>
-    <sub-title>The Fall </sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180701152533 +0000" stop="20180701161452 +0000">
     <title>Builder</title>
