@@ -11045,17 +11045,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500451" start="20180703140000 +0000" stop="20180703145000 +0000">
-    <title>20/20</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204500451" start="20180703140000 +0000" stop="20180703150000 +0000">
     <title>The Closer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500451" start="20180703140000 +0000" stop="20180703145000 +0000">
+    <title>20/20</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204500451" start="20180703150000 +0000" stop="20180703153000 +0000">
@@ -11089,15 +11089,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500451" start="20180703180000 +0000" stop="20180703193000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204500451" start="20180703180000 +0000" stop="20180703183000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500451" start="20180703180000 +0000" stop="20180703183000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204500451" start="20180703180000 +0000" stop="20180703193000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11267,15 +11267,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500451" start="20180704180000 +0000" stop="20180704183000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204500451" start="20180704180000 +0000" stop="20180704193000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500451" start="20180704180000 +0000" stop="20180704193000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204500451" start="20180704180000 +0000" stop="20180704183000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -18941,18 +18941,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050550" start="20180701130300 +0000" stop="20180701140400 +0000">
-    <title>Crimes That Shook the World</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050550" start="20180701130300 +0000" stop="20180701150000 +0000">
     <title>Criminal Confessions</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050550" start="20180701130300 +0000" stop="20180701140400 +0000">
+    <title>Crimes That Shook the World</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101305050550" start="20180701140400 +0000" stop="20180701150500 +0000">
@@ -32576,15 +32576,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701000000 +0000" stop="20180701003000 +0000">
-    <title>Ginormous Food</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180701000000 +0000" stop="20180701003000 +0000">
     <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180701000000 +0000" stop="20180701003000 +0000">
+    <title>Ginormous Food</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701003000 +0000" stop="20180701010000 +0000">
@@ -32918,19 +32918,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
-    <title>Surfing the Menu</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180702020000 +0000" stop="20180702023000 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -32939,6 +32933,12 @@
     <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180702020000 +0000" stop="20180702023000 +0000">
+    <title>Surfing the Menu</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702023000 +0000" stop="20180702032500 +0000">
@@ -36870,16 +36870,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180701010447 +0000" stop="20180701013217 +0000">
-    <title>A History of... S1E1</title>
-    <desc>In 18th century Hawaii, a king and his warriors dived off a cliff – it was the origins of modern cliff diving.</desc>
-    <sub-title>The Sacred Leap</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180701013217 +0000" stop="20180701020041 +0000">
-    <title>On Top Again</title>
-    <desc>A prolific champion is determined to return stronger than ever after suffering a career-threatening injury.</desc>
-    <sub-title>The Comeback of Orlando Duque</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180701020041 +0000" stop="20180701024929 +0000">
     <title>Builder</title>
