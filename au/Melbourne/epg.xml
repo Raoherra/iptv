@@ -10934,15 +10934,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180702173000 +0000" stop="20180702190000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204300430" start="20180702173000 +0000" stop="20180702180000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180702173000 +0000" stop="20180702180000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204300430" start="20180702173000 +0000" stop="20180702190000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11266,15 +11266,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180704173000 +0000" stop="20180704190000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204300430" start="20180704173000 +0000" stop="20180704180000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180704173000 +0000" stop="20180704180000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204300430" start="20180704173000 +0000" stop="20180704190000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -16009,14 +16009,14 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300437" start="20180705113000 +0000" stop="20180705130000 +0000">
-    <title>Love Island</title>
-  </programme>
   <programme channel="tv.101204300437" start="20180705113000 +0000" stop="20180705123000 +0000">
     <title>Love Island</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
+  </programme>
+  <programme channel="tv.101204300437" start="20180705113000 +0000" stop="20180705130000 +0000">
+    <title>Love Island</title>
   </programme>
   <programme channel="tv.101204300437" start="20180705123000 +0000" stop="20180705133000 +0000">
     <title>Love Island</title>
@@ -18913,18 +18913,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180701123300 +0000" stop="20180701133400 +0000">
-    <title>Crimes That Shook the World</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305030530" start="20180701123300 +0000" stop="20180701143000 +0000">
     <title>Criminal Confessions</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030530" start="20180701123300 +0000" stop="20180701133400 +0000">
+    <title>Crimes That Shook the World</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101305030530" start="20180701133400 +0000" stop="20180701143500 +0000">
@@ -32377,21 +32377,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630135500 +0000" stop="20180630142000 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630135500 +0000" stop="20180630142000 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
-    <title>Ginormous Food</title>
-    <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
@@ -32400,8 +32394,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
-    <title>Surfing the Menu</title>
+  <programme channel="tv.320203000304" start="20180630142000 +0000" stop="20180630144500 +0000">
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -32410,6 +32404,12 @@
     <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180630144500 +0000" stop="20180630151500 +0000">
+    <title>Surfing the Menu</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630151500 +0000" stop="20180630152500 +0000">
@@ -32497,13 +32497,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Ginormous Food</title>
+    <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180630213000 +0000" stop="20180630215500 +0000">
-    <title>Surfing the Menu</title>
+    <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -32557,15 +32557,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
-    <title>Ginormous Food</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
     <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180701010000 +0000" stop="20180701013000 +0000">
+    <title>Ginormous Food</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701013000 +0000" stop="20180701022500 +0000">
@@ -32718,16 +32718,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180701133000 +0000" stop="20180701140000 +0000">
-    <title>Surfing the Menu</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000304" start="20180701133000 +0000" stop="20180701135500 +0000">
     <title>Ginormous Food</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180701133000 +0000" stop="20180701140000 +0000">
+    <title>Surfing the Menu</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180701135500 +0000" stop="20180701142000 +0000">
@@ -32875,15 +32875,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
-    <title>Ginormous Food</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
     <title>Surfing the Menu</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180702013000 +0000" stop="20180702020000 +0000">
+    <title>Ginormous Food</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180702020000 +0000" stop="20180702023000 +0000">
