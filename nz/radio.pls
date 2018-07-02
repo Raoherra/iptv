@@ -1,7 +1,7 @@
 [playlist]
 File1=http://iptv.matthuisman.nz/nz/radio.ih.6897
 Title1=The Hits Southern Lakes
-File2=http://iptv.matthuisman.nz/nz/radio.ih.6197.aac
+File2=http://iptv.matthuisman.nz/nz/radio.ih.6197
 Title2=The Hits Auckland
 File3=http://iptv.matthuisman.nz/nz/radio.ih.6199
 Title3=The Hits Christchurch
@@ -49,7 +49,7 @@ File24=http://iptv.matthuisman.nz/nz/radio.ih.7755
 Title24=The Hits Coromandel
 File25=http://iptv.matthuisman.nz/nz/radio.ih.6190.aac
 Title25=ZM
-File26=http://iptv.matthuisman.nz/nz/radio.ih.6187.aac
+File26=http://iptv.matthuisman.nz/nz/radio.ih.6187
 Title26=Newstalk ZB
 File27=http://iptv.matthuisman.nz/nz/radio.ih.6191
 Title27=Radio Hauraki
@@ -137,7 +137,7 @@ File68=http://iptv.matthuisman.nz/nz/radio.ih.7317.aac
 Title68=1 Double X
 File69=http://iptv.matthuisman.nz/nz/radio.ih.7633
 Title69=Humm FM
-File70=http://iptv.matthuisman.nz/nz/radio.ih.7782.aac
+File70=http://iptv.matthuisman.nz/nz/radio.ih.7782
 Title70=Real Radio
 File71=http://iptv.matthuisman.nz/nz/radio.ih.6965
 Title71=NBR Radio
