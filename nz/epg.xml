@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180702141335 +0000" stop="20180702153909 +0000">
-    <title>Shake the Dust</title>
-    <desc>Communities around the world have found something that brings them together: breakdancing.</desc>
-    <sub-title>Global Communities Linked by Breakdancing</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180702153909 +0000" stop="20180702160442 +0000">
-    <title>After the Raves S1E1</title>
-    <desc>DJ Tommie Sunshine visits with Dirty South, 12th Planet and The Gaslamp Killer in Los Angeles.</desc>
-    <sub-title>Los Angeles: The New Tinseltown</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180702160442 +0000" stop="20180702170351 +0000">
     <title>Attractive Distractions</title>
     <desc>Mind-bending surfing meets cutting-edge cinematography in this globe-spanning of wave exploration.</desc>
@@ -36119,20 +36109,44 @@
     <title>The South Today</title>
     <desc>The Southern Regions news presented by Melissa Barton.</desc>
   </programme>
-  <programme channel="tv.41" start="20180709073000 +0000" stop="20180709090000 +0000">
-    <title>China Now</title>
-    <desc></desc>
+  <programme channel="tv.41" start="20180709073000 +0000" stop="20180709080000 +0000">
+    <title>Adventure Bound</title>
+    <desc>Fishing, diving, 4WD and outdoor action from around Australia.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.41" start="20180709080000 +0000" stop="20180709083000 +0000">
+    <title>Walks Around Britain</title>
+    <desc>Andrew White discovers walks in the British countryside with intriguing history and stunning views. All new episodes.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.41" start="20180709083000 +0000" stop="20180709090000 +0000">
+    <title>Wild Dunedin</title>
+    <desc>Otago University Science communications documentaries (short films: 2-3 per broadcast).</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.41" start="20180709090000 +0000" stop="20180709093000 +0000">
-    <title>America's Heartland</title>
-    <desc>A series that looks at the culture and values of country folk in the USA.</desc>
+    <title>Dunedin Unleashed</title>
+    <desc>Dunedin Unleashed is a show of short documentaries made and compiled by Otago University's Science Communications Students.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme channel="tv.41" start="20180709093000 +0000" stop="20180709110000 +0000">
+  <programme channel="tv.41" start="20180709093000 +0000" stop="20180709100000 +0000">
     <title>The South Today</title>
     <desc>The Southern Regions news presented by Melissa Barton.</desc>
+  </programme>
+  <programme channel="tv.41" start="20180709100000 +0000" stop="20180709110000 +0000">
+    <title>Europe Concert Re-Run</title>
+    <desc></desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.41" start="20180709110000 +0000" stop="20180709113000 +0000">
     <title>National Geographic - LIVE</title>
@@ -36249,16 +36263,16 @@
     <title>Tech Tools</title>
     <desc>Tech Tools showcases technology and how it can be used in the work place.</desc>
   </programme>
-  <programme channel="tv.41" start="20180710030000 +0000" stop="20180710040000 +0000">
+  <programme channel="tv.41" start="20180710030000 +0000" stop="20180710033000 +0000">
     <title>Southern Attractions</title>
     <desc>Show highlighting local tourism activities.</desc>
-  </programme>
-  <programme channel="tv.41" start="20180710040000 +0000" stop="20180710050000 +0000">
-    <title>World of Wildlife</title>
-    <desc>Wildlife documentary series by Sunset and Vine, using archive footage from differing companies and productions.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
+  </programme>
+  <programme channel="tv.41" start="20180710033000 +0000" stop="20180710050000 +0000">
+    <title>Oakley's Off the Bar</title>
+    <desc>local junior football.</desc>
   </programme>
   <programme channel="tv.41" start="20180710050000 +0000" stop="20180710053000 +0000">
     <title>Euromaxx</title>
