@@ -10907,17 +10907,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500451" start="20180703140000 +0000" stop="20180703145000 +0000">
-    <title>20/20</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204500451" start="20180703140000 +0000" stop="20180703150000 +0000">
     <title>The Closer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500451" start="20180703140000 +0000" stop="20180703145000 +0000">
+    <title>20/20</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204500451" start="20180703150000 +0000" stop="20180703153000 +0000">
@@ -10951,15 +10951,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500451" start="20180703180000 +0000" stop="20180703193000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204500451" start="20180703180000 +0000" stop="20180703183000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500451" start="20180703180000 +0000" stop="20180703183000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204500451" start="20180703180000 +0000" stop="20180703193000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11475,14 +11475,21 @@
     </rating>
   </programme>
   <programme channel="tv.101204500451" start="20180706200000 +0000" stop="20180706203000 +0000">
-    <title>Good Morning America</title>
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204500451" start="20180706200000 +0000" stop="20180706203000 +0000">
-    <title>A Current Affair</title>
+    <title>Good Morning America</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500451" start="20180706203000 +0000" stop="20180706213000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11492,13 +11499,6 @@
     <title>Ellen</title>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204500451" start="20180706203000 +0000" stop="20180706213000 +0000">
-    <title>Good Morning America</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204500451" start="20180706213000 +0000" stop="20180707003000 +0000">
@@ -22519,13 +22519,13 @@
     </rating>
   </programme>
   <programme channel="tv.101305050553" start="20180706212800 +0000" stop="20180706223000 +0000">
-    <title>To Be Advised</title>
-  </programme>
-  <programme channel="tv.101305050553" start="20180706212800 +0000" stop="20180706223000 +0000">
     <title>Night Thunder</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
+  </programme>
+  <programme channel="tv.101305050553" start="20180706212800 +0000" stop="20180706223000 +0000">
+    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305050553" start="20180706223000 +0000" stop="20180706230000 +0000">
     <title>Home Shopping</title>
@@ -37142,11 +37142,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180701224229 +0000" stop="20180701235516 +0000">
-    <title>Northern Disco Lights</title>
-    <desc>Bored teenagers unwittingly change the course of Norwegian culture with their underground music scene.</desc>
-    <sub-title>The Birth of Norwegian Dance Music</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180701235516 +0000" stop="20180702003314 +0000">
     <title>Back to the Bowl</title>
