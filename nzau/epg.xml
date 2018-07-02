@@ -280,21 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180702205910 +0000" stop="20180702214759 +0000">
-    <title>Builder</title>
-    <desc>Explore the craft of trail building through the eyes of some of MTB's best riders and most respected builders.</desc>
-    <sub-title>The Art and Science of Trail Building</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180702214759 +0000" stop="20180702215608 +0000">
-    <title>Martin Söderström Ride to Recovery Part I</title>
-    <desc>The story of Martin Söderström's career-threatening injury and his fight to get back on top of his game.</desc>
-    <sub-title>The Fall </sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180702215608 +0000" stop="20180702220256 +0000">
-    <title>Martin Söderström Ride to Recovery Part II</title>
-    <desc>Martin Söderström has gotten himself physically ready to compete again, but that's only half the battle.</desc>
-    <sub-title>The Rise</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180702220256 +0000" stop="20180702224139 +0000">
     <title>Volcom True To This</title>
     <desc>Volcom blends the cosmic creativity of surf, skate, and snowboarding in this stoke-filled masterpiece.</desc>
@@ -17534,7 +17519,7 @@
   </programme>
   <programme channel="tv.37" start="20180706073000 +0000" stop="20180706083000 +0000">
     <title>Fabulous Baker Brothers</title>
-    <desc>This week the Baker Brothers are all about food that takes a long time to prepare - but it's totally worth the wait. Tom and Henry make slow cooked pulled pork and toffee steamed pudding.</desc>
+    <desc>Tom and Henry visit Stratford upon Avon where Jean Haslam, who owns the town's Deli Café, has a loyal customer base and serves hearty, home cooked food but she wants to attract more customers.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -17632,7 +17617,7 @@
   </programme>
   <programme channel="tv.37" start="20180706180000 +0000" stop="20180706190000 +0000">
     <title>Fabulous Baker Brothers</title>
-    <desc>This week the Baker Brothers are all about food that takes a long time to prepare - but it's totally worth the wait. Tom and Henry make slow cooked pulled pork and toffee steamed pudding.</desc>
+    <desc>Tom and Henry visit Stratford upon Avon where Jean Haslam, who owns the town's Deli Café, has a loyal customer base and serves hearty, home cooked food but she wants to attract more customers.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -17674,7 +17659,7 @@
   </programme>
   <programme channel="tv.37" start="20180706233000 +0000" stop="20180707003000 +0000">
     <title>Fabulous Baker Brothers</title>
-    <desc>This week the Baker Brothers are all about food that takes a long time to prepare - but it's totally worth the wait. Tom and Henry make slow cooked pulled pork and toffee steamed pudding.</desc>
+    <desc>Tom and Henry visit Stratford upon Avon where Jean Haslam, who owns the town's Deli Café, has a loyal customer base and serves hearty, home cooked food but she wants to attract more customers.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -39905,6 +39890,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180710140000 +0000" stop="20180710143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180702132800 +0000" stop="20180702144700 +0000">
     <title>The Outlaw Michael Howe</title>
     <subtitles type="teletext"/>
@@ -51612,6 +51604,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200424" start="20180710140000 +0000" stop="20180710143000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200427" start="20180702135900 +0000" stop="20180702150200 +0000">
     <title>Footy Classified</title>
     <subtitles type="teletext"/>
@@ -54945,6 +54943,12 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20180710140000 +0000" stop="20180710143000 +0000">
+    <title>Balls of Steel Australia</title>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180702115900 +0000" stop="20180702180000 +0000">
@@ -62606,6 +62610,13 @@
   </programme>
   <programme channel="tv.101305020528" start="20180710133000 +0000" stop="20180710140000 +0000">
     <title>Raceday Review - Racing.com Park</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180710140000 +0000" stop="20180710143000 +0000">
+    <title>Ten of the Best - Melbourne Cups</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -75223,6 +75234,12 @@
     <title>Meeting Place</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180710140000 +0000" stop="20180710150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   </tv>
