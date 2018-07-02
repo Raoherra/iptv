@@ -123,7 +123,7 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\
 #EXTINF:-1 tvg-name="019" tvg-id="radio.ih.6898" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6898.png" radio="true",Kyle & Jackie O's Alist
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Sydney/radio.ih.6898 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6898 -f mpegts pipe:1
 
-#EXTINF:-1 tvg-name="020" tvg-id="radio.ih.6970" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6970.png" radio="true",Little Rockers Red Nose Disco
+#EXTINF:-1 tvg-name="020" tvg-id="radio.ih.6970" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6970.png" radio="true",Little Rockers Radio
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Sydney/radio.ih.6970 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6970 -f mpegts pipe:1
 
 #EXTINF:-1 tvg-name="021" tvg-id="radio.ih.6709" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6709.png" radio="true",Macquarie Sports Radio Sydney
