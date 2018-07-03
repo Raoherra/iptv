@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180703060340 +0000" stop="20180703065549 +0000">
-    <title>The Art of Street Fighting</title>
-    <desc>The world's top Street Fighter V players prepare for the fight of their lives at Red Bull Kumite.</desc>
-    <sub-title>One Game. One Champion. An Endless Fight.</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180703065549 +0000" stop="20180703080935 +0000">
     <title>Northern Disco Lights</title>
     <desc>Bored teenagers unwittingly change the course of Norwegian culture with their underground music scene.</desc>
@@ -4806,7 +4801,7 @@
     <title>Jono And Ben</title>
     <desc>Jono and Ben are joined with a wider cast of comedians, including Brynley Stent, Chris Parker, Kura Forrester, Ray O'Leary and Angella Dravid! Brighten your Thursday night with plenty of laughs.</desc>
   </programme>
-  <programme channel="tv.11" start="20180705083000 +0000" stop="20180705110000 +0000">
+  <programme channel="tv.11" start="20180705083000 +0000" stop="20180705105000 +0000">
     <title>X-Men: First Class</title>
     <desc>X-Men: First Class charts the epic beginning of the X-Men saga and the alliances that will shape the eternal war between the heroes and villains of the X-Men universe. (2010)</desc>
     <audio>
@@ -4816,11 +4811,11 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180705110000 +0000" stop="20180705112000 +0000">
+  <programme channel="tv.11" start="20180705105000 +0000" stop="20180705112000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.11" start="20180705112000 +0000" stop="20180705122000 +0000">
+  <programme channel="tv.11" start="20180705112000 +0000" stop="20180705121000 +0000">
     <title>The Good Wife</title>
     <desc>Alicia clashes with a bond court judge when she agrees to support a client's plea of innocence in a shoplifting case. S7 Ep4</desc>
     <audio>
@@ -4830,7 +4825,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180705122000 +0000" stop="20180705170000 +0000">
+  <programme channel="tv.11" start="20180705121000 +0000" stop="20180705170000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -4875,9 +4870,9 @@
   <programme channel="tv.11" start="20180706010000 +0000" stop="20180706030000 +0000">
     <title>Absolute Fear</title>
     <desc>Jessie follows her boyfriend on a search for his long lost father, last heard from on a deserted island - but they discover that he had very good reason for not wanting to be found. (2012)</desc>
-    <audio>
-      <stereo>dolby</stereo>
-    </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180706030000 +0000" stop="20180706033000 +0000">
     <title>Celebrity Name Game</title>
@@ -4932,10 +4927,13 @@
   <programme channel="tv.11" start="20180706080000 +0000" stop="20180706090000 +0000">
     <title>All New The Graham Norton Show</title>
     <desc>Catch an all new episode of The Graham Norton Show fast-tracked from the UK. S23 Ep13</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180706090000 +0000" stop="20180706094500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians David Correors, Urzila Carlson, Alice Snedden and Ben Hurley.</desc>
   </programme>
   <programme channel="tv.11" start="20180706094500 +0000" stop="20180706101500 +0000">
     <title>The Spinoff TV</title>
@@ -5031,6 +5029,9 @@
   <programme channel="tv.11" start="20180707050000 +0000" stop="20180707060000 +0000">
     <title>All Star Family Feud: Jono and Ben vs 7 Days</title>
     <desc>It's the battle of the NZ comedy shows. Watch Jono and Ben, joined by Laura Daniel and Angella Dravid, battle Team 7 Days with Jeremy Corbett, Paul Ego, Urzila Carlson and Josh Thomson.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180707060000 +0000" stop="20180707070000 +0000">
     <title>Newshub Live At 6pm</title>
@@ -5186,6 +5187,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180708110000 +0000" stop="20180708120000 +0000">
     <title>Chicago Med</title>
@@ -5321,6 +5325,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180709103000 +0000" stop="20180709110000 +0000">
     <title>Newshub Late</title>
@@ -5897,6 +5904,9 @@
   <programme channel="tv.12" start="20180705103000 +0000" stop="20180705112500 +0000">
     <title>Snapped</title>
     <desc>A young marine dies of an apparent heart attack, but test results reveal arsenic in his system.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180705112500 +0000" stop="20180705122500 +0000">
     <title>The Disappearance Of Natalee Holloway</title>
@@ -6125,6 +6135,9 @@
   <programme channel="tv.12" start="20180707063000 +0000" stop="20180707073000 +0000">
     <title>The Getaway</title>
     <desc>With an executive suite in Caesar's Palace as their home base, comedian Adam Pally and four friends spend the weekend gambling, eating, partying and indoor skydiving in Vegas.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180707073000 +0000" stop="20180707082800 +0000">
     <title>Below Deck</title>
@@ -6148,8 +6161,8 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20180707093000 +0000" stop="20180707103000 +0000">
-    <title>Southern Charm</title>
-    <desc></desc>
+    <title>Below Deck</title>
+    <desc>At this point, Kat is completely fed-up with Adrienne and begins hatching a plan to switch rooms.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -6245,6 +6258,9 @@
   <programme channel="tv.12" start="20180707225000 +0000" stop="20180707234000 +0000">
     <title>The Getaway</title>
     <desc>With an executive suite in Caesar's Palace as their home base, comedian Adam Pally and four friends spend the weekend gambling, eating, partying and indoor skydiving in Vegas.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180707234000 +0000" stop="20180708002800 +0000">
     <title>Catfish</title>
@@ -6413,8 +6429,8 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20180709013000 +0000" stop="20180709033000 +0000">
-    <title>Into The Blue</title>
-    <desc>Young vacationers, expecting to have a memorable time diving, find themselves in deep trouble with a druglord when they come upon the illicit cargo of a sunken airplane. Starring Paul Walker. (2005)</desc>
+    <title>Mamma Mia</title>
+    <desc>Academy Award-winner Meryl Streep leads an all-star cast in this film adaptation of the beloved stage musical featuring the timeless lyrics and melodies of iconic super group ABBA.</desc>
   </programme>
   <programme channel="tv.12" start="20180709033000 +0000" stop="20180709043000 +0000">
     <title>Dance Moms</title>
@@ -6468,10 +6484,16 @@
   <programme channel="tv.12" start="20180709093000 +0000" stop="20180709103000 +0000">
     <title>60 Days In</title>
     <desc>The last participant enters the Clark County Jail and all eight must now face their new reality, of life behind bars.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180709103000 +0000" stop="20180709112500 +0000">
     <title>Snapped</title>
     <desc>When a man is found dead on the side of a road, investigating officers link the crime to a vicious custody battle and a conspiracy to kill.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180709112500 +0000" stop="20180709122000 +0000">
     <title>The Disappearance Of Maura Murray</title>
@@ -6594,6 +6616,9 @@
   <programme channel="tv.12" start="20180710103000 +0000" stop="20180710112500 +0000">
     <title>Snapped</title>
     <desc>When a police officer goes missing, investigators first assume trouble on the job.until they get a tip from the victim's girlfriend.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180710112500 +0000" stop="20180710122000 +0000">
     <title>The Disappearance Of Maura Murray</title>
@@ -11831,25 +11856,25 @@
     <title>Jono And Ben</title>
     <desc>Jono and Ben are joined with a wider cast of comedians, including Brynley Stent, Chris Parker, Kura Forrester, Ray O'Leary and Angella Dravid! Brighten your Thursday night with plenty of laughs.</desc>
   </programme>
-  <programme channel="tv.27" start="20180705093000 +0000" stop="20180705120000 +0000">
+  <programme channel="tv.27" start="20180705093000 +0000" stop="20180705115000 +0000">
     <title>X-Men: First Class</title>
     <desc>X-Men: First Class charts the epic beginning of the X-Men saga and the alliances that will shape the eternal war between the heroes and villains of the X-Men universe. (2010)</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180705120000 +0000" stop="20180705122000 +0000">
+  <programme channel="tv.27" start="20180705115000 +0000" stop="20180705122000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.27" start="20180705122000 +0000" stop="20180705132000 +0000">
+  <programme channel="tv.27" start="20180705122000 +0000" stop="20180705131000 +0000">
     <title>The Good Wife</title>
     <desc>Alicia clashes with a bond court judge when she agrees to support a client's plea of innocence in a shoplifting case. S7 Ep4</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180705132000 +0000" stop="20180705180000 +0000">
+  <programme channel="tv.27" start="20180705131000 +0000" stop="20180705180000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -11894,6 +11919,9 @@
   <programme channel="tv.27" start="20180706020000 +0000" stop="20180706040000 +0000">
     <title>Absolute Fear</title>
     <desc>Jessie follows her boyfriend on a search for his long lost father, last heard from on a deserted island - but they discover that he had very good reason for not wanting to be found. (2012)</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180706040000 +0000" stop="20180706043000 +0000">
     <title>Celebrity Name Game</title>
@@ -11945,10 +11973,13 @@
   <programme channel="tv.27" start="20180706090000 +0000" stop="20180706100000 +0000">
     <title>All New The Graham Norton Show</title>
     <desc>Catch an all new episode of The Graham Norton Show fast-tracked from the UK. S23 Ep13</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180706100000 +0000" stop="20180706104500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians David Correors, Urzila Carlson, Alice Snedden and Ben Hurley.</desc>
   </programme>
   <programme channel="tv.27" start="20180706104500 +0000" stop="20180706111500 +0000">
     <title>The Spinoff TV</title>
@@ -12038,6 +12069,9 @@
   <programme channel="tv.27" start="20180707060000 +0000" stop="20180707070000 +0000">
     <title>All Star Family Feud: Jono and Ben vs 7 Days</title>
     <desc>It's the battle of the NZ comedy shows. Watch Jono and Ben, joined by Laura Daniel and Angella Dravid, battle Team 7 Days with Jeremy Corbett, Paul Ego, Urzila Carlson and Josh Thomson.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180707070000 +0000" stop="20180707080000 +0000">
     <title>Newshub Live At 6pm</title>
@@ -12181,6 +12215,9 @@
   <programme channel="tv.27" start="20180708093000 +0000" stop="20180708120000 +0000">
     <title>Warcraft</title>
     <desc>When an orc horde invades the human realm of Azeroth using a magic portal, a few human heroes and dissenting orcs must attempt to stop the true evil behind this war. Starring Travis Fimmel. (2016)</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180708120000 +0000" stop="20180708130000 +0000">
     <title>Chicago Med</title>
@@ -12310,6 +12347,9 @@
   <programme channel="tv.27" start="20180709103000 +0000" stop="20180709113000 +0000">
     <title>Humans</title>
     <desc>Premiere. New Episode. Max, Mia and Flash live in a designated area for Synths while they try to broker an uneasy peace with the human world. S3 Ep1</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180709113000 +0000" stop="20180709120000 +0000">
     <title>Newshub Late</title>
@@ -12877,6 +12917,9 @@
   <programme channel="tv.30" start="20180705113000 +0000" stop="20180705122500 +0000">
     <title>Snapped</title>
     <desc>A young marine dies of an apparent heart attack, but test results reveal arsenic in his system.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180705122500 +0000" stop="20180705132500 +0000">
     <title>The Disappearance Of Natalee Holloway</title>
@@ -13105,6 +13148,9 @@
   <programme channel="tv.30" start="20180707073000 +0000" stop="20180707083000 +0000">
     <title>The Getaway</title>
     <desc>With an executive suite in Caesar's Palace as their home base, comedian Adam Pally and four friends spend the weekend gambling, eating, partying and indoor skydiving in Vegas.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180707083000 +0000" stop="20180707092800 +0000">
     <title>Below Deck</title>
@@ -13128,8 +13174,8 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20180707103000 +0000" stop="20180707113000 +0000">
-    <title>Southern Charm</title>
-    <desc></desc>
+    <title>Below Deck</title>
+    <desc>At this point, Kat is completely fed-up with Adrienne and begins hatching a plan to switch rooms.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -13225,6 +13271,9 @@
   <programme channel="tv.30" start="20180707235000 +0000" stop="20180708004000 +0000">
     <title>The Getaway</title>
     <desc>With an executive suite in Caesar's Palace as their home base, comedian Adam Pally and four friends spend the weekend gambling, eating, partying and indoor skydiving in Vegas.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180708004000 +0000" stop="20180708012800 +0000">
     <title>Catfish</title>
@@ -13393,8 +13442,8 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20180709023000 +0000" stop="20180709043000 +0000">
-    <title>Into The Blue</title>
-    <desc>Young vacationers, expecting to have a memorable time diving, find themselves in deep trouble with a druglord when they come upon the illicit cargo of a sunken airplane. Starring Paul Walker. (2005)</desc>
+    <title>Mamma Mia</title>
+    <desc>Academy Award-winner Meryl Streep leads an all-star cast in this film adaptation of the beloved stage musical featuring the timeless lyrics and melodies of iconic super group ABBA.</desc>
   </programme>
   <programme channel="tv.30" start="20180709043000 +0000" stop="20180709053000 +0000">
     <title>Dance Moms</title>
@@ -13448,10 +13497,16 @@
   <programme channel="tv.30" start="20180709103000 +0000" stop="20180709113000 +0000">
     <title>60 Days In</title>
     <desc>The last participant enters the Clark County Jail and all eight must now face their new reality, of life behind bars.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180709113000 +0000" stop="20180709122500 +0000">
     <title>Snapped</title>
     <desc>When a man is found dead on the side of a road, investigating officers link the crime to a vicious custody battle and a conspiracy to kill.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180709122500 +0000" stop="20180709132000 +0000">
     <title>The Disappearance Of Maura Murray</title>
@@ -13574,6 +13629,9 @@
   <programme channel="tv.30" start="20180710113000 +0000" stop="20180710122500 +0000">
     <title>Snapped</title>
     <desc>When a police officer goes missing, investigators first assume trouble on the job.until they get a tip from the victim's girlfriend.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180702115500 +0000" stop="20180702125500 +0000">
     <title>The Late Show</title>
@@ -16351,6 +16409,9 @@
   <programme channel="tv.65" start="20180709073000 +0000" stop="20180709083000 +0000">
     <title>Restaurant Revolution</title>
     <desc>Restaurant Revolution sees teams from around Australia design and run pop-up restaurants for a prize of $200,000. Hosted by Jock Zonfrillo with experts Neil Perry, Jess Ho, Erez Gordon and John Lethle</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.65" start="20180709083000 +0000" stop="20180709090000 +0000">
     <title>United Plates Of America</title>
@@ -16442,6 +16503,9 @@
   <programme channel="tv.65" start="20180709223000 +0000" stop="20180709233000 +0000">
     <title>Restaurant Revolution</title>
     <desc>Restaurant Revolution sees teams from around Australia design and run pop-up restaurants for a prize of $200,000. Hosted by Jock Zonfrillo with experts Neil Perry, Jess Ho, Erez Gordon and John Lethle</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.65" start="20180709233000 +0000" stop="20180710000000 +0000">
     <title>United Plates Of America</title>
@@ -16501,6 +16565,9 @@
   <programme channel="tv.65" start="20180710030000 +0000" stop="20180710040000 +0000">
     <title>Restaurant Revolution</title>
     <desc>Restaurant Revolution sees teams from around Australia design and run pop-up restaurants for a prize of $200,000. Hosted by Jock Zonfrillo with experts Neil Perry, Jess Ho, Erez Gordon and John Lethle</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.65" start="20180710040000 +0000" stop="20180710043000 +0000">
     <title>United Plates Of America</title>
@@ -23384,12 +23451,12 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180706073000 +0000" stop="20180706080000 +0000">
-    <title>This vs That 134</title>
-    <desc></desc>
+    <title>This vs That</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Punk vs Pop</desc>
   </programme>
   <programme channel="tv.51" start="20180706080000 +0000" stop="20180706090000 +0000">
     <title>Top 10</title>
-    <desc>Top 10 videos based on a certain theme - today - DJs!</desc>
+    <desc>Top 10 videos based on a certain theme - today - The Black Eyed Peas!</desc>
   </programme>
   <programme channel="tv.51" start="20180706090000 +0000" stop="20180706103000 +0000">
     <title>All The Hits</title>
