@@ -280,21 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180703200242 +0000" stop="20180703200700 +0000">
-    <title>Planet Moto S1E3</title>
-    <desc>Venturing into the realm where riders are racing at more than 300kph, this is look into Superbike racing.</desc>
-    <sub-title>The Superbike Rider</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180703200700 +0000" stop="20180703200914 +0000">
-    <title>MotoGP World Championship</title>
-    <desc>Find out what goes into getting the bikes ready for the upcoming racing season.</desc>
-    <sub-title>Pre-Season Testing</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180703200914 +0000" stop="20180703205710 +0000">
-    <title>Ready to Race</title>
-    <desc>Austria’s most successful motorbike racing team makes the jump into MotoGP, the pinnacle of motorcycle racing.</desc>
-    <sub-title>KTM Goes MotoGP</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180703205710 +0000" stop="20180703220910 +0000">
     <title>Chasing Niagara</title>
     <desc>Follow pro kayaker Rafa Ortiz’s journey in pursuit of his dream to paddle over North America’s Niagara Falls.</desc>
@@ -13971,23 +13956,9 @@
     <title>Prime</title>
     <desc>'Prime's regular programming returns at 6am with the best drama, factual, lifestyle and comedy shows, plus free-to-air sport! Check out primetv.co.nz for details.'</desc>
   </programme>
-  <programme channel="tv.28" start="20180703174500 +0000" stop="20180703200500 +0000">
+  <programme channel="tv.28" start="20180703174500 +0000" stop="20180703205500 +0000">
     <title>2018 FIFA World Cup Russia</title>
     <desc>'Join Prime for live coverage of the 2018 FIFA World Cup Russia, as Colombia take on England at Moscow's Spartak Stadium in this Round of 16 match.'</desc>
-  </programme>
-  <programme channel="tv.28" start="20180703200500 +0000" stop="20180703203000 +0000">
-    <title>Batman: Brave And The Bold</title>
-    <desc>'Batman isn't going it alone this time! Teaming up with other heroes from the DC universe, they deliver nonstop action and adventure in their quest to uphold justice. G (R)'</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.28" start="20180703203000 +0000" stop="20180703205500 +0000">
-    <title>The Thundermans</title>
-    <desc>'Phoebe and Max are twins, sharing a birthday, a school, and a set of superpowers thanks to their super-powered parents. But Phoebe popped out good, and Max came out evil. G (R)'</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.28" start="20180703205500 +0000" stop="20180703212000 +0000">
     <title>Tiki Tour</title>
@@ -50589,8 +50560,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180705173000 +0000" stop="20180705190000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204200421" start="20180705173000 +0000" stop="20180705180000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -50751,7 +50722,7 @@
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180706193000 +0000" stop="20180706200000 +0000">
-    <title>A Current Affair</title>
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
