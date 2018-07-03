@@ -1666,6 +1666,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180711140000 +0000" stop="20180711143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180703131100 +0000" stop="20180703141700 +0000">
     <title>Q&amp;A</title>
     <subtitles type="teletext"/>
@@ -11019,15 +11026,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180705173000 +0000" stop="20180705180000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204200421" start="20180705173000 +0000" stop="20180705190000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180705173000 +0000" stop="20180705190000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204200421" start="20180705173000 +0000" stop="20180705180000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -20657,6 +20664,13 @@
   </programme>
   <programme channel="tv.101305020523" start="20180711133000 +0000" stop="20180711140000 +0000">
     <title>American Dad!</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020523" start="20180711140000 +0000" stop="20180711150000 +0000">
+    <title>The Front Bar</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -36950,6 +36964,12 @@
     <title>Home to Me</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180711140000 +0000" stop="20180711150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.redbull.tv" start="20180703205710 +0000" stop="20180703220910 +0000">
