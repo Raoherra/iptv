@@ -10036,6 +10036,7 @@
   </programme>
   <programme channel="tv.101204600461" start="20180708070000 +0000" stop="20180708080000 +0000">
     <title>Atlantic: Wildest Ocean On Earth</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -10401,6 +10402,9 @@
   <programme channel="tv.101204600461" start="20180710131000 +0000" stop="20180710144000 +0000">
     <title>Buying Blind</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180710144000 +0000" stop="20180710154000 +0000">
     <title>To Be Advised</title>
@@ -12922,6 +12926,7 @@
   </programme>
   <programme channel="tv.101204600467" start="20180708140000 +0000" stop="20180708150000 +0000">
     <title>Law &amp; Order: Special Victims Unit</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -12952,6 +12957,7 @@
   </programme>
   <programme channel="tv.101204600467" start="20180708190000 +0000" stop="20180708200000 +0000">
     <title>Law &amp; Order: Special Victims Unit</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -14860,7 +14866,6 @@
   </programme>
   <programme channel="tv.101204600468" start="20180709000000 +0000" stop="20180709003000 +0000">
     <title>Creature Mania</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>C</value>
     </rating>
@@ -15132,7 +15137,6 @@
   </programme>
   <programme channel="tv.101204600468" start="20180710000000 +0000" stop="20180710003000 +0000">
     <title>Creature Mania</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>C</value>
     </rating>
@@ -20851,15 +20855,15 @@
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180706220000 +0000" stop="20180706225800 +0000">
-    <title>AFN Fishing Show</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305060563" start="20180706220000 +0000" stop="20180706225800 +0000">
     <title>Night Thunder</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305060563" start="20180706220000 +0000" stop="20180706225800 +0000">
+    <title>AFN Fishing Show</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180706225800 +0000" stop="20180707000000 +0000">
@@ -24765,14 +24769,14 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070685" start="20180703144900 +0000" stop="20180703153900 +0000">
+  <programme channel="tv.101406070685" start="20180703144900 +0000" stop="20180703154000 +0000">
     <title>NCIS: Los Angeles</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070685" start="20180703153900 +0000" stop="20180703163900 +0000">
+  <programme channel="tv.101406070685" start="20180703154000 +0000" stop="20180703163900 +0000">
     <title>The Project</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -25068,18 +25072,11 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070685" start="20180705050000 +0000" stop="20180705060000 +0000">
+  <programme channel="tv.101406070685" start="20180705050000 +0000" stop="20180705063000 +0000">
     <title>MasterChef Australia</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406070685" start="20180705060000 +0000" stop="20180705063000 +0000">
-    <title>Entertainment Tonight</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20180705063000 +0000" stop="20180705070000 +0000">
@@ -26449,13 +26446,13 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070688" start="20180703203200 +0000" stop="20180703210000 +0000">
+  <programme channel="tv.101406070688" start="20180703203200 +0000" stop="20180703205900 +0000">
     <title>Frasier</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070688" start="20180703210000 +0000" stop="20180703213100 +0000">
+  <programme channel="tv.101406070688" start="20180703205900 +0000" stop="20180703213100 +0000">
     <title>Frasier</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -37245,21 +37242,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180703025610 +0000" stop="20180703030754 +0000">
-    <title>Rob Meets S2E5</title>
-    <desc>Rob Warner travels to Vancouver Island, British Columbia, to meet up with one of Canada's MTB icons.</desc>
-    <sub-title>Rob Meets Mark Wallace</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180703030754 +0000" stop="20180703032053 +0000">
-    <title>Rob Meets S2E4</title>
-    <desc>Rob Warner meets with Finn Iles, a rider who's rising from the junior league to the big league. </desc>
-    <sub-title>Rob Meets Finn Iles</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180703032053 +0000" stop="20180703032658 +0000">
-    <title>Cody Webb and Taylor Robert</title>
-    <desc>Two MX riders tear up California's Donner Ski Ranch in a stunning display of backcountry trials riding.</desc>
-    <sub-title>Donner Partying</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180703032658 +0000" stop="20180703042355 +0000">
     <title>Moto 8: The Movie</title>
