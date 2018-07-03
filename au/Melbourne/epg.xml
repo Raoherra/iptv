@@ -11177,15 +11177,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180705173000 +0000" stop="20180705190000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204300430" start="20180705173000 +0000" stop="20180705180000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180705173000 +0000" stop="20180705180000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204300430" start="20180705173000 +0000" stop="20180705190000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11352,21 +11352,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204300430" start="20180706193000 +0000" stop="20180706200000 +0000">
-    <title>A Current Affair</title>
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204300430" start="20180706193000 +0000" stop="20180706200000 +0000">
-    <title>Good Morning America</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300430" start="20180706200000 +0000" stop="20180706210000 +0000">
-    <title>Good Morning America</title>
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11376,6 +11369,13 @@
     <title>Ellen</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300430" start="20180706200000 +0000" stop="20180706210000 +0000">
+    <title>Good Morning America</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204300430" start="20180706210000 +0000" stop="20180707000000 +0000">
@@ -15596,14 +15596,14 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.101204300437" start="20180705113000 +0000" stop="20180705130000 +0000">
+    <title>Love Island</title>
+  </programme>
   <programme channel="tv.101204300437" start="20180705113000 +0000" stop="20180705123000 +0000">
     <title>Love Island</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
-  </programme>
-  <programme channel="tv.101204300437" start="20180705113000 +0000" stop="20180705130000 +0000">
-    <title>Love Island</title>
   </programme>
   <programme channel="tv.101204300437" start="20180705123000 +0000" stop="20180705133000 +0000">
     <title>Love Island</title>
@@ -22256,15 +22256,15 @@
     </rating>
   </programme>
   <programme channel="tv.101305030533" start="20180706200000 +0000" stop="20180706205800 +0000">
-    <title>AFN Fishing Show</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305030533" start="20180706200000 +0000" stop="20180706205800 +0000">
     <title>Night Thunder</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030533" start="20180706200000 +0000" stop="20180706205800 +0000">
+    <title>AFN Fishing Show</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305030533" start="20180706205800 +0000" stop="20180706220000 +0000">
@@ -37126,36 +37126,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180703020225 +0000" stop="20180703021043 +0000">
-    <title>Who is JOB S5E1</title>
-    <desc>Jamie O'Brien and crew surf the 'The X-Factor of Fun', Hawaii’s Waimea River, where anything can happen. </desc>
-    <sub-title>Waimea: X-Factor of Fun</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180703021043 +0000" stop="20180703022021 +0000">
-    <title>Who is JOB S5E2</title>
-    <desc>Pipeline is pulsing, so Jamie O'Brien rips it to shreds before trying some tandem kayaking at Sunset Beach.</desc>
-    <sub-title>Tandem Kayaks and Pipeline</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180703022021 +0000" stop="20180703022908 +0000">
-    <title>Who is JOB S5E3</title>
-    <desc>A big swell hits Jaws, Hawaii’s legendary wave break, so Jamie O'Brien and the crew take advantage.</desc>
-    <sub-title>Giant Jaws on Odd Boards</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180703022908 +0000" stop="20180703024011 +0000">
-    <title>Who is JOB S5E4</title>
-    <desc>Jamie O'Brien trains Poopies on big-wave board transfers in Waimea, Hawaii, and Poopies breaks out some toys.</desc>
-    <sub-title>Poopies’ Time to Shine</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180703024011 +0000" stop="20180703024642 +0000">
-    <title>Who is JOB S5E5</title>
-    <desc>Jamie O'Brien and crew head to Vancouver Island, Canada for freezing waves and cliff diving on mountain bikes.</desc>
-    <sub-title>Oh, Canada?!</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180703024642 +0000" stop="20180703025610 +0000">
-    <title>Who is JOB S5E6</title>
-    <desc>Jamie O’Brien and his surfing friends take advantage of Canada's deep snow and drainage ditches.</desc>
-    <sub-title>SUPsquatch and Super Slides</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180703025610 +0000" stop="20180703030754 +0000">
     <title>Rob Meets S2E5</title>

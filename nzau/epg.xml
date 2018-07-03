@@ -280,36 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180703020225 +0000" stop="20180703021043 +0000">
-    <title>Who is JOB S5E1</title>
-    <desc>Jamie O'Brien and crew surf the 'The X-Factor of Fun', Hawaii’s Waimea River, where anything can happen. </desc>
-    <sub-title>Waimea: X-Factor of Fun</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180703021043 +0000" stop="20180703022021 +0000">
-    <title>Who is JOB S5E2</title>
-    <desc>Pipeline is pulsing, so Jamie O'Brien rips it to shreds before trying some tandem kayaking at Sunset Beach.</desc>
-    <sub-title>Tandem Kayaks and Pipeline</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180703022021 +0000" stop="20180703022908 +0000">
-    <title>Who is JOB S5E3</title>
-    <desc>A big swell hits Jaws, Hawaii’s legendary wave break, so Jamie O'Brien and the crew take advantage.</desc>
-    <sub-title>Giant Jaws on Odd Boards</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180703022908 +0000" stop="20180703024011 +0000">
-    <title>Who is JOB S5E4</title>
-    <desc>Jamie O'Brien trains Poopies on big-wave board transfers in Waimea, Hawaii, and Poopies breaks out some toys.</desc>
-    <sub-title>Poopies’ Time to Shine</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180703024011 +0000" stop="20180703024642 +0000">
-    <title>Who is JOB S5E5</title>
-    <desc>Jamie O'Brien and crew head to Vancouver Island, Canada for freezing waves and cliff diving on mountain bikes.</desc>
-    <sub-title>Oh, Canada?!</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180703024642 +0000" stop="20180703025610 +0000">
-    <title>Who is JOB S5E6</title>
-    <desc>Jamie O’Brien and his surfing friends take advantage of Canada's deep snow and drainage ditches.</desc>
-    <sub-title>SUPsquatch and Super Slides</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180703025610 +0000" stop="20180703030754 +0000">
     <title>Rob Meets S2E5</title>
     <desc>Rob Warner travels to Vancouver Island, British Columbia, to meet up with one of Canada's MTB icons.</desc>
@@ -13835,6 +13805,9 @@
   <programme channel="tv.28" start="20180703020500 +0000" stop="20180703031000 +0000">
     <title>2018 FIFA World Cup Russia</title>
     <desc>'As the action of the 2018 FIFA World Cup Russia continues, catch the highlights from day three of the Round of 16 games from Samara and Rostov-On-Don. G'</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180703031000 +0000" stop="20180703033500 +0000">
     <title>Wheel Of Fortune</title>
@@ -13937,7 +13910,7 @@
   </programme>
   <programme channel="tv.28" start="20180703174500 +0000" stop="20180703200500 +0000">
     <title>2018 FIFA World Cup Russia</title>
-    <desc>'Join Prime for live coverage of the 2018 FIFA World Cup Russia, as the winners of Group H take on the runners-up of Group G at Spartak Stadium in this Round of 16 match.'</desc>
+    <desc>'Join Prime for live coverage of the 2018 FIFA World Cup Russia, as Colombia take on England at Moscow's Spartak Stadium in this Round of 16 match.'</desc>
   </programme>
   <programme channel="tv.28" start="20180703200500 +0000" stop="20180703203000 +0000">
     <title>Batman: Brave And The Bold</title>
@@ -14012,6 +13985,9 @@
   <programme channel="tv.28" start="20180704020500 +0000" stop="20180704031000 +0000">
     <title>2018 FIFA World Cup Russia</title>
     <desc>'As the action of the 2018 FIFA World Cup Russia continues, catch the highlights from day four of the Round of 16 games from St. Petersburg and Moscow. Who has made it to the quarter finals? G'</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180704031000 +0000" stop="20180704033500 +0000">
     <title>Wheel Of Fortune</title>
@@ -36400,8 +36376,8 @@
     </rating>
   </programme>
   <programme channel="tv.60" start="20180703000000 +0000" stop="20180703010000 +0000">
-    <title>Colour in Your Life</title>
-    <desc>Join Graham Stevenson as he explores the arts across Australasia and the UK.</desc>
+    <title>Jam Jar with Stefan Brown</title>
+    <desc>Jam Jar seeks to inform listeners about the creative talent here in The Raps not only musicians but writers painters poets and dancers too.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -36463,8 +36439,8 @@
     </rating>
   </programme>
   <programme channel="tv.60" start="20180703100000 +0000" stop="20180703110000 +0000">
-    <title>Wairarapa Property Showcase</title>
-    <desc>A selection of the best Wairarapa Properties for sale.</desc>
+    <title>Jam Jar with Stefan Brown</title>
+    <desc>Jam Jar seeks to inform listeners about the creative talent here in The Raps not only musicians but writers painters poets and dancers too.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -36526,8 +36502,11 @@
     </rating>
   </programme>
   <programme channel="tv.60" start="20180703190000 +0000" stop="20180703200000 +0000">
-    <title>Today I Found Out</title>
-    <desc>Today I Found Out...</desc>
+    <title>Jamaican Vinyl</title>
+    <desc>A behind-the-scenes exploration of the vibrant unique and enormously prolific Jamaican music scene spanning forty years from the 1960s to the 90s.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.60" start="20180703200000 +0000" stop="20180703210000 +0000">
     <title>Space Hour</title>
@@ -36599,9 +36578,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.60" start="20180704060000 +0000" stop="20180704070000 +0000">
-    <title>Fencepost</title>
-    <desc>Meet the places and faces behind the New Zealand agricultural sector with Rural Delivery and locally made rural special features. Rural Delivery is made with the support of NZ on Air</desc>
+  <programme channel="tv.60" start="20180704060000 +0000" stop="20180704064500 +0000">
+    <title>Jam Jar with Stefan Brown</title>
+    <desc>Jam Jar seeks to inform listeners about the creative talent here in The Raps not only musicians but writers painters poets and dancers too.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180704064500 +0000" stop="20180704070000 +0000">
+    <title>Wairarapa Heart</title>
+    <desc>Live From Carterton</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -36919,8 +36905,8 @@
     </rating>
   </programme>
   <programme channel="tv.60" start="20180706060000 +0000" stop="20180706070000 +0000">
-    <title>Fencepost</title>
-    <desc>Meet the places and faces behind the New Zealand agricultural sector with Rural Delivery and locally made rural special features. Rural Delivery is made with the support of NZ on Air</desc>
+    <title>Jamaican Vinyl</title>
+    <desc>A behind-the-scenes exploration of the vibrant unique and enormously prolific Jamaican music scene spanning forty years from the 1960s to the 90s.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -37278,8 +37264,8 @@
     </rating>
   </programme>
   <programme channel="tv.60" start="20180708110000 +0000" stop="20180708120000 +0000">
-    <title>Pasefika</title>
-    <desc>Blends of the Pacific smooth sounds of the Samoan and Rarotongan Community.</desc>
+    <title>Flite Test</title>
+    <desc>Join the team from Flite Test as they build and test all array of flying machines from drones to model aircraft to racers.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -37356,10 +37342,10 @@
     </rating>
   </programme>
   <programme channel="tv.60" start="20180708230000 +0000" stop="20180709000000 +0000">
-    <title>Improving Our World</title>
-    <desc>Finding innovative ways to improve our world. Brought to you by the World Economic Forum</desc>
+    <title>Pasefika</title>
+    <desc>Blends of the Pacific smooth sounds of the Samoan and Rarotongan Community.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.60" start="20180709000000 +0000" stop="20180709010000 +0000">
@@ -37377,11 +37363,8 @@
     </rating>
   </programme>
   <programme channel="tv.60" start="20180709020000 +0000" stop="20180709030000 +0000">
-    <title>Must See NZ</title>
-    <desc>A mix of Wairarapa and National Tourism hotspots for locals and visitors alike.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
+    <title>Recooper8</title>
+    <desc/>
   </programme>
   <programme channel="tv.60" start="20180709030000 +0000" stop="20180709040000 +0000">
     <title>Kids Hour</title>
@@ -37419,20 +37402,178 @@
     </rating>
   </programme>
   <programme channel="tv.60" start="20180709080000 +0000" stop="20180709090000 +0000">
+    <title>Recooper8</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.60" start="20180709090000 +0000" stop="20180709100000 +0000">
+    <title>Carterton Connections</title>
+    <desc>Carterton Connections is a programme sponsored by Carterton District Council and dedicated to showcasing all that our district has to offer.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180709100000 +0000" stop="20180709110000 +0000">
     <title>Wairarapa Property Showcase</title>
     <desc>A selection of the best Wairarapa Properties for sale.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.60" start="20180709090000 +0000" stop="20180709100000 +0000">
-    <title>Pasefika</title>
-    <desc>Blends of the Pacific smooth sounds of the Samoan and Rarotongan Community.</desc>
+  <programme channel="tv.60" start="20180709110000 +0000" stop="20180709120000 +0000">
+    <title>Nothing Personal - ArrowFM</title>
+    <desc>Nothing Personal merges both business and music together. Join host Nikki King who talks to guests from the community about their business.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180709120000 +0000" stop="20180709130000 +0000">
+    <title>Flite Test</title>
+    <desc>Join the team from Flite Test as they build and test all array of flying machines from drones to model aircraft to racers.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.60" start="20180709100000 +0000" stop="20180709110000 +0000">
+  <programme channel="tv.60" start="20180709130000 +0000" stop="20180709140000 +0000">
+    <title>Space Hour</title>
+    <desc>NASA Edge is the official NASA Channel and TMRO is a crowd funded space channel run by space enthusiasts.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180709140000 +0000" stop="20180709150000 +0000">
+    <title>The Golden Shears</title>
+    <desc>Who knew shearing could be this exciting to watch. The worlds premier shearing and woolhandling championship takes place in Masterton capital of New Zealands Wairarapa region.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180709150000 +0000" stop="20180709160000 +0000">
+    <title>Conservation Watch</title>
+    <desc>Join the department of conservation to catch up on the latest conservation efforts from around the country.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180709160000 +0000" stop="20180709170000 +0000">
+    <title>Mental Health Hour</title>
+    <desc>An hour of programs to support mental health awareness and suicide prevention.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180709170000 +0000" stop="20180709180000 +0000">
+    <title>Wairarapa Spotlight</title>
+    <desc>Spotlight on the Wairarapa featuring the latest happenings to events of historical significance.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180709180000 +0000" stop="20180709190000 +0000">
+    <title>Nothing Personal - ArrowFM</title>
+    <desc>Nothing Personal merges both business and music together. Join host Nikki King who talks to guests from the community about their business.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180709190000 +0000" stop="20180709200000 +0000">
+    <title>Space Hour</title>
+    <desc>NASA Edge is the official NASA Channel and TMRO is a crowd funded space channel run by space enthusiasts.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180709200000 +0000" stop="20180709210000 +0000">
+    <title>Wairarapa Spotlight</title>
+    <desc>Spotlight on the Wairarapa featuring the latest happenings to events of historical significance.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180709210000 +0000" stop="20180709220000 +0000">
+    <title>The Beat Goes On</title>
+    <desc>As lead singer of popular 70s band The Rumour. Gerards voice became known nation wide when Love is the Child of Freedom became one of the decades biggest hits.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180709220000 +0000" stop="20180710000000 +0000">
+    <title>Wairarapa Property Showcase</title>
+    <desc>A selection of the best Wairarapa Properties for sale.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180710000000 +0000" stop="20180710010000 +0000">
+    <title>Jam Jar with Stefan Brown</title>
+    <desc>Jam Jar seeks to inform listeners about the creative talent here in The Raps not only musicians but writers painters poets and dancers too.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180710010000 +0000" stop="20180710020000 +0000">
+    <title>Wairarapa Spotlight</title>
+    <desc>Spotlight on the Wairarapa featuring the latest happenings to events of historical significance.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180710020000 +0000" stop="20180710030000 +0000">
+    <title>The Night Sky with Richard Hall</title>
+    <desc>Explore the wonders of our magnificent night sky. We discuss the latest news and discoveries from space and we also tell stories from antiquity.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180710030000 +0000" stop="20180710040000 +0000">
+    <title>Kids Hour</title>
+    <desc>Join Oggy the Cockroach and other classics for an hour of kids entertainment.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180710040000 +0000" stop="20180710060000 +0000">
+    <title>Space Hour</title>
+    <desc>NASA Edge is the official NASA Channel and TMRO is a crowd funded space channel run by space enthusiasts.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180710060000 +0000" stop="20180710070000 +0000">
+    <title>Nothing Personal - ArrowFM</title>
+    <desc>Nothing Personal merges both business and music together. Join host Nikki King who talks to guests from the community about their business.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180710070000 +0000" stop="20180710090000 +0000">
+    <title>Booklovers Corner</title>
+    <desc>The Book Lovers Corner is an idea that has sprung out of a group of like-minded friends discussions on books they were reading or had read.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180710090000 +0000" stop="20180710093500 +0000">
+    <title>The Road to Recovery</title>
+    <desc>The Road To Recovery and Freedom is part of the personal journey of Mark Davis through mental depression but also tracks his travels around New Zealand and various parts of the world.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180710093500 +0000" stop="20180710100000 +0000">
+    <title>Mental Health Hour</title>
+    <desc>An hour of programs to support mental health awareness and suicide prevention.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180710100000 +0000" stop="20180710110000 +0000">
+    <title>Jam Jar with Stefan Brown</title>
+    <desc>Jam Jar seeks to inform listeners about the creative talent here in The Raps not only musicians but writers painters poets and dancers too.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.60" start="20180710110000 +0000" stop="20180710120000 +0000">
     <title>Wairarapa Property Showcase</title>
     <desc>A selection of the best Wairarapa Properties for sale.</desc>
     <rating system="Freeview">
@@ -49359,8 +49500,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180705173000 +0000" stop="20180705190000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204200421" start="20180705173000 +0000" stop="20180705180000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -49521,7 +49662,7 @@
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180706193000 +0000" stop="20180706200000 +0000">
-    <title>Good Morning America</title>
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -58224,9 +58365,9 @@
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180706205800 +0000" stop="20180706220000 +0000">
-    <title>Night Thunder</title>
+    <title>AFN Fishing Show</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180706220000 +0000" stop="20180706223000 +0000">
