@@ -10746,6 +10746,7 @@
   </programme>
   <programme channel="tv.101204200421" start="20180703070000 +0000" stop="20180703075900 +0000">
     <title>Millionaire Hot Seat</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -11064,6 +11065,7 @@
   </programme>
   <programme channel="tv.101204200421" start="20180705070000 +0000" stop="20180705080000 +0000">
     <title>Millionaire Hot Seat</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -11401,7 +11403,6 @@
   </programme>
   <programme channel="tv.101204200421" start="20180707090000 +0000" stop="20180707110000 +0000">
     <title>My Big Fat Greek Wedding 2</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -12423,6 +12424,7 @@
   </programme>
   <programme channel="tv.101204200424" start="20180705113000 +0000" stop="20180705123000 +0000">
     <title>Body Bizarre</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -12472,6 +12474,7 @@
   </programme>
   <programme channel="tv.101204200424" start="20180705170000 +0000" stop="20180705180000 +0000">
     <title>Body Bizarre</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -15068,6 +15071,7 @@
   </programme>
   <programme channel="tv.101204200428" start="20180703220000 +0000" stop="20180703223000 +0000">
     <title>Creature Mania</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>C</value>
     </rating>
@@ -15503,14 +15507,14 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200428" start="20180705113000 +0000" stop="20180705130000 +0000">
+    <title>Love Island</title>
+  </programme>
   <programme channel="tv.101204200428" start="20180705113000 +0000" stop="20180705123000 +0000">
     <title>Love Island</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
-  </programme>
-  <programme channel="tv.101204200428" start="20180705113000 +0000" stop="20180705130000 +0000">
-    <title>Love Island</title>
   </programme>
   <programme channel="tv.101204200428" start="20180705123000 +0000" stop="20180705133000 +0000">
     <title>Love Island</title>
@@ -20661,26 +20665,26 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20180706142800 +0000" stop="20180706153200 +0000">
+  <programme channel="tv.101305050552" start="20180706142800 +0000" stop="20180706153300 +0000">
     <title>Escape to the Country</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20180706153200 +0000" stop="20180706183300 +0000">
+  <programme channel="tv.101305050552" start="20180706153300 +0000" stop="20180706183300 +0000">
     <title>Psychic TV</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20180706183300 +0000" stop="20180706190100 +0000">
+  <programme channel="tv.101305050552" start="20180706183300 +0000" stop="20180706190200 +0000">
     <title>Million Dollar Minute</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20180706190100 +0000" stop="20180706193200 +0000">
+  <programme channel="tv.101305050552" start="20180706190200 +0000" stop="20180706193200 +0000">
     <title>Million Dollar Minute</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -22238,15 +22242,21 @@
     </rating>
   </programme>
   <programme channel="tv.101305050553" start="20180706203000 +0000" stop="20180706212800 +0000">
-    <title>To Be Advised</title>
-  </programme>
-  <programme channel="tv.101305050553" start="20180706212800 +0000" stop="20180706223000 +0000">
-    <title>To Be Advised</title>
+    <title>AFN Fishing Show</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101305050553" start="20180706212800 +0000" stop="20180706223000 +0000">
     <title>Night Thunder</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050553" start="20180706212800 +0000" stop="20180706223000 +0000">
+    <title>AFN Fishing Show</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050553" start="20180706223000 +0000" stop="20180706230000 +0000">
@@ -26868,7 +26878,7 @@
     </rating>
   </programme>
   <programme channel="tv.101406050655" start="20180707020000 +0000" stop="20180707080000 +0000">
-    <title>Supercars Townsville</title>
+    <title>Supercars Townsville Live - 1</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -37078,11 +37088,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180703010318 +0000" stop="20180703020225 +0000">
-    <title>Attractive Distractions</title>
-    <desc>Mind-bending surfing meets cutting-edge cinematography in this globe-spanning of wave exploration.</desc>
-    <sub-title>Pushing Surfing to New Heights</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180703020225 +0000" stop="20180703021043 +0000">
     <title>Who is JOB S5E1</title>
