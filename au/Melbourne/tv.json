@@ -7,14 +7,14 @@
         "network": "SEVEN",
         "stream_type": "scraped",
         "video": {
+            "codec": "h264",
             "height": 504,
-            "width": 896,
-            "codec": "h264"
+            "width": 896
         },
         "audio": {
             "channels": 2,
-            "sample_rate": 48000,
-            "codec": "aac"
+            "codec": "aac",
+            "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030532/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030532.m3u8",
@@ -33,14 +33,14 @@
         "network": "SEVEN",
         "stream_type": "scraped",
         "video": {
+            "codec": "h264",
             "height": 360,
-            "width": 640,
-            "codec": "h264"
+            "width": 640
         },
         "audio": {
             "channels": 2,
-            "sample_rate": 48000,
-            "codec": "aac"
+            "codec": "aac",
+            "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030535/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030535.m3u8",
@@ -59,14 +59,14 @@
         "network": "SEVEN",
         "stream_type": "scraped",
         "video": {
+            "codec": "h264",
             "height": 504,
-            "width": 896,
-            "codec": "h264"
+            "width": 896
         },
         "audio": {
             "channels": 2,
-            "sample_rate": 48000,
-            "codec": "aac"
+            "codec": "aac",
+            "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030533/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030533.m3u8",
@@ -153,14 +153,14 @@
         "network": "ABC",
         "stream_type": "Token",
         "video": {
+            "codec": "h264",
             "height": 360,
-            "width": 640,
-            "codec": "h264"
+            "width": 640
         },
         "audio": {
             "channels": 2,
-            "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002310231/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002310231.m3u8",
@@ -205,14 +205,14 @@
         "network": "ABC",
         "stream_type": "Token",
         "video": {
+            "codec": "h264",
             "height": 360,
-            "width": 640,
-            "codec": "h264"
+            "width": 640
         },
         "audio": {
             "channels": 2,
-            "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002210224/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002210224.m3u8",
@@ -410,14 +410,14 @@
         "network": "SEVEN",
         "stream_type": "scraped",
         "video": {
+            "codec": "h264",
             "height": 360,
-            "width": 640,
-            "codec": "h264"
+            "width": 640
         },
         "audio": {
             "channels": 2,
-            "sample_rate": 48000,
-            "codec": "aac"
+            "codec": "aac",
+            "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305020528/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305020528.m3u8",
@@ -512,14 +512,14 @@
         "network": "SEVEN",
         "stream_type": "scraped",
         "video": {
+            "codec": "h264",
             "height": 504,
-            "width": 896,
-            "codec": "h264"
+            "width": 896
         },
         "audio": {
             "channels": 2,
-            "sample_rate": 48000,
-            "codec": "aac"
+            "codec": "aac",
+            "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030530/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101305030530.m3u8",
