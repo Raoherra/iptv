@@ -20,8 +20,8 @@
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.101305020522.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101305020522.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -46,8 +46,8 @@
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.101305020525.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101305020525.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -72,8 +72,8 @@
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.101305020523.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101305020523.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -98,8 +98,8 @@
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.101204200427.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101204200427.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -124,8 +124,8 @@
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.101204200428.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101204200428.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -137,21 +137,21 @@
         "network": "NINE",
         "stream_type": "Scraped",
         "video": {
-            "height": 720,
             "codec": "h264",
+            "height": 720,
             "width": 1280
         },
         "audio": {
-            "codec": "aac",
             "sample_rate": 48000,
+            "codec": "aac",
             "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/tv.101204200424/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.101204200424.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101204200424.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -176,8 +176,8 @@
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.101002210221.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101002210221.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -189,21 +189,21 @@
         "network": "ABC",
         "stream_type": "Token",
         "video": {
-            "height": 360,
             "codec": "h264",
+            "height": 360,
             "width": 640
         },
         "audio": {
-            "codec": "aac",
             "sample_rate": 44100,
+            "codec": "aac",
             "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/tv.101002210222/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.101002210222.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -215,21 +215,21 @@
         "network": "ABC",
         "stream_type": "Token",
         "video": {
-            "height": 360,
             "codec": "h264",
+            "height": 360,
             "width": 640
         },
         "audio": {
-            "codec": "aac",
             "sample_rate": 44100,
+            "codec": "aac",
             "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/tv.101002210224/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.101002210224.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -241,21 +241,21 @@
         "network": "ABC",
         "stream_type": "Token",
         "video": {
-            "height": 360,
             "codec": "h264",
+            "height": 360,
             "width": 640
         },
         "audio": {
-            "codec": "aac",
             "sample_rate": 44100,
+            "codec": "aac",
             "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/tv.101002210220/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.101002210220.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -267,21 +267,21 @@
         "network": "NINE",
         "stream_type": "Scraped",
         "video": {
-            "height": 720,
             "codec": "h264",
+            "height": 720,
             "width": 1280
         },
         "audio": {
-            "codec": "aac",
             "sample_rate": 48000,
+            "codec": "aac",
             "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/tv.101204200421/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.101204200421.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101204200421.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -306,8 +306,8 @@
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.101406020628.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101406020628.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -332,8 +332,8 @@
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -355,8 +355,8 @@
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.fox.sports.news.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.fox.sports.news.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -381,8 +381,8 @@
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.320203000305.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -407,8 +407,8 @@
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.101406020621.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101406020621.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -433,8 +433,8 @@
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.101305020528.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101305020528.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -457,8 +457,8 @@
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.redbull.tv.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.redbull.tv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -483,8 +483,8 @@
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.320203000301.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -509,8 +509,8 @@
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.320203000302.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.320203000302.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -535,8 +535,8 @@
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.101305020520.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101305020520.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     },
@@ -561,8 +561,8 @@
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/tv.101406020625.m3u8",
         "headers": {
             "Referer": "%20",
-            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
-            "X-Forwarded-For": "52.62.247.239"
+            "X-Forwarded-For": "52.62.247.239",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
         },
         "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101406020625.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
     }
