@@ -9701,16 +9701,16 @@
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180706220000 +0000" stop="20180706230000 +0000">
-    <title>Ellen</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600461" start="20180706220000 +0000" stop="20180706230000 +0000">
     <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600461" start="20180706220000 +0000" stop="20180706230000 +0000">
+    <title>Ellen</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180706230000 +0000" stop="20180707020000 +0000">
@@ -13762,14 +13762,14 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600468" start="20180705133000 +0000" stop="20180705150000 +0000">
-    <title>Love Island</title>
-  </programme>
   <programme channel="tv.101204600468" start="20180705133000 +0000" stop="20180705143000 +0000">
     <title>Love Island</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
+  </programme>
+  <programme channel="tv.101204600468" start="20180705133000 +0000" stop="20180705150000 +0000">
+    <title>Love Island</title>
   </programme>
   <programme channel="tv.101204600468" start="20180705143000 +0000" stop="20180705153000 +0000">
     <title>Love Island</title>
@@ -20528,18 +20528,12 @@
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180706220000 +0000" stop="20180706225800 +0000">
-    <title>Night Thunder</title>
+    <title>AFN Fishing Show</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180706220000 +0000" stop="20180706225800 +0000">
-    <title>AFN Fishing Show</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305060563" start="20180706225800 +0000" stop="20180707000000 +0000">
     <title>Night Thunder</title>
     <rating system="Freeview">
       <value>NC</value>
@@ -20549,6 +20543,12 @@
     <title>AFN Fishing Show</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305060563" start="20180706225800 +0000" stop="20180707000000 +0000">
+    <title>Night Thunder</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180707000000 +0000" stop="20180707003000 +0000">
@@ -37194,16 +37194,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180703220910 +0000" stop="20180703233455 +0000">
-    <title>Shake the Dust</title>
-    <desc>Communities around the world have found something that brings them together: breakdancing.</desc>
-    <sub-title>Global Communities Linked by Breakdancing</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180703233455 +0000" stop="20180704000027 +0000">
-    <title>After the Raves S1E1</title>
-    <desc>DJ Tommie Sunshine visits with Dirty South, 12th Planet and The Gaslamp Killer in Los Angeles.</desc>
-    <sub-title>Los Angeles: The New Tinseltown</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180704000027 +0000" stop="20180704002757 +0000">
     <title>A History of... S1E1</title>

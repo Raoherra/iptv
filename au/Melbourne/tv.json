@@ -137,14 +137,14 @@
         "network": "NINE",
         "stream_type": "Scraped",
         "video": {
-            "height": 720,
             "codec": "h264",
-            "width": 1280
+            "width": 1280,
+            "height": 720
         },
         "audio": {
-            "codec": "aac",
             "channels": 2,
-            "sample_rate": 48000
+            "sample_rate": 48000,
+            "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300433/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300433.m3u8",
@@ -267,14 +267,14 @@
         "network": "NINE",
         "stream_type": "Scraped",
         "video": {
-            "height": 720,
             "codec": "h264",
-            "width": 1280
+            "width": 1280,
+            "height": 720
         },
         "audio": {
-            "codec": "aac",
             "channels": 2,
-            "sample_rate": 48000
+            "sample_rate": 48000,
+            "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300430/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300430.m3u8",
