@@ -14943,14 +14943,14 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300437" start="20180705113000 +0000" stop="20180705130000 +0000">
-    <title>Love Island</title>
-  </programme>
   <programme channel="tv.101204300437" start="20180705113000 +0000" stop="20180705123000 +0000">
     <title>Love Island</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
+  </programme>
+  <programme channel="tv.101204300437" start="20180705113000 +0000" stop="20180705130000 +0000">
+    <title>Love Island</title>
   </programme>
   <programme channel="tv.101204300437" start="20180705123000 +0000" stop="20180705133000 +0000">
     <title>Love Island</title>
@@ -15360,17 +15360,17 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204300437" start="20180707071500 +0000" stop="20180707074500 +0000">
+    <title>Clarence</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204300437" start="20180707071500 +0000" stop="20180707090000 +0000">
     <title>Stuart Little</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300437" start="20180707071500 +0000" stop="20180707074500 +0000">
-    <title>Clarence</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204300437" start="20180707090000 +0000" stop="20180707110000 +0000">
@@ -21685,15 +21685,15 @@
     </rating>
   </programme>
   <programme channel="tv.101305030533" start="20180706205800 +0000" stop="20180706220000 +0000">
-    <title>Night Thunder</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305030533" start="20180706205800 +0000" stop="20180706220000 +0000">
     <title>AFN Fishing Show</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030533" start="20180706205800 +0000" stop="20180706220000 +0000">
+    <title>Night Thunder</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305030533" start="20180706220000 +0000" stop="20180706223000 +0000">
@@ -36996,11 +36996,6 @@
     <rating system="Freeview">
       <value>NC</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180704174343 +0000" stop="20180704181131 +0000">
-    <title>Red Bull Show Run 2012</title>
-    <desc>Salt flies in northern Argentina as the team's F1 car rips across the salt flats of Salinas Grandes.</desc>
-    <sub-title>F1 Show Run Salt Challenge</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180704181131 +0000" stop="20180704194209 +0000">
     <title>Pushing the Limits</title>
