@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180704040110 +0000" stop="20180704043129 +0000">
-    <title>Beneath the Surface</title>
-    <desc>Big wave surfer Andrew Cotton rolls the dice on his season by choosing to explore a wave with huge potential.</desc>
-    <sub-title>Chasing a Secret Slab</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180704043129 +0000" stop="20180704050055 +0000">
-    <title>The Road Trick S1E1</title>
-    <desc>Magician Adam Trent discovers that Budapest, Hungary, has a light and dark side. Can his tricks work in both?</desc>
-    <sub-title>Budapest</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180704050052 +0000" stop="20180704055052 +0000">
     <title>Builder</title>
     <desc>Explore the craft of trail building through the eyes of some of MTB's best riders and most respected builders.</desc>
@@ -1579,21 +1569,21 @@
     <title>Lotto</title>
     <desc></desc>
   </programme>
-  <programme channel="tv.9" start="20180707080500 +0000" stop="20180707083500 +0000">
+  <programme channel="tv.9" start="20180707080500 +0000" stop="20180707083000 +0000">
     <title>Britain's Got Talent Continued</title>
     <desc>After thousands applied and hundreds auditioned, the search reaches the live semi-finals. The final 40 acts now perform live in the hope of impressing the judges.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180707083500 +0000" stop="20180707093500 +0000">
+  <programme channel="tv.9" start="20180707083000 +0000" stop="20180707093000 +0000">
     <title>The Hotel Inspector Returns</title>
     <desc>Alex Polizzi returns to previous locations to see how they have been doing since her last visit. Tonight, she revisits Hotel Celebrity.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180707093500 +0000" stop="20180707104000 +0000">
+  <programme channel="tv.9" start="20180707093000 +0000" stop="20180707104000 +0000">
     <title>Apple Tree Yard</title>
     <desc>Yvonne’s life is turned upside down yet again, when she is ripped away from her family, and arrested for the murder of George Selway.</desc>
     <subtitles type="teletext"/>
@@ -1721,7 +1711,7 @@
   </programme>
   <programme channel="tv.9" start="20180708073000 +0000" stop="20180708083000 +0000">
     <title>Sunday</title>
-    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe.</desc>
+    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe. Tonight, a small farming community that woke to absolute devastation after a night of heavy rain.</desc>
   </programme>
   <programme channel="tv.9" start="20180708083000 +0000" stop="20180708102000 +0000">
     <title>Kiwi</title>
@@ -1936,6 +1926,9 @@
   <programme channel="tv.9" start="20180710010000 +0000" stop="20180710020000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Nick fights with his insecurities. Michelle tries to move on. Will Jenny’s idea fall apart at the seams?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180710020000 +0000" stop="20180710030000 +0000">
     <title>Wimbledon Highlights</title>
@@ -1998,10 +1991,16 @@
     <title>Coronation Street 2018</title>
     <desc>Simon is caught out on his lies. Steve makes a big decision without thinking it through.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180710100000 +0000" stop="20180710110000 +0000">
     <title>Under The Influence</title>
     <desc>Philip Seymour Hoffman and Cory Monteith were two beloved actors who earned praise from their peers. Both triumphed over drug addiction with years of sobriety, only to crash in similar ways.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180710110000 +0000" stop="20180710180000 +0000">
     <title>Wimbledon Live Games</title>
@@ -2046,6 +2045,9 @@
   <programme channel="tv.9" start="20180711010000 +0000" stop="20180711020000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Jenny and Aidan declare battle. Maria gives in to Liam’s pressure. Cathy accepts Brian’s offer.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180711020000 +0000" stop="20180711030000 +0000">
     <title>Wimbledon Highlights</title>
@@ -2713,6 +2715,9 @@
   <programme channel="tv.10" start="20180705040000 +0000" stop="20180705043000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Bec Brookland the teacher and her 3 beagles Baxter Scotch and Peanut, your joke could win a prize on Quack Up, and we show you how to make snail pinwheel scones!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180705043000 +0000" stop="20180705050000 +0000">
     <title>Friends</title>
@@ -3006,7 +3011,7 @@
     <title>Home And Away</title>
     <desc>Ebony’s revenge plan is executed with deadly consequences. Raffy’s heartbroken as Ty and Ryder repair their friendship. Marilyn and John try to heal their fragile family.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180706030000 +0000" stop="20180706033000 +0000">
@@ -3576,7 +3581,13 @@
   <programme channel="tv.10" start="20180707220000 +0000" stop="20180708000000 +0000">
     <title>Shortland Street</title>
     <desc>Curtis chases shadows. Vinnie wants to whisk Nicole away. Damo cooks up a blinder.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180708000000 +0000" stop="20180708024000 +0000">
     <title>Heartbreak Island</title>
@@ -3913,6 +3924,9 @@
   <programme channel="tv.10" start="20180709053000 +0000" stop="20180709060000 +0000">
     <title>Home And Away</title>
     <desc>Tori and Jasmine race against time to save Colby. Robbo fights to clear his name. Can Ben pull off a miracle before the wedding?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180709060000 +0000" stop="20180709063000 +0000">
     <title>The Big Bang Theory</title>
@@ -4065,6 +4079,9 @@
   <programme channel="tv.10" start="20180709183000 +0000" stop="20180709184000 +0000">
     <title>The Wot Wots</title>
     <desc>Two friendly aliens traveling in a steam-powered spaceship explore the Earth's many unique environments and the animals inhabiting them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180709184000 +0000" stop="20180709185000 +0000">
     <title>Darwin &amp; Newts</title>
@@ -4072,6 +4089,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180709185000 +0000" stop="20180709190000 +0000">
     <title>Peppa Pig</title>
@@ -4086,6 +4106,9 @@
   <programme channel="tv.10" start="20180709190000 +0000" stop="20180709192500 +0000">
     <title>Ranger Rob</title>
     <desc>Adventurous Ranger Rob's favourite thing to do is go outside to play, explore and discover. That's easy for him to do at Big Sky Park, the coolest outdoor adventure park around.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180709192500 +0000" stop="20180709195000 +0000">
     <title>Matt Hatter Chronicles</title>
@@ -4097,6 +4120,9 @@
   <programme channel="tv.10" start="20180709195000 +0000" stop="20180709201500 +0000">
     <title>Zak Storm</title>
     <desc>Zak is a young surfer who gets sucked into the Seven Seas of the Bermuda Triangle, where he becomes a captain of a ship of outcasts. He tackles danger on land with his crew and his magical sword.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180709201500 +0000" stop="20180709203500 +0000">
     <title>Disney Junior: Puppy Pals</title>
@@ -4114,6 +4140,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180709210000 +0000" stop="20180709213000 +0000">
     <title>Infomercial 0900</title>
@@ -4163,6 +4192,9 @@
   <programme channel="tv.10" start="20180710023000 +0000" stop="20180710030000 +0000">
     <title>Home And Away</title>
     <desc>Tori and Jasmine race against time to save Colby. Robbo fights to clear his name. Can Ben pull off a miracle before the wedding?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180710030000 +0000" stop="20180710033000 +0000">
     <title>Shortland Street</title>
@@ -4194,7 +4226,7 @@
   </programme>
   <programme channel="tv.10" start="20180710040000 +0000" stop="20180710043000 +0000">
     <title>Fanimals</title>
-    <desc>We're at the zoo for the school holidays! We peek in on some playful penguins, show you how to make doggy bikkies, and you and your pet could win on Trick for Treat!</desc>
+    <desc>We're at the zoo for the school holidays! We spot some speedy cheetahs, show you how to make doggy bikkies, and you and your pet could win on Trick for Treat!</desc>
   </programme>
   <programme channel="tv.10" start="20180710043000 +0000" stop="20180710050000 +0000">
     <title>Friends</title>
@@ -4504,7 +4536,7 @@
   </programme>
   <programme channel="tv.10" start="20180711040000 +0000" stop="20180711043000 +0000">
     <title>Fanimals</title>
-    <desc>We're at the zoo for the school holidays! We say hello to some giraffes, show you how to make a guinea pig pedicure pad, and you could win a prize on Call of Nature!</desc>
+    <desc>We're at the zoo for the school holidays! We say hello to some giraffes, show you how to make a guinea pig pedicure ramp, and you could win a prize on Who Knows the Zoo!</desc>
   </programme>
   <programme channel="tv.10" start="20180711043000 +0000" stop="20180711050000 +0000">
     <title>Friends</title>
@@ -8968,21 +9000,21 @@
     <title>Lotto</title>
     <desc></desc>
   </programme>
-  <programme channel="tv.38" start="20180707090500 +0000" stop="20180707093500 +0000">
+  <programme channel="tv.38" start="20180707090500 +0000" stop="20180707093000 +0000">
     <title>Britain's Got Talent Continued</title>
     <desc>After thousands applied and hundreds auditioned, the search reaches the live semi-finals. The final 40 acts now perform live in the hope of impressing the judges.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180707093500 +0000" stop="20180707103500 +0000">
+  <programme channel="tv.38" start="20180707093000 +0000" stop="20180707103000 +0000">
     <title>The Hotel Inspector Returns</title>
     <desc>Alex Polizzi returns to previous locations to see how they have been doing since her last visit. Tonight, she revisits Hotel Celebrity.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180707103500 +0000" stop="20180707114000 +0000">
+  <programme channel="tv.38" start="20180707103000 +0000" stop="20180707114000 +0000">
     <title>Apple Tree Yard</title>
     <desc>Yvonne’s life is turned upside down yet again, when she is ripped away from her family, and arrested for the murder of George Selway.</desc>
     <subtitles type="teletext"/>
@@ -9110,7 +9142,7 @@
   </programme>
   <programme channel="tv.38" start="20180708083000 +0000" stop="20180708093000 +0000">
     <title>Sunday</title>
-    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe.</desc>
+    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe. Tonight, a small farming community that woke to absolute devastation after a night of heavy rain.</desc>
   </programme>
   <programme channel="tv.38" start="20180708093000 +0000" stop="20180708112000 +0000">
     <title>Kiwi</title>
@@ -9325,6 +9357,9 @@
   <programme channel="tv.38" start="20180710020000 +0000" stop="20180710030000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Nick fights with his insecurities. Michelle tries to move on. Will Jenny’s idea fall apart at the seams?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180710030000 +0000" stop="20180710040000 +0000">
     <title>Wimbledon Highlights</title>
@@ -9387,10 +9422,16 @@
     <title>Coronation Street 2018</title>
     <desc>Simon is caught out on his lies. Steve makes a big decision without thinking it through.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180710110000 +0000" stop="20180710120000 +0000">
     <title>Under The Influence</title>
     <desc>Philip Seymour Hoffman and Cory Monteith were two beloved actors who earned praise from their peers. Both triumphed over drug addiction with years of sobriety, only to crash in similar ways.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180710120000 +0000" stop="20180710190000 +0000">
     <title>Wimbledon Live Games</title>
@@ -9435,6 +9476,9 @@
   <programme channel="tv.38" start="20180711020000 +0000" stop="20180711030000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Jenny and Aidan declare battle. Maria gives in to Liam’s pressure. Cathy accepts Brian’s offer.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180711030000 +0000" stop="20180711040000 +0000">
     <title>Wimbledon Highlights</title>
@@ -10018,6 +10062,9 @@
   <programme channel="tv.14" start="20180705050000 +0000" stop="20180705053000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet Bec Brookland the teacher and her 3 beagles Baxter Scotch and Peanut, your joke could win a prize on Quack Up, and we show you how to make snail pinwheel scones!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180705053000 +0000" stop="20180705060000 +0000">
     <title>Friends</title>
@@ -10278,7 +10325,7 @@
     <title>Home And Away</title>
     <desc>Ebony’s revenge plan is executed with deadly consequences. Raffy’s heartbroken as Ty and Ryder repair their friendship. Marilyn and John try to heal their fragile family.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180706040000 +0000" stop="20180706043000 +0000">
@@ -10759,6 +10806,9 @@
     <title>Shortland Street</title>
     <desc>Curtis chases shadows. Vinnie wants to whisk Nicole away. Damo cooks up a blinder.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180708010000 +0000" stop="20180708034000 +0000">
     <title>Heartbreak Island</title>
@@ -11041,6 +11091,9 @@
   <programme channel="tv.14" start="20180709063000 +0000" stop="20180709070000 +0000">
     <title>Home And Away</title>
     <desc>Tori and Jasmine race against time to save Colby. Robbo fights to clear his name. Can Ben pull off a miracle before the wedding?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180709070000 +0000" stop="20180709073000 +0000">
     <title>The Big Bang Theory</title>
@@ -11175,10 +11228,16 @@
   <programme channel="tv.14" start="20180709193000 +0000" stop="20180709194000 +0000">
     <title>The Wot Wots</title>
     <desc>Two friendly aliens traveling in a steam-powered spaceship explore the Earth's many unique environments and the animals inhabiting them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180709194000 +0000" stop="20180709195000 +0000">
     <title>Darwin &amp; Newts</title>
     <desc>Darwin and Newts are a brother and sister duo who love adventures and figuring out how stuff works! Join them as they explore and discover new things with the help of science and some Kiwi ingenuity.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180709195000 +0000" stop="20180709200000 +0000">
     <title>Peppa Pig</title>
@@ -11190,6 +11249,9 @@
   <programme channel="tv.14" start="20180709200000 +0000" stop="20180709202500 +0000">
     <title>Ranger Rob</title>
     <desc>Adventurous Ranger Rob's favourite thing to do is go outside to play, explore and discover. That's easy for him to do at Big Sky Park, the coolest outdoor adventure park around.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180709202500 +0000" stop="20180709205000 +0000">
     <title>Matt Hatter Chronicles</title>
@@ -11201,6 +11263,9 @@
   <programme channel="tv.14" start="20180709205000 +0000" stop="20180709211500 +0000">
     <title>Zak Storm</title>
     <desc>Zak is a young surfer who gets sucked into the Seven Seas of the Bermuda Triangle, where he becomes a captain of a ship of outcasts. He tackles danger on land with his crew and his magical sword.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180709211500 +0000" stop="20180709213500 +0000">
     <title>Disney Junior: Puppy Pals</title>
@@ -11212,6 +11277,9 @@
   <programme channel="tv.14" start="20180709213500 +0000" stop="20180709220000 +0000">
     <title>Disney Junior: Goldie &amp; Bear</title>
     <desc>Goldie and Bear find some magic handcuffs.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180709220000 +0000" stop="20180709223000 +0000">
     <title>Infomercial 0900</title>
@@ -11261,6 +11329,9 @@
   <programme channel="tv.14" start="20180710033000 +0000" stop="20180710040000 +0000">
     <title>Home And Away</title>
     <desc>Tori and Jasmine race against time to save Colby. Robbo fights to clear his name. Can Ben pull off a miracle before the wedding?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180710040000 +0000" stop="20180710043000 +0000">
     <title>Shortland Street</title>
@@ -11286,7 +11357,7 @@
   </programme>
   <programme channel="tv.14" start="20180710050000 +0000" stop="20180710053000 +0000">
     <title>Fanimals</title>
-    <desc>We're at the zoo for the school holidays! We peek in on some playful penguins, show you how to make doggy bikkies, and you and your pet could win on Trick for Treat!</desc>
+    <desc>We're at the zoo for the school holidays! We spot some speedy cheetahs, show you how to make doggy bikkies, and you and your pet could win on Trick for Treat!</desc>
   </programme>
   <programme channel="tv.14" start="20180710053000 +0000" stop="20180710060000 +0000">
     <title>Friends</title>
@@ -11551,7 +11622,7 @@
   </programme>
   <programme channel="tv.14" start="20180711050000 +0000" stop="20180711053000 +0000">
     <title>Fanimals</title>
-    <desc>We're at the zoo for the school holidays! We say hello to some giraffes, show you how to make a guinea pig pedicure pad, and you could win a prize on Call of Nature!</desc>
+    <desc>We're at the zoo for the school holidays! We say hello to some giraffes, show you how to make a guinea pig pedicure ramp, and you could win a prize on Who Knows the Zoo!</desc>
   </programme>
   <programme channel="tv.14" start="20180711053000 +0000" stop="20180711060000 +0000">
     <title>Friends</title>
@@ -13791,14 +13862,21 @@
     <title>2018 FIFA World Cup Russia</title>
     <desc>'Join Prime for live coverage of the 2018 FIFA World Cup Russia, as Colombia take on England at Moscow's Spartak Stadium in this Round of 16 match.'</desc>
   </programme>
-  <programme channel="tv.28" start="20180703205500 +0000" stop="20180703212000 +0000">
+  <programme channel="tv.28" start="20180703205500 +0000" stop="20180703210000 +0000">
     <title>Tiki Tour</title>
     <desc>'Hop on board the Tiki Tour bus as we take you on adventures all around New Zealand with our crazy team, and join in on all the fun, games, music and more! G (R)'</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180703212000 +0000" stop="20180703215000 +0000">
+  <programme channel="tv.28" start="20180703210000 +0000" stop="20180703212500 +0000">
+    <title>Tiki Tour</title>
+    <desc>'Hop on board the Tiki Tour bus as we take you on adventures all around New Zealand with our crazy team, and join in on all the fun, games, music and more! G (R)'</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.28" start="20180703212500 +0000" stop="20180703215000 +0000">
     <title>Jeopardy</title>
     <desc>'This is fast paced general knowledge at its best! Jeopardy provides a test of literature, history, science, the arts, pop culture and more. Can you keep up? G (R)'</desc>
     <rating system="Freeview">
@@ -14394,7 +14472,7 @@
   </programme>
   <programme channel="tv.28" start="20180706134500 +0000" stop="20180706160500 +0000">
     <title>2018 FIFA World Cup Russia</title>
-    <desc>'As the competition of the 2018 FIFA World Cup Russia kicks into the Quarter Finals, catch the action live from Nizhny Novgorod Stadium.'</desc>
+    <desc>'As the competition of the 2018 FIFA World Cup Russia kicks into the Quarter Finals, catch the action live from Nizhny Novgorod Stadium as Uruguay take on France.'</desc>
   </programme>
   <programme channel="tv.28" start="20180706160500 +0000" stop="20180706174500 +0000">
     <title>Prime</title>
@@ -14402,7 +14480,7 @@
   </programme>
   <programme channel="tv.28" start="20180706174500 +0000" stop="20180706200500 +0000">
     <title>2018 FIFA World Cup Russia</title>
-    <desc>'Join Prime for live coverage of the Quarter Final 2 match, from Kazan Arena in Kazan, a city known as the sports capital of Russia.'</desc>
+    <desc>'Join Prime for live coverage of the second Quarter Final match from Kazan Arena in Kazan, as Brazil face off against Belgium for a spot in the Semi-Final.'</desc>
   </programme>
   <programme channel="tv.28" start="20180706200500 +0000" stop="20180706203000 +0000">
     <title>Batman: Brave And The Bold</title>
@@ -18368,6 +18446,9 @@
   <programme channel="tv.55" start="20180704090000 +0000" stop="20180704093500 +0000">
     <title>New: Misadventures</title>
     <desc>The crazy adventures of two good-hearted but clueless friends in search of eccentric locals in the South Island of New Zealand. Tonight, Josh and Mearle visit the wild West Coast via the Buller Gorge.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180704093500 +0000" stop="20180704103000 +0000">
     <title>Reggie Yates: Extreme UK</title>
