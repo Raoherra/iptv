@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180704055901 +0000" stop="20180704060550 +0000">
-    <title>Martin Söderström Ride to Recovery Part II</title>
-    <desc>Martin Söderström has gotten himself physically ready to compete again, but that's only half the battle.</desc>
-    <sub-title>The Rise</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180704060550 +0000" stop="20180704064432 +0000">
-    <title>Volcom True To This</title>
-    <desc>Volcom blends the cosmic creativity of surf, skate, and snowboarding in this stoke-filled masterpiece.</desc>
-    <sub-title>They're Not New To This</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180704064432 +0000" stop="20180704073806 +0000">
     <title>Visions of Greatness S1E2</title>
     <desc>Is it possible to be born great? Pianist Lang Lang and skier Mikaela Shiffrin were both child prodigies.</desc>
@@ -5019,7 +5009,7 @@
   </programme>
   <programme channel="tv.11" start="20180706094500 +0000" stop="20180706101500 +0000">
     <title>The Spinoff TV</title>
-    <desc>New Episode. Tonight features Kiwis of Snapchat from political satirist Tom Sainsbury, while Hayden Donnell cracks open the news story of the week. S1 Ep3</desc>
+    <desc>New Episode. This week, binge-eating on YouTube anyone? Rose Matafeo dives into the online world of Mukbang, and James Mustapic peels back the layers of What Now in Repressed Memories. S1 Ep3</desc>
   </programme>
   <programme channel="tv.11" start="20180706101500 +0000" stop="20180706104500 +0000">
     <title>Newshub Late</title>
@@ -5262,6 +5252,9 @@
   <programme channel="tv.11" start="20180708070000 +0000" stop="20180708083000 +0000">
     <title>The Block NZ</title>
     <desc>Premiere. New Episode. Meet the four new teams battling it out on The Block NZ for 2018! S7 Ep1</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180708083000 +0000" stop="20180708110000 +0000">
     <title>Warcraft</title>
@@ -5332,6 +5325,9 @@
   <programme channel="tv.11" start="20180709010000 +0000" stop="20180709023000 +0000">
     <title>The Block NZ</title>
     <desc>Premiere. New Episode. Meet the four new teams battling it out on The Block NZ for 2018! S7 Ep1</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180709023000 +0000" stop="20180709030000 +0000">
     <title>Come Dine With Me NZ</title>
@@ -5919,6 +5915,9 @@
   <programme channel="tv.12" start="20180705023000 +0000" stop="20180705032800 +0000">
     <title>Snapped</title>
     <desc>When a husband and father fails to show up at work, detectives set out to find if he left on his own, or if someone made him disappear.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180705032800 +0000" stop="20180705033000 +0000">
     <title>The Dish</title>
@@ -6513,6 +6512,9 @@
   <programme channel="tv.12" start="20180709013000 +0000" stop="20180709033000 +0000">
     <title>Mamma Mia</title>
     <desc>Academy Award-winner Meryl Streep leads an all-star cast in this film adaptation of the beloved stage musical featuring the timeless lyrics and melodies of iconic super group ABBA.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180709033000 +0000" stop="20180709043000 +0000">
     <title>Dance Moms</title>
@@ -12047,7 +12049,7 @@
   </programme>
   <programme channel="tv.27" start="20180706104500 +0000" stop="20180706111500 +0000">
     <title>The Spinoff TV</title>
-    <desc>New Episode. Tonight features Kiwis of Snapchat from political satirist Tom Sainsbury, while Hayden Donnell cracks open the news story of the week. S1 Ep3</desc>
+    <desc>New Episode. This week, binge-eating on YouTube anyone? Rose Matafeo dives into the online world of Mukbang, and James Mustapic peels back the layers of What Now in Repressed Memories. S1 Ep3</desc>
   </programme>
   <programme channel="tv.27" start="20180706111500 +0000" stop="20180706114500 +0000">
     <title>Newshub Late</title>
@@ -12275,6 +12277,9 @@
   <programme channel="tv.27" start="20180708080000 +0000" stop="20180708093000 +0000">
     <title>The Block NZ</title>
     <desc>Premiere. New Episode. Meet the four new teams battling it out on The Block NZ for 2018! S7 Ep1</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180708093000 +0000" stop="20180708120000 +0000">
     <title>Warcraft</title>
@@ -12342,6 +12347,9 @@
   <programme channel="tv.27" start="20180709020000 +0000" stop="20180709033000 +0000">
     <title>The Block NZ</title>
     <desc>Premiere. New Episode. Meet the four new teams battling it out on The Block NZ for 2018! S7 Ep1</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180709033000 +0000" stop="20180709040000 +0000">
     <title>Come Dine With Me NZ</title>
@@ -12905,6 +12913,9 @@
   <programme channel="tv.30" start="20180705033000 +0000" stop="20180705042800 +0000">
     <title>Snapped</title>
     <desc>When a husband and father fails to show up at work, detectives set out to find if he left on his own, or if someone made him disappear.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180705042800 +0000" stop="20180705043000 +0000">
     <title>The Dish</title>
@@ -13499,6 +13510,9 @@
   <programme channel="tv.30" start="20180709023000 +0000" stop="20180709043000 +0000">
     <title>Mamma Mia</title>
     <desc>Academy Award-winner Meryl Streep leads an all-star cast in this film adaptation of the beloved stage musical featuring the timeless lyrics and melodies of iconic super group ABBA.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180709043000 +0000" stop="20180709053000 +0000">
     <title>Dance Moms</title>
@@ -16358,35 +16372,35 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180709073000 +0000" stop="20180709083000 +0000">
+  <programme channel="tv.65" start="20180709073000 +0000" stop="20180709083500 +0000">
     <title>Restaurant Revolution</title>
     <desc>Restaurant Revolution sees teams from around Australia design and run pop-up restaurants for a prize of $200,000. Hosted by Jock Zonfrillo with experts Neil Perry, Jess Ho, Erez Gordon and John Lethle</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180709083000 +0000" stop="20180709090000 +0000">
+  <programme channel="tv.65" start="20180709083500 +0000" stop="20180709091000 +0000">
     <title>United Plates Of America</title>
     <desc>Premiere. California has one of the largest populations of Japanese people in America. In this episode we uncover their trials, resilience and delicious healthy food. S1 Ep1</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180709090000 +0000" stop="20180709093000 +0000">
+  <programme channel="tv.65" start="20180709091000 +0000" stop="20180709093500 +0000">
     <title>Good Spirits</title>
     <desc>Matthew heads to the 'Jewel of the Atlantic' off the coast of Portugal. He crafts his own version of the local favourite, Poncha, by blending and infusing evocative ingredients. S1 Ep3</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180709093000 +0000" stop="20180709100000 +0000">
+  <programme channel="tv.65" start="20180709093500 +0000" stop="20180709100500 +0000">
     <title>Let's Do Coffee</title>
     <desc>Toni Pearen presents this series that takes a double-shot of gourmet life, celebrating coffee and the cafe lifestyle, while meeting coffee growers and roasters and testing the latest products.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180709100000 +0000" stop="20180709103000 +0000">
+  <programme channel="tv.65" start="20180709100500 +0000" stop="20180709103500 +0000">
     <title>Intolerant Cooks</title>
     <desc>Gluten-free pancakes are on the menu for Tracy and Richard. Plus, the ultimate kids' lunchbox, packed with rice crispy bars, milk and honey jellies and a chicken wrap. S1 Ep7</desc>
     <audio>
@@ -16396,14 +16410,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180709103000 +0000" stop="20180709110000 +0000">
+  <programme channel="tv.65" start="20180709103500 +0000" stop="20180709110500 +0000">
     <title>Good Chef Bad Chef</title>
     <desc>Our chefs add an avocado to the menu with two alternatives to the traditional nacho recipe. S4 Ep22</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180709110000 +0000" stop="20180709113000 +0000">
+  <programme channel="tv.65" start="20180709110500 +0000" stop="20180709113500 +0000">
     <title>Everyday Gourmet With Justine Schofield</title>
     <desc>Justin Wise returns to cook his gourmet lime salt souffles. Justine makes crunchy crab salad, and Masterchef winner Adam Liaw serves up a Korean dish. S2 Ep86</desc>
     <audio>
@@ -16413,7 +16427,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180709113000 +0000" stop="20180709120000 +0000">
+  <programme channel="tv.65" start="20180709113500 +0000" stop="20180709120000 +0000">
     <title>Australia's Best Houses</title>
     <desc>Australia's Best Houses walks you through some of the most exciting and visually stunning house projects in Australia, from sprawling country houses to homes are designed for urban small spaces.</desc>
     <rating system="Freeview">
@@ -16587,14 +16601,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180710083000 +0000" stop="20180710090000 +0000">
+  <programme channel="tv.65" start="20180710083000 +0000" stop="20180710090500 +0000">
     <title>Getaway</title>
     <desc>Getaway is a travel and lifestyle show featuring incredible and exotic locations with advice, information and tips for aspiring travellers. Package deals are not available to NZ viewers.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180710090000 +0000" stop="20180710093000 +0000">
+  <programme channel="tv.65" start="20180710090500 +0000" stop="20180710093000 +0000">
     <title>The Voyager With Josh Garcia</title>
     <desc>Double Episode. Josh visits Sydney, Australia, where he experiences the beach culture, views the coastal landscape from a seaplane and tries the indigenous tradition of basket weaving. S1 Ep25</desc>
     <rating system="Freeview">
@@ -16805,42 +16819,42 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180711083000 +0000" stop="20180711090000 +0000">
+  <programme channel="tv.65" start="20180711083000 +0000" stop="20180711090500 +0000">
     <title>Adrenaline</title>
     <desc>We look out over the city of Los Angeles and learn about the amazing aircraft that we're traveling in. Plus, we head to Heroes Motorbikes to check out some of its award-winning restorations. S1 Ep13</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180711090000 +0000" stop="20180711093000 +0000">
+  <programme channel="tv.65" start="20180711090500 +0000" stop="20180711093500 +0000">
     <title>Garage Dreams</title>
     <desc>Final. An auto-paint artist pushes the boundaries of possibility, and custom bikes and Japanese design converge in the cafe racer world. S1 Ep13</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180711093000 +0000" stop="20180711103000 +0000">
+  <programme channel="tv.65" start="20180711093500 +0000" stop="20180711104000 +0000">
     <title>Big Angry Fish</title>
     <desc>Final. Kayaking is normally done with a paddle - but both Milan and Nathan get towed around. S6 Ep13</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180711103000 +0000" stop="20180711110000 +0000">
+  <programme channel="tv.65" start="20180711104000 +0000" stop="20180711111000 +0000">
     <title>Good Chef Bad Chef</title>
     <desc>Who says good food has to be expensive? Adrian and Janella are taking inspiration from Asian Hawker cuisine with three prawn recipes. S4 Ep24</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180711110000 +0000" stop="20180711113000 +0000">
+  <programme channel="tv.65" start="20180711111000 +0000" stop="20180711114000 +0000">
     <title>Everyday Gourmet With Justine Schofield</title>
     <desc>Hayden Quinn joins Justine to make his seaside-inspired dish, mussels and fries. Trish McKenzie bakes a decadent white chocolate cheesecake. Justine whips up a robust beetroot salad. S2 Ep88</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180711113000 +0000" stop="20180711120000 +0000">
+  <programme channel="tv.65" start="20180711114000 +0000" stop="20180711121000 +0000">
     <title>Australia's Best Houses</title>
     <desc>Australia's Best Houses walks you through some of the most exciting and visually stunning house projects in Australia, from sprawling country houses to homes are designed for urban small spaces.</desc>
     <rating system="Freeview">
