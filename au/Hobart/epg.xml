@@ -10763,6 +10763,7 @@
   </programme>
   <programme channel="tv.101204300430" start="20180704032500 +0000" stop="20180704050000 +0000">
     <title>Buying Blind</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -10928,6 +10929,7 @@
   </programme>
   <programme channel="tv.101204300430" start="20180705020000 +0000" stop="20180705030000 +0000">
     <title>Ellen</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -11046,15 +11048,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180705173000 +0000" stop="20180705180000 +0000">
-    <title>A Current Affair</title>
+  <programme channel="tv.101204300430" start="20180705173000 +0000" stop="20180705190000 +0000">
+    <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180705173000 +0000" stop="20180705190000 +0000">
-    <title>Good Morning America</title>
+  <programme channel="tv.101204300430" start="20180705173000 +0000" stop="20180705180000 +0000">
+    <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -11235,16 +11237,16 @@
     </rating>
   </programme>
   <programme channel="tv.101204300430" start="20180706200000 +0000" stop="20180706210000 +0000">
-    <title>Ellen</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300430" start="20180706200000 +0000" stop="20180706210000 +0000">
     <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300430" start="20180706200000 +0000" stop="20180706210000 +0000">
+    <title>Ellen</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204300430" start="20180706210000 +0000" stop="20180707000000 +0000">
@@ -11263,7 +11265,6 @@
   </programme>
   <programme channel="tv.101204300430" start="20180707020000 +0000" stop="20180707030000 +0000">
     <title>World Surf League</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -11621,6 +11622,7 @@
   </programme>
   <programme channel="tv.101204300430" start="20180709111000 +0000" stop="20180709122500 +0000">
     <title>Talkin' 'Bout Your Generation</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -11916,7 +11918,6 @@
   </programme>
   <programme channel="tv.101204300430" start="20180711070000 +0000" stop="20180711080000 +0000">
     <title>Millionaire Hot Seat</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -11951,6 +11952,7 @@
   </programme>
   <programme channel="tv.101204300430" start="20180711134000 +0000" stop="20180711150000 +0000">
     <title>Talkin' 'Bout Your Generation</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -13004,6 +13006,7 @@
   </programme>
   <programme channel="tv.101204300433" start="20180709050000 +0000" stop="20180709060000 +0000">
     <title>The Block</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -13141,6 +13144,7 @@
   </programme>
   <programme channel="tv.101204300433" start="20180709220000 +0000" stop="20180709230000 +0000">
     <title>The Block</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -13378,6 +13382,7 @@
   </programme>
   <programme channel="tv.101204300433" start="20180711043000 +0000" stop="20180711060000 +0000">
     <title>The Block</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -14002,10 +14007,16 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300436" start="20180706190000 +0000" stop="20180706203000 +0000">
+  <programme channel="tv.101204300436" start="20180706190000 +0000" stop="20180706200000 +0000">
     <title>Heartbeat</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300436" start="20180706200000 +0000" stop="20180706203000 +0000">
+    <title>Skippy</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204300436" start="20180706203000 +0000" stop="20180706210000 +0000">
@@ -14096,14 +14107,14 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300436" start="20180707141000 +0000" stop="20180707150000 +0000">
+  <programme channel="tv.101204300436" start="20180707141000 +0000" stop="20180707150500 +0000">
     <title>Cold Case</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300436" start="20180707150000 +0000" stop="20180707170000 +0000">
+  <programme channel="tv.101204300436" start="20180707150500 +0000" stop="20180707170000 +0000">
     <title>Call and Win</title>
     <rating system="Freeview">
       <value>M</value>
@@ -14210,33 +14221,33 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300436" start="20180708090000 +0000" stop="20180708110000 +0000">
+  <programme channel="tv.101204300436" start="20180708090000 +0000" stop="20180708111000 +0000">
     <title>Midsomer Murders</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300436" start="20180708110000 +0000" stop="20180708120000 +0000">
+  <programme channel="tv.101204300436" start="20180708111000 +0000" stop="20180708121000 +0000">
     <title>DCI Banks</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300436" start="20180708120000 +0000" stop="20180708130000 +0000">
+  <programme channel="tv.101204300436" start="20180708121000 +0000" stop="20180708131000 +0000">
     <title>Law &amp; Order: Special Victims Unit</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300436" start="20180708130000 +0000" stop="20180708140000 +0000">
+  <programme channel="tv.101204300436" start="20180708131000 +0000" stop="20180708140500 +0000">
     <title>The Closer</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300436" start="20180708140000 +0000" stop="20180708150000 +0000">
+  <programme channel="tv.101204300436" start="20180708140500 +0000" stop="20180708150000 +0000">
     <title>Trauma Investigators</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -15281,14 +15292,14 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300437" start="20180705113000 +0000" stop="20180705130000 +0000">
-    <title>Love Island</title>
-  </programme>
   <programme channel="tv.101204300437" start="20180705113000 +0000" stop="20180705123000 +0000">
     <title>Love Island</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
+  </programme>
+  <programme channel="tv.101204300437" start="20180705113000 +0000" stop="20180705130000 +0000">
+    <title>Love Island</title>
   </programme>
   <programme channel="tv.101204300437" start="20180705123000 +0000" stop="20180705133000 +0000">
     <title>Love Island</title>
@@ -16055,6 +16066,7 @@
   </programme>
   <programme channel="tv.101204300437" start="20180708220000 +0000" stop="20180708223000 +0000">
     <title>Creature Mania</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>C</value>
     </rating>
@@ -16104,6 +16116,7 @@
   </programme>
   <programme channel="tv.101204300437" start="20180709023000 +0000" stop="20180709030000 +0000">
     <title>Storage Hunters UK</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -22116,13 +22129,13 @@
   <programme channel="tv.101305030533" start="20180707200000 +0000" stop="20180707203000 +0000">
     <title>To Be Advised</title>
   </programme>
-  <programme channel="tv.101305030533" start="20180707203000 +0000" stop="20180707205900 +0000">
+  <programme channel="tv.101305030533" start="20180707203000 +0000" stop="20180707210000 +0000">
     <title>Harley Davidson TV</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180707205900 +0000" stop="20180707212900 +0000">
+  <programme channel="tv.101305030533" start="20180707210000 +0000" stop="20180707212900 +0000">
     <title>Life off Road</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -22182,42 +22195,36 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180708050000 +0000" stop="20180708055900 +0000">
+  <programme channel="tv.101305030533" start="20180708050000 +0000" stop="20180708060000 +0000">
     <title>Ice Road Truckers</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180708055900 +0000" stop="20180708065900 +0000">
+  <programme channel="tv.101305030533" start="20180708060000 +0000" stop="20180708071000 +0000">
     <title>Mountain Men</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180708065900 +0000" stop="20180708102400 +0000">
+  <programme channel="tv.101305030533" start="20180708071000 +0000" stop="20180708103000 +0000">
     <title>Pirates of the Caribbean: At World's End</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180708102400 +0000" stop="20180708125300 +0000">
+  <programme channel="tv.101305030533" start="20180708103000 +0000" stop="20180708130000 +0000">
     <title>Iron Man</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180708125300 +0000" stop="20180708135000 +0000">
+  <programme channel="tv.101305030533" start="20180708130000 +0000" stop="20180708144900 +0000">
     <title>Family Guy</title>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305030533" start="20180708135000 +0000" stop="20180708144900 +0000">
-    <title>Swamp People</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305030533" start="20180708144900 +0000" stop="20180708160000 +0000">
@@ -23610,32 +23617,32 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180707132600 +0000" stop="20180707155800 +0000">
+  <programme channel="tv.101305030535" start="20180707132600 +0000" stop="20180707160500 +0000">
     <title>London Boulevard</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180707155800 +0000" stop="20180707163000 +0000">
+  <programme channel="tv.101305030535" start="20180707160500 +0000" stop="20180707163500 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180707163000 +0000" stop="20180707170100 +0000">
+  <programme channel="tv.101305030535" start="20180707163500 +0000" stop="20180707170500 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180707170100 +0000" stop="20180707183000 +0000">
+  <programme channel="tv.101305030535" start="20180707170500 +0000" stop="20180707183400 +0000">
     <title>The Woman on Pier 13</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180707183000 +0000" stop="20180707200000 +0000">
+  <programme channel="tv.101305030535" start="20180707183400 +0000" stop="20180707200000 +0000">
     <title>The Saint in Palm Springs</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -37049,21 +37056,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180704005621 +0000" stop="20180704011829 +0000">
-    <title>Reel Rock S1E7</title>
-    <desc>A pair of veteran ice climbers find the ultimate challenge in a massive cave in British Columbia, Canada.</desc>
-    <sub-title>Ice Revolution</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180704011829 +0000" stop="20180704014620 +0000">
-    <title>Tim Don </title>
-    <desc>Tim Don is an unstoppable athlete who, when faced with severe injury, found a way to keep moving forward.</desc>
-    <sub-title>The Man with the Halo</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180704014620 +0000" stop="20180704020020 +0000">
-    <title>Seabase 1910</title>
-    <desc>Patrick Seabase recreates the gruelling first mountain stage of the 1910 Tour de France on a fixed-gear bike.</desc>
-    <sub-title>Riding the Pyrenees on a Fixed Gear Bike</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180704020020 +0000" stop="20180704023940 +0000">
     <title>Follow Me</title>
