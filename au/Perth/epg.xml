@@ -9392,17 +9392,17 @@
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180706220000 +0000" stop="20180706230000 +0000">
-    <title>Ellen</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600461" start="20180706220000 +0000" stop="20180706230000 +0000">
     <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600461" start="20180706220000 +0000" stop="20180706230000 +0000">
+    <title>Ellen</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180706230000 +0000" stop="20180707020000 +0000">
@@ -13698,17 +13698,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600468" start="20180707091500 +0000" stop="20180707094500 +0000">
-    <title>Clarence</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204600468" start="20180707091500 +0000" stop="20180707110000 +0000">
     <title>Stuart Little</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600468" start="20180707091500 +0000" stop="20180707094500 +0000">
+    <title>Clarence</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204600468" start="20180707110000 +0000" stop="20180707130000 +0000">
@@ -19619,17 +19619,17 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101305060562" start="20180711154500 +0000" stop="20180711165900 +0000">
+    <title>Escape to the Country</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305060562" start="20180711154500 +0000" stop="20180711163100 +0000">
     <title>Medical Rookies</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305060562" start="20180711154500 +0000" stop="20180711165900 +0000">
-    <title>Escape to the Country</title>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305060562" start="20180711163100 +0000" stop="20180711170100 +0000">
@@ -20216,15 +20216,15 @@
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180706220000 +0000" stop="20180706225800 +0000">
-    <title>Night Thunder</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305060563" start="20180706220000 +0000" stop="20180706225800 +0000">
     <title>AFN Fishing Show</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305060563" start="20180706220000 +0000" stop="20180706225800 +0000">
+    <title>Night Thunder</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180706225800 +0000" stop="20180707000000 +0000">
@@ -27494,18 +27494,12 @@
     </rating>
   </programme>
   <programme channel="tv.101406070688" start="20180710143000 +0000" stop="20180710150000 +0000">
-    <title>Will &amp; Grace</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406070688" start="20180710143000 +0000" stop="20180710150000 +0000">
     <title>Sex and the City</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070688" start="20180710150000 +0000" stop="20180710153000 +0000">
+  <programme channel="tv.101406070688" start="20180710143000 +0000" stop="20180710150000 +0000">
     <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -27515,6 +27509,12 @@
     <title>The Late Late Show with James Corden</title>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406070688" start="20180710150000 +0000" stop="20180710153000 +0000">
+    <title>Will &amp; Grace</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406070688" start="20180710160000 +0000" stop="20180710163000 +0000">
@@ -31127,13 +31127,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180706053500 +0000" stop="20180706060500 +0000">
-    <title>Defending Gender Part 1: Proud Boys</title>
+    <title>Dateline</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180706053500 +0000" stop="20180706060500 +0000">
-    <title>Dateline</title>
+    <title>Defending Gender Part 1: Proud Boys</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -37190,11 +37190,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180705212904 +0000" stop="20180705220825 +0000">
-    <title>Follow Me</title>
-    <desc>Accompany an all-star cast of mountain bikers on their global journey to ride the best terrain they can find.</desc>
-    <sub-title>Don't Question, Just Drop In</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180705220825 +0000" stop="20180705232925 +0000">
     <title>The Signal Hill Speed Run</title>
