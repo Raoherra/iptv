@@ -280,21 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180705031001 +0000" stop="20180705044048 +0000">
-    <title>Pushing the Limits</title>
-    <desc>A stunning look at the people who are expanding the boundaries of capability and performance in action sports.</desc>
-    <sub-title>An Action Sports Opus</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180705044048 +0000" stop="20180705045805 +0000">
-    <title>Jovanotti &amp; Baldini</title>
-    <desc>Italian singer/rapper Lorenzo Jovanotti teams up with reggae producer Paolo Baldini to create a new song.</desc>
-    <sub-title>Presented by Red Bull Studio Mobile</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180705045805 +0000" stop="20180705050112 +0000">
-    <title>Corner Boy</title>
-    <desc>To a delightfully folksy tune, follow a man combing his seemingly abandoned town for discarded treasures.</desc>
-    <sub-title>Ghost Town City: Music Video</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180705050112 +0000" stop="20180705061423 +0000">
     <title>Chasing Niagara</title>
     <desc>Follow pro kayaker Rafa Ortiz’s journey in pursuit of his dream to paddle over North America’s Niagara Falls.</desc>
@@ -1324,7 +1309,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180706095000 +0000" stop="20180706104500 +0000">
+  <programme channel="tv.9" start="20180706095000 +0000" stop="20180706105000 +0000">
     <title>Coronation Street 2018</title>
     <desc>Peter and Leanne confront Simon. Eva's furious at her friend’s betrayal. Kayla pumps Craig for details.</desc>
     <subtitles type="teletext"/>
@@ -1332,11 +1317,11 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180706104500 +0000" stop="20180706111500 +0000">
+  <programme channel="tv.9" start="20180706105000 +0000" stop="20180706112000 +0000">
     <title>1 News Tonight</title>
     <desc>The nation's leading team of journalists brings viewers the latest news and sport, plus the most comprehensive weather report.</desc>
   </programme>
-  <programme channel="tv.9" start="20180706111500 +0000" stop="20180706180000 +0000">
+  <programme channel="tv.9" start="20180706112000 +0000" stop="20180706180000 +0000">
     <title>Wimbledon Live Games</title>
     <desc>Live coverage continues with Day 5 of the 2018 Championships from the grass courts of Wimbledon in London.</desc>
   </programme>
@@ -1626,28 +1611,8 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180708150000 +0000" stop="20180708153000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180708153000 +0000" stop="20180708160000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180708160000 +0000" stop="20180708163000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180708163000 +0000" stop="20180708170000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180708170000 +0000" stop="20180708173000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20180708173000 +0000" stop="20180708180000 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180708150000 +0000" stop="20180708180000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.9" start="20180708180000 +0000" stop="20180708210000 +0000">
@@ -1864,6 +1829,9 @@
     <title>I Am</title>
     <desc>This week’s episode looks at how Sehar Moughal and her three teenage sisters escaped their violent father before he could force them into an arranged marriage.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180710093000 +0000" stop="20180710100000 +0000">
     <title>Coronation Street 2018</title>
@@ -1975,6 +1943,9 @@
     <title>Code Black</title>
     <desc>S3 E2 Angus and Mario treat a patient who is a self-proclaimed psychic and envisions the staff singing and dancing, seeing beauty amid the chaos at Angels Memorial.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180711093000 +0000" stop="20180711103000 +0000">
     <title>Coronation Street 2018</title>
@@ -2028,6 +1999,9 @@
   <programme channel="tv.9" start="20180712010000 +0000" stop="20180712020000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Sally vows to protect her daughter. Gail and Shona face a stand-off. Chesney hopes for a romantic reunion with Sinead.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180712020000 +0000" stop="20180712030000 +0000">
     <title>Wimbledon Highlights</title>
@@ -2170,7 +2144,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180704173000 +0000" stop="20180704183000 +0000">
+  <programme channel="tv.10" start="20180704173000 +0000" stop="20180704180000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.10" start="20180704180000 +0000" stop="20180704183000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -2552,6 +2530,9 @@
   <programme channel="tv.10" start="20180705190000 +0000" stop="20180705192500 +0000">
     <title>Ranger Rob</title>
     <desc>Ranger Rob lives and works at Big Sky Park, the coolest adventure park around! Rob likes to explore and play with his best friends Dakota and Stomper.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180705192500 +0000" stop="20180705195000 +0000">
     <title>Matt Hatter Chronicles</title>
@@ -3034,7 +3015,7 @@
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180707030000 +0000" stop="20180707040000 +0000">
@@ -3079,6 +3060,9 @@
     <title>Rush Hour</title>
     <desc>Two cops who can't stand one another must team up to get back a kidnapped girl. Starring Chris Tucker, Jackie Chan, and Tom Wilkinson.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180707084500 +0000" stop="20180707102500 +0000">
     <title>Premium Rush</title>
@@ -3370,7 +3354,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180708173000 +0000" stop="20180708180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180708180000 +0000" stop="20180708183000 +0000">
@@ -3452,16 +3436,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180708210000 +0000" stop="20180708213000 +0000">
-    <title>Infomercial 0900</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180708213000 +0000" stop="20180708220000 +0000">
+  <programme channel="tv.10" start="20180708210000 +0000" stop="20180708223000 +0000">
     <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180708220000 +0000" stop="20180708223000 +0000">
-    <title>Infomercial 1000</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180708223000 +0000" stop="20180708230500 +0000">
@@ -3586,7 +3562,13 @@
   <programme channel="tv.10" start="20180709073000 +0000" stop="20180709083000 +0000">
     <title>Heartbreak Island</title>
     <desc>In a week full of highs and lows, the final three couples are put to the test in a three-part challenge but double-agent tactics leave everyone guessing.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180709083000 +0000" stop="20180709093000 +0000">
     <title>First Dates Hotel</title>
@@ -3652,11 +3634,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180709132500 +0000" stop="20180709140000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180709140000 +0000" stop="20180709142500 +0000">
+  <programme channel="tv.10" start="20180709132500 +0000" stop="20180709142500 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -3698,12 +3676,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180709173000 +0000" stop="20180709180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180709180000 +0000" stop="20180709183000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.10" start="20180709173000 +0000" stop="20180709183000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180709183000 +0000" stop="20180709184000 +0000">
@@ -3775,7 +3749,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180709210000 +0000" stop="20180709213000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180709213000 +0000" stop="20180709220000 +0000">
@@ -3783,7 +3757,7 @@
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180709220000 +0000" stop="20180709223000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180709223000 +0000" stop="20180709230500 +0000">
@@ -3796,7 +3770,13 @@
   <programme channel="tv.10" start="20180709230500 +0000" stop="20180710000000 +0000">
     <title>Heartbreak Island</title>
     <desc>In a week full of highs and lows, the final three couples are put to the test in a three-part challenge but double-agent tactics leave everyone guessing.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180710000000 +0000" stop="20180710010500 +0000">
     <title>Jeremy Kyle</title>
@@ -3823,7 +3803,7 @@
     <title>Home And Away</title>
     <desc>Tori and Jasmine race against time to save Colby. Robbo fights to clear his name. Can Ben pull off a miracle before the wedding?</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180710030000 +0000" stop="20180710033000 +0000">
@@ -3984,11 +3964,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180710133500 +0000" stop="20180710141000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180710141000 +0000" stop="20180710144000 +0000">
+  <programme channel="tv.10" start="20180710133500 +0000" stop="20180710144000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -4024,7 +4000,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180710173000 +0000" stop="20180710180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180710180000 +0000" stop="20180710183000 +0000">
@@ -4034,6 +4010,9 @@
   <programme channel="tv.10" start="20180710183000 +0000" stop="20180710184000 +0000">
     <title>The Wot Wots</title>
     <desc>Two friendly aliens traveling in a steam-powered spaceship explore the Earth's many unique environments and the animals inhabiting them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180710184000 +0000" stop="20180710185000 +0000">
     <title>Darwin &amp; Newts</title>
@@ -4041,6 +4020,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180710185000 +0000" stop="20180710190000 +0000">
     <title>Peppa Pig</title>
@@ -4055,6 +4037,9 @@
   <programme channel="tv.10" start="20180710190000 +0000" stop="20180710192500 +0000">
     <title>Ranger Rob</title>
     <desc>Adventurous Ranger Rob's favourite thing to do is go outside to play, explore and discover. That's easy for him to do at Big Sky Park, the coolest outdoor adventure park around.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180710192500 +0000" stop="20180710195000 +0000">
     <title>Matt Hatter Chronicles</title>
@@ -4086,6 +4071,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180710210000 +0000" stop="20180710213000 +0000">
     <title>Life TV With Paul De Jong</title>
@@ -4210,6 +4198,9 @@
       <stereo>dolby</stereo>
     </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180711073000 +0000" stop="20180711083000 +0000">
     <title>Heartbreak Island</title>
@@ -4277,9 +4268,9 @@
   <programme channel="tv.10" start="20180711121000 +0000" stop="20180711125500 +0000">
     <title>Private Practice</title>
     <desc>An office election pits Sam and Naomi against each other to lead the practice. Cooper's objectionable personal life catches up with his professional one.</desc>
-    <audio>
-      <stereo>dolby</stereo>
-    </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180711125500 +0000" stop="20180711131500 +0000">
     <title>Two And A Half Men</title>
@@ -4295,12 +4286,11 @@
       <stereo>dolby</stereo>
     </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
-  <programme channel="tv.10" start="20180711134000 +0000" stop="20180711141500 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180711141500 +0000" stop="20180711144500 +0000">
+  <programme channel="tv.10" start="20180711134000 +0000" stop="20180711144500 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -4335,12 +4325,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180711173000 +0000" stop="20180711180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180711180000 +0000" stop="20180711183000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.10" start="20180711173000 +0000" stop="20180711183000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180711183000 +0000" stop="20180711184000 +0000">
@@ -4412,7 +4398,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180711210000 +0000" stop="20180711213000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180711213000 +0000" stop="20180711220000 +0000">
@@ -4420,7 +4406,7 @@
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180711220000 +0000" stop="20180711223000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.10" start="20180711223000 +0000" stop="20180711224000 +0000">
@@ -4474,6 +4460,9 @@
       <stereo>dolby</stereo>
     </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180712033000 +0000" stop="20180712033500 +0000">
     <title>Chuggington: Little Trainees</title>
@@ -8752,7 +8741,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180706105000 +0000" stop="20180706114500 +0000">
+  <programme channel="tv.38" start="20180706105000 +0000" stop="20180706115000 +0000">
     <title>Coronation Street 2018</title>
     <desc>Peter and Leanne confront Simon. Eva's furious at her friend’s betrayal. Kayla pumps Craig for details.</desc>
     <subtitles type="teletext"/>
@@ -8760,11 +8749,11 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180706114500 +0000" stop="20180706121500 +0000">
+  <programme channel="tv.38" start="20180706115000 +0000" stop="20180706122000 +0000">
     <title>1 News Tonight</title>
     <desc>The nation's leading team of journalists brings viewers the latest news and sport, plus the most comprehensive weather report.</desc>
   </programme>
-  <programme channel="tv.38" start="20180706121500 +0000" stop="20180706190000 +0000">
+  <programme channel="tv.38" start="20180706122000 +0000" stop="20180706190000 +0000">
     <title>Wimbledon Live Games</title>
     <desc>Live coverage continues with Day 5 of the 2018 Championships from the grass courts of Wimbledon in London.</desc>
   </programme>
@@ -9054,28 +9043,8 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180708160000 +0000" stop="20180708163000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180708163000 +0000" stop="20180708170000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180708170000 +0000" stop="20180708173000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180708173000 +0000" stop="20180708180000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180708180000 +0000" stop="20180708183000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20180708183000 +0000" stop="20180708190000 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180708160000 +0000" stop="20180708190000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.38" start="20180708190000 +0000" stop="20180708220000 +0000">
@@ -9292,6 +9261,9 @@
     <title>I Am</title>
     <desc>This week’s episode looks at how Sehar Moughal and her three teenage sisters escaped their violent father before he could force them into an arranged marriage.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180710103000 +0000" stop="20180710110000 +0000">
     <title>Coronation Street 2018</title>
@@ -9403,6 +9375,9 @@
     <title>Code Black</title>
     <desc>S3 E2 Angus and Mario treat a patient who is a self-proclaimed psychic and envisions the staff singing and dancing, seeing beauty amid the chaos at Angels Memorial.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180711103000 +0000" stop="20180711113000 +0000">
     <title>Coronation Street 2018</title>
@@ -9456,6 +9431,9 @@
   <programme channel="tv.38" start="20180712020000 +0000" stop="20180712030000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Sally vows to protect her daughter. Gail and Shona face a stand-off. Chesney hopes for a romantic reunion with Sinead.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180712030000 +0000" stop="20180712040000 +0000">
     <title>Wimbledon Highlights</title>
@@ -9585,7 +9563,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180704183000 +0000" stop="20180704193000 +0000">
+  <programme channel="tv.14" start="20180704183000 +0000" stop="20180704190000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.14" start="20180704190000 +0000" stop="20180704193000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -9922,6 +9904,9 @@
   <programme channel="tv.14" start="20180705200000 +0000" stop="20180705202500 +0000">
     <title>Ranger Rob</title>
     <desc>Ranger Rob lives and works at Big Sky Park, the coolest adventure park around! Rob likes to explore and play with his best friends Dakota and Stomper.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180705202500 +0000" stop="20180705205000 +0000">
     <title>Matt Hatter Chronicles</title>
@@ -10335,7 +10320,7 @@
     <title>The 100</title>
     <desc>S5 E2 Octavia is forced to take guidance from an unlikely ally when the future of the bunker and all those inside it is jeopardised.</desc>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180707040000 +0000" stop="20180707050000 +0000">
@@ -10371,6 +10356,9 @@
     <title>Rush Hour</title>
     <desc>Two cops who can't stand one another must team up to get back a kidnapped girl. Starring Chris Tucker, Jackie Chan, and Tom Wilkinson.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180707094500 +0000" stop="20180707112500 +0000">
     <title>Premium Rush</title>
@@ -10608,7 +10596,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180708183000 +0000" stop="20180708190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180708190000 +0000" stop="20180708193000 +0000">
@@ -10678,16 +10666,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180708220000 +0000" stop="20180708223000 +0000">
-    <title>Infomercial 0900</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180708223000 +0000" stop="20180708230000 +0000">
+  <programme channel="tv.14" start="20180708220000 +0000" stop="20180708233000 +0000">
     <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180708230000 +0000" stop="20180708233000 +0000">
-    <title>Infomercial 1000</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180708233000 +0000" stop="20180709000500 +0000">
@@ -10798,6 +10778,9 @@
     <title>Heartbreak Island</title>
     <desc>In a week full of highs and lows, the final three couples are put to the test in a three-part challenge but double-agent tactics leave everyone guessing.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180709093000 +0000" stop="20180709103000 +0000">
     <title>First Dates Hotel</title>
@@ -10851,11 +10834,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180709142500 +0000" stop="20180709150000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180709150000 +0000" stop="20180709152500 +0000">
+  <programme channel="tv.14" start="20180709142500 +0000" stop="20180709152500 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -10894,12 +10873,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180709183000 +0000" stop="20180709190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180709190000 +0000" stop="20180709193000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.14" start="20180709183000 +0000" stop="20180709193000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180709193000 +0000" stop="20180709194000 +0000">
@@ -10959,7 +10934,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180709220000 +0000" stop="20180709223000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180709223000 +0000" stop="20180709230000 +0000">
@@ -10967,7 +10942,7 @@
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180709230000 +0000" stop="20180709233000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180709233000 +0000" stop="20180710000500 +0000">
@@ -10981,6 +10956,9 @@
     <title>Heartbreak Island</title>
     <desc>In a week full of highs and lows, the final three couples are put to the test in a three-part challenge but double-agent tactics leave everyone guessing.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180710010000 +0000" stop="20180710020500 +0000">
     <title>Jeremy Kyle</title>
@@ -11007,7 +10985,7 @@
     <title>Home And Away</title>
     <desc>Tori and Jasmine race against time to save Colby. Robbo fights to clear his name. Can Ben pull off a miracle before the wedding?</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180710040000 +0000" stop="20180710043000 +0000">
@@ -11138,11 +11116,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180710143500 +0000" stop="20180710151000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180710151000 +0000" stop="20180710154000 +0000">
+  <programme channel="tv.14" start="20180710143500 +0000" stop="20180710154000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -11175,7 +11149,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180710183000 +0000" stop="20180710190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180710190000 +0000" stop="20180710193000 +0000">
@@ -11185,10 +11159,16 @@
   <programme channel="tv.14" start="20180710193000 +0000" stop="20180710194000 +0000">
     <title>The Wot Wots</title>
     <desc>Two friendly aliens traveling in a steam-powered spaceship explore the Earth's many unique environments and the animals inhabiting them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180710194000 +0000" stop="20180710195000 +0000">
     <title>Darwin &amp; Newts</title>
     <desc>Darwin and Newts are a brother and sister duo who love adventures and figuring out how stuff works! Join them as they explore and discover new things with the help of science and some Kiwi ingenuity.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180710195000 +0000" stop="20180710200000 +0000">
     <title>Peppa Pig</title>
@@ -11200,6 +11180,9 @@
   <programme channel="tv.14" start="20180710200000 +0000" stop="20180710202500 +0000">
     <title>Ranger Rob</title>
     <desc>Adventurous Ranger Rob's favourite thing to do is go outside to play, explore and discover. That's easy for him to do at Big Sky Park, the coolest outdoor adventure park around.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180710202500 +0000" stop="20180710205000 +0000">
     <title>Matt Hatter Chronicles</title>
@@ -11225,6 +11208,9 @@
   <programme channel="tv.14" start="20180710213500 +0000" stop="20180710220000 +0000">
     <title>Disney Junior: Goldie &amp; Bear</title>
     <desc>Goldie and Bear meet Tess the giantess.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180710220000 +0000" stop="20180710223000 +0000">
     <title>Life TV With Paul De Jong</title>
@@ -11337,6 +11323,9 @@
     <title>Shortland Street</title>
     <desc>Dylan makes an enemy of Ali. Mo turns vigilante.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180711083000 +0000" stop="20180711093000 +0000">
     <title>Heartbreak Island</title>
@@ -11389,6 +11378,9 @@
   <programme channel="tv.14" start="20180711131000 +0000" stop="20180711135500 +0000">
     <title>Private Practice</title>
     <desc>An office election pits Sam and Naomi against each other to lead the practice. Cooper's objectionable personal life catches up with his professional one.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180711135500 +0000" stop="20180711141500 +0000">
     <title>Two And A Half Men</title>
@@ -11401,12 +11393,11 @@
     <title>Shortland Street</title>
     <desc>Dylan makes an enemy of Ali. Mo turns vigilante.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
-  <programme channel="tv.14" start="20180711144000 +0000" stop="20180711151500 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180711151500 +0000" stop="20180711154500 +0000">
+  <programme channel="tv.14" start="20180711144000 +0000" stop="20180711154500 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -11438,12 +11429,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180711183000 +0000" stop="20180711190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20180711190000 +0000" stop="20180711193000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.14" start="20180711183000 +0000" stop="20180711193000 +0000">
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180711193000 +0000" stop="20180711194000 +0000">
@@ -11503,7 +11490,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180711220000 +0000" stop="20180711223000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180711223000 +0000" stop="20180711230000 +0000">
@@ -11511,7 +11498,7 @@
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180711230000 +0000" stop="20180711233000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc/>
   </programme>
   <programme channel="tv.14" start="20180711233000 +0000" stop="20180711234000 +0000">
@@ -11562,6 +11549,9 @@
     <title>Shortland Street</title>
     <desc>Dylan makes an enemy of Ali. Mo turns vigilante.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180712043000 +0000" stop="20180712043500 +0000">
     <title>Chuggington: Little Trainees</title>
@@ -50676,10 +50666,10 @@
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180706200000 +0000" stop="20180706210000 +0000">
-    <title>Good Morning America</title>
+    <title>Ellen</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180706210000 +0000" stop="20180707000000 +0000">
