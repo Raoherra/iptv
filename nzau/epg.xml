@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180705204622 +0000" stop="20180705211505 +0000">
-    <title>Tim Don </title>
-    <desc>Tim Don is an unstoppable athlete who, when faced with severe injury, found a way to keep moving forward.</desc>
-    <sub-title>The Man with the Halo</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180705211505 +0000" stop="20180705212904 +0000">
-    <title>Seabase 1910</title>
-    <desc>Patrick Seabase recreates the gruelling first mountain stage of the 1910 Tour de France on a fixed-gear bike.</desc>
-    <sub-title>Riding the Pyrenees on a Fixed Gear Bike</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180705212904 +0000" stop="20180705220825 +0000">
     <title>Follow Me</title>
     <desc>Accompany an all-star cast of mountain bikers on their global journey to ride the best terrain they can find.</desc>
@@ -41612,6 +41602,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180713140000 +0000" stop="20180713143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180705134500 +0000" stop="20180705143300 +0000">
     <title>Humans</title>
     <subtitles type="teletext"/>
@@ -47678,6 +47675,13 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210222" start="20180713140000 +0000" stop="20180713142200 +0000">
+    <title>Archer</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210224" start="20180705130600 +0000" stop="20180705190000 +0000">
     <title>Station Close</title>
     <rating system="Freeview">
@@ -53283,6 +53287,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200424" start="20180713140000 +0000" stop="20180713143000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200427" start="20180705114400 +0000" stop="20180705141100 +0000">
     <title>Platoon</title>
     <subtitles type="teletext"/>
@@ -54607,6 +54617,12 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200427" start="20180713140000 +0000" stop="20180713150000 +0000">
+    <title>Ellen</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180705134000 +0000" stop="20180705140700 +0000">
@@ -59360,9 +59376,9 @@
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180706205800 +0000" stop="20180706220000 +0000">
-    <title>AFN Fishing Show</title>
+    <title>Night Thunder</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180706220000 +0000" stop="20180706223000 +0000">
@@ -68718,15 +68734,15 @@
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180710123000 +0000" stop="20180710130000 +0000">
-    <title>Will &amp; Grace</title>
+    <title>Sex and the City</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20180710130000 +0000" stop="20180710133000 +0000">
-    <title>Will &amp; Grace</title>
+  <programme channel="tv.101406020628" start="20180710130000 +0000" stop="20180710140000 +0000">
+    <title>The Late Late Show with James Corden</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180710140000 +0000" stop="20180710143000 +0000">
@@ -69614,6 +69630,13 @@
     <title>The Late Late Show with James Corden</title>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020628" start="20180713140000 +0000" stop="20180713143000 +0000">
+    <title>Everybody Loves Raymond</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180705131000 +0000" stop="20180705155500 +0000">
@@ -76846,6 +76869,12 @@
   </programme>
   <programme channel="tv.320203000305" start="20180713133000 +0000" stop="20180713140000 +0000">
     <title>Keeping The Language</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180713140000 +0000" stop="20180713150000 +0000">
+    <title>Volumz</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
