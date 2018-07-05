@@ -11056,17 +11056,17 @@
     </rating>
   </programme>
   <programme channel="tv.101204500451" start="20180706203000 +0000" stop="20180706213000 +0000">
-    <title>Ellen</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204500451" start="20180706203000 +0000" stop="20180706213000 +0000">
     <title>Good Morning America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500451" start="20180706203000 +0000" stop="20180706213000 +0000">
+    <title>Ellen</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204500451" start="20180706213000 +0000" stop="20180707003000 +0000">
@@ -15494,17 +15494,17 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204500458" start="20180707074500 +0000" stop="20180707081500 +0000">
+    <title>Clarence</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204500458" start="20180707074500 +0000" stop="20180707093000 +0000">
     <title>Stuart Little</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204500458" start="20180707074500 +0000" stop="20180707081500 +0000">
-    <title>Clarence</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204500458" start="20180707093000 +0000" stop="20180707113000 +0000">
@@ -21282,17 +21282,17 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101305050552" start="20180711141500 +0000" stop="20180711152900 +0000">
+    <title>Escape to the Country</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305050552" start="20180711141500 +0000" stop="20180711150100 +0000">
     <title>Medical Rookies</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305050552" start="20180711141500 +0000" stop="20180711152900 +0000">
-    <title>Escape to the Country</title>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20180711150100 +0000" stop="20180711153100 +0000">
@@ -21896,15 +21896,15 @@
     </rating>
   </programme>
   <programme channel="tv.101305050553" start="20180706212800 +0000" stop="20180706223000 +0000">
-    <title>AFN Fishing Show</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305050553" start="20180706212800 +0000" stop="20180706223000 +0000">
     <title>Night Thunder</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050553" start="20180706212800 +0000" stop="20180706223000 +0000">
+    <title>AFN Fishing Show</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050553" start="20180706223000 +0000" stop="20180706230000 +0000">
@@ -29357,12 +29357,18 @@
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180710130000 +0000" stop="20180710133000 +0000">
+    <title>Will &amp; Grace</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406050658" start="20180710130000 +0000" stop="20180710133000 +0000">
     <title>Sex and the City</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050658" start="20180710130000 +0000" stop="20180710133000 +0000">
+  <programme channel="tv.101406050658" start="20180710133000 +0000" stop="20180710140000 +0000">
     <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -29372,12 +29378,6 @@
     <title>The Late Late Show with James Corden</title>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406050658" start="20180710133000 +0000" stop="20180710140000 +0000">
-    <title>Will &amp; Grace</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20180710143000 +0000" stop="20180710150000 +0000">
@@ -31245,13 +31245,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180705100000 +0000" stop="20180705103000 +0000">
-    <title>Defending Gender Part 1: Proud Boys</title>
+    <title>Dateline</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180705100000 +0000" stop="20180705103000 +0000">
-    <title>Dateline</title>
+    <title>Defending Gender Part 1: Proud Boys</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -37261,21 +37261,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180705074004 +0000" stop="20180705080637 +0000">
-    <title>After the Raves S1E1</title>
-    <desc>DJ Tommie Sunshine visits with Dirty South, 12th Planet and The Gaslamp Killer in Los Angeles.</desc>
-    <sub-title>Los Angeles: The New Tinseltown</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180705080637 +0000" stop="20180705083403 +0000">
-    <title>Red Bull Sport Events S2E10</title>
-    <desc>The world’s best off-road short course sees top racers from each pro-level class compete.</desc>
-    <sub-title>Crandon World Cup	</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180705083403 +0000" stop="20180705090459 +0000">
-    <title>Mountain Biking to the Top</title>
-    <desc>Facing altitude challenges and health risks, a team of mountain bikers explore Tanzania's Mount Kilimanjaro.</desc>
-    <sub-title>Kilimanjaro: Mountain of Greatness</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180705090459 +0000" stop="20180705104536 +0000">
     <title>Roraima</title>
     <desc>A trio of climbers launch an expedition to Mt Roraima, a South American peak shrouded in legend.</desc>
@@ -38067,7 +38052,7 @@
     <desc>Italian singer/rapper Lorenzo Jovanotti teams up with reggae producer Paolo Baldini to create a new song.</desc>
     <sub-title>Presented by Red Bull Studio Mobile</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180709050100 +0000" stop="20180709064205 +0000">
+  <programme channel="tv.redbull.tv" start="20180709050002 +0000" stop="20180709064108 +0000">
     <title>Roraima</title>
     <desc>A trio of climbers launch an expedition to Mt Roraima, a South American peak shrouded in legend.</desc>
     <sub-title>The Climb of a Lifetime</sub-title>
