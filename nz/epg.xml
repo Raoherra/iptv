@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180705050112 +0000" stop="20180705061423 +0000">
-    <title>Chasing Niagara</title>
-    <desc>Follow pro kayaker Rafa Ortiz’s journey in pursuit of his dream to paddle over North America’s Niagara Falls.</desc>
-    <sub-title>Every Dream Has a Point of No Return</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180705061423 +0000" stop="20180705074004 +0000">
     <title>Shake the Dust</title>
     <desc>Communities around the world have found something that brings them together: breakdancing.</desc>
@@ -801,7 +796,7 @@
     <desc>To a delightfully folksy tune, follow a man combing his seemingly abandoned town for discarded treasures.</desc>
     <sub-title>Ghost Town City: Music Video</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180708050100 +0000" stop="20180708052848 +0000">
+  <programme channel="tv.redbull.tv" start="20180708050100 +0000" stop="20180708052713 +0000">
     <title>Red Bull Sport Events S2E14</title>
     <desc>Witness the cool future of Supercross motorcycle racing at Red Bull Straight Rhythm in Pomona, California.</desc>
     <sub-title>Red Bull Straight Rhythm</sub-title>
@@ -4572,7 +4567,10 @@
   </programme>
   <programme channel="tv.11" start="20180705073000 +0000" stop="20180705083000 +0000">
     <title>Jono And Ben</title>
-    <desc>Jono and Ben are joined with a wider cast of comedians, including Brynley Stent, Chris Parker, Kura Forrester, Ray O'Leary and Angella Dravid! Brighten your Thursday night with plenty of laughs.</desc>
+    <desc>New Episode. The boys fix the fuel tax, Guy gets an education in Otago, Laura flirts her way to the top of the sporting world, and Providence gives us a report on her journey to find love.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180705083000 +0000" stop="20180705105000 +0000">
     <title>X-Men: First Class</title>
@@ -4810,7 +4808,7 @@
     <title>Newshub Live At 6pm</title>
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
   </programme>
-  <programme channel="tv.11" start="20180707070000 +0000" stop="20180707085000 +0000">
+  <programme channel="tv.11" start="20180707070000 +0000" stop="20180707084500 +0000">
     <title>Ice Age: Dawn Of The Dinosaurs</title>
     <desc>The sub-zero heroes from the blockbusters Ice Age and Ice Age: The Meltdown are back, and this time they're beneath the ice, discovering a world of dinosaurs. Featuring the voice of Ray Romano. (2009)</desc>
     <audio>
@@ -4820,7 +4818,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180707085000 +0000" stop="20180707094500 +0000">
+  <programme channel="tv.11" start="20180707084500 +0000" stop="20180707094000 +0000">
     <title>All New Chicago Med</title>
     <desc>New Episode. Manning goes to extreme measures to help a fearful pregnant woman. Meanwhile, Choi and April try to strike a balance at work, and Charles and Reese continue to disagree. S3 Ep2</desc>
     <audio>
@@ -4830,14 +4828,14 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180707094500 +0000" stop="20180707104000 +0000">
+  <programme channel="tv.11" start="20180707094000 +0000" stop="20180707103500 +0000">
     <title>NCIS</title>
     <desc>When a Navy commander, who was a technical advisor to a civilian contractor for a Navy weapon, is found dead on a beach, the NCIS team investigates the murder using satellite technology. S1 Ep11</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180707104000 +0000" stop="20180707130000 +0000">
+  <programme channel="tv.11" start="20180707103500 +0000" stop="20180707125000 +0000">
     <title>The East</title>
     <desc>An operative for a private intelligence firm finds her priorities changing after she is tasked with infiltrating a rebel group known for executing covert attacks upon major corporations. (2013)</desc>
     <audio>
@@ -4847,7 +4845,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180707130000 +0000" stop="20180707160000 +0000">
+  <programme channel="tv.11" start="20180707125000 +0000" stop="20180707160000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -4856,7 +4854,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.11" start="20180707170000 +0000" stop="20180707173000 +0000">
-    <title>Brian Houston @ Hillsong TV 1106</title>
+    <title>Brian Houston</title>
     <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -4869,22 +4867,37 @@
   <programme channel="tv.11" start="20180707180000 +0000" stop="20180707183000 +0000">
     <title>Life TV</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180707183000 +0000" stop="20180707190000 +0000">
     <title>Brian Houston</title>
-    <desc></desc>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180707190000 +0000" stop="20180707200000 +0000">
     <title>Charles Stanley</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180707200000 +0000" stop="20180707203000 +0000">
-    <title>Living Church of God</title>
+    <title>Life TV</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180707203000 +0000" stop="20180707210000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180707210000 +0000" stop="20180707213000 +0000">
     <title>R &amp; R</title>
@@ -6376,6 +6389,9 @@
   <programme channel="tv.12" start="20180710093000 +0000" stop="20180710102800 +0000">
     <title>The Real Housewives Of New York City</title>
     <desc>Luann is out of rehab and the ladies whisk her away for a spa weekend in Connecticut.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180710102800 +0000" stop="20180710103000 +0000">
     <title>The Dish</title>
@@ -11633,7 +11649,10 @@
   </programme>
   <programme channel="tv.27" start="20180705083000 +0000" stop="20180705093000 +0000">
     <title>Jono And Ben</title>
-    <desc>Jono and Ben are joined with a wider cast of comedians, including Brynley Stent, Chris Parker, Kura Forrester, Ray O'Leary and Angella Dravid! Brighten your Thursday night with plenty of laughs.</desc>
+    <desc>New Episode. The boys fix the fuel tax, Guy gets an education in Otago, Laura flirts her way to the top of the sporting world, and Providence gives us a report on her journey to find love.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180705093000 +0000" stop="20180705115000 +0000">
     <title>X-Men: First Class</title>
@@ -11856,35 +11875,35 @@
     <title>Newshub Live At 6pm</title>
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
   </programme>
-  <programme channel="tv.27" start="20180707080000 +0000" stop="20180707095000 +0000">
+  <programme channel="tv.27" start="20180707080000 +0000" stop="20180707094500 +0000">
     <title>Ice Age: Dawn Of The Dinosaurs</title>
     <desc>The sub-zero heroes from the blockbusters Ice Age and Ice Age: The Meltdown are back, and this time they're beneath the ice, discovering a world of dinosaurs. Featuring the voice of Ray Romano. (2009)</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180707095000 +0000" stop="20180707104500 +0000">
+  <programme channel="tv.27" start="20180707094500 +0000" stop="20180707104000 +0000">
     <title>All New Chicago Med</title>
     <desc>New Episode. Manning goes to extreme measures to help a fearful pregnant woman. Meanwhile, Choi and April try to strike a balance at work, and Charles and Reese continue to disagree. S3 Ep2</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180707104500 +0000" stop="20180707114000 +0000">
+  <programme channel="tv.27" start="20180707104000 +0000" stop="20180707113500 +0000">
     <title>NCIS</title>
     <desc>When a Navy commander, who was a technical advisor to a civilian contractor for a Navy weapon, is found dead on a beach, the NCIS team investigates the murder using satellite technology. S1 Ep11</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180707114000 +0000" stop="20180707140000 +0000">
+  <programme channel="tv.27" start="20180707113500 +0000" stop="20180707135000 +0000">
     <title>The East</title>
     <desc>An operative for a private intelligence firm finds her priorities changing after she is tasked with infiltrating a rebel group known for executing covert attacks upon major corporations. (2013)</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180707140000 +0000" stop="20180707170000 +0000">
+  <programme channel="tv.27" start="20180707135000 +0000" stop="20180707170000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -11893,7 +11912,7 @@
     <desc></desc>
   </programme>
   <programme channel="tv.27" start="20180707180000 +0000" stop="20180707183000 +0000">
-    <title>Brian Houston @ Hillsong TV 1106</title>
+    <title>Brian Houston</title>
     <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -11906,22 +11925,37 @@
   <programme channel="tv.27" start="20180707190000 +0000" stop="20180707193000 +0000">
     <title>Life TV</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180707193000 +0000" stop="20180707200000 +0000">
     <title>Brian Houston</title>
-    <desc></desc>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180707200000 +0000" stop="20180707210000 +0000">
     <title>Charles Stanley</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180707210000 +0000" stop="20180707213000 +0000">
-    <title>Living Church of God</title>
+    <title>Life TV</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180707213000 +0000" stop="20180707220000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180707220000 +0000" stop="20180707223000 +0000">
     <title>R &amp; R</title>
@@ -13377,6 +13411,9 @@
   <programme channel="tv.30" start="20180710103000 +0000" stop="20180710112800 +0000">
     <title>The Real Housewives Of New York City</title>
     <desc>Luann is out of rehab and the ladies whisk her away for a spa weekend in Connecticut.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180710112800 +0000" stop="20180710113000 +0000">
     <title>The Dish</title>
@@ -23403,7 +23440,10 @@
   </programme>
   <programme channel="tv.51" start="20180706210000 +0000" stop="20180706220000 +0000">
     <title>Jono And Ben</title>
-    <desc>Jono and Ben are joined with a wider cast of comedians, including Brynley Stent, Chris Parker, Kura Forrester, Ray O'Leary and Angella Dravid! Brighten your Thursday night with plenty of laughs.</desc>
+    <desc>New Episode. The boys fix the fuel tax, Guy gets an education in Otago, Laura flirts her way to the top of the sporting world, and Providence gives us a report on her journey to find love.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.51" start="20180706220000 +0000" stop="20180707010000 +0000">
     <title>The Edge Fresh 40</title>
@@ -23585,8 +23625,8 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180709073000 +0000" stop="20180709080000 +0000">
-    <title>This vs That 135</title>
-    <desc></desc>
+    <title>This vs That</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Coldplay vs One Republic</desc>
   </programme>
   <programme channel="tv.51" start="20180709080000 +0000" stop="20180709090000 +0000">
     <title>Top 10</title>
