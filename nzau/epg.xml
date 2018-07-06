@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180706022711 +0000" stop="20180706040646 +0000">
-    <title>Roraima</title>
-    <desc>A trio of climbers launch an expedition to Mt Roraima, a South American peak shrouded in legend.</desc>
-    <sub-title>The Climb of a Lifetime</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180706040646 +0000" stop="20180706050101 +0000">
-    <title>Archaic Festivals S1E4</title>
-    <desc>In the Argentinian equivalent of a rodeo, horsemen, or gauchos, compete in the annual festival.</desc>
-    <sub-title>Fiesta de la Tradición</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180706050101 +0000" stop="20180706050919 +0000">
     <title>Who is JOB S5E1</title>
     <desc>Jamie O'Brien and crew surf the 'The X-Factor of Fun', Hawaii’s Waimea River, where anything can happen. </desc>
@@ -2281,6 +2271,9 @@
     <title>Coronation Street 2018</title>
     <desc>Simon returns from court. Steve searches for a ring. Seb tries to tell Emma his secret.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180711103000 +0000" stop="20180711110000 +0000">
     <title>1 News Tonight</title>
@@ -2388,6 +2381,9 @@
     <title>Coronation Street 2018</title>
     <desc>Sophie blames herself for failing to realise the seriousness of Jack’s illness. Ken suggests a double wedding.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180712104500 +0000" stop="20180712111500 +0000">
     <title>1 News Tonight</title>
@@ -2444,6 +2440,9 @@
   <programme channel="tv.9" start="20180713010000 +0000" stop="20180713020000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Sinead makes a shocking discovery. Adam’s got a plan in mind. Sarah’s protective instincts start to take over.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180713020000 +0000" stop="20180713030000 +0000">
     <title>Wimbledon Highlights</title>
@@ -3371,6 +3370,9 @@
     <title>Survivor New Zealand</title>
     <desc>We host our first ever Survivor NZ auction which takes place instead of the rewards challenge and spices things up. With less people in the game can alliances still be trusted?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180708083000 +0000" stop="20180708105000 +0000">
     <title>Godzilla</title>
@@ -3608,6 +3610,9 @@
   <programme channel="tv.10" start="20180709040000 +0000" stop="20180709043000 +0000">
     <title>Fanimals</title>
     <desc>We're at the zoo for the school holidays! We get up close and personal with some spider monkeys, show you how to make a piggy bank, and your Animal Lookalike pic could win a prize!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180709043000 +0000" stop="20180709050000 +0000">
     <title>Friends</title>
@@ -3957,6 +3962,9 @@
   <programme channel="tv.10" start="20180710053000 +0000" stop="20180710060000 +0000">
     <title>Home And Away</title>
     <desc>Will Brody get the quiet bucks night that he’s asked for? Does Ziggy have cold feet? Willow and Dean get kicked out of the caravan park.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180710060000 +0000" stop="20180710063000 +0000">
     <title>The Big Bang Theory</title>
@@ -3986,7 +3994,13 @@
   <programme channel="tv.10" start="20180710073000 +0000" stop="20180710083000 +0000">
     <title>Heartbreak Island</title>
     <desc>Three become two as we wave goodbye to one of the couples in the dramatic final elimination ceremony.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180710083000 +0000" stop="20180710092500 +0000">
     <title>The Resident</title>
@@ -4196,7 +4210,13 @@
   <programme channel="tv.10" start="20180710230500 +0000" stop="20180711000000 +0000">
     <title>Heartbreak Island</title>
     <desc>Three become two as we wave goodbye to one of the couples in the dramatic final elimination ceremony.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180711000000 +0000" stop="20180711010000 +0000">
     <title>Jeremy Kyle</title>
@@ -4222,6 +4242,9 @@
   <programme channel="tv.10" start="20180711023000 +0000" stop="20180711030000 +0000">
     <title>Home And Away</title>
     <desc>Will Brody get the quiet bucks night that he’s asked for? Does Ziggy have cold feet? Willow and Dean get kicked out of the caravan park.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180711030000 +0000" stop="20180711033000 +0000">
     <title>Shortland Street</title>
@@ -4746,9 +4769,6 @@
   <programme channel="tv.10" start="20180712180000 +0000" stop="20180712183000 +0000">
     <title>Impact For Life</title>
     <desc/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.10" start="20180712183000 +0000" stop="20180712184000 +0000">
     <title>The Wot Wots</title>
@@ -9678,6 +9698,9 @@
     <title>Coronation Street 2018</title>
     <desc>Simon returns from court. Steve searches for a ring. Seb tries to tell Emma his secret.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180711113000 +0000" stop="20180711120000 +0000">
     <title>1 News Tonight</title>
@@ -9785,6 +9808,9 @@
     <title>Coronation Street 2018</title>
     <desc>Sophie blames herself for failing to realise the seriousness of Jack’s illness. Ken suggests a double wedding.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180712114500 +0000" stop="20180712121500 +0000">
     <title>1 News Tonight</title>
@@ -9841,6 +9867,9 @@
   <programme channel="tv.38" start="20180713020000 +0000" stop="20180713030000 +0000">
     <title>Coronation Street Catch-Up</title>
     <desc>Sinead makes a shocking discovery. Adam’s got a plan in mind. Sarah’s protective instincts start to take over.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180713030000 +0000" stop="20180713040000 +0000">
     <title>Wimbledon Highlights</title>
@@ -10632,6 +10661,9 @@
     <title>Survivor New Zealand</title>
     <desc>We host our first ever Survivor NZ auction which takes place instead of the rewards challenge and spices things up. With less people in the game can alliances still be trusted?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180708093000 +0000" stop="20180708115000 +0000">
     <title>Godzilla</title>
@@ -10833,6 +10865,9 @@
   <programme channel="tv.14" start="20180709050000 +0000" stop="20180709053000 +0000">
     <title>Fanimals</title>
     <desc>We're at the zoo for the school holidays! We get up close and personal with some spider monkeys, show you how to make a piggy bank, and your Animal Lookalike pic could win a prize!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180709053000 +0000" stop="20180709060000 +0000">
     <title>Friends</title>
@@ -11134,6 +11169,9 @@
   <programme channel="tv.14" start="20180710063000 +0000" stop="20180710070000 +0000">
     <title>Home And Away</title>
     <desc>Will Brody get the quiet bucks night that he’s asked for? Does Ziggy have cold feet? Willow and Dean get kicked out of the caravan park.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180710070000 +0000" stop="20180710073000 +0000">
     <title>The Big Bang Theory</title>
@@ -11161,6 +11199,9 @@
     <title>Heartbreak Island</title>
     <desc>Three become two as we wave goodbye to one of the couples in the dramatic final elimination ceremony.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180710093000 +0000" stop="20180710102500 +0000">
     <title>The Resident</title>
@@ -11338,6 +11379,9 @@
     <title>Heartbreak Island</title>
     <desc>Three become two as we wave goodbye to one of the couples in the dramatic final elimination ceremony.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180711010000 +0000" stop="20180711020000 +0000">
     <title>Jeremy Kyle</title>
@@ -11818,9 +11862,6 @@
   <programme channel="tv.14" start="20180712190000 +0000" stop="20180712193000 +0000">
     <title>Impact For Life</title>
     <desc/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.14" start="20180712193000 +0000" stop="20180712194000 +0000">
     <title>The Wot Wots</title>
@@ -70810,7 +70851,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180706053500 +0000" stop="20180706060500 +0000">
-    <title>Dateline</title>
+    <title>Defending Gender Part 1: Proud Boys</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>

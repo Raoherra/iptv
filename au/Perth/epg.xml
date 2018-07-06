@@ -9392,17 +9392,17 @@
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180706220000 +0000" stop="20180706230000 +0000">
-    <title>Good Morning America</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600461" start="20180706220000 +0000" stop="20180706230000 +0000">
     <title>Ellen</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600461" start="20180706220000 +0000" stop="20180706230000 +0000">
+    <title>Good Morning America</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180706230000 +0000" stop="20180707020000 +0000">
@@ -13692,17 +13692,17 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204600468" start="20180707091500 +0000" stop="20180707094500 +0000">
+    <title>Clarence</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204600468" start="20180707091500 +0000" stop="20180707110000 +0000">
     <title>Stuart Little</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600468" start="20180707091500 +0000" stop="20180707094500 +0000">
-    <title>Clarence</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204600468" start="20180707110000 +0000" stop="20180707130000 +0000">
@@ -19592,17 +19592,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20180711154500 +0000" stop="20180711165900 +0000">
-    <title>Escape to the Country</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305060562" start="20180711154500 +0000" stop="20180711163100 +0000">
     <title>Medical Rookies</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305060562" start="20180711154500 +0000" stop="20180711165900 +0000">
+    <title>Escape to the Country</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305060562" start="20180711163100 +0000" stop="20180711170100 +0000">
@@ -20189,18 +20189,12 @@
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180706220000 +0000" stop="20180706225800 +0000">
-    <title>Night Thunder</title>
+    <title>AFN Fishing Show</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180706220000 +0000" stop="20180706225800 +0000">
-    <title>AFN Fishing Show</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305060563" start="20180706225800 +0000" stop="20180707000000 +0000">
     <title>Night Thunder</title>
     <rating system="Freeview">
       <value>NC</value>
@@ -20210,6 +20204,12 @@
     <title>AFN Fishing Show</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305060563" start="20180706225800 +0000" stop="20180707000000 +0000">
+    <title>Night Thunder</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180707000000 +0000" stop="20180707003000 +0000">
@@ -37183,16 +37183,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180706022711 +0000" stop="20180706040646 +0000">
-    <title>Roraima</title>
-    <desc>A trio of climbers launch an expedition to Mt Roraima, a South American peak shrouded in legend.</desc>
-    <sub-title>The Climb of a Lifetime</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180706040646 +0000" stop="20180706050101 +0000">
-    <title>Archaic Festivals S1E4</title>
-    <desc>In the Argentinian equivalent of a rodeo, horsemen, or gauchos, compete in the annual festival.</desc>
-    <sub-title>Fiesta de la Tradición</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180706050101 +0000" stop="20180706050919 +0000">
     <title>Who is JOB S5E1</title>
