@@ -10822,17 +10822,17 @@
     </rating>
   </programme>
   <programme channel="tv.101204000401" start="20180706200000 +0000" stop="20180706210000 +0000">
-    <title>Good Morning America</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204000401" start="20180706200000 +0000" stop="20180706210000 +0000">
     <title>Ellen</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204000401" start="20180706200000 +0000" stop="20180706210000 +0000">
+    <title>Good Morning America</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204000401" start="20180706210000 +0000" stop="20180707000000 +0000">
@@ -21230,27 +21230,27 @@
     </rating>
   </programme>
   <programme channel="tv.101305040543" start="20180706200000 +0000" stop="20180706205800 +0000">
-    <title>Night Thunder</title>
+    <title>AFN Fishing Show</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305040543" start="20180706200000 +0000" stop="20180706205800 +0000">
-    <title>AFN Fishing Show</title>
+    <title>Night Thunder</title>
     <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305040543" start="20180706205800 +0000" stop="20180706220000 +0000">
-    <title>AFN Fishing Show</title>
-    <rating system="Freeview">
-      <value>PG</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305040543" start="20180706205800 +0000" stop="20180706220000 +0000">
     <title>Night Thunder</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040543" start="20180706205800 +0000" stop="20180706220000 +0000">
+    <title>AFN Fishing Show</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305040543" start="20180706220000 +0000" stop="20180706223000 +0000">
@@ -28441,16 +28441,16 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406040648" start="20180710123000 +0000" stop="20180710130000 +0000">
-    <title>Will &amp; Grace</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406040648" start="20180710123000 +0000" stop="20180710131000 +0000">
     <title>Sex and the City</title>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406040648" start="20180710123000 +0000" stop="20180710130000 +0000">
+    <title>Will &amp; Grace</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406040648" start="20180710130000 +0000" stop="20180710133000 +0000">
@@ -36788,16 +36788,6 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180706120351 +0000" stop="20180706123148 +0000">
-    <title>Red Bull Sport Events S2E10</title>
-    <desc>The world’s best off-road short course sees top racers from each pro-level class compete.</desc>
-    <sub-title>Crandon World Cup	</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180706123148 +0000" stop="20180706130343 +0000">
-    <title>Mountain Biking to the Top</title>
-    <desc>Facing altitude challenges and health risks, a team of mountain bikers explore Tanzania's Mount Kilimanjaro.</desc>
-    <sub-title>Kilimanjaro: Mountain of Greatness</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180706130343 +0000" stop="20180706144318 +0000">
     <title>Roraima</title>
     <desc>A trio of climbers launch an expedition to Mt Roraima, a South American peak shrouded in legend.</desc>
@@ -37731,206 +37721,211 @@
     <desc>Get a crash course in mountain biking, with lessons in the terminology, history, and heroes of the sport.</desc>
     <sub-title>ABC of... Mountain Biking</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711052916 +0000" stop="20180711055807 +0000">
+  <programme channel="tv.redbull.tv" start="20180711052946 +0000" stop="20180711055837 +0000">
     <title>Not2Bad</title>
     <desc>Anthill Films' sequel to Not Bad is a double dose of freestyle mountain biking and tomfoolery.</desc>
     <sub-title>More Epic Tomfoolery in Spain</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711055737 +0000" stop="20180711064043 +0000">
+  <programme channel="tv.redbull.tv" start="20180711055837 +0000" stop="20180711064143 +0000">
     <title>Karl Meltzer: Made to Be Broken</title>
     <desc>Ultrarunner Karl Meltzer embarks on his third and final attempt to cross the Appalachian Trail in record time.</desc>
     <sub-title>Running the Appalachian Trail</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711064013 +0000" stop="20180711073559 +0000">
+  <programme channel="tv.redbull.tv" start="20180711064143 +0000" stop="20180711073729 +0000">
     <title>Visions of Greatness S1E3</title>
     <desc>At the pinnacle of performance, natural ability only goes so far. Drive separates the good from the great.</desc>
     <sub-title>The Driven</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711073459 +0000" stop="20180711080507 +0000">
+  <programme channel="tv.redbull.tv" start="20180711073729 +0000" stop="20180711080737 +0000">
     <title>Your Street My Stage S1E4</title>
     <desc>Australia’s artistic epicentre is home to some of the world’s most innnovative street performers.</desc>
     <sub-title>Melbourne</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711080437 +0000" stop="20180711084256 +0000">
+  <programme channel="tv.redbull.tv" start="20180711080737 +0000" stop="20180711084556 +0000">
     <title>Back to the Bowl</title>
     <desc>Explore the history of one of the world's most iconic skate spots as told by the riders who made it famous.</desc>
     <sub-title>A Marseille Skate Legend</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711084226 +0000" stop="20180711091044 +0000">
+  <programme channel="tv.redbull.tv" start="20180711084556 +0000" stop="20180711091414 +0000">
     <title>Tall Bikes Will Save the World</title>
     <desc>Part art project, part practical transport, part mad scientist hobby, tall bikes just might save the world!</desc>
     <sub-title>Be a Creator, Not a Spectator</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711091014 +0000" stop="20180711095918 +0000">
+  <programme channel="tv.redbull.tv" start="20180711091414 +0000" stop="20180711100318 +0000">
     <title>Dougie Lampkin: Wheelie Man</title>
     <desc>Go behind the scenes with the 12-time world champion trials rider as he gears up for a historic challenge.</desc>
     <sub-title>The Isle of Man TT Course on One Wheel</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711100418 +0000" stop="20180711102708 +0000">
+  <programme channel="tv.redbull.tv" start="20180711100318 +0000" stop="20180711101126 +0000">
+    <title>MX Nation S2E1</title>
+    <desc>Motocross rider Jeremy Martin prepares for the 2016 season.</desc>
+    <sub-title>Preparation Time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180711101126 +0000" stop="20180711103417 +0000">
     <title>Reel Rock S1E10</title>
     <desc>Hazel Findlay is smashing the stereotype of a 'traditional British climber' and sending it as hard as the men.</desc>
     <sub-title>Spice Girl</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711102638 +0000" stop="20180711112307 +0000">
+  <programme channel="tv.redbull.tv" start="20180711103417 +0000" stop="20180711113046 +0000">
     <title>The Battle of Cape Fear</title>
     <desc>The world's elite big wave surfers gather to tackle the fierce waves at the daunting Cape Fear event.</desc>
     <sub-title>A Surfing Documentary</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711112207 +0000" stop="20180711114827 +0000">
+  <programme channel="tv.redbull.tv" start="20180711113046 +0000" stop="20180711115705 +0000">
     <title>Bullit: The Documentary S1E1</title>
     <desc>Dr Dean Miller and his research crew embark on a five-day expedition to study the elusive Dwarf Minke whale.</desc>
     <sub-title>Encounter at Ribbon Reef</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711114729 +0000" stop="20180711121023 +0000">
+  <programme channel="tv.redbull.tv" start="20180711115705 +0000" stop="20180711121959 +0000">
     <title>Liquid Science S1E2</title>
     <desc>American rapper GZA is on a quest to understand the age-old human desire to live forever.</desc>
     <sub-title>Living Forever</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711120953 +0000" stop="20180711123238 +0000">
+  <programme channel="tv.redbull.tv" start="20180711121959 +0000" stop="20180711124244 +0000">
     <title>Reel Rock S1E9</title>
     <desc>Daniel Woods proves himself. Now he and his sensei, Yuji Hirayama, are off to the untapped peaks of Borneo.</desc>
     <sub-title>The Sensei: Part II</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711123208 +0000" stop="20180711124042 +0000">
+  <programme channel="tv.redbull.tv" start="20180711124244 +0000" stop="20180711125118 +0000">
     <title>Who is JOB S5E7</title>
     <desc>Jamie O'Brien, Ryan Hipwood, and the crew head to the Emerald Isle for some surfing and cheeky shenanigans.</desc>
     <sub-title>Irish Seas and Hurricane Winds</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711124042 +0000" stop="20180711125235 +0000">
+  <programme channel="tv.redbull.tv" start="20180711125118 +0000" stop="20180711130311 +0000">
     <title>Who is JOB S5E8</title>
     <desc>The crew of surfers get some freezing waves, learn to play hurling, and try to join the Dublin Fire Brigade.</desc>
     <sub-title>Pig in the Blanket</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711125205 +0000" stop="20180711130047 +0000">
+  <programme channel="tv.redbull.tv" start="20180711130311 +0000" stop="20180711131153 +0000">
     <title>Who is JOB S5E9</title>
     <desc>In California, Jamie O’Brien and the crew enjoy surf and skate shenanigans with Ryan Sheckler and Zion Wright.</desc>
     <sub-title>Wedge Life</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711130047 +0000" stop="20180711130911 +0000">
+  <programme channel="tv.redbull.tv" start="20180711131153 +0000" stop="20180711132017 +0000">
     <title>Who is JOB S5E10</title>
     <desc>Jamie O'Brien shows off the best waves, the gnarliest crashes, and his favourite footage from an epic year. </desc>
     <sub-title>The Best Moments of 6.0</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711130911 +0000" stop="20180711135225 +0000">
+  <programme channel="tv.redbull.tv" start="20180711132017 +0000" stop="20180711140332 +0000">
     <title>Follow the Fraser</title>
     <desc>Three professional mountain bikers travel north through Canada, riding their way toward the unknown.</desc>
     <sub-title>A Mountain Bike Excursion Into the Unknown</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711135155 +0000" stop="20180711144759 +0000">
+  <programme channel="tv.redbull.tv" start="20180711140332 +0000" stop="20180711145935 +0000">
     <title>Explorers: Documentaries S3E4</title>
     <desc>A pair of intrepid cave divers attempts to connect two gigantic cave systems in the Bahamas and make history.</desc>
     <sub-title>The Crystal Labyrinth</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711144659 +0000" stop="20180711154014 +0000">
+  <programme channel="tv.redbull.tv" start="20180711145935 +0000" stop="20180711155251 +0000">
     <title>The Art of Street Fighting</title>
     <desc>The world's top Street Fighter V players prepare for the fight of their lives at Red Bull Kumite.</desc>
     <sub-title>One Game. One Champion. An Endless Fight.</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711153914 +0000" stop="20180711160659 +0000">
+  <programme channel="tv.redbull.tv" start="20180711155251 +0000" stop="20180711162035 +0000">
     <title>The Road Trick S1E2</title>
     <desc>Adam Trent is in Austria, to see what doors his magic can open for him. But will language lock him out?</desc>
     <sub-title>Vienna</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711160629 +0000" stop="20180711164448 +0000">
+  <programme channel="tv.redbull.tv" start="20180711162035 +0000" stop="20180711165854 +0000">
     <title>Back to the Bowl</title>
     <desc>Explore the history of one of the world's most iconic skate spots as told by the riders who made it famous.</desc>
     <sub-title>A Marseille Skate Legend</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711164418 +0000" stop="20180711171236 +0000">
+  <programme channel="tv.redbull.tv" start="20180711165854 +0000" stop="20180711172712 +0000">
     <title>Tall Bikes Will Save the World</title>
     <desc>Part art project, part practical transport, part mad scientist hobby, tall bikes just might save the world!</desc>
     <sub-title>Be a Creator, Not a Spectator</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711171206 +0000" stop="20180711180110 +0000">
+  <programme channel="tv.redbull.tv" start="20180711172712 +0000" stop="20180711181616 +0000">
     <title>Dougie Lampkin: Wheelie Man</title>
     <desc>Go behind the scenes with the 12-time world champion trials rider as he gears up for a historic challenge.</desc>
     <sub-title>The Isle of Man TT Course on One Wheel</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711180610 +0000" stop="20180711182900 +0000">
+  <programme channel="tv.redbull.tv" start="20180711181616 +0000" stop="20180711182424 +0000">
+    <title>MX Nation S2E1</title>
+    <desc>Motocross rider Jeremy Martin prepares for the 2016 season.</desc>
+    <sub-title>Preparation Time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180711182424 +0000" stop="20180711184715 +0000">
     <title>Reel Rock S1E10</title>
     <desc>Hazel Findlay is smashing the stereotype of a 'traditional British climber' and sending it as hard as the men.</desc>
     <sub-title>Spice Girl</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711182830 +0000" stop="20180711192459 +0000">
+  <programme channel="tv.redbull.tv" start="20180711184715 +0000" stop="20180711194344 +0000">
     <title>The Battle of Cape Fear</title>
     <desc>The world's elite big wave surfers gather to tackle the fierce waves at the daunting Cape Fear event.</desc>
     <sub-title>A Surfing Documentary</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711192359 +0000" stop="20180711195018 +0000">
+  <programme channel="tv.redbull.tv" start="20180711194344 +0000" stop="20180711201003 +0000">
     <title>Bullit: The Documentary S1E1</title>
     <desc>Dr Dean Miller and his research crew embark on a five-day expedition to study the elusive Dwarf Minke whale.</desc>
     <sub-title>Encounter at Ribbon Reef</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711194921 +0000" stop="20180711201215 +0000">
+  <programme channel="tv.redbull.tv" start="20180711201003 +0000" stop="20180711203257 +0000">
     <title>Liquid Science S1E2</title>
     <desc>American rapper GZA is on a quest to understand the age-old human desire to live forever.</desc>
     <sub-title>Living Forever</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711201145 +0000" stop="20180711210821 +0000">
+  <programme channel="tv.redbull.tv" start="20180711203257 +0000" stop="20180711212933 +0000">
     <title></title>
     <sub-title>Red Bull Air Race World Championship</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711210721 +0000" stop="20180711213809 +0000">
+  <programme channel="tv.redbull.tv" start="20180711212933 +0000" stop="20180711220021 +0000">
     <title>Road to 55</title>
     <desc>Experience the 2014 Formula One racing season with Carlos Sainz as he strives to become a top driver.</desc>
     <sub-title>The Drive to Become a Formula One Racer</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711213739 +0000" stop="20180711230249 +0000">
+  <programme channel="tv.redbull.tv" start="20180711220021 +0000" stop="20180711232531 +0000">
     <title>Nervous Laughter</title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711230119 +0000" stop="20180711230623 +0000">
+  <programme channel="tv.redbull.tv" start="20180711232531 +0000" stop="20180711233036 +0000">
     <title>Chasing the Shot S1E1</title>
     <desc>Pro surfer Mick Fanning and photographer Trevor Moran arrive in Norway to surf under the Aurora Borealis.</desc>
     <sub-title>Aurora Borealis</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711230624 +0000" stop="20180711233332 +0000">
+  <programme channel="tv.redbull.tv" start="20180711233036 +0000" stop="20180711235744 +0000">
     <title>Red Bull Show Run</title>
     <desc>Salt flies in northern Argentina as the team's F1 car rips across the salt flats of Salinas Grandes.</desc>
     <sub-title>F1 Show Run Salt Challenge</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711233311 +0000" stop="20180711235856 +0000">
+  <programme channel="tv.redbull.tv" start="20180711235744 +0000" stop="20180712002328 +0000">
     <title>SCREENLAND S1E2</title>
     <desc>Follow a Twitch streamer and a Nerdcore rapper as they strive to reinvent themselves.</desc>
     <sub-title>Reboot</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180711235826 +0000" stop="20180712010656 +0000">
+  <programme channel="tv.redbull.tv" start="20180712002328 +0000" stop="20180712013159 +0000">
     <title>Parks Bonifay Documentary</title>
     <desc>Watch the journey behind the extraordinary life of wakeboarding king Parks Bonifay.</desc>
     <sub-title>The Story of Wakeboarder Parks Bonifay</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180712010556 +0000" stop="20180712014415 +0000">
+  <programme channel="tv.redbull.tv" start="20180712013159 +0000" stop="20180712021018 +0000">
     <title>Back to the Bowl</title>
     <desc>Explore the history of one of the world's most iconic skate spots as told by the riders who made it famous.</desc>
     <sub-title>A Marseille Skate Legend</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180712014345 +0000" stop="20180712021203 +0000">
+  <programme channel="tv.redbull.tv" start="20180712021018 +0000" stop="20180712023836 +0000">
     <title>Tall Bikes Will Save the World</title>
     <desc>Part art project, part practical transport, part mad scientist hobby, tall bikes just might save the world!</desc>
     <sub-title>Be a Creator, Not a Spectator</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180712021133 +0000" stop="20180712030037 +0000">
+  <programme channel="tv.redbull.tv" start="20180712023836 +0000" stop="20180712032740 +0000">
     <title>Dougie Lampkin: Wheelie Man</title>
     <desc>Go behind the scenes with the 12-time world champion trials rider as he gears up for a historic challenge.</desc>
     <sub-title>The Isle of Man TT Course on One Wheel</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180712025937 +0000" stop="20180712032227 +0000">
+  <programme channel="tv.redbull.tv" start="20180712032740 +0000" stop="20180712033548 +0000">
+    <title>MX Nation S2E1</title>
+    <desc>Motocross rider Jeremy Martin prepares for the 2016 season.</desc>
+    <sub-title>Preparation Time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20180712033549 +0000" stop="20180712035839 +0000">
     <title>Reel Rock S1E10</title>
     <desc>Hazel Findlay is smashing the stereotype of a 'traditional British climber' and sending it as hard as the men.</desc>
     <sub-title>Spice Girl</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180712032157 +0000" stop="20180712041826 +0000">
+  <programme channel="tv.redbull.tv" start="20180712035839 +0000" stop="20180712045507 +0000">
     <title>The Battle of Cape Fear</title>
     <desc>The world's elite big wave surfers gather to tackle the fierce waves at the daunting Cape Fear event.</desc>
     <sub-title>A Surfing Documentary</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180712041726 +0000" stop="20180712044346 +0000">
-    <title>Bullit: The Documentary S1E1</title>
-    <desc>Dr Dean Miller and his research crew embark on a five-day expedition to study the elusive Dwarf Minke whale.</desc>
-    <sub-title>Encounter at Ribbon Reef</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180712044248 +0000" stop="20180712050542 +0000">
-    <title>Liquid Science S1E2</title>
-    <desc>American rapper GZA is on a quest to understand the age-old human desire to live forever.</desc>
-    <sub-title>Living Forever</sub-title>
   </programme>
 </tv>
