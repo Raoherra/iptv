@@ -926,9 +926,9 @@
         "name": "Triple M Sydney",
         "description": "Sydney's #1 radio station for Rock and AFL",
         "audio": {
-            "sample_rate": 44100,
             "codec": "aac",
-            "channels": 2
+            "channels": 2,
+            "sample_rate": 44100
         },
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.triple.m.sydney.png",
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.triple.m.sydney/m.m3u8",
