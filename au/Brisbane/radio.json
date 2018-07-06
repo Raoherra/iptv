@@ -788,9 +788,9 @@
             "News & Talk"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6998/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6998",
