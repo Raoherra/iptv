@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180706002941 +0000" stop="20180706012851 +0000">
-    <title>Attractive Distractions</title>
-    <desc>Mind-bending surfing meets cutting-edge cinematography in this globe-spanning wave exploration.</desc>
-    <sub-title>Pushing surfing to new heights</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180706012851 +0000" stop="20180706015616 +0000">
-    <title>Red Bull Sport Events S2E10</title>
-    <desc>The world’s best off-road short course sees top racers from each pro-level class compete.</desc>
-    <sub-title>Crandon World Cup	</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180706015616 +0000" stop="20180706022711 +0000">
     <title>Mountain Biking to the Top</title>
     <desc>Facing altitude challenges and health risks, a team of mountain bikers explore Tanzania's Mount Kilimanjaro.</desc>
@@ -7637,15 +7627,22 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.13" start="20180708083000 +0000" stop="20180708110500 +0000">
-    <title>Babel</title>
-    <desc>(AO) Tragedy strikes a married couple on vacation in the Moroccan desert, touching off an interlocking story involving four different families. (2006)</desc>
+  <programme channel="tv.13" start="20180708083000 +0000" stop="20180708104000 +0000">
+    <title>Made in Dagenham</title>
+    <desc>A dramatization of the 1968 strike at the Ford Dagenham car plant, where female workers walked out in protest against sexual discrimination. (PREMIERE)</desc>
   </programme>
-  <programme channel="tv.13" start="20180708110500 +0000" stop="20180708113500 +0000">
+  <programme channel="tv.13" start="20180708104000 +0000" stop="20180708110000 +0000">
+    <title>Tama Uli: The Opressed Black People of Samoa</title>
+    <desc>Melanesian men were brought to Samoa as slave labour in the early 1900's by the German colonisers. 'Tama Uli' looks at the current political situation where the government is trying to force them off</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.13" start="20180708110000 +0000" stop="20180708113000 +0000">
     <title>Te Kāea</title>
     <desc>Presenters Piripi Taylor, Rahia Timutimu and the experienced team of reporters bring you the daily news, featuring local, national and international stories from a Māori perspective. (R)</desc>
   </programme>
-  <programme channel="tv.13" start="20180708113500 +0000" stop="20180708183000 +0000">
+  <programme channel="tv.13" start="20180708113000 +0000" stop="20180708183000 +0000">
     <title>Māori Television</title>
     <desc>Māori Television specialises in the stories of Aotearoa. Be entertained and informed with news, current affairs, sports, drama, documentaries and much more. Go to www.Maoritelevision.com for more inf</desc>
   </programme>

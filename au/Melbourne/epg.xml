@@ -11053,6 +11053,7 @@
   </programme>
   <programme channel="tv.101204300430" start="20180707193300 +0000" stop="20180707200000 +0000">
     <title>Wesley Impact</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -13573,13 +13574,13 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300436" start="20180706085700 +0000" stop="20180706093000 +0000">
+  <programme channel="tv.101204300436" start="20180706085700 +0000" stop="20180706092900 +0000">
     <title>Keeping Up Appearances</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300436" start="20180706093000 +0000" stop="20180706095900 +0000">
+  <programme channel="tv.101204300436" start="20180706092900 +0000" stop="20180706095900 +0000">
     <title>Nine's Friday Night Football Preview</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -17164,42 +17165,49 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180706213000 +0000" stop="20180706220000 +0000">
+  <programme channel="tv.101305020528" start="20180706213000 +0000" stop="20180706214500 +0000">
+    <title>The Trial Show</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180706214500 +0000" stop="20180706221500 +0000">
     <title>Ten of the Best - Melbourne Cups</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180706220000 +0000" stop="20180706223000 +0000">
+  <programme channel="tv.101305020528" start="20180706221500 +0000" stop="20180706224500 +0000">
     <title>After The Last</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180706223000 +0000" stop="20180706233000 +0000">
+  <programme channel="tv.101305020528" start="20180706224500 +0000" stop="20180706234500 +0000">
     <title>Get On!</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180706233000 +0000" stop="20180707000000 +0000">
+  <programme channel="tv.101305020528" start="20180706234500 +0000" stop="20180707001500 +0000">
     <title>Good Things Beat</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180707000000 +0000" stop="20180707012500 +0000">
+  <programme channel="tv.101305020528" start="20180707001500 +0000" stop="20180707012100 +0000">
     <title>Live: Before the First</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180707012500 +0000" stop="20180707071500 +0000">
+  <programme channel="tv.101305020528" start="20180707012100 +0000" stop="20180707071500 +0000">
     <title>Racing Live: Flem/Echuca/Gawler</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -17311,43 +17319,36 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180707151500 +0000" stop="20180707153000 +0000">
-    <title>At A Glance</title>
+  <programme channel="tv.101305020528" start="20180707151500 +0000" stop="20180707154500 +0000">
+    <title>More Than A Race</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180707153000 +0000" stop="20180707160000 +0000">
-    <title>Raceday Review - Gawler</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180707160000 +0000" stop="20180707164500 +0000">
+  <programme channel="tv.101305020528" start="20180707154500 +0000" stop="20180707163000 +0000">
     <title>Raceday Review - Flemington</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180707164500 +0000" stop="20180707171500 +0000">
+  <programme channel="tv.101305020528" start="20180707163000 +0000" stop="20180707170000 +0000">
     <title>After The Last</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180707171500 +0000" stop="20180707174500 +0000">
+  <programme channel="tv.101305020528" start="20180707170000 +0000" stop="20180707173000 +0000">
     <title>Raceday Review - Gawler</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180707174500 +0000" stop="20180707180000 +0000">
-    <title>At A Glance</title>
+  <programme channel="tv.101305020528" start="20180707173000 +0000" stop="20180707180000 +0000">
+    <title>More Than A Race</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -17382,49 +17383,49 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180707200000 +0000" stop="20180707203000 +0000">
+    <title>More Than A Race</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180707203000 +0000" stop="20180707210000 +0000">
+    <title>Raceday Review - Gawler</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180707210000 +0000" stop="20180707214500 +0000">
+    <title>Raceday Review - Flemington</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180707214500 +0000" stop="20180707221500 +0000">
     <title>Raceday Review - Echuca</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180707203000 +0000" stop="20180707204500 +0000">
-    <title>At A Glance</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180707204500 +0000" stop="20180707213000 +0000">
-    <title>Raceday Review - Flemington</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180707213000 +0000" stop="20180707220000 +0000">
-    <title>Raceday Review - Gawler</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180707220000 +0000" stop="20180707223000 +0000">
+  <programme channel="tv.101305020528" start="20180707221500 +0000" stop="20180707224500 +0000">
     <title>After The Last</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180707223000 +0000" stop="20180707231500 +0000">
-    <title>Raceday Review - Flemington</title>
+  <programme channel="tv.101305020528" start="20180707224500 +0000" stop="20180707231500 +0000">
+    <title>Raceday Review - Gawler</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180707231500 +0000" stop="20180707234500 +0000">
-    <title>Raceday Review - Gawler</title>
+    <title>More Than A Race</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -17458,134 +17459,120 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180708103000 +0000" stop="20180708110000 +0000">
+  <programme channel="tv.101305020528" start="20180708103000 +0000" stop="20180708111500 +0000">
     <title>Raceday Review - Warrnambool</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180708110000 +0000" stop="20180708113000 +0000">
+  <programme channel="tv.101305020528" start="20180708111500 +0000" stop="20180708114500 +0000">
     <title>Raceday Review - Racing.com Park</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180708113000 +0000" stop="20180708120000 +0000">
+  <programme channel="tv.101305020528" start="20180708114500 +0000" stop="20180708121500 +0000">
     <title>Free Rein with Matt Hill</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180708120000 +0000" stop="20180708123000 +0000">
+  <programme channel="tv.101305020528" start="20180708121500 +0000" stop="20180708124500 +0000">
     <title>Raceday Review - Port Augusta</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180708123000 +0000" stop="20180708130000 +0000">
+  <programme channel="tv.101305020528" start="20180708124500 +0000" stop="20180708131500 +0000">
+    <title>More Than A Race</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180708131500 +0000" stop="20180708140000 +0000">
     <title>Raceday Review - Warrnambool</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180708130000 +0000" stop="20180708133000 +0000">
-    <title>Raceday Review - Racing.com Park</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180708133000 +0000" stop="20180708140000 +0000">
-    <title>Raceday Review - Port Augusta</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180708140000 +0000" stop="20180708143000 +0000">
-    <title>Raceday Review - Warrnambool</title>
+    <title>Raceday Review - Racing.com Park</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180708143000 +0000" stop="20180708150000 +0000">
-    <title>Raceday Review - Racing.com Park</title>
+    <title>Raceday Review - Port Augusta</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180708150000 +0000" stop="20180708153000 +0000">
-    <title>Raceday Review - Port Augusta</title>
+    <title>More Than A Race</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180708153000 +0000" stop="20180708160000 +0000">
+  <programme channel="tv.101305020528" start="20180708153000 +0000" stop="20180708161500 +0000">
     <title>Raceday Review - Warrnambool</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180708160000 +0000" stop="20180708163000 +0000">
+  <programme channel="tv.101305020528" start="20180708161500 +0000" stop="20180708164500 +0000">
     <title>Raceday Review - Racing.com Park</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180708163000 +0000" stop="20180708170000 +0000">
+  <programme channel="tv.101305020528" start="20180708164500 +0000" stop="20180708171500 +0000">
     <title>Raceday Review - Port Augusta</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180708170000 +0000" stop="20180708173000 +0000">
+  <programme channel="tv.101305020528" start="20180708171500 +0000" stop="20180708174500 +0000">
+    <title>More Than A Race</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180708174500 +0000" stop="20180708183000 +0000">
     <title>Raceday Review - Warrnambool</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180708173000 +0000" stop="20180708180000 +0000">
-    <title>Raceday Review - Racing.com Park</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180708180000 +0000" stop="20180708183000 +0000">
-    <title>Raceday Review - Port Augusta</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180708183000 +0000" stop="20180708190000 +0000">
-    <title>Raceday Review - Warrnambool</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180708190000 +0000" stop="20180708193000 +0000">
     <title>Raceday Review - Racing.com Park</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180708193000 +0000" stop="20180708200000 +0000">
+  <programme channel="tv.101305020528" start="20180708190000 +0000" stop="20180708193000 +0000">
     <title>Raceday Review - Port Augusta</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180708193000 +0000" stop="20180708200000 +0000">
+    <title>More Than A Race</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -17598,64 +17585,57 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180708201500 +0000" stop="20180708204500 +0000">
+  <programme channel="tv.101305020528" start="20180708201500 +0000" stop="20180708210000 +0000">
     <title>Raceday Review - Warrnambool</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180708204500 +0000" stop="20180708211500 +0000">
-    <title>Raceday Review - Racing.com Park</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180708211500 +0000" stop="20180708214500 +0000">
+  <programme channel="tv.101305020528" start="20180708210000 +0000" stop="20180708213000 +0000">
     <title>Raceday Review - Port Augusta</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180708214500 +0000" stop="20180708221500 +0000">
-    <title>Raceday Review - Warrnambool</title>
+  <programme channel="tv.101305020528" start="20180708213000 +0000" stop="20180708220000 +0000">
+    <title>Raceday Review - Racing.com Park</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180708221500 +0000" stop="20180708224500 +0000">
+  <programme channel="tv.101305020528" start="20180708220000 +0000" stop="20180708223000 +0000">
     <title>Ten of the Best - Melbourne Cups</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180708224500 +0000" stop="20180708231500 +0000">
-    <title>Raceday Review - Racing.com Park</title>
+  <programme channel="tv.101305020528" start="20180708223000 +0000" stop="20180708230000 +0000">
+    <title>More Than A Race</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180708231500 +0000" stop="20180708234500 +0000">
+  <programme channel="tv.101305020528" start="20180708230000 +0000" stop="20180708233000 +0000">
     <title>Raceday Review - Port Augusta</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180708234500 +0000" stop="20180709001500 +0000">
-    <title>Raceday Review - Warrnambool</title>
+  <programme channel="tv.101305020528" start="20180708233000 +0000" stop="20180709000000 +0000">
+    <title>Raceday Review - Racing.com Park</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180709001500 +0000" stop="20180709004500 +0000">
-    <title>Raceday Review - Racing.com Park</title>
+  <programme channel="tv.101305020528" start="20180709000000 +0000" stop="20180709004500 +0000">
+    <title>Raceday Review - Warrnambool</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -17669,7 +17649,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180709011500 +0000" stop="20180709014500 +0000">
-    <title>Raceday Review - Warrnambool</title>
+    <title>Raceday Review - Racing.com Park</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -19174,7 +19154,7 @@
   <programme channel="tv.101305030530" start="20180708160000 +0000" stop="20180708163000 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305030530" start="20180708163000 +0000" stop="20180708165900 +0000">
@@ -19490,14 +19470,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180711090000 +0000" stop="20180711093100 +0000">
+  <programme channel="tv.101305030530" start="20180711090000 +0000" stop="20180711093000 +0000">
     <title>Home and Away</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180711093100 +0000" stop="20180711104500 +0000">
+  <programme channel="tv.101305030530" start="20180711093000 +0000" stop="20180711104500 +0000">
     <title>House Rules</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -22011,6 +21991,7 @@
   </programme>
   <programme channel="tv.101305030533" start="20180709085800 +0000" stop="20180709093000 +0000">
     <title>Pawn Stars</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -22064,31 +22045,31 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180709170300 +0000" stop="20180709173400 +0000">
+  <programme channel="tv.101305030533" start="20180709170300 +0000" stop="20180709173500 +0000">
     <title>Bid &amp; Destroy</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180709173400 +0000" stop="20180709183200 +0000">
+  <programme channel="tv.101305030533" start="20180709173500 +0000" stop="20180709183200 +0000">
     <title>American Pickers</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180709183200 +0000" stop="20180709190100 +0000">
+  <programme channel="tv.101305030533" start="20180709183200 +0000" stop="20180709190000 +0000">
     <title>AFN Fishing Show</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180709190100 +0000" stop="20180709193000 +0000">
+  <programme channel="tv.101305030533" start="20180709190000 +0000" stop="20180709192900 +0000">
     <title>AFN Fishing Show</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180709193000 +0000" stop="20180709200000 +0000">
+  <programme channel="tv.101305030533" start="20180709192900 +0000" stop="20180709200000 +0000">
     <title>Fishing Western Australia</title>
     <rating system="Freeview">
       <value>G</value>
@@ -22138,6 +22119,7 @@
   </programme>
   <programme channel="tv.101305030533" start="20180710002600 +0000" stop="20180710010000 +0000">
     <title>Pawn Stars</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -22210,6 +22192,7 @@
   </programme>
   <programme channel="tv.101305030533" start="20180710090100 +0000" stop="20180710093000 +0000">
     <title>Pawn Stars</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -22332,6 +22315,7 @@
   </programme>
   <programme channel="tv.101305030533" start="20180711003300 +0000" stop="20180711010100 +0000">
     <title>Pawn Stars</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -22404,6 +22388,7 @@
   </programme>
   <programme channel="tv.101305030533" start="20180711090200 +0000" stop="20180711093000 +0000">
     <title>Pawn Stars</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -22564,6 +22549,7 @@
   </programme>
   <programme channel="tv.101305030533" start="20180712002800 +0000" stop="20180712010200 +0000">
     <title>Pawn Stars</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -22636,6 +22622,7 @@
   </programme>
   <programme channel="tv.101305030533" start="20180712090000 +0000" stop="20180712093000 +0000">
     <title>Pawn Stars</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -23627,37 +23614,37 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180709130000 +0000" stop="20180709140400 +0000">
+  <programme channel="tv.101305030535" start="20180709130000 +0000" stop="20180709140600 +0000">
     <title>Marvel's Agents of S.H.I.E.L.D</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180709140400 +0000" stop="20180709143200 +0000">
+  <programme channel="tv.101305030535" start="20180709140600 +0000" stop="20180709143400 +0000">
     <title>The Real O'Neals</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180709143200 +0000" stop="20180709150100 +0000">
+  <programme channel="tv.101305030535" start="20180709143400 +0000" stop="20180709150300 +0000">
     <title>The Real O'Neals</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180709150100 +0000" stop="20180709162800 +0000">
+  <programme channel="tv.101305030535" start="20180709150300 +0000" stop="20180709163000 +0000">
     <title>The Falcon and the Co-eds</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180709162800 +0000" stop="20180709182900 +0000">
+  <programme channel="tv.101305030535" start="20180709163000 +0000" stop="20180709183100 +0000">
     <title>Time Served</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180709182900 +0000" stop="20180709200000 +0000">
+  <programme channel="tv.101305030535" start="20180709183100 +0000" stop="20180709200000 +0000">
     <title>Five Came Back</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -23730,173 +23717,173 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710011600 +0000" stop="20180710020500 +0000">
+  <programme channel="tv.101305030535" start="20180710011600 +0000" stop="20180710020000 +0000">
     <title>Travel Oz</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710020500 +0000" stop="20180710031900 +0000">
+  <programme channel="tv.101305030535" start="20180710020000 +0000" stop="20180710031500 +0000">
     <title>House Rules</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710031900 +0000" stop="20180710043200 +0000">
+  <programme channel="tv.101305030535" start="20180710031500 +0000" stop="20180710043000 +0000">
     <title>Restaurant Revolution</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710043200 +0000" stop="20180710053100 +0000">
+  <programme channel="tv.101305030535" start="20180710043000 +0000" stop="20180710053000 +0000">
     <title>Restaurant Revolution</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710053100 +0000" stop="20180710060100 +0000">
+  <programme channel="tv.101305030535" start="20180710053000 +0000" stop="20180710060000 +0000">
     <title>Jabba's School Holiday Movie Special</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710060100 +0000" stop="20180710063300 +0000">
+  <programme channel="tv.101305030535" start="20180710060000 +0000" stop="20180710063000 +0000">
     <title>Bewitched</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710063300 +0000" stop="20180710070500 +0000">
+  <programme channel="tv.101305030535" start="20180710063000 +0000" stop="20180710070000 +0000">
     <title>I Dream of Jeannie</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710070500 +0000" stop="20180710073300 +0000">
+  <programme channel="tv.101305030535" start="20180710070000 +0000" stop="20180710073000 +0000">
     <title>Just Shoot Me</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710073300 +0000" stop="20180710080200 +0000">
+  <programme channel="tv.101305030535" start="20180710073000 +0000" stop="20180710080000 +0000">
     <title>Dr. Ken</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710080200 +0000" stop="20180710083300 +0000">
+  <programme channel="tv.101305030535" start="20180710080000 +0000" stop="20180710083000 +0000">
     <title>Married... with Children</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710083300 +0000" stop="20180710090300 +0000">
+  <programme channel="tv.101305030535" start="20180710083000 +0000" stop="20180710090000 +0000">
     <title>Seinfeld</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710090300 +0000" stop="20180710093400 +0000">
+  <programme channel="tv.101305030535" start="20180710090000 +0000" stop="20180710093000 +0000">
     <title>Seinfeld</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710093400 +0000" stop="20180710100400 +0000">
+  <programme channel="tv.101305030535" start="20180710093000 +0000" stop="20180710100000 +0000">
     <title>Seinfeld</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710100400 +0000" stop="20180710103400 +0000">
+  <programme channel="tv.101305030535" start="20180710100000 +0000" stop="20180710103000 +0000">
     <title>Seinfeld</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710103400 +0000" stop="20180710110300 +0000">
+  <programme channel="tv.101305030535" start="20180710103000 +0000" stop="20180710110000 +0000">
     <title>Modern Family</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710110300 +0000" stop="20180710113100 +0000">
+  <programme channel="tv.101305030535" start="20180710110000 +0000" stop="20180710113000 +0000">
     <title>Modern Family</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710113100 +0000" stop="20180710120000 +0000">
+  <programme channel="tv.101305030535" start="20180710113000 +0000" stop="20180710120000 +0000">
     <title>Modern Family</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710120000 +0000" stop="20180710122900 +0000">
+  <programme channel="tv.101305030535" start="20180710120000 +0000" stop="20180710122500 +0000">
     <title>How I Met Your Mother</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710122900 +0000" stop="20180710125700 +0000">
+  <programme channel="tv.101305030535" start="20180710122500 +0000" stop="20180710125000 +0000">
     <title>How I Met Your Mother</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710125700 +0000" stop="20180710132000 +0000">
+  <programme channel="tv.101305030535" start="20180710125000 +0000" stop="20180710131500 +0000">
     <title>How I Met Your Mother</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710132000 +0000" stop="20180710134800 +0000">
+  <programme channel="tv.101305030535" start="20180710131500 +0000" stop="20180710134500 +0000">
     <title>How I Met Your Mother</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710134800 +0000" stop="20180710154200 +0000">
+  <programme channel="tv.101305030535" start="20180710134500 +0000" stop="20180710154500 +0000">
     <title>Someone is Watching</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710154200 +0000" stop="20180710163900 +0000">
+  <programme channel="tv.101305030535" start="20180710154500 +0000" stop="20180710164500 +0000">
     <title>Autopsy</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710163900 +0000" stop="20180710175300 +0000">
+  <programme channel="tv.101305030535" start="20180710164500 +0000" stop="20180710180000 +0000">
     <title>Autopsy</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180710175300 +0000" stop="20180710200000 +0000">
+  <programme channel="tv.101305030535" start="20180710180000 +0000" stop="20180710200000 +0000">
     <title>The Three Musketeers</title>
     <rating system="Freeview">
       <value>G</value>
@@ -23969,49 +23956,49 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180711011900 +0000" stop="20180711020100 +0000">
+  <programme channel="tv.101305030535" start="20180711011900 +0000" stop="20180711020000 +0000">
     <title>Travel Oz</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180711020100 +0000" stop="20180711031500 +0000">
+  <programme channel="tv.101305030535" start="20180711020000 +0000" stop="20180711031500 +0000">
     <title>House Rules</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180711031500 +0000" stop="20180711042900 +0000">
+  <programme channel="tv.101305030535" start="20180711031500 +0000" stop="20180711043000 +0000">
     <title>Restaurant Revolution</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180711042900 +0000" stop="20180711063300 +0000">
+  <programme channel="tv.101305030535" start="20180711043000 +0000" stop="20180711063000 +0000">
     <title>Restaurant Revolution</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180711063300 +0000" stop="20180711070100 +0000">
+  <programme channel="tv.101305030535" start="20180711063000 +0000" stop="20180711070000 +0000">
     <title>How I Met Your Mother</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180711070100 +0000" stop="20180711072900 +0000">
+  <programme channel="tv.101305030535" start="20180711070000 +0000" stop="20180711073000 +0000">
     <title>How I Met Your Mother</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180711072900 +0000" stop="20180711080000 +0000">
+  <programme channel="tv.101305030535" start="20180711073000 +0000" stop="20180711080000 +0000">
     <title>How I Met Your Mother</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -37042,16 +37029,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180706002941 +0000" stop="20180706012851 +0000">
-    <title>Attractive Distractions</title>
-    <desc>Mind-bending surfing meets cutting-edge cinematography in this globe-spanning wave exploration.</desc>
-    <sub-title>Pushing surfing to new heights</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180706012851 +0000" stop="20180706015616 +0000">
-    <title>Red Bull Sport Events S2E10</title>
-    <desc>The world’s best off-road short course sees top racers from each pro-level class compete.</desc>
-    <sub-title>Crandon World Cup	</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180706015616 +0000" stop="20180706022711 +0000">
     <title>Mountain Biking to the Top</title>
