@@ -9259,17 +9259,17 @@
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180706220000 +0000" stop="20180706230000 +0000">
-    <title>Good Morning America</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600461" start="20180706220000 +0000" stop="20180706230000 +0000">
     <title>Ellen</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600461" start="20180706220000 +0000" stop="20180706230000 +0000">
+    <title>Good Morning America</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180706230000 +0000" stop="20180707020000 +0000">
@@ -19885,18 +19885,12 @@
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180706220000 +0000" stop="20180706225800 +0000">
-    <title>Night Thunder</title>
+    <title>AFN Fishing Show</title>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180706220000 +0000" stop="20180706225800 +0000">
-    <title>AFN Fishing Show</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305060563" start="20180706225800 +0000" stop="20180707000000 +0000">
     <title>Night Thunder</title>
     <rating system="Freeview">
       <value>NC</value>
@@ -19906,6 +19900,12 @@
     <title>AFN Fishing Show</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305060563" start="20180706225800 +0000" stop="20180707000000 +0000">
+    <title>Night Thunder</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180707000000 +0000" stop="20180707003000 +0000">
@@ -27086,16 +27086,16 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070688" start="20180710143000 +0000" stop="20180710151000 +0000">
-    <title>Sex and the City</title>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406070688" start="20180710143000 +0000" stop="20180710150000 +0000">
     <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406070688" start="20180710143000 +0000" stop="20180710151000 +0000">
+    <title>Sex and the City</title>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101406070688" start="20180710150000 +0000" stop="20180710153000 +0000">
@@ -36870,16 +36870,6 @@
     <rating system="Freeview">
       <value>G</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180706153703 +0000" stop="20180706161158 +0000">
-    <title>WhoMadeWho: Through the Walls</title>
-    <desc>Find out how the Danish electronic rock band combine being full-time parents and international rock stars.</desc>
-    <sub-title>A Year In the Life of WhoMadeWho</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180706161158 +0000" stop="20180706165901 +0000">
-    <title>The History of the Pit Stop</title>
-    <desc>The mavericks who pioneered the modern pit stop made it a raceday staple that takes less than two seconds.</desc>
-    <sub-title>Gone in Two Seconds</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180706165901 +0000" stop="20180706171626 +0000">
     <title>Red Bull Racing Show Run 2016</title>
