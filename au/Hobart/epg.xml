@@ -1800,6 +1800,12 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180715140000 +0000" stop="20180715141500 +0000">
+    <title>ABC Late News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180707134800 +0000" stop="20180707141800 +0000">
     <title>Detectorists</title>
     <subtitles type="teletext"/>
@@ -13488,6 +13494,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204300433" start="20180715140000 +0000" stop="20180715150000 +0000">
+    <title>Fixer Upper</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204300436" start="20180707114400 +0000" stop="20180707141000 +0000">
     <title>The Client</title>
     <subtitles type="teletext"/>
@@ -16762,6 +16774,12 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204300437" start="20180715140000 +0000" stop="20180715140500 +0000">
+    <title>[adult swim]</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020528" start="20180707133000 +0000" stop="20180707140000 +0000">
     <title>After The Last</title>
     <subtitles type="teletext"/>
@@ -18675,6 +18693,13 @@
   </programme>
   <programme channel="tv.101305020528" start="20180715133000 +0000" stop="20180715140000 +0000">
     <title>Raceday Review - Penola</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180715140000 +0000" stop="20180715143000 +0000">
+    <title>Raceday Review - Geelong</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -21248,6 +21273,13 @@
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20180715133200 +0000" stop="20180715140000 +0000">
+    <title>Border Security: Australia's Front Line</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030532" start="20180715140000 +0000" stop="20180715143100 +0000">
     <title>Border Security: Australia's Front Line</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -27506,6 +27538,12 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101406030635" start="20180715140000 +0000" stop="20180715143000 +0000">
+    <title>Home Shopping</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406030638" start="20180707130100 +0000" stop="20180707140000 +0000">
     <title>Car Crash Global: Caught on Camera</title>
     <rating system="Freeview">
@@ -28368,16 +28406,16 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406030638" start="20180710123000 +0000" stop="20180710131000 +0000">
-    <title>Sex and the City</title>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406030638" start="20180710123000 +0000" stop="20180710130000 +0000">
     <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406030638" start="20180710123000 +0000" stop="20180710131000 +0000">
+    <title>Sex and the City</title>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101406030638" start="20180710130000 +0000" stop="20180710133000 +0000">
@@ -29804,6 +29842,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406030638" start="20180715140000 +0000" stop="20180715143000 +0000">
+    <title>Everybody Loves Raymond</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180707130000 +0000" stop="20180707163000 +0000">
@@ -36913,10 +36958,11 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180707205056 +0000" stop="20180707212221 +0000">
-    <title>Mountain Biking to the Top</title>
-    <desc>Facing altitude challenges and health risks, a team of mountain bikers explore Tanzania's Mount Kilimanjaro.</desc>
-    <sub-title>Kilimanjaro: Mountain of Greatness</sub-title>
+  <programme channel="tv.320203000305" start="20180715140000 +0000" stop="20180715150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.redbull.tv" start="20180707212221 +0000" stop="20180707230112 +0000">
     <title>Roraima</title>
