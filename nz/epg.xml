@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180707155245 +0000" stop="20180707162033 +0000">
-    <title>Social Fabric S1E1</title>
-    <desc>Kyle Ng travels from Japan to Los Angeles, California, United States to immerse himself in the world of denim.</desc>
-    <sub-title>Jeans</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180707162033 +0000" stop="20180707171823 +0000">
     <title>Modern Collective</title>
     <desc>A vogue group of rogues frame the future of surfing in this wild, progressive, and provocative film. </desc>
@@ -13525,6 +13520,9 @@
   <programme channel="tv.28" start="20180707190000 +0000" stop="20180707193000 +0000">
     <title>Faith In Action</title>
     <desc>Religious programme. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180707193000 +0000" stop="20180707203000 +0000">
     <title>Hour of Power</title>
@@ -13557,10 +13555,16 @@
   <programme channel="tv.28" start="20180707220000 +0000" stop="20180707223000 +0000">
     <title>Running With Fire</title>
     <desc>Religious programme. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180707223000 +0000" stop="20180708000000 +0000">
     <title>Sport Box</title>
     <desc>Missed all the water cooler chat this week? Join Prime as we highlight the past week's local and international sports for passionate Kiwi fans. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180708000000 +0000" stop="20180708010500 +0000">
     <title>2018 FIFA World Cup Russia</title>
@@ -13569,6 +13573,9 @@
   <programme channel="tv.28" start="20180708010500 +0000" stop="20180708020000 +0000">
     <title>Haati Grassroots Rugby</title>
     <desc>Join Haati Grassroots Rugby for a showcase of club rugby matches and homegrown stories from some of the 600 rugby clubs throughout New Zealand. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180708020000 +0000" stop="20180708023000 +0000">
     <title>Mad About You</title>
@@ -14847,6 +14854,9 @@
   <programme channel="tv.28" start="20180714210000 +0000" stop="20180714213000 +0000">
     <title>Impact For Life</title>
     <desc>Religious programme. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180714213000 +0000" stop="20180714220000 +0000">
     <title>Life TV</title>
@@ -14858,6 +14868,9 @@
   <programme channel="tv.28" start="20180714220000 +0000" stop="20180714223000 +0000">
     <title>Running With Fire</title>
     <desc>Religious programme. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180714223000 +0000" stop="20180715000000 +0000">
     <title>Sport Box</title>
