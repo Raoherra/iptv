@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180707032837 +0000" stop="20180707050049 +0000">
-    <title>Blood Road</title>
-    <desc>Rebecca Rusch rides 1,930km along the infamous Ho Chi Minh Trail through the dense jungles of Vietnam.</desc>
-    <sub-title>A Daughter’s Search. A Trail To Discovery.</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180707050049 +0000" stop="20180707051452 +0000">
     <title>Seabase 1910</title>
     <desc>Patrick Seabase recreates the gruelling first mountain stage of the 1910 Tour de France on a fixed-gear bike.</desc>
@@ -3289,7 +3284,7 @@
     <title>Home And Away</title>
     <desc>Will Brody get the quiet bucks night that he’s asked for? Does Ziggy have cold feet? Willow and Dean get kicked out of the caravan park.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180710060000 +0000" stop="20180710063000 +0000">
@@ -3716,6 +3711,9 @@
   <programme channel="tv.10" start="20180711121000 +0000" stop="20180711125500 +0000">
     <title>Private Practice</title>
     <desc>An office election pits Sam and Naomi against each other to lead the practice. Cooper's objectionable personal life catches up with his professional one.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -4632,7 +4630,7 @@
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180714103500 +0000" stop="20180714133000 +0000">
@@ -10476,7 +10474,7 @@
     <title>Home And Away</title>
     <desc>Will Brody get the quiet bucks night that he’s asked for? Does Ziggy have cold feet? Willow and Dean get kicked out of the caravan park.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180710070000 +0000" stop="20180710073000 +0000">
@@ -10713,6 +10711,9 @@
   <programme channel="tv.14" start="20180711033000 +0000" stop="20180711040000 +0000">
     <title>Home And Away</title>
     <desc>Will Brody get the quiet bucks night that he’s asked for? Does Ziggy have cold feet? Willow and Dean get kicked out of the caravan park.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180711040000 +0000" stop="20180711043000 +0000">
     <title>Shortland Street</title>
@@ -11630,7 +11631,7 @@
     <title>Young Sheldon</title>
     <desc>From the brains behind The Big Bang Theory, comes this perfectly eccentric portrait of Sheldon Cooper's 9-year-old life. It's not easy being a genius!</desc>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180714113500 +0000" stop="20180714143000 +0000">
