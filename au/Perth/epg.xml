@@ -10096,6 +10096,7 @@
   </programme>
   <programme channel="tv.101204600461" start="20180714124500 +0000" stop="20180714143000 +0000">
     <title>Australian Ninja Warrior</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -10229,6 +10230,9 @@
   <programme channel="tv.101204600461" start="20180715093000 +0000" stop="20180715100000 +0000">
     <title>Delish</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180715100000 +0000" stop="20180715110000 +0000">
     <title>Nine News Sunday</title>
@@ -11434,6 +11438,7 @@
   </programme>
   <programme channel="tv.101204600464" start="20180714030000 +0000" stop="20180714033000 +0000">
     <title>Postcards</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -11618,6 +11623,7 @@
   </programme>
   <programme channel="tv.101204600464" start="20180715013000 +0000" stop="20180715020000 +0000">
     <title>Postcards</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -14775,7 +14781,6 @@
   </programme>
   <programme channel="tv.101204600468" start="20180714130000 +0000" stop="20180714144000 +0000">
     <title>Look Who's Talking Too</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -18004,14 +18009,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060560" start="20180713110000 +0000" stop="20180713123400 +0000">
+  <programme channel="tv.101305060560" start="20180713110000 +0000" stop="20180713123500 +0000">
     <title>Better Homes and Gardens</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060560" start="20180713123400 +0000" stop="20180713145000 +0000">
+  <programme channel="tv.101305060560" start="20180713123500 +0000" stop="20180713145000 +0000">
     <title>The Proposal</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -25930,7 +25935,7 @@
     <title>MasterChef Australia</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20180715070000 +0000" stop="20180715073000 +0000">
@@ -26793,16 +26798,16 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070688" start="20180710143000 +0000" stop="20180710151000 +0000">
-    <title>Sex and the City</title>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406070688" start="20180710143000 +0000" stop="20180710150000 +0000">
     <title>Will &amp; Grace</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406070688" start="20180710143000 +0000" stop="20180710151000 +0000">
+    <title>Sex and the City</title>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101406070688" start="20180710150000 +0000" stop="20180710153000 +0000">
@@ -37230,16 +37235,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180709004617 +0000" stop="20180709011357 +0000">
-    <title>Red Bull Sport Events S2E10</title>
-    <desc>The world’s best off-road short course sees top racers from each pro-level class compete.</desc>
-    <sub-title>Crandon World Cup	</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180709011357 +0000" stop="20180709014038 +0000">
-    <title>A Mountain Biker’s Hunt for Glory</title>
-    <desc>Follow Nino from his youth as a child in a remote Swiss mountain village to his greatest victory yet.</desc>
-    <sub-title>Nino Schurter's Ride</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180709014038 +0000" stop="20180709021133 +0000">
     <title>Mountain Biking to the Top</title>
