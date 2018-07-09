@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180709050141 +0000" stop="20180709064107 +0000">
-    <title>Roraima</title>
-    <desc>A trio of climbers launch an expedition to Mt Roraima, a South American peak shrouded in legend.</desc>
-    <sub-title>The Climb of a Lifetime</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180709064107 +0000" stop="20180709073500 +0000">
     <title>Archaic Festivals S1E4</title>
     <desc>In the Argentinian equivalent of a rodeo, horsemen, or gauchos, compete in the annual festival.</desc>
@@ -4339,21 +4334,21 @@
     <title>The Project</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
-  <programme channel="tv.11" start="20180709073000 +0000" stop="20180709083500 +0000">
+  <programme channel="tv.11" start="20180709073000 +0000" stop="20180709083000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. The fallout continues. And later, grand ideas sees one team fall further behind as the quest to build the best guest bedroom continues. S7 Ep2</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180709083500 +0000" stop="20180709093500 +0000">
+  <programme channel="tv.11" start="20180709083000 +0000" stop="20180709093000 +0000">
     <title>Westside</title>
     <desc>Premiere. New Episode. Pregnant and alone, Cheryl struggles with Wolf behind bars. Phineas pursues extra-marital affairs and McCarthy swoops in to help the Wests out of a sticky situation. S4 Ep1</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180709093500 +0000" stop="20180709103000 +0000">
+  <programme channel="tv.11" start="20180709093000 +0000" stop="20180709103000 +0000">
     <title>Humans</title>
     <desc>Premiere. New Episode. Max, Mia and Flash live in a designated area for Synths while they try to broker an uneasy peace with the human world. S3 Ep1</desc>
     <audio>
@@ -4485,14 +4480,14 @@
     <title>The Project</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
-  <programme channel="tv.11" start="20180710073000 +0000" stop="20180710083000 +0000">
+  <programme channel="tv.11" start="20180710073000 +0000" stop="20180710083500 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. Frustration looms as Agni disappears from site. Later, a muddy challenge sees all four teams fighting for survival. S7 Ep3</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180710083000 +0000" stop="20180710092500 +0000">
+  <programme channel="tv.11" start="20180710083500 +0000" stop="20180710093000 +0000">
     <title>All New NCIS</title>
     <desc>New Episode. Torres and Bishop go under cover as a criminal couple available for hire during a sting operation tracking illegal drug-running out of the Norfolk civilian marina. S15 Ep11</desc>
     <audio>
@@ -4502,7 +4497,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180710092500 +0000" stop="20180710102000 +0000">
+  <programme channel="tv.11" start="20180710093000 +0000" stop="20180710102500 +0000">
     <title>All New SVU: Special Victims Unit</title>
     <desc>New Episode. A young woman takes a man hostage at gunpoint and Benson makes an attempt to defuse the situation. Later, the team discovers the shocking motive behind the abduction. S19 Ep23</desc>
     <audio>
@@ -4512,11 +4507,11 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180710102000 +0000" stop="20180710105000 +0000">
+  <programme channel="tv.11" start="20180710102500 +0000" stop="20180710105000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.11" start="20180710105000 +0000" stop="20180710114500 +0000">
+  <programme channel="tv.11" start="20180710105000 +0000" stop="20180710115000 +0000">
     <title>Chicago P.D.</title>
     <desc>New Episode. Intelligence searches for a missing teen who they believe poses a threat to students at his school. Atwater wants to make a good impression on a police captain. S3 Ep7</desc>
     <audio>
@@ -4526,7 +4521,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180710114500 +0000" stop="20180710170000 +0000">
+  <programme channel="tv.11" start="20180710115000 +0000" stop="20180710170000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -4635,15 +4630,18 @@
   <programme channel="tv.11" start="20180711073000 +0000" stop="20180711083000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. Stress levels are through the roof as the pressure to deliver a winning room looms. Later, Shelley's feedback leaves one team second guessing their design. S7 Ep4</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme channel="tv.11" start="20180711083000 +0000" stop="20180711093000 +0000">
+  <programme channel="tv.11" start="20180711083000 +0000" stop="20180711092500 +0000">
     <title>All New NCIS: Los Angeles</title>
     <desc>New Episode. Callen and the team question Joelle's backstory after she escapes from a kidnapping and turns to Callen for help. S9 Ep9</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180711093000 +0000" stop="20180711102500 +0000">
+  <programme channel="tv.11" start="20180711092500 +0000" stop="20180711102000 +0000">
     <title>All New Hawaii Five-O</title>
     <desc>Season 6 Final. New Episode. McGarrett and Danny go undercover as pilots in order to prevent a meth epidemic on the Island. But when one is seriously wounded, the other must break his cover. S6 Ep25</desc>
     <audio>
@@ -4653,11 +4651,11 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180711102500 +0000" stop="20180711105500 +0000">
+  <programme channel="tv.11" start="20180711102000 +0000" stop="20180711105000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.11" start="20180711105500 +0000" stop="20180711115000 +0000">
+  <programme channel="tv.11" start="20180711105000 +0000" stop="20180711115000 +0000">
     <title>SVU</title>
     <desc>A college student becomes a target after her work as an online porn star is discovered by her classmates. S16 Ep5</desc>
     <audio>
@@ -4712,6 +4710,9 @@
   <programme channel="tv.11" start="20180712010000 +0000" stop="20180712020000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. Stress levels are through the roof as the pressure to deliver a winning room looms. Later, Shelley's feedback leaves one team second guessing their design. S7 Ep4</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180712020000 +0000" stop="20180712030000 +0000">
     <title>Wipeout</title>
@@ -4998,6 +4999,9 @@
   <programme channel="tv.11" start="20180714050000 +0000" stop="20180714060000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. Stress levels are through the roof as the pressure to deliver a winning room looms. Later, Shelley's feedback leaves one team second guessing their design. S7 Ep4</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180714060000 +0000" stop="20180714070000 +0000">
     <title>Newshub Live At 6pm</title>
@@ -5548,6 +5552,9 @@
   <programme channel="tv.12" start="20180710083000 +0000" stop="20180710093000 +0000">
     <title>Body Fixers</title>
     <desc>Aspiring popstar Ottavio wants ALL of his body hair removed so he can wear skimpy outfits on stage. Tattooed Torz needs a subtle look for her friends wedding and Ashleigh wants to emulate David Bowie.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180710093000 +0000" stop="20180710102800 +0000">
     <title>The Real Housewives Of New York City</title>
@@ -5648,6 +5655,9 @@
   <programme channel="tv.12" start="20180711023000 +0000" stop="20180711033000 +0000">
     <title>Body Fixers</title>
     <desc>Aspiring popstar Ottavio wants ALL of his body hair removed so he can wear skimpy outfits on stage. Tattooed Torz needs a subtle look for her friends wedding and Ashleigh wants to emulate David Bowie.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180711033000 +0000" stop="20180711043000 +0000">
     <title>Dance Moms</title>
@@ -11346,21 +11356,21 @@
     <title>The Project</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
-  <programme channel="tv.27" start="20180709083000 +0000" stop="20180709093500 +0000">
+  <programme channel="tv.27" start="20180709083000 +0000" stop="20180709093000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. The fallout continues. And later, grand ideas sees one team fall further behind as the quest to build the best guest bedroom continues. S7 Ep2</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180709093500 +0000" stop="20180709103500 +0000">
+  <programme channel="tv.27" start="20180709093000 +0000" stop="20180709103000 +0000">
     <title>Westside</title>
     <desc>Premiere. New Episode. Pregnant and alone, Cheryl struggles with Wolf behind bars. Phineas pursues extra-marital affairs and McCarthy swoops in to help the Wests out of a sticky situation. S4 Ep1</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180709103500 +0000" stop="20180709113000 +0000">
+  <programme channel="tv.27" start="20180709103000 +0000" stop="20180709113000 +0000">
     <title>Humans</title>
     <desc>Premiere. New Episode. Max, Mia and Flash live in a designated area for Synths while they try to broker an uneasy peace with the human world. S3 Ep1</desc>
     <rating system="Freeview">
@@ -11486,39 +11496,39 @@
     <title>The Project</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
-  <programme channel="tv.27" start="20180710083000 +0000" stop="20180710093000 +0000">
+  <programme channel="tv.27" start="20180710083000 +0000" stop="20180710093500 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. Frustration looms as Agni disappears from site. Later, a muddy challenge sees all four teams fighting for survival. S7 Ep3</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180710093000 +0000" stop="20180710102500 +0000">
+  <programme channel="tv.27" start="20180710093500 +0000" stop="20180710103000 +0000">
     <title>All New NCIS</title>
     <desc>New Episode. Torres and Bishop go under cover as a criminal couple available for hire during a sting operation tracking illegal drug-running out of the Norfolk civilian marina. S15 Ep11</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180710102500 +0000" stop="20180710112000 +0000">
+  <programme channel="tv.27" start="20180710103000 +0000" stop="20180710112500 +0000">
     <title>All New SVU: Special Victims Unit</title>
     <desc>New Episode. A young woman takes a man hostage at gunpoint and Benson makes an attempt to defuse the situation. Later, the team discovers the shocking motive behind the abduction. S19 Ep23</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180710112000 +0000" stop="20180710115000 +0000">
+  <programme channel="tv.27" start="20180710112500 +0000" stop="20180710115000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.27" start="20180710115000 +0000" stop="20180710124500 +0000">
+  <programme channel="tv.27" start="20180710115000 +0000" stop="20180710125000 +0000">
     <title>Chicago P.D.</title>
     <desc>New Episode. Intelligence searches for a missing teen who they believe poses a threat to students at his school. Atwater wants to make a good impression on a police captain. S3 Ep7</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180710124500 +0000" stop="20180710180000 +0000">
+  <programme channel="tv.27" start="20180710125000 +0000" stop="20180710180000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -11624,26 +11634,29 @@
   <programme channel="tv.27" start="20180711083000 +0000" stop="20180711093000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. Stress levels are through the roof as the pressure to deliver a winning room looms. Later, Shelley's feedback leaves one team second guessing their design. S7 Ep4</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme channel="tv.27" start="20180711093000 +0000" stop="20180711103000 +0000">
+  <programme channel="tv.27" start="20180711093000 +0000" stop="20180711102500 +0000">
     <title>All New NCIS: Los Angeles</title>
     <desc>New Episode. Callen and the team question Joelle's backstory after she escapes from a kidnapping and turns to Callen for help. S9 Ep9</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180711103000 +0000" stop="20180711112500 +0000">
+  <programme channel="tv.27" start="20180711102500 +0000" stop="20180711112000 +0000">
     <title>All New Hawaii Five-O</title>
     <desc>Season 6 Final. New Episode. McGarrett and Danny go undercover as pilots in order to prevent a meth epidemic on the Island. But when one is seriously wounded, the other must break his cover. S6 Ep25</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180711112500 +0000" stop="20180711115500 +0000">
+  <programme channel="tv.27" start="20180711112000 +0000" stop="20180711115000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.27" start="20180711115500 +0000" stop="20180711125000 +0000">
+  <programme channel="tv.27" start="20180711115000 +0000" stop="20180711125000 +0000">
     <title>SVU</title>
     <desc>A college student becomes a target after her work as an online porn star is discovered by her classmates. S16 Ep5</desc>
     <rating system="Freeview">
@@ -11695,6 +11708,9 @@
   <programme channel="tv.27" start="20180712020000 +0000" stop="20180712030000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. Stress levels are through the roof as the pressure to deliver a winning room looms. Later, Shelley's feedback leaves one team second guessing their design. S7 Ep4</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180712030000 +0000" stop="20180712040000 +0000">
     <title>Wipeout</title>
@@ -11963,6 +11979,9 @@
   <programme channel="tv.27" start="20180714060000 +0000" stop="20180714070000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. Stress levels are through the roof as the pressure to deliver a winning room looms. Later, Shelley's feedback leaves one team second guessing their design. S7 Ep4</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180714070000 +0000" stop="20180714080000 +0000">
     <title>Newshub Live At 6pm</title>
@@ -12501,6 +12520,9 @@
   <programme channel="tv.30" start="20180710093000 +0000" stop="20180710103000 +0000">
     <title>Body Fixers</title>
     <desc>Aspiring popstar Ottavio wants ALL of his body hair removed so he can wear skimpy outfits on stage. Tattooed Torz needs a subtle look for her friends wedding and Ashleigh wants to emulate David Bowie.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180710103000 +0000" stop="20180710112800 +0000">
     <title>The Real Housewives Of New York City</title>
@@ -12601,6 +12623,9 @@
   <programme channel="tv.30" start="20180711033000 +0000" stop="20180711043000 +0000">
     <title>Body Fixers</title>
     <desc>Aspiring popstar Ottavio wants ALL of his body hair removed so he can wear skimpy outfits on stage. Tattooed Torz needs a subtle look for her friends wedding and Ashleigh wants to emulate David Bowie.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180711043000 +0000" stop="20180711053000 +0000">
     <title>Dance Moms</title>
@@ -15197,21 +15222,21 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180710030000 +0000" stop="20180710040000 +0000">
+  <programme channel="tv.65" start="20180710030000 +0000" stop="20180710040500 +0000">
     <title>Restaurant Revolution</title>
     <desc>Restaurant Revolution sees teams from around Australia design and run pop-up restaurants for a prize of $200,000. Hosted by Jock Zonfrillo with experts Neil Perry, Jess Ho, Erez Gordon and John Lethle</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180710040000 +0000" stop="20180710043000 +0000">
+  <programme channel="tv.65" start="20180710040500 +0000" stop="20180710043500 +0000">
     <title>United Plates Of America</title>
     <desc>Premiere. California has one of the largest populations of Japanese people in America. In this episode we uncover their trials, resilience and delicious healthy food. S1 Ep1</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180710043000 +0000" stop="20180710050000 +0000">
+  <programme channel="tv.65" start="20180710043500 +0000" stop="20180710050000 +0000">
     <title>The Feed</title>
     <desc>Marcus, Gail and Max make a mess challenging each other to a food fight and then try to make amends by making something beautiful with food. S1 Ep3</desc>
     <rating system="Freeview">
@@ -16202,28 +16227,28 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180715093000 +0000" stop="20180715103000 +0000">
+  <programme channel="tv.65" start="20180715093000 +0000" stop="20180715103500 +0000">
     <title>Endangered</title>
     <desc>Lin explores Tasmania, seeking to find out how about its geographical history and ocean forces. She also joins a wildlife rescue expert to meet her latest patients. S1 Ep14</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180715103000 +0000" stop="20180715110000 +0000">
+  <programme channel="tv.65" start="20180715103500 +0000" stop="20180715110500 +0000">
     <title>Good Chef Bad Chef</title>
     <desc>French is the cuisine of choice today. Adrian serves up a decedent roast duck with orange sauce. Janella cooks salmon nicoise and crepes with hazelnut sauce to finish. S4 Ep28</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180715110000 +0000" stop="20180715113000 +0000">
+  <programme channel="tv.65" start="20180715110500 +0000" stop="20180715113500 +0000">
     <title>Everyday Gourmet With Justine Schofield</title>
     <desc>Justine makes a beautiful starter of zucchini flowers wrapped in kataifi while Naomi Scesny shows us her recipe for the perfect shepherd's pie. S3 Ep2</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180715113000 +0000" stop="20180715120000 +0000">
+  <programme channel="tv.65" start="20180715113500 +0000" stop="20180715120000 +0000">
     <title>Australia's Best Houses</title>
     <desc>Australia's Best Houses walks you through some of the most exciting and visually stunning house projects in Australia, from sprawling country houses to homes are designed for urban small spaces.</desc>
     <rating system="Freeview">
@@ -16361,42 +16386,42 @@
     <title>Restaurant Revolution</title>
     <desc>Restaurant Revolution sees teams from around Australia design and run pop-up restaurants for a prize of $200,000. Hosted by Jock Zonfrillo with experts Neil Perry, Jess Ho, Erez Gordon and John Lethle</desc>
   </programme>
-  <programme channel="tv.65" start="20180716083000 +0000" stop="20180716090000 +0000">
+  <programme channel="tv.65" start="20180716083000 +0000" stop="20180716090500 +0000">
     <title>United Plates Of America</title>
     <desc>In San Diego we eat the real Mexican food from those who do it best, and we go on a beer tour and taste the best craft beers money can buy. S1 Ep2</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180716090000 +0000" stop="20180716093000 +0000">
+  <programme channel="tv.65" start="20180716090500 +0000" stop="20180716093500 +0000">
     <title>Good Spirits</title>
     <desc>Matthew cruises to the beautiful Dominican Republic where he discovers the three C's: coconuts, coffee and cigars. He uses his newly gained knowledge to create a superb spin on the Coco Loco. S1 Ep4</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180716093000 +0000" stop="20180716100000 +0000">
+  <programme channel="tv.65" start="20180716093500 +0000" stop="20180716100500 +0000">
     <title>Let's Do Coffee</title>
     <desc>Toni Pearen presents this series that takes a double-shot of gourmet life, celebrating coffee and the cafe lifestyle, while meeting coffee growers and roasters and testing the latest products.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180716100000 +0000" stop="20180716103000 +0000">
+  <programme channel="tv.65" start="20180716100500 +0000" stop="20180716103500 +0000">
     <title>Intolerant Cooks</title>
     <desc>Busy bees Tracy and Richard stir up a honey rice pudding breakfast on the peninsula, make honey lamb racks with lentils, and finish with a coconut jelly ice cream from the heavens. S1 Ep8</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180716103000 +0000" stop="20180716110000 +0000">
+  <programme channel="tv.65" start="20180716103500 +0000" stop="20180716110500 +0000">
     <title>Good Chef Bad Chef</title>
     <desc>The chefs think outside the pantry with recipes using unusual veggies. Janella makes adzuki and pumpkin rissoles and okra with cashews. Adrian cooks a hearty serve of pork bones and puha soup. S4 Ep29</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180716110000 +0000" stop="20180716113000 +0000">
+  <programme channel="tv.65" start="20180716110500 +0000" stop="20180716113000 +0000">
     <title>Everyday Gourmet With Justine Schofield</title>
     <desc>Adam Swanson prepares the ultimate winter indulgence, his quattro formaggio macaroni bake. Justine shares her recipes for lamb chops and her delicate watercress soup. S3 Ep3</desc>
     <rating system="Freeview">
@@ -23067,12 +23092,12 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180710073000 +0000" stop="20180710080000 +0000">
-    <title>This vs That 136</title>
-    <desc></desc>
+    <title>This vs That</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Calvin Harris vs David Guetta</desc>
   </programme>
   <programme channel="tv.51" start="20180710080000 +0000" stop="20180710090000 +0000">
-    <title>Top 10</title>
-    <desc>Top 10 videos based on a certain theme - today - Sia!</desc>
+    <title>New rappers</title>
+    <desc>Top 10 videos with a certain theme - today, it's New Rappers!</desc>
   </programme>
   <programme channel="tv.51" start="20180710090000 +0000" stop="20180710103000 +0000">
     <title>All The Hits</title>
@@ -23150,8 +23175,8 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180711073000 +0000" stop="20180711080000 +0000">
-    <title>This vs That 137</title>
-    <desc></desc>
+    <title>This vs That</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Ariana vs Selena</desc>
   </programme>
   <programme channel="tv.51" start="20180711080000 +0000" stop="20180711090000 +0000">
     <title>New rappers</title>
