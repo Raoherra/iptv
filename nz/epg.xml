@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180709142546 +0000" stop="20180709155207 +0000">
-    <title>The Greasy Hands Preachers</title>
-    <desc>Abandoning the path of a so-called normal life, a diverse group of souls prefer to build motorcycles.</desc>
-    <sub-title>Two Wheeled Salvation</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180709155207 +0000" stop="20180709161923 +0000">
     <title>After the Raves S1E2</title>
     <desc>In San Francisco, EDM blends technology and art for artists like DJ Chuckie, Hardkiss and The M Machine.</desc>
@@ -19781,7 +19776,7 @@
   </programme>
   <programme channel="tv.46" start="20180709193000 +0000" stop="20180709200000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>The Stream meets Syrian journalist Marwan Hisham and American artist Molly Crabapple to talk about an intriguing collaboration.</desc>
   </programme>
   <programme channel="tv.46" start="20180709200000 +0000" stop="20180709210000 +0000">
     <title>Hissene Habre: Trial Of A Dictator</title>
@@ -19833,7 +19828,7 @@
   </programme>
   <programme channel="tv.46" start="20180710043000 +0000" stop="20180710050000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>The Stream meets Syrian journalist Marwan Hisham and American artist Molly Crabapple to talk about an intriguing collaboration.</desc>
   </programme>
   <programme channel="tv.46" start="20180710050000 +0000" stop="20180710053000 +0000">
     <title>News Live</title>
@@ -19861,7 +19856,7 @@
   </programme>
   <programme channel="tv.46" start="20180710083000 +0000" stop="20180710090000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>The Stream meets Syrian journalist Marwan Hisham and American artist Molly Crabapple to talk about an intriguing collaboration.</desc>
   </programme>
   <programme channel="tv.46" start="20180710090000 +0000" stop="20180710093000 +0000">
     <title>News Live</title>
@@ -19897,7 +19892,7 @@
   </programme>
   <programme channel="tv.46" start="20180710143000 +0000" stop="20180710150000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>The Stream meets Syrian journalist Marwan Hisham and American artist Molly Crabapple to talk about an intriguing collaboration.</desc>
   </programme>
   <programme channel="tv.46" start="20180710150000 +0000" stop="20180710160000 +0000">
     <title>newsgrid</title>
@@ -36772,22 +36767,32 @@
     <desc>The Southern Regions news presented by Melissa Barton.</desc>
   </programme>
   <programme channel="tv.41" start="20180716073000 +0000" stop="20180716080000 +0000">
-    <title>Adventure Bound</title>
-    <desc>Fishing, diving, 4WD and outdoor action from around Australia.</desc>
+    <title>Gold Coast Xplorer</title>
+    <desc>Travel/Adventure show for backpackers exploring the most exciting adventure playground in Australia: The Gold Coast.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.41" start="20180716080000 +0000" stop="20180716090000 +0000">
-    <title>Walks Around Britain</title>
-    <desc>Andrew White discovers walks in the British countryside with intriguing history and stunning views. All new episodes.</desc>
+  <programme channel="tv.41" start="20180716080000 +0000" stop="20180716083000 +0000">
+    <title>Antiques with Attitude</title>
+    <desc>An Australian show about the gems that are hidden away in cupboards and drawers in every home.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.41" start="20180716083000 +0000" stop="20180716090000 +0000">
+    <title>Taste for Life</title>
+    <desc>International chef, Mark Harmon, takes a break from cooking for the Queen and running his Auckland restaurants to share some of his favourite dishes.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.41" start="20180716090000 +0000" stop="20180716093000 +0000">
-    <title>America's Heartland</title>
-    <desc>A series that looks at the culture and values of country folk in the USA.</desc>
+    <title>Young persons guide to alcohol</title>
+    <desc>A look at Dunedins student drinking culture and hosted by Anita Cumming.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.41" start="20180716093000 +0000" stop="20180716100000 +0000">
     <title>The South Today</title>
@@ -36899,9 +36904,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.41" start="20180717003000 +0000" stop="20180717013000 +0000">
+  <programme channel="tv.41" start="20180717003000 +0000" stop="20180717010000 +0000">
     <title>PopXport</title>
     <desc>popXport showcases excellent musicians and bands, highlights the latest trends and reports on major music events.</desc>
+  </programme>
+  <programme channel="tv.41" start="20180717010000 +0000" stop="20180717013000 +0000">
+    <title>Royalty visits Dunedin</title>
+    <desc>A documentary exploring Queen Elizabeth's 1995 visit to Dunedin.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.41" start="20180717013000 +0000" stop="20180717020000 +0000">
     <title>DW News</title>
@@ -36919,11 +36931,18 @@
     <title>Southern Attractions</title>
     <desc>Show highlighting local tourism activities.</desc>
   </programme>
-  <programme channel="tv.41" start="20180717040000 +0000" stop="20180717050000 +0000">
-    <title>World of Wildlife</title>
-    <desc>Wildlife documentary series by Sunset and Vine, using archive footage from differing companies and productions.</desc>
+  <programme channel="tv.41" start="20180717040000 +0000" stop="20180717043000 +0000">
+    <title>Green or Gold</title>
+    <desc>A look at the works and inspirations of environmental artist, Martin Hill.</desc>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.41" start="20180717043000 +0000" stop="20180717050000 +0000">
+    <title>In the Shadow of the Mountain</title>
+    <desc>Natural History Film-making Graduate Documentary, about the rewarding yet often risky extreme sport of mountain climbing.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.41" start="20180717050000 +0000" stop="20180717053000 +0000">
@@ -36945,16 +36964,44 @@
     <title>The South Today</title>
     <desc>The Southern Regions news presented by Melissa Barton.</desc>
   </programme>
-  <programme channel="tv.41" start="20180717073000 +0000" stop="20180717093000 +0000">
+  <programme channel="tv.41" start="20180717073000 +0000" stop="20180717080000 +0000">
     <title>Put Some Colour In Your Life</title>
     <desc>Put Some Colour In Your Life is a TV Series about building a library of the minds of artists. Each individual episode examines the many creative processes that artists portray in their work and their</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.41" start="20180717093000 +0000" stop="20180717103000 +0000">
+  <programme channel="tv.41" start="20180717080000 +0000" stop="20180717083000 +0000">
+    <title>Get Reel Music Mix</title>
+    <desc>A weekly, unhosted series of half-hour episodes of music videos and entertainment news from top recording artists.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.41" start="20180717083000 +0000" stop="20180717090000 +0000">
+    <title>Rural Delivery</title>
+    <desc>Motor Trade Finance proudly brings you the places and faces behind New Zealand's agricultural sector. Made with funding from New Zealand On Air.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.41" start="20180717090000 +0000" stop="20180717093000 +0000">
+    <title>Treasures of the World</title>
+    <desc>Fascinating places, legendary cities and extraordinary natural landscapes that UNESCO has declared part of the Heritage of Mankind. (Two 15-minute episodes).</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.41" start="20180717093000 +0000" stop="20180717100000 +0000">
     <title>The South Today</title>
     <desc>The Southern Regions news presented by Melissa Barton.</desc>
+  </programme>
+  <programme channel="tv.41" start="20180717100000 +0000" stop="20180717103000 +0000">
+    <title>A-Z of Owning a Pet</title>
+    <desc>Everything you need to know about looking after your pet in Dunedin.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.41" start="20180717103000 +0000" stop="20180717110000 +0000">
     <title>Kick Off!</title>
