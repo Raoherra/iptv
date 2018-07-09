@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180709031910 +0000" stop="20180709044517 +0000">
-    <title>The Greasy Hands Preachers</title>
-    <desc>Abandoning the path of a so-called normal life, a diverse group of souls prefer to build motorcycles.</desc>
-    <sub-title>Two Wheeled Salvation</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180709044517 +0000" stop="20180709050141 +0000">
-    <title>Jovanotti &amp; Baldini</title>
-    <desc>Italian singer/rapper Lorenzo Jovanotti teams up with reggae producer Paolo Baldini to create a new song.</desc>
-    <sub-title>Presented by Red Bull Studio Mobile</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180709050141 +0000" stop="20180709064107 +0000">
     <title>Roraima</title>
     <desc>A trio of climbers launch an expedition to Mt Roraima, a South American peak shrouded in legend.</desc>
@@ -2321,6 +2311,9 @@
   <programme channel="tv.10" start="20180710040000 +0000" stop="20180710043000 +0000">
     <title>Fanimals</title>
     <desc>We're at the zoo for the school holidays! We spot some speedy cheetahs, show you how to make doggy bikkies, and you and your pet could win on Trick for Treat!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180710043000 +0000" stop="20180710050000 +0000">
     <title>Friends</title>
@@ -2657,6 +2650,9 @@
   <programme channel="tv.10" start="20180711040000 +0000" stop="20180711043000 +0000">
     <title>Fanimals</title>
     <desc>We're at the zoo for the school holidays! We say hello to some giraffes, show you how to make a guinea pig pedicure ramp, and you could win a prize on Who Knows the Zoo!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180711043000 +0000" stop="20180711050000 +0000">
     <title>Friends</title>
@@ -2678,6 +2674,9 @@
   <programme channel="tv.10" start="20180711053000 +0000" stop="20180711060000 +0000">
     <title>Home And Away</title>
     <desc>Will Brody and Ziggy have their happily ever after? Mason gets lucky. Will Hunter and Olivia get back together?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180711060000 +0000" stop="20180711063000 +0000">
     <title>The Big Bang Theory</title>
@@ -2957,6 +2956,9 @@
   <programme channel="tv.10" start="20180712023000 +0000" stop="20180712030000 +0000">
     <title>Home And Away</title>
     <desc>Will Brody and Ziggy have their happily ever after? Mason gets lucky. Will Hunter and Olivia get back together?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180712030000 +0000" stop="20180712033000 +0000">
     <title>Shortland Street</title>
@@ -9595,6 +9597,9 @@
   <programme channel="tv.14" start="20180710050000 +0000" stop="20180710053000 +0000">
     <title>Fanimals</title>
     <desc>We're at the zoo for the school holidays! We spot some speedy cheetahs, show you how to make doggy bikkies, and you and your pet could win on Trick for Treat!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180710053000 +0000" stop="20180710060000 +0000">
     <title>Friends</title>
@@ -9880,6 +9885,9 @@
   <programme channel="tv.14" start="20180711050000 +0000" stop="20180711053000 +0000">
     <title>Fanimals</title>
     <desc>We're at the zoo for the school holidays! We say hello to some giraffes, show you how to make a guinea pig pedicure ramp, and you could win a prize on Who Knows the Zoo!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180711053000 +0000" stop="20180711060000 +0000">
     <title>Friends</title>
@@ -9898,6 +9906,9 @@
   <programme channel="tv.14" start="20180711063000 +0000" stop="20180711070000 +0000">
     <title>Home And Away</title>
     <desc>Will Brody and Ziggy have their happily ever after? Mason gets lucky. Will Hunter and Olivia get back together?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180711070000 +0000" stop="20180711073000 +0000">
     <title>The Big Bang Theory</title>
@@ -10138,6 +10149,9 @@
   <programme channel="tv.14" start="20180712033000 +0000" stop="20180712040000 +0000">
     <title>Home And Away</title>
     <desc>Will Brody and Ziggy have their happily ever after? Mason gets lucky. Will Hunter and Olivia get back together?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180712040000 +0000" stop="20180712043000 +0000">
     <title>Shortland Street</title>
@@ -18199,6 +18213,9 @@
   <programme channel="tv.55" start="20180712093000 +0000" stop="20180712100000 +0000">
     <title>New: Brainstorm</title>
     <desc>This week Mikey Havoc uses his grey matter to solve a tricky situation using migrating eels and Shavaughan Ruakere helps provide a solution to the ever growing clouds of vape on our streets.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180712100000 +0000" stop="20180712103000 +0000">
     <title>South Park</title>
