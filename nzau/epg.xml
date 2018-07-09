@@ -13958,7 +13958,7 @@
   </programme>
   <programme channel="tv.28" start="20180710174500 +0000" stop="20180710200500 +0000">
     <title>2018 FIFA World Cup Russia</title>
-    <desc>'Tune in for live coverage of the second Semi-Final of the 2018 FIFA World Cup Russia, from Luzhniki Stadium in Russia's capital city, Moscow.'</desc>
+    <desc>Prime brings you live coverage of the first Semi-Final of the 2018 FIFA World Cup Russia. Who will be the first team to make it through to the final?</desc>
   </programme>
   <programme channel="tv.28" start="20180710200500 +0000" stop="20180710203000 +0000">
     <title>Batman: Brave And The Bold</title>
@@ -14142,7 +14142,7 @@
   </programme>
   <programme channel="tv.28" start="20180711174500 +0000" stop="20180711200500 +0000">
     <title>2018 FIFA World Cup Russia</title>
-    <desc>Prime brings you live coverage of the first Semi-Final of the 2018 FIFA World Cup Russia. Who will be the first team to make it through to the final?</desc>
+    <desc>'Tune in for live coverage of the second Semi-Final of the 2018 FIFA World Cup Russia, from Luzhniki Stadium in Russia's capital city, Moscow.'</desc>
   </programme>
   <programme channel="tv.28" start="20180711200500 +0000" stop="20180711203000 +0000">
     <title>Batman: Brave And The Bold</title>
@@ -16706,9 +16706,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180709113000 +0000" stop="20180709123000 +0000">
+  <programme channel="tv.37" start="20180709113000 +0000" stop="20180709120000 +0000">
     <title>Scandimania</title>
     <desc>In Sweden, Hugh visits a restaurant where everything is cooked over a wood fire, joins an Elk hunt, visits the ABBA museum, and goes to a summer crayfish party in Stockholm's archipelago.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.37" start="20180709120000 +0000" stop="20180709123000 +0000">
+    <title>How To Cook Like Heston</title>
+    <desc>Heston Blumenthal shows how to add a pinch of magic to a meal and spice up everyday ingredients.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -16832,9 +16839,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180710043000 +0000" stop="20180710053000 +0000">
-    <title>Food Hour</title>
-    <desc/>
+  <programme channel="tv.37" start="20180710043000 +0000" stop="20180710050000 +0000">
+    <title>Food Safari</title>
+    <desc>Maeve O'Meara visits a different cuisine each week, taking you into kitchens and restaurants across the nation to learn new recipes from hatted chefs and passionate home cooks alike.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.37" start="20180710050000 +0000" stop="20180710053000 +0000">
+    <title>How To Cook Like Heston</title>
+    <desc>Heston Blumenthal shows how to add a pinch of magic to a meal and spice up everyday ingredients.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -16896,8 +16910,8 @@
     </rating>
   </programme>
   <programme channel="tv.37" start="20180710113000 +0000" stop="20180710123000 +0000">
-    <title>Food Hour</title>
-    <desc/>
+    <title>Food Safari</title>
+    <desc>Maeve O'Meara visits a different cuisine each week, taking you into kitchens and restaurants across the nation to learn new recipes from hatted chefs and passionate home cooks alike.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -16979,9 +16993,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180710213000 +0000" stop="20180710223000 +0000">
-    <title>Food Hour</title>
-    <desc/>
+  <programme channel="tv.37" start="20180710213000 +0000" stop="20180710220000 +0000">
+    <title>Food Safari</title>
+    <desc>Maeve O'Meara visits a different cuisine each week, taking you into kitchens and restaurants across the nation to learn new recipes from hatted chefs and passionate home cooks alike.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.37" start="20180710220000 +0000" stop="20180710223000 +0000">
+    <title>How To Cook Like Heston</title>
+    <desc>Heston Blumenthal shows how to add a pinch of magic to a meal and spice up everyday ingredients.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -17063,28 +17084,28 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180711083000 +0000" stop="20180711093000 +0000">
+  <programme channel="tv.37" start="20180711083000 +0000" stop="20180711093500 +0000">
     <title>Where the Wild Men Are with Ben Fogle</title>
     <desc>Adventurer Ben Fogle sets off to meet more people who have turned their back on the rat-race and set up home in some of the most remote locations on Earth.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180711093000 +0000" stop="20180711100000 +0000">
+  <programme channel="tv.37" start="20180711093500 +0000" stop="20180711100500 +0000">
     <title>Hunting Aotearoa</title>
     <desc>Hunting Aotearoa's international trip this year has Pete visiting the majestic Islands of Hawaii.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180711100000 +0000" stop="20180711110000 +0000">
+  <programme channel="tv.37" start="20180711100500 +0000" stop="20180711110500 +0000">
     <title>Saving Lives at Sea</title>
     <desc>Three fishermen swim for their lives as their trawler is smashed onto rocks. And in London, an unlucky tourist is minutes from hypothermia after his attempt to take a selfie lands him in the Thames.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180711110000 +0000" stop="20180711120000 +0000">
+  <programme channel="tv.37" start="20180711110500 +0000" stop="20180711120000 +0000">
     <title>American Pickers</title>
     <desc>A robot collector?s mancave yields a mint-condition astronaut toy but the cost could be other-worldly. Mike and Frank get VIP access to ten storage buildings, some that haven?t been opened in years.</desc>
     <rating system="Freeview">
@@ -39021,8 +39042,9 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180708190000 +0000" stop="20180708193000 +0000">
-    <title>ABC News: Thai Cave Rescue</title>
+  <programme channel="tv.101002210220" start="20180708190000 +0000" stop="20180708200000 +0000">
+    <title>Landline</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -66915,10 +66937,10 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20180710123000 +0000" stop="20180710130000 +0000">
-    <title>Will &amp; Grace</title>
+  <programme channel="tv.101406020628" start="20180710123000 +0000" stop="20180710131000 +0000">
+    <title>Sex and the City</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180710130000 +0000" stop="20180710133000 +0000">
