@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180710195507 +0000" stop="20180710210218 +0000">
-    <title>Parks Bonifay Documentary</title>
-    <desc>Watch the journey behind the extraordinary life of wakeboarding king Parks Bonifay.</desc>
-    <sub-title>The Story of Wakeboarder Parks Bonifay</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180710210218 +0000" stop="20180710212959 +0000">
     <title>A Mountain Biker’s Hunt for Glory</title>
     <desc>Follow Nino from his youth as a child in a remote Swiss mountain village to his greatest victory yet.</desc>
@@ -71954,8 +71949,11 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180718032500 +0000" stop="20180718042500 +0000">
-    <title>Over the Black Dot</title>
+  <programme channel="tv.320203000302" start="20180718032500 +0000" stop="20180718040000 +0000">
+    <title>VICE</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180718040000 +0000" stop="20180718042500 +0000">
     <title>The War On Kids</title>
