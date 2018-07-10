@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180710051009 +0000" stop="20180710060544 +0000">
-    <title>Locked In</title>
-    <desc>Ben Stookesberry and a group of kayakers attempt a first descent of the Beriman River in Papua New Guinea.</desc>
-    <sub-title>First Descent of the Beriman Gorge</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180710060544 +0000" stop="20180710073857 +0000">
     <title>Blood Road</title>
     <desc>Rebecca Rusch rides 1,930km along the infamous Ho Chi Minh Trail through the dense jungles of Vietnam.</desc>
@@ -4484,7 +4479,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180710010000 +0000" stop="20180710020000 +0000">
-    <title>The Block NZ</title>
+    <title>The Block NZ Encore</title>
     <desc>New Episode. The fallout continues. And later, grand ideas sees one team fall further behind as the quest to build the best guest bedroom continues. S7 Ep2</desc>
     <rating system="Freeview">
       <value>PGR</value>
@@ -4974,7 +4969,7 @@
   </programme>
   <programme channel="tv.11" start="20180713090000 +0000" stop="20180713094500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Chopper, Joseph Moore, Laura Daniel and Pax Assadi.</desc>
   </programme>
   <programme channel="tv.11" start="20180713094500 +0000" stop="20180713101500 +0000">
     <title>The Spinoff TV</title>
@@ -6052,32 +6047,35 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180713083000 +0000" stop="20180713104300 +0000">
+  <programme channel="tv.12" start="20180713083000 +0000" stop="20180713102800 +0000">
     <title>Sister Cities</title>
     <desc>Four sisters, as different as the cities they were named after, return home to mourn their mother's alleged suicide and discover a secret that could tear them apart.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180713104300 +0000" stop="20180713104500 +0000">
+  <programme channel="tv.12" start="20180713102800 +0000" stop="20180713103000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180713104500 +0000" stop="20180713113500 +0000">
+  <programme channel="tv.12" start="20180713103000 +0000" stop="20180713112500 +0000">
     <title>Snapped</title>
     <desc>A mother of two is accused of the execution-style murder of a town's favorite son.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
-  <programme channel="tv.12" start="20180713113500 +0000" stop="20180713123000 +0000">
+  <programme channel="tv.12" start="20180713112500 +0000" stop="20180713122000 +0000">
     <title>The Disappearance Of Maura Murray</title>
     <desc>Nursing student Maura Murray inexplicably vanished in 2004, leaving behind one of the most puzzling unsolved mysteries of the internet age.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180713123000 +0000" stop="20180713170000 +0000">
+  <programme channel="tv.12" start="20180713122000 +0000" stop="20180713170000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -6176,6 +6174,9 @@
   <programme channel="tv.12" start="20180714063000 +0000" stop="20180714073000 +0000">
     <title>The Getaway</title>
     <desc>Supermodel Chrissy Teigen gets in the ring for a few rounds of Muay Thai, eats at the number-one restaurant in Asia, and risks decapitation on a Tuk Tuk.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180714073000 +0000" stop="20180714082800 +0000">
     <title>Below Deck</title>
@@ -6282,6 +6283,9 @@
   <programme channel="tv.12" start="20180714225000 +0000" stop="20180714234000 +0000">
     <title>The Getaway</title>
     <desc>Supermodel Chrissy Teigen gets in the ring for a few rounds of Muay Thai, eats at the number-one restaurant in Asia, and risks decapitation on a Tuk Tuk.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180714234000 +0000" stop="20180715002800 +0000">
     <title>Catfish</title>
@@ -6349,6 +6353,9 @@
   <programme channel="tv.12" start="20180715063000 +0000" stop="20180715073000 +0000">
     <title>Catfish</title>
     <desc>Nev and Max embark on the biggest case of their lives as they track down the infamous, Shelly Chartier.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180715073000 +0000" stop="20180715083000 +0000">
     <title>Glam Masters 1</title>
@@ -6512,6 +6519,9 @@
   <programme channel="tv.12" start="20180716094000 +0000" stop="20180716104000 +0000">
     <title>60 Days In</title>
     <desc>Hazing, drug use and violence envelop Clark County Jail as two participants are on the brink of dropping out of the program.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180716104000 +0000" stop="20180716113000 +0000">
     <title>Snapped</title>
@@ -6563,6 +6573,9 @@
   <programme channel="tv.12" start="20180717003000 +0000" stop="20180717013000 +0000">
     <title>Tamra's Oc Wedding</title>
     <desc>In the final days leading up to the wedding, Tamra and Eddie host a dinner for the wedding party. Then, with the big day upon them, friends and family gather as the couple tie the knot.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180717013000 +0000" stop="20180717023000 +0000">
     <title>How To Look Good Naked: UK</title>
@@ -6623,6 +6636,9 @@
   <programme channel="tv.12" start="20180717083000 +0000" stop="20180717093000 +0000">
     <title>Body Fixers</title>
     <desc>Skins star Megan Prescott asks for a mahogany tan for a body building competition, Sam wants her non-existent lips transformed into the perfect pout, and Tom's beard has left him unlucky in love.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180717093000 +0000" stop="20180717102800 +0000">
     <title>The Real Housewives Of New York City</title>
@@ -11565,7 +11581,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180710020000 +0000" stop="20180710030000 +0000">
-    <title>The Block NZ</title>
+    <title>The Block NZ Encore</title>
     <desc>New Episode. The fallout continues. And later, grand ideas sees one team fall further behind as the quest to build the best guest bedroom continues. S7 Ep2</desc>
     <rating system="Freeview">
       <value>PGR</value>
@@ -12022,7 +12038,7 @@
   </programme>
   <programme channel="tv.27" start="20180713100000 +0000" stop="20180713104500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Chopper, Joseph Moore, Laura Daniel and Pax Assadi.</desc>
   </programme>
   <programme channel="tv.27" start="20180713104500 +0000" stop="20180713111500 +0000">
     <title>The Spinoff TV</title>
@@ -13070,32 +13086,35 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180713093000 +0000" stop="20180713114300 +0000">
+  <programme channel="tv.30" start="20180713093000 +0000" stop="20180713112800 +0000">
     <title>Sister Cities</title>
     <desc>Four sisters, as different as the cities they were named after, return home to mourn their mother's alleged suicide and discover a secret that could tear them apart.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180713114300 +0000" stop="20180713114500 +0000">
+  <programme channel="tv.30" start="20180713112800 +0000" stop="20180713113000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180713114500 +0000" stop="20180713123500 +0000">
+  <programme channel="tv.30" start="20180713113000 +0000" stop="20180713122500 +0000">
     <title>Snapped</title>
     <desc>A mother of two is accused of the execution-style murder of a town's favorite son.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
-  <programme channel="tv.30" start="20180713123500 +0000" stop="20180713133000 +0000">
+  <programme channel="tv.30" start="20180713122500 +0000" stop="20180713132000 +0000">
     <title>The Disappearance Of Maura Murray</title>
     <desc>Nursing student Maura Murray inexplicably vanished in 2004, leaving behind one of the most puzzling unsolved mysteries of the internet age.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180713133000 +0000" stop="20180713180000 +0000">
+  <programme channel="tv.30" start="20180713132000 +0000" stop="20180713180000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -13194,6 +13213,9 @@
   <programme channel="tv.30" start="20180714073000 +0000" stop="20180714083000 +0000">
     <title>The Getaway</title>
     <desc>Supermodel Chrissy Teigen gets in the ring for a few rounds of Muay Thai, eats at the number-one restaurant in Asia, and risks decapitation on a Tuk Tuk.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180714083000 +0000" stop="20180714092800 +0000">
     <title>Below Deck</title>
@@ -13300,6 +13322,9 @@
   <programme channel="tv.30" start="20180714235000 +0000" stop="20180715004000 +0000">
     <title>The Getaway</title>
     <desc>Supermodel Chrissy Teigen gets in the ring for a few rounds of Muay Thai, eats at the number-one restaurant in Asia, and risks decapitation on a Tuk Tuk.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180715004000 +0000" stop="20180715012800 +0000">
     <title>Catfish</title>
@@ -13367,6 +13392,9 @@
   <programme channel="tv.30" start="20180715073000 +0000" stop="20180715083000 +0000">
     <title>Catfish</title>
     <desc>Nev and Max embark on the biggest case of their lives as they track down the infamous, Shelly Chartier.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180715083000 +0000" stop="20180715093000 +0000">
     <title>Glam Masters 1</title>
@@ -13530,6 +13558,9 @@
   <programme channel="tv.30" start="20180716104000 +0000" stop="20180716114000 +0000">
     <title>60 Days In</title>
     <desc>Hazing, drug use and violence envelop Clark County Jail as two participants are on the brink of dropping out of the program.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180716114000 +0000" stop="20180716123000 +0000">
     <title>Snapped</title>
@@ -13581,6 +13612,9 @@
   <programme channel="tv.30" start="20180717013000 +0000" stop="20180717023000 +0000">
     <title>Tamra's Oc Wedding</title>
     <desc>In the final days leading up to the wedding, Tamra and Eddie host a dinner for the wedding party. Then, with the big day upon them, friends and family gather as the couple tie the knot.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180717023000 +0000" stop="20180717033000 +0000">
     <title>How To Look Good Naked: UK</title>
@@ -13641,6 +13675,9 @@
   <programme channel="tv.30" start="20180717093000 +0000" stop="20180717103000 +0000">
     <title>Body Fixers</title>
     <desc>Skins star Megan Prescott asks for a mahogany tan for a body building competition, Sam wants her non-existent lips transformed into the perfect pout, and Tom's beard has left him unlucky in love.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180717103000 +0000" stop="20180717112800 +0000">
     <title>The Real Housewives Of New York City</title>
@@ -16481,6 +16518,9 @@
   <programme channel="tv.65" start="20180716073000 +0000" stop="20180716083000 +0000">
     <title>Restaurant Revolution</title>
     <desc>Restaurant Revolution sees teams from around Australia design and run pop-up restaurants for a prize of $200,000. Hosted by Jock Zonfrillo with experts Neil Perry, Jess Ho, Erez Gordon and John Lethle</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.65" start="20180716083000 +0000" stop="20180716090500 +0000">
     <title>United Plates Of America</title>
@@ -16563,6 +16603,9 @@
   <programme channel="tv.65" start="20180716223000 +0000" stop="20180716233000 +0000">
     <title>Restaurant Revolution</title>
     <desc>Restaurant Revolution sees teams from around Australia design and run pop-up restaurants for a prize of $200,000. Hosted by Jock Zonfrillo with experts Neil Perry, Jess Ho, Erez Gordon and John Lethle</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.65" start="20180716233000 +0000" stop="20180717000000 +0000">
     <title>United Plates Of America</title>
@@ -16616,6 +16659,9 @@
   <programme channel="tv.65" start="20180717030000 +0000" stop="20180717040000 +0000">
     <title>Restaurant Revolution</title>
     <desc>Restaurant Revolution sees teams from around Australia design and run pop-up restaurants for a prize of $200,000. Hosted by Jock Zonfrillo with experts Neil Perry, Jess Ho, Erez Gordon and John Lethle</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.65" start="20180717040000 +0000" stop="20180717043000 +0000">
     <title>United Plates Of America</title>
@@ -23599,8 +23645,8 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180712073000 +0000" stop="20180712080000 +0000">
-    <title>This vs That 138</title>
-    <desc/>
+    <title>This vs That</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Disclosure Vs. Major Lazer</desc>
   </programme>
   <programme channel="tv.51" start="20180712080000 +0000" stop="20180712090000 +0000">
     <title>Top 10 138</title>
