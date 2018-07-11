@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180711064144 +0000" stop="20180711073631 +0000">
-    <title>Visions of Greatness S1E3</title>
-    <desc>At the pinnacle of performance, natural ability only goes so far. Drive separates the good from the great.</desc>
-    <sub-title>The Driven</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180711073631 +0000" stop="20180711080616 +0000">
     <title>Your Street My Stage S1E4</title>
     <desc>Australia’s artistic epicentre is home to some of the world’s most innnovative street performers.</desc>
@@ -14542,10 +14537,16 @@
   <programme channel="tv.28" start="20180714190000 +0000" stop="20180714193000 +0000">
     <title>Faith In Action</title>
     <desc>Religious programme. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180714193000 +0000" stop="20180714203000 +0000">
     <title>Hour of Power</title>
     <desc>Religious programme. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180714203000 +0000" stop="20180714210000 +0000">
     <title>Beyond Today</title>
