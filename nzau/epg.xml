@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180711055844 +0000" stop="20180711064144 +0000">
-    <title>Karl Meltzer: Made to Be Broken</title>
-    <desc>Ultrarunner Karl Meltzer embarks on his third and final attempt to cross the Appalachian Trail in record time.</desc>
-    <sub-title>Running the Appalachian Trail</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180711064144 +0000" stop="20180711073631 +0000">
     <title>Visions of Greatness S1E3</title>
     <desc>At the pinnacle of performance, natural ability only goes so far. Drive separates the good from the great.</desc>
@@ -4583,7 +4578,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180711010000 +0000" stop="20180711020000 +0000">
-    <title>The Block NZ</title>
+    <title>The Block NZ Encore</title>
     <desc>New Episode. Frustration looms as Agni disappears from site. Later, a muddy challenge sees all four teams fighting for survival. S7 Ep3</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -4801,11 +4796,11 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180712105000 +0000" stop="20180712112500 +0000">
+  <programme channel="tv.11" start="20180712105000 +0000" stop="20180712112000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.11" start="20180712112500 +0000" stop="20180712122000 +0000">
+  <programme channel="tv.11" start="20180712112000 +0000" stop="20180712121500 +0000">
     <title>The Good Wife</title>
     <desc>Jason uses aggressive investigative tactics when he assists Alicia and Lucca with a student loan case. S7 Ep5</desc>
     <audio>
@@ -4815,7 +4810,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180712122000 +0000" stop="20180712170000 +0000">
+  <programme channel="tv.11" start="20180712121500 +0000" stop="20180712170000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -4930,13 +4925,13 @@
   </programme>
   <programme channel="tv.11" start="20180713094500 +0000" stop="20180713101500 +0000">
     <title>The Spinoff TV</title>
-    <desc>The Spinoff TV team dissect the week that was with snappy content, covering current affairs, pop culture and media. Presented by Alex Casey and Leonie Hayden.</desc>
+    <desc>New Episode. Our resident mad scientist Madeleine Chapman delves into the world of vitamins: are they full of goodness or full of crap? And we ask: can brown people use the N-word? S1 Ep4</desc>
   </programme>
-  <programme channel="tv.11" start="20180713101500 +0000" stop="20180713104500 +0000">
+  <programme channel="tv.11" start="20180713101500 +0000" stop="20180713104000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.11" start="20180713104500 +0000" stop="20180713111500 +0000">
+  <programme channel="tv.11" start="20180713104000 +0000" stop="20180713111000 +0000">
     <title>American Dad</title>
     <desc>Francine reconnects with her birth family when she starts craving the experience of having a big family. Stan becomes obsessed with the TV show American Pickers. S13 Ep7</desc>
     <audio>
@@ -4946,7 +4941,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180713111500 +0000" stop="20180713121500 +0000">
+  <programme channel="tv.11" start="20180713111000 +0000" stop="20180713120500 +0000">
     <title>Hawaii Five-O</title>
     <desc>McGarrett and Danny attend a couples retreat in order to work on their partnership issues. Kamekona's dangerous past returns to haunt him as he tries to solve a murder. S6 Ep11</desc>
     <audio>
@@ -4956,7 +4951,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180713121500 +0000" stop="20180713170000 +0000">
+  <programme channel="tv.11" start="20180713120500 +0000" stop="20180713170000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -5170,6 +5165,9 @@
   <programme channel="tv.11" start="20180715070000 +0000" stop="20180715083000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. The teams race to complete the guest bedroom and then hear what the judges have to say. Later, with great power comes the possibility to unhinge the game, and no one is safe. S7 Ep5</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180715083000 +0000" stop="20180715110000 +0000">
     <title>Kingsman: The Secret Service</title>
@@ -5243,6 +5241,9 @@
   <programme channel="tv.11" start="20180716010000 +0000" stop="20180716023000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. The teams race to complete the guest bedroom and then hear what the judges have to say. Later, with great power comes the possibility to unhinge the game, and no one is safe. S7 Ep5</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180716023000 +0000" stop="20180716030000 +0000">
     <title>Come Dine With Me NZ</title>
@@ -6668,6 +6669,9 @@
   <programme channel="tv.12" start="20180717233000 +0000" stop="20180718002800 +0000">
     <title>Jury Speaks</title>
     <desc>Members of the original jury, who acquitted Jackson of molestation, examine new accusations and hard truths about the superstar's life. Given the chance to revote, will their outcome change?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180718002800 +0000" stop="20180718003000 +0000">
     <title>The Dish</title>
@@ -11745,7 +11749,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180711020000 +0000" stop="20180711030000 +0000">
-    <title>The Block NZ</title>
+    <title>The Block NZ Encore</title>
     <desc>New Episode. Frustration looms as Agni disappears from site. Later, a muddy challenge sees all four teams fighting for survival. S7 Ep3</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -11951,18 +11955,18 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180712115000 +0000" stop="20180712122500 +0000">
+  <programme channel="tv.27" start="20180712115000 +0000" stop="20180712122000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.27" start="20180712122500 +0000" stop="20180712132000 +0000">
+  <programme channel="tv.27" start="20180712122000 +0000" stop="20180712131500 +0000">
     <title>The Good Wife</title>
     <desc>Jason uses aggressive investigative tactics when he assists Alicia and Lucca with a student loan case. S7 Ep5</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180712132000 +0000" stop="20180712180000 +0000">
+  <programme channel="tv.27" start="20180712131500 +0000" stop="20180712180000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -12071,27 +12075,27 @@
   </programme>
   <programme channel="tv.27" start="20180713104500 +0000" stop="20180713111500 +0000">
     <title>The Spinoff TV</title>
-    <desc>The Spinoff TV team dissect the week that was with snappy content, covering current affairs, pop culture and media. Presented by Alex Casey and Leonie Hayden.</desc>
+    <desc>New Episode. Our resident mad scientist Madeleine Chapman delves into the world of vitamins: are they full of goodness or full of crap? And we ask: can brown people use the N-word? S1 Ep4</desc>
   </programme>
-  <programme channel="tv.27" start="20180713111500 +0000" stop="20180713114500 +0000">
+  <programme channel="tv.27" start="20180713111500 +0000" stop="20180713114000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.27" start="20180713114500 +0000" stop="20180713121500 +0000">
+  <programme channel="tv.27" start="20180713114000 +0000" stop="20180713121000 +0000">
     <title>American Dad</title>
     <desc>Francine reconnects with her birth family when she starts craving the experience of having a big family. Stan becomes obsessed with the TV show American Pickers. S13 Ep7</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180713121500 +0000" stop="20180713131500 +0000">
+  <programme channel="tv.27" start="20180713121000 +0000" stop="20180713130500 +0000">
     <title>Hawaii Five-O</title>
     <desc>McGarrett and Danny attend a couples retreat in order to work on their partnership issues. Kamekona's dangerous past returns to haunt him as he tries to solve a murder. S6 Ep11</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180713131500 +0000" stop="20180713180000 +0000">
+  <programme channel="tv.27" start="20180713130500 +0000" stop="20180713180000 +0000">
     <title>Infomercials</title>
     <desc/>
   </programme>
@@ -12299,6 +12303,9 @@
   <programme channel="tv.27" start="20180715080000 +0000" stop="20180715093000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. The teams race to complete the guest bedroom and then hear what the judges have to say. Later, with great power comes the possibility to unhinge the game, and no one is safe. S7 Ep5</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180715093000 +0000" stop="20180715120000 +0000">
     <title>Kingsman: The Secret Service</title>
@@ -12366,6 +12373,9 @@
   <programme channel="tv.27" start="20180716020000 +0000" stop="20180716033000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. The teams race to complete the guest bedroom and then hear what the judges have to say. Later, with great power comes the possibility to unhinge the game, and no one is safe. S7 Ep5</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180716033000 +0000" stop="20180716040000 +0000">
     <title>Come Dine With Me NZ</title>
@@ -13767,6 +13777,9 @@
   <programme channel="tv.30" start="20180718003000 +0000" stop="20180718012800 +0000">
     <title>Jury Speaks</title>
     <desc>Members of the original jury, who acquitted Jackson of molestation, examine new accusations and hard truths about the superstar's life. Given the chance to revote, will their outcome change?</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180718012800 +0000" stop="20180718013000 +0000">
     <title>The Dish</title>
@@ -16695,6 +16708,9 @@
   <programme channel="tv.65" start="20180717090500 +0000" stop="20180717100000 +0000">
     <title>Ultimate Traveller</title>
     <desc>Premiere. The six inexperienced backpackers from disparate backgrounds are dropped in a back street of Jakarta, Indonesia. S1 Ep1</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.65" start="20180717100000 +0000" stop="20180717103000 +0000">
     <title>Vacation Creation</title>
@@ -16777,6 +16793,9 @@
   <programme channel="tv.65" start="20180718000000 +0000" stop="20180718010000 +0000">
     <title>Ultimate Traveller</title>
     <desc>Premiere. The six inexperienced backpackers from disparate backgrounds are dropped in a back street of Jakarta, Indonesia. S1 Ep1</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.65" start="20180718010000 +0000" stop="20180718013000 +0000">
     <title>Vacation Creation</title>
@@ -16830,6 +16849,9 @@
   <programme channel="tv.65" start="20180718043000 +0000" stop="20180718053000 +0000">
     <title>Ultimate Traveller</title>
     <desc>Premiere. The six inexperienced backpackers from disparate backgrounds are dropped in a back street of Jakarta, Indonesia. S1 Ep1</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.65" start="20180718053000 +0000" stop="20180718060000 +0000">
     <title>Vacation Creation</title>
@@ -23824,8 +23846,8 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180712210000 +0000" stop="20180712220000 +0000">
-    <title>Top 10 140</title>
-    <desc>Top 10 songs with a daily changing theme. Todays theme.. Bands That Broke Up</desc>
+    <title>Top 10</title>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Calvin Harris</desc>
   </programme>
   <programme channel="tv.51" start="20180712220000 +0000" stop="20180713000000 +0000">
     <title>All The Hits</title>
@@ -23864,12 +23886,12 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180713073000 +0000" stop="20180713080000 +0000">
-    <title>This vs That 139</title>
-    <desc/>
+    <title>This vs That</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Group vs. Solo</desc>
   </programme>
   <programme channel="tv.51" start="20180713080000 +0000" stop="20180713090000 +0000">
-    <title>Running Songs</title>
-    <desc>Top 10 songs with a daily changing theme. Todays theme.. Running songs!</desc>
+    <title>Top 10</title>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Calvin Harris</desc>
   </programme>
   <programme channel="tv.51" start="20180713090000 +0000" stop="20180713103000 +0000">
     <title>All The Hits</title>
@@ -41016,7 +41038,8 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180715043000 +0000" stop="20180715050000 +0000">
-    <title>The Breakfast Couch</title>
+    <title>Rescued: An ABC News Special</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -57376,14 +57399,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180717093100 +0000" stop="20180717103900 +0000">
-    <title>Sunday Night</title>
+    <title>Endless Summer 30 Years of Home and Away</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180717103900 +0000" stop="20180717113900 +0000">
-    <title>Andrew Denton: Interview</title>
+    <title>Interview</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -72460,10 +72483,10 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180718032500 +0000" stop="20180718040000 +0000">
-    <title>VICE</title>
+  <programme channel="tv.320203000302" start="20180718032500 +0000" stop="20180718042500 +0000">
+    <title>Over the Black Dot</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180718040000 +0000" stop="20180718042500 +0000">
