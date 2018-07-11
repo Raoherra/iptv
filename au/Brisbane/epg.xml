@@ -900,14 +900,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180715043000 +0000" stop="20180715050000 +0000">
-    <title>Rescued: An ABC News Special</title>
-    <subtitles type="teletext"/>
+    <title>The Breakfast Couch</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180715043000 +0000" stop="20180715050000 +0000">
-    <title>The Breakfast Couch</title>
+    <title>Rescued: An ABC News Special</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -1672,6 +1672,13 @@
   </programme>
   <programme channel="tv.101002210220" start="20180719130000 +0000" stop="20180719140000 +0000">
     <title>ABC News Tonight</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180719140000 +0000" stop="20180719143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -13312,6 +13319,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204000407" start="20180719140000 +0000" stop="20180719143000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.10120400040A" start="20180711130500 +0000" stop="20180711140400 +0000">
     <title>Cold Case</title>
     <subtitles type="teletext"/>
@@ -14617,6 +14630,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.10120400040A" start="20180719140000 +0000" stop="20180719150000 +0000">
+    <title>Rizzoli &amp; Isles</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.10120400040B" start="20180711134100 +0000" stop="20180711140900 +0000">
@@ -18717,6 +18737,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180719140000 +0000" stop="20180719141500 +0000">
+    <title>Trackwork</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305040540" start="20180711124500 +0000" stop="20180711180000 +0000">
     <title>Wimbledon: Day 9</title>
     <subtitles type="teletext"/>
@@ -21341,6 +21368,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040542" start="20180719140000 +0000" stop="20180719143000 +0000">
+    <title>Harry's Practice</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305040543" start="20180711133300 +0000" stop="20180711140000 +0000">
@@ -29785,6 +29819,13 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101406040648" start="20180719140000 +0000" stop="20180719143000 +0000">
+    <title>Everybody Loves Raymond</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000301" start="20180711113000 +0000" stop="20180711160500 +0000">
     <title>Tour de France: Live Stage</title>
     <rating system="Freeview">
@@ -37024,16 +37065,6 @@
     <rating system="Freeview">
       <value>NC</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180711201745 +0000" stop="20180711211317 +0000">
-    <title>Red Bull Air Race World Championship 2018</title>
-    <desc>Catch up on an action-packed weekend of racing in Budapest, Hungary, the Air Race's spiritual home.</desc>
-    <sub-title>Budapest highlights</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180711211317 +0000" stop="20180711214404 +0000">
-    <title>Road to 55</title>
-    <desc>Experience the 2014 Formula One racing season with Carlos Sainz as he strives to become a top driver.</desc>
-    <sub-title>The Drive to Become a Formula One Racer</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180711214404 +0000" stop="20180711230834 +0000">
     <title>Nervous Laughter</title>
