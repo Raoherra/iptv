@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180711034204 +0000" stop="20180711043426 +0000">
-    <title>The Art of Street Fighting</title>
-    <desc>The world's top Street Fighter V players prepare for the fight of their lives at Red Bull Kumite.</desc>
-    <sub-title>One Game. One Champion. An Endless Fight.</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180711043426 +0000" stop="20180711050119 +0000">
-    <title>The Road Trick S1E2</title>
-    <desc>Adam Trent is in Austria, to see what doors his magic can open for him. But will language lock him out?</desc>
-    <sub-title>Vienna</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180711050130 +0000" stop="20180711053034 +0000">
     <title>ABC of... S1E7</title>
     <desc>Get a crash course in mountain biking, with lessons in the terminology, history, and heroes of the sport.</desc>
@@ -2354,7 +2344,13 @@
   <programme channel="tv.10" start="20180711073000 +0000" stop="20180711083000 +0000">
     <title>Heartbreak Island</title>
     <desc>Season Finale. The two remaining couples go head-to-head in a series of challenges that test their honesty, communication and trust. Can the winning couple walk away with love AND money?</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180711083000 +0000" stop="20180711090000 +0000">
     <title>Wellington Paranormal</title>
@@ -2578,6 +2574,9 @@
   <programme channel="tv.10" start="20180711231000 +0000" stop="20180712000500 +0000">
     <title>Heartbreak Island</title>
     <desc>Season Finale. The two remaining couples go head-to-head in a series of challenges that test their honesty, communication and trust. Can the winning couple walk away with love AND money?</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
   </programme>
   <programme channel="tv.10" start="20180712000500 +0000" stop="20180712010500 +0000">
@@ -2639,6 +2638,9 @@
   <programme channel="tv.10" start="20180712040000 +0000" stop="20180712043000 +0000">
     <title>Fanimals</title>
     <desc>We're at the zoo for the school holidays! We peek in on some playful penguins, show you how to make peanut butter mice, and your Quack Up animal joke could win you a prize!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180712043000 +0000" stop="20180712050000 +0000">
     <title>Friends</title>
@@ -2660,6 +2662,9 @@
   <programme channel="tv.10" start="20180712053000 +0000" stop="20180712060000 +0000">
     <title>Home And Away</title>
     <desc>Marilyn and John flounder as they try to support Ty coming out. Ziggy and Brody accidentally get stranded in honeymoon heaven. Ben and Maggie struggle to cope as Maggie’s health declines.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180712060000 +0000" stop="20180712063000 +0000">
     <title>The Big Bang Theory</title>
@@ -2925,6 +2930,9 @@
   <programme channel="tv.10" start="20180713023500 +0000" stop="20180713030500 +0000">
     <title>Home And Away</title>
     <desc>Marilyn and John flounder as they try to support Ty coming out. Ziggy and Brody accidentally get stranded in honeymoon heaven. Ben and Maggie struggle to cope as Maggie’s health declines.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180713030500 +0000" stop="20180713033500 +0000">
     <title>Shortland Street</title>
@@ -3494,9 +3502,6 @@
   <programme channel="tv.10" start="20180715030000 +0000" stop="20180715050000 +0000">
     <title>Home And Away</title>
     <desc>Tori and Jasmine race against time to save Colby. Robbo fights to clear his name. Can Ben pull off a miracle before the wedding?</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
   <programme channel="tv.10" start="20180715050000 +0000" stop="20180715053000 +0000">
     <title>The Simpsons</title>
@@ -3776,7 +3781,7 @@
   </programme>
   <programme channel="tv.10" start="20180716040000 +0000" stop="20180716043000 +0000">
     <title>Fanimals</title>
-    <desc>We're at Henderson Pony Club for the school holidays! Plus we meet Olly and his incredible bugs, show you how to make toilet roll stamps, and your Animal Lookalike pic could win a prize!</desc>
+    <desc>We're at Henderson Valley Pony Club for the school holidays! Plus we meet Olly and his incredible bugs, show you how to make toilet roll leaf stamps, and your Animal Lookalike pic could win a prize!</desc>
   </programme>
   <programme channel="tv.10" start="20180716043000 +0000" stop="20180716050000 +0000">
     <title>Friends</title>
@@ -4102,7 +4107,7 @@
   </programme>
   <programme channel="tv.10" start="20180717040000 +0000" stop="20180717043000 +0000">
     <title>Fanimals</title>
-    <desc>We're at Henderson Pony Club for the school holidays! Plus we go on a mission to find some endangered sea lions, show you how to make a bird feeder, and play Trick for Treat!</desc>
+    <desc>We're at Henderson Valley Pony Club for the school holidays! Plus we go on a mission to find some endangered sea lions, show you how to make a tui sugar water feeder, and play Trick for Treat!</desc>
   </programme>
   <programme channel="tv.10" start="20180717043000 +0000" stop="20180717050000 +0000">
     <title>Friends</title>
@@ -4429,7 +4434,7 @@
   </programme>
   <programme channel="tv.10" start="20180718040000 +0000" stop="20180718043000 +0000">
     <title>Fanimals</title>
-    <desc>We're at Henderson Pony Club for the school holidays! Plus we meet a cheeky pup at Dog School, show you how to make a reusable cup, and you could win a prize on Call of Nature!</desc>
+    <desc>We're at Henderson Valley Pony Club for the school holidays! Plus we meet Alfie the jumpy cavoodle at Dog School, show you how to make a reusable polar cup, and get ready to win on Call of Nature!</desc>
   </programme>
   <programme channel="tv.10" start="20180718043000 +0000" stop="20180718050000 +0000">
     <title>Friends</title>
@@ -8696,7 +8701,7 @@
     <title>1 News Tonight</title>
     <desc/>
   </programme>
-  <programme channel="tv.38" start="20180712121500 +0000" stop="20180712130500 +0000">
+  <programme channel="tv.38" start="20180712121500 +0000" stop="20180712131000 +0000">
     <title>Body Hack</title>
     <desc>S1 E4 Join Todd Sampson as he tackles some of the biggest challenges of his life using science as his guide. Today, Todd travels to the Himalayas to work with Sherpas 6,000m above sea level.</desc>
     <subtitles type="teletext"/>
@@ -8704,7 +8709,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180712130500 +0000" stop="20180712190000 +0000">
+  <programme channel="tv.38" start="20180712131000 +0000" stop="20180712190000 +0000">
     <title>Wimbledon Live Games</title>
     <desc>Live coverage from Day 10 of the 2018 Championships from the grass courts of Wimbledon in London, featuring the Ladies Singles Semi Finals.</desc>
   </programme>
@@ -8933,14 +8938,14 @@
     <title>Lotto</title>
     <desc/>
   </programme>
-  <programme channel="tv.38" start="20180714090500 +0000" stop="20180714093500 +0000">
+  <programme channel="tv.38" start="20180714090500 +0000" stop="20180714093000 +0000">
     <title>Britain's Got Talent Continued</title>
     <desc>After thousands applied and hundreds auditioned, the search reaches the live semi-finals. The final 40 acts now perform live in the hope of impressing the judges.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180714093500 +0000" stop="20180714103000 +0000">
+  <programme channel="tv.38" start="20180714093000 +0000" stop="20180714103000 +0000">
     <title>The Hotel Inspector</title>
     <desc>New Season: The Hotel Inspector imparts her wisdom on partners and fledgling hoteliers, John and Mel in the Merseyside resort of Southport.</desc>
     <rating system="Freeview">
@@ -9025,6 +9030,9 @@
     <title>Attitude</title>
     <desc>Three characters with three different medical reasons for wanting to use medicinal marijuana, take us on a journey that reveals how difficult it is to obtain ‘the miracle plant’ in New Zealand.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180715003000 +0000" stop="20180715005500 +0000">
     <title>Fair Go</title>
@@ -9074,10 +9082,13 @@
     <title>Hyundai Country Calendar</title>
     <desc>A Vintage Decision: After farming sheep for almost a hundred years, a family diversifies into wine. The Marlborough grape growers are also keen birders and members of the ornithological society.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180715083000 +0000" stop="20180715093000 +0000">
     <title>Sunday</title>
-    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe.</desc>
+    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe. Tonight, plastic transformed our lives – but now, we’re drowning in it.</desc>
   </programme>
   <programme channel="tv.38" start="20180715093000 +0000" stop="20180715113000 +0000">
     <title>Mistress, Mercy</title>
@@ -9808,6 +9819,9 @@
     <title>Heartbreak Island</title>
     <desc>Season Finale. The two remaining couples go head-to-head in a series of challenges that test their honesty, communication and trust. Can the winning couple walk away with love AND money?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180711093000 +0000" stop="20180711100000 +0000">
     <title>Wellington Paranormal</title>
@@ -9996,6 +10010,9 @@
     <title>Heartbreak Island</title>
     <desc>Season Finale. The two remaining couples go head-to-head in a series of challenges that test their honesty, communication and trust. Can the winning couple walk away with love AND money?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180712010500 +0000" stop="20180712020500 +0000">
     <title>Jeremy Kyle</title>
@@ -10050,6 +10067,9 @@
   <programme channel="tv.14" start="20180712050000 +0000" stop="20180712053000 +0000">
     <title>Fanimals</title>
     <desc>We're at the zoo for the school holidays! We peek in on some playful penguins, show you how to make peanut butter mice, and your Quack Up animal joke could win you a prize!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180712053000 +0000" stop="20180712060000 +0000">
     <title>Friends</title>
@@ -10068,6 +10088,9 @@
   <programme channel="tv.14" start="20180712063000 +0000" stop="20180712070000 +0000">
     <title>Home And Away</title>
     <desc>Marilyn and John flounder as they try to support Ty coming out. Ziggy and Brody accidentally get stranded in honeymoon heaven. Ben and Maggie struggle to cope as Maggie’s health declines.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180712070000 +0000" stop="20180712073000 +0000">
     <title>The Big Bang Theory</title>
@@ -10309,6 +10332,9 @@
   <programme channel="tv.14" start="20180713033500 +0000" stop="20180713040500 +0000">
     <title>Home And Away</title>
     <desc>Marilyn and John flounder as they try to support Ty coming out. Ziggy and Brody accidentally get stranded in honeymoon heaven. Ben and Maggie struggle to cope as Maggie’s health declines.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180713040500 +0000" stop="20180713043500 +0000">
     <title>Shortland Street</title>
@@ -10785,9 +10811,6 @@
   <programme channel="tv.14" start="20180715040000 +0000" stop="20180715060000 +0000">
     <title>Home And Away</title>
     <desc>Tori and Jasmine race against time to save Colby. Robbo fights to clear his name. Can Ben pull off a miracle before the wedding?</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
   <programme channel="tv.14" start="20180715060000 +0000" stop="20180715063000 +0000">
     <title>The Simpsons</title>
@@ -11025,7 +11048,7 @@
   </programme>
   <programme channel="tv.14" start="20180716050000 +0000" stop="20180716053000 +0000">
     <title>Fanimals</title>
-    <desc>We're at Henderson Pony Club for the school holidays! Plus we meet Olly and his incredible bugs, show you how to make toilet roll stamps, and your Animal Lookalike pic could win a prize!</desc>
+    <desc>We're at Henderson Valley Pony Club for the school holidays! Plus we meet Olly and his incredible bugs, show you how to make toilet roll leaf stamps, and your Animal Lookalike pic could win a prize!</desc>
   </programme>
   <programme channel="tv.14" start="20180716053000 +0000" stop="20180716060000 +0000">
     <title>Friends</title>
@@ -11312,7 +11335,7 @@
   </programme>
   <programme channel="tv.14" start="20180717050000 +0000" stop="20180717053000 +0000">
     <title>Fanimals</title>
-    <desc>We're at Henderson Pony Club for the school holidays! Plus we go on a mission to find some endangered sea lions, show you how to make a bird feeder, and play Trick for Treat!</desc>
+    <desc>We're at Henderson Valley Pony Club for the school holidays! Plus we go on a mission to find some endangered sea lions, show you how to make a tui sugar water feeder, and play Trick for Treat!</desc>
   </programme>
   <programme channel="tv.14" start="20180717053000 +0000" stop="20180717060000 +0000">
     <title>Friends</title>
@@ -11597,7 +11620,7 @@
   </programme>
   <programme channel="tv.14" start="20180718050000 +0000" stop="20180718053000 +0000">
     <title>Fanimals</title>
-    <desc>We're at Henderson Pony Club for the school holidays! Plus we meet a cheeky pup at Dog School, show you how to make a reusable cup, and you could win a prize on Call of Nature!</desc>
+    <desc>We're at Henderson Valley Pony Club for the school holidays! Plus we meet Alfie the jumpy cavoodle at Dog School, show you how to make a reusable polar cup, and get ready to win on Call of Nature!</desc>
   </programme>
   <programme channel="tv.14" start="20180718053000 +0000" stop="20180718060000 +0000">
     <title>Friends</title>
@@ -19123,7 +19146,7 @@
   </programme>
   <programme channel="tv.55" start="20180718083000 +0000" stop="20180718090000 +0000">
     <title>New: Wild Kai Legends</title>
-    <desc>Tonight, we go on a hunting mission with Baldy Haitana just outside of Taumaranui Jacks. Pig and deer are on the menu.</desc>
+    <desc>Season Final. Tonight, we go on a hunting mission with Baldy Haitana just outside of Taumaranui Jacks. Pig and deer are on the menu.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -19137,7 +19160,7 @@
   </programme>
   <programme channel="tv.55" start="20180718114000 +0000" stop="20180718121000 +0000">
     <title>Wild Kai Legends</title>
-    <desc>Tonight, we go on a hunting mission with Baldy Haitana just outside of Taumaranui Jacks. Pig and deer are on the menu.</desc>
+    <desc>Season Final. Tonight, we go on a hunting mission with Baldy Haitana just outside of Taumaranui Jacks. Pig and deer are on the menu.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -57314,14 +57337,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180717093100 +0000" stop="20180717103900 +0000">
-    <title>Sunday Night</title>
+    <title>Endless Summer 30 Years of Home and Away</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180717103900 +0000" stop="20180717113900 +0000">
-    <title>Andrew Denton: Interview</title>
+    <title>Interview</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
