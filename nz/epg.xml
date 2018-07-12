@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180712033727 +0000" stop="20180712043327 +0000">
-    <title>The Battle of Cape Fear</title>
-    <desc>The world's elite big wave surfers gather to tackle the fierce waves at the daunting Cape Fear event.</desc>
-    <sub-title>A Surfing Documentary</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180712043327 +0000" stop="20180712050049 +0000">
-    <title>The Road Trick S1E2</title>
-    <desc>Adam Trent is in Austria, to see what doors his magic can open for him. But will language lock him out?</desc>
-    <sub-title>Vienna</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180712050049 +0000" stop="20180712052808 +0000">
     <title>A Mountain Biker’s Hunt for Glory</title>
     <desc>Follow Nino from his youth as a child in a remote Swiss mountain village to his greatest victory yet.</desc>
@@ -1961,7 +1951,7 @@
     <title>1 News Tonight</title>
     <desc></desc>
   </programme>
-  <programme channel="tv.9" start="20180712111500 +0000" stop="20180712120500 +0000">
+  <programme channel="tv.9" start="20180712111500 +0000" stop="20180712121000 +0000">
     <title>Body Hack</title>
     <desc>S1 E4 Join Todd Sampson as he tackles some of the biggest challenges of his life using science as his guide. Today, Todd travels to the Himalayas to work with Sherpas 6,000m above sea level.</desc>
     <subtitles type="teletext"/>
@@ -1969,7 +1959,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180712120500 +0000" stop="20180712180000 +0000">
+  <programme channel="tv.9" start="20180712121000 +0000" stop="20180712180000 +0000">
     <title>Wimbledon Live Games</title>
     <desc>Live coverage from Day 10 of the 2018 Championships from the grass courts of Wimbledon in London, featuring the Ladies Singles Semi Finals.</desc>
   </programme>
@@ -2198,14 +2188,14 @@
     <title>Lotto</title>
     <desc></desc>
   </programme>
-  <programme channel="tv.9" start="20180714080500 +0000" stop="20180714083500 +0000">
+  <programme channel="tv.9" start="20180714080500 +0000" stop="20180714083000 +0000">
     <title>Britain's Got Talent Continued</title>
     <desc>After thousands applied and hundreds auditioned, the search reaches the live semi-finals. The final 40 acts now perform live in the hope of impressing the judges.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180714083500 +0000" stop="20180714093000 +0000">
+  <programme channel="tv.9" start="20180714083000 +0000" stop="20180714093000 +0000">
     <title>The Hotel Inspector</title>
     <desc>New Season: The Hotel Inspector imparts her wisdom on partners and fledgling hoteliers, John and Mel in the Merseyside resort of Southport.</desc>
     <rating system="Freeview">
@@ -2290,6 +2280,9 @@
     <title>Attitude</title>
     <desc>Three characters with three different medical reasons for wanting to use medicinal marijuana, take us on a journey that reveals how difficult it is to obtain ‘the miracle plant’ in New Zealand.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180714233000 +0000" stop="20180714235500 +0000">
     <title>Fair Go</title>
@@ -2339,10 +2332,13 @@
     <title>Hyundai Country Calendar</title>
     <desc>A Vintage Decision: After farming sheep for almost a hundred years, a family diversifies into wine. The Marlborough grape growers are also keen birders and members of the ornithological society.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180715073000 +0000" stop="20180715083000 +0000">
     <title>Sunday</title>
-    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe.</desc>
+    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe. Tonight, plastic transformed our lives – but now, we’re drowning in it.</desc>
   </programme>
   <programme channel="tv.9" start="20180715083000 +0000" stop="20180715103000 +0000">
     <title>Mistress, Mercy</title>
@@ -2450,7 +2446,7 @@
   </programme>
   <programme channel="tv.9" start="20180716073000 +0000" stop="20180716080000 +0000">
     <title>Fair Go</title>
-    <desc>Join Pippa Wetzell, Hadyn Jones and the Fair Go team as they stand up for the underdogs and consumer rights!</desc>
+    <desc>Tonight, the eyesore of a shed at the centre of a neighbourly dispute. Tauranga's high-tech parking system and the sharp eyed local crying foul. Plus, the unwritten rules of airplane etiquette.</desc>
   </programme>
   <programme channel="tv.9" start="20180716080000 +0000" stop="20180716083000 +0000">
     <title>Highway Cops</title>
@@ -2491,40 +2487,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.9" start="20180716130000 +0000" stop="20180716133000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180716133000 +0000" stop="20180716140000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180716140000 +0000" stop="20180716143000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180716143000 +0000" stop="20180716150000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180716150000 +0000" stop="20180716153000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180716153000 +0000" stop="20180716160500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180716160500 +0000" stop="20180716163000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180716163000 +0000" stop="20180716170500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180716170500 +0000" stop="20180716173500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180716130000 +0000" stop="20180716173500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.9" start="20180716173500 +0000" stop="20180716180000 +0000">
@@ -2660,40 +2624,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.9" start="20180717131500 +0000" stop="20180717134500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180717134500 +0000" stop="20180717141000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180717141000 +0000" stop="20180717144000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180717144000 +0000" stop="20180717151000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180717151000 +0000" stop="20180717153500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180717153500 +0000" stop="20180717160500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180717160500 +0000" stop="20180717163500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180717163500 +0000" stop="20180717170500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180717170500 +0000" stop="20180717173500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180717131500 +0000" stop="20180717173500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.9" start="20180717173500 +0000" stop="20180717180000 +0000">
@@ -2829,40 +2761,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.9" start="20180718131500 +0000" stop="20180718134500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180718134500 +0000" stop="20180718141500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180718141500 +0000" stop="20180718144000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180718144000 +0000" stop="20180718151000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180718151000 +0000" stop="20180718154000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180718154000 +0000" stop="20180718160500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180718160500 +0000" stop="20180718163500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180718163500 +0000" stop="20180718170500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20180718170500 +0000" stop="20180718173500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20180718131500 +0000" stop="20180718173500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.9" start="20180718173500 +0000" stop="20180718180000 +0000">
@@ -3059,7 +2959,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180711173000 +0000" stop="20180711183000 +0000">
+  <programme channel="tv.10" start="20180711173000 +0000" stop="20180711180000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.10" start="20180711180000 +0000" stop="20180711183000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -3164,6 +3068,9 @@
       <stereo>dolby</stereo>
     </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180712000500 +0000" stop="20180712010500 +0000">
     <title>Jeremy Kyle</title>
@@ -4088,6 +3995,9 @@
   <programme channel="tv.10" start="20180715030000 +0000" stop="20180715050000 +0000">
     <title>Home And Away</title>
     <desc>Tori and Jasmine race against time to save Colby. Robbo fights to clear his name. Can Ben pull off a miracle before the wedding?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180715050000 +0000" stop="20180715053000 +0000">
     <title>The Simpsons</title>
@@ -4130,6 +4040,9 @@
     <title>Survivor New Zealand</title>
     <desc>Tonight, the tribe is down to five and Adam and Tess know that Lisa, Tess and Dave have a strong alliance. Will they be able to break that alliance down, or will one of them be going home?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180715083000 +0000" stop="20180715110500 +0000">
     <title>Man Of Steel</title>
@@ -4215,7 +4128,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180715173000 +0000" stop="20180715180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180715180000 +0000" stop="20180715183000 +0000">
@@ -4287,16 +4200,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180715210000 +0000" stop="20180715213000 +0000">
-    <title>Infomercial 0900</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180715213000 +0000" stop="20180715220000 +0000">
+  <programme channel="tv.10" start="20180715210000 +0000" stop="20180715223000 +0000">
     <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180715220000 +0000" stop="20180715223000 +0000">
-    <title>Infomercial 1000</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180715223000 +0000" stop="20180715230000 +0000">
@@ -4487,11 +4392,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180716132500 +0000" stop="20180716140000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180716140000 +0000" stop="20180716143000 +0000">
+  <programme channel="tv.10" start="20180716132500 +0000" stop="20180716143000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -4533,12 +4434,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180716173000 +0000" stop="20180716180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180716180000 +0000" stop="20180716183000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.10" start="20180716173000 +0000" stop="20180716183000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180716183000 +0000" stop="20180716184000 +0000">
@@ -4607,7 +4504,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180716210000 +0000" stop="20180716213000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180716213000 +0000" stop="20180716220000 +0000">
@@ -4618,7 +4515,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180716220000 +0000" stop="20180716223000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180716223000 +0000" stop="20180716230500 +0000">
@@ -4827,11 +4724,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180717133000 +0000" stop="20180717140500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180717140500 +0000" stop="20180717144000 +0000">
+  <programme channel="tv.10" start="20180717133000 +0000" stop="20180717144000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -4864,7 +4757,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180717173000 +0000" stop="20180717180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180717180000 +0000" stop="20180717183000 +0000">
@@ -5053,9 +4946,6 @@
   <programme channel="tv.10" start="20180718063000 +0000" stop="20180718070000 +0000">
     <title>Neighbours</title>
     <desc>Karl is set up. Mishti's reckless action may end her career. A missed clue puts Xanthe in danger.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.10" start="20180718070000 +0000" stop="20180718073000 +0000">
     <title>Shortland Street</title>
@@ -5139,9 +5029,9 @@
   <programme channel="tv.10" start="20180718121000 +0000" stop="20180718125500 +0000">
     <title>Private Practice</title>
     <desc>In trying to fix the financial troubles at Oceanside Wellness, Addison puts the practice in peril. Violet must choose whether or not to break the law for a friend.</desc>
-    <audio>
-      <stereo>dolby</stereo>
-    </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180718125500 +0000" stop="20180718132000 +0000">
     <title>Shortland Street</title>
@@ -5154,11 +5044,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180718132000 +0000" stop="20180718135500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180718135500 +0000" stop="20180718142500 +0000">
+  <programme channel="tv.10" start="20180718132000 +0000" stop="20180718142500 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -5200,12 +5086,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180718173000 +0000" stop="20180718180000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20180718180000 +0000" stop="20180718183000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.10" start="20180718173000 +0000" stop="20180718183000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180718183000 +0000" stop="20180718184000 +0000">
@@ -5271,7 +5153,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180718210000 +0000" stop="20180718213000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180718213000 +0000" stop="20180718220000 +0000">
@@ -5282,7 +5164,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180718220000 +0000" stop="20180718223000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.10" start="20180718223000 +0000" stop="20180718230500 +0000">
@@ -10015,7 +9897,7 @@
   </programme>
   <programme channel="tv.38" start="20180716083000 +0000" stop="20180716090000 +0000">
     <title>Fair Go</title>
-    <desc>Join Pippa Wetzell, Hadyn Jones and the Fair Go team as they stand up for the underdogs and consumer rights!</desc>
+    <desc>Tonight, the eyesore of a shed at the centre of a neighbourly dispute. Tauranga's high-tech parking system and the sharp eyed local crying foul. Plus, the unwritten rules of airplane etiquette.</desc>
   </programme>
   <programme channel="tv.38" start="20180716090000 +0000" stop="20180716093000 +0000">
     <title>Highway Cops</title>
@@ -10056,40 +9938,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.38" start="20180716140000 +0000" stop="20180716143000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180716143000 +0000" stop="20180716150000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180716150000 +0000" stop="20180716153000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180716153000 +0000" stop="20180716160000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180716160000 +0000" stop="20180716163000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180716163000 +0000" stop="20180716170500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180716170500 +0000" stop="20180716173000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180716173000 +0000" stop="20180716180500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180716180500 +0000" stop="20180716183500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180716140000 +0000" stop="20180716183500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.38" start="20180716183500 +0000" stop="20180716190000 +0000">
@@ -10225,40 +10075,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.38" start="20180717141500 +0000" stop="20180717144500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180717144500 +0000" stop="20180717151000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180717151000 +0000" stop="20180717154000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180717154000 +0000" stop="20180717161000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180717161000 +0000" stop="20180717163500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180717163500 +0000" stop="20180717170500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180717170500 +0000" stop="20180717173500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180717173500 +0000" stop="20180717180500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180717180500 +0000" stop="20180717183500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180717141500 +0000" stop="20180717183500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.38" start="20180717183500 +0000" stop="20180717190000 +0000">
@@ -10394,40 +10212,8 @@
     <title>Te Karere</title>
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
   </programme>
-  <programme channel="tv.38" start="20180718141500 +0000" stop="20180718144500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180718144500 +0000" stop="20180718151500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180718151500 +0000" stop="20180718154000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180718154000 +0000" stop="20180718161000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180718161000 +0000" stop="20180718164000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180718164000 +0000" stop="20180718170500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180718170500 +0000" stop="20180718173500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180718173500 +0000" stop="20180718180500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20180718180500 +0000" stop="20180718183500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20180718141500 +0000" stop="20180718183500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.38" start="20180718183500 +0000" stop="20180718190000 +0000">
@@ -10618,7 +10404,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180711183000 +0000" stop="20180711193000 +0000">
+  <programme channel="tv.14" start="20180711183000 +0000" stop="20180711190000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+  </programme>
+  <programme channel="tv.14" start="20180711190000 +0000" stop="20180711193000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -11509,6 +11299,9 @@
   <programme channel="tv.14" start="20180715040000 +0000" stop="20180715060000 +0000">
     <title>Home And Away</title>
     <desc>Tori and Jasmine race against time to save Colby. Robbo fights to clear his name. Can Ben pull off a miracle before the wedding?</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180715060000 +0000" stop="20180715063000 +0000">
     <title>The Simpsons</title>
@@ -11542,6 +11335,9 @@
     <title>Survivor New Zealand</title>
     <desc>Tonight, the tribe is down to five and Adam and Tess know that Lisa, Tess and Dave have a strong alliance. Will they be able to break that alliance down, or will one of them be going home?</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180715093000 +0000" stop="20180715120500 +0000">
     <title>Man Of Steel</title>
@@ -11612,7 +11408,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180715183000 +0000" stop="20180715190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180715190000 +0000" stop="20180715193000 +0000">
@@ -11675,16 +11471,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180715220000 +0000" stop="20180715223000 +0000">
-    <title>Infomercial 0900</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180715223000 +0000" stop="20180715230000 +0000">
+  <programme channel="tv.14" start="20180715220000 +0000" stop="20180715233000 +0000">
     <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180715230000 +0000" stop="20180715233000 +0000">
-    <title>Infomercial 1000</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180715233000 +0000" stop="20180716000000 +0000">
@@ -11848,11 +11636,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180716142500 +0000" stop="20180716150000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180716150000 +0000" stop="20180716153000 +0000">
+  <programme channel="tv.14" start="20180716142500 +0000" stop="20180716153000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -11891,12 +11675,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180716183000 +0000" stop="20180716190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180716190000 +0000" stop="20180716193000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.14" start="20180716183000 +0000" stop="20180716193000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180716193000 +0000" stop="20180716194000 +0000">
@@ -11956,7 +11736,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180716220000 +0000" stop="20180716223000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180716223000 +0000" stop="20180716230000 +0000">
@@ -11967,7 +11747,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180716230000 +0000" stop="20180716233000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180716233000 +0000" stop="20180717000500 +0000">
@@ -12140,11 +11920,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180717143000 +0000" stop="20180717150500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180717150500 +0000" stop="20180717154000 +0000">
+  <programme channel="tv.14" start="20180717143000 +0000" stop="20180717154000 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -12177,7 +11953,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180717183000 +0000" stop="20180717190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180717190000 +0000" stop="20180717193000 +0000">
@@ -12348,9 +12124,6 @@
   <programme channel="tv.14" start="20180718073000 +0000" stop="20180718080000 +0000">
     <title>Neighbours</title>
     <desc>Karl is set up. Mishti's reckless action may end her career. A missed clue puts Xanthe in danger.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.14" start="20180718080000 +0000" stop="20180718083000 +0000">
     <title>Shortland Street</title>
@@ -12413,6 +12186,9 @@
   <programme channel="tv.14" start="20180718131000 +0000" stop="20180718135500 +0000">
     <title>Private Practice</title>
     <desc>In trying to fix the financial troubles at Oceanside Wellness, Addison puts the practice in peril. Violet must choose whether or not to break the law for a friend.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180718135500 +0000" stop="20180718142000 +0000">
     <title>Shortland Street</title>
@@ -12422,11 +12198,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180718142000 +0000" stop="20180718145500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180718145500 +0000" stop="20180718152500 +0000">
+  <programme channel="tv.14" start="20180718142000 +0000" stop="20180718152500 +0000">
     <title>Infomercial</title>
     <desc></desc>
   </programme>
@@ -12465,12 +12237,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180718183000 +0000" stop="20180718190000 +0000">
-    <title>Infomercials 5:30am Sun- Thu</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20180718190000 +0000" stop="20180718193000 +0000">
-    <title>Infomercial 6am</title>
+  <programme channel="tv.14" start="20180718183000 +0000" stop="20180718193000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180718193000 +0000" stop="20180718194000 +0000">
@@ -12530,7 +12298,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180718220000 +0000" stop="20180718223000 +0000">
-    <title>Infomercial 0900</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180718223000 +0000" stop="20180718230000 +0000">
@@ -12541,7 +12309,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180718230000 +0000" stop="20180718233000 +0000">
-    <title>Infomercial 1000</title>
+    <title>Infomercial</title>
     <desc></desc>
   </programme>
   <programme channel="tv.14" start="20180718233000 +0000" stop="20180719000500 +0000">
