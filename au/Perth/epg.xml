@@ -9226,18 +9226,18 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20180713163500 +0000" stop="20180713170300 +0000">
-    <title>Extra</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204600461" start="20180713163500 +0000" stop="20180713173300 +0000">
     <title>Chicago Med</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600461" start="20180713163500 +0000" stop="20180713170300 +0000">
+    <title>Extra</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180713173300 +0000" stop="20180713180200 +0000">
@@ -17417,17 +17417,17 @@
     </rating>
   </programme>
   <programme channel="tv.101305060560" start="20180713200000 +0000" stop="20180713210100 +0000">
-    <title>The Great Outdoors</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305060560" start="20180713200000 +0000" stop="20180713210100 +0000">
     <title>House of Wellness</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305060560" start="20180713200000 +0000" stop="20180713210100 +0000">
+    <title>The Great Outdoors</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305060560" start="20180713210100 +0000" stop="20180713230000 +0000">
@@ -32308,16 +32308,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180718032500 +0000" stop="20180718040000 +0000">
-    <title>VICE</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000302" start="20180718032500 +0000" stop="20180718042500 +0000">
     <title>Over the Black Dot</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180718032500 +0000" stop="20180718040000 +0000">
+    <title>VICE</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180718040000 +0000" stop="20180718042500 +0000">
@@ -37236,11 +37236,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180713021247 +0000" stop="20180713034559 +0000">
-    <title>Fandom</title>
-    <desc>Christian Slater narrates a look inside the massive phenomenon of fantasy football.</desc>
-    <sub-title>The Fantasy Football Movie</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180713034559 +0000" stop="20180713043845 +0000">
     <title>Archaic Festivals S1E5</title>
