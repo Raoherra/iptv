@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180713133817 +0000" stop="20180713151119 +0000">
-    <title>Fandom</title>
-    <desc>Christian Slater narrates a look inside the massive phenomenon of fantasy football.</desc>
-    <sub-title>The Fantasy Football Movie</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180713151119 +0000" stop="20180713160346 +0000">
-    <title>Archaic Festivals S1E5</title>
-    <desc>The ancestral heritage of the Ifugao of the Philippines is preserved in their Gotad-Ad Kiangan festival.</desc>
-    <sub-title>Gotad Ad Kiangan</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180713160346 +0000" stop="20180713163441 +0000">
     <title>Mountain Biking to the Top</title>
     <desc>Facing altitude challenges and health risks, a team of mountain bikers explore Tanzania's Mount Kilimanjaro.</desc>
@@ -36541,12 +36531,41 @@
     <title>Europe in Concert</title>
     <desc>Top Acts Live George Dalaras</desc>
   </programme>
-  <programme channel="tv.41" start="20180714010000 +0000" stop="20180714043000 +0000">
+  <programme channel="tv.41" start="20180714010000 +0000" stop="20180714020000 +0000">
     <title>Council Matters</title>
     <desc>Coverage of the Dunedin City Council's Council Meetings.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
+  </programme>
+  <programme channel="tv.41" start="20180714020000 +0000" stop="20180714023000 +0000">
+    <title>National Geographic - LIVE</title>
+    <desc>National Geographic LIVE documentary series.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.41" start="20180714023000 +0000" stop="20180714030000 +0000">
+    <title>Americas Heartland</title>
+    <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.41" start="20180714030000 +0000" stop="20180714033000 +0000">
+    <title>Kick Off! Countdown</title>
+    <desc>Kick off! Countdown bring the news, top names, the very latest from the German Bundesliga.</desc>
+  </programme>
+  <programme channel="tv.41" start="20180714033000 +0000" stop="20180714040000 +0000">
+    <title>Journeys In Time</title>
+    <desc>Journeys in Time hears from the archaeologists, the anthropologists and the historians who have extended the boundaries of what we know about our own past and our planetas history.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.41" start="20180714040000 +0000" stop="20180714043000 +0000">
+    <title>Talking Pictures</title>
+    <desc>A roundup of this weeks movie news from the USA.</desc>
   </programme>
   <programme channel="tv.41" start="20180714043000 +0000" stop="20180714050000 +0000">
     <title>Euromaxx</title>
@@ -36894,7 +36913,7 @@
   </programme>
   <programme channel="tv.41" start="20180716100000 +0000" stop="20180716110000 +0000">
     <title>Europe Concert Re-Run</title>
-    <desc></desc>
+    <desc>Top Acts Live</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
