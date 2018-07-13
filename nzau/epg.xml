@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180713053118 +0000" stop="20180713065453 +0000">
-    <title>Nervous Laughter</title>
-    <desc>See the story of how a group of friends from Maui's north shore shattered the ceiling of  big-wave surfing.</desc>
-    <sub-title>An inside look at the El Nino big wave season</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180713065453 +0000" stop="20180713065957 +0000">
-    <title>Chasing the Shot S1E1</title>
-    <desc>Pro surfer Mick Fanning and photographer Trevor Moran arrive in Norway to surf under the Aurora Borealis.</desc>
-    <sub-title>Aurora Borealis</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180713065957 +0000" stop="20180713071012 +0000">
     <title>No Contest S1E5</title>
     <desc>Lee Wilson takes us on a tour through his day as he heads out on the waves in Bali, Indonesia. </desc>
@@ -5412,10 +5402,16 @@
   <programme channel="tv.11" start="20180713090000 +0000" stop="20180713094500 +0000">
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Chopper, Joseph Moore, Laura Daniel and Pax Assadi.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180713094500 +0000" stop="20180713101500 +0000">
     <title>The Spinoff TV</title>
     <desc>New Episode. Our resident mad scientist Madeleine Chapman delves into the world of vitamins: are they full of goodness or full of crap? And we ask: can brown people use the N-word? S1 Ep4</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180713101500 +0000" stop="20180713104000 +0000">
     <title>Newshub Late</title>
@@ -5810,6 +5806,9 @@
   <programme channel="tv.11" start="20180716073000 +0000" stop="20180716083000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. The pressure is on as the teams are forced to tackle one of the toughest weeks on The Block: Bathroom Week. Later, a difference of opinion results in a spectacular Block battle. S7 Ep6</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180716083000 +0000" stop="20180716093500 +0000">
     <title>Westside</title>
@@ -5889,6 +5888,9 @@
   <programme channel="tv.11" start="20180717010000 +0000" stop="20180717020000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. The pressure is on as the teams are forced to tackle one of the toughest weeks on The Block: Bathroom Week. Later, a difference of opinion results in a spectacular Block battle. S7 Ep6</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180717020000 +0000" stop="20180717030000 +0000">
     <title>Wipeout</title>
@@ -6652,7 +6654,7 @@
   </programme>
   <programme channel="tv.12" start="20180714093000 +0000" stop="20180714104000 +0000">
     <title>Southern Charm</title>
-    <desc/>
+    <desc>After 5 years of constant tension, Patricia finally extends an olive branch and invites Kathryn to her Winter Ball.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -7464,11 +7466,8 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20180720033000 +0000" stop="20180720043000 +0000">
-    <title>Dance Moms</title>
-    <desc>Abby gives each girl one solo dance for the next competition. However, she gives two solos to her star dancer, Maddie, clearly providing her with an advantage over the others. S5 Ep1</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
+    <title>Clean House</title>
+    <desc>Niecy Nash and her team of experts come to the aid of a family who has a serious shopping addiction. We make-over the master bedroom and family room and organize the closet.</desc>
   </programme>
   <programme channel="tv.12" start="20180720043000 +0000" stop="20180720053000 +0000">
     <title>Child Genius USA</title>
@@ -12528,10 +12527,16 @@
   <programme channel="tv.27" start="20180713100000 +0000" stop="20180713104500 +0000">
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Chopper, Joseph Moore, Laura Daniel and Pax Assadi.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180713104500 +0000" stop="20180713111500 +0000">
     <title>The Spinoff TV</title>
     <desc>New Episode. Our resident mad scientist Madeleine Chapman delves into the world of vitamins: are they full of goodness or full of crap? And we ask: can brown people use the N-word? S1 Ep4</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180713111500 +0000" stop="20180713114000 +0000">
     <title>Newshub Late</title>
@@ -12905,6 +12910,9 @@
   <programme channel="tv.27" start="20180716083000 +0000" stop="20180716093000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. The pressure is on as the teams are forced to tackle one of the toughest weeks on The Block: Bathroom Week. Later, a difference of opinion results in a spectacular Block battle. S7 Ep6</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180716093000 +0000" stop="20180716103500 +0000">
     <title>Westside</title>
@@ -12981,6 +12989,9 @@
   <programme channel="tv.27" start="20180717020000 +0000" stop="20180717030000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. The pressure is on as the teams are forced to tackle one of the toughest weeks on The Block: Bathroom Week. Later, a difference of opinion results in a spectacular Block battle. S7 Ep6</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180717030000 +0000" stop="20180717040000 +0000">
     <title>Wipeout</title>
@@ -13702,7 +13713,7 @@
   </programme>
   <programme channel="tv.30" start="20180714103000 +0000" stop="20180714114000 +0000">
     <title>Southern Charm</title>
-    <desc/>
+    <desc>After 5 years of constant tension, Patricia finally extends an olive branch and invites Kathryn to her Winter Ball.</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -14514,11 +14525,8 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20180720043000 +0000" stop="20180720053000 +0000">
-    <title>Dance Moms</title>
-    <desc>Abby gives each girl one solo dance for the next competition. However, she gives two solos to her star dancer, Maddie, clearly providing her with an advantage over the others. S5 Ep1</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
+    <title>Clean House</title>
+    <desc>Niecy Nash and her team of experts come to the aid of a family who has a serious shopping addiction. We make-over the master bedroom and family room and organize the closet.</desc>
   </programme>
   <programme channel="tv.30" start="20180720053000 +0000" stop="20180720063000 +0000">
     <title>Child Genius USA</title>
@@ -74181,7 +74189,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180715063000 +0000" stop="20180715072500 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
+    <title>Bizarre Foods With Andrew Zimmern</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
