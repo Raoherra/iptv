@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180713050053 +0000" stop="20180713053118 +0000">
-    <title>Road to 55</title>
-    <desc>Experience the 2014 Formula One racing season with Carlos Sainz as he strives to become a top driver.</desc>
-    <sub-title>The Drive to Become a Formula One Racer</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180713053118 +0000" stop="20180713065453 +0000">
     <title>Nervous Laughter</title>
     <desc>See the story of how a group of friends from Maui's north shore shattered the ceiling of  big-wave surfing.</desc>
@@ -14775,9 +14770,16 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180714013000 +0000" stop="20180714023000 +0000">
+  <programme channel="tv.28" start="20180714013000 +0000" stop="20180714020000 +0000">
     <title>NRL Try Time</title>
     <desc>Missed the latest NRL action? Lara Pitt showcases the best tries from the NRL Telstra Premiership in a jam-packed hour. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.28" start="20180714020000 +0000" stop="20180714023000 +0000">
+    <title>Hot Bench</title>
+    <desc>'Created by Judge Judy, courtroom drama gets turned on its head when not just one, but three judges exchange debate before rendering a verdict on the Hot Bench. G (R)'</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
