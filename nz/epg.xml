@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180713034559 +0000" stop="20180713043845 +0000">
-    <title>Archaic Festivals S1E5</title>
-    <desc>The ancestral heritage of the Ifugao of the Philippines is preserved in their Gotad-Ad Kiangan festival.</desc>
-    <sub-title>Gotad Ad Kiangan</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180713043845 +0000" stop="20180713050053 +0000">
-    <title>Reel Rock S1E10</title>
-    <desc>Hazel Findlay is smashing the stereotype of a 'traditional British climber' and sending it as hard as the men.</desc>
-    <sub-title>Spice Girl</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180713050053 +0000" stop="20180713053118 +0000">
     <title>Road to 55</title>
     <desc>Experience the 2014 Formula One racing season with Carlos Sainz as he strives to become a top driver.</desc>
@@ -3771,6 +3761,9 @@
   <programme channel="tv.10" start="20180716040000 +0000" stop="20180716043000 +0000">
     <title>Fanimals</title>
     <desc>We're at Henderson Valley Pony Club for the school holidays! Plus we meet Olly and his incredible bugs, show you how to make toilet roll leaf stamps, and your Animal Lookalike pic could win a prize!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180716043000 +0000" stop="20180716050000 +0000">
     <title>Friends</title>
@@ -3792,6 +3785,9 @@
   <programme channel="tv.10" start="20180716053000 +0000" stop="20180716060000 +0000">
     <title>Home And Away</title>
     <desc>Can John and Marilyn repair the cracks in their fragile family? Ziggy sacrifices her honeymoon to be with Maggie in her time of need.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180716060000 +0000" stop="20180716063000 +0000">
     <title>The Big Bang Theory</title>
@@ -4057,6 +4053,9 @@
   <programme channel="tv.10" start="20180717023000 +0000" stop="20180717030000 +0000">
     <title>Home And Away</title>
     <desc>Can John and Marilyn repair the cracks in their fragile family? Ziggy sacrifices her honeymoon to be with Maggie in her time of need.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180717030000 +0000" stop="20180717033000 +0000">
     <title>Shortland Street</title>
@@ -4110,6 +4109,9 @@
   <programme channel="tv.10" start="20180717053000 +0000" stop="20180717060000 +0000">
     <title>Home And Away</title>
     <desc>Dean’s plan to make quick cash takes an unexpected turn. Marilyn and John fight to keep their family together. Olivia and Hunter have “evolved” as friends.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180717060000 +0000" stop="20180717063000 +0000">
     <title>The Big Bang Theory</title>
@@ -4380,6 +4382,9 @@
   <programme channel="tv.10" start="20180718023000 +0000" stop="20180718030000 +0000">
     <title>Home And Away</title>
     <desc>Dean’s plan to make quick cash takes an unexpected turn. Marilyn and John fight to keep their family together. Olivia and Hunter have “evolved” as friends.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180718030000 +0000" stop="20180718033000 +0000">
     <title>Shortland Street</title>
@@ -4444,6 +4449,9 @@
   <programme channel="tv.10" start="20180718063000 +0000" stop="20180718070000 +0000">
     <title>Neighbours</title>
     <desc>Karl is set up. Mishti's reckless action may end her career. A missed clue puts Xanthe in danger.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180718070000 +0000" stop="20180718073000 +0000">
     <title>Shortland Street</title>
@@ -4527,8 +4535,11 @@
   <programme channel="tv.10" start="20180718121000 +0000" stop="20180718125500 +0000">
     <title>Private Practice</title>
     <desc>In trying to fix the financial troubles at Oceanside Wellness, Addison puts the practice in peril. Violet must choose whether or not to break the law for a friend.</desc>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>AO</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180718125500 +0000" stop="20180718132000 +0000">
@@ -11068,6 +11079,9 @@
   <programme channel="tv.14" start="20180716050000 +0000" stop="20180716053000 +0000">
     <title>Fanimals</title>
     <desc>We're at Henderson Valley Pony Club for the school holidays! Plus we meet Olly and his incredible bugs, show you how to make toilet roll leaf stamps, and your Animal Lookalike pic could win a prize!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180716053000 +0000" stop="20180716060000 +0000">
     <title>Friends</title>
@@ -11086,6 +11100,9 @@
   <programme channel="tv.14" start="20180716063000 +0000" stop="20180716070000 +0000">
     <title>Home And Away</title>
     <desc>Can John and Marilyn repair the cracks in their fragile family? Ziggy sacrifices her honeymoon to be with Maggie in her time of need.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180716070000 +0000" stop="20180716073000 +0000">
     <title>The Big Bang Theory</title>
@@ -11321,6 +11338,9 @@
   <programme channel="tv.14" start="20180717033000 +0000" stop="20180717040000 +0000">
     <title>Home And Away</title>
     <desc>Can John and Marilyn repair the cracks in their fragile family? Ziggy sacrifices her honeymoon to be with Maggie in her time of need.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180717040000 +0000" stop="20180717043000 +0000">
     <title>Shortland Street</title>
@@ -11365,6 +11385,9 @@
   <programme channel="tv.14" start="20180717063000 +0000" stop="20180717070000 +0000">
     <title>Home And Away</title>
     <desc>Dean’s plan to make quick cash takes an unexpected turn. Marilyn and John fight to keep their family together. Olivia and Hunter have “evolved” as friends.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180717070000 +0000" stop="20180717073000 +0000">
     <title>The Big Bang Theory</title>
@@ -11602,6 +11625,9 @@
   <programme channel="tv.14" start="20180718033000 +0000" stop="20180718040000 +0000">
     <title>Home And Away</title>
     <desc>Dean’s plan to make quick cash takes an unexpected turn. Marilyn and John fight to keep their family together. Olivia and Hunter have “evolved” as friends.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180718040000 +0000" stop="20180718043000 +0000">
     <title>Shortland Street</title>
@@ -11657,6 +11683,9 @@
   <programme channel="tv.14" start="20180718073000 +0000" stop="20180718080000 +0000">
     <title>Neighbours</title>
     <desc>Karl is set up. Mishti's reckless action may end her career. A missed clue puts Xanthe in danger.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180718080000 +0000" stop="20180718083000 +0000">
     <title>Shortland Street</title>
@@ -11720,7 +11749,7 @@
     <title>Private Practice</title>
     <desc>In trying to fix the financial troubles at Oceanside Wellness, Addison puts the practice in peril. Violet must choose whether or not to break the law for a friend.</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>AO</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180718135500 +0000" stop="20180718142000 +0000">
@@ -19220,7 +19249,7 @@
   </programme>
   <programme channel="tv.55" start="20180714083000 +0000" stop="20180714090000 +0000">
     <title>Wild Kai Legends</title>
-    <desc>Tonight, A diving mission to the Poor Knights Islands for some sight-seeing is followed by some spear-fishing off the Tutukaka coast with Luke Howe.</desc>
+    <desc>Tonight, a diving mission to the Poor Knights Islands for some sight-seeing is followed by some spear-fishing off the Tutukaka coast with Luke Howe.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -19530,7 +19559,7 @@
   </programme>
   <programme channel="tv.55" start="20180718011000 +0000" stop="20180718034000 +0000">
     <title>Wimbledon Men's Singles Final</title>
-    <desc></desc>
+    <desc>A look back at the overnight matches from Day 13 at the 2018 Championship in Wimbledon featuring the Men’s Singles Final and the Mixed Doubles Final.</desc>
   </programme>
   <programme channel="tv.55" start="20180718034000 +0000" stop="20180718043500 +0000">
     <title>Mythbusters</title>
