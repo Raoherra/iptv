@@ -161,26 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180713160346 +0000" stop="20180713163441 +0000">
-    <title>Mountain Biking to the Top</title>
-    <desc>Facing altitude challenges and health risks, a team of mountain bikers explore Tanzania's Mount Kilimanjaro.</desc>
-    <sub-title>Kilimanjaro: Mountain of Greatness</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180713163441 +0000" stop="20180713164357 +0000">
-    <title>MX Nation S2E2</title>
-    <desc>Motocross riders Adam Cianciarulo and Austin Forkner get started on the 2016 season. Both have much to prove.</desc>
-    <sub-title>Fathers and Sons</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180713164357 +0000" stop="20180713164815 +0000">
-    <title>Planet Moto S1E3</title>
-    <desc>Venturing into the realm where riders are racing at more than 300kph, this is look into Superbike racing.</desc>
-    <sub-title>The Superbike Rider</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180713164815 +0000" stop="20180713165619 +0000">
-    <title>Planet Moto S1E2</title>
-    <desc>Glimpse into the madness of motocross racing and learn why it's so physically demanding for its riders.</desc>
-    <sub-title>The Enduro Racer</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180713165619 +0000" stop="20180713171024 +0000">
     <title>No Contest S1E4</title>
     <desc>Hear the latest from the world's best surfers as many of them gather in Saquarema, Brazil. </desc>
@@ -14364,19 +14344,16 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180714013000 +0000" stop="20180714020000 +0000">
+  <programme channel="tv.28" start="20180714013000 +0000" stop="20180714020500 +0000">
     <title>NRL Try Time</title>
     <desc>Missed the latest NRL action? Lara Pitt showcases the best tries from the NRL Telstra Premiership in a jam-packed hour. G</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180714020000 +0000" stop="20180714023000 +0000">
+  <programme channel="tv.28" start="20180714020500 +0000" stop="20180714023000 +0000">
     <title>Hot Bench</title>
     <desc>'Created by Judge Judy, courtroom drama gets turned on its head when not just one, but three judges exchange debate before rendering a verdict on the Hot Bench. G (R)'</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.28" start="20180714023000 +0000" stop="20180714030000 +0000">
     <title>Storage Hunters</title>
@@ -14512,6 +14489,9 @@
   <programme channel="tv.28" start="20180715000000 +0000" stop="20180715003500 +0000">
     <title>2018 FIFA World Cup Russia</title>
     <desc>'As the action of the 2018 FIFA World Cup Russia nears its thrilling conclusion, catch the highlights from the third place playoff at Saint Petersburg Stadium. G'</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180715003500 +0000" stop="20180715010000 +0000">
     <title>Hot Bench</title>
@@ -14523,6 +14503,9 @@
   <programme channel="tv.28" start="20180715010000 +0000" stop="20180715020000 +0000">
     <title>Haati Grassroots Rugby</title>
     <desc>Join Haati Grassroots Rugby for a showcase of club rugby matches and homegrown stories from some of the 600 rugby clubs throughout New Zealand. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180715020000 +0000" stop="20180715023000 +0000">
     <title>Mad About You</title>
@@ -15393,9 +15376,6 @@
   <programme channel="tv.28" start="20180719033000 +0000" stop="20180719040000 +0000">
     <title>Jeopardy</title>
     <desc>'This is fast paced general knowledge at its best! Jeopardy provides a test of literature, history, science, the arts, pop culture and more. Can you keep up? G'</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.28" start="20180719040000 +0000" stop="20180719050000 +0000">
     <title>Antiques Roadshow</title>
@@ -24615,43 +24595,43 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180713163000 +0000" stop="20180713173000 +0000">
-    <title>Gems Of The Orient</title>
-    <desc>Transport yourself to a far-off land with our selection of gemstone jewellery, featuring the most exotic of stones from the Far East.</desc>
+    <title>HP Explore And Create</title>
+    <desc>Enjoy more shopping, more entertainment and more brands today on TVSN! Up next is iconic global brand HP with more ways for you to explore and create using the latest in their technological designs.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180713173000 +0000" stop="20180713183000 +0000">
-    <title>Lock &amp; Lock Clutter Free</title>
-    <desc>Lock 'N' Lock puts everything in its place, with a huge variety of airtight storage containers! Store, transport and organise, with a unique locking system that keeps food fresh for longer.</desc>
+    <title>ECOPot QuickPot</title>
+    <desc>A breakthrough cooking appliance that will revolutionise the way you prepare and eat meals and snacks. The EcoPot QuickPot will cook the perfect meal for you and then automatically keep it warm.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180713183000 +0000" stop="20180713193000 +0000">
-    <title>NEW Diamond Dotz Painting</title>
-    <desc>A phenomenal new way to craft! Create beautiful designs using the easy and all-inclusive craft kits, which product a visually stunning shimmer effect that it will have you eager to do more!</desc>
+    <title>LD &amp; Co Knitwear</title>
+    <desc>LD &amp; Co Knitwear is made from a gorgeous blend of merino wool and Italian yarn, owned and designed by the same Melbourne family for over thirty years. Stay warm with a laidback luxe edge this winter!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180713193000 +0000" stop="20180713203000 +0000">
-    <title>Ariane Poole Cosmetics</title>
-    <desc>A full range of colour cosmetics formulated to deliver great results whatever your age. Centred around the essentials of Prime, Correct &amp; Enhance.</desc>
+    <title>Alpha H Skin Resurfacing</title>
+    <desc>This glycolic-based skincare range is expertly formulated to penetrate the epidermis and shift old skin cells encourage cellular renewal stimulate collagen and smooth surface texture.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180713203000 +0000" stop="20180713213000 +0000">
-    <title>Ariane Poole Cosmetics</title>
-    <desc>A full range of colour cosmetics formulated to deliver great results whatever your age. Centred around the essentials of Prime, Correct &amp; Enhance.</desc>
+    <title>Marahlago Larimar</title>
+    <desc>One of nature's best kept secrets, Larimar comes from a remote mountain in the Caribbean. MarahLago settings are designed to celebrate the distinctive hues, patterns and natural wonder of each gem.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180713213000 +0000" stop="20180713223000 +0000">
-    <title>LD &amp; Co Knitwear</title>
-    <desc>LD &amp; Co Knitwear is made from a gorgeous blend of merino wool and Italian yarn, owned and designed by the same Melbourne family for over thirty years. Stay warm with a laidback luxe edge this winter!</desc>
+    <title>NEW Diamond Dotz Painting</title>
+    <desc>A phenomenal new way to craft! Create beautiful designs using the easy and all-inclusive craft kits, which product a visually stunning shimmer effect that it will have you eager to do more!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -24672,14 +24652,14 @@
   </programme>
   <programme channel="tv.45" start="20180714003000 +0000" stop="20180714013000 +0000">
     <title>Nick Chavez Haircare</title>
-    <desc>Look like you just stepped off the runway with Nick Chavez?s line of professional-quality haircare. Chavez is helping women achieve that everyday gorgeous with healthy looking, beautiful hair.</desc>
+    <desc>Give your body the love it deserves! From clever cosmetics and miracle creams, to haircare rescues and the tan of your dreams, look no further than TVSN to get beautified from your head to your toes.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180714013000 +0000" stop="20180714023000 +0000">
     <title>Nick Chavez Haircare</title>
-    <desc>Look like you just stepped off the runway with Nick Chavez?s line of professional-quality haircare. Chavez is helping women achieve that everyday gorgeous with healthy looking, beautiful hair.</desc>
+    <desc>Give your body the love it deserves! From clever cosmetics and miracle creams, to haircare rescues and the tan of your dreams, look no further than TVSN to get beautified from your head to your toes.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -24714,7 +24694,7 @@
   </programme>
   <programme channel="tv.45" start="20180714063000 +0000" stop="20180714073000 +0000">
     <title>Nick Chavez Haircare</title>
-    <desc>Look like you just stepped off the runway with Nick Chavez?s line of professional-quality haircare. Chavez is helping women achieve that everyday gorgeous with healthy looking, beautiful hair.</desc>
+    <desc>Give your body the love it deserves! From clever cosmetics and miracle creams, to haircare rescues and the tan of your dreams, look no further than TVSN to get beautified from your head to your toes.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -24734,8 +24714,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180714093000 +0000" stop="20180714103000 +0000">
-    <title>Tefal 5th Anniversary</title>
-    <desc>Cook healthier, faster, smarter, easier! Kitchen wishes are granted with our impressive range of modern cooking appliances that make your life easier. Being a domestic goddess was never so easy!</desc>
+    <title>Magimix Cook Expert</title>
+    <desc>With this truly all-in-one Multifunction Thermo Cook Processor you?ve got it made? whip up everything from pesto to soup, risotto, bread and cake to yummy frozen desserts!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -24749,14 +24729,14 @@
   </programme>
   <programme channel="tv.45" start="20180714113000 +0000" stop="20180714123000 +0000">
     <title>Nick Chavez Haircare</title>
-    <desc>Look like you just stepped off the runway with Nick Chavez?s line of professional-quality haircare. Chavez is helping women achieve that everyday gorgeous with healthy looking, beautiful hair.</desc>
+    <desc>Give your body the love it deserves! From clever cosmetics and miracle creams, to haircare rescues and the tan of your dreams, look no further than TVSN to get beautified from your head to your toes.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180714123000 +0000" stop="20180714133000 +0000">
     <title>Nick Chavez Haircare</title>
-    <desc>Look like you just stepped off the runway with Nick Chavez?s line of professional-quality haircare. Chavez is helping women achieve that everyday gorgeous with healthy looking, beautiful hair.</desc>
+    <desc>Give your body the love it deserves! From clever cosmetics and miracle creams, to haircare rescues and the tan of your dreams, look no further than TVSN to get beautified from your head to your toes.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
