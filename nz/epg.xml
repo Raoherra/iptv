@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180714030359 +0000" stop="20180714043358 +0000">
-    <title>Our Vinyl Weighs a Ton</title>
-    <desc>A basement label that winds up shifting musical culture, Stones Throw Records' story is heavy on passion.</desc>
-    <sub-title>This Is Stones Throw Records</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180714043358 +0000" stop="20180714050051 +0000">
-    <title>The Road Trick S1E2</title>
-    <desc>Adam Trent is in Austria, to see what doors his magic can open for him. But will language lock him out?</desc>
-    <sub-title>Vienna</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180714050051 +0000" stop="20180714054443 +0000">
     <title>Follow the Fraser</title>
     <desc>Three professional mountain bikers travel north through Canada, riding their way toward the unknown.</desc>
@@ -1538,7 +1528,7 @@
   </programme>
   <programme channel="tv.9" start="20180714124500 +0000" stop="20180714180000 +0000">
     <title>Wimbledon Live Games</title>
-    <desc>Live coverage continues with Day 12 of the 2018 Championships from the grass courts of Wimbledon in London featuring the Ladies Singles Final and the Men’s Doubles Final.</desc>
+    <desc>Live coverage continues with Day 12 of the 2018 Championships including the continuation of Nadal v Djokovic, the Ladies Singles Final and the Men’s Doubles Final.</desc>
   </programme>
   <programme channel="tv.9" start="20180714180000 +0000" stop="20180714185000 +0000">
     <title>This Town</title>
@@ -1908,6 +1898,9 @@
     <title>I Am</title>
     <desc>This week we follow Daryl’s traumatic yet inspirational story of how he spent the first 18 years of his life in foster care.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180717093000 +0000" stop="20180717103000 +0000">
     <title>Under The Influence</title>
@@ -3839,6 +3832,9 @@
   <programme channel="tv.10" start="20180718040000 +0000" stop="20180718043000 +0000">
     <title>Fanimals</title>
     <desc>We're at Henderson Valley Pony Club for the school holidays! Plus we meet Alfie the jumpy cavoodle at Dog School, show you how to make a reusable polar cup, and get ready to win on Call of Nature!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180718043000 +0000" stop="20180718050000 +0000">
     <title>Friends</title>
@@ -8933,7 +8929,7 @@
   </programme>
   <programme channel="tv.38" start="20180714134500 +0000" stop="20180714190000 +0000">
     <title>Wimbledon Live Games</title>
-    <desc>Live coverage continues with Day 12 of the 2018 Championships from the grass courts of Wimbledon in London featuring the Ladies Singles Final and the Men’s Doubles Final.</desc>
+    <desc>Live coverage continues with Day 12 of the 2018 Championships including the continuation of Nadal v Djokovic, the Ladies Singles Final and the Men’s Doubles Final.</desc>
   </programme>
   <programme channel="tv.38" start="20180714190000 +0000" stop="20180714195000 +0000">
     <title>This Town</title>
@@ -9303,6 +9299,9 @@
     <title>I Am</title>
     <desc>This week we follow Daryl’s traumatic yet inspirational story of how he spent the first 18 years of his life in foster care.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180717103000 +0000" stop="20180717113000 +0000">
     <title>Under The Influence</title>
@@ -11059,6 +11058,9 @@
   <programme channel="tv.14" start="20180718050000 +0000" stop="20180718053000 +0000">
     <title>Fanimals</title>
     <desc>We're at Henderson Valley Pony Club for the school holidays! Plus we meet Alfie the jumpy cavoodle at Dog School, show you how to make a reusable polar cup, and get ready to win on Call of Nature!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180718053000 +0000" stop="20180718060000 +0000">
     <title>Friends</title>
@@ -18726,15 +18728,15 @@
   </programme>
   <programme channel="tv.55" start="20180714115500 +0000" stop="20180714180000 +0000">
     <title>Live: Wimbledon Day 12</title>
-    <desc>Live coverage continues with Day 12 of the 2018 Championships from the grass courts of Wimbledon in London featuring the Ladies Singles Final and the Men’s Doubles Final.</desc>
+    <desc>Live coverage continues with Day 12 of the 2018 Championships including the continuation of Nadal v Djokovic, the Ladies Singles Final and the Men’s Doubles Final.</desc>
   </programme>
   <programme channel="tv.55" start="20180714180000 +0000" stop="20180714193000 +0000">
     <title>Live: Wimbledon Day 12</title>
-    <desc>Live coverage continues with Day 12 of the 2018 Championships from the grass courts of Wimbledon in London featuring the Ladies Singles Final and the Men’s Doubles Final.</desc>
+    <desc>Live coverage continues with Day 12 of the 2018 Championships including the continuation of Nadal v Djokovic, the Ladies Singles Final and the Men’s Doubles Final.</desc>
   </programme>
   <programme channel="tv.55" start="20180714193000 +0000" stop="20180714220000 +0000">
     <title>Live: Formula E New York</title>
-    <desc></desc>
+    <desc>Live coverage as the ABB FIA Formula E Championship returns to Red Hook, Brooklyn for the double-header season finale 2018 Qatar Airways New York City E-Prix. Coverage continues with race 2 on Monday.</desc>
   </programme>
   <programme channel="tv.55" start="20180714220000 +0000" stop="20180715030000 +0000">
     <title>Wimbledon Replay</title>
