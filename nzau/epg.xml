@@ -280,21 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180714210335 +0000" stop="20180714211856 +0000">
-    <title>Out of Frame S2E1</title>
-    <desc>Seventeen-year-old Maja Kuczyńska is already more comfortable in the air than many career skydivers.</desc>
-    <sub-title>Maja Kuczyńska </sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180714211856 +0000" stop="20180714214434 +0000">
-    <title>Not Bad</title>
-    <desc>An FMB dream team chronicles a 30-day saga of mountain bike shredding and tomfoolery in New Zealand. </desc>
-    <sub-title>30 Days of Mountain Bike Tomfoolery</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180714214434 +0000" stop="20180714214903 +0000">
-    <title>Danny MacAskill in Scotland</title>
-    <desc>Danny MacAskill tears around rural Scotland, setting out to capture the simple fun of a ride in the country.</desc>
-    <sub-title>Wee Day Out</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180714214903 +0000" stop="20180714232132 +0000">
     <title>Fandom</title>
     <desc>Christian Slater narrates a look inside the massive phenomenon of fantasy football.</desc>
@@ -40166,7 +40151,8 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180715133000 +0000" stop="20180715140000 +0000">
-    <title>Close Of Business</title>
+    <title>Rescued: Into The Cave</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -41521,6 +41507,12 @@
   </programme>
   <programme channel="tv.101002210220" start="20180722133000 +0000" stop="20180722140000 +0000">
     <title>Close Of Business</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180722140000 +0000" stop="20180722141500 +0000">
+    <title>ABC Late News</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -52962,6 +52954,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200424" start="20180722140000 +0000" stop="20180722150000 +0000">
+    <title>Fixer Upper</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200427" start="20180714114500 +0000" stop="20180714143300 +0000">
     <title>Licence to Kill</title>
     <subtitles type="teletext"/>
@@ -56585,8 +56583,8 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180717093100 +0000" stop="20180717103900 +0000">
-    <title>Sunday Night</title>
+  <programme channel="tv.101305020520" start="20180717093100 +0000" stop="20180717103800 +0000">
+    <title>Endless Summer 30 Years of Home and Away</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -58945,6 +58943,13 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020522" start="20180722140000 +0000" stop="20180722142900 +0000">
+    <title>Border Security: Australia's Front Line</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020523" start="20180714124500 +0000" stop="20180714144500 +0000">
     <title>Western Force World Series</title>
     <rating system="Freeview">
@@ -60977,7 +60982,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180717203100 +0000" stop="20180717210300 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -64060,6 +64065,13 @@
   </programme>
   <programme channel="tv.101305020528" start="20180722133000 +0000" stop="20180722140000 +0000">
     <title>More Than A Race</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180722140000 +0000" stop="20180722143000 +0000">
+    <title>Raceday Review - Bendigo</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -67241,6 +67253,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020625" start="20180722140000 +0000" stop="20180722150000 +0000">
+    <title>The Sunday Project</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180714133000 +0000" stop="20180714160000 +0000">
@@ -72656,7 +72675,7 @@
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180715063000 +0000" stop="20180715072500 +0000">
-    <title>Anthony Bourdain: No Reservations</title>
+    <title>Bizarre Foods With Andrew Zimmern</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -76806,6 +76825,12 @@
     <title>Full Circle</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180722140000 +0000" stop="20180722150000 +0000">
+    <title>Madiba: The Nelson Mandela Story</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   </tv>
