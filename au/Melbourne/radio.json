@@ -171,9 +171,9 @@
         "name": "3MDr",
         "description": "Mountain District Radio",
         "audio": {
-            "sample_rate": 32000,
+            "codec": "aac",
             "channels": 2,
-            "codec": "aac"
+            "sample_rate": 32000
         },
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.3mdr.png",
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.3mdr/m.aacp",
@@ -189,9 +189,9 @@
         "name": "3PBS",
         "description": "Independent Contemporary Radio",
         "audio": {
-            "sample_rate": 44100,
+            "codec": "aac",
             "channels": 2,
-            "codec": "aac"
+            "sample_rate": 44100
         },
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.3pbs.png",
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.3pbs/m.aacp",
@@ -207,9 +207,9 @@
         "name": "3RRR",
         "description": "Melbourne Independent Radio",
         "audio": {
-            "sample_rate": 44100,
+            "codec": "mp3",
             "channels": 2,
-            "codec": "mp3"
+            "sample_rate": 44100
         },
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.3rrr.png",
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.3rrr/m",
