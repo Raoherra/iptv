@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180716031017 +0000" stop="20180716043406 +0000">
-    <title>Chapter One</title>
-    <desc>The best kiteboard riders in the world come together to show off the sport’s breathtaking beauty.</desc>
-    <sub-title>The Kiteboarding Legacy Begins</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180716043406 +0000" stop="20180716050126 +0000">
-    <title>A History of... S1E1</title>
-    <desc>In 18th century Hawaii, a king and his warriors dived off a cliff – it was the origins of modern cliff diving.</desc>
-    <sub-title>The Sacred Leap</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180716050126 +0000" stop="20180716052712 +0000">
     <title>Not Bad</title>
     <desc>An FMB dream team chronicles a 30-day saga of mountain bike shredding and tomfoolery in New Zealand. </desc>
@@ -1605,6 +1595,9 @@
   <programme channel="tv.9" start="20180720003000 +0000" stop="20180720010000 +0000">
     <title>Emmerdale</title>
     <desc>Debbie submits to Joe’s demands. A shocking betrayal is revealed. Marlon backs himself into a corner.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180720010000 +0000" stop="20180720020000 +0000">
     <title>Coronation Street Catch-Up</title>
@@ -1877,7 +1870,7 @@
   </programme>
   <programme channel="tv.9" start="20180721200500 +0000" stop="20180721203500 +0000">
     <title>Praise Be</title>
-    <desc/>
+    <desc>Chris Nichol presents a programme of hymns and worship songs from throughout New Zealand.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -2674,6 +2667,9 @@
   <programme channel="tv.10" start="20180717040000 +0000" stop="20180717043000 +0000">
     <title>Fanimals</title>
     <desc>We're at Henderson Valley Pony Club for the school holidays! Plus we go on a mission to find some endangered sea lions, show you how to make a tui sugar water feeder, and play Trick for Treat!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180717043000 +0000" stop="20180717050000 +0000">
     <title>Friends</title>
@@ -3184,11 +3180,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180718173000 +0000" stop="20180718180000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20180718180000 +0000" stop="20180718183000 +0000">
+  <programme channel="tv.10" start="20180718173000 +0000" stop="20180718183000 +0000">
     <title>Infomercial</title>
     <desc/>
   </programme>
@@ -3636,7 +3628,7 @@
   </programme>
   <programme channel="tv.10" start="20180720033000 +0000" stop="20180720033500 +0000">
     <title>Chuggington: Little Trainees</title>
-    <desc>Choo choo! Catch a ride with Wilson, Koko and Brewster, the newest members of Chuggington crew. Along the track you'll visit the countryside, have fun, and learn new things!</desc>
+    <desc>Chuggington follows the adventures of three young trainee engines, Wilson, Brewster and Koko.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -9092,6 +9084,9 @@
   <programme channel="tv.38" start="20180720013000 +0000" stop="20180720020000 +0000">
     <title>Emmerdale</title>
     <desc>Debbie submits to Joe’s demands. A shocking betrayal is revealed. Marlon backs himself into a corner.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180720020000 +0000" stop="20180720030000 +0000">
     <title>Coronation Street Catch-Up</title>
@@ -9364,7 +9359,7 @@
   </programme>
   <programme channel="tv.38" start="20180721210500 +0000" stop="20180721213500 +0000">
     <title>Praise Be</title>
-    <desc/>
+    <desc>Chris Nichol presents a programme of hymns and worship songs from throughout New Zealand.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -10100,6 +10095,9 @@
   <programme channel="tv.14" start="20180717050000 +0000" stop="20180717053000 +0000">
     <title>Fanimals</title>
     <desc>We're at Henderson Valley Pony Club for the school holidays! Plus we go on a mission to find some endangered sea lions, show you how to make a tui sugar water feeder, and play Trick for Treat!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180717053000 +0000" stop="20180717060000 +0000">
     <title>Friends</title>
@@ -10659,7 +10657,7 @@
   </programme>
   <programme channel="tv.14" start="20180719043000 +0000" stop="20180719043500 +0000">
     <title>Chuggington: Little Trainees</title>
-    <desc>Choo choo! Catch a ride with Wilson, Koko and Brewster, the newest members of Chuggington crew. Along the track you'll visit the countryside, have fun, and learn new things!</desc>
+    <desc>Chuggington follows the adventures of three young trainee engines, Wilson, Brewster and Koko.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -10727,7 +10725,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180719093000 +0000" stop="20180719103000 +0000">
-    <title>Sensing Murder</title>
+    <title>All New Sensing Murder</title>
     <desc>Our new team of psychics are challenged to unmask the killer (or killers) of vivacious New Zealand hairdresser Paula Brown who was plucked from Sydney’s downtown after a night out with friends.</desc>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -10938,7 +10936,7 @@
   </programme>
   <programme channel="tv.14" start="20180720043000 +0000" stop="20180720043500 +0000">
     <title>Chuggington: Little Trainees</title>
-    <desc>Choo choo! Catch a ride with Wilson, Koko and Brewster, the newest members of Chuggington crew. Along the track you'll visit the countryside, have fun, and learn new things!</desc>
+    <desc>Chuggington follows the adventures of three young trainee engines, Wilson, Brewster and Koko.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -15067,6 +15065,9 @@
   <programme channel="tv.28" start="20180721013000 +0000" stop="20180721023000 +0000">
     <title>NRL Try Time</title>
     <desc>Missed the latest NRL action? Lara Pitt showcases the best tries from the NRL Telstra Premiership in a jam-packed hour. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180721023000 +0000" stop="20180721030000 +0000">
     <title>Storage Hunters</title>
@@ -15130,7 +15131,7 @@
   </programme>
   <programme channel="tv.28" start="20180721093000 +0000" stop="20180721113000 +0000">
     <title>Investec Super Rugby</title>
-    <desc>'As the action of the 2018 Investec Super Rugby season nears its end, catch the road to the finals as the teams enter the Qualifiers. Who will have what it takes to advance to the Semi-Finals? G'</desc>
+    <desc>'As the competition of the 2018 Investec Super Rugby season kicks into the Quarter Finals, catch the action from AMI Stadium as the Crusaders take on the Sharks. G'</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -18809,38 +18810,38 @@
     <title>On DUKE today...</title>
     <desc>Here's what's on DUKE today.</desc>
   </programme>
-  <programme channel="tv.55" start="20180718184500 +0000" stop="20180718211500 +0000">
+  <programme channel="tv.55" start="20180718184500 +0000" stop="20180718212500 +0000">
     <title>AFL - Adelaide v Geelong</title>
     <desc>Replay of the opening match of Round 17 as the Adelaide Crows host Geelong from the Adelaide Oval in Adelaide.</desc>
   </programme>
-  <programme channel="tv.55" start="20180718211500 +0000" stop="20180718214500 +0000">
+  <programme channel="tv.55" start="20180718212500 +0000" stop="20180718215500 +0000">
     <title>Doco: Race for the Planet</title>
     <desc>A Formula E car races over a 100m against a cheetah, the world’s fastest animal to promote the need to preserve wildlife.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20180718214500 +0000" stop="20180718221500 +0000">
+  <programme channel="tv.55" start="20180718215500 +0000" stop="20180718222500 +0000">
     <title>AFL Highlights</title>
     <desc>Highlights from the latest round of the 2018 AFL Season.</desc>
   </programme>
-  <programme channel="tv.55" start="20180718221500 +0000" stop="20180719004500 +0000">
+  <programme channel="tv.55" start="20180718222500 +0000" stop="20180719005500 +0000">
     <title>AFL - GWS v Richmond</title>
     <desc>Replay of Saturday’s match as the GWS Giants hosting Richmond from Spotless Stadium in Sydney.</desc>
   </programme>
-  <programme channel="tv.55" start="20180719004500 +0000" stop="20180719011500 +0000">
+  <programme channel="tv.55" start="20180719005500 +0000" stop="20180719012500 +0000">
     <title>MLS Highlights</title>
     <desc>Catch the highlights from the latest round of action from the MLS.</desc>
   </programme>
-  <programme channel="tv.55" start="20180719011500 +0000" stop="20180719014500 +0000">
+  <programme channel="tv.55" start="20180719012500 +0000" stop="20180719015500 +0000">
     <title>AFL Highlights</title>
     <desc>Highlights from the latest round of the 2018 AFL Season.</desc>
   </programme>
-  <programme channel="tv.55" start="20180719014500 +0000" stop="20180719024000 +0000">
+  <programme channel="tv.55" start="20180719015500 +0000" stop="20180719025000 +0000">
     <title>Formula E Highlights</title>
     <desc>Highlights of Race 11 from the streets of New York, featuring Kiwi driver Mitch Evans.</desc>
   </programme>
-  <programme channel="tv.55" start="20180719024000 +0000" stop="20180719034000 +0000">
+  <programme channel="tv.55" start="20180719025000 +0000" stop="20180719034000 +0000">
     <title>Wimbledon Highlights</title>
     <desc>Highlights from Day 12 of the Grand Slam tournament held on the grass courts of Wimbledon featuring the Ladies Singles Final and the Men’s Doubles Final.</desc>
   </programme>
@@ -18896,6 +18897,9 @@
   <programme channel="tv.55" start="20180719093000 +0000" stop="20180719100000 +0000">
     <title>New: Brainstorm</title>
     <desc>In this final episode Mikey Havoc, Shavaughan Ruakere, David Correos, Donna Brookbanks and Alan McElroy fight to the finish to claim the highly esteemed inaugural title of Grand Brainstorm Champion!</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180719100000 +0000" stop="20180719103000 +0000">
     <title>South Park</title>
@@ -19047,15 +19051,15 @@
     <desc>We'll catch you later on DUKE.</desc>
   </programme>
   <programme channel="tv.55" start="20180720170000 +0000" stop="20180720180000 +0000">
-    <title>Live: Rugby Sevens World Cup</title>
+    <title>Live: Rugby World Cup Sevens</title>
     <desc/>
   </programme>
   <programme channel="tv.55" start="20180720180000 +0000" stop="20180721000000 +0000">
-    <title>Live: Rugby Sevens World Cup</title>
+    <title>Live: Rugby World Cup Sevens</title>
     <desc>Live coverage continues of the opening day's action as both the New Zealand Men's and Women's teams defend their titles from AT&amp;T Park in San Francisco, California.</desc>
   </programme>
   <programme channel="tv.55" start="20180721000000 +0000" stop="20180721050000 +0000">
-    <title>Live: Rugby Sevens World Cup</title>
+    <title>Live: Rugby World Cup Sevens</title>
     <desc>Live coverage continues of the opening day's action as both the New Zealand Men's and Women's teams defend their titles from AT&amp;T Park in San Francisco, California.</desc>
   </programme>
   <programme channel="tv.55" start="20180721050000 +0000" stop="20180721053000 +0000">
@@ -19116,15 +19120,15 @@
     <desc>We'll catch you later on DUKE.</desc>
   </programme>
   <programme channel="tv.55" start="20180721163000 +0000" stop="20180721180000 +0000">
-    <title>Live: Rugby Sevens World Cup</title>
-    <desc/>
+    <title>Live: Rugby World Cup Sevens</title>
+    <desc>Live coverage of the second day’s action as both the New Zealand Men’s and Women’s teams are in action from AT&amp;T Park in San Francisco, California.</desc>
   </programme>
   <programme channel="tv.55" start="20180721180000 +0000" stop="20180722000000 +0000">
-    <title>Live: Rugby Sevens World Cup</title>
+    <title>Live: Rugby World Cup Sevens</title>
     <desc>Live coverage of the second day's action as both the New Zealand Men's and Women's teams are in action from AT&amp;T Park in San Francisco, California.</desc>
   </programme>
   <programme channel="tv.55" start="20180722000000 +0000" stop="20180722033000 +0000">
-    <title>Live: Rugby Sevens World Cup</title>
+    <title>Live: Rugby World Cup Sevens</title>
     <desc>Live coverage of the second day's action as both the New Zealand Men's and Women's teams are in action from AT&amp;T Park in San Francisco, California.</desc>
   </programme>
   <programme channel="tv.55" start="20180722033000 +0000" stop="20180722060000 +0000">
@@ -19176,16 +19180,16 @@
     <desc>We'll catch you later on DUKE.</desc>
   </programme>
   <programme channel="tv.55" start="20180722160000 +0000" stop="20180722180000 +0000">
-    <title>Live: Rugby Sevens World Cup</title>
-    <desc/>
+    <title>Live: Rugby World Cup Sevens</title>
+    <desc>Live coverage of the final day’s matches including the New Zealand Men’s team in action from AT&amp;T Park in San Francisco, California.</desc>
   </programme>
   <programme channel="tv.55" start="20180722180000 +0000" stop="20180723000000 +0000">
-    <title>Live: Rugby Sevens World Cup</title>
-    <desc/>
+    <title>Live: Rugby World Cup Sevens</title>
+    <desc>Live coverage continues with the final day’s matches including the New Zealand Men’s team in action from AT&amp;T Park in San Francisco, California.</desc>
   </programme>
   <programme channel="tv.55" start="20180723000000 +0000" stop="20180723010000 +0000">
-    <title>Live: Rugby Sevens World Cup</title>
-    <desc/>
+    <title>Live: Rugby World Cup Sevens</title>
+    <desc>Live coverage continues with the Bronze medal match and the Final from AT&amp;T Park in San Francisco, California.</desc>
   </programme>
   <programme channel="tv.55" start="20180723010000 +0000" stop="20180723011000 +0000">
     <title>On DUKE today...</title>
@@ -41704,10 +41708,11 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180716145200 +0000" stop="20180716174600 +0000">
-    <title>rage</title>
+  <programme channel="tv.101002210221" start="20180716145200 +0000" stop="20180716154900 +0000">
+    <title>The Musketeers</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20180716174600 +0000" stop="20180716181400 +0000">
@@ -56655,8 +56660,8 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180717093100 +0000" stop="20180717103900 +0000">
-    <title>Sunday Night</title>
+  <programme channel="tv.101305020520" start="20180717093100 +0000" stop="20180717103800 +0000">
+    <title>Endless Summer 30 Years of Home and Away</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -58179,8 +58184,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180718150000 +0000" stop="20180718160000 +0000">
-    <title>Auction Squad</title>
+  <programme channel="tv.101305020522" start="20180718150000 +0000" stop="20180718160300 +0000">
+    <title>RSPCA Animal Rescue</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -71681,10 +71686,10 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180718032500 +0000" stop="20180718040000 +0000">
-    <title>VICE</title>
+  <programme channel="tv.320203000302" start="20180718032500 +0000" stop="20180718042500 +0000">
+    <title>Over the Black Dot</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180718040000 +0000" stop="20180718042500 +0000">
