@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180717210041 +0000" stop="20180717211446 +0000">
-    <title>The Way of the Wildcard S1E4</title>
-    <desc>The drive of Irish brothers Gary and Paul O'Donovan and their love of rowing took them to the 2016 Olympics.</desc>
-    <sub-title>O'Donovan Brothers: From the Back of Beyond</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180717211446 +0000" stop="20180717215331 +0000">
-    <title>Paying the Price</title>
-    <desc>Follow Toby Price’s emotional journey from simple country kid to Australia’s first Dakar Rally champion.</desc>
-    <sub-title>Taking on the World's Toughest Enduro Race</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180717215331 +0000" stop="20180717223302 +0000">
     <title>Follow Me</title>
     <desc>Accompany an all-star cast of mountain bikers on their global journey to ride the best terrain they can find.</desc>
@@ -42050,6 +42040,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180725140000 +0000" stop="20180725143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180717130600 +0000" stop="20180717144800 +0000">
     <title>Helpmann Awards 2018</title>
     <subtitles type="teletext"/>
@@ -56884,6 +56881,12 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200428" start="20180725140000 +0000" stop="20180725143000 +0000">
+    <title>Balls of Steel Australia</title>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020520" start="20180717133700 +0000" stop="20180717143300 +0000">
     <title>Grimm</title>
     <subtitles type="teletext"/>
@@ -57354,10 +57357,10 @@
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180720180000 +0000" stop="20180720190100 +0000">
-    <title>House of Wellness</title>
+    <title>The Great Outdoors</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180720190100 +0000" stop="20180720210000 +0000">
@@ -58240,8 +58243,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180718150000 +0000" stop="20180718160300 +0000">
-    <title>RSPCA Animal Rescue</title>
+  <programme channel="tv.101305020522" start="20180718150000 +0000" stop="20180718160000 +0000">
+    <title>Auction Squad</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -59605,6 +59608,12 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020522" start="20180725140000 +0000" stop="20180725150000 +0000">
+    <title>Escape to the Country</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180717132900 +0000" stop="20180717140000 +0000">
@@ -61271,7 +61280,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180718203100 +0000" stop="20180718210300 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -61485,14 +61494,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180719200000 +0000" stop="20180719203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180719203100 +0000" stop="20180719210300 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -64838,6 +64847,13 @@
   </programme>
   <programme channel="tv.101305020528" start="20180725133000 +0000" stop="20180725140000 +0000">
     <title>After The Last</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180725140000 +0000" stop="20180725143000 +0000">
+    <title>Raceday Review - Ladbrokes Park</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -70327,6 +70343,13 @@
     <title>The Late Late Show with James Corden</title>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020628" start="20180725140000 +0000" stop="20180725143000 +0000">
+    <title>Everybody Loves Raymond</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180717113000 +0000" stop="20180717163000 +0000">
@@ -77843,6 +77866,12 @@
     <title>For the Kids</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180725140000 +0000" stop="20180725150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   </tv>
