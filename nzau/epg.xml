@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180718025809 +0000" stop="20180718043434 +0000">
-    <title>Turn It Loose</title>
-    <desc>Experience the pursuit of a breakdancing world championship through the eyes of six world-class b-boys.</desc>
-    <sub-title>Battle for a World Championship</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180718043434 +0000" stop="20180718050051 +0000">
-    <title>After the Raves S1E2</title>
-    <desc>In San Francisco, EDM blends technology and art for artists like DJ Chuckie, Hardkiss and The M Machine.</desc>
-    <sub-title>San Francisco: Future Music</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180718050053 +0000" stop="20180718052143 +0000">
     <title>Escape. Create.</title>
     <desc>Dan Atherton designs intense BMX trails for himself, his brother Gee, and his sister Rachel.</desc>
@@ -1594,7 +1584,7 @@
   </programme>
   <programme channel="tv.9" start="20180722073000 +0000" stop="20180722083000 +0000">
     <title>Sunday</title>
-    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe.</desc>
+    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe. Tonight, meet Christian and Mark on their journey to parenthood.</desc>
   </programme>
   <programme channel="tv.9" start="20180722083000 +0000" stop="20180722103500 +0000">
     <title>In Dark Places</title>
@@ -1886,6 +1876,9 @@
   <programme channel="tv.9" start="20180724045500 +0000" stop="20180724060000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180724060000 +0000" stop="20180724070000 +0000">
     <title>1 News At 6pm</title>
@@ -1913,6 +1906,9 @@
     <title>Coronation Street 2018</title>
     <desc>Audrey and Maria are at war. Craig's anxiety bubbles over. Things get worse for Sally.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180724104500 +0000" stop="20180724111500 +0000">
     <title>1 News Tonight</title>
@@ -2037,6 +2033,9 @@
   <programme channel="tv.9" start="20180725045500 +0000" stop="20180725060000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180725060000 +0000" stop="20180725070000 +0000">
     <title>1 News At 6pm</title>
@@ -2057,6 +2056,9 @@
     <title>Code Black</title>
     <desc>S3 E4 Elliot doubts his ability as a doctor when he’s sued for his role in the death of the SWAT officer. Also, Willis and Rox arrive at a road rage accident resulting in multiple serious injuries.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180725093500 +0000" stop="20180725103500 +0000">
     <title>Coronation Street 2018</title>
@@ -9034,14 +9036,14 @@
     <title>Lotto</title>
     <desc/>
   </programme>
-  <programme channel="tv.38" start="20180721090500 +0000" stop="20180721104000 +0000">
+  <programme channel="tv.38" start="20180721090500 +0000" stop="20180721103500 +0000">
     <title>Britain's Got Talent Continued</title>
     <desc>Grand Final: The 12th series of Britain’s Got Talent comes to a close tonight with its spectacular grand final. Who will be crowned the winner? It’s over to Britain to decide.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180721104000 +0000" stop="20180721115000 +0000">
+  <programme channel="tv.38" start="20180721103500 +0000" stop="20180721114500 +0000">
     <title>The Replacement</title>
     <desc>S1 E1 Ellen gets pregnant after landing a big contract for her firm of architects. She hires Paula as cover but soon fears she’s made a terrible mistake.</desc>
     <subtitles type="teletext"/>
@@ -9049,7 +9051,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20180721115000 +0000" stop="20180721141500 +0000">
+  <programme channel="tv.38" start="20180721114500 +0000" stop="20180721141500 +0000">
     <title>Truth</title>
     <desc>Premiere: Newsroom drama detailing the 2004 CBS 60 Minutes report investigating then-President George W. Bush's military service. Starring Cate Blanchett, Robert Redford and Dennis Quaid.</desc>
     <rating system="Freeview">
@@ -9188,7 +9190,7 @@
   </programme>
   <programme channel="tv.38" start="20180722083000 +0000" stop="20180722093000 +0000">
     <title>Sunday</title>
-    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe.</desc>
+    <desc>Join Miriama Kamo and the team as they bring you unmissable stories from here and around the globe. Tonight, meet Christian and Mark on their journey to parenthood.</desc>
   </programme>
   <programme channel="tv.38" start="20180722093000 +0000" stop="20180722113500 +0000">
     <title>In Dark Places</title>
@@ -9480,6 +9482,9 @@
   <programme channel="tv.38" start="20180724055500 +0000" stop="20180724070000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180724070000 +0000" stop="20180724080000 +0000">
     <title>1 News At 6pm</title>
@@ -9507,6 +9512,9 @@
     <title>Coronation Street 2018</title>
     <desc>Audrey and Maria are at war. Craig's anxiety bubbles over. Things get worse for Sally.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180724114500 +0000" stop="20180724121500 +0000">
     <title>1 News Tonight</title>
@@ -9631,6 +9639,9 @@
   <programme channel="tv.38" start="20180725055500 +0000" stop="20180725070000 +0000">
     <title>The Chase</title>
     <desc>It's game on as teams attempt to answer quick-fire questions in a 60-second round, with each correct answer earning them £1,000!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180725070000 +0000" stop="20180725080000 +0000">
     <title>1 News At 6pm</title>
@@ -9651,6 +9662,9 @@
     <title>Code Black</title>
     <desc>S3 E4 Elliot doubts his ability as a doctor when he’s sued for his role in the death of the SWAT officer. Also, Willis and Rox arrive at a road rage accident resulting in multiple serious injuries.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180725103500 +0000" stop="20180725113500 +0000">
     <title>Coronation Street 2018</title>
@@ -9897,7 +9911,7 @@
     <title>Home And Away</title>
     <desc>Willow refuses to use the card skimmer. Robbo fights to prove his innocence. Will Colby wake up from his coma?</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180718070000 +0000" stop="20180718073000 +0000">
@@ -10140,7 +10154,7 @@
     <title>Home And Away</title>
     <desc>Willow refuses to use the card skimmer. Robbo fights to prove his innocence. Will Colby wake up from his coma?</desc>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180719040000 +0000" stop="20180719043000 +0000">
@@ -10168,6 +10182,9 @@
   <programme channel="tv.14" start="20180719050000 +0000" stop="20180719053000 +0000">
     <title>Fanimals</title>
     <desc>We're at Henderson Valley Pony Club for the final practice ahead of Ribbon Day! Plus our School Holiday Safari winner Molly meets the lions, we show you how to make edible slugs, and play Quack Up!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180719053000 +0000" stop="20180719060000 +0000">
     <title>Friends</title>
@@ -10912,8 +10929,9 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180722030000 +0000" stop="20180722040000 +0000">
-    <title>Black-Ish</title>
-    <desc>S4 E5 An incident at school gets Junior expelled from his beloved Valley Glen Prep. Faced with sending their son to public school, Bow and Dre worry over how he will fare in his new environment.</desc>
+    <title>Travel Guides</title>
+    <desc>New Season: Our guides jet off for a week in Bologna, the foodie capital of Italy. Will this city disappoint? Or will it be named a "must see" destination?</desc>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -11191,6 +11209,9 @@
   <programme channel="tv.14" start="20180723073000 +0000" stop="20180723080000 +0000">
     <title>Neighbours</title>
     <desc>Can Sonya embrace the new family member? Terese and Paul go head-to-head. Dipi steps on David and Aaron's toes.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180723080000 +0000" stop="20180723083000 +0000">
     <title>Shortland Street</title>
@@ -11298,6 +11319,9 @@
   <programme channel="tv.14" start="20180723180500 +0000" stop="20180723183000 +0000">
     <title>Neighbours</title>
     <desc>Can Sonya embrace the new family member? Terese and Paul go head-to-head. Dipi steps on David and Aaron's toes.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180723183000 +0000" stop="20180723190000 +0000">
     <title>Infomercials 5:30am Sun- Thu</title>
@@ -11310,10 +11334,16 @@
   <programme channel="tv.14" start="20180723193000 +0000" stop="20180723194000 +0000">
     <title>The Wot Wots</title>
     <desc>Two friendly aliens traveling in a steam-powered spaceship explore the Earth's many unique environments and the animals inhabiting them.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180723194000 +0000" stop="20180723195000 +0000">
     <title>Darwin &amp; Newts</title>
     <desc>Darwin and Newts are a brother and sister duo who love adventures and figuring out how stuff works! Join them as they explore and discover new things with the help of science and some Kiwi ingenuity.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180723195000 +0000" stop="20180723200000 +0000">
     <title>Peppa Pig</title>
@@ -11372,6 +11402,9 @@
   <programme channel="tv.14" start="20180723233000 +0000" stop="20180724000000 +0000">
     <title>Neighbours</title>
     <desc>Can Sonya embrace the new family member? Terese and Paul go head-to-head. Dipi steps on David and Aaron's toes.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180724000000 +0000" stop="20180724003000 +0000">
     <title>Grandfathered</title>
@@ -11391,7 +11424,7 @@
     <title>Jeremy Kyle</title>
     <desc>Today on Jeremy Kyle: I'll prove your son vandalised my daughter's car!</desc>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180724020000 +0000" stop="20180724030000 +0000">
@@ -11549,7 +11582,7 @@
     <title>Jeremy Kyle</title>
     <desc>Today on Jeremy Kyle: I'll prove your son vandalised my daughter's car!</desc>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180724170500 +0000" stop="20180724175500 +0000">
@@ -11777,8 +11810,8 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180725100000 +0000" stop="20180725103000 +0000">
-    <title>The Mick</title>
-    <desc>S2 E16 After Ben wets the bed at a sleepover, Mickey, Alba and Jimmy go to extreme lengths to save his reputation.</desc>
+    <title>Life In Pieces</title>
+    <desc>S1 E21 When his favorite sports team needs a boost, Tim reprises the Cinderella dress he wore in college, which he swears will work its magic.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -41353,7 +41386,7 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180722020000 +0000" stop="20180722023000 +0000">
-    <title>ABC News</title>
+    <title>ABC News Weekend</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -58215,8 +58248,8 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180718150000 +0000" stop="20180718160000 +0000">
-    <title>Auction Squad</title>
+  <programme channel="tv.101305020522" start="20180718150000 +0000" stop="20180718160300 +0000">
+    <title>RSPCA Animal Rescue</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
