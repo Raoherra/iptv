@@ -10,9 +10,9 @@
             "Public Radio"
         ],
         "audio": {
-            "channels": 1,
+            "codec": "aac",
             "sample_rate": 48000,
-            "codec": "aac"
+            "channels": 1
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7133/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7133",
@@ -34,9 +34,9 @@
             "Oldies"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 32000,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7220/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7220",
@@ -58,9 +58,9 @@
             "News & Talk"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 48000,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7221/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7221",
@@ -82,9 +82,9 @@
             "Public Radio"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 48000,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7123/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7123",
@@ -106,9 +106,9 @@
             "Public Radio"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 48000,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7118/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7118",
@@ -130,9 +130,9 @@
             "Public Radio"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 48000,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7125/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7125",
@@ -154,9 +154,9 @@
             "Sports"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 48000,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7112/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7112",
@@ -178,9 +178,9 @@
             "Public Radio"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 48000,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7124/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7124",
@@ -202,9 +202,9 @@
             "News & Talk"
         ],
         "audio": {
-            "channels": 1,
+            "codec": "aac",
             "sample_rate": 48000,
-            "codec": "aac"
+            "channels": 1
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7110/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7110",
@@ -226,9 +226,9 @@
             "News & Talk"
         ],
         "audio": {
-            "channels": 1,
+            "codec": "aac",
             "sample_rate": 48000,
-            "codec": "aac"
+            "channels": 1
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7135/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7135",
@@ -250,9 +250,9 @@
             "Metal"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7421/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7421",
@@ -274,9 +274,9 @@
             "Top 40 & Pop"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6995/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6995",
@@ -298,9 +298,9 @@
             "Reggae & Island"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "mp3",
             "sample_rate": 44100,
-            "codec": "mp3"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7308/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7308",
@@ -322,9 +322,9 @@
             "80s & 90s Hits"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6178/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6178",
@@ -360,9 +360,9 @@
         "name": "Double J",
         "stream_type": "DEFAULT",
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 48000,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.double.j/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.double.j",
@@ -408,9 +408,9 @@
             "Mexico"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7260/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7260.aac",
@@ -432,9 +432,9 @@
             "Pride"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 32000,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7547/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7547",
@@ -456,9 +456,9 @@
             "Top 40 & Pop"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6185/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6185",
@@ -479,9 +479,9 @@
             "Kids & Family"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 22050,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7918/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7918",
@@ -502,9 +502,9 @@
             "Top 40 & Pop"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6898/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6898",
@@ -525,9 +525,9 @@
             "Kids & Family"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6970/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6970",
@@ -548,9 +548,9 @@
             "Sports"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 48000,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6709/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6709",
@@ -572,9 +572,9 @@
             "News & Talk"
         ],
         "audio": {
-            "channels": 1,
+            "codec": "aac",
             "sample_rate": 48000,
-            "codec": "aac"
+            "channels": 1
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7111/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7111",
@@ -596,9 +596,9 @@
             "Classic Rock"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7415/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7415",
@@ -620,9 +620,9 @@
             "News & Talk"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7030/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7030",
@@ -644,9 +644,9 @@
             "World"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7029/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7029",
@@ -668,9 +668,9 @@
             "World"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7028/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7028",
@@ -692,9 +692,9 @@
             "World"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7031/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7031",
@@ -740,9 +740,9 @@
             "News & Talk"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7025/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7025",
@@ -764,9 +764,9 @@
             "News & Talk"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7026/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7026",
@@ -788,9 +788,9 @@
             "College Radio"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "mp3",
             "sample_rate": 44100,
-            "codec": "mp3"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7354/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7354",
@@ -813,9 +813,9 @@
             "Alternative"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 48000,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7285/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7285",
@@ -837,9 +837,9 @@
             "Pride"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7293/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7293",
@@ -861,9 +861,9 @@
             "80s & 90s Hits"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6794/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6794",
@@ -885,9 +885,9 @@
             "80s & 90s Hits"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6793/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6793",
@@ -909,9 +909,9 @@
             "Hip Hop and R&B"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6179/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6179",
@@ -933,9 +933,9 @@
             "Hip Hop and R&B"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6180/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6180",
@@ -957,9 +957,9 @@
             "Metal"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7419/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7419",
@@ -974,8 +974,8 @@
         "name": "Triple M Sydney",
         "description": "Sydney's #1 radio station for Rock and AFL",
         "audio": {
-            "sample_rate": 44100,
             "codec": "aac",
+            "sample_rate": 44100,
             "channels": 2
         },
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.triple.m.sydney.png",
@@ -999,9 +999,9 @@
             "80s & 90s Hits"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6186/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6186",
@@ -1023,9 +1023,9 @@
             "80s & 90s Hits"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7050/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7050",
@@ -1047,9 +1047,9 @@
             "Blues"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7222/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7222",
@@ -1071,9 +1071,9 @@
             "Top 40 & Pop"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6902/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6902",
@@ -1095,9 +1095,9 @@
             "Dance"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6941/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6941",
@@ -1119,9 +1119,9 @@
             "R&B"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6996/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.6996",
@@ -1143,9 +1143,9 @@
             "Mix & Variety"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7075/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7075",
@@ -1167,9 +1167,9 @@
             "Alternative"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 48000,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7115/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7115",
@@ -1191,9 +1191,9 @@
             "Alternative"
         ],
         "audio": {
-            "channels": 2,
+            "codec": "aac",
             "sample_rate": 48000,
-            "codec": "aac"
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7116/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7116",
