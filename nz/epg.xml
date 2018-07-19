@@ -161,16 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180719010425 +0000" stop="20180719012619 +0000">
-    <title>Reel Rock S1E12</title>
-    <desc>Champion climber Chris Sharma starts a quest to make first ascents of the greatest unclimbed walls on Earth.</desc>
-    <sub-title>King Lines: Part I</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180719012619 +0000" stop="20180719020352 +0000">
-    <title>Explorers: Documentaries S1E1</title>
-    <desc>BASE jumper Karina Hollekim tests her will against Mali's towering and mysterious mountain, Fatima's Hand.</desc>
-    <sub-title>Fatima's Hand</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180719020352 +0000" stop="20180719022553 +0000">
     <title>Through My Eyes </title>
     <desc>Pro mountain biker Aaron Chase captures a four-day trip to Mexico with his own POV camera.</desc>
@@ -14483,26 +14473,44 @@
   <programme channel="tv.28" start="20180721190000 +0000" stop="20180721193000 +0000">
     <title>Faith In Action</title>
     <desc>Religious programme. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180721193000 +0000" stop="20180721203000 +0000">
     <title>Hour of Power</title>
     <desc>Religious programme. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180721203000 +0000" stop="20180721210000 +0000">
     <title>Beyond Today</title>
     <desc>Religious programme. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180721210000 +0000" stop="20180721213000 +0000">
     <title>Impact For Life</title>
     <desc>Religious programme. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180721213000 +0000" stop="20180721220000 +0000">
     <title>Life TV</title>
     <desc>Religious programme. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180721220000 +0000" stop="20180721223000 +0000">
     <title>Running With Fire</title>
     <desc>Religious programme. G</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180721223000 +0000" stop="20180722000000 +0000">
     <title>Sport Box</title>
@@ -14712,6 +14720,9 @@
   <programme channel="tv.28" start="20180723013500 +0000" stop="20180723020500 +0000">
     <title>Married With Children</title>
     <desc>'Al finds out he can inherit money by naming a new baby Stymie, but Peggy has other ideas. PGR'</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180723020500 +0000" stop="20180723030000 +0000">
     <title>The Late Show</title>
