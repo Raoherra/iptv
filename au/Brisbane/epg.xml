@@ -12730,13 +12730,13 @@
     </rating>
   </programme>
   <programme channel="tv.101204000407" start="20180724093000 +0000" stop="20180724103000 +0000">
-    <title>Say Yes to the Dress Atlanta</title>
+    <title>Five Day Flip</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204000407" start="20180724093000 +0000" stop="20180724103000 +0000">
-    <title>Five Day Flip</title>
+    <title>Say Yes to the Dress Atlanta</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -12808,15 +12808,15 @@
     </rating>
   </programme>
   <programme channel="tv.101204000407" start="20180724170000 +0000" stop="20180724180000 +0000">
-    <title>Texas Flip N' Move</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204000407" start="20180724170000 +0000" stop="20180724180000 +0000">
     <title>Good Bones</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204000407" start="20180724170000 +0000" stop="20180724180000 +0000">
+    <title>Texas Flip N' Move</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204000407" start="20180724180000 +0000" stop="20180724183000 +0000">
@@ -20733,16 +20733,16 @@
     </rating>
   </programme>
   <programme channel="tv.101305040542" start="20180723053100 +0000" stop="20180723063300 +0000">
-    <title>The Indian Doctor</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305040542" start="20180723053100 +0000" stop="20180723063300 +0000">
     <title>Auction Squad</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040542" start="20180723053100 +0000" stop="20180723063300 +0000">
+    <title>The Indian Doctor</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305040542" start="20180723063300 +0000" stop="20180723070200 +0000">
@@ -20927,17 +20927,17 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20180724053800 +0000" stop="20180724063500 +0000">
-    <title>The Indian Doctor</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305040542" start="20180724053800 +0000" stop="20180724063700 +0000">
     <title>Auction Squad</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040542" start="20180724053800 +0000" stop="20180724063500 +0000">
+    <title>The Indian Doctor</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305040542" start="20180724063500 +0000" stop="20180724070300 +0000">
@@ -23062,21 +23062,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305040545" start="20180719200000 +0000" stop="20180719203100 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305040545" start="20180719200000 +0000" stop="20180719203100 +0000">
-    <title>It's Academic</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305040545" start="20180719203100 +0000" stop="20180719210300 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -23084,6 +23077,13 @@
   </programme>
   <programme channel="tv.101305040545" start="20180719203100 +0000" stop="20180719210300 +0000">
     <title>ZooMoo Lost</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040545" start="20180719203100 +0000" stop="20180719210300 +0000">
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -37662,11 +37662,6 @@
     <rating system="Freeview">
       <value>M</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180719165636 +0000" stop="20180719170653 +0000">
-    <title>Red Bull Air Force Jordan</title>
-    <desc>The Red Bull Air Force team perform three unique first-time stunts in the skies over Jordan.</desc>
-    <sub-title>Falling from Earth</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180719170653 +0000" stop="20180719183738 +0000">
     <title>On Any Sunday: The Next Chapter</title>
