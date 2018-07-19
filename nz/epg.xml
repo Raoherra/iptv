@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180719053922 +0000" stop="20180719061943 +0000">
-    <title>Follow Me</title>
-    <desc>Accompany an all-star cast of mountain bikers on their global journey to ride the best terrain they can find.</desc>
-    <sub-title>Don't Question, Just Drop In</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180719061943 +0000" stop="20180719074353 +0000">
     <title>Chapter One</title>
     <desc>The best kiteboard riders in the world come together to show off the sport’s breathtaking beauty.</desc>
@@ -4373,6 +4368,9 @@
   <programme channel="tv.11" start="20180719073000 +0000" stop="20180719083000 +0000">
     <title>Jono And Ben</title>
     <desc>New Episode. It's the 200th episode! To celebrate, we are blowing the dust off old tapes and rewinding back to when it all began with all your favourite sketches and pranks from the past 7 years.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180719083000 +0000" stop="20180719104500 +0000">
     <title>X-Men: Days Of Future Past</title>
@@ -4518,15 +4516,15 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180720101500 +0000" stop="20180720104500 +0000">
+  <programme channel="tv.11" start="20180720101500 +0000" stop="20180720104000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.11" start="20180720104500 +0000" stop="20180720111500 +0000">
+  <programme channel="tv.11" start="20180720104000 +0000" stop="20180720111000 +0000">
     <title>The Spinoff TV</title>
     <desc>New Episode. Comedy trio 'Frickin Dangerous Bro' investigate the different ways to use yoga pants and Hayden Donnell looks into the misery of the rental housing market.</desc>
   </programme>
-  <programme channel="tv.11" start="20180720111500 +0000" stop="20180720121000 +0000">
+  <programme channel="tv.11" start="20180720111000 +0000" stop="20180720120500 +0000">
     <title>Hawaii Five-O</title>
     <desc>Five-O are faced with a Japanese WWII spy mystery after a young boy is shot in a forgotten bunker. S6 Ep12</desc>
     <audio>
@@ -4536,7 +4534,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180720121000 +0000" stop="20180720170000 +0000">
+  <programme channel="tv.11" start="20180720120500 +0000" stop="20180720170000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -4606,7 +4604,7 @@
     <title>Newshub Live At 6pm</title>
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
   </programme>
-  <programme channel="tv.11" start="20180721070000 +0000" stop="20180721085000 +0000">
+  <programme channel="tv.11" start="20180721070000 +0000" stop="20180721084500 +0000">
     <title>Ice Age: Collision Course</title>
     <desc>Scrat's epic pursuit of the elusive acorn catapults him into the universe where he accidentally sets off a series of cosmic events that transform and threaten the Ice Age World. (2016)</desc>
     <audio>
@@ -4616,7 +4614,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180721085000 +0000" stop="20180721094500 +0000">
+  <programme channel="tv.11" start="20180721084500 +0000" stop="20180721094000 +0000">
     <title>All New Chicago Med</title>
     <desc>New Episode. Dr. Charles learns a troubling fact about the man who shot him, and Rhodes and Bekker come to an agreement during a complicated surgery. S3 Ep4</desc>
     <audio>
@@ -4626,14 +4624,14 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180721094500 +0000" stop="20180721104000 +0000">
+  <programme channel="tv.11" start="20180721094000 +0000" stop="20180721103000 +0000">
     <title>NCIS</title>
     <desc>The team investigates when a Marine recruitment officer is found shot to death by a sniper with a grudge, who leaves a white feather behind. S1 Ep13</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180721104000 +0000" stop="20180721130500 +0000">
+  <programme channel="tv.11" start="20180721103000 +0000" stop="20180721125500 +0000">
     <title>Tinker Tailor Soldier Spy</title>
     <desc>In the bleak days of the Cold War, espionage veteran George Smiley is forced from semi-retirement to uncover a Soviet agent within MI6. Starring Gary Oldman, Colin Firth, and Tom Hardy. (2011)</desc>
     <audio>
@@ -4643,7 +4641,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180721130500 +0000" stop="20180721160000 +0000">
+  <programme channel="tv.11" start="20180721125500 +0000" stop="20180721160000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -4665,22 +4663,37 @@
   <programme channel="tv.11" start="20180721180000 +0000" stop="20180721183000 +0000">
     <title>Life TV</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180721183000 +0000" stop="20180721190000 +0000">
     <title>Brian Houston</title>
-    <desc></desc>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180721190000 +0000" stop="20180721200000 +0000">
     <title>Charles Stanley</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180721200000 +0000" stop="20180721203000 +0000">
-    <title>Life TV repeat</title>
+    <title>Life TV</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180721203000 +0000" stop="20180721210000 +0000">
-    <title>turning point</title>
+    <title>Turning Point</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180721210000 +0000" stop="20180721213000 +0000">
     <title>R &amp; R</title>
@@ -4749,6 +4762,9 @@
   <programme channel="tv.11" start="20180722070000 +0000" stop="20180722083000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. A roller coaster of a week sees teams struggling to see the light as the room reveal looms. Later, as rooms are revealed, have the teams done enough to impress the judges? S7 Ep9</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180722083000 +0000" stop="20180722111500 +0000">
     <title>X-Men: Apocalypse</title>
@@ -4822,6 +4838,9 @@
   <programme channel="tv.11" start="20180723010000 +0000" stop="20180723023000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. A roller coaster of a week sees teams struggling to see the light as the room reveal looms. Later, as rooms are revealed, have the teams done enough to impress the judges? S7 Ep9</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180723023000 +0000" stop="20180723030000 +0000">
     <title>Come Dine With Me NZ</title>
@@ -5387,8 +5406,8 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20180719023000 +0000" stop="20180719032800 +0000">
-    <title>The Case of Caylee Anthony</title>
-    <desc>Jim and Laura visit the site where 2 year-old Caylee Anthony's remains were found and raise serious questions regarding the possible movement of her body before its discovery.</desc>
+    <title>The Case Of Casey Anthony</title>
+    <desc></desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -6155,9 +6174,6 @@
   <programme channel="tv.12" start="20180724083000 +0000" stop="20180724093000 +0000">
     <title>Body Fixers</title>
     <desc>Hannah needs help from the doctor's laser to fix an excessive body hair problem, Alex has the shortest nails the beauticians have ever seen and Bradley asks for a multi-coloured hair transformation.</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
   <programme channel="tv.12" start="20180724093000 +0000" stop="20180724103300 +0000">
     <title>The Real Housewives Of New York City</title>
@@ -6255,9 +6271,6 @@
   <programme channel="tv.12" start="20180725023000 +0000" stop="20180725033000 +0000">
     <title>Body Fixers</title>
     <desc>Hannah needs help from the doctor's laser to fix an excessive body hair problem, Alex has the shortest nails the beauticians have ever seen and Bradley asks for a multi-coloured hair transformation.</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
   <programme channel="tv.12" start="20180725033000 +0000" stop="20180725043000 +0000">
     <title>Clean House</title>
@@ -6296,7 +6309,7 @@
   </programme>
   <programme channel="tv.12" start="20180725083000 +0000" stop="20180725093000 +0000">
     <title>Case Against Caylee Anthony</title>
-    <desc>Jim and Laura talk to Dr. Garavaglia about her controversial ruling that Caylee died as a result of Homicide by Undetermined Means.</desc>
+    <desc></desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -6391,8 +6404,8 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20180726023000 +0000" stop="20180726032800 +0000">
-    <title>The Case of Caylee Anthony</title>
-    <desc>Jim and Laura talk to Dr. Garavaglia about her controversial ruling that Caylee died as a result of Homicide by Undetermined Means.</desc>
+    <title>The Case Of Casey Anthony</title>
+    <desc></desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -11561,6 +11574,9 @@
   <programme channel="tv.27" start="20180719083000 +0000" stop="20180719093000 +0000">
     <title>Jono And Ben</title>
     <desc>New Episode. It's the 200th episode! To celebrate, we are blowing the dust off old tapes and rewinding back to when it all began with all your favourite sketches and pranks from the past 7 years.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180719093000 +0000" stop="20180719114500 +0000">
     <title>X-Men: Days Of Future Past</title>
@@ -11694,22 +11710,22 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180720111500 +0000" stop="20180720114500 +0000">
+  <programme channel="tv.27" start="20180720111500 +0000" stop="20180720114000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
-  <programme channel="tv.27" start="20180720114500 +0000" stop="20180720121500 +0000">
+  <programme channel="tv.27" start="20180720114000 +0000" stop="20180720121000 +0000">
     <title>The Spinoff TV</title>
     <desc>New Episode. Comedy trio 'Frickin Dangerous Bro' investigate the different ways to use yoga pants and Hayden Donnell looks into the misery of the rental housing market.</desc>
   </programme>
-  <programme channel="tv.27" start="20180720121500 +0000" stop="20180720131000 +0000">
+  <programme channel="tv.27" start="20180720121000 +0000" stop="20180720130500 +0000">
     <title>Hawaii Five-O</title>
     <desc>Five-O are faced with a Japanese WWII spy mystery after a young boy is shot in a forgotten bunker. S6 Ep12</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180720131000 +0000" stop="20180720180000 +0000">
+  <programme channel="tv.27" start="20180720130500 +0000" stop="20180720180000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -11779,35 +11795,35 @@
     <title>Newshub Live At 6pm</title>
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
   </programme>
-  <programme channel="tv.27" start="20180721080000 +0000" stop="20180721095000 +0000">
+  <programme channel="tv.27" start="20180721080000 +0000" stop="20180721094500 +0000">
     <title>Ice Age: Collision Course</title>
     <desc>Scrat's epic pursuit of the elusive acorn catapults him into the universe where he accidentally sets off a series of cosmic events that transform and threaten the Ice Age World. (2016)</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180721095000 +0000" stop="20180721104500 +0000">
+  <programme channel="tv.27" start="20180721094500 +0000" stop="20180721104000 +0000">
     <title>All New Chicago Med</title>
     <desc>New Episode. Dr. Charles learns a troubling fact about the man who shot him, and Rhodes and Bekker come to an agreement during a complicated surgery. S3 Ep4</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180721104500 +0000" stop="20180721114000 +0000">
+  <programme channel="tv.27" start="20180721104000 +0000" stop="20180721113000 +0000">
     <title>NCIS</title>
     <desc>The team investigates when a Marine recruitment officer is found shot to death by a sniper with a grudge, who leaves a white feather behind. S1 Ep13</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180721114000 +0000" stop="20180721140500 +0000">
+  <programme channel="tv.27" start="20180721113000 +0000" stop="20180721135500 +0000">
     <title>Tinker Tailor Soldier Spy</title>
     <desc>In the bleak days of the Cold War, espionage veteran George Smiley is forced from semi-retirement to uncover a Soviet agent within MI6. Starring Gary Oldman, Colin Firth, and Tom Hardy. (2011)</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180721140500 +0000" stop="20180721170000 +0000">
+  <programme channel="tv.27" start="20180721135500 +0000" stop="20180721170000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -11829,22 +11845,37 @@
   <programme channel="tv.27" start="20180721190000 +0000" stop="20180721193000 +0000">
     <title>Life TV</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180721193000 +0000" stop="20180721200000 +0000">
     <title>Brian Houston</title>
-    <desc></desc>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180721200000 +0000" stop="20180721210000 +0000">
     <title>Charles Stanley</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180721210000 +0000" stop="20180721213000 +0000">
-    <title>Life TV repeat</title>
+    <title>Life TV</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180721213000 +0000" stop="20180721220000 +0000">
-    <title>turning point</title>
+    <title>Turning Point</title>
     <desc></desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180721220000 +0000" stop="20180721223000 +0000">
     <title>R &amp; R</title>
@@ -11913,6 +11944,9 @@
   <programme channel="tv.27" start="20180722080000 +0000" stop="20180722093000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. A roller coaster of a week sees teams struggling to see the light as the room reveal looms. Later, as rooms are revealed, have the teams done enough to impress the judges? S7 Ep9</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180722093000 +0000" stop="20180722121500 +0000">
     <title>X-Men: Apocalypse</title>
@@ -11980,6 +12014,9 @@
   <programme channel="tv.27" start="20180723020000 +0000" stop="20180723033000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. A roller coaster of a week sees teams struggling to see the light as the room reveal looms. Later, as rooms are revealed, have the teams done enough to impress the judges? S7 Ep9</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180723033000 +0000" stop="20180723040000 +0000">
     <title>Come Dine With Me NZ</title>
@@ -12511,8 +12548,8 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20180719033000 +0000" stop="20180719042800 +0000">
-    <title>The Case of Caylee Anthony</title>
-    <desc>Jim and Laura visit the site where 2 year-old Caylee Anthony's remains were found and raise serious questions regarding the possible movement of her body before its discovery.</desc>
+    <title>The Case Of Casey Anthony</title>
+    <desc></desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -13279,9 +13316,6 @@
   <programme channel="tv.30" start="20180724093000 +0000" stop="20180724103000 +0000">
     <title>Body Fixers</title>
     <desc>Hannah needs help from the doctor's laser to fix an excessive body hair problem, Alex has the shortest nails the beauticians have ever seen and Bradley asks for a multi-coloured hair transformation.</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
   <programme channel="tv.30" start="20180724103000 +0000" stop="20180724113300 +0000">
     <title>The Real Housewives Of New York City</title>
@@ -13379,9 +13413,6 @@
   <programme channel="tv.30" start="20180725033000 +0000" stop="20180725043000 +0000">
     <title>Body Fixers</title>
     <desc>Hannah needs help from the doctor's laser to fix an excessive body hair problem, Alex has the shortest nails the beauticians have ever seen and Bradley asks for a multi-coloured hair transformation.</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
   <programme channel="tv.30" start="20180725043000 +0000" stop="20180725053000 +0000">
     <title>Clean House</title>
@@ -13420,7 +13451,7 @@
   </programme>
   <programme channel="tv.30" start="20180725093000 +0000" stop="20180725103000 +0000">
     <title>Case Against Caylee Anthony</title>
-    <desc>Jim and Laura talk to Dr. Garavaglia about her controversial ruling that Caylee died as a result of Homicide by Undetermined Means.</desc>
+    <desc></desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -13515,8 +13546,8 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20180726033000 +0000" stop="20180726042800 +0000">
-    <title>The Case of Caylee Anthony</title>
-    <desc>Jim and Laura talk to Dr. Garavaglia about her controversial ruling that Caylee died as a result of Homicide by Undetermined Means.</desc>
+    <title>The Case Of Casey Anthony</title>
+    <desc></desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
