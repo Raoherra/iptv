@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180719205222 +0000" stop="20180719210823 +0000">
-    <title>Lemawork Ketema: Keep on Running</title>
-    <desc>A world-class runner flees his country in order to fulfill his Olympic dreams.</desc>
-    <sub-title>The Pursuit of an Olympic Dream</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180719210823 +0000" stop="20180719214722 +0000">
-    <title>unReal</title>
-    <desc>Break free from the confines of everyday life and venture into a limitless world of wonder and potential.</desc>
-    <sub-title>Reality Is What You Make It</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180719214722 +0000" stop="20180719232337 +0000">
     <title>Turn It Loose</title>
     <desc>Experience the pursuit of a breakdancing world championship through the eyes of six world-class b-boys.</desc>
@@ -40852,7 +40842,7 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180721020000 +0000" stop="20180721023000 +0000">
-    <title>ABC News</title>
+    <title>ABC News Weekend</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -42105,6 +42095,13 @@
   </programme>
   <programme channel="tv.101002210220" start="20180727130000 +0000" stop="20180727140000 +0000">
     <title>ABC News Tonight</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180727140000 +0000" stop="20180727143000 +0000">
+    <title>ABC Late News</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -53153,7 +53150,7 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180724093000 +0000" stop="20180724103000 +0000">
-    <title>Say Yes to the Dress Atlanta</title>
+    <title>Five Day Flip</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -53734,6 +53731,12 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180727133000 +0000" stop="20180727140000 +0000">
+    <title>House Hunters International</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200424" start="20180727140000 +0000" stop="20180727143000 +0000">
     <title>House Hunters International</title>
     <rating system="Freeview">
       <value>G</value>
@@ -55062,6 +55065,12 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200427" start="20180727140000 +0000" stop="20180727150000 +0000">
+    <title>Ellen</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20180719133900 +0000" stop="20180719140600 +0000">
@@ -59157,10 +59166,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180724053800 +0000" stop="20180724063500 +0000">
-    <title>The Indian Doctor</title>
+  <programme channel="tv.101305020522" start="20180724053800 +0000" stop="20180724063700 +0000">
+    <title>Auction Squad</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180724063500 +0000" stop="20180724070300 +0000">
@@ -59549,10 +59559,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180726053200 +0000" stop="20180726063000 +0000">
-    <title>The Indian Doctor</title>
+  <programme channel="tv.101305020522" start="20180726053200 +0000" stop="20180726063100 +0000">
+    <title>Auction Squad</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180726063000 +0000" stop="20180726070100 +0000">
@@ -61242,7 +61253,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180719200000 +0000" stop="20180719203100 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -61407,7 +61418,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180720200000 +0000" stop="20180720203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -61589,14 +61600,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180721200000 +0000" stop="20180721203100 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180721203100 +0000" stop="20180721210300 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -70381,6 +70392,13 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101406020628" start="20180727140000 +0000" stop="20180727143000 +0000">
+    <title>Everybody Loves Raymond</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000301" start="20180719103000 +0000" stop="20180719161500 +0000">
     <title>Tour de France: Live Stage</title>
     <rating system="Freeview">
@@ -77920,6 +77938,12 @@
     <title>On Stage</title>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180727140000 +0000" stop="20180727150000 +0000">
+    <title>Volumz</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   </tv>
