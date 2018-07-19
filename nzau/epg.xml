@@ -52,6 +52,10 @@
     <display-name>13 DUKE</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.55.png"/>
   </channel>
+  <channel id="tv.51">
+    <display-name>14 The Edge TV</display-name>
+    <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.51.png"/>
+  </channel>
   <channel id="tv.20">
     <display-name>15 Te Reo</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.20.png"/>
@@ -63,10 +67,6 @@
   <channel id="tv.58">
     <display-name>17 HGTV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.58.png"/>
-  </channel>
-  <channel id="tv.51">
-    <display-name>18 The Edge TV</display-name>
-    <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.51.png"/>
   </channel>
   <channel id="tv.45">
     <display-name>20 TVSN Shopping</display-name>
@@ -280,26 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180719000233 +0000" stop="20180719001745 +0000">
-    <title>The Way of the Wildcard S1E1</title>
-    <desc>While in prison something happened that changed John McAvoy's life and transformed his mindset.</desc>
-    <sub-title>John McAvoy: The Ironman Set Free</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180719001745 +0000" stop="20180719003124 +0000">
-    <title>The Way of the Wildcard S1E2</title>
-    <desc>Growing up in a home that was deep into the woods, Casey Brown has always known she is capable of adventure.</desc>
-    <sub-title>Casey Brown: The Barefoot Biker</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180719003124 +0000" stop="20180719004955 +0000">
-    <title>The Way of the Wildcard S1E3</title>
-    <desc>Kayaker Sadat Kawawa, born and raised in Uganda, was taught to revere water and not to risk his life in it.</desc>
-    <sub-title>Sadat Kawawa: Born on the Banks of the Nile </sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180719004955 +0000" stop="20180719010425 +0000">
-    <title>The Way of the Wildcard S1E4</title>
-    <desc>The drive of Irish brothers Gary and Paul O'Donovan and their love of rowing took them to the 2016 Olympics.</desc>
-    <sub-title>O'Donovan Brothers: From the Back of Beyond</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180719010425 +0000" stop="20180719012619 +0000">
     <title>Reel Rock S1E12</title>
     <desc>Champion climber Chris Sharma starts a quest to make first ascents of the greatest unclimbed walls on Earth.</desc>
@@ -19389,6 +19369,686 @@
       <value>AO</value>
     </rating>
   </programme>
+  <programme channel="tv.51" start="20180718103000 +0000" stop="20180718120000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180718120000 +0000" stop="20180718170000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180718170000 +0000" stop="20180718180000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180718180000 +0000" stop="20180718210000 +0000">
+    <title>Gym Bangers</title>
+    <desc>Kick-start your day on a healthier note with our workout playlist. Keep your heart rate up, and your love handles toned. Weekdays 6am - 9am on The Edge.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180718210000 +0000" stop="20180718220000 +0000">
+    <title>Chill</title>
+    <desc>Top 10 songs with a daily changing theme. Todays theme.. Chill</desc>
+  </programme>
+  <programme channel="tv.51" start="20180718220000 +0000" stop="20180719000000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180719000000 +0000" stop="20180719010000 +0000">
+    <title>Hot Tune Time Machine</title>
+    <desc>It's our throwback hour! We play the biggest clips from a different year each day. So step into our Hot Tune Time Machine, weekdays at midday. You'll never know what year you'll end up in.</desc>
+  </programme>
+  <programme channel="tv.51" start="20180719010000 +0000" stop="20180719050000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180719050000 +0000" stop="20180719053000 +0000">
+    <title>The Edge 30 Frontrunners</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.51" start="20180719053000 +0000" stop="20180719060000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180719060000 +0000" stop="20180719073000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180719073000 +0000" stop="20180719080000 +0000">
+    <title>This vs That</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Avalanche City vs Owl City</desc>
+  </programme>
+  <programme channel="tv.51" start="20180719080000 +0000" stop="20180719090000 +0000">
+    <title>Chill</title>
+    <desc>Top 10 songs with a daily changing theme. Todays theme.. Chill</desc>
+  </programme>
+  <programme channel="tv.51" start="20180719090000 +0000" stop="20180719103000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180719103000 +0000" stop="20180719120000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180719120000 +0000" stop="20180719170000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180719170000 +0000" stop="20180719180000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180719180000 +0000" stop="20180719210000 +0000">
+    <title>Gym Bangers</title>
+    <desc>Kick-start your day on a healthier note with our workout playlist. Keep your heart rate up, and your love handles toned. Weekdays 6am - 9am on The Edge.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180719210000 +0000" stop="20180719220000 +0000">
+    <title>Top 10</title>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Taylor Swift</desc>
+  </programme>
+  <programme channel="tv.51" start="20180719220000 +0000" stop="20180720000000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180720000000 +0000" stop="20180720010000 +0000">
+    <title>Hot Tune Time Machine</title>
+    <desc>It's our throwback hour! We play the biggest clips from a different year each day. So step into our Hot Tune Time Machine, weekdays at midday. You'll never know what year you'll end up in.</desc>
+  </programme>
+  <programme channel="tv.51" start="20180720010000 +0000" stop="20180720050000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180720050000 +0000" stop="20180720053000 +0000">
+    <title>The Edge 30 Frontrunners</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.51" start="20180720053000 +0000" stop="20180720060000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180720060000 +0000" stop="20180720073000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180720073000 +0000" stop="20180720080000 +0000">
+    <title>This vs That</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - 5SOS vs 1D</desc>
+  </programme>
+  <programme channel="tv.51" start="20180720080000 +0000" stop="20180720090000 +0000">
+    <title>Top 10</title>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Taylor Swift</desc>
+  </programme>
+  <programme channel="tv.51" start="20180720090000 +0000" stop="20180720103000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180720103000 +0000" stop="20180720120000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180720120000 +0000" stop="20180720170000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180720170000 +0000" stop="20180720180000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180720180000 +0000" stop="20180720210000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180720210000 +0000" stop="20180720220000 +0000">
+    <title>Jono And Ben</title>
+    <desc>New Episode. It's the 200th episode! To celebrate, we are blowing the dust off old tapes and rewinding back to when it all began with all your favourite sketches and pranks from the past 7 years.</desc>
+  </programme>
+  <programme channel="tv.51" start="20180720220000 +0000" stop="20180721010000 +0000">
+    <title>The Edge Fresh 40</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.51" start="20180721010000 +0000" stop="20180721040000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180721040000 +0000" stop="20180721050000 +0000">
+    <title>Top 10</title>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Maroon 5</desc>
+  </programme>
+  <programme channel="tv.51" start="20180721050000 +0000" stop="20180721060000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180721060000 +0000" stop="20180721070000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180721070000 +0000" stop="20180721090000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180721090000 +0000" stop="20180721103000 +0000">
+    <title>Edge Mix</title>
+    <desc>Whether you are having a party at home or getting ready to head out, Edge Mix delivers the hottest soundtrack for your Saturday night - commercial free!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180721103000 +0000" stop="20180721120000 +0000">
+    <title>Edge Mix</title>
+    <desc>Whether you are having a party at home or getting ready to head out, Edge Mix delivers the hottest soundtrack for your Saturday night - commercial free!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180721120000 +0000" stop="20180721170000 +0000">
+    <title>Edge Mix</title>
+    <desc>Whether you are having a party at home or getting ready to head out, Edge Mix delivers the hottest soundtrack for your Saturday night - commercial free!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180721170000 +0000" stop="20180721180000 +0000">
+    <title>Edge Mix</title>
+    <desc>Whether you are having a party at home or getting ready to head out, Edge Mix delivers the hottest soundtrack for your Saturday night - commercial free!</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180721180000 +0000" stop="20180721210000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180721210000 +0000" stop="20180721230000 +0000">
+    <title>The Edge 30</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.51" start="20180721230000 +0000" stop="20180722020000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180722020000 +0000" stop="20180722030000 +0000">
+    <title>Top 10</title>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Maroon 5</desc>
+  </programme>
+  <programme channel="tv.51" start="20180722030000 +0000" stop="20180722050000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180722050000 +0000" stop="20180722060000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180722060000 +0000" stop="20180722090000 +0000">
+    <title>The Edge Fresh 40</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.51" start="20180722090000 +0000" stop="20180722103000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180722103000 +0000" stop="20180722120000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180722120000 +0000" stop="20180722170000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180722170000 +0000" stop="20180722180000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180722180000 +0000" stop="20180722210000 +0000">
+    <title>Gym Bangers</title>
+    <desc>Kick-start your day on a healthier note with our workout playlist. Keep your heart rate up, and your love handles toned. Weekdays 6am - 9am on The Edge.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180722210000 +0000" stop="20180722220000 +0000">
+    <title>Top 10</title>
+    <desc>Top 10 videos based on a certain theme - today - Ariana Grande!</desc>
+  </programme>
+  <programme channel="tv.51" start="20180722220000 +0000" stop="20180723000000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180723000000 +0000" stop="20180723010000 +0000">
+    <title>Hot Tune Time Machine</title>
+    <desc>It's our throwback hour! We play the biggest clips from a different year each day. So step into our Hot Tune Time Machine, weekdays at midday. You'll never know what year you'll end up in.</desc>
+  </programme>
+  <programme channel="tv.51" start="20180723010000 +0000" stop="20180723030000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180723030000 +0000" stop="20180723040000 +0000">
+    <title>What You Want</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.51" start="20180723040000 +0000" stop="20180723050000 +0000">
+    <title>Daily Feed</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.51" start="20180723050000 +0000" stop="20180723053000 +0000">
+    <title>The Edge 30 Frontrunners</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.51" start="20180723053000 +0000" stop="20180723060000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180723060000 +0000" stop="20180723073000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180723073000 +0000" stop="20180723080000 +0000">
+    <title>This vs That</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - NZ Vs Aus</desc>
+  </programme>
+  <programme channel="tv.51" start="20180723080000 +0000" stop="20180723090000 +0000">
+    <title>Top 10</title>
+    <desc>Top 10 videos based on a certain theme - today - Ariana Grande!</desc>
+  </programme>
+  <programme channel="tv.51" start="20180723090000 +0000" stop="20180723103000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180723103000 +0000" stop="20180723120000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180723120000 +0000" stop="20180723170000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180723170000 +0000" stop="20180723180000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180723180000 +0000" stop="20180723210000 +0000">
+    <title>Gym Bangers</title>
+    <desc>Kick-start your day on a healthier note with our workout playlist. Keep your heart rate up, and your love handles toned. Weekdays 6am - 9am on The Edge.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180723210000 +0000" stop="20180723220000 +0000">
+    <title>Started on Youtube</title>
+    <desc>Top 10 songs with a daily changing theme. Todays theme.. Started On Youtube</desc>
+  </programme>
+  <programme channel="tv.51" start="20180723220000 +0000" stop="20180724000000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180724000000 +0000" stop="20180724010000 +0000">
+    <title>Hot Tune Time Machine</title>
+    <desc>It's our throwback hour! We play the biggest clips from a different year each day. So step into our Hot Tune Time Machine, weekdays at midday. You'll never know what year you'll end up in.</desc>
+  </programme>
+  <programme channel="tv.51" start="20180724010000 +0000" stop="20180724030000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180724030000 +0000" stop="20180724040000 +0000">
+    <title>What You Want</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.51" start="20180724040000 +0000" stop="20180724050000 +0000">
+    <title>Daily Feed</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.51" start="20180724050000 +0000" stop="20180724053000 +0000">
+    <title>The Edge 30 Frontrunners</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.51" start="20180724053000 +0000" stop="20180724060000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180724060000 +0000" stop="20180724073000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180724073000 +0000" stop="20180724080000 +0000">
+    <title>This vs That 146</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.51" start="20180724080000 +0000" stop="20180724090000 +0000">
+    <title>Romance</title>
+    <desc>Top 10 songs with a daily changing theme. Todays theme.. Romance</desc>
+  </programme>
+  <programme channel="tv.51" start="20180724090000 +0000" stop="20180724103000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180724103000 +0000" stop="20180724120000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180724120000 +0000" stop="20180724170000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180724170000 +0000" stop="20180724180000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180724180000 +0000" stop="20180724210000 +0000">
+    <title>Gym Bangers</title>
+    <desc>Kick-start your day on a healthier note with our workout playlist. Keep your heart rate up, and your love handles toned. Weekdays 6am - 9am on The Edge.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180724210000 +0000" stop="20180724220000 +0000">
+    <title>Taylor VS Katy</title>
+    <desc>Top 10 songs with a daily changing theme. Todays theme.. Taylor VS Katy</desc>
+  </programme>
+  <programme channel="tv.51" start="20180724220000 +0000" stop="20180725000000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180725000000 +0000" stop="20180725010000 +0000">
+    <title>Hot Tune Time Machine</title>
+    <desc>It's our throwback hour! We play the biggest clips from a different year each day. So step into our Hot Tune Time Machine, weekdays at midday. You'll never know what year you'll end up in.</desc>
+  </programme>
+  <programme channel="tv.51" start="20180725010000 +0000" stop="20180725030000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180725030000 +0000" stop="20180725040000 +0000">
+    <title>What You Want</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.51" start="20180725040000 +0000" stop="20180725050000 +0000">
+    <title>Daily Feed</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.51" start="20180725050000 +0000" stop="20180725053000 +0000">
+    <title>The Edge 30 Frontrunners</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.51" start="20180725053000 +0000" stop="20180725060000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180725060000 +0000" stop="20180725073000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180725073000 +0000" stop="20180725080000 +0000">
+    <title>This vs That 147</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.51" start="20180725080000 +0000" stop="20180725090000 +0000">
+    <title>Started on Youtube</title>
+    <desc>Top 10 songs with a daily changing theme. Todays theme.. Started On Youtube</desc>
+  </programme>
+  <programme channel="tv.51" start="20180725090000 +0000" stop="20180725103000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180725103000 +0000" stop="20180725120000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180725120000 +0000" stop="20180725170000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180725170000 +0000" stop="20180725180000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180725180000 +0000" stop="20180725210000 +0000">
+    <title>Gym Bangers</title>
+    <desc>Kick-start your day on a healthier note with our workout playlist. Keep your heart rate up, and your love handles toned. Weekdays 6am - 9am on The Edge.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180725210000 +0000" stop="20180725220000 +0000">
+    <title>Body Positivity!</title>
+    <desc>Top 10 songs with a daily changing theme. Todays theme.. Body Positivity!</desc>
+  </programme>
+  <programme channel="tv.51" start="20180725220000 +0000" stop="20180726000000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180726000000 +0000" stop="20180726010000 +0000">
+    <title>Hot Tune Time Machine</title>
+    <desc>It's our throwback hour! We play the biggest clips from a different year each day. So step into our Hot Tune Time Machine, weekdays at midday. You'll never know what year you'll end up in.</desc>
+  </programme>
+  <programme channel="tv.51" start="20180726010000 +0000" stop="20180726030000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180726030000 +0000" stop="20180726040000 +0000">
+    <title>What You Want</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.51" start="20180726040000 +0000" stop="20180726050000 +0000">
+    <title>Daily Feed</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.51" start="20180726050000 +0000" stop="20180726053000 +0000">
+    <title>The Edge 30 Frontrunners</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.51" start="20180726053000 +0000" stop="20180726060000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180726060000 +0000" stop="20180726073000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180726073000 +0000" stop="20180726080000 +0000">
+    <title>This vs That 148</title>
+    <desc/>
+  </programme>
+  <programme channel="tv.51" start="20180726080000 +0000" stop="20180726090000 +0000">
+    <title>Taylor VS Katy</title>
+    <desc>Top 10 songs with a daily changing theme. Todays theme.. Taylor VS Katy</desc>
+  </programme>
+  <programme channel="tv.51" start="20180726090000 +0000" stop="20180726103000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.51" start="20180726103000 +0000" stop="20180726120000 +0000">
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
   <programme channel="tv.20" start="20180718110000 +0000" stop="20180718233000 +0000">
     <title>Te Reo</title>
     <desc>Māori Television specialises in the stories of Aotearoa. Be entertained and informed with news, current affairs, sports, drama, documentaries and much more. Go to www.Maoritelevision.com for more inf</desc>
@@ -23850,686 +24510,6 @@
     <desc>Most people only dream of living in Hawaii, but the real estate brokers at Hawaii Life can make that dream a reality for anyone. We follow everyday families as they turn their fantasy of a Hawaii Life into real life.</desc>
     <rating system="Freeview">
       <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180718103000 +0000" stop="20180718120000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180718120000 +0000" stop="20180718170000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180718170000 +0000" stop="20180718180000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180718180000 +0000" stop="20180718210000 +0000">
-    <title>Gym Bangers</title>
-    <desc>Kick-start your day on a healthier note with our workout playlist. Keep your heart rate up, and your love handles toned. Weekdays 6am - 9am on The Edge.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180718210000 +0000" stop="20180718220000 +0000">
-    <title>Chill</title>
-    <desc>Top 10 songs with a daily changing theme. Todays theme.. Chill</desc>
-  </programme>
-  <programme channel="tv.51" start="20180718220000 +0000" stop="20180719000000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180719000000 +0000" stop="20180719010000 +0000">
-    <title>Hot Tune Time Machine</title>
-    <desc>It's our throwback hour! We play the biggest clips from a different year each day. So step into our Hot Tune Time Machine, weekdays at midday. You'll never know what year you'll end up in.</desc>
-  </programme>
-  <programme channel="tv.51" start="20180719010000 +0000" stop="20180719050000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180719050000 +0000" stop="20180719053000 +0000">
-    <title>The Edge 30 Frontrunners</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.51" start="20180719053000 +0000" stop="20180719060000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180719060000 +0000" stop="20180719073000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180719073000 +0000" stop="20180719080000 +0000">
-    <title>This vs That</title>
-    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Avalanche City vs Owl City</desc>
-  </programme>
-  <programme channel="tv.51" start="20180719080000 +0000" stop="20180719090000 +0000">
-    <title>Chill</title>
-    <desc>Top 10 songs with a daily changing theme. Todays theme.. Chill</desc>
-  </programme>
-  <programme channel="tv.51" start="20180719090000 +0000" stop="20180719103000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180719103000 +0000" stop="20180719120000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180719120000 +0000" stop="20180719170000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180719170000 +0000" stop="20180719180000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180719180000 +0000" stop="20180719210000 +0000">
-    <title>Gym Bangers</title>
-    <desc>Kick-start your day on a healthier note with our workout playlist. Keep your heart rate up, and your love handles toned. Weekdays 6am - 9am on The Edge.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180719210000 +0000" stop="20180719220000 +0000">
-    <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Taylor Swift</desc>
-  </programme>
-  <programme channel="tv.51" start="20180719220000 +0000" stop="20180720000000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180720000000 +0000" stop="20180720010000 +0000">
-    <title>Hot Tune Time Machine</title>
-    <desc>It's our throwback hour! We play the biggest clips from a different year each day. So step into our Hot Tune Time Machine, weekdays at midday. You'll never know what year you'll end up in.</desc>
-  </programme>
-  <programme channel="tv.51" start="20180720010000 +0000" stop="20180720050000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180720050000 +0000" stop="20180720053000 +0000">
-    <title>The Edge 30 Frontrunners</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.51" start="20180720053000 +0000" stop="20180720060000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180720060000 +0000" stop="20180720073000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180720073000 +0000" stop="20180720080000 +0000">
-    <title>This vs That</title>
-    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - 5SOS vs 1D</desc>
-  </programme>
-  <programme channel="tv.51" start="20180720080000 +0000" stop="20180720090000 +0000">
-    <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Taylor Swift</desc>
-  </programme>
-  <programme channel="tv.51" start="20180720090000 +0000" stop="20180720103000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180720103000 +0000" stop="20180720120000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180720120000 +0000" stop="20180720170000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180720170000 +0000" stop="20180720180000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180720180000 +0000" stop="20180720210000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180720210000 +0000" stop="20180720220000 +0000">
-    <title>Jono And Ben</title>
-    <desc>New Episode. It's the 200th episode! To celebrate, we are blowing the dust off old tapes and rewinding back to when it all began with all your favourite sketches and pranks from the past 7 years.</desc>
-  </programme>
-  <programme channel="tv.51" start="20180720220000 +0000" stop="20180721010000 +0000">
-    <title>The Edge Fresh 40</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.51" start="20180721010000 +0000" stop="20180721040000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180721040000 +0000" stop="20180721050000 +0000">
-    <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Maroon 5</desc>
-  </programme>
-  <programme channel="tv.51" start="20180721050000 +0000" stop="20180721060000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180721060000 +0000" stop="20180721070000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180721070000 +0000" stop="20180721090000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180721090000 +0000" stop="20180721103000 +0000">
-    <title>Edge Mix</title>
-    <desc>Whether you are having a party at home or getting ready to head out, Edge Mix delivers the hottest soundtrack for your Saturday night - commercial free!</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180721103000 +0000" stop="20180721120000 +0000">
-    <title>Edge Mix</title>
-    <desc>Whether you are having a party at home or getting ready to head out, Edge Mix delivers the hottest soundtrack for your Saturday night - commercial free!</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180721120000 +0000" stop="20180721170000 +0000">
-    <title>Edge Mix</title>
-    <desc>Whether you are having a party at home or getting ready to head out, Edge Mix delivers the hottest soundtrack for your Saturday night - commercial free!</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180721170000 +0000" stop="20180721180000 +0000">
-    <title>Edge Mix</title>
-    <desc>Whether you are having a party at home or getting ready to head out, Edge Mix delivers the hottest soundtrack for your Saturday night - commercial free!</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180721180000 +0000" stop="20180721210000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180721210000 +0000" stop="20180721230000 +0000">
-    <title>The Edge 30</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.51" start="20180721230000 +0000" stop="20180722020000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180722020000 +0000" stop="20180722030000 +0000">
-    <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Maroon 5</desc>
-  </programme>
-  <programme channel="tv.51" start="20180722030000 +0000" stop="20180722050000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180722050000 +0000" stop="20180722060000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180722060000 +0000" stop="20180722090000 +0000">
-    <title>The Edge Fresh 40</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.51" start="20180722090000 +0000" stop="20180722103000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180722103000 +0000" stop="20180722120000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180722120000 +0000" stop="20180722170000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180722170000 +0000" stop="20180722180000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180722180000 +0000" stop="20180722210000 +0000">
-    <title>Gym Bangers</title>
-    <desc>Kick-start your day on a healthier note with our workout playlist. Keep your heart rate up, and your love handles toned. Weekdays 6am - 9am on The Edge.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180722210000 +0000" stop="20180722220000 +0000">
-    <title>Top 10</title>
-    <desc>Top 10 videos based on a certain theme - today - Ariana Grande!</desc>
-  </programme>
-  <programme channel="tv.51" start="20180722220000 +0000" stop="20180723000000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180723000000 +0000" stop="20180723010000 +0000">
-    <title>Hot Tune Time Machine</title>
-    <desc>It's our throwback hour! We play the biggest clips from a different year each day. So step into our Hot Tune Time Machine, weekdays at midday. You'll never know what year you'll end up in.</desc>
-  </programme>
-  <programme channel="tv.51" start="20180723010000 +0000" stop="20180723030000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180723030000 +0000" stop="20180723040000 +0000">
-    <title>What You Want</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.51" start="20180723040000 +0000" stop="20180723050000 +0000">
-    <title>Daily Feed</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.51" start="20180723050000 +0000" stop="20180723053000 +0000">
-    <title>The Edge 30 Frontrunners</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.51" start="20180723053000 +0000" stop="20180723060000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180723060000 +0000" stop="20180723073000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180723073000 +0000" stop="20180723080000 +0000">
-    <title>This vs That</title>
-    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - NZ Vs Aus</desc>
-  </programme>
-  <programme channel="tv.51" start="20180723080000 +0000" stop="20180723090000 +0000">
-    <title>Top 10</title>
-    <desc>Top 10 videos based on a certain theme - today - Ariana Grande!</desc>
-  </programme>
-  <programme channel="tv.51" start="20180723090000 +0000" stop="20180723103000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180723103000 +0000" stop="20180723120000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180723120000 +0000" stop="20180723170000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180723170000 +0000" stop="20180723180000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180723180000 +0000" stop="20180723210000 +0000">
-    <title>Gym Bangers</title>
-    <desc>Kick-start your day on a healthier note with our workout playlist. Keep your heart rate up, and your love handles toned. Weekdays 6am - 9am on The Edge.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180723210000 +0000" stop="20180723220000 +0000">
-    <title>Started on Youtube</title>
-    <desc>Top 10 songs with a daily changing theme. Todays theme.. Started On Youtube</desc>
-  </programme>
-  <programme channel="tv.51" start="20180723220000 +0000" stop="20180724000000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180724000000 +0000" stop="20180724010000 +0000">
-    <title>Hot Tune Time Machine</title>
-    <desc>It's our throwback hour! We play the biggest clips from a different year each day. So step into our Hot Tune Time Machine, weekdays at midday. You'll never know what year you'll end up in.</desc>
-  </programme>
-  <programme channel="tv.51" start="20180724010000 +0000" stop="20180724030000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180724030000 +0000" stop="20180724040000 +0000">
-    <title>What You Want</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.51" start="20180724040000 +0000" stop="20180724050000 +0000">
-    <title>Daily Feed</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.51" start="20180724050000 +0000" stop="20180724053000 +0000">
-    <title>The Edge 30 Frontrunners</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.51" start="20180724053000 +0000" stop="20180724060000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180724060000 +0000" stop="20180724073000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180724073000 +0000" stop="20180724080000 +0000">
-    <title>This vs That 146</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.51" start="20180724080000 +0000" stop="20180724090000 +0000">
-    <title>Romance</title>
-    <desc>Top 10 songs with a daily changing theme. Todays theme.. Romance</desc>
-  </programme>
-  <programme channel="tv.51" start="20180724090000 +0000" stop="20180724103000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180724103000 +0000" stop="20180724120000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180724120000 +0000" stop="20180724170000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180724170000 +0000" stop="20180724180000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180724180000 +0000" stop="20180724210000 +0000">
-    <title>Gym Bangers</title>
-    <desc>Kick-start your day on a healthier note with our workout playlist. Keep your heart rate up, and your love handles toned. Weekdays 6am - 9am on The Edge.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180724210000 +0000" stop="20180724220000 +0000">
-    <title>Taylor VS Katy</title>
-    <desc>Top 10 songs with a daily changing theme. Todays theme.. Taylor VS Katy</desc>
-  </programme>
-  <programme channel="tv.51" start="20180724220000 +0000" stop="20180725000000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180725000000 +0000" stop="20180725010000 +0000">
-    <title>Hot Tune Time Machine</title>
-    <desc>It's our throwback hour! We play the biggest clips from a different year each day. So step into our Hot Tune Time Machine, weekdays at midday. You'll never know what year you'll end up in.</desc>
-  </programme>
-  <programme channel="tv.51" start="20180725010000 +0000" stop="20180725030000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180725030000 +0000" stop="20180725040000 +0000">
-    <title>What You Want</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.51" start="20180725040000 +0000" stop="20180725050000 +0000">
-    <title>Daily Feed</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.51" start="20180725050000 +0000" stop="20180725053000 +0000">
-    <title>The Edge 30 Frontrunners</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.51" start="20180725053000 +0000" stop="20180725060000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180725060000 +0000" stop="20180725073000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180725073000 +0000" stop="20180725080000 +0000">
-    <title>This vs That 147</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.51" start="20180725080000 +0000" stop="20180725090000 +0000">
-    <title>Started on Youtube</title>
-    <desc>Top 10 songs with a daily changing theme. Todays theme.. Started On Youtube</desc>
-  </programme>
-  <programme channel="tv.51" start="20180725090000 +0000" stop="20180725103000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180725103000 +0000" stop="20180725120000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180725120000 +0000" stop="20180725170000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180725170000 +0000" stop="20180725180000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180725180000 +0000" stop="20180725210000 +0000">
-    <title>Gym Bangers</title>
-    <desc>Kick-start your day on a healthier note with our workout playlist. Keep your heart rate up, and your love handles toned. Weekdays 6am - 9am on The Edge.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180725210000 +0000" stop="20180725220000 +0000">
-    <title>Body Positivity!</title>
-    <desc>Top 10 songs with a daily changing theme. Todays theme.. Body Positivity!</desc>
-  </programme>
-  <programme channel="tv.51" start="20180725220000 +0000" stop="20180726000000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180726000000 +0000" stop="20180726010000 +0000">
-    <title>Hot Tune Time Machine</title>
-    <desc>It's our throwback hour! We play the biggest clips from a different year each day. So step into our Hot Tune Time Machine, weekdays at midday. You'll never know what year you'll end up in.</desc>
-  </programme>
-  <programme channel="tv.51" start="20180726010000 +0000" stop="20180726030000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180726030000 +0000" stop="20180726040000 +0000">
-    <title>What You Want</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.51" start="20180726040000 +0000" stop="20180726050000 +0000">
-    <title>Daily Feed</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.51" start="20180726050000 +0000" stop="20180726053000 +0000">
-    <title>The Edge 30 Frontrunners</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.51" start="20180726053000 +0000" stop="20180726060000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180726060000 +0000" stop="20180726073000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180726073000 +0000" stop="20180726080000 +0000">
-    <title>This vs That 148</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.51" start="20180726080000 +0000" stop="20180726090000 +0000">
-    <title>Taylor VS Katy</title>
-    <desc>Top 10 songs with a daily changing theme. Todays theme.. Taylor VS Katy</desc>
-  </programme>
-  <programme channel="tv.51" start="20180726090000 +0000" stop="20180726103000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.51" start="20180726103000 +0000" stop="20180726120000 +0000">
-    <title>All The Hits</title>
-    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
-    <rating system="Freeview">
-      <value>AO</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180718113000 +0000" stop="20180718123000 +0000">
@@ -53290,7 +53270,7 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180724093000 +0000" stop="20180724103000 +0000">
-    <title>Five Day Flip</title>
+    <title>Say Yes to the Dress Atlanta</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -53344,9 +53324,9 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180724170000 +0000" stop="20180724180000 +0000">
-    <title>Good Bones</title>
+    <title>Texas Flip N' Move</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180724180000 +0000" stop="20180724183000 +0000">
@@ -61130,7 +61110,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180718203100 +0000" stop="20180718210300 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -61351,7 +61331,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180719203100 +0000" stop="20180719210300 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
