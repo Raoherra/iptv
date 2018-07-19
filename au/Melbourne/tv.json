@@ -7,9 +7,9 @@
         "network": "SEVEN",
         "stream_type": "scraped",
         "video": {
+            "width": 896,
             "height": 504,
-            "codec": "h264",
-            "width": 896
+            "codec": "h264"
         },
         "audio": {
             "sample_rate": 48000,
@@ -33,9 +33,9 @@
         "network": "SEVEN",
         "stream_type": "scraped",
         "video": {
+            "width": 640,
             "height": 360,
-            "codec": "h264",
-            "width": 640
+            "codec": "h264"
         },
         "audio": {
             "sample_rate": 48000,
@@ -59,9 +59,9 @@
         "network": "SEVEN",
         "stream_type": "scraped",
         "video": {
+            "width": 896,
             "height": 504,
-            "codec": "h264",
-            "width": 896
+            "codec": "h264"
         },
         "audio": {
             "sample_rate": 48000,
@@ -163,9 +163,9 @@
         "network": "ABC",
         "stream_type": "Token",
         "video": {
+            "width": 640,
             "height": 360,
-            "codec": "h264",
-            "width": 640
+            "codec": "h264"
         },
         "audio": {
             "sample_rate": 44100,
@@ -195,8 +195,8 @@
         },
         "audio": {
             "sample_rate": 44100,
-            "channels": 2,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002210222/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101002210222.m3u8",
@@ -215,9 +215,9 @@
         "network": "ABC",
         "stream_type": "Token",
         "video": {
+            "width": 640,
             "height": 360,
-            "codec": "h264",
-            "width": 640
+            "codec": "h264"
         },
         "audio": {
             "sample_rate": 44100,
@@ -420,9 +420,9 @@
         "network": "SEVEN",
         "stream_type": "scraped",
         "video": {
+            "width": 640,
             "height": 360,
-            "codec": "h264",
-            "width": 640
+            "codec": "h264"
         },
         "audio": {
             "sample_rate": 48000,
@@ -522,9 +522,9 @@
         "network": "SEVEN",
         "stream_type": "scraped",
         "video": {
+            "width": 896,
             "height": 504,
-            "codec": "h264",
-            "width": 896
+            "codec": "h264"
         },
         "audio": {
             "sample_rate": 48000,
