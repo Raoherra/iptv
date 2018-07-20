@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180720052812 +0000" stop="20180720064116 +0000">
-    <title>Pretty Sweet</title>
-    <desc>Skateboarding's two hottest teams, Girl and Chocolate, combine forces to deliver a blockbuster skate movie.</desc>
-    <sub-title>A Girl and Chocolate Skateboard Film</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180720064116 +0000" stop="20180720073802 +0000">
     <title>Surfers' Blood</title>
     <desc>This film tells the universal story of individuals who share deep bloodlines connected to the sea.</desc>
@@ -5023,6 +5018,9 @@
   <programme channel="tv.11" start="20180720090000 +0000" stop="20180720094500 +0000">
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Mel Bracewell, Jeremy Elwood, Harley Breen and Ben Hurley.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180720094500 +0000" stop="20180720101500 +0000">
     <title>Fail Army</title>
@@ -5038,6 +5036,9 @@
   <programme channel="tv.11" start="20180720104000 +0000" stop="20180720111000 +0000">
     <title>The Spinoff TV</title>
     <desc>New Episode. Comedy trio 'Frickin Dangerous Bro' investigate the different ways to use yoga pants and Hayden Donnell looks into the misery of the rental housing market.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180720111000 +0000" stop="20180720120500 +0000">
     <title>Hawaii Five-O</title>
@@ -5274,14 +5275,14 @@
     <title>Newshub Live At 6pm</title>
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
   </programme>
-  <programme channel="tv.11" start="20180722070000 +0000" stop="20180722083000 +0000">
+  <programme channel="tv.11" start="20180722070000 +0000" stop="20180722083500 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. A roller coaster of a week sees teams struggling to see the light as the room reveal looms. Later, as rooms are revealed, have the teams done enough to impress the judges? S7 Ep9</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180722083000 +0000" stop="20180722111500 +0000">
+  <programme channel="tv.11" start="20180722083500 +0000" stop="20180722111000 +0000">
     <title>X-Men: Apocalypse</title>
     <desc>After the re-emergence of the world's first mutant, the world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan. Starring James McAvoy and Michael Fassbender. (2016)</desc>
     <audio>
@@ -5291,7 +5292,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180722111500 +0000" stop="20180722121000 +0000">
+  <programme channel="tv.11" start="20180722111000 +0000" stop="20180722120500 +0000">
     <title>Chicago Med</title>
     <desc>A complicated case centers on a sick family. Meanwhile, Dr. Charles asks Sarah to conduct his daughter's psych evaluation. S2 Ep21</desc>
     <audio>
@@ -5301,14 +5302,14 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180722121000 +0000" stop="20180722130500 +0000">
+  <programme channel="tv.11" start="20180722120500 +0000" stop="20180722130000 +0000">
     <title>Entertainment Tonight Weekend</title>
     <desc>A wrap up of the biggest entertainment stories of the last week.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180722130500 +0000" stop="20180722173000 +0000">
+  <programme channel="tv.11" start="20180722130000 +0000" stop="20180722173000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -5411,18 +5412,21 @@
     <title>The Project</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
-  <programme channel="tv.11" start="20180723073000 +0000" stop="20180723083000 +0000">
+  <programme channel="tv.11" start="20180723073000 +0000" stop="20180723083500 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. Strategies bubble to the surface when the Dinner Wars kicks off. Then, the teams take a look inside each other's bathrooms and judge each other's rooms. S7 Ep10</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme channel="tv.11" start="20180723083000 +0000" stop="20180723093000 +0000">
+  <programme channel="tv.11" start="20180723083500 +0000" stop="20180723093500 +0000">
     <title>Westside</title>
     <desc>New Episode. Wolf and Cheryl grieve at Tutaekuri Bay, while Rita suffocates in a full house and seeks help from an unlikely source. Ted gambles with his future. S4 Ep3</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180723093000 +0000" stop="20180723103500 +0000">
+  <programme channel="tv.11" start="20180723093500 +0000" stop="20180723104000 +0000">
     <title>Humans</title>
     <desc>New Episode. Laura wants the truth about Operation Basswood, Mattie and Leo confront their feelings, and Niska receives a mysterious message. S3 Ep3</desc>
     <audio>
@@ -5432,7 +5436,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180723103500 +0000" stop="20180723110500 +0000">
+  <programme channel="tv.11" start="20180723104000 +0000" stop="20180723110500 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
@@ -5493,6 +5497,9 @@
   <programme channel="tv.11" start="20180724010000 +0000" stop="20180724020000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. Strategies bubble to the surface when the Dinner Wars kicks off. Then, the teams take a look inside each other's bathrooms and judge each other's rooms. S7 Ep10</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180724020000 +0000" stop="20180724030000 +0000">
     <title>Wipeout</title>
@@ -6909,7 +6916,7 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20180726023000 +0000" stop="20180726032800 +0000">
-    <title>The Case Of Casey Anthony</title>
+    <title>The Case Of Caylee Anthony</title>
     <desc></desc>
     <rating system="Freeview">
       <value>PGR</value>
@@ -12145,6 +12152,9 @@
   <programme channel="tv.27" start="20180720100000 +0000" stop="20180720104500 +0000">
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Mel Bracewell, Jeremy Elwood, Harley Breen and Ben Hurley.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180720104500 +0000" stop="20180720111500 +0000">
     <title>Fail Army</title>
@@ -12160,6 +12170,9 @@
   <programme channel="tv.27" start="20180720114000 +0000" stop="20180720121000 +0000">
     <title>The Spinoff TV</title>
     <desc>New Episode. Comedy trio 'Frickin Dangerous Bro' investigate the different ways to use yoga pants and Hayden Donnell looks into the misery of the rental housing market.</desc>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180720121000 +0000" stop="20180720130500 +0000">
     <title>Hawaii Five-O</title>
@@ -12384,35 +12397,35 @@
     <title>Newshub Live At 6pm</title>
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
   </programme>
-  <programme channel="tv.27" start="20180722080000 +0000" stop="20180722093000 +0000">
+  <programme channel="tv.27" start="20180722080000 +0000" stop="20180722093500 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. A roller coaster of a week sees teams struggling to see the light as the room reveal looms. Later, as rooms are revealed, have the teams done enough to impress the judges? S7 Ep9</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180722093000 +0000" stop="20180722121500 +0000">
+  <programme channel="tv.27" start="20180722093500 +0000" stop="20180722121000 +0000">
     <title>X-Men: Apocalypse</title>
     <desc>After the re-emergence of the world's first mutant, the world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan. Starring James McAvoy and Michael Fassbender. (2016)</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180722121500 +0000" stop="20180722131000 +0000">
+  <programme channel="tv.27" start="20180722121000 +0000" stop="20180722130500 +0000">
     <title>Chicago Med</title>
     <desc>A complicated case centers on a sick family. Meanwhile, Dr. Charles asks Sarah to conduct his daughter's psych evaluation. S2 Ep21</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180722131000 +0000" stop="20180722140500 +0000">
+  <programme channel="tv.27" start="20180722130500 +0000" stop="20180722140000 +0000">
     <title>Entertainment Tonight Weekend</title>
     <desc>A wrap up of the biggest entertainment stories of the last week.</desc>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180722140500 +0000" stop="20180722183000 +0000">
+  <programme channel="tv.27" start="20180722140000 +0000" stop="20180722183000 +0000">
     <title>Infomercials</title>
     <desc></desc>
   </programme>
@@ -12515,25 +12528,28 @@
     <title>The Project</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Jeremy Corbett, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
   </programme>
-  <programme channel="tv.27" start="20180723083000 +0000" stop="20180723093000 +0000">
+  <programme channel="tv.27" start="20180723083000 +0000" stop="20180723093500 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. Strategies bubble to the surface when the Dinner Wars kicks off. Then, the teams take a look inside each other's bathrooms and judge each other's rooms. S7 Ep10</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme channel="tv.27" start="20180723093000 +0000" stop="20180723103000 +0000">
+  <programme channel="tv.27" start="20180723093500 +0000" stop="20180723103500 +0000">
     <title>Westside</title>
     <desc>New Episode. Wolf and Cheryl grieve at Tutaekuri Bay, while Rita suffocates in a full house and seeks help from an unlikely source. Ted gambles with his future. S4 Ep3</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180723103000 +0000" stop="20180723113500 +0000">
+  <programme channel="tv.27" start="20180723103500 +0000" stop="20180723114000 +0000">
     <title>Humans</title>
     <desc>New Episode. Laura wants the truth about Operation Basswood, Mattie and Leo confront their feelings, and Niska receives a mysterious message. S3 Ep3</desc>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180723113500 +0000" stop="20180723120500 +0000">
+  <programme channel="tv.27" start="20180723114000 +0000" stop="20180723120500 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
   </programme>
@@ -12594,6 +12610,9 @@
   <programme channel="tv.27" start="20180724020000 +0000" stop="20180724030000 +0000">
     <title>The Block NZ</title>
     <desc>New Episode. Strategies bubble to the surface when the Dinner Wars kicks off. Then, the teams take a look inside each other's bathrooms and judge each other's rooms. S7 Ep10</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180724030000 +0000" stop="20180724040000 +0000">
     <title>Wipeout</title>
@@ -13977,7 +13996,7 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20180726033000 +0000" stop="20180726042800 +0000">
-    <title>The Case Of Casey Anthony</title>
+    <title>The Case Of Caylee Anthony</title>
     <desc></desc>
     <rating system="Freeview">
       <value>PGR</value>
@@ -16245,21 +16264,21 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180723103500 +0000" stop="20180723110500 +0000">
+  <programme channel="tv.65" start="20180723103500 +0000" stop="20180723110000 +0000">
     <title>Good Chef Bad Chef</title>
     <desc>Most of us are relatively unaccustomed to the rich salty flavours of Icelandic cuisine. Our chefs serve up three traditional Icelandic dishes, biximatur, lox gravlax and lummur. S4 Ep36</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180723110500 +0000" stop="20180723113500 +0000">
+  <programme channel="tv.65" start="20180723110000 +0000" stop="20180723113000 +0000">
     <title>Everyday Gourmet With Justine Schofield</title>
     <desc>Sliders are on trend right now, and Andy Allen shows you how to make them at home. Justine makes a lovely quiche and honey soy sticky beef skewers. S3 Ep10</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180723113500 +0000" stop="20180723120000 +0000">
+  <programme channel="tv.65" start="20180723113000 +0000" stop="20180723120000 +0000">
     <title>Australia's Best Houses</title>
     <desc>Australia's Best Houses walks you through some of the most exciting and visually stunning house projects in Australia, from sprawling country houses to homes are designed for urban small spaces.</desc>
     <rating system="Freeview">
@@ -16434,28 +16453,28 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180724090500 +0000" stop="20180724100000 +0000">
+  <programme channel="tv.65" start="20180724090500 +0000" stop="20180724100500 +0000">
     <title>Ultimate Traveller</title>
     <desc>The tension mounts among the girls, while the boys are looking for adventure. S1 Ep2</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180724100000 +0000" stop="20180724103000 +0000">
+  <programme channel="tv.65" start="20180724100500 +0000" stop="20180724103000 +0000">
     <title>Vacation Creation</title>
     <desc>A Marine who suffered multiple combat injuries and is training to be a chef is given a culinary cruise with his family on the Crown Princess. S1 Ep15</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180724103000 +0000" stop="20180724110500 +0000">
+  <programme channel="tv.65" start="20180724103000 +0000" stop="20180724110000 +0000">
     <title>Good Chef Bad Chef</title>
     <desc>Our chefs create some nibbles to enjoy during the summer months. Janella shows us how to make Japanese millet and quinoa balls while Adrian makes kataifi prawns. S4 Ep37</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.65" start="20180724110500 +0000" stop="20180724113000 +0000">
+  <programme channel="tv.65" start="20180724110000 +0000" stop="20180724113000 +0000">
     <title>Everyday Gourmet With Justine Schofield</title>
     <desc>Justine makes roast lamb rumps with pickled onion salad, while Naomi creates little lemon meringue cakes for dessert. S3 Ep11</desc>
     <rating system="Freeview">
