@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180721173055 +0000" stop="20180721185547 +0000">
-    <title>Séan Garnier vs The World</title>
-    <desc>Freestyle football has been Séan Garnier’s ticket to the world, but success never comes without sacrifice.</desc>
-    <sub-title>From the streets to the stage to the top</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180721185547 +0000" stop="20180721190337 +0000">
-    <title>The Curry Connection S1E1</title>
-    <desc>Jaakko Ojanen and friends find a skatepark at the end of a tree-lined road, and shred a hotel building site.</desc>
-    <sub-title>Chapter I: Goa </sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180721190337 +0000" stop="20180721191301 +0000">
     <title>The Curry Connection S1E2</title>
     <desc>Christian Bica and friends immerse themselves in the city of Bangalore, known as the skate capital of India.</desc>
@@ -57206,10 +57196,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180726053200 +0000" stop="20180726063000 +0000">
-    <title>The Indian Doctor</title>
+  <programme channel="tv.101305020522" start="20180726053200 +0000" stop="20180726063100 +0000">
+    <title>Auction Squad</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180726063000 +0000" stop="20180726070100 +0000">
@@ -58381,8 +58372,8 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180724173000 +0000" stop="20180724180000 +0000">
-    <title>Counting Cars</title>
+  <programme channel="tv.101305020523" start="20180724173000 +0000" stop="20180724182900 +0000">
+    <title>Ice Road Truckers</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -59252,7 +59243,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180721200000 +0000" stop="20180721203100 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -59859,7 +59850,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180724200000 +0000" stop="20180724203100 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -60279,7 +60270,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180726200000 +0000" stop="20180726203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
