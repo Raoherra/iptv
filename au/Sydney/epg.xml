@@ -260,14 +260,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180722020000 +0000" stop="20180722023000 +0000">
-    <title>ABC News</title>
+    <title>ABC News Weekend</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180722020000 +0000" stop="20180722023000 +0000">
-    <title>ABC News Weekend</title>
+    <title>ABC News</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -21443,14 +21443,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180724200000 +0000" stop="20180724203100 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180724200000 +0000" stop="20180724203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -21673,21 +21673,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180725200000 +0000" stop="20180725203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180725200000 +0000" stop="20180725203100 +0000">
-    <title>ZooMoo Lost</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020525" start="20180725203100 +0000" stop="20180725210300 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -21695,6 +21688,13 @@
   </programme>
   <programme channel="tv.101305020525" start="20180725203100 +0000" stop="20180725210300 +0000">
     <title>It's Academic</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020525" start="20180725203100 +0000" stop="20180725210300 +0000">
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -21891,21 +21891,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180726200000 +0000" stop="20180726203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180726200000 +0000" stop="20180726203100 +0000">
-    <title>ZooMoo Lost</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020525" start="20180726203100 +0000" stop="20180726210300 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -21913,6 +21906,13 @@
   </programme>
   <programme channel="tv.101305020525" start="20180726203100 +0000" stop="20180726210300 +0000">
     <title>It's Academic</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020525" start="20180726203100 +0000" stop="20180726210300 +0000">
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -22096,15 +22096,15 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180727203100 +0000" stop="20180727210300 +0000">
+    <title>ZooMoo Lost</title>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme channel="tv.101305020525" start="20180727203100 +0000" stop="20180727210300 +0000">
     <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
-  </programme>
-  <programme channel="tv.101305020525" start="20180727203100 +0000" stop="20180727210300 +0000">
-    <title>ZooMoo Lost</title>
-    <subtitles type="teletext"/>
   </programme>
   <programme channel="tv.101305020525" start="20180727210300 +0000" stop="20180727213200 +0000">
     <title>Randy Cunningham: 9th Grade Ninja</title>
@@ -37386,16 +37386,6 @@
     <rating system="Freeview">
       <value>MA</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180721192211 +0000" stop="20180721201742 +0000">
-    <title>Visions of Greatness S1E5</title>
-    <desc>The chasing for a dream is fraught with failure, but those who achieve greatness approach failure differently.</desc>
-    <sub-title>The Resilient</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180721201742 +0000" stop="20180721204755 +0000">
-    <title>Your Street My Stage S1E6</title>
-    <desc>The European capital of street performers is home to many hardworking specialty acts who love to entertain.</desc>
-    <sub-title>London</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180721204755 +0000" stop="20180721213445 +0000">
     <title>Breaking the Day  S1E2</title>
