@@ -161,21 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180721040127 +0000" stop="20180721042204 +0000">
-    <title>Next in Line</title>
-    <desc>Swedish hip-hop star Elliphant brings a young artist to New York City for a shot at her first big break.</desc>
-    <sub-title>Shaping Sweden's Hip-Hop Talent</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180721042204 +0000" stop="20180721043523 +0000">
-    <title>Highlights: LA Street Art</title>
-    <desc>The first-ever gallery-curated street art show sparks a debate between artists and authorities.</desc>
-    <sub-title>Creativity or Crime?</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180721043523 +0000" stop="20180721050030 +0000">
-    <title>Bullit: The Documentary S1E2</title>
-    <desc>At the Del Mar racetrack in San Diego, California, meet one of the few female jockeys in pro horse racing.</desc>
-    <sub-title>The Race Track</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180721050030 +0000" stop="20180721053934 +0000">
     <title>unReal</title>
     <desc>Break free from the confines of everyday life and venture into a limitless world of wonder and potential.</desc>
@@ -3336,6 +3321,9 @@
   <programme channel="tv.10" start="20180724040000 +0000" stop="20180724043000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet an Aotearoa Superhero that's doing their part to save the Maui dolphins, our Ask Me Anything vet Stacey answers all your canine questions, and send us in your pet tricks to win a treat!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180724043000 +0000" stop="20180724050000 +0000">
     <title>Friends</title>
@@ -10541,6 +10529,9 @@
   <programme channel="tv.14" start="20180724050000 +0000" stop="20180724053000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet an Aotearoa Superhero that's doing their part to save the Maui dolphins, our Ask Me Anything vet Stacey answers all your canine questions, and send us in your pet tricks to win a treat!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180724053000 +0000" stop="20180724060000 +0000">
     <title>Friends</title>
@@ -18148,6 +18139,9 @@
     <title>Movie:LOTR Return of the King</title>
     <desc>Winner of 11 Oscars, in this magnificent journey, Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180724121000 +0000" stop="20180724123500 +0000">
     <title>MLS Highlights</title>

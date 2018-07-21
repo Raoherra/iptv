@@ -280,21 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180721040127 +0000" stop="20180721042204 +0000">
-    <title>Next in Line</title>
-    <desc>Swedish hip-hop star Elliphant brings a young artist to New York City for a shot at her first big break.</desc>
-    <sub-title>Shaping Sweden's Hip-Hop Talent</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180721042204 +0000" stop="20180721043523 +0000">
-    <title>Highlights: LA Street Art</title>
-    <desc>The first-ever gallery-curated street art show sparks a debate between artists and authorities.</desc>
-    <sub-title>Creativity or Crime?</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180721043523 +0000" stop="20180721050030 +0000">
-    <title>Bullit: The Documentary S1E2</title>
-    <desc>At the Del Mar racetrack in San Diego, California, meet one of the few female jockeys in pro horse racing.</desc>
-    <sub-title>The Race Track</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180721050030 +0000" stop="20180721053934 +0000">
     <title>unReal</title>
     <desc>Break free from the confines of everyday life and venture into a limitless world of wonder and potential.</desc>
@@ -3455,6 +3440,9 @@
   <programme channel="tv.10" start="20180724040000 +0000" stop="20180724043000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet an Aotearoa Superhero that's doing their part to save the Maui dolphins, our Ask Me Anything vet Stacey answers all your canine questions, and send us in your pet tricks to win a treat!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180724043000 +0000" stop="20180724050000 +0000">
     <title>Friends</title>
@@ -10660,6 +10648,9 @@
   <programme channel="tv.14" start="20180724050000 +0000" stop="20180724053000 +0000">
     <title>Fanimals</title>
     <desc>Today we meet an Aotearoa Superhero that's doing their part to save the Maui dolphins, our Ask Me Anything vet Stacey answers all your canine questions, and send us in your pet tricks to win a treat!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180724053000 +0000" stop="20180724060000 +0000">
     <title>Friends</title>
@@ -18267,6 +18258,9 @@
     <title>Movie:LOTR Return of the King</title>
     <desc>Winner of 11 Oscars, in this magnificent journey, Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.</desc>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180724121000 +0000" stop="20180724123500 +0000">
     <title>MLS Highlights</title>
@@ -39792,7 +39786,7 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180722020000 +0000" stop="20180722023000 +0000">
-    <title>ABC News</title>
+    <title>ABC News Weekend</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -51760,7 +51754,7 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180724093000 +0000" stop="20180724103000 +0000">
-    <title>Say Yes to the Dress Atlanta</title>
+    <title>Five Day Flip</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -59258,8 +59252,8 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180724173000 +0000" stop="20180724180000 +0000">
-    <title>Counting Cars</title>
+  <programme channel="tv.101305020523" start="20180724173000 +0000" stop="20180724182900 +0000">
+    <title>Ice Road Truckers</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -60156,7 +60150,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180721200000 +0000" stop="20180721203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -60331,7 +60325,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180722200000 +0000" stop="20180722203100 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -60763,7 +60757,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180724200000 +0000" stop="20180724203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -60979,14 +60973,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180725200000 +0000" stop="20180725203100 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180725203100 +0000" stop="20180725210300 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -61183,14 +61177,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180726200000 +0000" stop="20180726203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180726203100 +0000" stop="20180726210300 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -61363,11 +61357,8 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180727200000 +0000" stop="20180727203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180727203100 +0000" stop="20180727210300 +0000">
     <title>ZooMoo Lost</title>
