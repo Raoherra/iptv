@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180721204755 +0000" stop="20180721213445 +0000">
-    <title>Breaking the Day  S1E2</title>
-    <desc>Freediving saved Stig Pryds's life. Now he's preparing to put his life on the line for his deepest dive yet. </desc>
-    <sub-title>Free Diver</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180721213445 +0000" stop="20180721230556 +0000">
     <title>On Any Sunday: The Next Chapter</title>
     <desc>This sequel to the classic 1971 documentary On Any Sunday captures the passion for motorcycle riding.</desc>
@@ -40239,6 +40234,12 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180729140000 +0000" stop="20180729141500 +0000">
+    <title>ABC Late News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180721133800 +0000" stop="20180721185900 +0000">
     <title>rage: Guest Programmer</title>
     <rating system="Freeview">
@@ -50804,7 +50805,7 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180724093000 +0000" stop="20180724103000 +0000">
-    <title>Five Day Flip</title>
+    <title>Say Yes to the Dress Atlanta</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -51785,6 +51786,12 @@
     <title>House Hunters International</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200424" start="20180729140000 +0000" stop="20180729150000 +0000">
+    <title>Fixer Upper</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20180721133500 +0000" stop="20180721143200 +0000">
@@ -55041,6 +55048,12 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200428" start="20180729140000 +0000" stop="20180729140500 +0000">
+    <title>[adult swim]</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020520" start="20180721135600 +0000" stop="20180721142800 +0000">
     <title>The Goldbergs</title>
     <subtitles type="teletext"/>
@@ -56783,11 +56796,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180724053800 +0000" stop="20180724063700 +0000">
-    <title>Auction Squad</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020522" start="20180724053800 +0000" stop="20180724063500 +0000">
+    <title>The Indian Doctor</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180724063500 +0000" stop="20180724070300 +0000">
@@ -59222,14 +59234,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180721200000 +0000" stop="20180721203100 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180721203100 +0000" stop="20180721210300 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -59397,7 +59409,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180722200000 +0000" stop="20180722203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -59592,7 +59604,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180723200000 +0000" stop="20180723203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -60249,14 +60261,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180726200000 +0000" stop="20180726203100 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180726203100 +0000" stop="20180726210300 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -60433,8 +60445,11 @@
     <subtitles type="teletext"/>
   </programme>
   <programme channel="tv.101305020525" start="20180727203100 +0000" stop="20180727210300 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180727210300 +0000" stop="20180727213200 +0000">
     <title>Randy Cunningham: 9th Grade Ninja</title>
@@ -62755,6 +62770,13 @@
   </programme>
   <programme channel="tv.101305020528" start="20180729133000 +0000" stop="20180729140000 +0000">
     <title>Raceday Review - Gawler</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180729140000 +0000" stop="20180729143000 +0000">
+    <title>Raceday Review - Racing.com Park</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -73662,6 +73684,12 @@
     <title>Big Bad BBQ Brawl</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180729140000 +0000" stop="20180729142500 +0000">
+    <title>Big Bad BBQ Brawl</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20180721103000 +0000" stop="20180721140000 +0000">
