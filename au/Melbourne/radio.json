@@ -630,9 +630,9 @@
         "stream_type": "DEFAULT",
         "name": "Curtin Radio",
         "audio": {
+            "channels": 1,
             "sample_rate": 44100,
-            "codec": "mp3",
-            "channels": 1
+            "codec": "mp3"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.curtin.radio/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.curtin.radio",
@@ -673,9 +673,9 @@
             "Holiday"
         ],
         "audio": {
+            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac",
-            "channels": 2
+            "codec": "aac"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6440/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6440",
