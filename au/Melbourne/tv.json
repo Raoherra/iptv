@@ -85,13 +85,13 @@
         "network": "NINE",
         "stream_type": "Scraped",
         "video": {
-            "codec": "h264",
             "width": 1280,
-            "height": 720
+            "height": 720,
+            "codec": "h264"
         },
         "audio": {
-            "codec": "aac",
             "channels": 2,
+            "codec": "aac",
             "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300436/m.m3u8",
@@ -111,13 +111,13 @@
         "network": "NINE",
         "stream_type": "Scraped",
         "video": {
-            "codec": "h264",
             "width": 1280,
-            "height": 720
+            "height": 720,
+            "codec": "h264"
         },
         "audio": {
-            "codec": "aac",
             "channels": 2,
+            "codec": "aac",
             "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300437/m.m3u8",
@@ -283,14 +283,14 @@
         "network": "TEN",
         "stream_type": "DEFAULT",
         "audio": {
-            "codec": "aac",
             "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100
         },
         "video": {
-            "codec": "h264",
             "width": 1024,
-            "height": 576
+            "height": 576,
+            "codec": "h264"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101406030638/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101406030638.m3u8",
@@ -309,13 +309,13 @@
         "network": "SBS",
         "stream_type": "DEFAULT",
         "video": {
-            "codec": "h264",
             "width": 1024,
-            "height": 576
+            "height": 576,
+            "codec": "h264"
         },
         "audio": {
-            "codec": "aac",
             "channels": 2,
+            "codec": "aac",
             "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.320203000304/m.m3u8",
@@ -358,13 +358,13 @@
         "network": "SBS",
         "stream_type": "DEFAULT",
         "video": {
-            "codec": "h264",
             "width": 1024,
-            "height": 576
+            "height": 576,
+            "codec": "h264"
         },
         "audio": {
-            "codec": "aac",
             "channels": 2,
+            "codec": "aac",
             "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.320203000305/m.m3u8",
@@ -384,13 +384,13 @@
         "network": "TEN",
         "stream_type": "DEFAULT",
         "video": {
-            "codec": "h264",
             "width": 1024,
-            "height": 576
+            "height": 576,
+            "codec": "h264"
         },
         "audio": {
-            "codec": "aac",
             "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101406030631/m.m3u8",
@@ -433,13 +433,13 @@
         "name": "Redbull TV",
         "stream_type": "DEFAULT",
         "video": {
-            "codec": "h264",
             "width": 1280,
-            "height": 720
+            "height": 720,
+            "codec": "h264"
         },
         "audio": {
-            "codec": "aac",
             "channels": 2,
+            "codec": "aac",
             "sample_rate": 48000
         },
         "description": "Red Bull TV: beyond the ordinary live events and videos featuring inspirational stories covering sports, music and lifestyle entertainment. Anytime, anywhere.",
@@ -460,13 +460,13 @@
         "network": "SBS",
         "stream_type": "DEFAULT",
         "video": {
-            "codec": "h264",
             "width": 1024,
-            "height": 576
+            "height": 576,
+            "codec": "h264"
         },
         "audio": {
-            "codec": "aac",
             "channels": 2,
+            "codec": "aac",
             "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.320203000301/m.m3u8",
@@ -486,13 +486,13 @@
         "network": "SBS",
         "stream_type": "DEFAULT",
         "video": {
-            "codec": "h264",
             "width": 1024,
-            "height": 576
+            "height": 576,
+            "codec": "h264"
         },
         "audio": {
-            "codec": "aac",
             "channels": 2,
+            "codec": "aac",
             "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.320203000302/m.m3u8",
@@ -538,14 +538,14 @@
         "network": "TEN",
         "stream_type": "DEFAULT",
         "audio": {
-            "codec": "aac",
             "channels": 2,
+            "codec": "aac",
             "sample_rate": 44100
         },
         "video": {
-            "codec": "h264",
             "width": 1024,
-            "height": 576
+            "height": 576,
+            "codec": "h264"
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101406030635/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101406030635.m3u8",
