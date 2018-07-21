@@ -12551,15 +12551,15 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180724150000 +0000" stop="20180724153000 +0000">
-    <title>Say Yes to the Dress Atlanta</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200424" start="20180724150000 +0000" stop="20180724153000 +0000">
     <title>House Hunters International</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200424" start="20180724150000 +0000" stop="20180724153000 +0000">
+    <title>Say Yes to the Dress Atlanta</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180724153000 +0000" stop="20180724155900 +0000">
@@ -20737,16 +20737,16 @@
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20180725055900 +0000" stop="20180725065900 +0000">
+    <title>The Indian Doctor</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050552" start="20180725055900 +0000" stop="20180725065900 +0000">
     <title>Auction Squad</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305050552" start="20180725055900 +0000" stop="20180725065900 +0000">
-    <title>The Indian Doctor</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20180725065900 +0000" stop="20180725073000 +0000">
@@ -23099,21 +23099,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180721203000 +0000" stop="20180721210100 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180721203000 +0000" stop="20180721210100 +0000">
-    <title>It's Academic</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305050555" start="20180721210100 +0000" stop="20180721213300 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -23121,6 +23114,13 @@
   </programme>
   <programme channel="tv.101305050555" start="20180721210100 +0000" stop="20180721213300 +0000">
     <title>ZooMoo Lost</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050555" start="20180721210100 +0000" stop="20180721213300 +0000">
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -23748,14 +23748,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180724203000 +0000" stop="20180724210100 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180724203000 +0000" stop="20180724210100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -23978,14 +23978,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180725203000 +0000" stop="20180725210100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180725203000 +0000" stop="20180725210100 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -24210,14 +24210,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180726210100 +0000" stop="20180726213300 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180726210100 +0000" stop="20180726213300 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -37552,11 +37552,6 @@
     <rating system="Freeview">
       <value>M</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180721023315 +0000" stop="20180721040127 +0000">
-    <title>Bella Vita</title>
-    <desc>The waves of the Italian coast call surfer Chris Del Moro on a pilgrimage back to his ancestral homeland.</desc>
-    <sub-title>The History of Italian Surf</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180721040127 +0000" stop="20180721042204 +0000">
     <title>Next in Line</title>
