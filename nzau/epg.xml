@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180721213445 +0000" stop="20180721230556 +0000">
-    <title>On Any Sunday: The Next Chapter</title>
-    <desc>This sequel to the classic 1971 documentary On Any Sunday captures the passion for motorcycle riding.</desc>
-    <sub-title>Motorcycles and Those Who Ride</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180721230556 +0000" stop="20180721234544 +0000">
-    <title>MADE Chapter Two</title>
-    <desc>The second chapter is here with more incredible action. See one of the most legendary teams in skateboarding.</desc>
-    <sub-title>A Passion for Skateboarding</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180721234544 +0000" stop="20180722003856 +0000">
     <title>Archaic Festivals S1E6</title>
     <desc>Descendants of Easter Island's native tribes hold an ancient competition of strength, endurance, and bravery.</desc>
@@ -57189,10 +57179,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180726053200 +0000" stop="20180726063000 +0000">
-    <title>The Indian Doctor</title>
+  <programme channel="tv.101305020522" start="20180726053200 +0000" stop="20180726063100 +0000">
+    <title>Auction Squad</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180726063000 +0000" stop="20180726070100 +0000">
@@ -59235,14 +59226,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180721200000 +0000" stop="20180721203100 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180721203100 +0000" stop="20180721210300 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -59842,7 +59833,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180724200000 +0000" stop="20180724203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
