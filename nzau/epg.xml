@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180722075956 +0000" stop="20180722085345 +0000">
-    <title>Moto 7: The Movie</title>
-    <desc>Top riders from every moto discipline come together in a film that rewrites the moto playbook.</desc>
-    <sub-title>Rewriting the Moto Playbook</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180722085345 +0000" stop="20180722090036 +0000">
-    <title>WESS 2018 Season Preview</title>
-    <desc>Take a look ahead to the forthcoming World Enduro Super Series, which will find the ultimate Enduro champion.</desc>
-    <sub-title>World Enduro Super Series Season Preview</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180722090036 +0000" stop="20180722103340 +0000">
     <title>Blood Road</title>
     <desc>Rebecca Rusch rides 1,930km along the infamous Ho Chi Minh Trail through the dense jungles of Vietnam.</desc>
@@ -50746,7 +50736,7 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180724093000 +0000" stop="20180724103000 +0000">
-    <title>Say Yes to the Dress Atlanta</title>
+    <title>Five Day Flip</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -50788,9 +50778,9 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180724150000 +0000" stop="20180724153000 +0000">
-    <title>House Hunters International</title>
+    <title>Say Yes to the Dress Atlanta</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180724153000 +0000" stop="20180724155900 +0000">
@@ -56926,9 +56916,10 @@
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180725052900 +0000" stop="20180725062900 +0000">
-    <title>The Indian Doctor</title>
+    <title>Auction Squad</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180725062900 +0000" stop="20180725070000 +0000">
@@ -57130,10 +57121,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180726053200 +0000" stop="20180726063000 +0000">
-    <title>The Indian Doctor</title>
+  <programme channel="tv.101305020522" start="20180726053200 +0000" stop="20180726063100 +0000">
+    <title>Auction Squad</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180726063000 +0000" stop="20180726070100 +0000">
@@ -59553,7 +59545,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180723203100 +0000" stop="20180723210300 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -59783,14 +59775,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180724200000 +0000" stop="20180724203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180724203100 +0000" stop="20180724210300 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -60387,11 +60379,8 @@
     <subtitles type="teletext"/>
   </programme>
   <programme channel="tv.101305020525" start="20180727203100 +0000" stop="20180727210300 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180727210300 +0000" stop="20180727213200 +0000">
     <title>Randy Cunningham: 9th Grade Ninja</title>
