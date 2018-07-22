@@ -280,21 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180722061751 +0000" stop="20180722071219 +0000">
-    <title>Claim Freedom</title>
-    <desc>Four adventurers push themselves physically, mentally, and spiritually to conquer what once seemed impossible.</desc>
-    <sub-title>Exploring the Far Reaches of Imagination</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180722071219 +0000" stop="20180722073756 +0000">
-    <title>Explorers: Adventures of the Century S3E2</title>
-    <desc>Kayaker Steve Fisher sets out to run the biggest rapids in the world: the Inga Rapids of the Congo River.</desc>
-    <sub-title>Braving the Inga Rapids</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180722073756 +0000" stop="20180722075956 +0000">
-    <title>Liquid Science S1E3</title>
-    <desc>Host GZA explores virtual reality at universities in California, United States.</desc>
-    <sub-title>Virtual Reality</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180722075956 +0000" stop="20180722085345 +0000">
     <title>Moto 7: The Movie</title>
     <desc>Top riders from every moto discipline come together in a film that rewrites the moto playbook.</desc>
@@ -865,7 +850,7 @@
     <desc>The chasing for a dream is fraught with failure, but those who achieve greatness approach failure differently.</desc>
     <sub-title>The Resilient</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20180725072102 +0000" stop="20180725081102 +0000">
+  <programme channel="tv.redbull.tv" start="20180725072102 +0000" stop="20180725081319 +0000">
     <title/>
     <desc/>
     <sub-title>(WT) Recap Program (Dirty)</sub-title>
@@ -38690,7 +38675,7 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180722020000 +0000" stop="20180722023000 +0000">
-    <title>ABC News Weekend</title>
+    <title>ABC News</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -50761,7 +50746,7 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180724093000 +0000" stop="20180724103000 +0000">
-    <title>Five Day Flip</title>
+    <title>Say Yes to the Dress Atlanta</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -50826,10 +50811,10 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20180724170000 +0000" stop="20180724180000 +0000">
-    <title>Texas Flip N' Move</title>
+  <programme channel="tv.101204200424" start="20180724170000 +0000" stop="20180724175900 +0000">
+    <title>Good Bones</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180724175900 +0000" stop="20180724182800 +0000">
@@ -57145,11 +57130,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180726053200 +0000" stop="20180726063100 +0000">
-    <title>Auction Squad</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020522" start="20180726053200 +0000" stop="20180726063000 +0000">
+    <title>The Indian Doctor</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180726063000 +0000" stop="20180726070100 +0000">
@@ -59192,14 +59176,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180721200000 +0000" stop="20180721203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180721203100 +0000" stop="20180721210300 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -59562,7 +59546,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180723200000 +0000" stop="20180723203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -59799,14 +59783,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180724200000 +0000" stop="20180724203100 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180724203100 +0000" stop="20180724210300 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -60015,7 +59999,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180725200000 +0000" stop="20180725203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -60403,8 +60387,11 @@
     <subtitles type="teletext"/>
   </programme>
   <programme channel="tv.101305020525" start="20180727203100 +0000" stop="20180727210300 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180727210300 +0000" stop="20180727213200 +0000">
     <title>Randy Cunningham: 9th Grade Ninja</title>
