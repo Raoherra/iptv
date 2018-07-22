@@ -293,9 +293,9 @@
         "stream_type": "DEFAULT",
         "name": "Curtin Radio",
         "audio": {
-            "channels": 1,
             "sample_rate": 44100,
-            "codec": "mp3"
+            "codec": "mp3",
+            "channels": 1
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Darwin/radio.curtin.radio/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Darwin/radio.curtin.radio",
@@ -336,9 +336,9 @@
             "Holiday"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Darwin/radio.ih.6440/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Darwin/radio.ih.6440",

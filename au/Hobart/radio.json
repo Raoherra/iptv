@@ -10,9 +10,9 @@
             "Public Radio"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7123/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7123",
@@ -34,9 +34,9 @@
             "Public Radio"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7118/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7118",
@@ -58,9 +58,9 @@
             "Public Radio"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7125/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7125",
@@ -82,9 +82,9 @@
             "Sports"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7112/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7112",
@@ -106,9 +106,9 @@
             "Public Radio"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7124/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7124",
@@ -130,9 +130,9 @@
             "News & Talk"
         ],
         "audio": {
-            "channels": 1,
             "sample_rate": 48000,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 1
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7110/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7110",
@@ -154,9 +154,9 @@
             "Public Radio"
         ],
         "audio": {
-            "channels": 1,
             "sample_rate": 48000,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 1
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7143/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7143",
@@ -178,9 +178,9 @@
             "News & Talk"
         ],
         "audio": {
-            "channels": 1,
             "sample_rate": 48000,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 1
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7131/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7131",
@@ -202,9 +202,9 @@
             "Metal"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7421/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7421",
@@ -226,9 +226,9 @@
             "Top 40 & Pop"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6995/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6995",
@@ -250,9 +250,9 @@
             "Reggae & Island"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "mp3"
+            "codec": "mp3",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7308/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7308",
@@ -274,9 +274,9 @@
             "80s & 90s Hits"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6178/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6178",
@@ -293,9 +293,9 @@
         "stream_type": "DEFAULT",
         "name": "Curtin Radio",
         "audio": {
-            "channels": 1,
             "sample_rate": 44100,
-            "codec": "mp3"
+            "codec": "mp3",
+            "channels": 1
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.curtin.radio/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.curtin.radio",
@@ -312,9 +312,9 @@
         "stream_type": "DEFAULT",
         "description": "It's the best music from your past, present and future.",
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.double.j/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.double.j",
@@ -336,9 +336,9 @@
             "Holiday"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6440/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6440",
@@ -360,9 +360,9 @@
             "Mexico"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7260/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7260.aac",
@@ -384,9 +384,9 @@
             "Pride"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 32000,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7547/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7547",
@@ -408,9 +408,9 @@
             "Top 40 & Pop"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7890/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7890",
@@ -477,9 +477,9 @@
             "Top 40 & Pop"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6898/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6898",
@@ -500,9 +500,9 @@
             "Kids & Family"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6970/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6970",
@@ -524,9 +524,9 @@
             "News & Talk"
         ],
         "audio": {
-            "channels": 1,
             "sample_rate": 48000,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 1
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7111/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7111",
@@ -548,9 +548,9 @@
             "Classic Rock"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7415/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7415",
@@ -572,9 +572,9 @@
             "News & Talk"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7030/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7030",
@@ -596,9 +596,9 @@
             "World"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7029/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7029",
@@ -620,9 +620,9 @@
             "World"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7028/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7028",
@@ -644,9 +644,9 @@
             "World"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7031/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7031",
@@ -692,9 +692,9 @@
             "News & Talk"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7025/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7025",
@@ -716,9 +716,9 @@
             "News & Talk"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7026/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7026",
@@ -740,9 +740,9 @@
             "Pride"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7293/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7293",
@@ -764,9 +764,9 @@
             "80s & 90s Hits"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6794/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6794",
@@ -788,9 +788,9 @@
             "80s & 90s Hits"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6793/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6793",
@@ -812,9 +812,9 @@
             "Hip Hop and R&B"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6180/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6180",
@@ -836,9 +836,9 @@
             "Metal"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7419/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7419",
@@ -860,9 +860,9 @@
             "80s & 90s Hits"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7050/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7050",
@@ -884,9 +884,9 @@
             "Blues"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7222/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7222",
@@ -908,9 +908,9 @@
             "Top 40 & Pop"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6902/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6902",
@@ -932,9 +932,9 @@
             "Dance"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6941/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6941",
@@ -956,9 +956,9 @@
             "R&B"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6996/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6996",
@@ -980,9 +980,9 @@
             "Mix & Variety"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 44100,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7075/m",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7075",
@@ -1004,9 +1004,9 @@
             "Alternative"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7115/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7115",
@@ -1028,9 +1028,9 @@
             "Alternative"
         ],
         "audio": {
-            "channels": 2,
             "sample_rate": 48000,
-            "codec": "aac"
+            "codec": "aac",
+            "channels": 2
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7116/m.pls",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7116",

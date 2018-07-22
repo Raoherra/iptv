@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180722052532 +0000" stop="20180722061751 +0000">
-    <title>Sébastien Loeb: Off Roads</title>
-    <desc>Sébastien Loeb and co-driver Daniel Elena made WRC history. In 2016 they took on a new challenge: Dakar.</desc>
-    <sub-title>The WRC's best take on the Dakar</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180722061751 +0000" stop="20180722071219 +0000">
     <title>Claim Freedom</title>
     <desc>Four adventurers push themselves physically, mentally, and spiritually to conquer what once seemed impossible.</desc>
@@ -6419,6 +6414,9 @@
   <programme channel="tv.12" start="20180727073000 +0000" stop="20180727083000 +0000">
     <title>Find My First Love</title>
     <desc>While studying abroad in France, New Yorker, Alicia, fell in love with Benjamin, a handsome French classmate. Eight years later, she can't get their love affair out of her head.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180727083000 +0000" stop="20180727104300 +0000">
     <title>Maid In Manhattan</title>
@@ -6437,6 +6435,9 @@
   <programme channel="tv.12" start="20180727104500 +0000" stop="20180727114000 +0000">
     <title>Snapped</title>
     <desc>When a high roller is found stabbed to death in his luxury condo, police find what happens in Vegas doesn't always stay there.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180727114000 +0000" stop="20180727123000 +0000">
     <title>Killing Season</title>
@@ -13315,6 +13316,9 @@
   <programme channel="tv.30" start="20180727083000 +0000" stop="20180727093000 +0000">
     <title>Find My First Love</title>
     <desc>While studying abroad in France, New Yorker, Alicia, fell in love with Benjamin, a handsome French classmate. Eight years later, she can't get their love affair out of her head.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180727093000 +0000" stop="20180727114300 +0000">
     <title>Maid In Manhattan</title>
@@ -13333,6 +13337,9 @@
   <programme channel="tv.30" start="20180727114500 +0000" stop="20180727124000 +0000">
     <title>Snapped</title>
     <desc>When a high roller is found stabbed to death in his luxury condo, police find what happens in Vegas doesn't always stay there.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180727124000 +0000" stop="20180727133000 +0000">
     <title>Killing Season</title>
@@ -50754,7 +50761,7 @@
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180724093000 +0000" stop="20180724103000 +0000">
-    <title>Say Yes to the Dress Atlanta</title>
+    <title>Five Day Flip</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -50819,10 +50826,10 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20180724170000 +0000" stop="20180724175900 +0000">
-    <title>Good Bones</title>
+  <programme channel="tv.101204200424" start="20180724170000 +0000" stop="20180724180000 +0000">
+    <title>Texas Flip N' Move</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180724175900 +0000" stop="20180724182800 +0000">
@@ -57138,10 +57145,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180726053200 +0000" stop="20180726063000 +0000">
-    <title>The Indian Doctor</title>
+  <programme channel="tv.101305020522" start="20180726053200 +0000" stop="20180726063100 +0000">
+    <title>Auction Squad</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180726063000 +0000" stop="20180726070100 +0000">
@@ -59359,7 +59367,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180722200000 +0000" stop="20180722203100 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -59554,7 +59562,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180723200000 +0000" stop="20180723203100 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -59791,14 +59799,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180724200000 +0000" stop="20180724203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180724203100 +0000" stop="20180724210300 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -60014,7 +60022,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180725203100 +0000" stop="20180725210300 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -60211,14 +60219,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180726200000 +0000" stop="20180726203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180726203100 +0000" stop="20180726210300 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -60391,11 +60399,8 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180727200000 +0000" stop="20180727203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180727203100 +0000" stop="20180727210300 +0000">
     <title>ZooMoo Lost</title>

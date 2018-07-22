@@ -161,11 +161,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180722052532 +0000" stop="20180722061751 +0000">
-    <title>Sébastien Loeb: Off Roads</title>
-    <desc>Sébastien Loeb and co-driver Daniel Elena made WRC history. In 2016 they took on a new challenge: Dakar.</desc>
-    <sub-title>The WRC's best take on the Dakar</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180722061751 +0000" stop="20180722071219 +0000">
     <title>Claim Freedom</title>
     <desc>Four adventurers push themselves physically, mentally, and spiritually to conquer what once seemed impossible.</desc>
@@ -6300,6 +6295,9 @@
   <programme channel="tv.12" start="20180727073000 +0000" stop="20180727083000 +0000">
     <title>Find My First Love</title>
     <desc>While studying abroad in France, New Yorker, Alicia, fell in love with Benjamin, a handsome French classmate. Eight years later, she can't get their love affair out of her head.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180727083000 +0000" stop="20180727104300 +0000">
     <title>Maid In Manhattan</title>
@@ -6318,6 +6316,9 @@
   <programme channel="tv.12" start="20180727104500 +0000" stop="20180727114000 +0000">
     <title>Snapped</title>
     <desc>When a high roller is found stabbed to death in his luxury condo, police find what happens in Vegas doesn't always stay there.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180727114000 +0000" stop="20180727123000 +0000">
     <title>Killing Season</title>
@@ -13196,6 +13197,9 @@
   <programme channel="tv.30" start="20180727083000 +0000" stop="20180727093000 +0000">
     <title>Find My First Love</title>
     <desc>While studying abroad in France, New Yorker, Alicia, fell in love with Benjamin, a handsome French classmate. Eight years later, she can't get their love affair out of her head.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180727093000 +0000" stop="20180727114300 +0000">
     <title>Maid In Manhattan</title>
@@ -13214,6 +13218,9 @@
   <programme channel="tv.30" start="20180727114500 +0000" stop="20180727124000 +0000">
     <title>Snapped</title>
     <desc>When a high roller is found stabbed to death in his luxury condo, police find what happens in Vegas doesn't always stay there.</desc>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180727124000 +0000" stop="20180727133000 +0000">
     <title>Killing Season</title>
