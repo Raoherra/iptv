@@ -142,9 +142,9 @@
             "width": 1280
         },
         "audio": {
+            "channels": 2,
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300433/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300433.m3u8",
@@ -272,9 +272,9 @@
             "width": 1280
         },
         "audio": {
+            "channels": 2,
             "codec": "aac",
-            "sample_rate": 48000,
-            "channels": 2
+            "sample_rate": 48000
         },
         "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300430/m.m3u8",
         "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300430.m3u8",
