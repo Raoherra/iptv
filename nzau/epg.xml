@@ -280,16 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180722194523 +0000" stop="20180722201012 +0000">
-    <title>After the Raves S1E4</title>
-    <desc>DJ Tommie Sunshine stops in Las Vegas to visit the Hakkasan Group, Muslim sisters Krewella, and DJ Jayceeoh.</desc>
-    <sub-title>Las Vegas: The Main Stage of EDM</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180722201012 +0000" stop="20180722201416 +0000">
-    <title>Itch</title>
-    <desc>Itch raps an ode to counterculture in a song featuring Adam Lazzara of Taking Back Sunday.</desc>
-    <sub-title>Homeless Romantic: Music Video</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180722201416 +0000" stop="20180722211135 +0000">
     <title>Propeller</title>
     <desc>The first team video from the legendary company brings together generations of next-level skateboarding.</desc>
@@ -56513,9 +56503,10 @@
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180725052900 +0000" stop="20180725062900 +0000">
-    <title>The Indian Doctor</title>
+    <title>Auction Squad</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180725062900 +0000" stop="20180725070000 +0000">
@@ -56717,11 +56708,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180726053200 +0000" stop="20180726063100 +0000">
-    <title>Auction Squad</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020522" start="20180726053200 +0000" stop="20180726063000 +0000">
+    <title>The Indian Doctor</title>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180726063000 +0000" stop="20180726070100 +0000">
@@ -59198,14 +59188,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180723200000 +0000" stop="20180723203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180723203100 +0000" stop="20180723210300 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -59435,14 +59425,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180724200000 +0000" stop="20180724203100 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180724203100 +0000" stop="20180724210300 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -59658,7 +59648,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180725203100 +0000" stop="20180725210300 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -59862,7 +59852,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180726203100 +0000" stop="20180726210300 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
