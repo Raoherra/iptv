@@ -280,11 +280,6 @@
     <display-name>SonLife International</display-name>
     <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
   </channel>
-  <programme channel="tv.redbull.tv" start="20180722184527 +0000" stop="20180722194523 +0000">
-    <title>Paradigm Lost</title>
-    <desc>An in-depth look at the life of one of the world's most complete watermen, Kai Lenny. </desc>
-    <sub-title>Featuring waterman Kai Lenny</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20180722194523 +0000" stop="20180722201012 +0000">
     <title>After the Raves S1E4</title>
     <desc>DJ Tommie Sunshine stops in Las Vegas to visit the Hakkasan Group, Muslim sisters Krewella, and DJ Jayceeoh.</desc>
@@ -56722,10 +56717,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180726053200 +0000" stop="20180726063000 +0000">
-    <title>The Indian Doctor</title>
+  <programme channel="tv.101305020522" start="20180726053200 +0000" stop="20180726063100 +0000">
+    <title>Auction Squad</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180726063000 +0000" stop="20180726070100 +0000">
@@ -59202,7 +59198,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180723200000 +0000" stop="20180723203100 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -60043,11 +60039,8 @@
     <subtitles type="teletext"/>
   </programme>
   <programme channel="tv.101305020525" start="20180727203100 +0000" stop="20180727210300 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180727210300 +0000" stop="20180727213200 +0000">
     <title>Randy Cunningham: 9th Grade Ninja</title>
