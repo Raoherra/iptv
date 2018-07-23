@@ -11171,6 +11171,7 @@
   </programme>
   <programme channel="tv.101204200421" start="20180726143000 +0000" stop="20180726153000 +0000">
     <title>World Surf League</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -12189,16 +12190,16 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20180724170000 +0000" stop="20180724180000 +0000">
-    <title>Texas Flip N' Move</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200424" start="20180724170000 +0000" stop="20180724175900 +0000">
     <title>Good Bones</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200424" start="20180724170000 +0000" stop="20180724180000 +0000">
+    <title>Texas Flip N' Move</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20180724175900 +0000" stop="20180724182800 +0000">
@@ -20831,41 +20832,41 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20180727033000 +0000" stop="20180727042900 +0000">
+  <programme channel="tv.101305050552" start="20180727033000 +0000" stop="20180727042800 +0000">
     <title>Better Homes and Gardens</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20180727042900 +0000" stop="20180727045800 +0000">
+  <programme channel="tv.101305050552" start="20180727042800 +0000" stop="20180727045800 +0000">
     <title>Million Dollar Minute</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20180727045800 +0000" stop="20180727052900 +0000">
+  <programme channel="tv.101305050552" start="20180727045800 +0000" stop="20180727052800 +0000">
     <title>Million Dollar Minute</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20180727052900 +0000" stop="20180727055900 +0000">
+  <programme channel="tv.101305050552" start="20180727052800 +0000" stop="20180727055800 +0000">
     <title>Harry's Practice</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20180727055900 +0000" stop="20180727070200 +0000">
+  <programme channel="tv.101305050552" start="20180727055800 +0000" stop="20180727070100 +0000">
     <title>Australia's Amazing Homes</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20180727070200 +0000" stop="20180727073100 +0000">
+  <programme channel="tv.101305050552" start="20180727070100 +0000" stop="20180727073100 +0000">
     <title>RSPCA Animal Rescue</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -20897,13 +20898,13 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20180727120500 +0000" stop="20180727130400 +0000">
+  <programme channel="tv.101305050552" start="20180727120500 +0000" stop="20180727130300 +0000">
     <title>60 Minute Makeover</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20180727130400 +0000" stop="20180727140400 +0000">
+  <programme channel="tv.101305050552" start="20180727130300 +0000" stop="20180727140400 +0000">
     <title>Building The Dream</title>
     <rating system="Freeview">
       <value>G</value>
@@ -23242,21 +23243,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180723203000 +0000" stop="20180723210100 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180723203000 +0000" stop="20180723210100 +0000">
-    <title>It's Academic</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305050555" start="20180723210100 +0000" stop="20180723213300 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -23264,6 +23258,13 @@
   </programme>
   <programme channel="tv.101305050555" start="20180723210100 +0000" stop="20180723213300 +0000">
     <title>ZooMoo Lost</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050555" start="20180723210100 +0000" stop="20180723213300 +0000">
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -23737,14 +23738,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180725210100 +0000" stop="20180725213300 +0000">
-    <title>It's Academic</title>
+    <title>ZooMoo Lost</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180725210100 +0000" stop="20180725213300 +0000">
-    <title>ZooMoo Lost</title>
+    <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -24135,15 +24136,15 @@
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180727203000 +0000" stop="20180727210100 +0000">
+    <title>ZooMoo Lost</title>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme channel="tv.101305050555" start="20180727203000 +0000" stop="20180727210100 +0000">
     <title>It's Academic</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
-  </programme>
-  <programme channel="tv.101305050555" start="20180727203000 +0000" stop="20180727210100 +0000">
-    <title>ZooMoo Lost</title>
-    <subtitles type="teletext"/>
   </programme>
   <programme channel="tv.101305050555" start="20180727210100 +0000" stop="20180727213300 +0000">
     <title>ZooMoo Lost</title>
@@ -37611,16 +37612,6 @@
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180723005915 +0000" stop="20180723015253 +0000">
-    <title>Moto 7: The Movie</title>
-    <desc>Top riders from every moto discipline come together in a film that rewrites the moto playbook.</desc>
-    <sub-title>Rewriting the Moto Playbook</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20180723015253 +0000" stop="20180723015944 +0000">
-    <title>WESS 2018 Season Preview</title>
-    <desc>Take a look ahead to the forthcoming World Enduro Super Series, which will find the ultimate Enduro champion.</desc>
-    <sub-title>World Enduro Super Series Season Preview</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20180723015944 +0000" stop="20180723033257 +0000">
     <title>Blood Road</title>
